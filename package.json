@@ -1,0 +1,25 @@
+{
+  "name": "newrss",
+  "version": "1.0.0",
+  "description": "A news aggregator powered by ai to build custom rss feeds.",
+  "repository": "https://github.com/iMahir/newrss",
+  "main": "build/index.js",
+  "scripts": {
+    "start": "npm run build && node .",
+    "build": "tsc",
+    "dev": "tsc && npm run start"
+  },
+  "author": "github.com/iMahir",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.1",
+    "bing-sydney-ai": "^1.0.1",
+    "rss": "^1.2.2",
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "@types/rss": "^0.0.32",
+    "typescript": "^5.4.5"
+  }
+}
