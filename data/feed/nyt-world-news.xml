@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 25 Jun 2024 04:29:16 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Jun 2024 04:01:23 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Jun 2024 04:46:50 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Jun 2024 04:46:23 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -104,7 +104,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/06/24/world/israel-gaza-war-hamas" rel="standout"></atom:link>
       <description>Israel’s prime minister said the “intense stage” of the war in the Gaza Strip was about to end. That would allow Israel to move some forces toward Lebanon, and a separate conflict.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 25 Jun 2024 03:08:40 +0000</pubDate>
+      <pubDate>Tue, 25 Jun 2024 04:45:32 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/06/24/multimedia/24mideast-crisis-promo-440p-pjkw/24mideast-crisis-promo-440p-pjkw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Omar Al-Qattaa/Agence France-Presse — Getty Images</media:credit>
     </item>
@@ -284,6 +284,18 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/06/24/multimedia/24xp-toomaj-wqgf/24xp-toomaj-wqgf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ebrahim Noroozi/Associated Press</media:credit>
       <media:description>Demonstrators at a rally in Berlin in April condemning the death sentence for Toomaj Salehi and supporting women in Iran.</media:description>
+    </item>
+    <item>
+      <title>Tuesday Briefing</title>
+      <link>https://www.nytimes.com/2024/06/25/briefing/russia-terror-attack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/06/25/briefing/russia-terror-attack.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/06/25/briefing/russia-terror-attack.html" rel="standout"></atom:link>
+      <description>An attack in Dagestan rekindled Russian fears of terrorism.</description>
+      <dc:creator>Daniel E. Slotnik</dc:creator>
+      <pubDate>Tue, 25 Jun 2024 04:32:23 +0000</pubDate>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/06/24/multimedia/25ambriefing-europe-nl-russia/24russia-attack-01-bqhf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>The National Antiterrorism Committee, via Associated Press</media:credit>
+      <media:description>A still from a video released by the Russian government said to show damage from the attacks in Dagestan.</media:description>
     </item>
     <item>
       <title>2 Russian Women Put on a Play. Then the State Came for Them.</title>
@@ -1186,27 +1198,6 @@
       <pubDate>Fri, 21 Jun 2024 14:28:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airships</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-    </item>
-    <item>
-      <title>A Chemical-Sniffing Van Shows How Heat Amps Up Pollution</title>
-      <link>https://www.nytimes.com/2024/06/21/climate/heat-wave-air-pollution-chemicals.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/06/21/climate/heat-wave-air-pollution-chemicals.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/06/21/climate/heat-wave-air-pollution-chemicals.html" rel="standout"></atom:link>
-      <description>In heat waves, chemicals like formaldehyde and ozone can form more readily in the air, according to researchers driving mobile labs in New York City this week.</description>
-      <dc:creator>Hiroko Tabuchi</dc:creator>
-      <pubDate>Fri, 21 Jun 2024 14:44:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ozone</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/06/21/multimedia/21CLI-HEAT-AIR-POLLUTION-01-fmcz/21CLI-HEAT-AIR-POLLUTION-01-fmcz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Blacki Migliozzi/The New York Times</media:credit>
-      <media:description>Mobile labs that measure airborne pollutants drove around New York City and New Jersey during the recent heat wave. </media:description>
     </item>
   </channel>
 </rss>
