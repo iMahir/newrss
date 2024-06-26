@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>The Verge -  All Posts</title>
   <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
-  <updated>2024-06-26T15:16:35-04:00</updated>
+  <updated>2024-06-26T15:48:15-04:00</updated>
   <id>https://www.theverge.com/rss/full.xml</id>
   <link type="text/html" href="https://www.theverge.com/" rel="alternate"/>
+  <entry>
+    <published>2024-06-26T15:48:15-04:00</published>
+    <updated>2024-06-26T15:48:15-04:00</updated>
+    <title>A group of R1 jailbreakers found a massive security flaw in Rabbit’s code</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="A photo of the Rabbit R1." src="https://cdn.vox-cdn.com/thumbor/dpaqBuj5WNtB-gLFd9Ss5--KpBw=/0x0:6000x4000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73429677/Rabbit_R1_screen.0.jpeg" /&gt;
+        &lt;figcaption&gt;&lt;em&gt;Researchers say Rabbit left secure data vulnerable to bad actors.&lt;/em&gt; | Photo: David Pierce / The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="YGdDzl"&gt;Rabbit and its R1 AI gadget are under fire again, and it’s much more serious than the time we found out &lt;a href="https://www.theverge.com/2024/4/30/24145838/rabbit-r1-android-app-pixel-6a"&gt;its launcher really could just be installed as an Android app&lt;/a&gt;. A group of developers and researchers called &lt;a href="https://rabbitu.de/"&gt;Rabbitude&lt;/a&gt; says it &lt;a href="https://rabbitu.de/articles/security-disclosure-1"&gt;discovered API keys&lt;/a&gt; hardcoded in the company’s codebase, putting sensitive information at risk of falling into the wrong hands. &lt;/p&gt;
+&lt;p id="0DQBDY"&gt;These keys essentially provided access to Rabbit’s accounts with third-party services like its text-to-speech provider ElevenLabs and — &lt;a href="https://www.404media.co/researchers-prove-rabbit-ai-breach-by-sending-email-to-us-as-admin/"&gt;as confirmed by &lt;em&gt;404 Media&lt;/em&gt;&lt;/a&gt;&lt;em&gt; &lt;/em&gt;— the company’s SendGrid account, which is how it sends emails from its rabbit.tech domain. According to Rabbitude, its access to these API keys — particularly the ElevenLabs API — meant it could access every response ever...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2024/6/26/24186614/rabbit-r1-security-flaw-api-key-codebase"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/6/26/24186614/rabbit-r1-security-flaw-api-key-codebase"/>
+    <id>https://www.theverge.com/2024/6/26/24186614/rabbit-r1-security-flaw-api-key-codebase</id>
+    <author>
+      <name>Allison Johnson</name>
+    </author>
+  </entry>
   <entry>
     <published>2024-06-26T15:16:35-04:00</published>
     <updated>2024-06-26T15:16:35-04:00</updated>
@@ -234,36 +258,6 @@
 </content>
     <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/6/26/24185774/olympics-ai-al-michaels-voice-recaps"/>
     <id>https://www.theverge.com/2024/6/26/24185774/olympics-ai-al-michaels-voice-recaps</id>
-    <author>
-      <name>Jay Peters</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-06-26T12:15:00-04:00</published>
-    <updated>2024-06-26T12:15:00-04:00</updated>
-    <title>Figma announces big redesign with AI</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="A screenshot demonstrating Figma’s new AI tool." src="https://cdn.vox-cdn.com/thumbor/dmJYJRrMZq0npiGA3NV2PqiM41Q=/300x0:3540x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73429122/_External__Figma_AI.0.png" /&gt;
-        &lt;figcaption&gt;Image: Figma&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="qOqPK3"&gt;Figma is announcing a bunch of new features at its Config conference today, including a major UI redesign, new generative AI tools to help people more easily make projects, and built-in slideshow functionality. &lt;/p&gt;
-&lt;p id="08GmQZ"&gt;Let’s start with the redesign, which is intended to “lay the foundation for the next decade,” &lt;a href="https://www.figma.com/blog/behind-our-redesign-ui3/"&gt;according to a blog post&lt;/a&gt;. You’ll see things like a new toolbar, rounded corners, and 200 new icons. As part of the design refresh, the company wants to “focus the canvas less on our UI and more on your work” and make something that’s approachable to new users while still being useful to Figma experts.&lt;/p&gt;
-  &lt;figure class="e-image"&gt;
-        
-      &lt;cite&gt;Image: Figma&lt;/cite&gt;
-      &lt;figcaption&gt;&lt;em&gt;Figma’s “UI3.”&lt;/em&gt;&lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;p id="dKGu6F"&gt;Figma says this is the company’s third “significant redesign” since Figma’s closed...&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2024/6/26/24183730/figma-ai-tools-app-redesign-slides"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/6/26/24183730/figma-ai-tools-app-redesign-slides"/>
-    <id>https://www.theverge.com/2024/6/26/24183730/figma-ai-tools-app-redesign-slides</id>
     <author>
       <name>Jay Peters</name>
     </author>
