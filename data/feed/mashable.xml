@@ -5,11 +5,26 @@
     <title>Mashable</title>
     <link>https://mashable.com/feeds/rss/all</link>
     <description>Mashable is a global, multi-platform media and entertainment company.</description>
-    <pubDate>Thu, 27 Jun 2024 15:48:59 +0000</pubDate>
+    <pubDate>Thu, 27 Jun 2024 16:19:01 +0000</pubDate>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Jun 2024 15:48:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 16:19:01 +0000</lastBuildDate>
     <copyright>©2024 Mashable, Inc. All Rights Reserved.</copyright>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Rabbit R1 has a major security flaw in its code]]></title>
+      <link>https://mashable.com/article/rabbit-r1-major-security-flaw-in-its-code</link>
+      <guid isPermaLink="false">05bSlJzn49JiF1y4Suq4Xgw</guid>
+      <pubDate>Thu, 27 Jun 2024 15:50:01 +0000</pubDate>
+      <description><![CDATA[Research group Rabbitude discovered a security flaw in the Rabbit R1's code that allowed alarming access to user data.]]></description>
+      <content:encoded><![CDATA[<img src="https://helios-i.mashable.com/imagery/articles/05bSlJzn49JiF1y4Suq4Xgw/hero-image.jpg" alt="woman's hands holding up the Rabbit R1 gadget"><p>"All [Rabbit] R1 responses ever given can be downloaded," <a href="https://rabbitu.de/articles/security-disclosure-1" target="_blank">according</a> to an R1 research group called Rabbitude.</p><p>Rabbit and its R1 AI device has already been <a href="https://mashable.com/review/rabbit-r1" target="_self">dunked on</a> for being <a href="https://mashable.com/article/rabbit-r1-humane-ai-pin-teardown" target="_self">nothing more</a> than an <a href="https://www.theverge.com/2024/4/30/24145838/rabbit-r1-android-app-pixel-6a" target="_blank">Android app</a> wrapped up in a hardware gadget, but something much more alarming is afoot. </p><div class="mx-auto mt-8 w-full max-w-3xl font-sans text-lg leading-normal md:text-xl md:leading-7">
+        <span class="font-bold text-primary-400">SEE ALSO:</span>
+        <a href="https://mashable.com/article/rabbit-r1-vs-meta-ai" class="text-secondary-300">
+            I tested Rabbit R1 vs. Meta AI: The winning AI assistant will surprise you
+            <svg class="inline-block ml-1 w-4 h-4 font-normal fill-current"><use href="https://mashable.com/images/icons/spritemap.svg#sprite-arrow-right-thin"></use></svg>
+        </a>
+    </div>
+<p>The report (via <a href="https://www.theverge.com/2024/6/26/24186614/rabbit-r1-security-flaw-api-key-codebase" target="_blank">The Verge</a>) said Rabbitude gained access to the codebase and discovered API keys were hardwired into its code. That means anyone with these keys could "read every response every r1 has ever given, including ones containing personal information, brick all r1s, alter the responses of all r1s [and] replace every r1&rsquo;s voice." The investigation discovered that these API keys are what provided access to ElevenLabs and Azure for text-to-speech generation, Yelp for reviews, and Google Maps for location data. </p><p>What's worse, Rabbitude said it identified the security flaw on May 16 and that Rabbit was aware of the issue. But "the API keys continue to be valid as of writing," on June 25. Continued access to the API keys means bad actors could potentially access sensitive data, crash the entire rabbitOS system, and add custom text. </p><p>The following day (June 26) Rabbit issued a statement on its Discord server saying that the four API keys Rabbitude identified have been revoked. "As of right now, we are not aware of any customer data being leaked or any compromise to our systems," said the company. </p><p>But the plot thickens. Rabbitude <a href="https://rabbitu.de/articles/security-disclosure-2" target="_blank">also found</a> a fifth API key that was hardwired in the code, but not publicly disclosed in its investigation. This one is called sendgrid, which provides access to all emails to the r1.rabbit.tech subdomain. At the time Rabbitude published its follow-up report, the sendgrid API key was still active. Access to this API key meant Rabbitude could access additional user information within the R1's spreadsheet functions and even send emails from rabbit.tech email addresses. </p><p>If you were already skeptical of the R1's half-baked capabilities that Mashable Tech Editor Kimberly Gedeon blamed on "rushed innovation, disillusionment, and impetuousness" in her review, this might be your sign that Rabbit is at best, not worth the money, and at worst, incapable of keeping your data private. </p>]]></content:encoded>
+    </item>
     <item>
       <title><![CDATA[Just in time for Prime Day, Target's Circle Week is back July 7 through 13]]></title>
       <link>https://mashable.com/article/target-deals-prime-day-2024</link>
@@ -6368,124 +6383,6 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
     </a>
 </blockquote>
 <p>In the wake of the allegations, Beahm is now out from Midnight Society, a gaming studio he co-founded. </p><p>On Monday, the studio posted a <a href="https://x.com/12am/status/1805341504086622355" target="_blank">statement</a> on X:</p><blockquote><p>"On Friday evening we became aware of an allegation against one of our co-founder&rsquo;s Guy Beahm aka Dr Disrespect. </p><p>We assumed his innocence and began speaking with parties involved. And in order to maintain our principles and standards as a studio and individuals, we needed to act. </p><p>For this reason, we are terminating our relationship with Guy Beahm immediately. </p><p>While these facts are difficult to hear and even more difficult to accept, it is our duty to act with dignity on behalf of all individuals involved, especially the fifty-five developers and families we have employed along with our community of players." </p></blockquote><p>Gizmodo <a href="https://gizmodo.com/dr-disrespect-twitch-herschel-guy-beahm-streaming-1851557849" target="_blank">reported that</a>, during a stream on Monday evening, Beahm said he was taking a break from streaming because he was "burnt out."  </p>]]></content:encoded>
-    </item>
-    <item>
-      <title><![CDATA[Robot vacuum deals at Amazon already rock ahead of Prime Day]]></title>
-      <link>https://mashable.com/article/early-prime-day-robot-vacuum-deals-2024</link>
-      <guid isPermaLink="false">06GDudIxr7MNssa1pV8zoy7</guid>
-      <pubDate>Tue, 25 Jun 2024 16:21:37 +0000</pubDate>
-      <description><![CDATA[While Prime Day 2024 doesn't start until July 16, Amazon already has robot vacuums on sale. Get 50% off the Roomba j7 or Eufy X9 Pro.]]></description>
-      <content:encoded><![CDATA[<img src="https://helios-i.mashable.com/imagery/articles/06GDudIxr7MNssa1pV8zoy7/hero-image.png" alt="Eufy X9 Pro robot vacuum mopping hardwood floor with dock and family in background"><div class="flex flex-col mx-auto mt-6 mb-16 max-w-3xl font-sans md:mt-10 md:border-b-2 md:border-gray-100">
-    <div class="mb-1 text-xl font-bold">
-        Preview of the best robot vacuum deals at Amazon
-    </div>
-            <hr class="border border-gray-100 mx-auto !mt-0 !max-w-full">
-        <div class="py-6 md:flex md:justify-between md:items-stretch">
-            <div class="flex md:w-3/4">
-                <div class="pr-3 w-full md:order-2 md:ml-4 md:ml-8 md:w-3/4">
-                    <div class="text-sm font-bold uppercase">
-                        Best budget deal
-                    </div>
-                    <div class="mt-1 text-sm">
-                        <a data-ga-click data-ga-module="product-summary-list" data-ga-element="offer" data-ga-item="buy-link" class="mb-5 text-lg font-bold leading-tight hover:underline text-secondary-300" href="https://zdcs.link/KJ26n?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-link&element_label=iRobot%20Roomba%20j7&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=KJ26n&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" rel="sponsored" title="(opens in a new window)">
-                            iRobot Roomba j7
-                        </a>
-                        <div class="mt-1">
-                            <span class="font-bold md:text-base text-primary-400">299.99</span>
-                                                            <span class="text-primary-400">(599.99)</span>
-                                                    </div>
-                    </div>
-                </div>
-                <div class="my-auto w-1/4 md:order-1 md:w-1/5 md:max-h-36">
-                    <img class="my-auto mx-auto max-h-full" src="https://helios-i.mashable.com/imagery/articles/06GDudIxr7MNssa1pV8zoy7/images-2.fit_lim.size_137x133.v1719330699.jpg" alt="iRobot Roomba j7 robot vacuum and smartphone with green iRobot logo screensaver" width="137" height="133" loading="lazy">
-
-
-                </div>
-            </div>
-            <div class="mt-6 mb-2 w-full md:my-auto md:w-1/4">
-                <a class="w-full font-bold leading-6 text-center whitespace-nowrap hover:underline" href="https://zdcs.link/KJ26n?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=KJ26n&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="$text" data-ga-element="offer" data-ga-module="product-summary-list" data-ga-click rel="sponsored" title="(opens in a new window)">
-                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide overflow-ellipsis line-clamp-1 btn btn-secondary">
-                        Get Deal
-                    </button>
-                </a>
-            </div>
-        </div>
-            <hr class="border border-gray-100 mx-auto !mt-0 !max-w-full">
-        <div class="py-6 md:flex md:justify-between md:items-stretch">
-            <div class="flex md:w-3/4">
-                <div class="pr-3 w-full md:order-2 md:ml-4 md:ml-8 md:w-3/4">
-                    <div class="text-sm font-bold uppercase">
-                        Best self-emptying mopping deal
-                    </div>
-                    <div class="mt-1 text-sm">
-                        <a data-ga-click data-ga-module="product-summary-list" data-ga-element="offer" data-ga-item="buy-link" class="mb-5 text-lg font-bold leading-tight hover:underline text-secondary-300" href="https://zdcs.link/pgBxl?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-link&element_label=Eufy%20X9%20Pro&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=pgBxl&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" rel="sponsored" title="(opens in a new window)">
-                            Eufy X9 Pro
-                        </a>
-                        <div class="mt-1">
-                            <span class="font-bold md:text-base text-primary-400">$449.99</span>
-                                                            <span class="text-primary-400">(save $450 at Amazon with code X9PROEUFY)</span>
-                                                    </div>
-                    </div>
-                </div>
-                <div class="my-auto w-1/4 md:order-1 md:w-1/5 md:max-h-36">
-                    <img class="my-auto mx-auto max-h-full" src="https://helios-i.mashable.com/imagery/articles/06GDudIxr7MNssa1pV8zoy7/images-1.fit_lim.size_136x133.v1719330699.jpg" alt="Eufy X9 Pro robot vacuum on self-empty dock and smartphone with color-coded map on screen" width="136" height="133" loading="lazy">
-
-
-                </div>
-            </div>
-            <div class="mt-6 mb-2 w-full md:my-auto md:w-1/4">
-                <a class="w-full font-bold leading-6 text-center whitespace-nowrap hover:underline" href="https://zdcs.link/pgBxl?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=pgBxl&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="$text" data-ga-element="offer" data-ga-module="product-summary-list" data-ga-click rel="sponsored" title="(opens in a new window)">
-                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide overflow-ellipsis line-clamp-1 btn btn-secondary">
-                        Get Deal
-                    </button>
-                </a>
-            </div>
-        </div>
-    </div>
-<p>After Walmart could barely scrounge up a noteworthy robot vacuum deal for <a href="https://mashable.com/article/walmart-plus-week-robot-vacuum-deals" target="_self">Walmart+ Week</a>, we're banking on Amazon even harder to go off on robot vacuum deals for Prime Day.</p><p>We're in good hands, though. Overall, Amazon is already generally the best place to score a robot vacuum on sale at any point during the year, whether that's a shopping holiday or a random Tuesday in September when your current corded vacuum sends you over the edge. Despite <a href="https://media.irobot.com/2024-01-29-Amazon-and-iRobot-agree-to-terminate-pending-acquisition" target="_blank">ditching its plans to buy iRobot</a>, Amazon is still the best retailer to find a <a href="https://mashable.com/roundup/best-roombas" target="_self">Roomba</a> on sale, slashing Roomba prices by between 25% to 50% throughout the year. We're manifesting those same Roombas to reach new record-low pricing as Prime Day nears  &mdash; ideally, the <a href="https://zdcs.link/V05nx?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Roomba%20Combo%20j9%2B&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=V05nx&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Roomba Combo j9+</a> would drop below $800 or the <a href="https://zdcs.link/kn1NX?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Combo%20j5%2B&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=kn1NX&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Combo j5+</a> below $400.</p><div class="mx-auto mt-8 w-full max-w-3xl font-sans text-lg leading-normal md:text-xl md:leading-7">
-        <span class="font-bold text-primary-400">SEE ALSO:</span>
-        <a href="https://mashable.com/article/early-prime-day-tv-deals-2024" class="text-secondary-300">
-            Amazon TV deals ahead of Prime Day are actually pretty good
-            <svg class="inline-block ml-1 w-4 h-4 font-normal fill-current"><use href="https://mashable.com/images/icons/spritemap.svg#sprite-arrow-right-thin"></use></svg>
-        </a>
-    </div>
-<p>We're similarly hoping that Prime Day sets the stage for new all-time low prices on other premium robot vacs released at <a href="https://mashable.com/article/ces-2024-robot-vacuums" target="_self">CES 2024</a> in January. Particularly, the <a href="https://zdcs.link/dM8q2?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Eufy%20X10%20Pro%20Omni&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=dM8q2&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Eufy X10 Pro Omni</a> dropping below $650 or the Roborock S8 MaxV Ultra getting its very first discount would be awesome &mdash;&nbsp;<a href="https://mashable.com/roundup/best-robot-vacuums" target="_self">we've tested and loved both.</a></p><p>But if you've already taken a beach trip that has left your floors perpetually sandy, you don't have to wait until Prime Day (July 16 and 17) to make the move on a robot vacuum. We'll be refreshing our list of robovacs on sale at Amazon (with subcategories for standard robot vacuums from robot vacuums that mop) throughout the upcoming weeks as Prime Day nears, and will keep you posted when Amazon switches over to official early Prime Day deals. For now, <strong><em>deals with a <s>strikeout</s> were either sold out or no longer available at their best sale price when we last checked. Anything marked with a &#128293; has dropped to an all-time low price.</em></strong></p><div class="flex flex-col mx-auto mt-8 mb-16 max-w-3xl font-sans md:flex-row">
-    <div class="mx-auto w-64 md:mx-0 md:w-1/3">
-                                                        <a class="block group" href="https://zdcs.link/pgBxl?pageview_type=RSS&template=article&module=shop-card&element=offer&item=image&element_label=image&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=pgBxl&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank"title="(opens in a new window)" data-ga-action="product_image" data-ga-label="image" data-ga-item="image" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="1" data-ga-click>
-                                                            <img class="w-full" src="https://helios-i.mashable.com/imagery/articles/06GDudIxr7MNssa1pV8zoy7/images-1.fill.size_256x250.v1719330699.jpg" alt="Eufy X9 Pro robot vacuum on self-empty dock and smartphone with color-coded map on screen" width="256" height="250" loading="lazy">
-
-
-                    
-                    <div class="block relative mx-14 group-hover:visible tooltip">
-                    <span class="absolute invisible p-1 mt-2 text-xs text-center text-white group-hover:visible tooltiptext bg-gray-600/0 group-hover:bg-gray-600/100">
-                        Opens in a new window
-                    </span>
-                    </div>
-                                    </a>
-                                <div class="mt-2 leading-none text-left">
-                                            <span class="pr-5 mt-1 text-xs text-gray-600 subtitle-2">Credit: Eufy X9 Pro robot vacuum on self-empty dock and smartphone with color-coded map on screen</span>
-                                    </div>
-                        </div>
-    <div class="pl-0 mt-3 w-full md:pl-8 md:mt-0 md:w-2/3">
-                                    <a href="https://zdcs.link/pgBxl?pageview_type=RSS&template=article&module=shop-card&element=offer&item=title&element_label=Eufy%20X9%20Pro&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=pgBxl&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank" class="block mb-5 text-xl font-bold leading-8 text-center md:text-2xl md:text-left hover:underline text-secondary-300" data-ga-action="offer-title" data-ga-item="title" data-ga-element="offer" data-ga-module="shop-card" data-ga-label="Eufy X9 Pro" data-ga-position="1" data-ga-click title="(opens in a new window)">
-                    Eufy X9 Pro
-                </a>
-                                        <div class="flex justify-between items-center py-3 md:py-0 md:space-x-2">
-                <div class="md:w-2/3" style="line-height: 0.75rem">
-                                            <span class="text-sm font-bold">$449.99</span>
-                                                    <span class="text-xs"> at Amazon</span>
-                                                <br>
-                                                                                            <span class="text-xs font-bold line-through">$899.99</span>
-                                                                            <span class="text-xs font-bold text-red-400"> Save $450.00</span>
-                                                            </div>
-            </div>
-                            <div class="mb-4 text-base font-normal leading-tight">save with code X9PROEUFY</div>
-                                            <a class="font-bold leading-6 text-center hover:underline" href="https://zdcs.link/pgBxl?pageview_type=RSS&template=article&module=shop-card&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=pgBxl&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="Get Deal" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="1" data-ga-click title="(opens in a new window)">
-                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide md:w-auto md:text-lg btn btn-secondary">Get Deal</button>
-                </a>
-                        </div>
-</div>
-<h3>Why we like it</h3><p>Eufy's X9 Pro debuted in fall 2023 and sits right in the sweet spot between the <a href="https://zdcs.link/Jp48k?pageview_type=RSS&amp%3Btemplate=article&amp%3Bmodule=content_body&amp%3Belement=offer&amp%3Bitem=text-link&amp%3Belement_label=X8%20Pro&amp%3Bobject_type=article&amp%3Bobject_uuid=04w1ZcNCviC12HtoG2UxLGq&amp%3Bshort_url=Jp48k&amp%3Bu=https%3A%2F%2Fmashable.com%2Farticle%2Fbest-amazon-big-spring-sale-eufy-deals&template=article&module=content_body&element=offer&item=text-link&element_label=X8%20Pro&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=Jp48k&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">X8 Pro</a> (which doesn't mop) and the <a href="https://zdcs.link/dMPxx?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=X10%20Pro%20Omni&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=dMPxx&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">X10 Pro Omni</a> (which is sitting at its MSRP of $799.99). And it's already seen several groundbreaking price cuts just in June: its current discount code X9PROEUFY bumps the discount to a full 50% off, beating the discount seen in mid-June that was exclusive to Prime members.</p><p>The X9 Pro is more reminiscent of its successor than its predecessor: It has a flat edge to get into corners, it mops, washes, and dries its own mopping pads, and uses AI to detect and avoid small obstacles like phone cables. As a mopper, the X9 Pro provides more elbow grease than many competitors thanks to double-pressurized, rotating mopping heads. These automatically lift above the ground if carpet is detected.</p><h3>More robot vacuums on sale at Amazon</h3><ul><li><p><a href="https://zdcs.link/q7yvy?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Eufy%20L60&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=q7yvy&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Eufy L60</a> &mdash; <strong>$179.99</strong> <s>$279.99</s> (save $80 with Prime) <strong>&#128293;</strong></p></li><li><p><a href="https://zdcs.link/KJ26n?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=iRobot%20Roomba%20j7&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=KJ26n&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">iRobot Roomba j7</a> &mdash; <strong>$299.99</strong> <s>$599.99</s> (save $300) <strong>&#128293;</strong></p></li><li><p><a href="https://zdcs.link/yLPJP?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Shark%20AI%20Ultra%20with%20self-empty%20station&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=yLPJP&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Shark AI Ultra with self-empty station</a> &mdash; <strong>$299.99</strong> <s>$599</s> (save $299.01)</p></li><li><p><a href="https://zdcs.link/8BKo7?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Eufy%20L60%20with%20self-empty%20station&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=8BKo7&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Eufy L60 with self-empty station</a> &mdash; <strong>$279.99</strong> <s>$399.99</s> (save $120 with Prime) <strong>&#128293;</strong></p></li><li><p><a href="https://zdcs.link/b184J?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Shark%20Detect%20Pro%20with%20self-empty%20station&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=b184J&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Shark Detect Pro with self-empty station</a> &mdash; <strong>$399.99</strong> <s>$549.99</s> (save $150) <strong>&#128293;</strong></p></li><li><p><a href="https://zdcs.link/bPyRe?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Roborock%20Q5%2B%20with%20self-empty%20station&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=bPyRe&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Roborock Q5+ with self-empty station</a> &mdash; <strong>$399.99</strong> <s>$699.99</s> (save $300 with on-page coupon)</p></li><li><p><a href="https://zdcs.link/weKnb?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Eufy%20X8%20Pro%20with%20self-empty%20station&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=weKnb&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Eufy X8 Pro with self-empty station</a> &mdash; <strong>$399.99</strong> <s>$649.99</s> (save $250 with on-page coupon) <strong>&#128293;</strong></p></li></ul><h3>More robot vacuum and mop combos on sale at Amazon</h3><ul><li><p><a href="https://zdcs.link/yjpe0?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Eufy%20G30%20Hybrid%20with%20self-empty%20station&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=yjpe0&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Eufy G30 Hybrid with self-empty station</a> &mdash; <strong>$249.99</strong> <s>$429.99</s> (save $180) <strong>&#128293;</strong></p></li><li><p><a href="https://zdcs.link/O3JdE?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Shark%20Matrix%20Plus%202-in-1&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=O3JdE&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Shark Matrix Plus 2-in-1</a> &mdash; <strong>$299.40</strong> <s>$449.40</s> (save $150)</p></li><li><p><a href="https://zdcs.link/5Mqv5?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Roborock%20Q7%20Max&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=5Mqv5&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Roborock Q7 Max</a> &mdash; <strong>$279.99</strong> <s>$599.99</s> (save $320) <strong>&#128293;</strong></p></li><li><p><a href="https://zdcs.link/PXlrD?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Roborock%20Q8%20Max&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=PXlrD&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Roborock Q8 Max</a> &mdash; <strong>$399.99</strong> <s>$599.99</s> (save $200) <strong>&#128293;</strong></p></li><li><p><a href="https://zdcs.link/jb6yq?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Roborock%20S8&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=jb6yq&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Roborock S8</a> &mdash; <strong>$549.99</strong> <s>$749.99</s> (save $200 with on-page coupon) </p></li><li><p><a href="https://zdcs.link/vp1No?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Roborock%20Q8%20Max%2B%20with%20self-empty%20station&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=vp1No&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Roborock Q8 Max+ with self-empty station</a> &mdash; <strong>$599.99</strong> <s>$819.99</s> (save $220 with on-page coupon)</p></li><li><p><a href="https://zdcs.link/glBgP?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Roborock%20Q%20Revo%20S%20with%20self-empty%20station&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=glBgP&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Roborock Q Revo S with self-empty station</a> &mdash; <strong>$699.99</strong> <s>$799.99</s> (save $100 with on-page coupon) </p></li><li><p><a href="https://zdcs.link/yLqle?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Yeedi%20M12%20Pro%2B%20with%20self-empty%20station&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=yLqle&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Yeedi M12 Pro+ with self-empty station</a> &mdash;&nbsp; <strong>$769</strong> <s>$1,099</s> (save $330) <strong>&#128293;</strong></p></li><li><p><a href="https://zdcs.link/jPO8y?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Ecovacs%20Deebot%20X2%20Omni%20with%20self-empty%20station&object_type=article&object_uuid=06GDudIxr7MNssa1pV8zoy7&short_url=jPO8y&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Ecovacs Deebot X2 Omni with self-empty station</a> &mdash; <strong>$999.99</strong> <s>$1,499.99</s> (save $500)  </p></li></ul>]]></content:encoded>
     </item>
   </channel>
 </rss>
