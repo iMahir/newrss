@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 28 Jun 2024 14:26:50 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Jun 2024 14:23:23 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jun 2024 14:33:17 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Jun 2024 14:33:13 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -153,7 +153,7 @@
       <atom:link href="https://www.nytimes.com/2024/06/28/world/asia/biden-trump-debate-allies.html" rel="standout"></atom:link>
       <description>Across Asia and Europe, there was little talk about winning, and more concern about American stability — both domestically and on crucial foreign policy issues.</description>
       <dc:creator>Motoko Rich and Steven Erlanger</dc:creator>
-      <pubDate>Fri, 28 Jun 2024 12:17:45 +0000</pubDate>
+      <pubDate>Fri, 28 Jun 2024 14:29:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
@@ -219,14 +219,15 @@
       <description>A devastating civil war is pushing the country toward a full-blown famine, according to the international body that measures hunger.</description>
       <dc:creator>Declan Walsh</dc:creator>
       <pubDate>Thu, 27 Jun 2024 19:27:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sudan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Famine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rapid Support Forces (Sudan)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Darfur (Sudan)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Khartoum (Sudan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sudan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2024/06/27/multimedia/27sudan-1-zmkc/27sudan-1-zmkc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ivor Prickett for The New York Times</media:credit>
       <media:description>A 20-month-old, Bara’a Ahmed, being treated in the malnutrition unit at a hospital in Port Sudan in April. Conditions have worsened sharply since last year, a global body says.</media:description>
@@ -315,6 +316,48 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/06/27/multimedia/27gulf-heat-01-tmkc/27gulf-heat-01-tmkc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Fadel Senna/Agence France-Presse — Getty Images</media:credit>
       <media:description>Pilgrims in Mecca carried umbrellas to protect themselves from the intense heat during the hajj this month.</media:description>
+    </item>
+    <item>
+      <title>At Euro 2024, a Very England Fight Misses the Point</title>
+      <link>https://www.nytimes.com/2024/06/28/world/europe/gary-lineker-england-euro-2024.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/06/28/world/europe/gary-lineker-england-euro-2024.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/06/28/world/europe/gary-lineker-england-euro-2024.html" rel="standout"></atom:link>
+      <description>A back and forth over the pundit’s one-word analysis of his country’s performances rests on a misconception about the media’s role.</description>
+      <dc:creator>Rory Smith</dc:creator>
+      <pubDate>Fri, 28 Jun 2024 14:30:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">UEFA European Football Championship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lineker, Gary (1960- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kane, Harry (1993- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bellingham, Jude (2003- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rangnick, Ralf (1958- )</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/06/28/multimedia/28rory-walker-wzjl/28rory-walker-wzjl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kirill Kudryavtsev/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Kyle Walker and England ... ouch.</media:description>
+    </item>
+    <item>
+      <title>What I’m Reading: Tunneling to the Past</title>
+      <link>https://www.nytimes.com/2024/06/28/world/europe/interpreter-books-reading-wars.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/06/28/world/europe/interpreter-books-reading-wars.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/06/28/world/europe/interpreter-books-reading-wars.html" rel="standout"></atom:link>
+      <description>Looking for answers, or an escape, in a fraught world.</description>
+      <dc:creator>Amanda Taub</dc:creator>
+      <pubDate>Fri, 28 Jun 2024 14:25:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Edinburgh Festival Fringe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Isherwood, Christopher</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kaling, Mindy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Redmayne, Eddie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Withers, Brenda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Berlin (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/06/28/multimedia/28Interpreter-Reading-pkmf/28Interpreter-Reading-pkmf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ivor Prickett for The New York Times</media:credit>
+      <media:description>A young man selling sweets walking through the destroyed streets of the Old City of Mosul, Iraq, in 2017.</media:description>
     </item>
     <item>
       <title>Princess Anne Returns Home From the Hospital</title>
@@ -607,13 +650,11 @@
       <description>More than 1,000 Russian soldiers in Ukraine were killed or wounded on average each day in May, according to NATO and Western military officials.</description>
       <dc:creator>Julian E. Barnes, Eric Schmitt and Marc Santora</dc:creator>
       <pubDate>Thu, 27 Jun 2024 14:38:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/06/27/multimedia/27dc-russian-casualites-vpwf/27dc-russian-casualites-vpwf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mauricio Lima for The New York Times</media:credit>
       <media:description>A destroyed Russian tank in southern Ukraine earlier this spring. Russia lost an average of 1,000 soldiers per day during the war in Ukraine in May.</media:description>
@@ -1149,41 +1190,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/06/26/multimedia/26assange-analysis-bzgf/26assange-analysis-bzgf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kim Hong-Ji/Reuters</media:credit>
       <media:description>Julian Assange arriving at court in Saipan, the Northern Mariana Islands, on Wednesday to enter a guilty plea.</media:description>
-    </item>
-    <item>
-      <title>China’s Anguished Debate: Do Its Children Have a Crime Problem?</title>
-      <link>https://www.nytimes.com/2024/06/26/world/asia/china-children-crimes.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/06/26/world/asia/china-children-crimes.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/06/26/world/asia/china-children-crimes.html" rel="standout"></atom:link>
-      <description>China has been considered relatively progressive on juvenile justice. But several high-profile killings have prompted calls for the law to come down more harshly on minors.</description>
-      <dc:creator>Vivian Wang</dc:creator>
-      <pubDate>Thu, 27 Jun 2024 05:20:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme People&#39;s Court (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beijing (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gansu Province (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Handan (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Juvenile Delinquency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/06/26/multimedia/26china-juveniles-01-pzhf/26china-juveniles-01-pzhf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Andrea Verdelli for The New York Times</media:credit>
-      <media:description>A photograph of Gong Xinyue in her bedroom, in her village in northwestern China.</media:description>
-    </item>
-    <item>
-      <title>Wednesday Briefing</title>
-      <link>https://www.nytimes.com/2024/06/26/briefing/kenya-nairobi-protests.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/06/26/briefing/kenya-nairobi-protests.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/06/26/briefing/kenya-nairobi-protests.html" rel="standout"></atom:link>
-      <description>Anti-tax protests tore through Kenya’s capital.</description>
-      <dc:creator>Daniel E. Slotnik</dc:creator>
-      <pubDate>Wed, 26 Jun 2024 15:04:36 +0000</pubDate>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/06/25/multimedia/26ambriefing-europe-nl-kenya/26ambriefing-europe-nl-kenya-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Luis Tato/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Tear gas exploded as protesters tried to help injured people outside Kenya’s Parliament.</media:description>
     </item>
   </channel>
 </rss>
