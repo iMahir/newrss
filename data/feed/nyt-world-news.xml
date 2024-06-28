@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 28 Jun 2024 03:11:38 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Jun 2024 03:07:16 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jun 2024 03:30:04 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Jun 2024 03:17:09 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -268,6 +268,25 @@
       <description>The 2016 peace treaty that ended a decades-long civil conflict has turned Colombia — home to more species of birds than any other country on Earth — into a birders’ delight, opening up forests that were once controlled by anti-government armed groups.</description>
       <dc:creator>The New York Times</dc:creator>
       <pubDate>Thu, 27 Jun 2024 15:54:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Roof Collapses at Delhi Airport Terminal Amid Storms and Heavy Rain</title>
+      <link>https://www.nytimes.com/2024/06/27/world/asia/india-delhi-airport-roof-collapse.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/06/27/world/asia/india-delhi-airport-roof-collapse.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/06/27/world/asia/india-delhi-airport-roof-collapse.html" rel="standout"></atom:link>
+      <description>At least six people were injured when parts of the roof caved in and crushed vehicles at Indira Gandhi airport in New Delhi, according to local reports. All domestic departures were suspended.</description>
+      <dc:creator>Victoria Kim</dc:creator>
+      <pubDate>Fri, 28 Jun 2024 03:15:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roofs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stations and Terminals (Passenger)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delhi (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Delhi (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/06/28/multimedia/28xp-indiaairport-cwlg/28xp-indiaairport-cwlg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nicolas Economou/NurPhoto, via Getty Images</media:credit>
+      <media:description>Terminal 3 of Indira Gandhi airport in New Delhi in 2016. Parts of the roof at Terminal 1 collapsed on Friday after heavy rains.</media:description>
     </item>
     <item>
       <title>President Luis Arce of Bolivia Confronts a Coup Attempt, and Evo Morales</title>
@@ -1155,28 +1174,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/06/25/multimedia/25dc-terror-fzhw/25dc-terror-fzhw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jordan Vonderhaar for The New York Times</media:credit>
       <media:description>The Texas-Mexico border in 2023. Eight men from Tajikistan, with possible ties to the Islamic State, crossed into the United States in the past year.</media:description>
-    </item>
-    <item>
-      <title>Julian Assange’s Plea Deal Could Chill Press Freedoms</title>
-      <link>https://www.nytimes.com/2024/06/25/us/politics/assange-plea-deal-press-freedom.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/06/25/us/politics/assange-plea-deal-press-freedom.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/06/25/us/politics/assange-plea-deal-press-freedom.html" rel="standout"></atom:link>
-      <description>The deal brings an ambiguous end to a legal saga that has jeopardized the ability of journalists to report on military, intelligence or diplomatic information that officials deem secret.</description>
-      <dc:creator>Charlie Savage</dc:creator>
-      <pubDate>Wed, 26 Jun 2024 06:09:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Knight First Amendment Institute</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assange, Julian P</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Manning, Chelsea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">First Amendment (US Constitution)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WikiLeaks</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/06/25/multimedia/25dc-assess-cthm/25dc-assess-cthm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Henry Nicholls/Reuters</media:credit>
-      <media:description>Julian Assange after his arrest outside the Ecuadorean Embassy in London in 2019. By taking a plea deal, Mr. Assange will not raise any constitutional challenge testing the legitimacy of applying the Espionage Act to his actions.</media:description>
     </item>
   </channel>
 </rss>
