@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?a=1" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 29 Jun 2024 14:45:47 +0000</lastBuildDate>
-    <pubDate>Sat, 29 Jun 2024 14:32:14 +0000</pubDate>
+    <lastBuildDate>Sat, 29 Jun 2024 15:11:01 +0000</lastBuildDate>
+    <pubDate>Sat, 29 Jun 2024 15:09:22 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -96,9 +96,9 @@
     </item>
     <item>
       <title>A Wish From All Sides to Move On Gives Freedom to Julian Assange</title>
-      <link>https://www.nytimes.com/2024/06/29/us/politics/a-wish-from-all-sides-to-move-on-ends-with-liberty-for-assange.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/06/29/us/politics/a-wish-from-all-sides-to-move-on-ends-with-liberty-for-assange.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/06/29/us/politics/a-wish-from-all-sides-to-move-on-ends-with-liberty-for-assange.html" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/2024/06/29/us/politics/julian-assange-release-uk-us.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/06/29/us/politics/julian-assange-release-uk-us.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/06/29/us/politics/julian-assange-release-uk-us.html" rel="standout"></atom:link>
       <description>The WikiLeaks founder spent years in captivity in London before talks accelerated this spring, allowing him to go home to Australia as a felon, but a free man.</description>
       <dc:creator>Glenn Thrush and Megan Specia</dc:creator>
       <pubDate>Sat, 29 Jun 2024 13:03:45 +0000</pubDate>
@@ -288,25 +288,19 @@
       <description>Across Asia and Europe, the event stoked concerns about American stability, both domestically and on crucial foreign policy issues like Washington’s commitment to alliances.</description>
       <dc:creator>Steven Erlanger and Motoko Rich</dc:creator>
       <pubDate>Fri, 28 Jun 2024 17:14:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Elections (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Protectionism (Trade)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Asia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/06/28/multimedia/28debate-allies-01-jvtq/28debate-allies-01-jvtq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ruth Fremson/The New York Times</media:credit>
@@ -739,18 +733,15 @@
       <description>Four of the six candidates selected by officials to run in Iran’s special presidential election are still in the running after the president died in a helicopter crash last month.</description>
       <dc:creator>Eve Sampson</dc:creator>
       <pubDate>Sat, 29 Jun 2024 04:19:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Guardian Council (Iran)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ghalibaf, Mohammad Baqer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hashemi, Amirhossein Ghazizadeh</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jalili, Saeed</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pezeshkian, Masoud</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pourmohammadi, Mostafa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zakani, Alireza</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/06/27/multimedia/27iran-candidates-01-clgz/27iran-candidates-01-clgz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arash Khamooshi for The New York Times</media:credit>
