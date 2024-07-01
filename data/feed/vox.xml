@@ -6,7 +6,7 @@
 	<title type="text">Vox</title>
 	<subtitle type="text"></subtitle>
 
-	<updated>2024-07-01T14:30:24Z</updated>
+	<updated>2024-07-01T15:23:50Z</updated>
 
 	<link rel="alternate" type="text/html" href="https://www.vox.com" />
 	<id>https://www.vox.com/rss/index.xml</id>
@@ -14,6 +14,59 @@
 
 	<icon>https://platform.vox.com/wp-content/uploads/sites/2/2024/05/vox-favicon.jpeg?w=32</icon>
 		<entry>
+			
+			<author>
+				<name>Vox Staff</name>
+			</author>
+			
+			<title type="html"><![CDATA[Take a mental break with the newest Vox crossword]]></title>
+			<link rel="alternate" type="text/html" href="https://www.vox.com/21523212/crossword-puzzles-free-daily-printable" />
+			<id>https://www.vox.com/21523212/crossword-puzzles-free-daily-printable</id>
+			<updated>2024-07-01T15:22:59Z</updated>
+			<published>2024-07-01T15:22:57Z</published>
+			<category scheme="https://www.vox.com" term="Crosswords" />
+							<summary type="html"><![CDATA[Welcome to the Vox crossword. Puzzles come out Monday through Saturday. Make sure to bookmark this page (or add to your phone&#8217;s home screen) to find new ones each day. You can also get a weekly email reminder by signing up for our crossword newsletter. Puzzles are constructed by these great people and edited by [&#8230;]]]></summary>
+			
+							<content type="html">
+											<![CDATA[
+
+						
+<figure>
+
+<img alt="New Vox Crossword puzzles come out Monday through Saturday" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/18980610/crossword_yellow__1_.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p>Welcome to the Vox crossword. Puzzles come out Monday through Saturday. Make sure to bookmark this page (or <a href="https://www.howtogeek.com/667910/how-to-add-a-website-to-your-iphone-or-ipad-home-screen/">add to your phone&rsquo;s home screen</a>) to find new ones each day. You can also get a weekly email reminder by <a href="http://vox.com/crossword-newsletter">signing up for our crossword newsletter</a>.</p>
+
+<p>Puzzles are constructed by <a href="https://www.vox.com/e/21273241">these great people</a> and edited by <a href="https://www.vox.com/authors/elizabeth-crane">Elizabeth Crane</a>. If you want to get in touch, email us at <a href="mailto:crosswords@vox.com">crosswords@vox.com</a>.</p>
+
+<p>And if you solve our crosswords often, consider <a href="https://www.vox.com/pages/support-now?itm_campaign=congratsscreen&amp;itm_medium=site&amp;itm_source=crossword">chipping in</a> to help keep them free for everybody.</p>
+
+<p><strong>Looking for even more crosswords?</strong> Our <a href="https://www.vox.com/crossword-puzzles/23916105/crossword-puzzle-book-print">first-ever crosswords books</a> are now available for purchase wherever you buy books. The first,<em> </em>the<em> </em><a href="https://go.skimresources.com/?xcust=___vx__p_23680146__t_w__r_vox.com__d_D&amp;id=1025X1701643&amp;xs=1&amp;url=https://bookshop.org/contributor_profiles/1106"><em>Vox Mega Book of Mini Crosswords</em></a>, features 150 of our bite-sized weekday puzzles. The second, the<em> </em><a href="https://www.amazon.com/dp/B0CHWJWYPD?ots=1&amp;slotNum=1&amp;imprToken=d4c59f0a-e804-f752-ae0&amp;ascsubtag=___vx__p_23680146__t_w__r_voxmedia.stories.usechorus.com__d_D&amp;linkCode=ll2&amp;tag=voxdotcom-20&amp;linkId=3f169e0f18a1e40dafb14f69c9f41362&amp;language=en_US&amp;ref_=as_li_ss_tl"><em>Vox Pop Culture Crosswords</em></a> book, highlights pop culture references in our big Saturday puzzles ranging from Mario Kart to&nbsp;<em>iCarly</em>.</p>
+<div class="m-ad m-ad__editorial-athena-placement"></div><div id="xword-wrapper">
+<iframe allowfullscreen="true" height="1000" width="375" src="https://cdn3.amuselabs.com/vox/date-picker?set=vox&amp;embed=1&amp;limit=30&amp;maxCols=1"></iframe>
+</div>
+
+var puzzlecontainer = document.getElementById('xword-wrapper');
+var puzzle = document.getElementById('voxpuzzle').contentWindow;
+
+
+function receiveMessage(event) {
+if (event.origin !== "https://cdn3.amuselabs.com") return;
+if (!event.data) return;
+if (typeof event.data !== 'string') return;
+var data = JSON.parse(event.data);
+  if (data.src === "crossword" || data.src === "picker"){
+  puzzlecontainer.style.height = data.frameHeight + 'px';
+}
+}
+window.addEventListener("message", receiveMessage, false);
+<p><a href="/pages/crossword-puzzles-free-archive" class="p-button">More crossword puzzles</a></p><div class="m-ad m-ad__editorial-leaderboard-placement"></div>
+						]]>
+									</content>
+			
+					</entry>
+			<entry>
 			
 			<author>
 				<name>Jessica Craig</name>
@@ -458,7 +511,7 @@
 			<title type="html"><![CDATA[You’re a liberal and you don’t even know it]]></title>
 			<link rel="alternate" type="text/html" href="https://www.vox.com/politics/356824/liberalism-way-of-life-lefebvre" />
 			<id>https://www.vox.com/?p=356824</id>
-			<updated>2024-06-27T18:25:30Z</updated>
+			<updated>2024-07-01T15:23:50Z</updated>
 			<published>2024-07-01T10:00:00Z</published>
 			<category scheme="https://www.vox.com" term="Politics" />
 							<summary type="html"><![CDATA[In 1955, the philosopher Charles Frankel was troubled. A committed civil libertarian, he had come to believe that the prevailing winds of public life had turned against his beloved liberalism. He wrote a book, The Case for Modern Man, defending it from critics on the left and right alike. His concluding chapter, titled “The Revolution [&#8230;]]]></summary>
@@ -903,82 +956,6 @@
 <p class="has-text-align-none">Ultimately, even raising capital is a short-term financial fix to the long-term political problems of corruption, waste, and mismanagement. Efforts to undo those patterns are likely to anger the ultra-wealthy, whose businesses depend on corrupt relationships with the government to thrive.&nbsp;</p>
 
 <p class="has-text-align-none">Whether or not the Ruto administration finds a way to manage its debt payments, the problem is that Kenyans don’t feel that their government is looking out for their best interests. That has played out in protests over the economy, but those circumstances are a product of Kenya’s political culture and international financial institutions that have failed developing countries.&nbsp;</p>
-						]]>
-									</content>
-			
-					</entry>
-			<entry>
-			
-			<author>
-				<name>Hady Mawajdeh</name>
-			</author>
-			
-			<title type="html"><![CDATA[How the UFC explains the USA]]></title>
-			<link rel="alternate" type="text/html" href="https://www.vox.com/sports/357984/ufc-303-fight-trump-maga-periera-prochazka" />
-			<id>https://www.vox.com/?p=357984</id>
-			<updated>2024-06-28T20:06:18Z</updated>
-			<published>2024-06-29T11:00:00Z</published>
-			<category scheme="https://www.vox.com" term="Culture" /><category scheme="https://www.vox.com" term="Podcasts" /><category scheme="https://www.vox.com" term="Politics" /><category scheme="https://www.vox.com" term="Sports" /><category scheme="https://www.vox.com" term="Today, Explained newsletter" /><category scheme="https://www.vox.com" term="Today, Explained podcast" />
-							<summary type="html"><![CDATA[Fans of the Ultimate Fighting Championship (UFC) have had Saturday blocked off on their calendars for months. They were all anticipating the long-awaited return of former UFC featherweight and lightweight champion Conor McGregor in UFC 303. But a broken toe ruined those plans just two weeks before fight night.&#160; Instead, viewers are tuning in for [&#8230;]]]></summary>
-			
-							<content type="html">
-											<![CDATA[
-
-						
-<figure>
-
-<img alt="" data-caption="Opponents Alex Pereira of Brazil and Jiri Prochazka of the Czech Republic face off during the UFC 303 press conference at T-Mobile Arena on June 27, 2024 in Las Vegas, Nevada. " data-portal-copyright="Photo by Chris Unger/Zuffa LLC via Getty Images" data-has-syndication-rights="1" src="https://platform.vox.com/wp-content/uploads/sites/2/2024/06/GettyImages-2159595481.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
-	<figcaption>Opponents Alex Pereira of Brazil and Jiri Prochazka of the Czech Republic face off during the UFC 303 press conference at T-Mobile Arena on June 27, 2024 in Las Vegas, Nevada. </figcaption>
-</figure>
-<p class="has-text-align-none">Fans of the Ultimate Fighting Championship (UFC) have had Saturday blocked off on their calendars for months. They were all anticipating the <a href="https://www.theguardian.com/sport/2024/apr/14/conor-mcgregor-to-make-long-awaited-ufc-return-against-michael-chandler#:~:text=Conor%20McGregor%20will%20make%20his,president%2C%20Dana%20White%2C%20said.">long-awaited return</a> of former UFC featherweight and lightweight champion <a href="https://www.espn.com/mma/fighter/_/id/3022677/conor-mcgregor">Conor McGregor</a> in <a href="https://www.espn.com/mma/fightcenter/_/id/600043173/league/ufc">UFC 303</a>. But a <a href="https://bleacherreport.com/articles/10125598-conor-mcgregor-posts-photo-of-injured-toe-after-ufc-303-fight-vs-chandler-canceled">broken toe</a> ruined those plans just two weeks before fight night.&nbsp;</p>
-
-<p class="has-text-align-none">Instead, viewers are tuning in for what ultimately might be a much better contest between light heavyweight champion <a href="https://www.espn.com/mma/fighter/_/id/4705658/alex-pereira">Alex Pereira</a> and former champ <a href="https://www.espn.com/mma/fighter/_/id/3156612/jiri-prochazka">Jiří Procházka</a>. The fight will be a rematch between the two brawlers, who <a href="https://www.youtube.com/watch?v=UHGomATiHvU">last met in November 2023</a>. That first fight was a back-and-forth bout, with each fighter landing big blows and takedowns. Pereira won via TKO after a devastating hook allowed him to take Procházka to the ground for an old-fashioned pounding, landing punches and elbows before the referee stopped the fight.</p>
-
-<p class="has-text-align-none">This time around, the two will meet in front of more than 20,000 fans at a sold-out T-Mobile Arena in Las Vegas — with <a href="https://www.ufc.com/news/ufc-300-pereira-vs-hill-numbers-behind-record-breaking-success?language_content_entity=en">an estimated more than 2 million viewers watching from home</a>.</p>
-
-<p class="has-text-align-none">UFC 303 is expected to bring in <a href="https://www.forbes.com/sites/trentreinsmith/2024/05/13/dana-whiteufc-303-mcgregor-vs-chandler-will-top-20-million-gate/?sh=1ae37eaec848">a record-breaking gate of $20 million</a>, which is a feather in the cap for <a href="https://www.forbes.com/forbes/2008/0505/080.html">the most dominant league in the world of mixed martial arts (MMA)</a>. The UFC was recently valued at an eye-popping <a href="https://www.forbes.com/sites/justinteitelbaum/2024/04/18/the-most-valuable-combat-sports-promotions-2024/#:~:text=The%20two%20brands%20each%20had,Forbes'%20Highest%20Paid%20Athletes%20List.">$11.3 billion</a>.&nbsp;</p>
-
-<p class="has-text-align-none">But the UFC is more than just a sports sensation that lures fight fans and uninitiated looky-loos toward pricey pay-per-view events promising violence and excitement. The league is a cultural phenomenon. It’s turned fighters into celebrities; it’s created new expectations for what fighting looks like in movies and media; and it’s even intersected with national politics. </p>
-
-<p class="has-text-align-none">In fact, how UFC got this big says a lot about America today — and where American politics could be headed next.</p>
-
-<h2 class="wp-block-heading">How the UFC got so huge</h2>
-
-<p class="has-text-align-none">The UFC hasn’t always been a behemoth. In its earliest days, it was unpolished; one of the company’s taglines was “<a href="https://30for30podcasts.com/episodes/no-rules-birth-ufc/">there are no rules</a>.”&nbsp;</p>
-
-<p class="has-text-align-none">Its no-rules violence led Sen. John McCain to call the UFC “<a href="https://slate.com/culture/2018/08/john-mccain-ufc-how-he-grew-to-tolerate-mma-the-sport-he-considered-human-cockfighting.html">human cockfighting</a>.” The lifelong boxing fan wrote letters to governors in every state asking them to ban the organization’s events saying, “I’ve seen people repeatedly getting smashed in the face with a guy sitting on top of them. That’s not sport!”</p>
-
-<p class="has-text-align-none">“That really sent [the UFC] to a pretty terrible place. It got kicked off of Pay-Per-View. A lot of states didn&#8217;t even want anything to do with it, they would shut down [fights] at the last minute,” Luke Thomas, a combat sports analyst for CBS Sports, <a href="https://podcasts.apple.com/us/podcast/today-explained/id1346207297?i=1000659810536">told the <em>Today, Explained</em> podcast</a>. “And in January 2001, the guys who originally founded the UFC, they threw in the towel. They sold it for $2 million to Dana White, [and] Lorenzo and Frank Fertitta.”<br><br>UFC’s new owners struggled too. Then Donald Trump called, <a href="https://www.youtube.com/watch?v=WsMpZtyU0-Q">White said on a podcast</a>, and said, “Come to my place. We’ll have you here at the Taj Mahal.”</p>
-
-<p class="has-text-align-none">Trump’s invite helped the UFC’s new owners in the short term, but it was really when they seized upon a new trend — America’s love of reality television in the early 2000s — and created the reality TV series <a href="https://www.youtube.com/watch?v=U6fw68fUEsY"><em>The Ultimate Fighter</em> on Spike TV</a> that the league’s fortunes turned around.<br><br>“For the casual audience who had maybe heard of UFC this put a brand new face on it,” says Thomas. “The world got to see really unique people doing a really crazy thing at the height of the reality TV show boom. And it worked!”</p>
-
-<p class="has-text-align-none">And the success of the first season led to more seasons. It led to deals with ESPN. The UFC was eventually valued as a billion-dollar sports organization. And it’s only improved its value and stature in culture since. </p>
-<img src="https://platform.vox.com/wp-content/uploads/sites/2/2024/06/GettyImages-1861372857.jpg?quality=90&#038;strip=all&#038;crop=0,10.72920025005,100,78.541599499901" alt="Men fight in a ring as Donald Trump and Kid Rock look on from the crowd." title="Men fight in a ring as Donald Trump and Kid Rock look on from the crowd." data-has-syndication-rights="1" data-caption="Former President Donald Trump and Kid Rock attend the UFC 296 event at T-Mobile Arena on December 16, 2023, in Las Vegas, Nevada. | Jeff Bottari/Zuffa LLC via Getty Images" data-portal-copyright="Jeff Bottari/Zuffa LLC via Getty Images" />
-<h2 class="wp-block-heading">How MMA turned MAGA</h2>
-
-<p class="has-text-align-none">Journalist <a href="https://x.com/sam_eagan?lang=en">Sam Eagan</a> has been a longtime fan of combat sports. He writes and podcasts pretty often about UFC, MMA, and domestic extremism. And he says that he began to see the topics overlap after reporting on the growth of <a href="https://www.vice.com/en/article/n7evgw/neo-nazi-fight-clubs-robert-rundo-fat-shaming-white-nationalism">neo-Nazi fight clubs</a> in the US.&nbsp;</p>
-
-<p class="has-text-align-none">“I would say fighting is in no way inherently a conservative sport, but it presents as being about the individual. It’s one person competing against one person in a very violent, dominant fashion,” Eagan <a href="https://podcasts.apple.com/us/podcast/today-explained/id1346207297?i=1000659810536">told the <em>Today, Explained </em>podcast</a>. “So there’s these themes of domination and violence — and in the case of the really, really far right … they’re very easily paralleled in MMA.” </p>
-
-<p class="has-text-align-none">But it’s not on the extremes where Eagan sees an overlap. He pointed to the 2016 Republican National Convention where Dana White became one of the first people to publicly endorse Trump.<br><br>“For over 15 years, Donald Trump has been a loyal and supportive friend,” White said.“And I know that if I needed Donald, he would be there for me, just like he was when I first met him.” </p>
-
-<p class="has-text-align-none">Soon after that Trump was elected president. But in 2019 he was pretty unpopular. He was <a href="https://www.youtube.com/watch?v=uQjd9GPG3LA">booed at the World Series</a> in Washington, DC. “And so, he makes an appearance at a UFC event shortly after. And, you know, it gets the full treatment, the cameras panned to him, and fighters are cheering his name and talking about him in their post-fight interviews,” Eagan says. </p>
-
-<p class="has-text-align-none">Trump continues to appear at events periodically for the next few years. But then in 2023, it really takes off, Eagan says. “By my count, he appeared at three separate events in that year alone. [And] as I was watching these events, I would notice this feels like a captive campaign stop for Trump.”&nbsp;</p>
-
-<p class="has-text-align-none">“I&#8217;m sure there will be many more in the lead-up to the election.” </p>
-
-<p class="has-text-align-none">But it’s not just Dana White showing love for the former president. Former title contender <a href="https://www.espn.com/mma/fighter/_/id/3088810/colby-covington">Colby Covington</a> has built <a href="https://www.youtube.com/watch?v=ul2Wq77cSCc">a whole persona</a> around being a Trump fan. He <a href="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/12/1200/675/colby-1.jpg?ve=1&amp;tl=1">wears MAGA hats</a> all the time; in post-fight interviews, he makes shoutouts to first responders, members of the military, and to Trump himself; and throws around phrases like “<a href="https://www.youtube.com/watch?v=WA-2yXPxmeA">fake news</a>” regularly. </p>
-
-<p class="has-text-align-none">Jorge Masvidal, a Cuban American fighter from Florida, <a href="https://www.politico.com/news/2020/10/29/mma-trump-election-433529">held a series of pro-Trump rallies</a> called Fighters Against Socialism. “We either re-elect President Trump and keep America great,” Masvidal said at one rally. “Or we let Joe Biden destroy the greatest country the world has ever seen.”</p>
-
-<p class="has-text-align-none">Despite the rising popularity of the UFC, and its owner’s and fighters’ embrace of conservative politics, Eagan says, “I do not think that the UFC will sway the election [for Trump].” </p>
-
-<p class="has-text-align-none">But he does believe that Trump’s embrace of UFC and combat sports has created a sort of blueprint for appealing to young men who “may be vaguely conservative but are generally sort of apolitical.” </p>
-
-<p class="has-text-align-none">According to the sports data site <a href="https://www.imgarena.com/about/">IMG Arena</a> 75 percent of <a href="https://www.tandfonline.com/doi/full/10.1080/17430437.2022.2033218#:~:text=The%20UFC%20has%20over%20300%20million%20fans,and%20stratification%20(MacDonald%2C%20Lamont%2C%20and%20Jenkins%202019).">UFC’s fans</a> are men and 88 percent of those men are between the ages of 18 and 44. </p>
-
-<p class="has-text-align-none">A demographic any candidate would be happy to tap into.&nbsp;</p>
 						]]>
 									</content>
 			
