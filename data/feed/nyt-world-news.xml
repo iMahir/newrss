@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 01 Jul 2024 17:11:07 +0000</lastBuildDate>
-    <pubDate>Mon, 01 Jul 2024 17:08:26 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Jul 2024 17:24:17 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Jul 2024 17:21:20 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -114,7 +114,7 @@
       <atom:link href="https://www.nytimes.com/2024/07/01/world/europe/france-election-takeaways.html" rel="standout"></atom:link>
       <description>It was a big day for the far-right National Rally. Just how big will not be clear until after a second round of voting.</description>
       <dc:creator>Aurelien Breeden</dc:creator>
-      <pubDate>Mon, 01 Jul 2024 11:52:49 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2024 17:12:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
@@ -282,6 +282,29 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/01/multimedia/01france-mood-01-fwqm/01france-mood-01-fwqm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dimitar Dilkoff/Agence France-Presse — Getty Images</media:credit>
       <media:description>Demonstrators at a rally after the announcement of the results of the first round of French parliamentary elections at the Place de la République in Paris on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Ismail Kadare’s Best Books: A Guide</title>
+      <link>https://www.nytimes.com/2024/07/01/books/booksupdate/ismail-kadare-best-books-albania.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/01/books/booksupdate/ismail-kadare-best-books-albania.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/01/books/booksupdate/ismail-kadare-best-books-albania.html" rel="standout"></atom:link>
+      <description>Kadare received the inaugural International Booker Prize in 2005. In his books, the prolific Albanian author offered a window into the psychology of oppression. Here’s where to start.</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Mon, 01 Jul 2024 17:21:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Man Booker International Prize</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kadare, Ismail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Albania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The General of the Dead Army (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Broken April (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Palace of Dreams (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Three-Arched Bridge (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Successor (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Twilight of the Eastern Gods (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">A Dictator Calls (Book)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/01/multimedia/01kadare-books-gmwp/01kadare-books-gmwp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Gent Shkullaku/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Ismail Kadare died on July 1, at 88, in the Albanian capital, Tirana.</media:description>
     </item>
     <item>
       <title>Trump Organization Signs Contract for New Middle East Tower</title>
@@ -1217,18 +1240,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/06/28/multimedia/28ausletter360-wfkt/28ausletter360-wfkt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Matthew Abbott for The New York Times</media:credit>
       <media:description>A training area replicating an aircraft that transports doctors who provide health care services for people living in remote areas of Australia.</media:description>
-    </item>
-    <item>
-      <title>Friday Briefing</title>
-      <link>https://www.nytimes.com/2024/06/28/briefing/trump-biden-debate-france-election.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/06/28/briefing/trump-biden-debate-france-election.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/06/28/briefing/trump-biden-debate-france-election.html" rel="standout"></atom:link>
-      <description>Biden stumbled in the first 2024 debate.</description>
-      <dc:creator>Daniel E. Slotnik</dc:creator>
-      <pubDate>Fri, 28 Jun 2024 04:39:18 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/06/28/multimedia/28ambriefing-europe-nl-pzft/28ambriefing-europe-nl-pzft-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>Former President Donald Trump and President Biden during their debate.</media:description>
     </item>
   </channel>
 </rss>
