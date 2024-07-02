@@ -3,26 +3,26 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World/xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 02 Jul 2024 20:46:01 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Jul 2024 20:45:31 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Jul 2024 21:10:09 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Jul 2024 21:08:53 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
-      <title>Middle East Crisis: Large Crowds Flee Southern Gaza Areas Under Israeli Evacuation Order</title>
+      <title>Middle East Crisis: Evacuation Order Brings New Chaos to Southeastern Gaza</title>
       <link>https://www.nytimes.com/live/2024/07/02/world/israel-gaza-war-hamas</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2024/07/02/world/israel-gaza-war-hamas</guid>
       <atom:link href="https://www.nytimes.com/live/2024/07/02/world/israel-gaza-war-hamas" rel="standout"></atom:link>
-      <description>Israel’s military says its forces fired at areas of Khan Younis from which a rocket barrage was launched. Even as Israel prepares to focus on ‘targeted raids,’ it is telling people to leave a large swath of Gaza.</description>
+      <description>People heeding an Israeli military order to evacuate a wide swath of the enclave described strenuous and uncertain journeys in harsh conditions.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 02 Jul 2024 20:45:31 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/02/multimedia/02mideast-400-jwbc/02mideast-400-jwbc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <pubDate>Tue, 02 Jul 2024 20:59:41 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/02/multimedia/02mideast-500-lcfg/02mideast-500-lcfg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mohammed Saber/EPA, via Shutterstock</media:credit>
     </item>
     <item>
@@ -32,7 +32,7 @@
       <atom:link href="https://www.nytimes.com/2024/07/02/world/asia/india-stampede-religious-event.html" rel="standout"></atom:link>
       <description>The crush happened in hot and crowded conditions in Uttar Pradesh State, in northern India, and a medical official said the death toll could rise.</description>
       <dc:creator>Suhasini Raj, Sameer Yasir and Hari Kumar</dc:creator>
-      <pubDate>Tue, 02 Jul 2024 19:59:58 +0000</pubDate>
+      <pubDate>Tue, 02 Jul 2024 21:08:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stampedes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
@@ -287,13 +287,46 @@
       <media:description>President Emmanuel Macron of France at a polling station in Le Touquet, northern France, on Sunday.</media:description>
     </item>
     <item>
+      <title>Thousands Flee in Gaza as Israel Orders More Evacuations</title>
+      <link>https://www.nytimes.com/2024/07/02/world/middleeast/gaza-evacuations-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/02/world/middleeast/gaza-evacuations-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/02/world/middleeast/gaza-evacuations-israel.html" rel="standout"></atom:link>
+      <description>The Israeli military says its campaign will soon become less intense, but Palestinians were once again racing to escape the fighting in southern Gaza, including Khan Younis.</description>
+      <dc:creator>Aaron Boxerman, Iyad Abuheweila, Bilal Shbair and Thomas Fuller</dc:creator>
+      <pubDate>Tue, 02 Jul 2024 21:00:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Khan Younis (Gaza Strip)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rafah (Gaza Strip)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/02/multimedia/02mideast-1-bmhz/02mideast-1-bmhz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Saher Alghorra/Associated Press</media:credit>
+      <media:description>Palestinians fleeing from Khan Younis following an evacuation order by the Israeli army.</media:description>
+    </item>
+    <item>
+      <title>Wednesday Briefing: President Biden’s Lapses Increase</title>
+      <link>https://www.nytimes.com/2024/07/02/briefing/biden-lapses-israel-general.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/02/briefing/biden-lapses-israel-general.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/02/briefing/biden-lapses-israel-general.html" rel="standout"></atom:link>
+      <description>Plus, Israel’s generals want a truce.</description>
+      <dc:creator>Daniel E. Slotnik</dc:creator>
+      <pubDate>Tue, 02 Jul 2024 20:56:56 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/03/multimedia/03ambriefing-asia-biden-gbth/03ambriefing-asia-biden-gbth-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang for The New York Times</media:credit>
+      <media:description>In the weeks before the debate, President Biden kept up a grueling travel schedule.</media:description>
+    </item>
+    <item>
       <title>With Fists and Knives, Mobs Attack Syrian Refugees in Turkey</title>
       <link>https://www.nytimes.com/2024/07/02/world/middleeast/syrian-refugees-turkey-attacks.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/07/02/world/middleeast/syrian-refugees-turkey-attacks.html</guid>
       <atom:link href="https://www.nytimes.com/2024/07/02/world/middleeast/syrian-refugees-turkey-attacks.html" rel="standout"></atom:link>
       <description>As economic woes grow in Turkey, groups of men have targeted Syrian refugees there. In response, fighters across the border in northern Syria have confronted Turkish soldiers.</description>
       <dc:creator>Ben Hubbard and Safak Timur</dc:creator>
-      <pubDate>Tue, 02 Jul 2024 20:43:00 +0000</pubDate>
+      <pubDate>Tue, 02 Jul 2024 20:49:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
@@ -472,7 +505,7 @@
       <atom:link href="https://www.nytimes.com/2024/07/01/world/americas/hurricane-beryl-grenada-carriacou.html" rel="standout"></atom:link>
       <description>The storm left extreme damage in its wake in the eastern Caribbean as the Category 4 hurricane headed toward Jamaica.</description>
       <dc:creator>Emiliano Rodríguez Mega</dc:creator>
-      <pubDate>Tue, 02 Jul 2024 20:20:34 +0000</pubDate>
+      <pubDate>Tue, 02 Jul 2024 20:20:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Vincent</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Barbados</category>
@@ -482,7 +515,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caribbean Area</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/01/multimedia/01grenada-beryl-01-wgpk/01grenada-beryl-01-wgpk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ricardo Mazalan/Associated Press</media:credit>
-      <media:description>A fisherman sitting in a boat atop a pile of vessels damaged by Hurricane Beryl at the Bridgetown Fisheries in Barbados on Monday.</media:description>
+      <media:description>The Bridgetown Fisheries in Barbados on Monday. Storm surge there caused significant damage to fishing vessels, sinking at least 20 boats.</media:description>
     </item>
     <item>
       <title>Tuesday Briefing: Top Court Gives Trump Significant Immunity</title>
@@ -1121,38 +1154,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/06/29/multimedia/29france-world-01-tjqg/29france-world-01-tjqg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
       <media:description>President Biden with President Emmanuel Macron of France at the Élysée Palace in Paris this month.</media:description>
-    </item>
-    <item>
-      <title>How to Like Yourself More</title>
-      <link>https://www.nytimes.com/2024/06/29/briefing/how-to-like-yourself-more.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/06/29/briefing/how-to-like-yourself-more.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/06/29/briefing/how-to-like-yourself-more.html" rel="standout"></atom:link>
-      <description>Taking time to enumerate nice things about yourself each day may sound terminally conceited, but in practice the results can be pretty transformative.</description>
-      <dc:creator>Melissa Kirsch</dc:creator>
-      <pubDate>Sat, 29 Jun 2024 11:00:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Yoga</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Exercise</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Meditation</category>
-    </item>
-    <item>
-      <title>A New Home for the Story of the Boats That Shaped Canada</title>
-      <link>https://www.nytimes.com/2024/06/29/world/canada/canoe-museum-new-building.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/06/29/world/canada/canoe-museum-new-building.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/06/29/world/canada/canoe-museum-new-building.html" rel="standout"></atom:link>
-      <description>After a last-minute setback, the Canadian Canoe Museum has finally opened its new building in Ontario.</description>
-      <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Sat, 29 Jun 2024 10:00:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Canoes and Canoeing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toronto (Ontario)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/06/29/world/29canadaletter-canoe-03/29canadaletter-canoe-03-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ian Austen/The New York Times</media:credit>
-      <media:description>The entrance to the exhibition area of the new Canadian Canoe Museum in Peterborough, Ontario.</media:description>
     </item>
   </channel>
 </rss>
