@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.46667782066540475" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 02 Jul 2024 20:25:52 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Jul 2024 20:25:16 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Jul 2024 20:35:56 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Jul 2024 20:29:57 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/07/02/world/israel-gaza-war-hamas" rel="standout"></atom:link>
       <description>Israel’s military says its forces fired at areas of Khan Younis from which a rocket barrage was launched. Even as Israel prepares to focus on ‘targeted raids,’ it is telling people to leave a large swath of Gaza.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 02 Jul 2024 20:25:16 +0000</pubDate>
+      <pubDate>Tue, 02 Jul 2024 20:29:09 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/02/multimedia/02mideast-400-jwbc/02mideast-400-jwbc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mohammed Saber/EPA, via Shutterstock</media:credit>
     </item>
@@ -285,6 +285,21 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/01/multimedia/01macron-analysis-1-vlkm/01macron-analysis-1-vlkm-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Yara Nardi</media:credit>
       <media:description>President Emmanuel Macron of France at a polling station in Le Touquet, northern France, on Sunday.</media:description>
+    </item>
+    <item>
+      <title>France’s Far-Right Party Has a Plan: Big on Ideas but Short on Details</title>
+      <link>https://www.nytimes.com/2024/07/02/world/europe/france-national-rally-policies.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/02/world/europe/france-national-rally-policies.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/02/world/europe/france-national-rally-policies.html" rel="standout"></atom:link>
+      <description>Although the party, National Rally, has changed since its early days of overt racism and antisemitism, its basic philosophy remains: Immigrants are a threat to the country’s safety and economy,</description>
+      <dc:creator>Catherine Porter</dc:creator>
+      <pubDate>Tue, 02 Jul 2024 20:29:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rally (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bardella, Jordan (1995- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/02/multimedia/02france-right-government-1-tqlg/02france-right-government-1-tqlg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Christophe Petit Tesson/EPA, via Shutterstock</media:credit>
+      <media:description>Jordan Bardella, the president of the right-wing party National Rally party, delivering a speech after preliminary results of the first round of the French parliamentary elections, in Paris, on Sunday.</media:description>
     </item>
     <item>
       <title>Blinken Says Israel Has Lost Sovereignty in North From Hezbollah Attacks</title>
@@ -1136,28 +1151,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/06/29/multimedia/29ukraine-east-clmz-promo/29ukraine-east-clmz-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Daniel Berehulak/The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Reformist Masoud Pezeshkian Reaches Runoff in Iran’s Presidential Election</title>
-      <link>https://www.nytimes.com/2024/06/29/world/middleeast/iran-election-masoud-pezeshkian-saeed-jalili.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/06/29/world/middleeast/iran-election-masoud-pezeshkian-saeed-jalili.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/06/29/world/middleeast/iran-election-masoud-pezeshkian-saeed-jalili.html" rel="standout"></atom:link>
-      <description>Candidates in the campaign to fill the seat of President Ebrahim Raisi, who died in a helicopter crash, showed notable candor about the country’s mounting problems.</description>
-      <dc:creator>Farnaz Fassihi, Alissa J. Rubin and Russell Goldman</dc:creator>
-      <pubDate>Sat, 29 Jun 2024 18:25:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jalili, Saeed</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pezeshkian, Masoud</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ghalibaf, Mohammad Baqer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/06/29/world/29iran-election-HFO-retop/29iran-election-HFO-retop-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Photographs by Arash Khamooshi for The New York Times</media:credit>
-      <media:description>Saeed Jalili, an ultraconservative former nuclear negotiator, left, and Masoud Pezeshkian, the only reformist candidate, will face each other next week in a runoff election for Iran’s presidency.</media:description>
     </item>
   </channel>
 </rss>
