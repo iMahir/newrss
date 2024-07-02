@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 02 Jul 2024 20:35:56 +0000</lastBuildDate>
-    <pubDate>Tue, 02 Jul 2024 20:29:57 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Jul 2024 20:46:01 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Jul 2024 20:45:31 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/07/02/world/israel-gaza-war-hamas" rel="standout"></atom:link>
       <description>Israel’s military says its forces fired at areas of Khan Younis from which a rocket barrage was launched. Even as Israel prepares to focus on ‘targeted raids,’ it is telling people to leave a large swath of Gaza.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 02 Jul 2024 20:29:09 +0000</pubDate>
+      <pubDate>Tue, 02 Jul 2024 20:45:31 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/02/multimedia/02mideast-400-jwbc/02mideast-400-jwbc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mohammed Saber/EPA, via Shutterstock</media:credit>
     </item>
@@ -285,6 +285,27 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/01/multimedia/01macron-analysis-1-vlkm/01macron-analysis-1-vlkm-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Yara Nardi</media:credit>
       <media:description>President Emmanuel Macron of France at a polling station in Le Touquet, northern France, on Sunday.</media:description>
+    </item>
+    <item>
+      <title>With Fists and Knives, Mobs Attack Syrian Refugees in Turkey</title>
+      <link>https://www.nytimes.com/2024/07/02/world/middleeast/syrian-refugees-turkey-attacks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/02/world/middleeast/syrian-refugees-turkey-attacks.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/02/world/middleeast/syrian-refugees-turkey-attacks.html" rel="standout"></atom:link>
+      <description>As economic woes grow in Turkey, groups of men have targeted Syrian refugees there. In response, fighters across the border in northern Syria have confronted Turkish soldiers.</description>
+      <dc:creator>Ben Hubbard and Safak Timur</dc:creator>
+      <pubDate>Tue, 02 Jul 2024 20:43:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/02/multimedia/02Turkey-Syria-kcpv/02Turkey-Syria-kcpv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Bilal Al Hammoud/EPA, via Shutterstock</media:credit>
+      <media:description>In Afrin, Syria, mourners carried the coffin of a man killed during protests against Turkey.</media:description>
     </item>
     <item>
       <title>France’s Far-Right Party Has a Plan: Big on Ideas but Short on Details</title>
@@ -1132,25 +1153,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/06/29/world/29canadaletter-canoe-03/29canadaletter-canoe-03-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ian Austen/The New York Times</media:credit>
       <media:description>The entrance to the exhibition area of the new Canadian Canoe Museum in Peterborough, Ontario.</media:description>
-    </item>
-    <item>
-      <title>Motorcycles and Mayhem in Ukraine’s East</title>
-      <link>https://www.nytimes.com/2024/06/29/world/europe/ukraine-russia-war-donbas.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/06/29/world/europe/ukraine-russia-war-donbas.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/06/29/world/europe/ukraine-russia-war-donbas.html" rel="standout"></atom:link>
-      <description>In the latest tactic for storming trenches, Russians use motorcycles and dune buggies to speed across open space, often into a hail of gunfire.</description>
-      <dc:creator>Andrew E. Kramer, Maria Varenikova and Daniel Berehulak</dc:creator>
-      <pubDate>Sat, 29 Jun 2024 16:51:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Motorcycles, Motor Bikes and Motorscooters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chasiv Yar (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pokrovsk (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/06/29/multimedia/29ukraine-east-clmz-promo/29ukraine-east-clmz-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Daniel Berehulak/The New York Times</media:credit>
     </item>
   </channel>
 </rss>
