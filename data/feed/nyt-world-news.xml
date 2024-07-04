@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.7376203624119368" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 04 Jul 2024 03:47:10 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Jul 2024 03:45:23 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Jul 2024 04:12:19 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jul 2024 04:01:34 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -32,7 +32,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/07/03/weather/hurricane-beryl" rel="standout"></atom:link>
       <description>The storm was lashing the southern coast of Jamaica on Wednesday evening after devastating several Caribbean islands this week. The Cayman Islands are bracing to be next.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 04 Jul 2024 03:45:23 +0000</pubDate>
+      <pubDate>Thu, 04 Jul 2024 03:54:55 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/03/multimedia/03hurricane-beryl-promo-9pm-wvcz/03hurricane-beryl-promo-9pm-wvcz-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Joe Raedle/Getty Images</media:credit>
     </item>
@@ -228,6 +228,92 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/02/multimedia/02russia-evan-zkhp/02russia-evan-zkhp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Associated Press</media:credit>
       <media:description>Evan Gershkovich, a reporter for The Wall Street Journal, during a hearing in Russia.</media:description>
+    </item>
+    <item>
+      <title>What to Know as Israel-Hezbollah Conflict Grows</title>
+      <link>https://www.nytimes.com/2024/07/04/world/middleeast/hezbollah-israel-new-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/04/world/middleeast/hezbollah-israel-new-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/04/world/middleeast/hezbollah-israel-new-war.html" rel="standout"></atom:link>
+      <description>A Hezbollah-Israel war could metastasize into a larger regional conflict that could dwarf the current fighting and draw in Iran and the United States.</description>
+      <dc:creator>Vivian Yee</dc:creator>
+      <pubDate>Thu, 04 Jul 2024 04:01:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasrallah, Hassan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Bashar al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/03/multimedia/03hezbollah-explainer-1-mpwb/03hezbollah-explainer-1-mpwb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <media:description>Mourning a member of Hezbollah in Baalbeck, Lebanon, in May, after he was killed in an Israeli attack.</media:description>
+    </item>
+    <item>
+      <title>Iranians’ Demand for Their Leaders: Fix the Economy</title>
+      <link>https://www.nytimes.com/2024/07/04/world/middleeast/iran-economy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/04/world/middleeast/iran-economy.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/04/world/middleeast/iran-economy.html" rel="standout"></atom:link>
+      <description>In a series of interviews, virtually every resident of Tehran listed Iran’s sickly economy as the No. 1 issue for the country’s next president.</description>
+      <dc:creator>Alissa J. Rubin</dc:creator>
+      <pubDate>Thu, 04 Jul 2024 04:01:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iranian Rial (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/04/multimedia/04iran-economy-vklf/04iran-economy-vklf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>Abbas sells restored furniture in Tehran. “Iran is a rich country, but that wealth doesn’t go into the hands of the people,” he said.</media:description>
+    </item>
+    <item>
+      <title>As Britain Votes, Change Is in the Air. Optimism, Not So Much.</title>
+      <link>https://www.nytimes.com/2024/07/04/world/europe/uk-election-labour-conservatives.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/04/world/europe/uk-election-labour-conservatives.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/04/world/europe/uk-election-labour-conservatives.html" rel="standout"></atom:link>
+      <description>The Labour Party is projected to sweep out the Conservatives after 14 years. But it would then inherit a “legacy of ashes.”</description>
+      <dc:creator>Mark Landler and Stephen Castle</dc:creator>
+      <pubDate>Thu, 04 Jul 2024 04:01:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/04/multimedia/04uk-stakes-qjmk/04uk-stakes-qjmk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mary Turner for The New York Times</media:credit>
+      <media:description>The Bold Street shopping district in Liverpool, England, last month.</media:description>
+    </item>
+    <item>
+      <title>What Makes the U.K. Exit Poll Special</title>
+      <link>https://www.nytimes.com/2024/07/04/world/europe/uk-election-exit-poll.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/04/world/europe/uk-election-exit-poll.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/04/world/europe/uk-election-exit-poll.html" rel="standout"></atom:link>
+      <description>The first indication of results on British election nights has earned an unusual amount of trust. Those behind it say that’s down to a big decision 20 years ago.</description>
+      <dc:creator>Ademola Bello</dc:creator>
+      <pubDate>Thu, 04 Jul 2024 04:01:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain=""></category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="">exit polls</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/04/multimedia/04uk-election-exit-poll-01-qblc/04uk-election-exit-poll-01-qblc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mary Turner for The New York Times</media:credit>
+      <media:description>A vote count in 2019. British general elections are conducted entirely with paper ballots, counted by hand in the hours after polls close at 10 p.m.</media:description>
     </item>
     <item>
       <title>Hurricane Beryl Batters Jamaica After Pummeling 2 Other Islands</title>
@@ -1039,88 +1125,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/01/multimedia/01macron-analysis-1-vlkm/01macron-analysis-1-vlkm-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Yara Nardi</media:credit>
       <media:description>President Emmanuel Macron of France at a polling station in Le Touquet, northern France, on Sunday.</media:description>
-    </item>
-    <item>
-      <title>Ismail Kadare’s Best Books: A Guide</title>
-      <link>https://www.nytimes.com/2024/07/01/books/booksupdate/ismail-kadare-best-books-albania.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/01/books/booksupdate/ismail-kadare-best-books-albania.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/01/books/booksupdate/ismail-kadare-best-books-albania.html" rel="standout"></atom:link>
-      <description>Kadare received the inaugural International Booker Prize in 2005. In his books, the prolific Albanian author offered a window into the psychology of oppression. Here’s where to start.</description>
-      <dc:creator>Amelia Nierenberg</dc:creator>
-      <pubDate>Mon, 01 Jul 2024 20:31:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Man Booker International Prize</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kadare, Ismail</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Albania</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The General of the Dead Army (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Broken April (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Palace of Dreams (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Three-Arched Bridge (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Successor (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Twilight of the Eastern Gods (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">A Dictator Calls (Book)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/01/multimedia/01kadare-books-gmwp/01kadare-books-gmwp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Gent Shkullaku/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Ismail Kadare died on July 1, at 88, in the Albanian capital, Tirana.</media:description>
-    </item>
-    <item>
-      <title>Trump Organization Signs Contract for New Saudi Tower</title>
-      <link>https://www.nytimes.com/2024/07/01/us/politics/trump-organization-saudi-arabia-tower.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/01/us/politics/trump-organization-saudi-arabia-tower.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/01/us/politics/trump-organization-saudi-arabia-tower.html" rel="standout"></atom:link>
-      <description>The residential high-rise tower in Jeddah is the latest of several developments that the former president’s company has planned for the Middle East.</description>
-      <dc:creator>Eric Lipton</dc:creator>
-      <pubDate>Mon, 01 Jul 2024 17:45:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Dar Al Arkan Real Estate Development Co</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">LIV Golf</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Public Investment Fund (Saudi Arabia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trump Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jidda (Saudi Arabia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/01/multimedia/01dc-Trump-Saudi-qlbf/01dc-Trump-Saudi-qlbf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jenna Schoenefeld for The New York Times</media:credit>
-      <media:description>Before Donald J. Trump was elected president in 2016, his organization had planned to build a tower in the Middle East, but the deal was shelved.</media:description>
-    </item>
-    <item>
-      <title>Nine Killed in Central Seoul After Car Plows Into Pedestrians</title>
-      <link>https://www.nytimes.com/2024/07/01/world/asia/seoul-korea-accident.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/01/world/asia/seoul-korea-accident.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/01/world/asia/seoul-korea-accident.html" rel="standout"></atom:link>
-      <description>The deadly crash occurred near a busy intersection in front of city hall in central Seoul.</description>
-      <dc:creator>Choe Sang-Hun</dc:creator>
-      <pubDate>Mon, 01 Jul 2024 23:31:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/01/multimedia/01skorea-crash-vgkh/01skorea-crash-vgkh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kim Hong-Ji/Reuters</media:credit>
-      <media:description>Police and rescuers near a car involved in a crash that killed nine people on Monday night in Seoul.</media:description>
-    </item>
-    <item>
-      <title>For South Africa’s Cabinet, Bigger May Not Mean Better</title>
-      <link>https://www.nytimes.com/2024/07/01/world/africa/south-africa-largest-cabinet-cyril-ramaphosa.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/01/world/africa/south-africa-largest-cabinet-cyril-ramaphosa.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/01/world/africa/south-africa-largest-cabinet-cyril-ramaphosa.html" rel="standout"></atom:link>
-      <description>To accommodate a broad and diverse alliance of parties, President Cyril Ramaphosa increased the size of his executive team. Now the challenge is getting a diverse group of politicians to agree.</description>
-      <dc:creator>John Eligon</dc:creator>
-      <pubDate>Mon, 01 Jul 2024 20:01:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ramaphosa, Cyril</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">African National Congress</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Alliance (South Africa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Steenhuisen, John</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/01/multimedia/01safrica-cabinet-01-ktgv/01safrica-cabinet-01-ktgv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Joao Silva/The New York Times</media:credit>
-      <media:description>President Cyril Ramaphosa of South Africa, shown being sworn in as a parliamentarian last month, announced a broad new coalition cabinet on Sunday.</media:description>
     </item>
   </channel>
 </rss>
