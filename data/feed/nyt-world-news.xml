@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.3323459116413954" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 04 Jul 2024 11:45:16 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Jul 2024 11:27:17 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Jul 2024 12:20:30 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jul 2024 12:18:19 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -61,7 +61,7 @@
       <atom:link href="https://www.nytimes.com/2024/07/04/world/middleeast/hezbollah-israel-new-war.html" rel="standout"></atom:link>
       <description>A Hezbollah-Israel war could metastasize into a larger regional conflict that could dwarf the current fighting and draw in Iran and the United States.</description>
       <dc:creator>Vivian Yee</dc:creator>
-      <pubDate>Thu, 04 Jul 2024 04:01:34 +0000</pubDate>
+      <pubDate>Thu, 04 Jul 2024 12:18:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasrallah, Hassan</category>
@@ -109,7 +109,7 @@
       <atom:link href="https://www.nytimes.com/2024/07/04/world/middleeast/netflix-masameer-saudi-arabia-prison.html" rel="standout"></atom:link>
       <description>In a video plea for help, Abdulaziz Almuzaini — a dual Saudi-American citizen — described how the authorities had accused him of promoting extremism through a cartoon franchise.</description>
       <dc:creator>Vivian Nereim</dc:creator>
-      <pubDate>Thu, 04 Jul 2024 10:06:06 +0000</pubDate>
+      <pubDate>Thu, 04 Jul 2024 12:08:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
@@ -241,6 +241,25 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/03/multimedia/03global-immunity-jtcw/03global-immunity-jtcw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Tierney L. Cross for The New York Times</media:credit>
       <media:description>The United States Supreme Court granted an unprecedented expansion of executive power, worrying the country’s allies.</media:description>
+    </item>
+    <item>
+      <title>First African-Born Member of German Parliament Won’t Seek Re-election</title>
+      <link>https://www.nytimes.com/2024/07/04/world/europe/germany-parliament-african-karamba-diaby.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/04/world/europe/germany-parliament-african-karamba-diaby.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/04/world/europe/germany-parliament-african-karamba-diaby.html" rel="standout"></atom:link>
+      <description>Karamba Diaby, whose 2013 victory was considered a win for equality, cited time with his family as a main reason for stepping down. But he and his office have been the targets of death threats and arson.</description>
+      <dc:creator>Sarah Maslin Nir</dc:creator>
+      <pubDate>Thu, 04 Jul 2024 12:08:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Karamba Diaby</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alternative for Germany</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/07/04/world/04germany-lawmaker/04germany-lawmaker-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Florian Gaertner/DPA, via Associated Press</media:credit>
+      <media:description>Karamba Diaby in the German Parliament in December. He has been outspoken about the abuse he has experienced.</media:description>
     </item>
     <item>
       <title>Israeli Leaders to Discuss Hamas Response on Cease-Fire Proposal</title>
