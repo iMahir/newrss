@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.9642842966661473" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 05 Jul 2024 08:57:10 +0000</lastBuildDate>
-    <pubDate>Fri, 05 Jul 2024 08:55:57 +0000</pubDate>
+    <lastBuildDate>Fri, 05 Jul 2024 09:12:18 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Jul 2024 09:08:47 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/07/04/world/uk-election-results" rel="standout"></atom:link>
       <description>Keir Starmer will be Britain’s next prime minister, ending 14 years of Conservative government. A fragmented vote saw the Conservatives crash to the worst result in their long history.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 05 Jul 2024 08:55:57 +0000</pubDate>
+      <pubDate>Fri, 05 Jul 2024 09:08:47 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/05/multimedia/05uk-blog-promo-3amET-vbhl/05uk-blog-promo-3amET-vbhl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kin Cheung/Associated Press</media:credit>
     </item>
@@ -285,6 +285,28 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/04/multimedia/04uk-election-exit-poll-01-qblc/04uk-election-exit-poll-01-qblc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mary Turner for The New York Times</media:credit>
       <media:description>A vote count in 2019. British general elections are conducted entirely with paper ballots, counted by hand in the hours after polls close at 10 p.m.</media:description>
+    </item>
+    <item>
+      <title>Trump Advisers Call for U.S. Nuclear Weapons Testing if He Is Elected</title>
+      <link>https://www.nytimes.com/2024/07/05/science/nuclear-testing-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/05/science/nuclear-testing-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/05/science/nuclear-testing-trump.html" rel="standout"></atom:link>
+      <description>A former national security adviser says Washington “must test new nuclear weapons for reliability and safety in the real world,” while critics say the move could incite a global arms race that heightens the risk of war.</description>
+      <dc:creator>William J. Broad</dc:creator>
+      <pubDate>Fri, 05 Jul 2024 09:02:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Tests</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comprehensive Nuclear Test Ban Treaty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <media:content height="1614" medium="image" url="https://static01.nyt.com/images/2024/07/03/science/00nuclear-testing/00nuclear-testing-mediumSquareAt3X.jpg" width="1611"></media:content>
+      <media:credit>Los Alamos National Laboratory</media:credit>
+      <media:description>A drop test of a B61 nuclear bomb. An aide to Mr. Trump’s former national security adviser said a redesign of this type of bomb, the B61-13, announced in October, was in need of explosive testing.</media:description>
     </item>
     <item>
       <title>UK Election: What Happens Next</title>
@@ -618,7 +640,7 @@
       <atom:link href="https://www.nytimes.com/2024/07/04/world/americas/hurricane-beryl-jamaica-mexico.html" rel="standout"></atom:link>
       <description>The hurricane, expected to make landfall in Mexico on Friday, caused destruction across the Caribbean, but some were relieved that it hadn’t been worse.</description>
       <dc:creator>Jovan Johnson, Emiliano Rodríguez Mega and Eric Nagourney</dc:creator>
-      <pubDate>Fri, 05 Jul 2024 08:27:33 +0000</pubDate>
+      <pubDate>Fri, 05 Jul 2024 09:07:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jamaica (West Indies)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
@@ -1148,28 +1170,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/02/multimedia/02IRAN-RUNOFF-EXPLAINER-mbch/02IRAN-RUNOFF-EXPLAINER-mbch-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arash Khamooshi for The New York Times</media:credit>
       <media:description>A billboard in Tehran featuring pictures of the reformist candidate Dr. Masoud Pezeshkian, left, and the ultraconservative Saeed Jalili.</media:description>
-    </item>
-    <item>
-      <title>New Haitian Leader Visits Washington Seeking Additional Support</title>
-      <link>https://www.nytimes.com/2024/07/02/us/politics/garry-conille-haiti-democrats.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/02/us/politics/garry-conille-haiti-democrats.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/02/us/politics/garry-conille-haiti-democrats.html" rel="standout"></atom:link>
-      <description>Haiti’s newly selected prime minister, Garry Conille, met with Democrats on Capitol Hill as well as Biden administration officials, seeking more help to combat the unrest in his country.</description>
-      <dc:creator>Robert Jimison</dc:creator>
-      <pubDate>Tue, 02 Jul 2024 23:18:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Conille, Garry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Committee on Foreign Affairs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCaul, Michael T</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meeks, Gregory W</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/02/multimedia/02dc-cong-haiti-gbzh/02dc-cong-haiti-gbzh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Tierney L. Cross for The New York Times</media:credit>
-      <media:description>Prime Minister Garry Conille of Haiti and members of his cabinet meeting with members of Congress at the Capitol on Tuesday.</media:description>
     </item>
   </channel>
 </rss>
