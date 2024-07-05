@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 05 Jul 2024 14:25:01 +0000</lastBuildDate>
-    <pubDate>Fri, 05 Jul 2024 14:24:20 +0000</pubDate>
+    <lastBuildDate>Fri, 05 Jul 2024 14:33:22 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Jul 2024 14:32:53 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/07/04/world/uk-election-results" rel="standout"></atom:link>
       <description>Labour’s resounding election victory ended 14 years of Conservative government. But a fragmented vote and low turnout pointed to a deeply unhappy Britain.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 05 Jul 2024 14:24:20 +0000</pubDate>
+      <pubDate>Fri, 05 Jul 2024 14:32:53 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/04/multimedia/04uk-930-gbqc/04uk-930-gbqc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Stefan Rousseau</media:credit>
     </item>
@@ -240,21 +240,22 @@
       <description>Most young people in France usually don’t vote or they back the left. That is still true, but support has surged for the far right, whose openly racist past can feel to them like ancient history.</description>
       <dc:creator>Aurelien Breeden, Aida Alami and Dmitry Kostyukov</dc:creator>
       <pubDate>Thu, 04 Jul 2024 17:45:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bardella, Jordan (1995- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rally (France)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New Popular Front (French Political Party)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/06/multimedia/03france-youth-02-tvhl/03france-youth-02-tvhl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>Young National Rally supporters distributing election leaflets in a Paris suburb. </media:description>
@@ -277,6 +278,21 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/03/multimedia/03greece-work-gpvc/03greece-work-gpvc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Louisa Gouliamaki/Reuters</media:credit>
       <media:description>Greek workers demonstrated outside the Finance Ministry in Athens in May during a strike to protest low wages amid high living costs.</media:description>
+    </item>
+    <item>
+      <title>Who Is Rachel Reeves, the Woman Taking the Helm of Britain’s Economy?</title>
+      <link>https://www.nytimes.com/2024/07/05/world/europe/rachel-reeves-britain-economy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/05/world/europe/rachel-reeves-britain-economy.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/05/world/europe/rachel-reeves-britain-economy.html" rel="standout"></atom:link>
+      <description>As the newly named chancellor of the Exchequer, she is taking on the tough job of boosting Britain’s productivity growth and of reviving struggling public services.</description>
+      <dc:creator>Eshe Nelson</dc:creator>
+      <pubDate>Fri, 05 Jul 2024 14:31:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/04/multimedia/04uk-blog-reeves-profile-vjgf/04uk-blog-reeves-profile-vjgf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Stefan Rousseau/Press Association, via Associated Press</media:credit>
+      <media:description>Rachel Reeves, the new chancellor of the Exchequer, right, with Keir Starmer, the new prime minister, last month.</media:description>
     </item>
     <item>
       <title>Brazil Police Accuse Bolsonaro of Embezzling Saudi Jewels</title>
@@ -374,7 +390,7 @@
       <atom:link href="https://www.nytimes.com/2024/07/05/world/europe/downing-street-new-prime-minister.html" rel="standout"></atom:link>
       <description>A new U.S. president usually has a two-month window to prepare to move into the White House. Freshly elected British prime ministers move into Downing Street much more swiftly.</description>
       <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Fri, 05 Jul 2024 13:36:47 +0000</pubDate>
+      <pubDate>Fri, 05 Jul 2024 14:25:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Commons (Great Britain)</category>
@@ -1093,26 +1109,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/03/multimedia/03themorning-nl-LEDE-01-hkwm/03themorning-nl-LEDE-01-hkwm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hollie Adams/Reuters</media:credit>
       <media:description>Nigel Farage, leader of Reform U.K., looks out at a crowd during a rally. </media:description>
-    </item>
-    <item>
-      <title>NOAA Flies Through the Rapid Intensification of Hurricane Beryl</title>
-      <link>https://www.nytimes.com/2024/07/03/climate/hurricane-beryl-wind-speeds.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/03/climate/hurricane-beryl-wind-speeds.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/03/climate/hurricane-beryl-wind-speeds.html" rel="standout"></atom:link>
-      <description>Gathering data from directly inside the storm can help emergency managers prepare for what’s to come.</description>
-      <dc:creator>Austyn Gaffney</dc:creator>
-      <pubDate>Wed, 03 Jul 2024 20:05:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caribbean Area</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Atlantic Ocean</category>
-      <category domain="">Hurricane Hunter</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jamaica (West Indies)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Grenada</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/03/multimedia/03-cli-beryl-flight-mwfc/03-cli-beryl-flight-mwfc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kevin Doremus/NOAA</media:credit>
-      <media:description>Inside the eye of Hurricane Beryl from the NOAA flight “Miss Piggy.”</media:description>
     </item>
   </channel>
 </rss>
