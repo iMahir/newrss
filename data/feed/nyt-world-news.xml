@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.7512487513969728" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 07 Jul 2024 08:47:36 +0000</lastBuildDate>
-    <pubDate>Sun, 07 Jul 2024 08:46:55 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Jul 2024 09:12:46 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Jul 2024 09:00:57 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -198,6 +198,46 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/06/multimedia/06france-divisions-07-mphz/06france-divisions-07-mphz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dmitry Kostyukov for The New York Times</media:credit>
       <media:description>Campaign posters for Sophie-Laurence Roy, left, a National Rally candidate, and her centrist runoff opponent, André Villiers, in Nitry, France.</media:description>
+    </item>
+    <item>
+      <title>In Rafah, We Saw Destruction and the Limits of Israel’s Gaza Strategy</title>
+      <link>https://www.nytimes.com/2024/07/07/world/middleeast/israel-gaza-war-rafah-destruction.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/07/world/middleeast/israel-gaza-war-rafah-destruction.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/07/world/middleeast/israel-gaza-war-rafah-destruction.html" rel="standout"></atom:link>
+      <description>Months after Prime Minister Benjamin Netanyahu declared that “victory is within reach,” the Israeli military escorted journalists into parts of a devastated Gazan city.</description>
+      <dc:creator>Adam Goldman</dc:creator>
+      <pubDate>Sun, 07 Jul 2024 09:00:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rafah (Gaza Strip)</category>
+      <media:content height="973" medium="image" url="https://static01.nyt.com/images/2024/07/07/multimedia/07rafah-dispatch-new-01-jfhp/07rafah-dispatch-new-01-jfhp-mediumSquareAt3X.jpg" width="974"></media:content>
+      <media:credit>Adam Goldman/The New York Times</media:credit>
+      <media:description>Damaged and destroyed buildings in the Tal al-Sultan neighborhood of Rafah, a city in the southern Gaza Strip, as seen while on an embed with the Israeli military. </media:description>
+    </item>
+    <item>
+      <title>New Plan to Target Russia’s Oil Revenue Brings Debate in White House</title>
+      <link>https://www.nytimes.com/2024/07/07/us/politics/russia-oil-ukraine-shadow-fleet.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/07/us/politics/russia-oil-ukraine-shadow-fleet.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/07/us/politics/russia-oil-ukraine-shadow-fleet.html" rel="standout"></atom:link>
+      <description>Treasury officials want to impose penalties on tankers that help Russian oil evade sanctions. White House aides worry that risks making gasoline more expensive.</description>
+      <dc:creator>Jim Tankersley and Alan Rappeport</dc:creator>
+      <pubDate>Sun, 07 Jul 2024 09:00:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sovcomflot</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yellen, Janet L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/06/25/multimedia/00dc-russiafleet-vkwb/00dc-russiafleet-vkwb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tatiana Meel/Reuters</media:credit>
+      <media:description>The development of Russia’s shadow fleet of tankers and alternative forms of maritime insurance have allowed the Kremlin to continue generating robust revenues from oil exports, helping it to finance its war against Ukraine.</media:description>
     </item>
     <item>
       <title>Wayne S. Smith, a Leading Critic of the Embargo on Cuba, Dies at 91</title>
@@ -1022,46 +1062,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/05/multimedia/05xp-skorea-vwjb/05xp-skorea-vwjb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Yonhap, via Reuters</media:credit>
       <media:description>Lee Jae-myung in January after being discharged from a Seoul hospital, eight days after he was stabbed. </media:description>
-    </item>
-    <item>
-      <title>Friday Briefing</title>
-      <link>https://www.nytimes.com/2024/07/05/world/europe/labour-victory-uk-election.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/05/world/europe/labour-victory-uk-election.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/05/world/europe/labour-victory-uk-election.html" rel="standout"></atom:link>
-      <description>A landslide victory for Labour.</description>
-      <dc:creator>Natasha Frost</dc:creator>
-      <pubDate>Fri, 05 Jul 2024 05:04:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/04/multimedia/05ambriefing-europe-nl-uk/05ambriefing-asia-nl-uk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Oli Scarff/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Results of an exit poll are projected onto the BBC Broadcasting House in London on Thursday night.</media:description>
-    </item>
-    <item>
-      <title>Cristiano Ronaldo, Euro 2024 and the Problem With Too Much Fame</title>
-      <link>https://www.nytimes.com/2024/07/05/world/europe/cristiano-ronaldo-portugal-euro-2024.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/05/world/europe/cristiano-ronaldo-portugal-euro-2024.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/05/world/europe/cristiano-ronaldo-portugal-euro-2024.html" rel="standout"></atom:link>
-      <description>The soccer superstar’s trip to Euro 2024 has been marked by pitch invaders and uninspiring performances. As fans try to get close, his team can’t seem to let go.</description>
-      <dc:creator>Rory Smith and Tariq Panja</dc:creator>
-      <pubDate>Fri, 05 Jul 2024 04:10:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ronaldo, Cristiano</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portugal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">UEFA European Football Championship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/05/multimedia/05soccer-ronaldo-01-jkpq/05soccer-ronaldo-01-jkpq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ina Fassbender/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Cristiano Ronaldo’s Euro 2024 statistics: selfie-seeking fans (many), goals (zero), frustration (mounting).</media:description>
     </item>
   </channel>
 </rss>
