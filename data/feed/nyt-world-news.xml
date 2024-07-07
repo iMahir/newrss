@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.44639852927129064" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 07 Jul 2024 13:24:39 +0000</lastBuildDate>
-    <pubDate>Sun, 07 Jul 2024 13:09:38 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Jul 2024 13:34:00 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Jul 2024 13:28:30 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,13 +21,14 @@
       <atom:link href="https://www.nytimes.com/2024/07/06/world/asia/tokyo-governors-election.html" rel="standout"></atom:link>
       <description>A ridiculous number of candidates contended to be governor of Tokyo and its surrounding prefecture. Many were not even trying to win.</description>
       <dc:creator>Motoko Rich and Kiuko Notoya</dc:creator>
-      <pubDate>Sun, 07 Jul 2024 11:23:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tokyo (Japan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Koike, Yuriko</category>
+      <pubDate>Sun, 07 Jul 2024 11:23:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Liberal Democratic Party (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tokyo (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Koike, Yuriko</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Saito, Renho</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Liberal Democratic Party (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party (Japan)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/07/multimedia/07japan-governor01sub-wpch/07japan-governor01sub-wpch-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Richard A. Brooks/Agence France-Presse — Getty Images</media:credit>
       <media:description>An election poster board displaying candidates in the election for governor of Tokyo.</media:description>
