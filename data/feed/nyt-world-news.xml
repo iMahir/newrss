@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml%5D(https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 07 Jul 2024 20:10:31 +0000</lastBuildDate>
-    <pubDate>Sun, 07 Jul 2024 20:02:48 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Jul 2024 20:23:19 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Jul 2024 20:16:54 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/07/07/world/france-election-2024" rel="standout"></atom:link>
       <description>The far-right National Rally appeared to have fallen short of predictions, but no coalition captured an absolute majority in Parliament, according to projections. Months of gridlock could lie ahead.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 07 Jul 2024 20:02:48 +0000</pubDate>
+      <pubDate>Sun, 07 Jul 2024 20:16:54 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/07/multimedia/07france-blog-promo/07france-blog-header-kqgl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dmitry Kostyukov for The New York Times</media:credit>
     </item>
@@ -53,7 +53,7 @@
       <atom:link href="https://www.nytimes.com/2024/07/07/world/middleeast/israel-gaza-protests.html" rel="standout"></atom:link>
       <description>A day of nationwide anti-government protests comes amid signs of progress toward a truce and hostage deal with Hamas, as well as continued fighting.</description>
       <dc:creator>Isabel Kershner</dc:creator>
-      <pubDate>Sun, 07 Jul 2024 17:12:06 +0000</pubDate>
+      <pubDate>Sun, 07 Jul 2024 20:12:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
@@ -186,6 +186,44 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/07/multimedia/07iran-geopolitics-new-wjmg/07iran-geopolitics-new-wjmg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arash Khamooshi for The New York Times</media:credit>
       <media:description>Masoud Pezeshkian, center, casting his vote in the second round of presidential elections in Tehran on Friday.</media:description>
+    </item>
+    <item>
+      <title>French Election Yields Deadlock as Left Surges and Far Right Comes Up Short</title>
+      <link>https://www.nytimes.com/2024/07/07/world/europe/france-election-results-left-surges.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/07/world/europe/france-election-results-left-surges.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/07/world/europe/france-election-results-left-surges.html" rel="standout"></atom:link>
+      <description>The outcome left no party with an absolute majority and France bracing for potential political paralysis.</description>
+      <dc:creator>Roger Cohen</dc:creator>
+      <pubDate>Sun, 07 Jul 2024 20:13:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rally (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New Popular Front (French Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Socialist Party (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Elysee Palace (Paris, France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bardella, Jordan (1995- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/07/multimedia/07france-mwph/07france-mwph-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dmitry Kostyukov for The New York Times</media:credit>
+      <media:description>People voting in Paris during France’s legislative elections on Sunday.</media:description>
     </item>
     <item>
       <title>France Could Be Headed for Political Gridlock After Election</title>
@@ -1063,28 +1101,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/04/multimedia/04uk-blog-turnout-tbhz/04uk-blog-turnout-tbhz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Andrew Testa for The New York Times</media:credit>
       <media:description>Outside a polling station in Portsmouth, England, on Thursday.</media:description>
-    </item>
-    <item>
-      <title>Trump Advisers Call for U.S. Nuclear Weapons Testing if He Is Elected</title>
-      <link>https://www.nytimes.com/2024/07/05/science/nuclear-testing-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/05/science/nuclear-testing-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/05/science/nuclear-testing-trump.html" rel="standout"></atom:link>
-      <description>A former national security adviser says Washington “must test new nuclear weapons for reliability and safety in the real world,” while critics say the move could incite a global arms race that heightens the risk of war.</description>
-      <dc:creator>William J. Broad</dc:creator>
-      <pubDate>Fri, 05 Jul 2024 09:02:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Tests</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comprehensive Nuclear Test Ban Treaty</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <media:content height="1614" medium="image" url="https://static01.nyt.com/images/2024/07/03/science/00nuclear-testing/00nuclear-testing-mediumSquareAt3X.jpg" width="1611"></media:content>
-      <media:credit>Los Alamos National Laboratory</media:credit>
-      <media:description>A drop test of a B61 nuclear bomb. An aide to Mr. Trump’s former national security adviser said a redesign of this type of bomb, the B61-13, announced in October, was in need of explosive testing.</media:description>
     </item>
   </channel>
 </rss>
