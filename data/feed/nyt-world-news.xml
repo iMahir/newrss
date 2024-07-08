@@ -3,54 +3,35 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.43641054721204386" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 08 Jul 2024 11:47:30 +0000</lastBuildDate>
-    <pubDate>Mon, 08 Jul 2024 11:47:10 +0000</pubDate>
+    <lastBuildDate>Mon, 08 Jul 2024 12:50:46 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Jul 2024 12:31:32 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
-      <title>French Election Yields Deadlock as Left Surges and Far Right Comes Up Short</title>
-      <link>https://www.nytimes.com/2024/07/07/world/europe/france-election-results-left-surges.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/07/world/europe/france-election-results-left-surges.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/07/world/europe/france-election-results-left-surges.html" rel="standout"></atom:link>
-      <description>The outcome left no party with an absolute majority and France bracing for potential political paralysis.</description>
-      <dc:creator>Roger Cohen</dc:creator>
-      <pubDate>Mon, 08 Jul 2024 02:18:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <title>France Reacts to Runoff Election Results</title>
+      <link>https://www.nytimes.com/2024/07/08/world/europe/france-election-reaction.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/08/world/europe/france-election-reaction.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/08/world/europe/france-election-reaction.html" rel="standout"></atom:link>
+      <description>The final tally confirms that the left has the most seats in the National Assembly, with the far right third. Now, there’s a scramble to figure out a way forward.</description>
+      <dc:creator>Catherine Porter</dc:creator>
+      <pubDate>Mon, 08 Jul 2024 12:25:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rally (France)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New Popular Front (French Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Socialist Party (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Elysee Palace (Paris, France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bardella, Jordan (1995- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/07/multimedia/07france-election-wqjc/07france-election-wqjc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/08/multimedia/08france-election-01-gvhl/08france-election-01-gvhl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dmitry Kostyukov for The New York Times</media:credit>
-      <media:description>Supporters of the left-wing alliance celebrating the results of the French election in Paris on Sunday.</media:description>
+      <media:description>Crowds gathered in the Place de la République in Paris after the second round of elections. They danced, hugged and congratulated one another.</media:description>
     </item>
     <item>
       <title>What Happened in France’s Election? 5 Key Takeaways.</title>
@@ -59,7 +40,7 @@
       <atom:link href="https://www.nytimes.com/2024/07/08/world/europe/france-election-key-takeaways.html" rel="standout"></atom:link>
       <description>It was a day of big surprises in France, with the left surging unexpectedly, the far right falling far short of expectations and the question of who will be the next prime minister still unclear.</description>
       <dc:creator>Adam Nossiter and Aurelien Breeden</dc:creator>
-      <pubDate>Mon, 08 Jul 2024 07:38:19 +0000</pubDate>
+      <pubDate>Mon, 08 Jul 2024 12:24:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rally (France)</category>
@@ -78,8 +59,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/2024/07/08/world/europe/russia-ukraine-missile-strikes-childrens-hospital.html</guid>
       <atom:link href="https://www.nytimes.com/2024/07/08/world/europe/russia-ukraine-missile-strikes-childrens-hospital.html" rel="standout"></atom:link>
       <description>President Volodymyr Zelensky said Russia had launched at least 40 missiles at targets across Ukraine, and he condemned the strike on the country’s largest children’s hospital.</description>
-      <dc:creator>Marc Santora</dc:creator>
-      <pubDate>Mon, 08 Jul 2024 11:34:48 +0000</pubDate>
+      <dc:creator>Marc Santora and Brendan Hoffman</dc:creator>
+      <pubDate>Mon, 08 Jul 2024 12:27:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
@@ -89,9 +70,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="1334" medium="image" url="https://static01.nyt.com/images/2024/07/08/multimedia/08ukraine-strikes-01-tpqw/08ukraine-strikes-01-tpqw-mediumSquareAt3X.jpg" width="1334"></media:content>
-      <media:credit>Roman Pilipey/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A massive rescue operation was underway on Monday at the Ohmatdyt Children’s Hospital in Kyiv.</media:description>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/08/multimedia/08ukraine-strikes-03-tlgk/08ukraine-strikes-03-tlgk-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Brendan Hoffman for The New York Times</media:credit>
+      <media:description>Rescuers and volunteers clearing rubble and searching for survivors after a Russian missile strike on the Ohmatdyt Children’s Hospital in Kyiv, Ukraine.</media:description>
     </item>
     <item>
       <title>Modi to Meet Putin in Moscow as India Charts Its Own Course</title>
@@ -100,7 +81,7 @@
       <atom:link href="https://www.nytimes.com/2024/07/08/world/asia/modi-putin-russia-india.html" rel="standout"></atom:link>
       <description>India is determined to keep its close ties to Russia despite pressure from the West. Russia sees the meeting as a chance to show it still has influential friends.</description>
       <dc:creator>Anupreeta Das and Hari Kumar</dc:creator>
-      <pubDate>Mon, 08 Jul 2024 11:01:18 +0000</pubDate>
+      <pubDate>Mon, 08 Jul 2024 12:31:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
@@ -219,32 +200,13 @@
       <media:description>Masoud Pezeshkian, center, casting his vote in the second round of presidential elections in Tehran on Friday.</media:description>
     </item>
     <item>
-      <title>France Reacts to Runoff Election Results</title>
-      <link>https://www.nytimes.com/2024/07/08/world/europe/france-election-reaction.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/08/world/europe/france-election-reaction.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/08/world/europe/france-election-reaction.html" rel="standout"></atom:link>
-      <description>The final tally confirms that the left has the most seats in the National Assembly, with the far right third. Now, there’s a scramble to figure out a way forward.</description>
-      <dc:creator>Catherine Porter</dc:creator>
-      <pubDate>Mon, 08 Jul 2024 11:47:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rally (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New Popular Front (French Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/08/multimedia/08france-election-01-gvhl/08france-election-01-gvhl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Dmitry Kostyukov for The New York Times</media:credit>
-      <media:description>Crowds gathered in the Place de la République in Paris after the second round of elections. They danced, hugged and congratulated one another.</media:description>
-    </item>
-    <item>
       <title>The Killer Stalking Sri Lanka’s Men</title>
       <link>https://www.nytimes.com/2024/07/08/health/sri-lanka-kidney-disease.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/07/08/health/sri-lanka-kidney-disease.html</guid>
       <atom:link href="https://www.nytimes.com/2024/07/08/health/sri-lanka-kidney-disease.html" rel="standout"></atom:link>
       <description>Climate change and contaminated water have combined to create an epidemic of kidney disease.</description>
       <dc:creator>Kang-Chun Cheng and Apoorva Mandavilli</dc:creator>
-      <pubDate>Mon, 08 Jul 2024 09:00:49 +0000</pubDate>
+      <pubDate>Mon, 08 Jul 2024 11:58:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidneys</category>
@@ -344,6 +306,44 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/07/multimedia/07france-blog-racism-glhz/07france-blog-racism-glhz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Teresa Suarez/EPA, via Shutterstock</media:credit>
       <media:description>Prisca Thevenot, the government spokeswoman, is one of more than 50 people who have been the target of racist attacks during the campaign.</media:description>
+    </item>
+    <item>
+      <title>French Election Yields Deadlock as Left Surges and Far Right Comes Up Short</title>
+      <link>https://www.nytimes.com/2024/07/07/world/europe/france-election-results-left-surges.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/07/world/europe/france-election-results-left-surges.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/07/world/europe/france-election-results-left-surges.html" rel="standout"></atom:link>
+      <description>The outcome left no party with an absolute majority and France bracing for potential political paralysis.</description>
+      <dc:creator>Roger Cohen</dc:creator>
+      <pubDate>Mon, 08 Jul 2024 12:26:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rally (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New Popular Front (French Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Socialist Party (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Elysee Palace (Paris, France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bardella, Jordan (1995- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/07/multimedia/07france-election-wqjc/07france-election-wqjc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dmitry Kostyukov for The New York Times</media:credit>
+      <media:description>Supporters of the left-wing alliance celebrating the results of the French election in Paris on Sunday.</media:description>
     </item>
     <item>
       <title>France Could Be Headed for Political Gridlock After Election</title>
