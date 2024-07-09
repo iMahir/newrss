@@ -3,13 +3,140 @@
 <channel>
    <title>NDTV News-World-news</title>
    <link>https://www.ndtv.com</link>
-   <lastBuildDate><![CDATA[Tue, 09 Jul 2024 17:15:27 +0530]]></lastBuildDate>
+   <lastBuildDate><![CDATA[Tue, 09 Jul 2024 18:10:27 +0530]]></lastBuildDate>
 <language>en</language>	<image>
 	<title>NDTV News-World-news</title>
 	<url>https://www.ndtv.com/common/header/images/ndtv_logo_black.gif</url>
 	<link>https://www.ndtv.com</link>
 	</image>
 <description>NDTV.com provides the latest information from and in-depth coverage of India and the world. Find breaking news, India news, top stories, elections, politics, business, cricket, movies, lifestyle, health, live TV, videos, photos and more.</description>   <item>
+       <guid isPermaLink='true'><![CDATA[https://www.ndtv.com/artificial-intelligence/ai-breast-cancer-cancer-diagnosis-new-research-shows-ai-can-help-fight-breast-cancer-6068156]]></guid>
+       <title><![CDATA[New Research Shows AI Can Help Fight Breast Cancer]]></title>
+       <link><![CDATA[https://www.ndtv.com/artificial-intelligence/ai-breast-cancer-cancer-diagnosis-new-research-shows-ai-can-help-fight-breast-cancer-6068156]]></link>
+       <pubDate><![CDATA[Tue, 09 Jul 2024 17:48:46 +0530]]></pubDate>
+       <description><![CDATA[New Research shows Artificial Intelligence (AI) can help fight this breast cancer. Early and accurate diagnosis can be pivotal for treatment amongst patients, and a newly developed AI system promises to do so with near perfect diagnosis.]]></description>
+       <content:encoded><![CDATA[<p>Breast Cancer accounts for 13.6 percent of all cancer cases (male and female) in India, according to the 2022 World Cancer Report published by IARC (International Agency for Research on Cancer). Amongst women, it goes up to 26 percent of all cancer cases. In the United States, breast cancer accounts for about 30% of all new cancer cases amongst women.</p>
+
+<p>New Research shows Artificial Intelligence (AI) can help fight this menacing disease. Early and accurate diagnosis can be pivotal for treatment amongst patients, and a newly developed AI system promises to do so with near perfect diagnosis.</p>
+
+<p>A research paper titled " Ensemble Deep Learning-Based Image Classification for Breast Cancer Subtype and Invasiveness Diagnosis from Whole Slide Image Histopathology" published in the Cancers Journal last month, details out an AI Model that classifies and identifies different types of breast cancer present in a patient, in addition to ruling out malignancy (cancer) in the first place by identifying benign tumors.</p>
+
+<p>The study - done by researchers of Northeastern University, Boston along with Maine Health Institute for Research - has developed an AI model that analyses high resolution histopathological (tissue-level microscopic) whole slide images of breast tumor tissue.</p>
+
+<p>The AI system, which outperforms earlier machine learning (ML) models in the domain by combining the predictions of other ML models, is capable of identifying and classifying the tumor into malignant (cancerous) or benign (non-cancerous) using historical data fed to the model during training.</p>
+
+<div class="ins_instory_dv">
+<div class="ins_instory_dv_cont"><img alt="Latest and Breaking News on NDTV" id="story_image_main" src="https://c.ndtvimg.com/2024-07/aiek6dd8_ai-ml-ensemble_625x300_09_July_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738" title="Latest and Breaking News on NDTV" /></div>
+</div>
+
+<p>It was trained on publicly available datasets called BreakHis (Breast Cancer Histopathological Database) and BACH (Breast Cancer Histopathology images). For BACH, microscopic breast tissue images were meticulously labelled by medical experts, categorising the images into four classes - Normal, Benign, In Situ Carcinoma and Invasive Carcinoma.</p>
+
+<div class="ins_instory_dv">
+<div class="ins_instory_dv_cont"><img alt="Exemplary microscopy images demonstrating the four classes in the BACH dataset (Image Source: Cancers 2024, 16(12), 2222)  " id="story_image_main" src="https://c.ndtvimg.com/2024-07/04jfmlh_tumor_625x300_09_July_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738" title="Exemplary microscopy images demonstrating the four classes in the BACH dataset (Image Source: Cancers 2024, 16(12), 2222)  " /></div>
+
+<p class="ins_instory_dv_caption">Exemplary microscopy images demonstrating the four classes in the BACH dataset (Image Source: Cancers 2024, 16(12), 2222)</p>
+</div>
+
+<div class="ins_instory_dv">
+<div class="ins_instory_dv_cont"></div>
+</div>
+
+<p>And for BreakHis, which consists of 9,109 microscopic images of breast tumor tissue, it was used to categorise benign and malignant tumors further into 4 subclasses each- malignant tumors into Ductal carcinoma, Lobular carcinoma, Mucinous carcinoma and Papillary carcinoma, and benign tumors into Adenosi, Fibroadenoma, Phyllodes tumor, and Tubular adenoma.</p>
+
+<div class="ins_instory_dv">
+<div class="ins_instory_dv_cont"><img alt="Representative microscopy images of malignant and benign breast tissues from the BreakHis dataset (Image Source: Cancers 2024, 16(12), 2222)" id="story_image_main" src="https://c.ndtvimg.com/2024-07/ohdtkch_tumor_625x300_09_July_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738" title="Representative microscopy images of malignant and benign breast tissues from the BreakHis dataset (Image Source: Cancers 2024, 16(12), 2222)" /></div>
+
+<p class="ins_instory_dv_caption">Representative microscopy images of malignant and benign breast tissues from the BreakHis dataset (Image Source: Cancers 2024, 16(12), 2222)</p>
+</div>
+
+<p>Put together, the ensemble ML model has an accuracy of 99.84 percent. Such a performance metric during the research and development stage shows optimistic promise for the real-world application of the technology.</p>
+
+<p>"The AI can't miss a tumor in the biopsy and won't be exhausted after diagnosing 10 or 20 people," said Saeed Amal to Northeastern Global News. Amal is a professor of bioengineering at Northeastern university and is leading the ensemble model project.</p>
+
+<p>Apart from diagnosis, AI systems have also made progress in prognosis and predictions related to breast cancers. For example, AI can now predict the neoadjuvant chemotherapy (NAC) response of breast cancer using Hematoxylin and eosin (common stains in tissue imaging) images of pre-chemotherapy needle biopsies. The AI systems responsible for the same have an accuracy of 95.15 percent and have been detailed out in a paper titled "Development of multiple AI pipelines that predict neoadjuvant chemotherapy response of breast cancer using H&amp;E-stained tissues," published in May 2023 in the Journal of Pathology.</p>
+
+<p>Apart from this, AI has also made significant progress in identifying lymph node metastasis (spreading of cancer cells through lymphatic nodes) and evaluation of hormonal status which is important for breast cancer treatment. These and many more advances made by AI interventions over the years in the fight against breast cancer have been stated in a review paper published in Diagnostic Pathology in February.</p>]]></content:encoded>
+<media:content url='https://c.ndtvimg.com/2024-07/qnf4lmpo_health-diagnosis_625x300_09_July_24.jpeg' type='image/jpeg' expression='full' width='538' height='190'>
+<media:description type='plain'><![CDATA[New AI model uses histopathological images for accurate diagnosis (Representational Image)]]></media:description>
+</media:content>   </item>
+   <item>
+       <guid isPermaLink='true'><![CDATA[https://www.ndtv.com/world-news/israels-targeted-starvation-campaign-causing-gaza-children-deaths-un-experts-6068143]]></guid>
+       <title><![CDATA[Israel's "Targeted Starvation Campaign" Causing Gaza Children Deaths: UN]]></title>
+       <link><![CDATA[https://www.ndtv.com/world-news/israels-targeted-starvation-campaign-causing-gaza-children-deaths-un-experts-6068143]]></link>
+       <pubDate><![CDATA[Tue, 09 Jul 2024 17:45:23 +0530]]></pubDate>
+       <description><![CDATA[UN rights experts on Tuesday accused Israel of carrying out a "targeted starvation campaign" that has resulted in the deaths of children in Gaza.]]></description>
+       <content:encoded><![CDATA[<p>UN rights experts on Tuesday accused Israel of carrying out a "targeted starvation campaign" that has resulted in the deaths of children in Gaza.</p>
+
+<p>"We declare that Israel's intentional and targeted starvation campaign against the Palestinian people is a form of genocidal violence and has resulted in famine across all of Gaza," 10 independent United Nations experts said in a statement.</p>
+
+<p>The UN has not officially declared a famine in the Gaza Strip.</p>
+
+<p>But the experts, including the UN special rapporteur on the right to food Michael Fakhri, insisted there was no denying famine was under way.</p>
+
+<p>"Thirty-four Palestinians have died from malnutrition since 7 October, the majority being children," said the experts, who are appointed by the UN Human Rights Council, but who do not speak on behalf of the United Nations.</p>
+
+<p>Their statement was immediately slammed by Israel's mission to the UN in Geneva, which charged that "Mr. Fakhri, and many so-called 'experts' who joined his statement, are as much accustomed to spreading misinformation, as they are to supporting Hamas propaganda and shielding the terrorist organisation from scrutiny".</p>
+
+<p>The UN experts meanwhile listed three children who had recently died "from malnutrition", after a number of others were said to have starved to death in northern Gaza earlier this year.</p>
+
+<p>"Fayez Ataya, who was barely six months old, died on 30 May 2024, and 13-year-old Abdulqader Al-Serhi died on June 1, 2024 at the Al-Aqsa Hospital in Deir Al-Balah," they said.</p>
+
+<p>Nine-year-old Ahmad Abu Reida died just two days later "in the tent sheltering his displaced family in Al-Mawasi, Khan Younis", they said.</p>
+
+<p>"With the death of these children from starvation despite medical treatment in central Gaza, there is no doubt that famine has spread from northern Gaza into central and southern Gaza," they said.</p>
+
+<p>The experts decried that the world had not done more to avert this disaster.&nbsp;</p>
+
+<p>"When a two-month-old baby and 10-year-old Yazan Al Kafarneh died of hunger on 24 February and 4 March respectively, this confirmed that famine had struck northern Gaza," they said.</p>
+
+<p>"The whole world should have intervened earlier to stop Israel's genocidal starvation campaign and prevented these deaths."</p>
+
+<p>"Inaction is complicity."</p>
+
+<p>Gaza has been facing a deep humanitarian crisis since the war erupted following Hamas's October 7 attack on southern Israel that resulted in the deaths of 1,195 people, mostly civilians, according to an AFP tally based on Israeli figures.</p>
+
+<p>In response, Israel has carried out a military offensive that has killed at least 38,243 people in Gaza, also mostly civilians, according to the health ministry in the Hamas-ruled territory.</p>
+
+<p>The UN has been warning for months of a looming famine in Gaza, especially in the north, but one has not been officially declared.</p>
+
+<p>The Israeli mission highlighted Tuesday that the latest assessment by the Integrated Food Security Phase Classification (IPC) partnership determined that famine had not materialised after aid access improved somewhat.</p>
+
+<p>"Israel has continuously scaled up its coordination and assistance in the delivery of humanitarian aid across the Gaza Strip," it said, claiming Hamas "intentionally steal and hide aid from civilians".&nbsp;</p><p><i>(Except for the headline, this story has not been edited by NDTV staff and is published from a syndicated feed.)</i></p>]]></content:encoded>
+<media:content url='https://c.ndtvimg.com/2024-07/4odvh4lg_gaza-children_625x300_09_July_24.jpeg' type='image/jpeg' expression='full' width='538' height='190'>
+<media:description type='plain'><![CDATA[The UN has not officially declared a famine in the Gaza Strip.]]></media:description>
+</media:content>   </item>
+   <item>
+       <guid isPermaLink='true'><![CDATA[https://www.ndtv.com/world-news/uk-resolves-rwanda-asylum-cases-after-new-labour-government-drops-policy-6067994]]></guid>
+       <title><![CDATA[UK Resolves Rwanda Asylum Cases After New Labour Government Drops Policy]]></title>
+       <link><![CDATA[https://www.ndtv.com/world-news/uk-resolves-rwanda-asylum-cases-after-new-labour-government-drops-policy-6067994]]></link>
+       <pubDate><![CDATA[Tue, 09 Jul 2024 17:28:41 +0530]]></pubDate>
+       <description><![CDATA[Three asylum seekers who brought court action to block the UK's attempt to send them to Rwanda had their cases resolved on Tuesday, after the incoming Labour government ditched the policy.]]></description>
+       <content:encoded><![CDATA[<p>Three asylum seekers who brought court action to block the UK's attempt to send them to Rwanda had their cases resolved on Tuesday, after the incoming Labour government ditched the policy.</p>
+
+<p>Prime Minister Keir Starmer announced on Saturday that the migrant deportation plan forged by the ousted Conservative government was "dead and buried".</p>
+
+<p>There had already been a spate of legal challenges to the scheme, with the UK Supreme Court in November last year ruling that it was illegal under international law as Rwanda could not be considered a safe country for asylum seekers.</p>
+
+<p>Government lawyer James Eadie told the High Court in London on Tuesday: "In relation to the three named claimants, these claimants' cases will be fully disposed of and withdrawn subject to the (interior ministry) paying their costs."</p>
+
+<p>The Labour Party said before last Thursday's general election that it would ditch the scheme, which the Tories said would deter huge numbers of migrants trying to get across the Channel to the UK on small boats from northern France.</p>
+
+<p>Sixty-five people were brought ashore Monday -- the first under the new government -- taking the total number of arrivals so far this year to 13,639, according to an AFP tally of official figures.</p>
+
+<p>Rwanda, home to 13 million people in Africa's Great Lakes region, claims to be one of the most stable countries on the continent and has drawn praise for its modern infrastructure.</p>
+
+<p>But rights groups accuse veteran President Paul Kagame of ruling in a climate of fear, stifling dissent and free speech.</p>
+
+<p>A spokesman for his government said Monday that "Rwanda takes note of the intention of the UK government to terminate the Migration and Economic Development Partnership Agreement".</p>
+
+<p>As part of the deal, the UK has already paid some £240 million ($307 million) to Rwanda, with a further £50 million scheduled to be sent at a later date.</p>
+
+<p>In January, Kagame said the money was "only going to be used if those people will come. If they don't come, we can return the money".</p>
+
+<p>However, he later specified there was "no obligation" to do so.</p><p><i>(Except for the headline, this story has not been edited by NDTV staff and is published from a syndicated feed.)</i></p>]]></content:encoded>
+<media:content url='https://c.ndtvimg.com/2024-06/q3o3d22o_uk-rwanda_625x300_03_June_24.jpeg' type='image/jpeg' expression='full' width='538' height='190'>
+</media:content>   </item>
+   <item>
        <guid isPermaLink='true'><![CDATA[https://www.ndtv.com/world-news/as-iran-gets-new-president-masoud-pezeshkian-will-it-change-its-stance-on-nuclear-standoff-6067652]]></guid>
        <title><![CDATA[As Iran Gets New President, Will It Change Its Stance On Nuclear Standoff?]]></title>
        <link><![CDATA[https://www.ndtv.com/world-news/as-iran-gets-new-president-masoud-pezeshkian-will-it-change-its-stance-on-nuclear-standoff-6067652]]></link>
@@ -757,73 +884,6 @@ A recent poll found that Michelle Obama is the only person who could beat Trump 
 <p></p>]]></content:encoded>
 <media:content url='https://c.ndtvimg.com/2024-07/pt58jmag_pm-in-russia_625x300_09_July_24.jpg' type='image/jpeg' expression='full' width='538' height='190'>
 <media:description type='plain'><![CDATA[PM Narendra Modi addressed the Indian community in Moscow today]]></media:description>
-</media:content>   </item>
-   <item>
-       <guid isPermaLink='true'><![CDATA[https://www.ndtv.com/world-news/bobs-burgers-actor-jay-johnston-pleads-guilty-to-charges-over-january-6-us-riots-6065658]]></guid>
-       <title><![CDATA['Bob's Burgers' Actor Pleads Guilty To Charges Over January 6 US Riots]]></title>
-       <link><![CDATA[https://www.ndtv.com/world-news/bobs-burgers-actor-jay-johnston-pleads-guilty-to-charges-over-january-6-us-riots-6065658]]></link>
-       <pubDate><![CDATA[Tue, 09 Jul 2024 11:52:37 +0530]]></pubDate>
-       <description><![CDATA[The 54-year-old faces up to five years in prison for the felony count of civil disorder.]]></description>
-       <content:encoded><![CDATA[<p>Bob's Burgers' actor Jay Johnston has pleaded guilty to charges of being involved in the January 2021 US Capitol riot, <a href="https://www.bbc.co.uk/news/articles/cw0yqv84x4ko ">BBC</a> has reported.&nbsp;<br />
-<br />
-The 54-year-old faces up to five years in prison for the felony count of civil disorder. A sentencing date has not been set yet. According to court documents, Johnston participated in a violent mob that attacked police officers. A video showed him taking a shield from an officer and using it to push back officers defending the Capitol.<br />
-<br />
-He was arrested and charged with multiple felonies, including obstruction of officers during civil disorder, unlawful entry on restricted buildings or grounds and impeding passage through Capitol grounds. He was released on a $25,000 bail bond in June 2023 following his initial court appearance in California.&nbsp;<br />
-<br />
-Court documents revealed that Johnston was near the tunnel entrance, gestured to other rioters to follow him, and later acknowledged his involvement in the Capitol riot in a text message. The message stated, "It wasn't an attack, but it kind of turned into that." Another message described the scene as "a mess."<br />
-<br />
-The FBI identified Johnston as a suspect after three acquaintances recognised him in photos published on social media. One of these associates provided investigators with the incriminating text message. Airline records also showed that Johnston booked a round-trip flight from Los Angeles to Washington DC, flying on January 4, 2021, and returning on January 7.&nbsp;<br />
-<br />
-On January 6, 2021, a mob of then-US President Donald Trump supporters attacked the US Capitol Building, seeking to overturn the 2020 election results. Thousands gathered in Washington, DC, fueled by Trump's false claims of election fraud.&nbsp;<br />
-<br />
-Rioters breached the Capitol, vandalising offices, assaulting police and reporters, and attempting to harm lawmakers. Pipe bombs and Molotov cocktails were found nearby. Five people, including a police officer, died and 174 officers were injured. The attack was a failed attempt to disrupt the electoral vote count and keep Trump in power.&nbsp;<br />
-<br />
-Nearly 1,000 people have been found guilty or pleaded guilty to federal crimes related to the riots, reported AP. Over half of these people have received prison sentences, ranging from seven days to 18 years.</p>]]></content:encoded>
-<media:content url='https://c.ndtvimg.com/2024-07/elvk5b4o_jay-johnston_625x300_09_July_24.jpeg' type='image/jpeg' expression='full' width='538' height='190'>
-</media:content>   </item>
-   <item>
-       <guid isPermaLink='true'><![CDATA[https://www.ndtv.com/world-news/porn-star-jesse-jane-died-of-drug-overdose-reveals-autopsy-6065422]]></guid>
-       <title><![CDATA[Porn Star Jesse Jane Died Of Drug Overdose, Reveals Autopsy]]></title>
-       <link><![CDATA[https://www.ndtv.com/world-news/porn-star-jesse-jane-died-of-drug-overdose-reveals-autopsy-6065422]]></link>
-       <pubDate><![CDATA[Tue, 09 Jul 2024 11:23:57 +0530]]></pubDate>
-       <description><![CDATA[Adult film star Jesse Jane died from an accidental overdose of fentanyl and cocaine toxicity in January 2024, herautopsy report has confirmed. Her body was found in a decomposed state, it stated.]]></description>
-       <content:encoded><![CDATA[<p>Adult film star Jesse Jane died from an accidental overdose of fentanyl and cocaine toxicity in January 2024, her&nbsp;<a href="http://https://www.oklahoman.com/story/news/2024/07/08/jesse-jane-cause-of-death-revealed-porn-star-oklahoma-overdose-fentanyl/74323582007/ \">autopsy report</a> has confirmed. Her body was found in a decomposed state, it stated.</p>
-
-<p>The 43-year-old actor, whose real name was Cindy Taylor or Cynthia Ann Howell, was found unresponsive in her boyfriend's home in Oklahoma on January 24, 2024. Her boyfriend, Brett Hasenmuller, 33, was also found dead at the scene.</p>
-
-<p>The Oklahoma Medical Examiner's Office performed the autopsy, revealing acute fentanyl and cocaine intoxication as the cause of death. The report, released on Sunday, noted that Ms Jane's body was in a state of advanced decomposition, indicating she had been dead for some time before her body was found.</p>
-
-<p>According to TMZ, the bodies were discovered after the boyfriend's boss requested a welfare check, leading cops to visit the residence. They were found dead, and their cause of death was suspected to be an overdose at the time.</p>
-
-<p>Jesse Jane was a prominent figure in the adult entertainment industry, appearing in over 100 adult films and earning many awards and nominations. She began her porn career in 2002, signing an exclusive contract with Digital Playground Studio, where she remained until 2014. She later signed with Jules Jordan Video and announced her retirement from the industry in 2017.</p>
-
-<p>Jane also appeared in mainstream TV shows and films, including <em>Baywatch: Hawaiian Wedding, Pirates II: Stagnetti's Revenge, Starsky and Hutch, Family Business, Entourage,</em> <em>Night Calls </em>and <em>The Bad Girls Club</em>. She also featured in the CNBC documentary <em>Porn: Business of Pleasure.</em></p>]]></content:encoded>
-<media:content url='https://c.ndtvimg.com/2024-01/ocheejp_pornstar-jesse-jane-dies_625x300_26_January_24.jpeg' type='image/jpeg' expression='full' width='538' height='190'>
-<media:description type='plain'><![CDATA[Jesse Jane's boyfriend, Brett Hasenmuller, was also found dead at the scene. (File)]]></media:description>
-</media:content>   </item>
-   <item>
-       <guid isPermaLink='true'><![CDATA[https://www.ndtv.com/world-news/american-mountaineer-william-stampfl-found-mummified-in-peru-22-years-after-vanishing-6065379]]></guid>
-       <title><![CDATA[American Mountaineer Found Mummified In Peru 22 Years After Vanishing]]></title>
-       <link><![CDATA[https://www.ndtv.com/world-news/american-mountaineer-william-stampfl-found-mummified-in-peru-22-years-after-vanishing-6065379]]></link>
-       <pubDate><![CDATA[Tue, 09 Jul 2024 11:07:13 +0530]]></pubDate>
-       <description><![CDATA[The preserved body of an American mountaineer -- who disappeared 22 years ago while scaling a snowy peak in Peru -- has been found after being exposed by climate change-induced ice melt, police said Monday.]]></description>
-       <content:encoded><![CDATA[<p>The preserved body of an American mountaineer -- who disappeared 22 years ago while scaling a snowy peak in Peru -- has been found after being exposed by climate change-induced ice melt, police said Monday.</p>
-
-<p>William Stampfl was reported missing in June 2002, aged 59, when an avalanche buried his climbing party on the mountain Huascaran, which stands more than 6,700 meters (22,000 feet) high. Search and rescue efforts were fruitless.</p>
-
-<p>Peruvian police said his remains were finally exposed by ice melt on the Cordillera Blanca range of the Andes.</p>
-
-<p>Stampfl's body, as well as his clothes, harness and boots had been well-preserved by the cold, according to images distributed by police.</p>
-
-<p>His passport was found among his possessions, allowing police to identify the body.</p>
-
-<p>The mountains of northeastern Peru, home to snowy peaks such as Huascaran and Cashan, are a favorite with mountaineers from around the world.</p>
-
-<p>In May, the body of an Israeli hiker was found there nearly a month after he disappeared.</p>
-
-<p>And last month, an experienced Italian mountaineer was found dead after he fell while trying to scale another Andean peak.</p><p><i>(This story has not been edited by NDTV staff and is auto-generated from a syndicated feed.)</i></p>]]></content:encoded>
-<media:content url='https://c.ndtvimg.com/2024-07/dn40nrjg_william-stampfl-american-mountaineer-afp_625x300_09_July_24.jpeg' type='image/jpeg' expression='full' width='538' height='190'>
-<media:description type='plain'><![CDATA[Peruvian police said his remains were finally exposed by ice melt on the Cordillera Blanca range.]]></media:description>
 </media:content>   </item>
 </channel>
 </rss>
