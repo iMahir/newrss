@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 11 Jul 2024 17:10:04 +0000</lastBuildDate>
-    <pubDate>Thu, 11 Jul 2024 17:06:08 +0000</pubDate>
+    <lastBuildDate>Thu, 11 Jul 2024 17:27:09 +0000</lastBuildDate>
+    <pubDate>Thu, 11 Jul 2024 17:26:32 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/07/11/world/israel-gaza-war-hamas" rel="standout"></atom:link>
       <description>Israel’s military dropped leaflets laying out four “safe corridors” for them to use to flee south, but few appeared to be heeding the warning on Thursday.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 11 Jul 2024 17:06:08 +0000</pubDate>
+      <pubDate>Thu, 11 Jul 2024 17:26:32 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/11/multimedia/11mideast-crisis-promo-1pm/11mideast-crisis-gaza-evacuations-header-kfhj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Omar Al-Qattaa/Agence France-Presse — Getty Images</media:credit>
     </item>
@@ -71,12 +71,14 @@
       <guid isPermaLink="true">https://www.nytimes.com/2024/07/11/world/africa/kenya-president-cabinet-protests.html</guid>
       <atom:link href="https://www.nytimes.com/2024/07/11/world/africa/kenya-president-cabinet-protests.html" rel="standout"></atom:link>
       <description>President William Ruto dismissed all but one of his cabinet secretaries after demonstrations over a finance bill that would have raised taxes led to the deaths of at least 41 people.</description>
-      <dc:creator>Matthew Mpoke Bigg</dc:creator>
-      <pubDate>Thu, 11 Jul 2024 15:43:23 +0000</pubDate>
+      <dc:creator>Matthew Mpoke Bigg and Abdi Latif Dahir</dc:creator>
+      <pubDate>Thu, 11 Jul 2024 17:24:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ruto, William</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit and Debt</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/11/multimedia/11kenya-bghp/11kenya-bghp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Thomas Mukoya/Reuters</media:credit>
       <media:description>President William Ruto of Kenya defended his record on Thursday, but said the electorate expected more from his government.</media:description>
@@ -291,6 +293,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Olympic Committee</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">de Coubertin, Pierre</category>
+    </item>
+    <item>
+      <title>Letter in The Lancet Raises Question of Excess Deaths in Gaza War</title>
+      <link>https://www.nytimes.com/2024/07/11/world/middleeast/gaza-war-death-toll-lancet.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/11/world/middleeast/gaza-war-death-toll-lancet.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/11/world/middleeast/gaza-war-death-toll-lancet.html" rel="standout"></atom:link>
+      <description>A letter in a major medical journal has prompted a discussion about the importance, and difficulty, of tallying those killed as an indirect result of the conflict between Israel and Hamas.</description>
+      <dc:creator>Matthew Mpoke Bigg</dc:creator>
+      <pubDate>Thu, 11 Jul 2024 17:25:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lancet, The (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">London School of Hygiene and Tropical Medicine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/10/multimedia/10mideast-crisis-excess-deaths1-fhwq/10mideast-crisis-excess-deaths1-fhwq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haitham Imad/EPA, via Shutterstock</media:credit>
+      <media:description>Bodies at a morgue in Nasser Hospital in Khan Younis, Gaza, on Tuesday.</media:description>
     </item>
     <item>
       <title>U.S. Will Allow Delivery of 500-pound Bombs to Israel, an Official Says</title>
@@ -614,14 +634,18 @@
       <description>The measure aims to close a loophole that officials said allowed metals made partly in China to come into the United States duty free.</description>
       <dc:creator>Ana Swanson</dc:creator>
       <pubDate>Thu, 11 Jul 2024 02:01:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Steel and Iron</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Metals and Minerals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Steel and Iron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aluminum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Metals and Minerals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Protectionism (Trade)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/10/business/10dc-biden-steel/10dc-biden-steel-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mauricio Palos/Bloomberg</media:credit>
       <media:description>A steel facility in San Luis Potosi, Mexico. The Biden administration announced steps on Wednesday to impose tariffs on Chinese steel routed through Mexico.</media:description>
@@ -1143,25 +1167,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/07/09/multimedia/09dc-prexy-lhqb/09dc-prexy-lhqb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>President Biden with other world leaders on Tuesday at the 75th celebration of NATO’s creation in Washington.</media:description>
-    </item>
-    <item>
-      <title>NATO’s New Boss: Affable, Pragmatic and Ready for Trump, if Required</title>
-      <link>https://www.nytimes.com/2024/07/09/world/europe/mark-rutte-nato.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/09/world/europe/mark-rutte-nato.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/09/world/europe/mark-rutte-nato.html" rel="standout"></atom:link>
-      <description>When he takes over as secretary general in October, Mark Rutte will face strains over Russia, Ukraine and the potential return of Donald J. Trump.</description>
-      <dc:creator>Steven Erlanger, Lara Jakes and Claire Moses</dc:creator>
-      <pubDate>Tue, 09 Jul 2024 11:54:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rutte, Mark</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wilders, Geert</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stoltenberg, Jens</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/09/multimedia/09nato-rutte-top-tjbp/09nato-rutte-top-tjbp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Remko De Waal/EPA, via Shutterstock</media:credit>
-      <media:description>Prime Minister Mark Rutte of the Netherlands leaving the prime minister’s office last week after nearly 14 years in the role. Gert-Jan Buitendijk, the secretary general of the Ministry of General Affairs, and Dick Schoof, Mr. Rutte’s successor, came to say goodbye. </media:description>
     </item>
   </channel>
 </rss>
