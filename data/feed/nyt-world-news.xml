@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 11 Jul 2024 14:09:28 +0000</lastBuildDate>
-    <pubDate>Thu, 11 Jul 2024 14:07:55 +0000</pubDate>
+    <lastBuildDate>Thu, 11 Jul 2024 14:25:00 +0000</lastBuildDate>
+    <pubDate>Thu, 11 Jul 2024 14:22:08 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/07/11/world/israel-gaza-war-hamas" rel="standout"></atom:link>
       <description>The militant group’s leader says “the only way” to stop the hostilities across the Lebanon-Israel border is to negotiate an end to the fighting in Gaza.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 11 Jul 2024 14:02:46 +0000</pubDate>
+      <pubDate>Thu, 11 Jul 2024 14:22:08 +0000</pubDate>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/07/11/multimedia/11mideast-crisis-briefing-promo-10am-khwq/11mideast-crisis-briefing-promo-10am-khwq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kawnat Haju/Agence France-Presse — Getty Images</media:credit>
     </item>
@@ -72,7 +72,7 @@
       <atom:link href="https://www.nytimes.com/2024/07/11/world/africa/kenya-president-cabinet-protests.html" rel="standout"></atom:link>
       <description>President William Ruto dismissed all but one of his cabinet secretaries after demonstrations over a finance bill that would have raised taxes led to the deaths of at least 39 people.</description>
       <dc:creator>Matthew Mpoke Bigg</dc:creator>
-      <pubDate>Thu, 11 Jul 2024 14:04:24 +0000</pubDate>
+      <pubDate>Thu, 11 Jul 2024 14:16:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ruto, William</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
@@ -372,9 +372,9 @@
       <link>https://www.nytimes.com/2024/07/11/climate/kobold-zambia-copper-ai-mining.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/07/11/climate/kobold-zambia-copper-ai-mining.html</guid>
       <atom:link href="https://www.nytimes.com/2024/07/11/climate/kobold-zambia-copper-ai-mining.html" rel="standout"></atom:link>
-      <description>The site, in Zambia, could make billions for Silicon Valley, provide minerals for the energy transition and help the United States in its rivalry with China.</description>
+      <description>The deposit, in Zambia, could make billions for Silicon Valley, provide minerals for the energy transition and help the United States in its rivalry with China.</description>
       <dc:creator>Max Bearak</dc:creator>
-      <pubDate>Thu, 11 Jul 2024 12:07:22 +0000</pubDate>
+      <pubDate>Thu, 11 Jul 2024 14:13:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Copper, Brass and Bronze</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
@@ -452,14 +452,12 @@
       <description>The Emirati lawyers, academics and activists, who were imprisoned in national security trials, had been scheduled to be released.</description>
       <dc:creator>Vivian Nereim</dc:creator>
       <pubDate>Wed, 10 Jul 2024 22:13:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ahmed Al Nuaimi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abdulsalam Al Marzooqi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/10/multimedia/10UAE-Trial-01-hltf/10UAE-Trial-01-hltf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Reuters</media:credit>
       <media:description>A protest in solidarity with political prisoners in Egypt and the United Arab Emirates on the sidelines of the U.N. climate talks in Dubai last year.</media:description>
@@ -472,16 +470,19 @@
       <description>The specter of a second Donald J. Trump presidency injects new urgency into the NATO summit this week. President Biden and other leaders agree Ukraine should have an “irreversible” path to membership.</description>
       <dc:creator>Edward Wong, Julian E. Barnes and Helene Cooper</dc:creator>
       <pubDate>Wed, 10 Jul 2024 21:19:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/10/multimedia/10dc-nato-ukraine-02-hkwz/10dc-nato-ukraine-02-hkwz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eric Lee/The New York Times</media:credit>
       <media:description>President Volodymyr Zelensky expressed thanks on Tuesday for the support given to Ukraine so far while prodding the Biden administration to continue relaxing its restrictions on the use of U.S. weapons in Russia.</media:description>
