@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 12 Jul 2024 13:44:13 +0000</lastBuildDate>
-    <pubDate>Fri, 12 Jul 2024 13:41:13 +0000</pubDate>
+    <lastBuildDate>Fri, 12 Jul 2024 14:08:07 +0000</lastBuildDate>
+    <pubDate>Fri, 12 Jul 2024 14:06:23 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/07/12/world/israel-gaza-war-hamas" rel="standout"></atom:link>
       <description>People briefed on the talks said it would be days until it is clear whether there was a breakthrough, and other officials cautioned that previous hopes had been dashed.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 12 Jul 2024 12:47:35 +0000</pubDate>
+      <pubDate>Fri, 12 Jul 2024 14:06:23 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/12/multimedia/12mideast-crisis-845-mphg/12mideast-crisis-845-mphg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Omar Al-Qattaa/Agence France-Presse — Getty Images</media:credit>
     </item>
@@ -161,16 +161,16 @@
       <description>The United States and Germany announced episodic deployments of longer-range American missiles in Germany starting in 2026.</description>
       <dc:creator>Ivan Nechepurenko and Paul Sonne</dc:creator>
       <pubDate>Thu, 11 Jul 2024 17:45:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ryabkov, Sergei A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <media:content height="1467" medium="image" url="https://static01.nyt.com/images/2024/07/11/multimedia/11us-missiles-1-ljhf/11us-missiles-1-ljhf-mediumSquareAt3X.jpg" width="1467"></media:content>
       <media:credit>U.S. Navy, via Reuters</media:credit>
       <media:description>In a photo made available by the U.S. Navy, an American ship in the Middle East launched a Tomahawk cruise missile in 2014.</media:description>
@@ -726,13 +726,14 @@
       <dc:creator>Peter Baker</dc:creator>
       <pubDate>Thu, 11 Jul 2024 17:39:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/10/multimedia/10dc-alliance-1-jlck/10dc-alliance-1-jlck-mediumSquareAt3X-v4.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>President Biden meeting with world leaders at a NATO summit in Washington on Wednesday. “The fact that NATO remains the bulwark of global security did not happen by accident,” Mr. Biden said during the summit’s opening ceremony.</media:description>
