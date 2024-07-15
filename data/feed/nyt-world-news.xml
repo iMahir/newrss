@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.03489450530084737" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 15 Jul 2024 21:08:35 +0000</lastBuildDate>
-    <pubDate>Mon, 15 Jul 2024 21:00:57 +0000</pubDate>
+    <lastBuildDate>Mon, 15 Jul 2024 21:24:22 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Jul 2024 21:12:11 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -243,6 +243,18 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/04/multimedia/00russia-writer-profile-wqkv/00russia-writer-profile-wqkv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Andrew Testa for The New York Times</media:credit>
       <media:description>Boris Akunin left Russia in 2014 to protest his country’s illegal annexation of Crimea. He has lived in Britain ever since. </media:description>
+    </item>
+    <item>
+      <title>Tuesday Briefing: Donald Trump’s Running Mate</title>
+      <link>https://www.nytimes.com/2024/07/15/briefing/trump-vice-president-trial-vance.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/15/briefing/trump-vice-president-trial-vance.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/15/briefing/trump-vice-president-trial-vance.html" rel="standout"></atom:link>
+      <description>Plus, a judge dismisses a criminal case against Trump.</description>
+      <dc:creator>Daniel E. Slotnik</dc:creator>
+      <pubDate>Mon, 15 Jul 2024 21:12:11 +0000</pubDate>
+      <media:content height="1635" medium="image" url="https://static01.nyt.com/images/2024/07/15/multimedia/16ambriefing-asia-nl-VANCE/15election-live-reporter-updates-pbmg-copy-mediumSquareAt3X-v3.jpg" width="1636"></media:content>
+      <media:credit>Haiyun Jiang for The New York Times</media:credit>
+      <media:description>J.D. Vance, Donald Trump’s running mate.</media:description>
     </item>
     <item>
       <title>Israel in Talks Over Withdrawing From Egypt-Gaza Border, Officials Say</title>
@@ -1186,27 +1198,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/12/multimedia/12uk-immigration-1-vqzj/12uk-immigration-1-vqzj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Chris J Ratcliffe/Reuters</media:credit>
       <media:description>A dinghy making its way toward England in May. Migrant crossings by small boat typically peak over the summer.</media:description>
-    </item>
-    <item>
-      <title>Many in Gaza City Ignore Israeli Military’s Calls to Evacuate</title>
-      <link>https://www.nytimes.com/2024/07/11/world/middleeast/gaza-city-evacuation-israel-military.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/11/world/middleeast/gaza-city-evacuation-israel-military.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/11/world/middleeast/gaza-city-evacuation-israel-military.html" rel="standout"></atom:link>
-      <description>Some civilians are fatigued by their repeated displacements, while others say there is no point in going to other areas that may be just as dangerous.</description>
-      <dc:creator>Raja Abdulrahim and Thomas Fuller</dc:creator>
-      <pubDate>Thu, 11 Jul 2024 23:57:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Group of Seven</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smotrich, Bezalel (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/11/multimedia/11mideast-1-jqzv/11mideast-1-jqzv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Omar Al-Qattaa/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The Gaza City neighborhood of Shejaiya on Thursday after the Israeli military withdrew.</media:description>
     </item>
   </channel>
 </rss>
