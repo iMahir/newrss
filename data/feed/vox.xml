@@ -16,6 +16,147 @@
 		<entry>
 			
 			<author>
+				<name>Nicole Narea</name>
+			</author>
+			
+			<title type="html"><![CDATA[How computers made poker a game for nerds]]></title>
+			<link rel="alternate" type="text/html" href="https://www.vox.com/culture/359966/poker-world-series-wsop-gto-solver" />
+			<id>https://www.vox.com/?p=359966</id>
+			<updated>2024-07-11T22:43:22Z</updated>
+			<published>2024-07-15T11:00:00Z</published>
+			<category scheme="https://www.vox.com" term="Culture" /><category scheme="https://www.vox.com" term="Explainers" /><category scheme="https://www.vox.com" term="Features" /><category scheme="https://www.vox.com" term="Future Perfect" /><category scheme="https://www.vox.com" term="Innovation" /><category scheme="https://www.vox.com" term="Money" /><category scheme="https://www.vox.com" term="Technology" /><category scheme="https://www.vox.com" term="Technology &amp; Media" />
+							<summary type="html"><![CDATA[Thousands of poker players have gathered in Las Vegas this month for their biggest tournament series of the year: the World Series of Poker (WSOP). For many professional players, the WSOP is an annual pilgrimage. For amateurs, it may be the culmination of years of saving to afford the steep $10,000 entry fee for the [&#8230;]]]></summary>
+			
+							<content type="html">
+											<![CDATA[
+
+						
+<figure>
+
+<img alt="Drawing of a human hand holding poker cards beside a robot hand holding cards. The robot has a straight flush; the human has junk." data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.vox.com/wp-content/uploads/sites/2/2024/07/Poker_LorenaSpurio_Vox.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none">Thousands of poker players <a href="https://www.wsop.com/tournaments/updates/">have gathered</a> in Las Vegas this month for their biggest tournament series of the year: the World Series of Poker (WSOP).</p>
+
+<p class="has-text-align-none">For many professional players, the WSOP is an annual pilgrimage. For amateurs, it may be the culmination of years of saving to afford the steep $10,000 entry fee for the main event, which has drawn a record-breaking 10,112 participants this year. The <a href="https://www.wsop.com/tournaments/payouts/?aid=2&amp;grid=5504&amp;tid=23257&amp;dayof=232578&amp;rr=-1">top 1,517 players</a> will walk away with at least $15,000, while the overall winner will claim $10 million at the final table on July 17.</p>
+
+<p class="has-text-align-none">To get “in the money” — that is, to make more than they paid to enter the tournament&nbsp; — even the best players need a fair bit of luck. These days, though, most poker players are not heedless, risk-seeking gamblers. They’re diligent students of the game who have often spent thousands of hours drilling the most optimal strategies, often with the help of a computer.</p>
+
+<p class="has-text-align-none">“It used to be that poker was a game played by degenerates, people who live on the edge,” said Doug Polk, a professional player who has won a WSOP event three times. “But what’s funny about that is, if you boil down poker to its essence, it’s a math game. And so that means that nerds are going to eventually win.”</p>
+
+<p class="has-text-align-none">We’ve come a long way from the image of a tuxedoed James Bond sipping his shaken-not-stirred martini in <em>Casino Royale</em>. Real-life players are instead reaching for Red Bull to power through 10 straight hours of play amid the constant clinking of poker chips. On the windowless casino floor, they don sunglasses to shield any glimpse of their eyes that could give away their position to other players and wear noise-canceling headphones to silence everything but the calculations running in their heads.</p>
+
+<p class="has-text-align-none">They are trying to play, albeit imperfectly, a strategy computer algorithms have revealed as game theory optimal, what players call GTO: the mathematically proven way to become unexploitable to other players while maximizing winnings. How closely players can hew to GTO can often determine their success, especially since the competition has never been fiercer: Anyone can now study GTO with an app on their phone.&nbsp;</p>
+
+<p class="has-text-align-none">“We&#8217;ve really seen a shift away from sort of the old-school gambler vibe toward a much more intelligent and sophisticated group of players,” said Polk, who is also a co-founder of the poker training company <a href="https://upswingpoker.com/about-us/doug-polk/?_gl=1*1lxz6pw*_up*MQ..*_ga*MTA2MjI4MTcwOS4xNzIwNTg1NjIw*_ga_19RXF7CJJ2*MTcyMDU4NTYxOS4xLjEuMTcyMDU4ODI0Ny4wLjAuMA..">Upswing Poker</a> and co-owner of the <a href="https://thelodgepokerclub.com/">Lodge Card Club</a> in Texas.</p>
+
+<p class="has-text-align-none">But has the relentless pursuit of optimization also made poker a bit &#8230; robotic?</p>
+
+<h2 class="wp-block-heading has-text-align-none">How poker became so damn huge&nbsp;</h2>
+
+<p class="has-text-align-none">Poker in some form dates back a thousand years, but French colonists imported its European predecessor Poque to the southern US in the 1800s, after which English speakers <a href="https://www.history.com/news/where-did-poker-originate">adopted the game and made it their own</a>.&nbsp;</p>
+
+<p class="has-text-align-none">It took hold in the <a href="https://www.history.com/news/where-did-poker-originate">saloons on the American frontier</a> in the 1870s. US soldiers in World War I <a href="https://www.history.com/news/where-did-poker-originate">made the game more broadly popular</a>. After 1970, when the <a href="https://www.wsop.com/history/">first World Series of Poker was held</a>, poker tournaments became more commonplace, producing star players like <a href="https://www.nytimes.com/2012/05/01/sports/amarillo-slim-five-time-poker-world-series-winner-dies-at-83.html">Amarillo Slim</a> and <a href="https://www.latimes.com/archives/la-xpm-2006-apr-15-me-pearson15-story.html">Puggy Pearson</a> (who dropped out of school in the fifth grade). This growth in popularity also spawned the<a href="https://www.pokernews.com/news/2017/09/nolan-dalla-10-most-important-poker-strategy-books-18297.htm"> first generation of poker strategy books</a>.&nbsp;</p>
+
+<p class="has-text-align-none">The 1990s saw poker go mainstream as tournaments were increasingly <a href="https://www.pokerlistings.com/blog/every-poker-tv-show-ever-ranked">televised in the style of live sports</a>. Films like <a href="https://www.imdb.com/title/tt0128442/"><em>Rounders</em></a>, where Matt Damon’s character plays underground poker games to help his friend repay a loan shark, elevated the game in popular culture. The <a href="https://poker.com/features/the-history-of-online-poker/">first online poker sites emerged</a>, paving the way for a poker boom in the 2000s.</p>
+
+<p class="has-text-align-none">No-Limit Hold’em became the most popular version of the game. In case you’re unfamiliar, here’s how it works:</p>
+
+<div class="c-image-slider alignnone wp-block-vox-media-image-slider">
+	<div class="c-image-slider__caption">
+		
+<img src="https://platform.vox.com/wp-content/uploads/sites/2/2024/07/Poker_Vox_01.png?quality=90&#038;strip=all&#038;crop=0,10.732984293194,100,78.534031413613" alt="" title="" data-has-syndication-rights="1" data-caption="" data-portal-copyright="" />
+
+<img src="https://platform.vox.com/wp-content/uploads/sites/2/2024/07/Poker_Vox_012.png?quality=90&#038;strip=all&#038;crop=0,10.732984293194,100,78.534031413613" alt="" title="" data-has-syndication-rights="1" data-caption="" data-portal-copyright="" />
+
+<img src="https://platform.vox.com/wp-content/uploads/sites/2/2024/07/Poker_Vox_013.png?quality=90&#038;strip=all&#038;crop=0,10.732984293194,100,78.534031413613" alt="" title="" data-has-syndication-rights="1" data-caption="" data-portal-copyright="" />
+
+<img src="https://platform.vox.com/wp-content/uploads/sites/2/2024/07/Poker_Vox_014.png?quality=90&#038;strip=all&#038;crop=0,10.732984293194,100,78.534031413613" alt="" title="" data-has-syndication-rights="1" data-caption="" data-portal-copyright="" />
+
+<img src="https://platform.vox.com/wp-content/uploads/sites/2/2024/07/Poker_Vox_015.png?quality=90&#038;strip=all&#038;crop=0,10.732984293194,100,78.534031413613" alt="" title="" data-has-syndication-rights="1" data-caption="" data-portal-copyright="" />
+
+<img src="https://platform.vox.com/wp-content/uploads/sites/2/2024/07/Poker_Vox_016.png?quality=90&#038;strip=all&#038;crop=0,10.732984293194,100,78.534031413613" alt="" title="" data-has-syndication-rights="1" data-caption="" data-portal-copyright="" />
+
+<img src="https://platform.vox.com/wp-content/uploads/sites/2/2024/07/Poker_Vox_017.png?quality=90&#038;strip=all&#038;crop=0,10.732984293194,100,78.534031413613" alt="" title="" data-has-syndication-rights="1" data-caption="" data-portal-copyright="" />
+
+<img src="https://platform.vox.com/wp-content/uploads/sites/2/2024/07/Poker_Vox_018.png?quality=90&#038;strip=all&#038;crop=0,10.732984293194,100,78.534031413613" alt="" title="" data-has-syndication-rights="1" data-caption="" data-portal-copyright="" />
+	</div>
+</div>
+
+<p class="has-text-align-none">As the rules suggest, poker is a game of incomplete information. Players know there are 52 cards in a deck, divided into four suits with 13 cards each. While they can calculate the probabilities of certain cards being in their opponent&#8217;s hand or appearing on the table, they cannot know these outcomes for certain. The choices they make around whether to fold, check, bet — and how much to bet — depend on these probabilities, as well as their anticipation of how their opponents will play.</p>
+
+<p class="has-text-align-none">Historically, poker players primarily relied on intuition and experience to make these decisions. They adapted their strategies to exploit any patterns they observed in their opponents’ play. For instance, a player might bluff too often; any opponent who realizes this will exploit that tendency by calling more often and not folding outright, forcing the player to show their weak hand at the end of the betting rounds. Players might also provide subconscious <a href="https://www.youtube.com/watch?v=8VW6ZzzOaxY">visual tells</a>, such as glancing at their chips when they’re feeling good about their hand and are planning to bet or raise. An opponent might want to proceed cautiously in challenging them.&nbsp;</p>
+
+<p class="has-text-align-none">But this style of play, known as “exploitative play,” isn’t an exact science. Many players developed idiosyncratic styles rooted in their own strengths and weaknesses, leading to diverse approaches and debates about the optimal strategy.</p>
+
+<p class="has-text-align-none">“I do have some nostalgia for the days when you could just put your pants on and go play,” said Eric Seidel, a pro player who won his first of 10 WSOP events in 1992 and has been inducted into the Poker Hall of Fame. “There weren’t really any solutions to things. People were just making things up as they went along and getting by on experience and judgment.”</p>
+
+<p class="has-text-align-none">The rise of GTO and computer solvers, however, completely changed the game.</p>
+
+<h2 class="wp-block-heading has-text-align-none"><strong>Time for some game theory</strong></h2>
+
+<p class="has-text-align-none">Game theory itself isn’t new. Mathematician John von Neumann and economist Oskar Morgenstern <a href="https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/neumann.html">developed</a> it in the 1950s to establish a mathematical way to understand optimal strategies in competitive games, and their work has been applied to a wide range of fields from international relations to the study of animal behavior.&nbsp;</p>
+
+<p class="has-text-align-none">A key concept in game theory that you may remember if you’ve ever taken Economics 101 is a Nash Equilibrium: a state in which each player&#8217;s strategy is optimal given the strategies of all other players. In games like poker, a player is unexploitable in this state — it is their best strategy to maximize their winnings in the long run, and no other player can do better by changing their strategy alone. That doesn’t mean they won’t lose a particular hand since luck of the card draw still plays a role, but over many hands, they’ll do better than they would pursuing any other strategy.</p>
+
+<p class="has-text-align-none">After Bill Chen’s seminal book <em>The Mathematics of Poker</em> came out in 2006, top players increasingly started incorporating game theoretical concepts in their play. But GTO really exploded in the mid-2010s with the development of computer poker solvers such as PioSolver or Simple Postflop. These solvers use profit-maximizing algorithms that analyze and predict players&#8217; strategies and payoffs to essentially find the Nash Equilibrium at any point in a game.&nbsp;</p>
+
+<p class="has-text-align-none">Players can practice by running past hands by the solver or asking it to spit out optimal strategies in a certain scenario. They can also play against a computer with apps like <a href="https://gtowizard.com/g1/?gad_source=1&amp;gclid=CjwKCAjw4ri0BhAvEiwA8oo6F98A2Q5ICPUe8HZGXjtWvj5Fq29vOV_fxCLWI3ZSNLUItWdY9jHGcxoCiA4QAvD_BwE">GTO Wizard</a>, which will then tell them what they should have done to play optimally. With repetition, GTO strategies start to sink in.</p>
+
+<p class="has-text-align-none">“Some top players spend hours running simulations and memorizing the solutions,” said Liv Boeree, a former professional poker player and the only woman in history to win both a WSOP event and a European Poker Tour event. “This is vastly different to the old-school days where players ‘trained’ through playing, and perhaps honing, general principles. We now have access to much more granular data on optimal play in specific situations.”</p>
+
+<p class="has-text-align-none">Poker, she added, has “evolved from an art into a science.”&nbsp;</p>
+
+<p class="has-text-align-none">However, no human can actually play perfect GTO strategy. Performing the necessary calculations without the help of a computer is just too complicated. That’s because there is an astronomical number of game states in poker: depending on the betting rules and the number of their chips, a player can make a bet of any size and so can their opponents, and there are 2,598,960 possible hands. In practice, players are only approximating GTO; at best, that’s what their opponents are doing as well. This means that players can deviate from textbook GTO to exploit weaknesses in other players and maximize their profits.&nbsp;</p>
+
+<p class="has-text-align-none">Some players do this exceptionally well. Take <a href="https://www.wsop.com/news/2012/Jul/3929/IVEY-LEAGUE-A-ONE-ON-ONE-INTERVIEW-WITH-THE-WORLDS-BEST-POKER-PLAYER-PHIL-IVEY.html">Phil Ivey</a> or <a href="https://web.archive.org/web/20070430012421/http://www.azstarnet.com/accent/149415.php">Daniel Negreanu</a>, who came on the scene before GTO was widespread but are still top poker players known for their abilities to read and exploit their opponents. But deviating from GTO can also be risky because it can backfire and open a player to exploitation themselves.</p>
+
+<p class="has-text-align-none">“The beauty of poker is that there are so many different situations that can arise and so many different ways to think about the different spots and the combinations of hands and how likely things are that even if you’re really good, you’re going to be constantly making mistakes,” Polk said.&nbsp;</p>
+
+<p class="has-text-align-none">At the same time, however, Polk said that even simplified GTO strategies can allow a player to reap many of the benefits of textbook GTO. This means that, for most successful players, “poker has become more about executing the math and those strategies at a high level, rather than staring your opponent down in the eye and knowing that he doesn&#8217;t have the goods.”</p>
+
+<h2 class="wp-block-heading has-text-align-none">Where does poker go from here?</h2>
+
+<p class="has-text-align-none">Not all of the changes wrought by GTO are for the better of the game. For one, it raises a practical problem: It’s now easier than ever to cheat, especially online.&nbsp;</p>
+
+<p class="has-text-align-none">In 2011, the US government cracked down on unregulated online poker sites in an event known by the poker community as “<a href="https://www.pokernews.com/news/2022/11/full-tilt-poker-cheating-scandal-42534.htm">Black Friday</a>.” But such sites have nonetheless proliferated internationally — take the Canada- and Ireland-based site <a href="https://ggpoker.com/">GG Poker</a>, for which Negreanu is a spokesperson — and made a major resurgence during the pandemic.&nbsp;</p>
+
+<p class="has-text-align-none">Some more reputable sites, including GG Poker, have tried to implement <a href="https://poker.com/poker-industry-news/poker-sites-to-combat-real-time-assistance-cheating-in-online-poker/">anti-cheating software</a> to detect when players are using computer solvers to assist them in real time, banning some accounts and confiscating their winnings.&nbsp;</p>
+
+<p class="has-text-align-none">But enforcement can be spotty, and determined individuals can still find ways to cheat. In one 2020 case, Fedor Kruse, a former video game streamer who became prominent in online high-stakes tournaments, was <a href="https://www.pokernews.com/news/2020/09/fedor-kruse-solver-cheat-high-stakes-cash-37966.htm">accused</a> of using real-time assistance software to play GTO by using a second computer that he allegedly called the “dream machine.”</p>
+
+<p class="has-text-align-none">Polk said the only way for a poker player to protect themselves from rampant cheating is to not play online at all.&nbsp;</p>
+
+<p class="has-text-align-none">“It’s really much harder for people to be successful online than it used to be,” Seidel said. “The majority of players are honest, but the ones that aren’t are definitely a problem. And some sites are better than others at policing that kind of thing.”</p>
+
+<p class="has-text-align-none">But beyond cheating, some players think GTO has changed the soul of poker in a way that makes it less fun to play.</p>
+
+<p class="has-text-align-none">“I think it’s worse for the game, frankly, because the days of just no one having any idea are gone,” said Polk, who has somewhat stepped back from the game and focused on his businesses after playing what he estimates to be 7 to 8 million hands of poker in his lifetime. “It’s just turned into who wants to spend the time necessary to execute a high level. I don&#8217;t love that &#8230; I just don&#8217;t feel like it’s that interesting anymore.”</p>
+
+<p class="has-text-align-none">Boeree agrees that GTO “takes away a bit of [poker’s] romantic Wild West character.” But she said it’s not all bad; just different.</p>
+
+<p class="has-text-align-none">For one thing, GTO players tend to play more aggressively than old-school players. That’s because the theory incorporates a balanced mix of frequent value bets and bluffs: GTO players tailor their bet sizes to extract maximum value from their strong hands by encouraging calls from worse hands, using bluffs to keep opponents guessing and prevent exploitation.</p>
+
+<p class="has-text-align-none">This can be exciting to watch in that it frequently leads to bigger pots, crazier bluffs, and dramatic showdowns. For amateurs who don’t know what they’re doing, it’s a lot easier to make costly mistakes when facing GTO opponents. Sometimes, hands are resolved more quickly because a big bet could intimidate players into folding. But thinking through GTO strategy on the spot can also be time-consuming, making some hands go slower.&nbsp;</p>
+
+<p class="has-text-align-none">When playing opponents who came on the scene in the 1990s, Polk said he has noticed that their “style tends to be more conservative. It tends to be more of wait till you have a good hand.”&nbsp;</p>
+
+<p class="has-text-align-none">“Whereas the modern poker strategies, they’re very aggressive. They really go after people in places. They bluff a lot. They attack pots. They make your opponent’s life difficult,” he added.</p>
+
+<p class="has-text-align-none">The democratization of poker knowledge has made top players’ “edges much smaller and the competition fierce,” Boeree said. If every player at a table is playing GTO, the play becomes more about focusing on maintaining GTO and less about reading opponents, which can seem mechanical.</p>
+
+<p class="has-text-align-none">“I’d argue it’s also made it more intellectually fascinating, as the mathematical building blocks of the game are now truly visible for the first time,” she said. “There’s still plenty of room for creativity, especially in live play where you’re dealing with real human faces and emotions. Even the best players still make mistakes and give off tells that can in theory be exploited!”</p>
+
+<p class="has-text-align-none">Seidel said he doesn’t have as much time to sit in front of a computer and study GTO in the way that some younger players might. His experience has helped balance that out, ensuring he’s still one of the world’s best players: He has already notched <a href="https://www.pokernews.com/news/2024/04/erik-seidel-us-poker-open-win-45752.htm">two major tournament victories this year</a>. The changes in the game, however, are part of what keep him coming back after more than three decades of playing professionally at a top level.&nbsp;</p>
+
+<p class="has-text-align-none">“I do find it’s an exciting time to play with players who have really studied the game,” he said. “It’s really interesting to me because I feel like, as much as I’m a player, I’m also a fan of the game. I really enjoy watching the game develop and trying my best to keep up.”</p>
+						]]>
+									</content>
+			
+					</entry>
+			<entry>
+			
+			<author>
 				<name>Zack Beauchamp</name>
 			</author>
 			
@@ -768,100 +909,6 @@
 <p class="has-text-align-none">The DCC are far from the only women in the US told they should be honored at the opportunity to fit into a narrow and deleterious mold, from pageant queens to sorority rushes to even new mothers and women on dating apps, these kinds of sharp, exhausting standards are de rigueur in American life. Like a pair of DCC hot pants, it’s all a trap — but it&#8217;s easier to see when women are starving themselves to fit into unyielding short shorts. </p>
 
 <p class="has-text-align-none">The natural question is whether the hunger, humiliation, low pay, broken hips, and casual judgment of Kelli and Judy are all worth it. Perhaps there’s some kind of calculus to becoming a Dallas Cowboys Cheerleader that we’re still not privy to. Maybe there’s something there that seven hours couldn’t possibly capture. Or perhaps that rationalization is part of the same hollow fantasy that fuels the DCC.</p>
-						]]>
-									</content>
-			
-					</entry>
-			<entry>
-			
-			<author>
-				<name>Li Zhou</name>
-			</author>
-			
-			<title type="html"><![CDATA[Kamala Harris’s strengths — and vulnerabilities — explained]]></title>
-			<link rel="alternate" type="text/html" href="https://www.vox.com/politics/360327/vice-president-kamala-harris-joe-biden-nominee" />
-			<id>https://www.vox.com/?p=360327</id>
-			<updated>2024-07-13T03:28:34Z</updated>
-			<published>2024-07-13T11:00:00Z</published>
-			<category scheme="https://www.vox.com" term="Explainers" /><category scheme="https://www.vox.com" term="Politics" />
-							<summary type="html"><![CDATA[There are a lot of reasons Vice President Kamala Harris would be the obvious successor to President Joe Biden if he decides not to run again this year.&#160; Whether he actually will has been an open question since Biden’s disastrous debate performance on June 27, when he stumbled over his answers, offered non sequiturs on [&#8230;]]]></summary>
-			
-							<content type="html">
-											<![CDATA[
-
-						
-<figure>
-
-<img alt="Harris, in a rose pink blazer and white shirt, smiles while holding both hands apart and speaking into a microphone." data-caption="Vice President Kamala Harris speaks to members of the Alpha Kappa Alpha Sorority on July 10, in Dallas, Texas. | Brandon Bell/Getty Images" data-portal-copyright="Brandon Bell/Getty Images" data-has-syndication-rights="1" src="https://platform.vox.com/wp-content/uploads/sites/2/2024/07/gettyimages-2161520248_573ce8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
-	<figcaption>Vice President Kamala Harris speaks to members of the Alpha Kappa Alpha Sorority on July 10, in Dallas, Texas. | Brandon Bell/Getty Images</figcaption>
-</figure>
-<p class="has-text-align-none"><a href="https://www.vox.com/2024-elections/357948/url-harris-replace-biden-trump-debate-reaction-polling-vice-presidency">There are a lot of reasons Vice President Kamala Harris</a> would be the obvious successor to President Joe Biden if he decides not to run again this year.&nbsp;</p>
-
-<p class="has-text-align-none">Whether he actually will has been an open question since <a href="https://www.vox.com/politics/357788/biden-trump-debate-winners-losers">Biden’s disastrous debate performance on June 27,</a> when he stumbled over his answers, offered non sequiturs on different topics, and failed to communicate key achievements. Those missteps came amid heightened scrutiny of his age, and were followed by recent press appearances where he’s confused <a href="https://www.bbc.com/news/videos/ce78zklp77wo">the names of major figures</a>, and <a href="https://www.vox.com/politics/359160/biden-abc-news-interview-drop-out">offered hard-to-follow answers</a>. </p>
-
-<p class="has-text-align-none">All that’s led to discussion among pundits and grassroots Democrats alike about <a href="https://www.vox.com/politics/357936/biden-harris-buttigieg-newsom-whitmer-pritzker-convetion-debate-2024">who would fill in for Biden</a> with just under four months until Election Day. Michigan Gov. Gretchen Whitmer has been a popular suggestion, as has California Gov. Gavin Newsom.&nbsp;</p>
-
-<p class="has-text-align-none">But perhaps no one makes as much sense as Harris, who’s already in a role designed to take over for a president unable to continue their duties.&nbsp;</p>
-
-<p class="has-text-align-none">As VP, she’s steeped in the policy work of this administration, and has extensive experience in the White House that she could bring to the job. And she could well be an energizing candidate for many Democratic voters as the first Black and South Asian woman to have the party’s presidential nomination, and as a younger, charismatic alternative to the 78-year-old Republican nominee, former President Donald Trump. Logistically, it would also be fairly easy to <a href="https://apnews.com/article/kamala-harris-biden-fundraising-election-campaign-donations-5709f07420b4f138caa884361653368e#">transfer Biden’s $91 million in campaign funds to Harris</a> (and more difficult to hand that money over to someone else).&nbsp;</p>
-
-<p class="has-text-align-none">That said, Harris has real vulnerabilities — which have been evident during her tenure as VP and as a 2020 presidential candidate — that could potentially bog her down. Notably, <a href="https://www.sacbee.com/news/politics-government/capitol-alert/article289792134.html">her favorability ratings have sometimes lagged Biden’s</a> while she’s been vice president, and a common critique she faces is that she hasn’t been able to <a href="https://www.nytimes.com/2023/10/10/magazine/kamala-harris.html" data-type="link" data-id="https://www.nytimes.com/2023/10/10/magazine/kamala-harris.html">carve out a distinct lane for herself</a>. When she ran for the presidency in 2020, she fielded similar issues, leaving people confused about what she stood for.&nbsp;</p>
-
-<p class="has-text-align-none">Taken together, there’s still a strong argument for Harris to step in, if Biden drops out of the race. Notably, though, there are also some key challenges she’ll have to overcome.&nbsp;</p>
-
-<h2 class="wp-block-heading has-text-align-none"><strong>The case for Kamala Harris taking over for Biden</strong></h2>
-
-<p class="has-text-align-none">If Harris were to take over for Biden, she’d have some version of the incumbency advantage as the sitting vice president. Though there are important caveats, as detailed by <a href="https://www.vox.com/politics/23562688/joe-biden-2024-presidential-election-polls-democrats">my colleague Andrew Prokop</a>, roughly two of three incumbents have won reelection.&nbsp;</p>
-
-<p class="has-text-align-none">As part of that advantage, Harris would be able to tout her role in the Biden administration’s wins — like the Inflation Reduction Act, which will help lower prescription drug costs and invest in climate initiatives, and the Bipartisan Infrastructure Law, which includes historic funding for bridges and roads. She’d be able to point, too, to the experience she’s garnered as vice president and how it’s prepared her to become commander-in-chief.&nbsp;</p>
-
-<p class="has-text-align-none">It’s a strategy Biden himself successfully employed in 2020, when he <a href="https://www.vox.com/policy-and-politics/2019/9/16/20863343/joe-biden-barack-obama-2020-democratic-presidential-primary">linked himself to the Obama administration’s achievements</a> — and emphasized how <a href="https://obamawhitehouse.archives.gov/the-press-office/2012/04/26/remarks-vice-president-joe-biden-foreign-policy-camapaign-event">he was often the “last one in the room”</a> when key decisions were being made.&nbsp;</p>
-
-<p class="has-text-align-none">“When you think about all these legislative pieces that were passed in Congress, the vice president was part of the conversations with the president, with the Cabinet, whether it was the infrastructure bill, or the IRA, or the CHIPS bill,” <a href="https://www.vox.com/politics/2023/3/27/23655248/kamala-harris-vice-president-approval-criticism">former Labor Secretary Marty Walsh, who’s worked alongside Harris, previously told Vox</a>. That experience, in itself, is significant and invaluable.&nbsp;</p>
-
-<p class="has-text-align-none">Since the fall of <em>Roe, </em>Harris has also taken on the mantle of abortion rights, meeting with advocates and voters across the country, and rallying people on the issue in places like Wisconsin, Arizona, and Florida.&nbsp;</p>
-
-<p class="has-text-align-none">This subject has been particularly motivating for Democratic voters and women in recent elections, with multiple ballot initiatives — like <a href="https://www.vox.com/policy-and-politics/23451074/abortion-ballot-measure-midterms-kentucky-montana-michigan">those in Vermont and Michigan</a> — passing with overwhelming support. During the 2022 midterm elections, protecting reproductive rights was a central policy for many voters, and a decisive one that helped boost Democrats. Harris’s defense of abortion access is a point that would allow her to paint a sharp contrast with Trump, who has taken credit for <em>Roe</em>’s demise and argued that abortion should be decided on a state-by-state basis.</p>
-
-<p class="has-text-align-none">In addition to the experience she has in the White House, Harris also brings legislative expertise from her four years in the Senate, and background on criminal justice reform from her time as attorney general in California. Although some of her tenure as vice president has been plagued with communications missteps, she’d previously been known for her viral moments questioning Trump appointees as a member of the Senate Judiciary Committee and made a big splash in 2019 during a debate confrontation of Biden over his past stance on busing.</p>
-
-<p class="has-text-align-none">Harris could infuse the ticket with new energy as well. Numerous polls have found that majorities of Americans don’t want Biden on the ballot, including a <a href="https://maristpoll.marist.edu/polls/contest-for-president-still-up-for-grabs/">July 2024 PBS News/NPR/Marist</a> survey placing that number at 56 percent, and want to see <a href="https://wapo.st/469LlsL">options other than Biden or Trump</a>.</p>
-
-<p class="has-text-align-none">Harris could potentially be that alternative. At 59, she’s decades younger than both the current nominees. And she’s also emblematic of both an increasingly diverse Democratic Party and country, making her a candidate who could be especially motivating for key voting constituencies including Black women. (<a href="https://today.yougov.com/topics/politics/trackers/kamala-harris-favorability">In a July 2024 YouGov poll,</a> Harris’s favorability numbers were at 41 percent with adults overall, and 69 percent among Black respondents.) That could bode well for better turnout and enthusiasm.&nbsp;</p>
-
-<p class="has-text-align-none">“She’s the second Black woman elected to the Senate, which in a state like California is no small feat,” says University of Maryland public policy professor <a href="https://spp.umd.edu/our-community/faculty-staff/niambi-carter">Niambi Carter</a>. “So she’s shown that she can get voters, white, Black, Latino, and others, to come to the polls.”</p>
-
-<p class="has-text-align-none">Experts note, too, that bypassing Harris for another candidate — especially a white one — could run the risk of fracturing support from Black voters and other key Democratic constituencies, says <a href="https://split-ticket.org/author/lakshyajain97/">Lakshya Jain</a>, the CEO of electoral analysis site Split Ticket.&nbsp;</p>
-
-<p class="has-text-align-none">“I think there would be significant voter backlash,” Jain told Vox. “It would rupture the party and create negative news cycles for quite a while, and the eventual nominee would emerge quite wounded and with a massive amount of ground to make up among Black voters.”</p>
-
-<p class="has-text-align-none">Finally, on the logistics front, Harris would be able to make the transition a bit more seamlessly because she could inherit Biden’s fundraising apparatus and campaign staff, as former White House press secretary <a href="https://www.tiktok.com/t/ZTNUhvweM/">Jen Psaki explained in a TikTok post</a>. “Structurally, she could just move the campaign staff, she could move all their resources over,” Psaki noted.&nbsp;</p>
-
-<figure class="wp-block-embed is-type-rich is-provider-tiktok wp-block-embed-tiktok"><div class="wp-block-embed__wrapper">
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@jenpsaki/video/7390544135414959391" data-video-id="7390544135414959391" data-embed-from="oembed"> <section> <a target="_blank" title="@jenpsaki" href="https://www.tiktok.com/@jenpsaki?refer=embed">@jenpsaki</a> <p>Kamala has been floated as the obvious pick to replace Biden, here are her strengths and weaknesses <a title="msnbc" target="_blank" href="https://www.tiktok.com/tag/msnbc?refer=embed">#msnbc</a> <a title="biden" target="_blank" href="https://www.tiktok.com/tag/biden?refer=embed">#biden</a> <a title="harris" target="_blank" href="https://www.tiktok.com/tag/harris?refer=embed">#harris</a> <a title="trump" target="_blank" href="https://www.tiktok.com/tag/trump?refer=embed">#trump</a> <a title="election2024" target="_blank" href="https://www.tiktok.com/tag/election2024?refer=embed">#election2024</a> @MSNBC </p> <a target="_blank" title="♬ original sound - TheRealPsaki" href="https://www.tiktok.com/music/original-sound-7390544158873750303?refer=embed">♬ original sound &#8211; TheRealPsaki</a> </section> </blockquote> 
-</div></figure>
-
-<h2 class="wp-block-heading has-text-align-none"><strong>The case against Harris</strong></h2>
-
-<p class="has-text-align-none">For all the strengths she’d have as a nominee, there have also been issues Harris has struggled with as vice president, and as a presidential candidate in 2020. And those could haunt her should she be Democrats’ 2024 presidential nominee.</p>
-
-<p class="has-text-align-none">Notably, while she’s remained liked by a number of Democratic constituencies, her overall favorability and approval numbers haven’t been the strongest. As a <a href="https://projects.fivethirtyeight.com/biden-approval-rating/">FiveThirtyEight aggregation</a> found, Biden has 37 percent approval from all US voters, while Harris has <a href="https://projects.fivethirtyeight.com/polls/approval/kamala-harris/">38 percent</a>. And she’d be seen as a continuation of the Biden administration, meaning she could be simply viewed as “more of the same” by voters who aren’t happy with the policies or positions it’s represented. Per surveys from this past year, voters are <a href="https://www.nytimes.com/2024/05/14/podcasts/the-daily/trump-biden-poll.html">interested in change</a> and have expressed discontent with the status quo.<strong>&nbsp;</strong></p>
-
-<p class="has-text-align-none">Harris also hasn’t always defined herself — and what she stands for — that clearly.&nbsp;</p>
-
-<p class="has-text-align-none">In 2020, that was evident in how she sought to adopt both progressive and moderate policy stances, seemingly losing members of both constituencies. She’s especially struggled with the left and its often younger voters: Despite her self-described position as a progressive prosecutor, she was called out by grassroots progressives  during the 2019 campaign for actions she’d taken on truancy as well as wrongful convictions.&nbsp;</p>
-
-<p class="has-text-align-none">This same overarching issue has emerged in her vice presidency, when some critics have argued that she hasn’t established what issues she owns or been clear about what she’s been able to achieve.&nbsp;</p>
-
-<p class="has-text-align-none">White House officials have previously highlighted her extensive work on foreign policy, immigration, voting rights, and reproductive rights. That’s a broad portfolio, and staffers who’ve worked with her have described the catch-22 that it can feel like Harris faces: if she chose solely to work on one issue, for example, she risks getting pigeonholed. If she works more broadly, as she has opted to do, she’s criticized for not being dedicated to just one area.&nbsp;</p>
-
-<p class="has-text-align-none">And though she’s been an effective communicator in a number of high-profile cases ranging from her questioning of former Trump Attorney General Jeff Sessions to a major speech she gave on the 50th anniversary of <em>Roe</em>, she’s also been pilloried for statements that have been commonly derided as sounding like “<a href="https://nypost.com/2023/12/20/news/kamala-harris-serves-up-another-word-salad-as-discusses-most-election-of-our-lifetime/">word salad</a>.” Those remarks have prompted some to wonder if she’d be able to be a strong enough messenger for Democrats during this pivotal time.&nbsp;</p>
-
-<p class="has-text-align-none">Her record with staff has been scrutinized by reporters, too, due to the turnover that’s taken place in her office across the roles she’s held, raising questions about her management style. Stories emerged about her <a href="https://www.businessinsider.com/kamala-harris-staffers-toxic-office-culture-dysfunction-2021-7">attorney general</a> office and <a href="https://www.politico.com/news/2021/06/30/kamala-harris-office-dissent-497290">her VP office</a> detailing what some staffers describe as a difficult work environment that stemmed from the top. Such reports fuel concerns about what leadership would look like in a Harris White House, though her office is far from the only one to have <a href="https://www.brookings.edu/articles/tracking-turnover-in-the-biden-administration/#:~:text=President%20Biden's%20%E2%80%9CA%2DTeam%E2%80%9D,Biden's%20Cabinet%20turnover%20is%2013%25.">seen turnover</a> in these roles.&nbsp;</p>
-
-<p class="has-text-align-none">And latent sexism and racism among voters is a key worry some Democrats have raised. “I don&#8217;t know that a lot of people want to admit this, [but] I think there are a lot of people who are uncomfortable with a Black woman being the president,” says Carter. Candidates of color and women, including former President Barack Obama, have long had to navigate such biases &#8212; <a href="https://www.nbcnews.com/id/wbna24284188" data-type="link" data-id="https://www.nbcnews.com/id/wbna24284188">and electability concerns</a> &#8212; though he was ultimately able to win in spite of them.</p>
-
-<p class="has-text-align-none">Overall, these dynamics indicate that a Harris nomination, like any other, would come with both pros and cons. In the difficult situation that Democrats find themselves in, Harris’s strengths could well outweigh her vulnerabilities — if she can address them.</p>
 						]]>
 									</content>
 			
