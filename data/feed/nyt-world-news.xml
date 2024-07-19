@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.06718579050328155" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 19 Jul 2024 15:46:02 +0000</lastBuildDate>
-    <pubDate>Fri, 19 Jul 2024 15:45:05 +0000</pubDate>
+    <lastBuildDate>Fri, 19 Jul 2024 16:11:13 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Jul 2024 16:10:14 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/07/19/world/israel-gaza-war-hamas" rel="standout"></atom:link>
       <description>The advisory opinion by the International Court of Justice is the first time the court has laid out its stance on the issue.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 19 Jul 2024 15:32:43 +0000</pubDate>
+      <pubDate>Fri, 19 Jul 2024 16:04:09 +0000</pubDate>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/19/multimedia/19mideast-crisis-promo11am/19mideast-crisis-header-fpcv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Avishag Shaar-Yashuv for The New York Times</media:credit>
     </item>
@@ -108,7 +108,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/07/19/us/global-tech-outage" rel="standout"></atom:link>
       <description>Airlines, banks and broadcasters were among the companies around the world reporting disruptions, citing technical issues.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 19 Jul 2024 15:45:05 +0000</pubDate>
+      <pubDate>Fri, 19 Jul 2024 16:10:14 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/19/multimedia/19tech-outage-promo-11am-ET-ljft/19tech-outage-promo-11am-ET-ljft-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Graham Dickie/The New York Times</media:credit>
     </item>
@@ -223,25 +223,22 @@
       <description>Some governments are taking concrete steps to prepare for the possible return of the former U.S. president.</description>
       <dc:creator>Paul Sonne</dc:creator>
       <pubDate>Thu, 18 Jul 2024 16:27:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Republican National Convention</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Protectionism (Trade)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Republican National Convention</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lopez Obrador, Andres Manuel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Orban, Viktor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/18/multimedia/18global-trump-gltf/18global-trump-gltf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jon Cherry for The New York Times</media:credit>
       <media:description>With Donald J. Trump consistently polling ahead of President Biden, some governments around the world are taking concrete steps to prepare for the possibility of a second Trump administration.</media:description>
@@ -304,6 +301,28 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/01/11/multimedia/00obit-nguyen-1-bwtk/00obit-nguyen-1-bwtk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hoang Dinh Nam/Agence France-Presse — Getty Images</media:credit>
       <media:description>Nguyen Phu Trong, center, at the Vietnam Communist Party’s 11th National Congress in Hanoi, in 2011, at which he was voted to be the party’s new general secretary.</media:description>
+    </item>
+    <item>
+      <title>Canada Pledges to Hit NATO Military Spending Target by 2032</title>
+      <link>https://www.nytimes.com/2024/07/19/world/canada/canada-nato-spending.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/19/world/canada/canada-nato-spending.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/19/world/canada/canada-nato-spending.html" rel="standout"></atom:link>
+      <description>The country’s struggle to reach an informal military spending target highlights how difficult it is for the alliance to quickly bolster its abilities.</description>
+      <dc:creator>Matina Stevis-Gridneff</dc:creator>
+      <pubDate>Fri, 19 Jul 2024 16:00:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Canadian Armed Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Group of Seven</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blair, Bill (1954- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/19/multimedia/19canada-nato-01-jhmc/19canada-nato-01-jhmc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Susan Walsh/Associated Press</media:credit>
+      <media:description>Prime Minister Justin Trudeau of Canada, center, at the NATO Summit in Washington this month. He pledged to reach a 2 percent target by 2032.</media:description>
     </item>
     <item>
       <title>Is Your Flight Delayed by the Tech Outage? Here’s What You Need to Know.</title>
@@ -447,7 +466,7 @@
       <pubDate>Fri, 19 Jul 2024 02:46:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Geological Survey</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2024/07/19/world/18wea-quake-tracker-chile-nyt29xes-index/18wea-quake-tracker-chile-nyt29xes-index-mediumSquareAt3X-v76.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2024/07/19/world/18wea-quake-tracker-chile-nyt29xes-index/18wea-quake-tracker-chile-nyt29xes-index-mediumSquareAt3X-v77.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -457,7 +476,7 @@
       <atom:link href="https://www.nytimes.com/2024/07/19/world/middleeast/israel-tel-aviv-explosion.html" rel="standout"></atom:link>
       <description>An Israeli military official said the military was still investigating where the drone was launched from.</description>
       <dc:creator>Gabby Sobelman, Aaron Boxerman, Adam Rasgon, Rawan Sheikh Ahmad and Erin Mendell</dc:creator>
-      <pubDate>Fri, 19 Jul 2024 14:16:36 +0000</pubDate>
+      <pubDate>Fri, 19 Jul 2024 14:16:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
@@ -884,12 +903,19 @@
       <description>More than 45 European leaders, including President Volodymyr Zelensky of Ukraine, met in England on Thursday. Fears over the continent’s security loomed large.</description>
       <dc:creator>Stephen Castle</dc:creator>
       <pubDate>Thu, 18 Jul 2024 19:05:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/18/multimedia/18uk-security-wvzf/18uk-security-wvzf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Kin Cheung</media:credit>
       <media:description>Prime Minister Keir Starmer of Britain, surrounded by the leaders of Denmark, Ukraine, the European Council and Moldova, at the summit in Blenheim Palace, near Oxford, England, on Thursday.</media:description>
@@ -902,12 +928,12 @@
       <description>Hwang Sunwoo and Kim Hana, who are single and live together, say South Korea’s laws should reflect the alternative unions that many of its people have chosen.</description>
       <dc:creator>Choe Sang-Hun</dc:creator>
       <pubDate>Thu, 18 Jul 2024 09:54:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Same-Sex Marriage, Civil Unions and Domestic Partnerships</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Single Persons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Single Persons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Birth Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hwang Sunwoo (Podcast Host)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Hana (Podcast Host)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
@@ -1086,30 +1112,6 @@
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2024/07/17/multimedia/17uk-king-01-vmjc/17uk-king-01-vmjc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Henry Nicholls</media:credit>
       <media:description>King Charles III formally opened Britain’s Parliament on Wednesday, presenting the priorities of Britain’s new Labour government.</media:description>
-    </item>
-    <item>
-      <title>Moving in Childhood Contributes to Depression, Study Finds</title>
-      <link>https://www.nytimes.com/2024/07/17/health/moving-childhood-depression.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/17/health/moving-childhood-depression.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/17/health/moving-childhood-depression.html" rel="standout"></atom:link>
-      <description>A study of more than a million Danes found that frequent moves in childhood had a bigger effect than poverty on adult mental health risk.</description>
-      <dc:creator>Ellen Barry</dc:creator>
-      <pubDate>Thu, 18 Jul 2024 11:50:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">JAMA Psychiatry (Journal)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Denmark</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/07/17/multimedia/17MOVING-fvqm/17MOVING-fvqm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Tamir Kalifa for The New York Times</media:credit>
-      <media:description>Researchers found that people who moved more than once within the ages of 10 and 15 were 61 percent more likely to suffer from depression in adulthood compared to counterparts who had not moved.</media:description>
     </item>
   </channel>
 </rss>
