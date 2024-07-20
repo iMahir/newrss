@@ -3,17 +3,35 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.6943598222649272" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 20 Jul 2024 05:44:44 +0000</lastBuildDate>
-    <pubDate>Sat, 20 Jul 2024 05:03:00 +0000</pubDate>
+    <lastBuildDate>Sat, 20 Jul 2024 06:14:58 +0000</lastBuildDate>
+    <pubDate>Sat, 20 Jul 2024 05:52:36 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
+    <item>
+      <title>Death of Vietnam’s Top Leader Raises Questions of Succession</title>
+      <link>https://www.nytimes.com/2024/07/20/world/asia/vietnam-leadership-to-lam.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/20/world/asia/vietnam-leadership-to-lam.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/20/world/asia/vietnam-leadership-to-lam.html" rel="standout"></atom:link>
+      <description>The country’s political workings are notably opaque, but for now the president, who was until recently minister of public security, is carrying out the duties of general secretary.</description>
+      <dc:creator>Richard C. Paddock</dc:creator>
+      <pubDate>Sat, 20 Jul 2024 04:27:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lam, To</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trong, Nguyen Phu</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of Vietnam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/20/multimedia/20vietnam-leadership-twlv/20vietnam-leadership-twlv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Manan Vatsyayana/Agence France-Presse — Getty Images</media:credit>
+      <media:description>President To Lam of Vietnam in Hanoi last month. </media:description>
+    </item>
     <item>
       <title>Middle East Crisis: Global Court Says Israel’s Occupation of Territories Violates International Law</title>
       <link>https://www.nytimes.com/live/2024/07/19/world/israel-gaza-war-hamas</link>
@@ -21,9 +39,26 @@
       <atom:link href="https://www.nytimes.com/live/2024/07/19/world/israel-gaza-war-hamas" rel="standout"></atom:link>
       <description>The advisory opinion by the International Court of Justice is the first time the court has laid out its stance on the issue.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 20 Jul 2024 02:17:47 +0000</pubDate>
+      <pubDate>Sat, 20 Jul 2024 05:52:36 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/19/multimedia/19mideast-crisis-promo-245p-fcqp/19mideast-crisis-promo-245p-fcqp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jaafar Ashtiyeh/Agence France-Presse — Getty Images</media:credit>
+    </item>
+    <item>
+      <title>The Bangladesh Protests, in Photos and Videos</title>
+      <link>https://www.nytimes.com/2024/07/19/world/asia/bangladesh-protests-photos.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/19/world/asia/bangladesh-protests-photos.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/19/world/asia/bangladesh-protests-photos.html" rel="standout"></atom:link>
+      <description>Students, armed mainly with sticks, have been demonstrating for days against a quota system for government jobs they consider unfair. Dozens have died in the violence.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sat, 20 Jul 2024 03:35:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bangladesh Awami League</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wazed, Hasina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dhaka (Bangladesh)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/19/multimedia/19bangladesh-protests-photos-01-hfcp/19bangladesh-protests-photos-01-hfcp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mohammad Ponir Hossain/Reuters</media:credit>
+      <media:description>Demonstrators in Dhaka, Bangladesh’s capital, on Thursday.</media:description>
     </item>
     <item>
       <title>Conflict in Western Congo Leaves Thousands Dead and Displaced</title>
@@ -119,7 +154,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/07/19/us/global-tech-outage" rel="standout"></atom:link>
       <description>Companies across the world reported disruptions, citing technical issues from a cybersecurity software update.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 20 Jul 2024 02:28:13 +0000</pubDate>
+      <pubDate>Sat, 20 Jul 2024 05:52:36 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/19/multimedia/19tech-outage-promo-405pm-vcjq/19tech-outage-promo-405pm-vcjq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nicole Craine for The New York Times</media:credit>
     </item>
@@ -221,23 +256,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
     </item>
     <item>
-      <title>The Bangladesh Protests, in Photos and Videos</title>
-      <link>https://www.nytimes.com/2024/07/19/world/asia/bangladesh-protests-photos.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/19/world/asia/bangladesh-protests-photos.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/19/world/asia/bangladesh-protests-photos.html" rel="standout"></atom:link>
-      <description>Students, armed mainly with sticks, have been demonstrating for days against a quota system for government jobs they consider unfair. Dozens have died in the violence.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 20 Jul 2024 03:35:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bangladesh Awami League</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wazed, Hasina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dhaka (Bangladesh)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/19/multimedia/19bangladesh-protests-photos-01-hfcp/19bangladesh-protests-photos-01-hfcp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Mohammad Ponir Hossain/Reuters</media:credit>
-      <media:description>Demonstrators in Dhaka, Bangladesh’s capital, on Thursday.</media:description>
-    </item>
-    <item>
       <title>Zelensky Is First Foreign Leader to Visit U.K. Cabinet Since Clinton</title>
       <link>https://www.nytimes.com/2024/07/19/world/europe/zelensky-uk-cabinet-ukraine.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/07/19/world/europe/zelensky-uk-cabinet-ukraine.html</guid>
@@ -257,40 +275,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/19/multimedia/19UK-UKRAINE-hcmp/19UK-UKRAINE-hcmp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Andy Rain/EPA, via Shutterstock</media:credit>
       <media:description>Prime Minister Keir Starmer of Britain welcoming the Ukrainian president, Volodymyr Zelensky, to 10 Downing Street in London on Friday.</media:description>
-    </item>
-    <item>
-      <title>Nguyen Phu Trong, Powerful Vietnamese Leader, Is Dead at 80</title>
-      <link>https://www.nytimes.com/2024/07/19/world/asia/nguyen-phu-trong-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/19/world/asia/nguyen-phu-trong-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/19/world/asia/nguyen-phu-trong-dead.html" rel="standout"></atom:link>
-      <description>Known for his “blazing furnace” anticorruption campaign, Mr. Trong consolidated power in one of the world’s few remaining Communist dictatorships.</description>
-      <dc:creator>Sui-Lee Wee</dc:creator>
-      <pubDate>Fri, 19 Jul 2024 18:58:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trong, Nguyen Phu</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/01/11/multimedia/00obit-nguyen-1-bwtk/00obit-nguyen-1-bwtk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Hoang Dinh Nam/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Nguyen Phu Trong, center, at the Vietnam Communist Party’s 11th National Congress in Hanoi, in 2011, at which he was voted to be the party’s new general secretary.</media:description>
-    </item>
-    <item>
-      <title>Death of Vietnam’s Top Leader Raises Questions of Succession</title>
-      <link>https://www.nytimes.com/2024/07/20/world/asia/vietnam-leadership-to-lam.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/20/world/asia/vietnam-leadership-to-lam.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/20/world/asia/vietnam-leadership-to-lam.html" rel="standout"></atom:link>
-      <description>The country’s political workings are notably opaque, but for now the president, who was until recently minister of public security, is carrying out the duties of general secretary.</description>
-      <dc:creator>Richard C. Paddock</dc:creator>
-      <pubDate>Sat, 20 Jul 2024 04:27:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lam, To</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trong, Nguyen Phu</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of Vietnam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/20/multimedia/20vietnam-leadership-twlv/20vietnam-leadership-twlv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Manan Vatsyayana/Agence France-Presse — Getty Images</media:credit>
-      <media:description>President To Lam of Vietnam in Hanoi last month. </media:description>
     </item>
     <item>
       <title>Blinken Says Gaza Cease-Fire Deal Is ‘Inside the 10-Yard Line’</title>
@@ -447,6 +431,22 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/19/multimedia/19mideast-crisis-uk-unrwa-mfgk/19mideast-crisis-uk-unrwa-mfgk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Omar Al-Qattaa/Agence France-Presse — Getty Images</media:credit>
       <media:description>Damage at a vacant UNRWA complex in Gaza City this month.</media:description>
+    </item>
+    <item>
+      <title>Nguyen Phu Trong, Powerful Vietnamese Leader, Is Dead at 80</title>
+      <link>https://www.nytimes.com/2024/07/19/world/asia/nguyen-phu-trong-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/19/world/asia/nguyen-phu-trong-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/19/world/asia/nguyen-phu-trong-dead.html" rel="standout"></atom:link>
+      <description>Known for his “blazing furnace” anticorruption campaign, Mr. Trong consolidated power in one of the world’s few remaining Communist dictatorships.</description>
+      <dc:creator>Sui-Lee Wee</dc:creator>
+      <pubDate>Fri, 19 Jul 2024 18:58:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trong, Nguyen Phu</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/01/11/multimedia/00obit-nguyen-1-bwtk/00obit-nguyen-1-bwtk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hoang Dinh Nam/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Nguyen Phu Trong, center, at the Vietnam Communist Party’s 11th National Congress in Hanoi, in 2011, at which he was voted to be the party’s new general secretary.</media:description>
     </item>
     <item>
       <title>America’s Unstable Politics</title>
