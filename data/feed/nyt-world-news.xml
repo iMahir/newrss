@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.5031141206104246" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 20 Jul 2024 06:44:58 +0000</lastBuildDate>
-    <pubDate>Sat, 20 Jul 2024 05:52:36 +0000</pubDate>
+    <lastBuildDate>Sat, 20 Jul 2024 07:10:02 +0000</lastBuildDate>
+    <pubDate>Sat, 20 Jul 2024 06:44:13 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -275,6 +275,22 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/19/multimedia/19UK-UKRAINE-hcmp/19UK-UKRAINE-hcmp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Andy Rain/EPA, via Shutterstock</media:credit>
       <media:description>Prime Minister Keir Starmer of Britain welcoming the Ukrainian president, Volodymyr Zelensky, to 10 Downing Street in London on Friday.</media:description>
+    </item>
+    <item>
+      <title>Bangladesh Orders Curfew to Quell Deadly Protests</title>
+      <link>https://www.nytimes.com/2024/07/20/world/asia/bangladesh-curfew-unrest.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/20/world/asia/bangladesh-curfew-unrest.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/20/world/asia/bangladesh-curfew-unrest.html" rel="standout"></atom:link>
+      <description>For weeks, university students have been protesting a quota system for government jobs. Suppression led to a cycle of violence and now a paralyzing curfew.</description>
+      <dc:creator>Saif Hasnat and Anupreeta Das</dc:creator>
+      <pubDate>Sat, 20 Jul 2024 06:44:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Curfews</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wazed, Hasina</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/20/multimedia/20bangladesh-bqhm/20bangladesh-bqhm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mohammad Ponir Hossain/Reuters</media:credit>
+      <media:description>Police facing off with protesters in Dhaka, Bangladesh, on Friday.</media:description>
     </item>
     <item>
       <title>Blinken Says Gaza Cease-Fire Deal Is ‘Inside the 10-Yard Line’</title>
@@ -1123,18 +1139,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Biodiversity</category>
-    </item>
-    <item>
-      <title>Thursday Briefing: J.D. Vance Takes the Stage</title>
-      <link>https://www.nytimes.com/2024/07/17/briefing/jd-vance-rnc-israel.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/17/briefing/jd-vance-rnc-israel.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/17/briefing/jd-vance-rnc-israel.html" rel="standout"></atom:link>
-      <description>Plus, Israel estimates the toll on Hamas.</description>
-      <dc:creator>Daniel E. Slotnik</dc:creator>
-      <pubDate>Wed, 17 Jul 2024 20:49:24 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/17/multimedia/18ambriefing-asia-nl-vance/17pol-vance-mentors-gfmq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>Before this year, Senator J.D. Vance never attended a national political convention.</media:description>
     </item>
   </channel>
 </rss>
