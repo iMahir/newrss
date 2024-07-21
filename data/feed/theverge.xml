@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>The Verge -  All Posts</title>
   <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
-  <updated>2024-07-21T10:06:18-04:00</updated>
+  <updated>2024-07-21T11:00:00-04:00</updated>
   <id>https://www.theverge.com/rss/full.xml</id>
   <link type="text/html" href="https://www.theverge.com/" rel="alternate"/>
+  <entry>
+    <published>2024-07-21T11:00:00-04:00</published>
+    <updated>2024-07-21T11:00:00-04:00</updated>
+    <title>The all-seeing AI webcam</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="An illustration of artist Dries Depoorter, and depictions of the works described in the article" src="https://cdn.vox-cdn.com/thumbor/Zcd_aPDti2D9-OLhSbCIJwi7UMw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73473197/247176_Vergecast_AI_Dries_Depoorter_SHaddad.0.jpg" /&gt;
+        &lt;figcaption&gt;Image: Samar Haddad for The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="EQKpYg"&gt;On the infinite list of possible uses for AI, “getting selfie advice from a Kylie Jenner voice clone” seems both completely off-the-wall and also pretty inevitable. So of course &lt;a href="https://driesdepoorter.be/theselfiecoach/"&gt;it does exist&lt;/a&gt;. It’s not a widely-available app, at least not yet; it’s an experiment from artist and programmer &lt;a href="https://driesdepoorter.be/theselfiecoach/"&gt;Dries Depoorter&lt;/a&gt;. &lt;/p&gt;
+&lt;p id="CylI8i"&gt;With access to a couple of APIs from OpenAI and ElevenLabs, and a little knowledge of Python, &lt;a href="https://github.com/driesdepoorter/The-Selfie-Coach"&gt;you too can up your selfie game&lt;/a&gt;. The app will take a photo through your webcam, then feed it to ChatGPT with a prompt asking for funny advice in the voice of Ms. Jenner. The text output is then passed to an ElevenLabs voice clone of the selfie maven, and out pops the advice:&lt;/p&gt;
+&lt;p id="0ZA9wr"&gt;&lt;em&gt;“Ok, love the candid vibe, but let’s add some drama. Turn towards the...&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/24199020/ai-art-dries-depoorter-selfies-surveillance-privacy-generative-ai"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/24199020/ai-art-dries-depoorter-selfies-surveillance-privacy-generative-ai"/>
+    <id>https://www.theverge.com/24199020/ai-art-dries-depoorter-selfies-surveillance-privacy-generative-ai</id>
+    <author>
+      <name>William Poor</name>
+    </author>
+  </entry>
   <entry>
     <published>2024-07-21T10:06:18-04:00</published>
     <updated>2024-07-21T10:06:18-04:00</updated>
@@ -237,30 +262,6 @@
     <id>https://www.theverge.com/24190886/nintendo-switch-lite-hyrule-edition-preorder-price-release-date-zelda</id>
     <author>
       <name>Quentyn Kennemer</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-07-20T10:00:00-04:00</published>
-    <updated>2024-07-20T10:00:00-04:00</updated>
-    <title>Capcom’s Kunitsu-Gami combines tower defense strategy with the heart of community organizing</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="Screenshot from Kunitsu-gami: Path of the Goddess featuring several characters in ornate masks defending a Japanese priestess." src="https://cdn.vox-cdn.com/thumbor/hwJZRvRDX_ngkb1viY2_Y7ye198=/300x0:3540x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73471953/Kunitsu_Gami_Gameplay_Screenshot___5_.0.png" /&gt;
-        &lt;figcaption&gt;Image: Capcom&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-
-  		 &lt;p&gt;Despite its confusing trailers, Kunitsu-Gami is a highly stylized and pleasantly challenging ‘maiden defense’ game. &lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/24202033/kunitsu-gami-path-of-the-goddess-review-capcom"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/24202033/kunitsu-gami-path-of-the-goddess-review-capcom"/>
-    <id>https://www.theverge.com/24202033/kunitsu-gami-path-of-the-goddess-review-capcom</id>
-    <author>
-      <name>Ash Parrish</name>
     </author>
   </entry>
 </feed>
