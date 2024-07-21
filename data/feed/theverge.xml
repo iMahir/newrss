@@ -2,9 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>The Verge -  All Posts</title>
   <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
-  <updated>2024-07-21T16:29:16-04:00</updated>
+  <updated>2024-07-21T17:40:02-04:00</updated>
   <id>https://www.theverge.com/rss/full.xml</id>
   <link type="text/html" href="https://www.theverge.com/" rel="alternate"/>
+  <entry>
+    <published>2024-07-21T17:40:02-04:00</published>
+    <updated>2024-07-21T17:40:02-04:00</updated>
+    <title>Galaxy Z Flip 6 and Z Fold 6 phones won’t come with Samsung Messages in the US</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="A hands-on photo of Samsung’s Galaxy Z Fold 6 and Flip 6 smartphones." src="https://cdn.vox-cdn.com/thumbor/oR5itkLT9owFiu6B_1YZlf06Qwg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73473634/DSCF8101.0.jpg" /&gt;
+        &lt;figcaption&gt;Photo by Chris Welch / The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="PtkznC"&gt;Samsung’s &lt;a href="https://www.theverge.com/2024/7/10/24195165/samsung-galaxy-z-fold-flip-6-screen-battery-price"&gt;Galaxy Z Flip 6 and Z Fold 6&lt;/a&gt; will not ship with the Samsung Messages app pre-installed in the US, &lt;a href="https://9to5google.com/2024/07/20/samsung-google-messages-no-longer-pre-installing/"&gt;according to &lt;em&gt;9to5Google&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt; Those who still prefer Samsung’s app will have to download it from the Galaxy Store, where it’s still available. &lt;/p&gt;
+&lt;p id="EHQ1vq"&gt;“Starting with Starting with the Flip6, Fold6 and newer models, the Samsung Messages app will no longer be preloaded,” reads a Samsung message posted by Android leaker Max Weinbach. “Instead, Google Messages will provide a new and enhanced experience to express your emotions, making communication safe and fun.” &lt;/p&gt;
+&lt;p id="uhCHbQ"&gt;Google Messages has been the default for Samsung phones &lt;a href="https://www.theverge.com/2022/2/14/22933170/samsung-galaxy-s22-google-messages-default-rcs"&gt;since 2022&lt;/a&gt; when Samsung made the switch, which was a boon for RCS messaging.&lt;/p&gt;
+&lt;div id="DL7l66"&gt;
+&lt;blockquote class="twitter-tweet" data-dnt="true" align="center"&gt;
+&lt;p lang="en" dir="ltr"&gt;Samsung Messages is no longer pre-loaded! Google...&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2024/7/21/24203137/samsung-messages-no-pre-install-galaxy-z-fold-flip-6-google-messages-android-rcs"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/7/21/24203137/samsung-messages-no-pre-install-galaxy-z-fold-flip-6-google-messages-android-rcs"/>
+    <id>https://www.theverge.com/2024/7/21/24203137/samsung-messages-no-pre-install-galaxy-z-fold-flip-6-google-messages-android-rcs</id>
+    <author>
+      <name>Wes Davis</name>
+    </author>
+  </entry>
   <entry>
     <published>2024-07-21T16:29:16-04:00</published>
     <updated>2024-07-21T16:29:16-04:00</updated>
@@ -243,31 +273,6 @@
     <id>https://www.theverge.com/2024/7/21/24202162/notion-calendar-claude-android-tinypod-ea-football-installer</id>
     <author>
       <name>David Pierce</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-07-21T07:49:21-04:00</published>
-    <updated>2024-07-21T07:49:21-04:00</updated>
-    <title>Microsoft releases recovery tool to help repair Windows machines hit by CrowdStrike issue</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="Vector illustration of the Crowdstrike logo." src="https://cdn.vox-cdn.com/thumbor/QL8Q5EA-RAppYjWrHKjZhVJDPq4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73472990/STK275_CROWDSTRIKE_CVIRGINIA_B.0.jpg" /&gt;
-        &lt;figcaption&gt;Image: The Verge&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="oDU0iA"&gt;Microsoft has released a recovery tool that’s designed to help IT admins repair Windows machines that were impacted by &lt;a href="https://www.theverge.com/2024/7/19/24201717/windows-bsod-crowdstrike-outage-issue"&gt;CrowdStrike’s faulty update&lt;/a&gt; that crashed 8.5 million Windows devices on Friday. &lt;a href="https://techcommunity.microsoft.com/t5/intune-customer-success/new-recovery-tool-to-help-with-crowdstrike-issue-impacting/ba-p/4196959"&gt;The tool creates a bootable USB drive&lt;/a&gt; that IT admins can use to help quickly recover impacted machines.&lt;/p&gt;
-&lt;p id="KbD8FX"&gt;While CrowdStrike has issued an update to fix its software that led to millions of Blue Screen of Death errors, not all machines are able to automatically receive that fix. Some &lt;a href="https://www.theverge.com/2024/7/19/24201806/microsoft-windows-bsod-pc-crashing-crowdstrike-fix"&gt;IT admins have reported&lt;/a&gt; rebooting PCs multiple times will get the necessary update, but for others the only route is having to manually boot into Safe Mode and deleting the problematic CrowdStrike update file.&lt;/p&gt;
-&lt;p id="UGnVi9"&gt;Microsoft’s recovery tool now makes this recovery...&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2024/7/21/24202883/microsoft-recovery-tool-windows-crowdstrike-issue-it-admins"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/7/21/24202883/microsoft-recovery-tool-windows-crowdstrike-issue-it-admins"/>
-    <id>https://www.theverge.com/2024/7/21/24202883/microsoft-recovery-tool-windows-crowdstrike-issue-it-admins</id>
-    <author>
-      <name>Tom Warren</name>
     </author>
   </entry>
 </feed>
