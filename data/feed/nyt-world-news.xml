@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 22 Jul 2024 15:12:59 +0000</lastBuildDate>
-    <pubDate>Mon, 22 Jul 2024 15:03:34 +0000</pubDate>
+    <lastBuildDate>Mon, 22 Jul 2024 15:58:19 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Jul 2024 15:54:53 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -67,11 +67,12 @@
       <description>Daily power cuts have been plaguing Egypt during an extraordinarily hot summer. Now the blackouts may be temporarily suspended, but the damage to confidence in the government has already been done.</description>
       <dc:creator>Vivian Yee and Emad Mekay</dc:creator>
       <pubDate>Mon, 22 Jul 2024 13:10:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sisi, Abdel Fattah el-</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cairo (Egypt)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aswan (Egypt)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/22/multimedia/22egypt-blackouts-kfhl/22egypt-blackouts-kfhl-mediumSquareAt3X.jpg" width="1800"></media:content>
@@ -298,6 +299,28 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/06/07/world/00ukraine-books-promo2/00ukraine-books-04-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
       <media:description>Burned books inside the printing plant that was struck by Russian missiles last month.</media:description>
+    </item>
+    <item>
+      <title>Israel Risks All-Out War With Hezbollah. A Truce in Gaza May Reduce That Threat.</title>
+      <link>https://www.nytimes.com/2024/07/22/world/middleeast/israel-hezbollah-gaza-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/22/world/middleeast/israel-hezbollah-gaza-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/22/world/middleeast/israel-hezbollah-gaza-war.html" rel="standout"></atom:link>
+      <description>After nine months of low-level conflict between Israel and Hezbollah, the risk of all-out war is higher than ever. A cease-fire in Gaza would provide an offramp for both sides, diplomats say.</description>
+      <dc:creator>Patrick Kingsley and Euan Ward</dc:creator>
+      <pubDate>Mon, 22 Jul 2024 15:54:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasrallah, Hassan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/21/multimedia/21israel-hezbollah-01-pwlz/21israel-hezbollah-01-pwlz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <media:description>A soldier with the United Nations Interim Force in Lebanon inspecting a house destroyed last week by an Israeli attack in Yarine, in southern Lebanon.</media:description>
     </item>
     <item>
       <title>Couple Who Attempted to Cross Atlantic Found Dead in Lifeboat</title>
@@ -1179,24 +1202,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/16/multimedia/italy--qcgf/italy--qcgf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alessandro Penso for The New York Times</media:credit>
       <media:description>One of the reconstructed buildings at the monastery, which perches on a green hillside over Norcia, a town in central Italy.</media:description>
-    </item>
-    <item>
-      <title>A Tip Sheet to Help Decipher American Politics</title>
-      <link>https://www.nytimes.com/2024/07/18/world/australia/newsletter-us-election-guide.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/18/world/australia/newsletter-us-election-guide.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/18/world/australia/newsletter-us-election-guide.html" rel="standout"></atom:link>
-      <description>With the presidential campaign in a stretch of discord and profound uncertainty, here are a few pieces that provide understanding and context.</description>
-      <dc:creator>Damien Cave</dc:creator>
-      <pubDate>Fri, 19 Jul 2024 03:51:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Republican National Convention</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/19/multimedia/19ausletter-hpmz/19ausletter-hpmz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Hiroko Masuike/The New York Times</media:credit>
-      <media:description>At the Republican National Convention in Milwaukee, Wis., on Wednesday.</media:description>
     </item>
   </channel>
 </rss>
