@@ -5,11 +5,19 @@
     <title>Mashable</title>
     <link>https://mashable.com/feeds/rss/all</link>
     <description>Mashable is a global, multi-platform media and entertainment company.</description>
-    <pubDate>Mon, 22 Jul 2024 17:25:54 +0000</pubDate>
+    <pubDate>Mon, 22 Jul 2024 17:55:58 +0000</pubDate>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jul 2024 17:25:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 17:55:58 +0000</lastBuildDate>
     <copyright>©2024 Mashable, Inc. All Rights Reserved.</copyright>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Microsoft releases easier CrowdStrike fix]]></title>
+      <link>https://mashable.com/article/crowdstrike-outage-microsoft-recovery-tool-easier-fix</link>
+      <guid isPermaLink="false">01iB3bysiZ8hvXVmTWeEX7f</guid>
+      <pubDate>Mon, 22 Jul 2024 17:27:13 +0000</pubDate>
+      <description><![CDATA[A new recovery tool from Microsoft helps speed up the process to fix computers affected by the faulty CrowdStrike update.]]></description>
+      <content:encoded><![CDATA[<img src="https://helios-i.mashable.com/imagery/articles/01iB3bysiZ8hvXVmTWeEX7f/hero-image.jpg" alt="CrowdStrike logo over the Blue Screen of Death"><p>The <a href="https://mashable.com/article/what-caused-the-microsoft-outage-crowdstrike-everything-we-know" target="_self"><u>massive global tech outage</u></a> that occurred on Friday due to an error in an update from the cybersecurity company CrowdStrike may largely be out of the public's mind today. And that's thanks to IT admins and departments around the world who sprung into action to fix the problem that took down many airlines, hospitals, and banks' Windows-based networks.</p><p>However, while things may be all and well for consumers, ITs are actually still dealing with getting their company's <a href="https://mashable.com/article/crowdstrike-windows-outage-what-now-consequences" target="_self">computers back up and running</a>. As Mashable previously reported, the <a href="https://mashable.com/article/what-caused-the-microsoft-outage-crowdstrike-everything-we-know" target="_self">faulty CrowdStrike update</a> that went out requires a <a href="https://mashable.com/article/crowdstrike-crash-microsoft-outage-bsod-fix" target="_self">technical fix</a> and direct access to each individual affected device. So, for big organizations, this will take awhile.</p><p>But, ITs now have a major assist thanks to an easier <a href="https://techcommunity.microsoft.com/t5/intune-customer-success/new-recovery-tool-to-help-with-crowdstrike-issue-impacting/ba-p/4196959" target="_blank"><u>recently released fix from Microsoft</u></a>.</p><h2><strong>Microsoft's CrowdStrike recovery tool</strong></h2><p>CrowdStrike issued an updated fix soon after the faulty version went out, but for many computers that had automatically installed the update it was too late. Once installed <a href="https://mashable.com/article/crowdstrike-crash-microsoft-outage-bsod-fix" target="_self"><u>the fix</u></a> became a manual process that involved booting the computer in Safe Mode to get around the Windows "Blue Screen of Death" and then deleting the update file.</p><p>While this could be a bit technical for the average Windows user, it's not a problem for an IT professional. The issue, though, is that this is a time-consuming process: Boot into Safe Mode. Find the update file. Delete. Repeat. It has to be done for every single affected individual machine.&nbsp;</p><p>Microsoft's fix, released over the weekend, speeds things up considerably. Yes, the fix still requires manual work on every single computer. But, the more tedious processes are automated.&nbsp;</p><p>The recovery tool by Microsoft utilizes a bootable USB drive that logs into a lightweight version of Windows known as Windows Preinstallation Environment or Windows PE. From there, it automatically deletes the CrowdStrike update file that's causing the issue on the affected computer.</p><p>As <a href="https://www.theverge.com/2024/7/21/24202883/microsoft-recovery-tool-windows-crowdstrike-issue-it-admins" target="_blank"><u>The Verge</u></a> points out, this saves time as it&nbsp; "avoids having to boot into Safe Mode or a requirement of admin rights on the machine, because the tool is simply accessing the disk without booting into the local copy of Windows."&nbsp;</p><p>While a third-party was responsible, the only affected devices were computers running Microsoft's Windows operating system. So, it appears Microsoft felt compelled to act in order to help out its many affected customers.</p><p>Microsoft has also provided <a href="https://support.microsoft.com/en-us/topic/kb5042421-crowdstrike-issue-impacting-windows-endpoints-causing-an-0x50-or-0x7e-error-message-on-a-blue-screen-b1c700e0-7317-4e95-aeee-5d67dd35b92f" target="_blank"><u>detailed steps</u></a> to fixing the CrowdStrike issue on various versions of Windows computers, including details on the USB tool.</p>]]></content:encoded>
+    </item>
     <item>
       <title><![CDATA[Get $20 off the Amazon Fire TV Soundbar with this post-Prime Day deal]]></title>
       <link>https://mashable.com/article/july-22-amazon-fire-tv-soundbar-deal</link>
@@ -1075,7 +1083,7 @@
     <span class="" data-ga-click>Apple AirPods Pro 2nd Gen With MagSafe USB-C Charging Case</span>
 </a>
                                                      &mdash;
-                        <strong>$189.99</strong>
+                        <strong>$199.00</strong>
                         
                         
                                                     (List Price $249.00)
@@ -1170,7 +1178,7 @@
     <span class="" data-ga-click>Apple AirPods Pro 2nd Gen With MagSafe USB-C Charging Case</span>
 </a>
                                                      &mdash;
-                        <strong>$189.99</strong>
+                        <strong>$199.00</strong>
                         
                         
                                                     (List Price $249.00)
@@ -2671,7 +2679,7 @@
     <span class="" data-ga-click>Apple AirPods Pro 2nd Gen With MagSafe USB-C Charging Case</span>
 </a>
                                                      &mdash;
-                        <strong>$189.99</strong>
+                        <strong>$199.00</strong>
                         
                         
                                                     (List Price $249.00)
@@ -2766,7 +2774,7 @@
     <span class="" data-ga-click>Apple AirPods Pro 2nd Gen With MagSafe USB-C Charging Case</span>
 </a>
                                                      &mdash;
-                        <strong>$189.99</strong>
+                        <strong>$199.00</strong>
                         
                         
                                                     (List Price $249.00)
@@ -3068,7 +3076,7 @@
     <span class="" data-ga-click>Apple AirPods Pro 2nd Gen With MagSafe USB-C Charging Case</span>
 </a>
                                                      &mdash;
-                        <strong>$189.99</strong>
+                        <strong>$199.00</strong>
                         
                         
                                                     (List Price $249.00)
@@ -3150,7 +3158,7 @@
     <span class="" data-ga-click>Apple AirPods Pro 2nd Gen With MagSafe USB-C Charging Case</span>
 </a>
                                                      &mdash;
-                        <strong>$189.99</strong>
+                        <strong>$199.00</strong>
                         
                         
                                                     (List Price $249.00)
@@ -5962,21 +5970,6 @@
         <media:title><![CDATA[The 'Cobra Kai' Cast Reveal Their Ultimate Sekai Taikai Squads]]></media:title>
         <media:description><![CDATA[The 'Cobra Kai' Cast Reveal Their Ultimate Sekai Taikai Squads]]></media:description>
       </media:content>
-    </item>
-    <item>
-      <title><![CDATA[BSOD meaning: What's the Windows blue screen of death and what do I do?]]></title>
-      <link>https://mashable.com/article/bsod-windows-blue-screen-of-death-explained</link>
-      <guid isPermaLink="false">00ywJwzRlgXuhX8ityzsWA3</guid>
-      <pubDate>Fri, 19 Jul 2024 12:56:18 +0000</pubDate>
-      <description><![CDATA[Got the Windows blue screen of death? Here's what the BSOD is and what to do if you've got it.]]></description>
-      <content:encoded><![CDATA[<img src="https://helios-i.mashable.com/imagery/articles/00ywJwzRlgXuhX8ityzsWA3/hero-image.png" alt="The Microsoft Blue Screen of Death."><p><a href="https://www.youtube.com/watch?v=W4rR-OsTNCg" target="_blank">Bring out your Blue Screens of Death</a> &mdash; you're in good (and cursed) company. </p><p>If you're a <a href="https://mashable.com/category/windows" target="_self">Windows</a> user, you may have come face to face with Microsoft's dreaded blue error message, often referred to as the acronym BSOD. Microsoft <a href="https://mashable.com/article/black-screen-of-death-blue" target="_self">introduced it in Windows 3.0</a> in 1990, and it's been a dastardly rampallion ever since &mdash; most recently rearing its cerulean maw in a <a href="https://mashable.com/article/windows-bsod-crash-crowdstrike-update-worldwide-outage" target="_self">global Windows outage</a>.</p><div class="mx-auto mt-8 w-full max-w-3xl font-sans text-lg leading-normal md:text-xl md:leading-7">
-        <span class="font-bold text-primary-400">SEE ALSO:</span>
-        <a href="https://mashable.com/article/crowdstrike-crash-microsoft-outage-bsod-fix" class="text-secondary-300">
-            CrowdStrike announces Microsoft outage workaround. How to deal with the Blue Screen of Death.
-            <svg class="inline-block ml-1 w-4 h-4 font-normal fill-current"><use href="https://mashable.com/images/icons/spritemap.svg#sprite-arrow-right-thin"></use></svg>
-        </a>
-    </div>
-<p>But what exactly is a BSOD, and what can you do about it? We're here to help, so you don't have to gaze into the azure abyss for long.</p><h2>What is a Blue Screen of Death?</h2><p>The Blue Screen of Death (BSOD) is an error message that appears when something goes awry on Windows devices, with the details described on a bright blue background &mdash; a hue that will send you straight into seven circles of Hell. Your computer might shut down or restart, or remain on the BSOD.</p><p>Microsoft added the wicked, lazuline error screen over 30 years ago, and it's plagued Windows users ever since (we'll forget about that time Microsoft temporarily <a href="https://mashable.ziffmedia.global/archive/black-screen-of-death" target="_blank">made the background black</a> in 2021). <a href="https://mashable.com/article/black-screen-of-death-blue" target="_self">As Mashable's Stan Schroeder writes</a>, "When a serious error stops Windows from working, a blue screen appears, detailing what happened and driving users crazy as it typically shows up at the worst possible moment."</p><h2>Why are people suddenly talking about BSODs a lot today?</h2><p>There's been a <a href="https://mashable.com/article/windows-bsod-crash-crowdstrike-update-worldwide-outage" target="_self">global Windows outage</a>, reportedly <a href="https://mashable.com/article/crowdstrike-microsoft-outage-windows-blue-screen-explained" target="_self">caused by cybersecurity firm CrowdStrike</a>, prompting a wave of BSODs on Windows PCs and a haze of bright blue chaos. </p><h2>What can I do to fix a BSOD?</h2><p>If you're specifically looking for a BSOD fix related to the CrowdStrike issue, <a href="https://mashable.com/article/windows-bsod-crash-crowdstrike-update-worldwide-outage" target="_self">we've got a whole guide here for you</a>.</p><p>If you're reading this at a time when it's not a CrowdStrike issue, there's a few options. <a href="https://support.microsoft.com/en-gb/windows/resolving-blue-screen-errors-in-windows-60b01860-58f2-be66-7516-5c45a66ae3c6" target="_blank">BSODs can be caused by software or hardware issues</a>, so this could vary from device to device. Plus, it might be malware, <a href="https://mashable.com/uk/roundup/best-antivirus-software-uk" target="_self">so make sure you've got yourself covered.</a></p><ol><li><p><strong>Have you tried turning it off and on again? </strong></p></li></ol><p>Your IT department will thank you for trying this first. Simply restart your computer in <a href="https://support.microsoft.com/en-gb/windows/start-your-pc-in-safe-mode-in-windows-92c27cff-db89-8644-1ce4-b3e5e56fe234#:~:text=On%20the%20Windows%20sign%2Din,while%20you%20select%20Power%20%3E%20Restart%20." target="_blank">Safe Mode</a> to see if it fixes the issue (when signing back into Windows, press and hold Shift at the sign-in screen while selecting Power then Restart). </p><p>Make sure all hard drives are disconnected too.</p><ol><li><p><strong>Try the <a href="https://support.microsoft.com/en-gb/windows/about-get-help-717c7ae9-5c45-45f0-b637-900b7437a395" target="_blank">"Get Help"</a></strong><strong> app.</strong></p></li></ol><p>Microsoft recommends opening the "Get Help" app. When you're in there, type "Troubleshoot BSOD error" in the search bar for a walkthrough. </p><ol><li><p><strong>Try the Microsoft support page.</strong></p></li></ol><p>Pop over to <a href="http://support.microsoft.com/windows" target="_blank">support.microsoft.com/windows</a> (on a device that isn't showing the BSOD) to see if you can find some answers. You can also try <a href="https://support.microsoft.com/home/contact" target="_blank">contacting Microsoft Support</a>.</p><ol><li><p><strong>Check the "stop code"</strong></p></li></ol><p>Your issue might depend on the "stop code" appearing in the BSOD error message. Microsoft <a href="https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/stop-error-or-blue-screen-error-troubleshooting" target="_blank">says</a> most stop errors are caused by third-party driver code.</p><p>"When Windows encounters a condition that compromises safe system operation, the system stops," a post explains. "Examples include something failing that could compromise security or lead to corruption of the operating system (OS) and/or user data. When the machine stops in order to prevent the operating system from moving forward in these conditions, it is called a bug check (or bugcheck). It is also commonly referred to as a system crash, a kernel error, a blue screen, a blue screen of death (BSOD), or a stop error."</p><p><a href="https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/stop-error-or-blue-screen-error-troubleshooting" target="_blank">Microsoft has an advanced guide to help if you're seeing a stop code</a> &mdash; including how to download the <a href="https://learn.microsoft.com/en-us/defender-endpoint/safety-scanner-download" target="_blank">Microsoft Safety Scanner</a>.</p><p>Deep breaths, you'll get through this. &#128153;</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
