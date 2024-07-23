@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>The Verge -  All Posts</title>
   <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
-  <updated>2024-07-23T09:30:00-04:00</updated>
+  <updated>2024-07-23T09:42:15-04:00</updated>
   <id>https://www.theverge.com/rss/full.xml</id>
   <link type="text/html" href="https://www.theverge.com/" rel="alternate"/>
+  <entry>
+    <published>2024-07-23T09:42:15-04:00</published>
+    <updated>2024-07-23T09:42:15-04:00</updated>
+    <title>Inside the global computer crash</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="An image of a crashed Windows PC over a Vergecast illustration" src="https://cdn.vox-cdn.com/thumbor/W2n4M1muyNEe1w36zZp1xsPHCxI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73476600/VST_0723_Site.0.jpg" /&gt;
+        &lt;figcaption&gt;Photo: Andrey Rudakov/Bloomberg via Getty Images&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="XABhQC"&gt;It all started with a configuration file. A seemingly routine update, the kind that happens hundreds of times a year, to millions of computers around the world. But last week that update &lt;a href="https://www.theverge.com/2024/7/20/24202527/crowdstrike-microsoft-windows-bsod-outage"&gt;crashed 8.5 million computers&lt;/a&gt;, and wreaked havoc on banks, airlines, schools, and more.&lt;/p&gt;
+&lt;p id="NkPqSC"&gt;On &lt;a href="https://link.chtbl.com/vergecast"&gt;this episode of &lt;em&gt;The Vergecast&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;The Verge&lt;/em&gt;’s &lt;a href="https://www.theverge.com/authors/tom-warren"&gt;Tom Warren&lt;/a&gt; joins the show to talk about the story and legacy of &lt;a href="https://www.theverge.com/24201803/crowdstrike-microsoft-it-global-outage-airlines-banking"&gt;the CrowdStrike crash&lt;/a&gt;. We talk about what exactly happened, how CrowdStrike and Microsoft scrambled to fix it, and whether we’re due for a reckoning over how much we rely on complex and fragile technology. (Don’t forget to &lt;a href="https://www.theverge.com/notepad-microsoft-newsletter"&gt;subscribe to &lt;em&gt;Notepad&lt;/em&gt;&lt;/a&gt;!)&lt;/p&gt;
+&lt;div id="hl8Bgl"&gt;&lt;/div&gt;
+&lt;p id="dFJtRn"&gt;After that, we chat with &lt;em&gt;The Verge&lt;/em&gt;’s &lt;a href="https://www.theverge.com/authors/victoria-song"&gt;Victoria Song&lt;/a&gt; along with &lt;a href="https://adrianhon.substack.com/"&gt;Adrian Hon&lt;/a&gt;, a writer and game designer who spent many...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2024/7/23/24204077/crowdstrike-windows-crash-exercise-apps-vergecast"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/7/23/24204077/crowdstrike-windows-crash-exercise-apps-vergecast"/>
+    <id>https://www.theverge.com/2024/7/23/24204077/crowdstrike-windows-crash-exercise-apps-vergecast</id>
+    <author>
+      <name>David Pierce</name>
+    </author>
+  </entry>
   <entry>
     <published>2024-07-23T09:30:00-04:00</published>
     <updated>2024-07-23T09:30:00-04:00</updated>
@@ -236,31 +262,6 @@
     <id>https://www.theverge.com/2024/7/22/24203924/slack-iphone-ipad-ios-ipados-widgets</id>
     <author>
       <name>Andrew Liszewski</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-07-22T18:32:26-04:00</published>
-    <updated>2024-07-22T18:32:26-04:00</updated>
-    <title>Intel says it has found the issue causing 13th and 14th Gen CPUs to crash</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/3HvIg1HsXiDngTR8_7ZuHWIw9fU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73475740/acastro_STK094_03.0.jpg" /&gt;
-        &lt;figcaption&gt;Illustration by Alex Castro / The Verge&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="e3EvEs"&gt;Intel says it has found the source of the widespread instability issues affecting its Core 13th and 14th Gen processors. In &lt;a href="https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792"&gt;an update on Monday&lt;/a&gt;, Intel confirmed that CPUs are experiencing “elevated operating voltage” and that a patch is on the way.&lt;/p&gt;
-&lt;p id="nVs4va"&gt;“We have determined that elevated operating voltage is causing instability issues in some 13th/14th Gen desktop processors,” Intel employee Thomas Hannaford writes on the company’s forum. “Our analysis of returned processors confirms that the elevated operating voltage is stemming from a microcode algorithm resulting in incorrect voltage requests to the processor.”&lt;/p&gt;
-&lt;p id="jgkxid"&gt;Intel says it’s working to release a microcode patch for motherboard manufacturers in mid-August and that anyone affected by the...&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2024/7/22/24203959/intel-core-13th-14th-gen-cpu-crash-update-patch"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/7/22/24203959/intel-core-13th-14th-gen-cpu-crash-update-patch"/>
-    <id>https://www.theverge.com/2024/7/22/24203959/intel-core-13th-14th-gen-cpu-crash-update-patch</id>
-    <author>
-      <name>Emma Roth</name>
     </author>
   </entry>
 </feed>
