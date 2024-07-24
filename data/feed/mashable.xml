@@ -5,11 +5,379 @@
     <title>Mashable</title>
     <link>https://mashable.com/feeds/rss/all</link>
     <description>Mashable is a global, multi-platform media and entertainment company.</description>
-    <pubDate>Wed, 24 Jul 2024 15:04:20 +0000</pubDate>
+    <pubDate>Wed, 24 Jul 2024 16:04:32 +0000</pubDate>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jul 2024 15:04:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 16:04:32 +0000</lastBuildDate>
     <copyright>©2024 Mashable, Inc. All Rights Reserved.</copyright>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[CrowdStrike outage: We just got more info on what, exactly, caused the chaos]]></title>
+      <link>https://mashable.com/article/crowdstrike-outage-more-info-outages</link>
+      <guid isPermaLink="false">031Md6BOMeO1D4kP74Wgtc3</guid>
+      <pubDate>Wed, 24 Jul 2024 16:03:16 +0000</pubDate>
+      <description><![CDATA[CrowdStrike released a new report on what, exactly, caused the mass outages of Windows machines last week.]]></description>
+      <content:encoded><![CDATA[<img src="https://helios-i.mashable.com/imagery/articles/031Md6BOMeO1D4kP74Wgtc3/hero-image.jpg" alt="crowstrike logo over orange background"><p>CrowdStrike has released further details Wednesday on the software issue that <a href="https://mashable.com/article/crowdstrike-microsoft-outage-windows-blue-screen-explained" target="_self"><u>caused mass outages</u></a> while taking down 8.5 million Windows machines.&nbsp;</p><p>The <a href="https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/" target="_blank"><u>company posted</u></a> a post incident review (PIR) on its website detailing the problem and outlined steps on how it can improve moving forward. You can read through the entire PIR, but it's not particularly intended for casual readers &mdash; it's primarily for the technical folks.</p><div class="mx-auto mt-8 w-full max-w-3xl font-sans text-lg leading-normal md:text-xl md:leading-7">
+        <span class="font-bold text-primary-400">SEE ALSO:</span>
+        <a href="https://mashable.com/article/windows-bsod-crash-crowdstrike-update-worldwide-outage" class="text-secondary-300">
+            Microsoft outage updates: Crowdstrike issue still wreaking havoc despite fix
+            <svg class="inline-block ml-1 w-4 h-4 font-normal fill-current"><use href="https://mashable.com/images/icons/spritemap.svg#sprite-arrow-right-thin"></use></svg>
+        </a>
+    </div>
+<h2><strong>So what happened, exactly?</strong></h2><p>The <a href="https://knowyourmeme.com/memes/tldr-tldr" target="_blank"><u>TL;DR</u></a> is that CrowdStrike sent out Rapid Response Content &mdash; an update<s> </s>designed to respond to the changing threat landscape &mdash; but there was a bug in its Content Validator. Despite this, the update, which contained the problematic content data, rolled out to customers. The issue &ldquo;resulted in an out-of-bounds memory read&rdquo; which, in turn, led to Windows crashing (i.e., showing <a href="https://mashable.com/article/bsod-windows-blue-screen-of-death-explained" target="_self"><u>the dreaded Blue Screen of Death)</u></a>.</p><p>Because so many companies used CrowdStrike, the miniscule error ended up being a massive issue. It was a small 40KB file that caused the problem,<a href="https://www.theverge.com/2024/7/24/24205020/crowdstrike-test-software-bug-windows-bsod-issue" target="_blank"><u> the Verge</u></a> noted. That little mistake had the airline, healthcare, and banking industries out of commission.&nbsp;</p><p>How does the PIR detail plans to prevent such issues in the future? It will increase testing for Rapid Response Content, add new checks for the Content Validator, and change the way it rolls out Rapid Response Content.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title><![CDATA[At $200 off, the Microsoft Surface Laptop Go 3 has never been this cheap before]]></title>
+      <link>https://mashable.com/article/july-24-microsoft-surface-laptop-go-3-deal</link>
+      <guid isPermaLink="false">02KG3OslpVflDnO16tAl6jN</guid>
+      <pubDate>Wed, 24 Jul 2024 15:45:17 +0000</pubDate>
+      <description><![CDATA[The Microsoft Surface Laptop Go 3 is on sale for just $599.99 (or $200 off) at Best Buy and Amazon as of July 24. That's its lowest price to date.]]></description>
+      <content:encoded><![CDATA[<img src="https://helios-i.mashable.com/imagery/articles/02KG3OslpVflDnO16tAl6jN/hero-image.png" alt="the microsoft surface laptop go 3 against a pale blue background"><p><strong>SAVE $200:</strong> Normally $799.99, the Microsoft Surface Laptop Go 3 (Intel Core i5-1235U, 8GB RAM, 256GB SSD) is on sale for $599.99 at <a href="https://zdcs.link/knmGg?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Best%20Buy&object_type=article&object_uuid=02KG3OslpVflDnO16tAl6jN&short_url=knmGg&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Best Buy</a> and <a href="https://zdcs.link/V0eG3?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Amazon&object_type=article&object_uuid=02KG3OslpVflDnO16tAl6jN&short_url=V0eG3&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Amazon</a> as of July 24. That's its lowest price to date.</p><div class="flex flex-col mx-auto mt-6 mb-16 max-w-3xl font-sans md:mt-10 md:border-b-2 md:border-gray-100">
+    <div class="mb-1 text-xl font-bold">
+        Quick links:
+    </div>
+            <hr class="border border-gray-100 mx-auto !mt-0 !max-w-full">
+        <div class="py-6 md:flex md:justify-between md:items-stretch">
+            <div class="flex md:w-3/4">
+                <div class="pr-3 w-full md:order-2 md:ml-4 md:ml-8 md:w-3/4">
+                    <div class="text-sm font-bold uppercase">
+                        Best Buy
+                    </div>
+                    <div class="mt-1 text-sm">
+                        <a data-ga-click data-ga-module="product-summary-list" data-ga-element="offer" data-ga-item="buy-link" class="mb-5 text-lg font-bold leading-tight hover:underline text-secondary-300" href="https://zdcs.link/knmGg?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-link&element_label=Microsoft%20Surface%20Laptop%20Go%203%20%28Intel%20Core%20i5-1235U%2C%208GB%20RAM%2C%20256GB%20SSD%29&object_type=article&object_uuid=02KG3OslpVflDnO16tAl6jN&short_url=knmGg&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" rel="sponsored" title="(opens in a new window)">
+                            Microsoft Surface Laptop Go 3 (Intel Core i5-1235U, 8GB RAM, 256GB SSD)
+                        </a>
+                        <div class="mt-1">
+                            <span class="font-bold md:text-base text-primary-400">$599.99 at Best Buy</span>
+                                                            <span class="text-primary-400">(save $200)</span>
+                                                    </div>
+                    </div>
+                </div>
+                <div class="my-auto w-1/4 md:order-1 md:w-1/5 md:max-h-36">
+                    <img class="my-auto mx-auto max-h-full" src="https://helios-i.mashable.com/imagery/articles/02KG3OslpVflDnO16tAl6jN/images-1.fit_lim.size_190x133.v1721828072.jpg" alt="the microsoft surface laptop go 3" width="190" height="133" loading="lazy">
+
+
+                </div>
+            </div>
+            <div class="mt-6 mb-2 w-full md:my-auto md:w-1/4">
+                <a class="w-full font-bold leading-6 text-center whitespace-nowrap hover:underline" href="https://zdcs.link/knmGg?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=02KG3OslpVflDnO16tAl6jN&short_url=knmGg&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="$text" data-ga-element="offer" data-ga-module="product-summary-list" data-ga-click rel="sponsored" title="(opens in a new window)">
+                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide overflow-ellipsis line-clamp-1 btn btn-secondary">
+                        Get Deal
+                    </button>
+                </a>
+            </div>
+        </div>
+            <hr class="border border-gray-100 mx-auto !mt-0 !max-w-full">
+        <div class="py-6 md:flex md:justify-between md:items-stretch">
+            <div class="flex md:w-3/4">
+                <div class="pr-3 w-full md:order-2 md:ml-4 md:ml-8 md:w-3/4">
+                    <div class="text-sm font-bold uppercase">
+                        Amazon
+                    </div>
+                    <div class="mt-1 text-sm">
+                        <a data-ga-click data-ga-module="product-summary-list" data-ga-element="offer" data-ga-item="buy-link" class="mb-5 text-lg font-bold leading-tight hover:underline text-secondary-300" href="https://zdcs.link/V0eG3?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-link&element_label=Microsoft%20Surface%20Laptop%20Go%203%20%28Intel%20Core%20i5-1235U%2C%208GB%20RAM%2C%20256GB%20SSD%29&object_type=article&object_uuid=02KG3OslpVflDnO16tAl6jN&short_url=V0eG3&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" rel="sponsored" title="(opens in a new window)">
+                            Microsoft Surface Laptop Go 3 (Intel Core i5-1235U, 8GB RAM, 256GB SSD)
+                        </a>
+                        <div class="mt-1">
+                            <span class="font-bold md:text-base text-primary-400">$599.99 at Amazon</span>
+                                                            <span class="text-primary-400">(save $200)</span>
+                                                    </div>
+                    </div>
+                </div>
+                <div class="my-auto w-1/4 md:order-1 md:w-1/5 md:max-h-36">
+                    <img class="my-auto mx-auto max-h-full" src="https://helios-i.mashable.com/imagery/articles/02KG3OslpVflDnO16tAl6jN/images-2.fit_lim.size_190x133.v1721828072.jpg" alt="the Microsoft Surface Laptop Go 3" width="190" height="133" loading="lazy">
+
+
+                </div>
+            </div>
+            <div class="mt-6 mb-2 w-full md:my-auto md:w-1/4">
+                <a class="w-full font-bold leading-6 text-center whitespace-nowrap hover:underline" href="https://zdcs.link/V0eG3?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=02KG3OslpVflDnO16tAl6jN&short_url=V0eG3&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="$text" data-ga-element="offer" data-ga-module="product-summary-list" data-ga-click rel="sponsored" title="(opens in a new window)">
+                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide overflow-ellipsis line-clamp-1 btn btn-secondary">
+                        Get Deal
+                    </button>
+                </a>
+            </div>
+        </div>
+    </div>
+<p>Featuring a sleek, sturdy build and a stellar keyboard, last year's <a href="https://mashable.com/review/microsoft-surface-laptop-go-3" target="_self">Microsoft Surface Laptop Go 3</a> makes a great laptop for on-the-go students with low-key workloads. Our biggest gripe with it is that it costs too much compared to similarly specced laptops &mdash; but thanks to a big new price drop, that concern is currently null and void.</p><p>As of July 24, the base configuration of the Surface Laptop Go 3 is on sale for just $599.99 at <a href="https://zdcs.link/knmGg?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Best%20Buy&object_type=article&object_uuid=02KG3OslpVflDnO16tAl6jN&short_url=knmGg&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Best Buy</a>. That's a $200 savings (or 25% off) and its lowest price since the ultraportable launched in Oct. 2023. <a href="https://zdcs.link/V0eG3?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Amazon&object_type=article&object_uuid=02KG3OslpVflDnO16tAl6jN&short_url=V0eG3&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Amazon</a> was matching that price at the time of writing, but only in two of its four colorways (Ice Blue and Sandstone, not Platinum or Sage) &mdash; and both were on backorder at the time of writing.</p><p>Meanwhile, the <a href="https://zdcs.link/rdMG1?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Microsoft%20Store&object_type=article&object_uuid=02KG3OslpVflDnO16tAl6jN&short_url=rdMG1&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Microsoft Store</a> itself had the Surface Laptop Go 3 listed for $649.99 (or just $150 off) when we last checked.</p><div class="mx-auto mt-8 w-full max-w-3xl font-sans text-lg leading-normal md:text-xl md:leading-7">
+        <span class="font-bold text-primary-400">SEE ALSO:</span>
+        <a href="https://mashable.com/review/microsoft-surface-laptop-7" class="text-secondary-300">
+            Microsoft Surface Laptop 7 review: 23 hours of battery life? MacBooks are in trouble
+            <svg class="inline-block ml-1 w-4 h-4 font-normal fill-current"><use href="https://mashable.com/images/icons/spritemap.svg#sprite-arrow-right-thin"></use></svg>
+        </a>
+    </div>
+<p>The Surface Laptop Go 3 measures in at a compact 12.4 inches and weighs just 2.49 pounds (or 0.3 pounds less than the latest 13-inch <a href="https://mashable.com/review/m3-macbook-air-15-inch" target="_self">Apple MacBook Air</a>), sporting a touchscreen display with an elegant aluminum lid. When she reviewed it last fall, Mashable Tech Editor Kim Gedeon raved about overall build quality: "For a notebook that starts at $800, the Surface Laptop Go 3 feels like a $1,200 laptop," she wrote, adding that its keyboard is "one of the best I&rsquo;ve ever used."</p><p>This particular model comes with an entry-level 8GB of memory and 256GB of storage. Power users won't be impressed by its 12th-generation Intel Core i5 processor, which is now two generations removed (and the main reason why we think it's worth waiting to buy on sale). Still, it's totally workable for everyday productivity. "I can see this being the daily driver of young students or Gen Z users seeking a laptop that can handle casual usage with style and sophistication," Gedeon said.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title><![CDATA[Score up to $600 off select iPad Pro models during Best Buy's Summer Sale]]></title>
+      <link>https://mashable.com/article/july-24-ipad-pro-best-buy-deals</link>
+      <guid isPermaLink="false">04WKdl2YPoej3nemzRdck5O</guid>
+      <pubDate>Wed, 24 Jul 2024 15:40:44 +0000</pubDate>
+      <description><![CDATA[As of July 24, get up to $600 off select iPad Pro models at Best Buy. Shop The Great Summer Sale now for deals on select iPad Pro models, including the 11-inch iPad Pro (4th gen) and 12.9-inch iPad Pro (6th gen).]]></description>
+      <content:encoded><![CDATA[<img src="https://helios-i.mashable.com/imagery/articles/04WKdl2YPoej3nemzRdck5O/hero-image.png" alt="ipad pro against a colorful background"><p><strong>UP TO $600 OFF:</strong> As of July 24, get up to <a href="https://zdcs.link/gl0KG?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=%24600%20off%20select%20iPad%20Pro%20models%20at%20Best%20Buy&object_type=article&object_uuid=04WKdl2YPoej3nemzRdck5O&short_url=gl0KG&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">$600 off select iPad Pro models at Best Buy</a>. Shop <a href="https://zdcs.link/MVen4?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=The%20Great%20Summer%20Sale&object_type=article&object_uuid=04WKdl2YPoej3nemzRdck5O&short_url=MVen4&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">The Great Summer Sale</a> now.</p><hr><div class="flex flex-col mx-auto mt-6 mb-16 max-w-3xl font-sans md:mt-10 md:border-b-2 md:border-gray-100">
+    <div class="mb-1 text-xl font-bold">
+        Our top picks: 
+    </div>
+            <hr class="border border-gray-100 mx-auto !mt-0 !max-w-full">
+        <div class="py-6 md:flex md:justify-between md:items-stretch">
+            <div class="flex md:w-3/4">
+                <div class="pr-3 w-full md:order-2 md:ml-4 md:ml-8 md:w-3/4">
+                    <div class="text-sm font-bold uppercase">
+                        Best iPad deal overall
+                    </div>
+                    <div class="mt-1 text-sm">
+                        <a data-ga-click data-ga-module="product-summary-list" data-ga-element="offer" data-ga-item="buy-link" class="mb-5 text-lg font-bold leading-tight hover:underline text-secondary-300" href="https://zdcs.link/mVNpq?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-link&element_label=12.9-inch%20Apple%20iPad%20Pro%20%286th%20gen%2C%20M2%2C%20WiFi%2C%20256GB%29&object_type=article&object_uuid=04WKdl2YPoej3nemzRdck5O&short_url=mVNpq&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" rel="sponsored" title="(opens in a new window)">
+                            12.9-inch Apple iPad Pro (6th gen, M2, WiFi, 256GB)
+                        </a>
+                        <div class="mt-1">
+                            <span class="font-bold md:text-base text-primary-400">$899 at Best Buy</span>
+                                                            <span class="text-primary-400">(save $300)</span>
+                                                    </div>
+                    </div>
+                </div>
+                <div class="my-auto w-1/4 md:order-1 md:w-1/5 md:max-h-36">
+                    <img class="my-auto mx-auto max-h-full" src="https://helios-i.mashable.com/imagery/articles/04WKdl2YPoej3nemzRdck5O/images-1.fit_lim.size_133x133.v1721830805.png" alt="Apple iPad Pro, 12.9-inch (6th gen, M2, WiFi, 256GB)" width="133" height="133" loading="lazy">
+
+
+                </div>
+            </div>
+            <div class="mt-6 mb-2 w-full md:my-auto md:w-1/4">
+                <a class="w-full font-bold leading-6 text-center whitespace-nowrap hover:underline" href="https://zdcs.link/mVNpq?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=04WKdl2YPoej3nemzRdck5O&short_url=mVNpq&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="$text" data-ga-element="offer" data-ga-module="product-summary-list" data-ga-click rel="sponsored" title="(opens in a new window)">
+                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide overflow-ellipsis line-clamp-1 btn btn-secondary">
+                        Get Deal
+                    </button>
+                </a>
+            </div>
+        </div>
+            <hr class="border border-gray-100 mx-auto !mt-0 !max-w-full">
+        <div class="py-6 md:flex md:justify-between md:items-stretch">
+            <div class="flex md:w-3/4">
+                <div class="pr-3 w-full md:order-2 md:ml-4 md:ml-8 md:w-3/4">
+                    <div class="text-sm font-bold uppercase">
+                        Best runner-up iPad deal
+                    </div>
+                    <div class="mt-1 text-sm">
+                        <a data-ga-click data-ga-module="product-summary-list" data-ga-element="offer" data-ga-item="buy-link" class="mb-5 text-lg font-bold leading-tight hover:underline text-secondary-300" href="https://zdcs.link/BdeKv?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-link&element_label=11-inch%20Apple%20iPad%20Pro%20%284th%20gen%2C%20M2%2C%20WiFi%2C%20512GB%29&object_type=article&object_uuid=04WKdl2YPoej3nemzRdck5O&short_url=BdeKv&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" rel="sponsored" title="(opens in a new window)">
+                            11-inch Apple iPad Pro (4th gen, M2, WiFi, 512GB)
+                        </a>
+                        <div class="mt-1">
+                            <span class="font-bold md:text-base text-primary-400">$799 at Best Buy </span>
+                                                            <span class="text-primary-400">(save $300)</span>
+                                                    </div>
+                    </div>
+                </div>
+                <div class="my-auto w-1/4 md:order-1 md:w-1/5 md:max-h-36">
+                    <img class="my-auto mx-auto max-h-full" src="https://helios-i.mashable.com/imagery/articles/04WKdl2YPoej3nemzRdck5O/images-2.fit_lim.size_133x133.v1721831244.png" alt="Apple iPad Pro, 11-inch (4th gen, M2, WiFi, 512GB)" width="133" height="133" loading="lazy">
+
+
+                </div>
+            </div>
+            <div class="mt-6 mb-2 w-full md:my-auto md:w-1/4">
+                <a class="w-full font-bold leading-6 text-center whitespace-nowrap hover:underline" href="https://zdcs.link/BdeKv?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=04WKdl2YPoej3nemzRdck5O&short_url=BdeKv&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="$text" data-ga-element="offer" data-ga-module="product-summary-list" data-ga-click rel="sponsored" title="(opens in a new window)">
+                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide overflow-ellipsis line-clamp-1 btn btn-secondary">
+                        Get Deal
+                    </button>
+                </a>
+            </div>
+        </div>
+            <hr class="border border-gray-100 mx-auto !mt-0 !max-w-full">
+        <div class="py-6 md:flex md:justify-between md:items-stretch">
+            <div class="flex md:w-3/4">
+                <div class="pr-3 w-full md:order-2 md:ml-4 md:ml-8 md:w-3/4">
+                    <div class="text-sm font-bold uppercase">
+                        Best budget iPad deal 
+                    </div>
+                    <div class="mt-1 text-sm">
+                        <a data-ga-click data-ga-module="product-summary-list" data-ga-element="offer" data-ga-item="buy-link" class="mb-5 text-lg font-bold leading-tight hover:underline text-secondary-300" href="https://zdcs.link/xPKbb?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-link&element_label=10.2-inch%20Apple%20iPad%20%289th%20gen%2C%20WiFi%2C%2064GB%29&object_type=article&object_uuid=04WKdl2YPoej3nemzRdck5O&short_url=xPKbb&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" rel="sponsored" title="(opens in a new window)">
+                            10.2-inch Apple iPad (9th gen, WiFi, 64GB)
+                        </a>
+                        <div class="mt-1">
+                            <span class="font-bold md:text-base text-primary-400">$249.99 at Best Buy </span>
+                                                            <span class="text-primary-400">(save $80)</span>
+                                                    </div>
+                    </div>
+                </div>
+                <div class="my-auto w-1/4 md:order-1 md:w-1/5 md:max-h-36">
+                    <img class="my-auto mx-auto max-h-full" src="https://helios-i.mashable.com/imagery/articles/04WKdl2YPoej3nemzRdck5O/images-3.fit_lim.size_133x133.v1721834296.png" alt="Apple iPad, 10.2-inch (9th gen, WiFi, 64GB)" width="133" height="133" loading="lazy">
+
+
+                </div>
+            </div>
+            <div class="mt-6 mb-2 w-full md:my-auto md:w-1/4">
+                <a class="w-full font-bold leading-6 text-center whitespace-nowrap hover:underline" href="https://zdcs.link/xPKbb?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=04WKdl2YPoej3nemzRdck5O&short_url=xPKbb&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="$text" data-ga-element="offer" data-ga-module="product-summary-list" data-ga-click rel="sponsored" title="(opens in a new window)">
+                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide overflow-ellipsis line-clamp-1 btn btn-secondary">
+                        Get Deal
+                    </button>
+                </a>
+            </div>
+        </div>
+    </div>
+<p><a href="https://mashable.com/category/prime-day" target="_self">Prime Day</a> may be over, but the deals aren't! <a href="https://zdcs.link/MVen4?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Best%20Buy%27s%20Great%20Summer%20Sale&object_type=article&object_uuid=04WKdl2YPoej3nemzRdck5O&short_url=MVen4&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Best Buy's Great Summer Sale</a> is here, offering the discounts you missed on everything from TVs to tech. </p><p>As of July 24, you can snag an iPad Pro for up to $600 off &mdash; a total steal for <a href="https://mashable.com/category/ipad" target="_self">Apple's flagship tablet</a>. The savings apply to a variety of iPad Pro models &mdash; including the <a href="https://zdcs.link/0PlGm?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=11-inch%20iPad%20Pro%20%284th%20gen%29&object_type=article&object_uuid=04WKdl2YPoej3nemzRdck5O&short_url=0PlGm&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">11-inch iPad Pro (4th gen)</a> and <a href="https://zdcs.link/R0eWK?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=12.9-inch%20iPad%20Pro%20%286th%20gen%29&object_type=article&object_uuid=04WKdl2YPoej3nemzRdck5O&short_url=R0eWK&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">12.9-inch iPad Pro (6th gen)</a> &mdash; so you can find a tablet that checks all the boxes, whether you need something for on-the-go productivity, creative projects, or entertainment. </p><p>Here&rsquo;s a breakdown of the best iPad Pro deals you can find during <a href="https://zdcs.link/MVen4?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Best%20Buy%27s%20summer%20sale&object_type=article&object_uuid=04WKdl2YPoej3nemzRdck5O&short_url=MVen4&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Best Buy's summer sale</a>: </p><h2>Best iPad deal overall </h2><div class="flex flex-col mx-auto mt-8 mb-16 max-w-3xl font-sans md:flex-row">
+    <div class="mx-auto w-64 md:mx-0 md:w-1/3">
+                                                        <a class="block group" href="https://zdcs.link/mVNpq?pageview_type=RSS&template=article&module=shop-card&element=offer&item=image&element_label=image&object_type=article&object_uuid=04WKdl2YPoej3nemzRdck5O&short_url=mVNpq&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank"title="(opens in a new window)" data-ga-action="product_image" data-ga-label="image" data-ga-item="image" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="1" data-ga-click>
+                                                            <img class="w-full" src="https://helios-i.mashable.com/imagery/articles/04WKdl2YPoej3nemzRdck5O/images-1.fill.size_256x256.v1721830805.png" alt="Apple iPad Pro, 12.9-inch (6th gen, M2, WiFi, 256GB)" width="256" height="256" loading="lazy">
+
+
+                    
+                    <div class="block relative mx-14 group-hover:visible tooltip">
+                    <span class="absolute invisible p-1 mt-2 text-xs text-center text-white group-hover:visible tooltiptext bg-gray-600/0 group-hover:bg-gray-600/100">
+                        Opens in a new window
+                    </span>
+                    </div>
+                                    </a>
+                                <div class="mt-2 leading-none text-left">
+                                            <span class="pr-5 mt-1 text-xs text-gray-600 subtitle-2">Credit: Apple</span>
+                                    </div>
+                        </div>
+    <div class="pl-0 mt-3 w-full md:pl-8 md:mt-0 md:w-2/3">
+                                    <a href="https://zdcs.link/mVNpq?pageview_type=RSS&template=article&module=shop-card&element=offer&item=title&element_label=Our%20pick%3A%2012.9-inch%20Apple%20iPad%20Pro%20%28M2%2C%20WiFi%2C%208GB%20RAM%2C%20256GB%20SSD%29&object_type=article&object_uuid=04WKdl2YPoej3nemzRdck5O&short_url=mVNpq&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank" class="block mb-5 text-xl font-bold leading-8 text-center md:text-2xl md:text-left hover:underline text-secondary-300" data-ga-action="offer-title" data-ga-item="title" data-ga-element="offer" data-ga-module="shop-card" data-ga-label="Our pick: 12.9-inch Apple iPad Pro (M2, WiFi, 8GB RAM, 256GB SSD)" data-ga-position="1" data-ga-click title="(opens in a new window)">
+                    Our pick: 12.9-inch Apple iPad Pro (M2, WiFi, 8GB RAM, 256GB SSD)
+                </a>
+                                        <div class="flex justify-between items-center py-3 md:py-0 md:space-x-2">
+                <div class="md:w-2/3" style="line-height: 0.75rem">
+                                            <span class="text-sm font-bold">$899.00</span>
+                                                    <span class="text-xs"> at Best Buy</span>
+                                                <br>
+                                                                                            <span class="text-xs font-bold line-through">$1,199.00</span>
+                                                                            <span class="text-xs font-bold text-red-400"> Save $300.00</span>
+                                                            </div>
+            </div>
+                            <div class="mb-4 text-base font-normal leading-tight">6th gen</div>
+                                            <a class="font-bold leading-6 text-center hover:underline" href="https://zdcs.link/mVNpq?pageview_type=RSS&template=article&module=shop-card&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=04WKdl2YPoej3nemzRdck5O&short_url=mVNpq&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="Get Deal" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="1" data-ga-click title="(opens in a new window)">
+                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide md:w-auto md:text-lg btn btn-secondary">Get Deal</button>
+                </a>
+                        </div>
+</div>
+<h3>Why we like it </h3><p>While the <a href="https://mashable.com/review/apple-ipad-pro-13-inch-2024" target="_self">2024 iPad Pro</a> <em>is </em>one of the most advanced tablets we&rsquo;ve ever seen, the 2022 iPad Pro is a pretty good alternative for people who need a powerful tablet but aren&rsquo;t trying to use it as a laptop replacement.</p><p>The 12.9-inch iPad Pro (6th gen) is currently on sale for $899 at Best Buy. That&rsquo;s $300 off the listing price and $100 less than the all-new 2024 model. You can also save an additional $425 if you trade in a similar device (you can see your trade-in value right on the product page). </p><p>This iPad has an M2 chip, 8GB RAM, and 256GB of storage, which is more than enough for most users. But if you need more, you can also upgrade to higher storage options on sale. </p><p><a href="https://mashable.com/review/ipad-pro-2022-review" target="_self"><em>Read our full review of the 2022 iPad Pro</em></a><em>.</em></p><h2>Best runner-up iPad deal</h2><div class="flex flex-col mx-auto mt-8 mb-16 max-w-3xl font-sans md:flex-row">
+    <div class="mx-auto w-64 md:mx-0 md:w-1/3">
+                                                        <a class="block group" href="https://zdcs.link/BdeKv?pageview_type=RSS&template=article&module=shop-card&element=offer&item=image&element_label=image&object_type=article&object_uuid=04WKdl2YPoej3nemzRdck5O&short_url=BdeKv&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank"title="(opens in a new window)" data-ga-action="product_image" data-ga-label="image" data-ga-item="image" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="2" data-ga-click>
+                                                            <img class="w-full" src="https://helios-i.mashable.com/imagery/articles/04WKdl2YPoej3nemzRdck5O/images-2.fill.size_256x256.v1721831244.png" alt="Apple iPad Pro, 11-inch (4th gen, M2, WiFi, 512GB)" width="256" height="256" loading="lazy">
+
+
+                    
+                    <div class="block relative mx-14 group-hover:visible tooltip">
+                    <span class="absolute invisible p-1 mt-2 text-xs text-center text-white group-hover:visible tooltiptext bg-gray-600/0 group-hover:bg-gray-600/100">
+                        Opens in a new window
+                    </span>
+                    </div>
+                                    </a>
+                                <div class="mt-2 leading-none text-left">
+                                            <span class="pr-5 mt-1 text-xs text-gray-600 subtitle-2">Credit: Apple</span>
+                                    </div>
+                        </div>
+    <div class="pl-0 mt-3 w-full md:pl-8 md:mt-0 md:w-2/3">
+                                    <a href="https://zdcs.link/BdeKv?pageview_type=RSS&template=article&module=shop-card&element=offer&item=title&element_label=Our%20pick%3A%2011-inch%20Apple%20iPad%20Pro%20%28M2%2C%20WiFi%2C%208GN%20RAM%2C%20512GB%20SSD%29&object_type=article&object_uuid=04WKdl2YPoej3nemzRdck5O&short_url=BdeKv&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank" class="block mb-5 text-xl font-bold leading-8 text-center md:text-2xl md:text-left hover:underline text-secondary-300" data-ga-action="offer-title" data-ga-item="title" data-ga-element="offer" data-ga-module="shop-card" data-ga-label="Our pick: 11-inch Apple iPad Pro (M2, WiFi, 8GN RAM, 512GB SSD)" data-ga-position="2" data-ga-click title="(opens in a new window)">
+                    Our pick: 11-inch Apple iPad Pro (M2, WiFi, 8GN RAM, 512GB SSD)
+                </a>
+                                        <div class="flex justify-between items-center py-3 md:py-0 md:space-x-2">
+                <div class="md:w-2/3" style="line-height: 0.75rem">
+                                            <span class="text-sm font-bold">$799.00</span>
+                                                    <span class="text-xs"> at Best Buy </span>
+                                                <br>
+                                                                                            <span class="text-xs font-bold line-through">$1,099.00</span>
+                                                                            <span class="text-xs font-bold text-red-400"> Save $300.00</span>
+                                                            </div>
+            </div>
+                            <div class="mb-4 text-base font-normal leading-tight">4th gen</div>
+                                            <a class="font-bold leading-6 text-center hover:underline" href="https://zdcs.link/BdeKv?pageview_type=RSS&template=article&module=shop-card&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=04WKdl2YPoej3nemzRdck5O&short_url=BdeKv&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="Get Deal" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="2" data-ga-click title="(opens in a new window)">
+                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide md:w-auto md:text-lg btn btn-secondary">Get Deal</button>
+                </a>
+                        </div>
+</div>
+<h3>Why we like it </h3><p>The <a href="https://zdcs.link/BdeKv?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=11-inch%20iPad%20Pro%20%284th%20gen%29&object_type=article&object_uuid=04WKdl2YPoej3nemzRdck5O&short_url=BdeKv&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">11-inch iPad Pro (4th gen)</a> is still a good option if you don't need a huge screen. Like the 6th gen, it has an M2 chip and 8GB of RAM. This model also has a larger 512GB storage capacity, which is a plus for storing lots of files, photos, and 4K videos.</p><p>At $799 and an additional $300 off with trade-in, this 11-inch iPad Pro still offers plenty of power at a great price. You&rsquo;ll also get three free months of Apple TV+, four months of Apple Arcade, and three months of Apple Music to sweeten the deal.</p><h2>Best budget iPad deal </h2><div class="flex flex-col mx-auto mt-8 mb-16 max-w-3xl font-sans md:flex-row">
+    <div class="mx-auto w-64 md:mx-0 md:w-1/3">
+                                                        <a class="block group" href="https://zdcs.link/xPKbb?pageview_type=RSS&template=article&module=shop-card&element=offer&item=image&element_label=image&object_type=article&object_uuid=04WKdl2YPoej3nemzRdck5O&short_url=xPKbb&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank"title="(opens in a new window)" data-ga-action="product_image" data-ga-label="image" data-ga-item="image" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="3" data-ga-click>
+                                                            <img class="w-full" src="https://helios-i.mashable.com/imagery/articles/04WKdl2YPoej3nemzRdck5O/images-3.fill.size_256x256.v1721834296.png" alt="Apple iPad, 10.2-inch (9th gen, WiFi, 64GB)" width="256" height="256" loading="lazy">
+
+
+                    
+                    <div class="block relative mx-14 group-hover:visible tooltip">
+                    <span class="absolute invisible p-1 mt-2 text-xs text-center text-white group-hover:visible tooltiptext bg-gray-600/0 group-hover:bg-gray-600/100">
+                        Opens in a new window
+                    </span>
+                    </div>
+                                    </a>
+                                <div class="mt-2 leading-none text-left">
+                                            <span class="pr-5 mt-1 text-xs text-gray-600 subtitle-2">Credit: Apple</span>
+                                    </div>
+                        </div>
+    <div class="pl-0 mt-3 w-full md:pl-8 md:mt-0 md:w-2/3">
+                                    <a href="https://zdcs.link/xPKbb?pageview_type=RSS&template=article&module=shop-card&element=offer&item=title&element_label=Our%20pick%3A%20Apple%2010.2-inch%20iPad%20%28WiFi%2C%2064GB%29&object_type=article&object_uuid=04WKdl2YPoej3nemzRdck5O&short_url=xPKbb&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank" class="block mb-5 text-xl font-bold leading-8 text-center md:text-2xl md:text-left hover:underline text-secondary-300" data-ga-action="offer-title" data-ga-item="title" data-ga-element="offer" data-ga-module="shop-card" data-ga-label="Our pick: Apple 10.2-inch iPad (WiFi, 64GB)" data-ga-position="3" data-ga-click title="(opens in a new window)">
+                    Our pick: Apple 10.2-inch iPad (WiFi, 64GB)
+                </a>
+                                        <div class="flex justify-between items-center py-3 md:py-0 md:space-x-2">
+                <div class="md:w-2/3" style="line-height: 0.75rem">
+                                            <span class="text-sm font-bold">$249.99</span>
+                                                    <span class="text-xs"> at Best Buy</span>
+                                                <br>
+                                                                                            <span class="text-xs font-bold line-through">$329.99</span>
+                                                                            <span class="text-xs font-bold text-red-400"> Save $80.00</span>
+                                                            </div>
+            </div>
+                            <div class="mb-4 text-base font-normal leading-tight">9th gen</div>
+                                            <a class="font-bold leading-6 text-center hover:underline" href="https://zdcs.link/xPKbb?pageview_type=RSS&template=article&module=shop-card&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=04WKdl2YPoej3nemzRdck5O&short_url=xPKbb&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="Get Deal" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="3" data-ga-click title="(opens in a new window)">
+                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide md:w-auto md:text-lg btn btn-secondary">Get Deal</button>
+                </a>
+                        </div>
+</div>
+<h3>Why we like it </h3><p>If you&rsquo;re in desperate need of an iPad and don&rsquo;t want to pay more than a couple hundred bucks, the <a href="https://zdcs.link/xPKbb?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Apple%20iPad%2C%2010.2-inch%20%289th%20gen%29&object_type=article&object_uuid=04WKdl2YPoej3nemzRdck5O&short_url=xPKbb&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Apple iPad, 10.2-inch (9th gen)</a>, is still our top pick for the <a href="https://mashable.com/roundup/best-tablets" target="_self">best tablet for most people</a>. It&rsquo;s not a pro and doesn&rsquo;t have a ton of space, but it&rsquo;s affordable and should cover most basic tablet needs, especially at $249.99, with an extra $160 off for trade-in. </p><h3>More iPad Pro deals</h3><ul><li><p><a href="https://zdcs.link/1vDZk?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Apple%20iPad%20Pro%2C%2011-inch%20%284th%20gen%2C%20M2%2C%20WiFi%20%2B%20Cellular%2C%20128GB%29&object_type=article&object_uuid=04WKdl2YPoej3nemzRdck5O&short_url=1vDZk&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Apple iPad Pro, 11-inch (4th gen, M2, WiFi + Cellular, 128GB)</a> &mdash; <strong>$699 </strong><s>$999</s> (save $300)</p></li><li><p><a href="https://zdcs.link/XDpRY?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Apple%20iPad%20Pro%2C%2012.9-inch%20%286th%20gen%2C%20M2%2C%20WiFi%20%2B%20Cellular%2C%202TB%29&object_type=article&object_uuid=04WKdl2YPoej3nemzRdck5O&short_url=XDpRY&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Apple iPad Pro, 12.9-inch (6th gen, M2, WiFi + Cellular, 2TB)</a> &mdash; <strong>$1,799</strong> <s>$2,399</s> (save $600)</p></li><li><p><a href="https://zdcs.link/b15pr?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Apple%20iPad%20Pro%2C%2012.9-inch%20%286th%20gen%2C%20M2%2C%20WiFi%20%2B%20Cellular%2C%20256GB%29&object_type=article&object_uuid=04WKdl2YPoej3nemzRdck5O&short_url=b15pr&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Apple iPad Pro, 12.9-inch (6th gen, M2, WiFi + Cellular, 256GB)</a> &mdash; <strong>$999</strong> <s>$1,399</s> (save $400)</p></li></ul>]]></content:encoded>
+    </item>
+    <item>
+      <title><![CDATA[Stephen Curry and Adam Pally team up for 'Mr. Throwback' trailer]]></title>
+      <link>https://mashable.com/video/mr-throwback-steph-curry-trailer</link>
+      <guid isPermaLink="false">03i16h83Cama2R1KE6iPnT8</guid>
+      <pubDate>Wed, 24 Jul 2024 15:30:00 +0000</pubDate>
+      <description><![CDATA[Think 'The Office' but for sports.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Grab a new Samsung Galaxy S24 Ultra for its lowest price yet]]></title>
+      <link>https://mashable.com/article/july-24-samsung-galaxy-s24-ultra-deal</link>
+      <guid isPermaLink="false">06e43gELCLIpA5kre8qWyRT</guid>
+      <pubDate>Wed, 24 Jul 2024 15:23:44 +0000</pubDate>
+      <description><![CDATA[As of July 24, get the Samsung Galaxy S24 Ultra for just $965 at Amazon. That's a 26% discount, and its lowest price yet.]]></description>
+      <content:encoded><![CDATA[<img src="https://helios-i.mashable.com/imagery/articles/06e43gELCLIpA5kre8qWyRT/hero-image.png" alt="Samsung Galaxy S24 Ultra on orange background"><p><strong>SAVE $334.99: </strong>As of July 24, the <a href="https://zdcs.link/OdeAj?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Samsung%20Galaxy%20S24%20Ultra&object_type=article&object_uuid=06e43gELCLIpA5kre8qWyRT&short_url=OdeAj&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Samsung Galaxy S24 Ultra</a> is $965 at Amazon. That's a discount of 26% and its <a href="https://camelcamelcamel.com/product/B0CMDJ844V" target="_blank">lowest price yet</a>. </p><hr><div class="flex flex-col mx-auto mt-8 mb-16 max-w-3xl font-sans md:flex-row">
+    <div class="mx-auto w-64 md:mx-0 md:w-1/3">
+                                                        <a class="block group" href="https://zdcs.link/OdeAj?pageview_type=RSS&template=article&module=shop-card&element=offer&item=image&element_label=image&object_type=article&object_uuid=06e43gELCLIpA5kre8qWyRT&short_url=OdeAj&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank"title="(opens in a new window)" data-ga-action="product_image" data-ga-label="image" data-ga-item="image" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="1" data-ga-click>
+                                                            <img class="w-full" src="https://helios-i.mashable.com/imagery/articles/06e43gELCLIpA5kre8qWyRT/images-1.fill.size_256x256.v1721832597.png" alt="Samsung Galaxy S24 Ultra on white background" width="256" height="256" loading="lazy">
+
+
+                    
+                    <div class="block relative mx-14 group-hover:visible tooltip">
+                    <span class="absolute invisible p-1 mt-2 text-xs text-center text-white group-hover:visible tooltiptext bg-gray-600/0 group-hover:bg-gray-600/100">
+                        Opens in a new window
+                    </span>
+                    </div>
+                                    </a>
+                                <div class="mt-2 leading-none text-left">
+                                            <span class="pr-5 mt-1 text-xs text-gray-600 subtitle-2">Credit: Amazon</span>
+                                    </div>
+                        </div>
+    <div class="pl-0 mt-3 w-full md:pl-8 md:mt-0 md:w-2/3">
+                                    <a href="https://zdcs.link/OdeAj?pageview_type=RSS&template=article&module=shop-card&element=offer&item=title&element_label=Samsung%20Galaxy%20S24%20Ultra&object_type=article&object_uuid=06e43gELCLIpA5kre8qWyRT&short_url=OdeAj&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank" class="block mb-5 text-xl font-bold leading-8 text-center md:text-2xl md:text-left hover:underline text-secondary-300" data-ga-action="offer-title" data-ga-item="title" data-ga-element="offer" data-ga-module="shop-card" data-ga-label="Samsung Galaxy S24 Ultra" data-ga-position="1" data-ga-click title="(opens in a new window)">
+                    Samsung Galaxy S24 Ultra
+                </a>
+                                        <div class="flex justify-between items-center py-3 md:py-0 md:space-x-2">
+                <div class="md:w-2/3" style="line-height: 0.75rem">
+                                            <span class="text-sm font-bold">$965.00</span>
+                                                    <span class="text-xs"> at Amazon</span>
+                                                <br>
+                                                                                            <span class="text-xs font-bold line-through">$1,299.99</span>
+                                                                            <span class="text-xs font-bold text-red-400"> Save $334.99</span>
+                                                            </div>
+            </div>
+                                                    <a class="font-bold leading-6 text-center hover:underline" href="https://zdcs.link/OdeAj?pageview_type=RSS&template=article&module=shop-card&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=06e43gELCLIpA5kre8qWyRT&short_url=OdeAj&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="Get Deal" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="1" data-ga-click title="(opens in a new window)">
+                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide md:w-auto md:text-lg btn btn-secondary">Get Deal</button>
+                </a>
+                        </div>
+</div>
+<p>Ready to upgrade your <a href="https://mashable.com/category/mobile" target="_self">smartphone</a>? It's about time you put your old one out of its misery. It's served you well with its cracked screen, grimy glass, and scratches, but now's the time to move on. Especially when you can get a fantastic <a href="https://mashable.com/category/android" target="_self">Android</a> device for its lowest price yet. </p><p>As of July 24, the <a href="https://zdcs.link/OdeAj?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Samsung%20Galaxy%20S24%20Ultra&object_type=article&object_uuid=06e43gELCLIpA5kre8qWyRT&short_url=OdeAj&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Samsung Galaxy S24 Ultra</a> is on sale at Amazon for just $965. That's a discount of $334.99 and 26% off its normal price of $1,299.99. This price applies to the Titanium Violet colorway. Plus, this is its <a href="https://camelcamelcamel.com/product/B0CMDJ844V" target="_blank">lowest price yet</a>. </p><div class="mx-auto mt-8 w-full max-w-3xl font-sans text-lg leading-normal md:text-xl md:leading-7">
+        <span class="font-bold text-primary-400">SEE ALSO:</span>
+        <a href="https://mashable.com/article/samsung-galaxy-z-fold6-z-flip6-preorders" class="text-secondary-300">
+            Samsung's new smartphones are now up for preorder &mdash; here's how to get a Galaxy Z Fold6 or Z Flip6
+            <svg class="inline-block ml-1 w-4 h-4 font-normal fill-current"><use href="https://mashable.com/images/icons/spritemap.svg#sprite-arrow-right-thin"></use></svg>
+        </a>
+    </div>
+<p>This is the best of the best when it comes to the Samsung Galaxy S24 line. With a massive 6.8-inch display, 3088 x 1440 resolution and a 120Hz refresh rate, it's great for checking out your favorite streaming content on the go, playing games or just getting some work done. Behind the scenes is a Qualcomm Snapdragon 8 Gen 3 processor, 12GB of RAM, 512 GB of storage and a 50 MP zoom camera. </p><p>Its all-day 5,000mAh battery means it'll be there when you need it, and it even comes with the Samsung S Pen stylus for taking notes, sketching, or even to use it as a mobile camera shutter for great selfies and photos. There's a lot to love about this phone for Android users, and it's enticing enough to sway <a href="https://mashable.com/category/iphone" target="_self">iPhone</a> devotees as well. </p><p>The most impressive thing here is the price, however, so even if you're on the fence, it's a good idea to go ahead and lock in yours. This is one of the best devices Samsung has on offer right now. </p>]]></content:encoded>
+    </item>
     <item>
       <title><![CDATA[Stay vigilant with a Google Nest Doorbell on sale for its lowest price yet]]></title>
       <link>https://mashable.com/article/july-24-google-nest-doorbell-deal</link>
@@ -5095,161 +5463,6 @@
 
 
 <p>Each monitor provides vibrant colors and crisp details, making your workflow smoother and your Netflix binge-watching sessions even better. With adjustable settings, you can customize the display to your liking, ensuring a comfortable viewing experience all day long. This extender's compact design doesn&rsquo;t add bulk to your laptop, so you can still slide it into your bag easily.</p><p>The "open-box" status of this product just means it was returned by a customer and repackaged, or was excess inventory, but it is a brand-new item with <em>zero cosmetic flaws</em>.</p><p>Gift yourself more visual space while you work with this <a href="https://zdcs.link/mVE1N?pageview_type=RSS&template=deals&module=content_body&element=offer&item=text-link&element_label=open-box%20Maxfree%20S2%20Triple%20Monitor%20Extender&object_type=article&object_uuid=05Atp1GHQRwR9Us7nZadFAR&short_url=mVE1N&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="nofollow sponsored"title="(opens in a new window)" target="_blank">open-box Maxfree S2 Triple Monitor Extender</a> on sale for 48% off at $179.99 (reg. $349.99).</p><p><a href="https://www.stacksocial.com" target="_blank"><em>StackSocial</em></a><em> prices subject to change.</em></p>]]></content:encoded>
-    </item>
-    <item>
-      <title><![CDATA[Master AI with this ChatGPT online learning bundle — on sale for $30]]></title>
-      <link>https://mashable.com/deals/july-22-chatgpt-training</link>
-      <guid isPermaLink="false">05zF8VAayhAgnf9OqFkf6V7</guid>
-      <pubDate>Mon, 22 Jul 2024 09:00:00 +0000</pubDate>
-      <description><![CDATA[Become well-versed in AI with this ChatGPT AI bundle, featuring four comprehensive courses on AI visual creation, productivity, and using AI for teaching.]]></description>
-      <content:encoded><![CDATA[<img src="https://helios-i.mashable.com/imagery/articles/05zF8VAayhAgnf9OqFkf6V7/hero-image.jpg" alt="coworkers discussing AI"><p><strong>TL;DR:</strong> This ChatGPT online learning bundle offers four courses about using <a href="https://zdcs.link/4AZN4?pageview_type=RSS&template=deals&module=content_body&element=offer&item=text-link&element_label=AI%20for%20visual%20creation%2C%20productivity%2C%20and%20teaching&object_type=article&object_uuid=05zF8VAayhAgnf9OqFkf6V7&short_url=4AZN4&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="nofollow sponsored"title="(opens in a new window)" target="_blank">AI for visual creation, productivity, and teaching</a>, on sale for $29.99.</p><hr><p>Expand your skills with help from this online course bundle you can complete right from home. You'll explore four comprehensive courses designed to enhance your skills and creativity. Whether you're an artist, professional, or educator, this bundle has something for everyone. Take advantage of lifetime access for $29.99.</p><p>Over 4.5 hours of lessons, these courses give you a crash couse in ChatGPT and AI. The course Visual Creation with AI empowers you to create stunning artwork without any prior artistic experience. This beginner-friendly course covers <a href="https://zdcs.link/4AZN4?pageview_type=RSS&template=deals&module=content_body&element=offer&item=text-link&element_label=AI%20tools%20like%20GANs%20and%20style%20transfer&object_type=article&object_uuid=05zF8VAayhAgnf9OqFkf6V7&short_url=4AZN4&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="nofollow sponsored"title="(opens in a new window)" target="_blank">AI tools like GANs and style transfer</a>, helping you generate and enhance visuals. You'll learn to craft strategic prompts and combine AI art with other media, building a portfolio that showcases your talent to potential clients and employers.</p><p>Next up is Boost Your Productivity with AI. This course teaches you how to use AI tools to manage your time better, schedule meetings, track progress, and achieve your goals. With eight lectures packed into one hour of content, you can become a pro at optimizing productivity, impressing colleagues and superiors with your newfound time management skills.</p><p>Curious about ChatGPT? Introduction to ChatGPT unlocks the potential of this popular AI tool. Learn to use <a href="https://zdcs.link/4AZN4?pageview_type=RSS&template=deals&module=content_body&element=offer&item=text-link&element_label=ChatGPT%20for%20content%20creation%2C%20client%20services%2C%20market%20research&object_type=article&object_uuid=05zF8VAayhAgnf9OqFkf6V7&short_url=4AZN4&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="nofollow sponsored"title="(opens in a new window)" target="_blank">ChatGPT for content creation, client services, market research</a>, and more to help you become proficient in leveraging ChatGPT for various professional applications, enhancing your workflow and boosting engagement in your business.</p><p>For educators, AI Resources for Teaching offers valuable insights into integrating AI into your teaching practices. This course covers designing engaging lessons, delivering impactful instruction, and assessing student progress using AI tools and cutting-edge techniques.</p><p>Enroll in these courses today and take the first step towards mastering AI.</p><p>For a limited time, this <a href="https://zdcs.link/4AZN4?pageview_type=RSS&template=deals&module=content_body&element=offer&item=text-link&element_label=ChatGPT%20and%20AI%20bundle&object_type=article&object_uuid=05zF8VAayhAgnf9OqFkf6V7&short_url=4AZN4&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="nofollow sponsored"title="(opens in a new window)" target="_blank">ChatGPT and AI bundle</a> is on sale for $29.99.</p><p><a href="https://www.stacksocial.com" target="_blank"><em>StackSocial</em></a><em> prices subject to change.</em></p><div class="flex flex-col mx-auto mt-8 mb-16 max-w-3xl font-sans md:flex-row">
-    <div class="mx-auto w-64 md:mx-0 md:w-1/3">
-                                                        <a class="block group" href="https://zdcs.link/4AZN4?pageview_type=RSS&template=deals&module=shop-card&element=offer&item=image&element_label=image&object_type=article&object_uuid=05zF8VAayhAgnf9OqFkf6V7&short_url=4AZN4&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="nofollow sponsored"target="_blank"title="(opens in a new window)" data-ga-action="product_image" data-ga-label="image" data-ga-item="image" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="1" data-ga-click>
-                                                            <img class="w-full" src="https://helios-i.mashable.com/imagery/articles/05zF8VAayhAgnf9OqFkf6V7/images-1.fill.size_256x128.v1721404647.jpg" alt="being productive with AI" width="256" height="128" loading="lazy">
-
-
-                    
-                    <div class="block relative mx-14 group-hover:visible tooltip">
-                    <span class="absolute invisible p-1 mt-2 text-xs text-center text-white group-hover:visible tooltiptext bg-gray-600/0 group-hover:bg-gray-600/100">
-                        Opens in a new window
-                    </span>
-                    </div>
-                                    </a>
-                                <div class="mt-2 leading-none text-left">
-                                            <span class="pr-5 mt-1 text-xs text-gray-600 subtitle-2">Credit: International Open Academy</span>
-                                    </div>
-                        </div>
-    <div class="pl-0 mt-3 w-full md:pl-8 md:mt-0 md:w-2/3">
-                                    <a href="https://zdcs.link/4AZN4?pageview_type=RSS&template=deals&module=shop-card&element=offer&item=title&element_label=The%202024%20ChatGPT%20%26%20AI%20Super%20Bundle&object_type=article&object_uuid=05zF8VAayhAgnf9OqFkf6V7&short_url=4AZN4&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="nofollow sponsored"target="_blank" class="block mb-5 text-xl font-bold leading-8 text-center md:text-2xl md:text-left hover:underline text-secondary-300" data-ga-action="offer-title" data-ga-item="title" data-ga-element="offer" data-ga-module="shop-card" data-ga-label="The 2024 ChatGPT &amp; AI Super Bundle" data-ga-position="1" data-ga-click title="(opens in a new window)">
-                    The 2024 ChatGPT &amp; AI Super Bundle
-                </a>
-                                        <div class="flex justify-between items-center py-3 md:py-0 md:space-x-2">
-                <div class="md:w-2/3" style="line-height: 0.75rem">
-                                            <span class="text-sm font-bold">$29.99</span>
-                                                    <span class="text-xs"> at The Mashable Shop</span>
-                                                <br>
-                                                                                            <span class="text-xs font-bold line-through">$341.99</span>
-                                                                            <span class="text-xs font-bold text-red-400"> Save $312.00</span>
-                                                            </div>
-            </div>
-                                                    <a class="font-bold leading-6 text-center hover:underline" href="https://zdcs.link/4AZN4?pageview_type=RSS&template=deals&module=shop-card&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=05zF8VAayhAgnf9OqFkf6V7&short_url=4AZN4&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="nofollow sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="Get Deal" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="1" data-ga-click title="(opens in a new window)">
-                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide md:w-auto md:text-lg btn btn-secondary">Get Deal</button>
-                </a>
-                        </div>
-</div>]]></content:encoded>
-    </item>
-    <item>
-      <title><![CDATA['Oddity's darkly funny ending came by happy accident]]></title>
-      <link>https://mashable.com/article/oddity-ending-explainer</link>
-      <guid isPermaLink="false">05JTkHgOwPAvgHlNZ8uzUgH</guid>
-      <pubDate>Mon, 22 Jul 2024 09:00:00 +0000</pubDate>
-      <description><![CDATA[Damian McCarthy shares the secrets of the final shot in "Oddity," involving a haunted bell and an irate ghost.]]></description>
-      <content:encoded><![CDATA[<img src="https://helios-i.mashable.com/imagery/articles/05JTkHgOwPAvgHlNZ8uzUgH/hero-image.jpg" alt="Gwilym Lee as Ted looks behind him with a frightened face in "Oddity." "><p>One of the best horror movies of 2024 has an ending that's sublimely sick and satisfying. And that very last shot came by chance.&nbsp;</p><p>When <a href="https://mashable.com/article/oddity-wooden-man-damian-mccarthy" target="_self">Mashable sat down with </a><a href="https://mashable.com/article/oddity-wooden-man-damian-mccarthy" target="_self"><em>Oddity </em></a><a href="https://mashable.com/article/oddity-wooden-man-damian-mccarthy" target="_self">writer/director Damian McCarthy</a> &mdash;&nbsp;and the Wooden Man at the film's center &mdash;&nbsp;we learned how the last brutal beat in the multifaceted horror story came to be.&nbsp;</p><p>Sure, <a href="https://mashable.com/article/oddity-review" target="_self"><em>Oddity</em></a> begins with a frightening premise of home invasion: a woman alone, renovating her remote country house, hears a knock at the door only to be confronted by a wild-eyed stranger who warns her that someone has snuck inside and means to hurt her. But from there, McCarthy pulled from folk horror, haunted house movies, and killer doll flicks to craft a menacing medley of a movie, which has an anthology feel even as it centers on one house and the doomed people who cross its threshold.&nbsp;</p><p>While the flashiest figure in <em>Oddity </em>is undoubtedly its Wooden Man, McCarthy also looped in a pretty but haunted bell to strike the perfect tone for the film's final moment.</p><p>Be warned, the following will dig into spoilers for <em>Oddity'</em>s third act.&nbsp;</p><h2><em>Oddity's </em>ending explained.&nbsp;</h2><div class="eloquent-imagery-image">
-    <div class="flex justify-center">
-                    <img class="border border-gray-100" src="https://helios-i.mashable.com/imagery/articles/05JTkHgOwPAvgHlNZ8uzUgH/images-1.fill.size_2000x1125.v1721249943.jpg" alt='Carolyn Bracken as Darcy touches the haunted bell of "Oddity."' width="2000" height="1125" loading="lazy" srcset="https://helios-i.mashable.com/imagery/articles/05JTkHgOwPAvgHlNZ8uzUgH/images-1.fill.size_800x450.v1721249943.jpg 800w, https://helios-i.mashable.com/imagery/articles/05JTkHgOwPAvgHlNZ8uzUgH/images-1.fill.size_1400x788.v1721249943.jpg 1400w, https://helios-i.mashable.com/imagery/articles/05JTkHgOwPAvgHlNZ8uzUgH/images-1.fill.size_2000x1125.v1721249943.jpg 2000w" sizes="(max-width: 1408px) 100vw, 1408px">
-
-
-            </div>
-            <div class="mt-2 subtitle-2 font-sans ">
-            <span class="normal-case text-gray-1000">Carolyn Bracken as Darcy with the haunted bell of "Oddity."</span>
-            <span class="text-gray-600 credit">Credit: Colm Hogan / IFC Films / Shudder</span>
-        </div>
-    </div>
-<p>The woman in the opening is Dani, the dark-haired twin to blonde (and blind) medium Darcy, who owns an oddity shop&nbsp;for which the film might well be named. When we first meet Darcy, she's mourning her sister, who was murdered a year before in the aforementioned country home. Reunited with her brother-in-law, Ted, Darcy tells the tale of a haunted desk bell she holds in her hands.&nbsp;</p><p>"There was a man &mdash; not a very pleasant one &mdash;&nbsp;who spent most of his life working as a bellboy at a hotel," she explains in the film's first act. "And one night, he was showing a drunk guest to his room, and the guest shoved him down the stairs, and he broke his neck and died in the fall. And a few days later, the receptionist rang the bell to summon the <em>new </em>bellboy. Only who did she see running towards her &mdash;&nbsp;not looking very happy?"&nbsp;</p><p>While Darcy is visibly enchanted by the story, Ted scoffs, daring her to ring the bell and "see what happens." She warns him, "It's not something to be played with, Ted, seeing as the last two people who rang it were found dead."&nbsp;</p><p>The bell will be set aside as they discuss the grim anniversary of Dani's death. But in the final scene, it comes back. After the true villain behind Dani's death has been revealed, and those who've gotten their hands bloody have paid for their sins, Ted returns to his home to find a package mailed from Darcy's shop. Clearly, before she surprised him and his girlfriend with the Wooden Man in the crate, she'd sent this small box off for a final part of her plan. And what lies inside? The haunted desk bell.&nbsp;</p><p>Home alone &mdash; as Dani was at the movie's start &mdash;&nbsp;Ted takes out the bell. And even now &mdash;&nbsp;even after his girlfriend's insistence on seeing Dani's ghost, his colleague's tale of the rampaging Wooden Man, and Darcy's cryptic threats &mdash;&nbsp;his mind is closed to the possibilities of the paranormal. So, Ted sits down and rings the bell, tempting fate.&nbsp;&nbsp;</p><p>He looks around his home and sees no dead bellboy. But just as it seems the movie might end &mdash; with Little Willie John's jaunty R&amp;B track "Now you Know" playing &mdash;&nbsp; McCarthy's <em>Oddity</em> cuts to a wide shot. In the foreground, Ted smiles, feeling smug about his seeming victory. But behind him &mdash; out of his line of view &mdash;&nbsp;is a dead bellboy, standing still but nonetheless menacing.&nbsp;</p><p>The film cuts to the credits, but even unseen, Ted's fate is assured.&nbsp;</p><h2>Damian McCarthy reveals how the ending of <em>Oddity </em>came to be.&nbsp;</h2><p>Speaking with Mashable, McCarthy said of <em>Oddity, </em>"One of the things that I wanted to do with the film was just that it would never take itself too seriously." While the movie involved murder, vengeance, and ghouls, there is a cheeky humor woven throughout. "The way people talk to each other, they're quite sarcastic or cutting," McCarthy said of his characters, adding, "I think that just makes the film more enjoyable."&nbsp;</p><p>From there, he revealed that this final moment &mdash;&nbsp;that final, darkly funny wide shot &mdash;&nbsp;was stumbled across in production. "We found that on the set," McCarthy explained, "Because originally, it was supposed to end with a close-up of this figure that's come for Ted." While the crew was setting up the next shot, Gwilym Lee, who plays Ted, and Shane Whisker, who plays the bellboy, were waiting patiently on set: the former seated at the dining table, the latter standing behind him with his hands folded at his belly.&nbsp;&nbsp;&nbsp;</p><p>"They were just taking a break between setups," McCarthy recalled, "And just looking at it &mdash; Shane couldn't move because the contact (lenses) he was wearing completely blinded him. So he said, 'I'll just be safer standing here' &mdash;&nbsp;the way he's standing at the end of the film. And Ted was just taking five sitting down. And I was at the other side of the room, and like, 'That's a really interesting shot. Let's just get that as well.' And that ended up becoming the better, much funnier, darker ending than the one we originally planned."&nbsp;</p><p><a href="https://zdcs.link/dM6Gx?pageview_type=RSS&amp%3Btemplate=article&amp%3Bmodule=content_body&amp%3Belement=offer&amp%3Bitem=text-link&amp%3Belement_label=Oddity%20opens%20in%20theaters%20July%2019.&amp%3Bobject_type=article&amp%3Bobject_uuid=04ltb1ETMNcOkYIz1mOguWc&amp%3Bshort_url=dM6Gx&amp%3Bu=https%3A%2F%2Fhelios-preview.mashable.com%2Farticle%2Foddity-wooden-man-damian-mccarthy&template=article&module=content_body&element=offer&item=text-link&element_label=Oddity%20opens%20in%20theaters%20July%2019.&object_type=article&object_uuid=05JTkHgOwPAvgHlNZ8uzUgH&short_url=dM6Gx&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank"><em><u>Oddity</u></em><u> opens in theaters July 19.</u></a></p>]]></content:encoded>
-    </item>
-    <item>
-      <title><![CDATA['House of the Dragon' Season 2, episode 7 trailer teases new dragon riders entering the fray]]></title>
-      <link>https://mashable.com/video/house-of-the-dragon-season-2-episode-7-trailer</link>
-      <guid isPermaLink="false">02hLeJBonihlry3RabK1LE7</guid>
-      <pubDate>Mon, 22 Jul 2024 08:15:44 +0000</pubDate>
-      <description><![CDATA[The trailer for "House of the Dragon" Season 2, episode 7 has dropped on YouTube.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[NYT's The Mini crossword answers for July 22]]></title>
-      <link>https://mashable.com/article/nyt-mini-crossword-clues-answers-july-22-2024</link>
-      <guid isPermaLink="false">03rasl9ZYGxQlZq1JPxU11l</guid>
-      <pubDate>Mon, 22 Jul 2024 08:10:01 +0000</pubDate>
-      <description><![CDATA[Answers to each clue for the July 22, 2024 edition of NYT's The Mini crossword puzzle.]]></description>
-      <content:encoded><![CDATA[<img src="https://helios-i.mashable.com/imagery/articles/03rasl9ZYGxQlZq1JPxU11l/hero-image.jpg" alt="Closeup view of crossword puzzle clues"><p><a href="https://www.nytimes.com/crosswords/game/mini" target="_blank">The Mini</a> is a bite-sized version of <em>The New York Times</em>' revered daily crossword. While the crossword is a lengthier experience that requires both knowledge and patience to complete, The Mini is an entirely different vibe.</p><p>With only a handful of clues to answer, the daily puzzle doubles as a speed-running test for many who play it.</p><p>So, when a tricky clue disrupts a player's flow, it can be frustrating! If you find yourself stumped playing The Mini &mdash; much like with <a href="https://mashable.com/article/wordle-today-answer-june-29-2024" target="_self">Wordle</a> and <a href="https://mashable.com/article/nyt-connections-hint-answer-today-june-29-2024" target="_self">Connections</a> &mdash; we have you covered.</p><div class="mx-auto mt-8 w-full max-w-3xl font-sans text-lg leading-normal md:text-xl md:leading-7">
-        <span class="font-bold text-primary-400">SEE ALSO:</span>
-        <a href="https://mashable.com/article/nyt-connections-hint-answer-today-july-22-2024" class="text-secondary-300">
-            NYT Connections today: See hints and answers for July 22
-            <svg class="inline-block ml-1 w-4 h-4 font-normal fill-current"><use href="https://mashable.com/images/icons/spritemap.svg#sprite-arrow-right-thin"></use></svg>
-        </a>
-    </div>
-<div class="mx-auto mt-8 w-full max-w-3xl font-sans text-lg leading-normal md:text-xl md:leading-7">
-        <span class="font-bold text-primary-400">SEE ALSO:</span>
-        <a href="https://mashable.com/article/wordle-today-answer-july-22-2024" class="text-secondary-300">
-            Wordle today: Here's the answer hints for July 22
-            <svg class="inline-block ml-1 w-4 h-4 font-normal fill-current"><use href="https://mashable.com/images/icons/spritemap.svg#sprite-arrow-right-thin"></use></svg>
-        </a>
-    </div>
-<p>Here are the clues and answers to NYT's The Mini for Sunday, July 21, 2024:</p><h2><strong>Across</strong></h2><h3>World capital with a museum dedicated entirely to pasta</h3><ul><li><p>The answer is <strong>Rome</strong>.</p></li></ul><h3>Console for the game Halo</h3><ul><li><p>The answer is <strong>Xbox.</strong></p></li></ul><h3>Number of degrees in each angle of an equilateral triangle</h3><ul><li><p>The answer is <strong>sixty. </strong></p></li></ul><h3>Inflatable bike part</h3><ul><li><p>The answer is <strong>tire.</strong></p></li></ul><h3>Spot in Congress</h3><ul><li><p>The answer is <strong>seat.</strong></p></li></ul><h2><strong>Down</strong></h2><h3>Fully adult &hellip; which sounds like a haunted house noise?</h3><ul><li><p>The answer is <strong>RXs</strong>.</p></li></ul><h3>"In memoriam" pieces</h3><ul><li><p>The answer is <strong>obits.</strong></p></li></ul><h3>Spunk</h3><ul><li><p>The answer is <strong>moxie. </strong></p></li></ul><h3>For an additional cost</h3><ul><li><p>The answer is <strong>extra.</strong></p></li></ul><h3>"You ain't seen nothing ___!"</h3><ul><li><p>The answer is <strong>yet.</strong></p></li></ul><div id="related-video" class="mx-auto mt-8 mb-12 w-full max-w-3xl font-sans md:mt-12 md:mb-16 text-primary-400">
-    <div class="flex flex-row justify-center text-lg text-center md:text-xl">
-        <hr class="mx-auto border border-gray-100">
-        <strong class="py-4 mx-4 w-full min-w-max text-2xl">Featured Video For You</strong>
-        <hr class="mx-auto border border-gray-100">
-    </div>
-    <div class="mx-auto mt-5 max-w-2xl">
-        <div id="video-container-Emlj1avZnL"></div>
-        
-        <div id="video-title-container-Emlj1avZnL" class="mx-auto mt-8 w-full max-w-3xl text-lg font-semibold leading-5 md:leading-6">The Wordle Strategy used by the New York Times' Head of Games</div>
-    </div>
-    <hr class="mx-auto w-full border border-gray-100" style="max-width:48rem !important;">
-</div>
-<p><em>Are you also playing NYT Strands? <a href="https://mashable.com/article/strands-nyt-hint-july-22-make-waves" target="_self">See hints and answers for today's Strands</a></em><em>.</em></p>]]></content:encoded>
-    </item>
-    <item>
-      <title><![CDATA[CrowdStrike outage 3 days later: Where does everything stand now?]]></title>
-      <link>https://mashable.com/article/crowdstrike-windows-outage-what-now-consequences</link>
-      <guid isPermaLink="false">01imPuKBKRhQai9p3LlFTIH</guid>
-      <pubDate>Mon, 22 Jul 2024 07:20:08 +0000</pubDate>
-      <description><![CDATA[The consequences of last Friday's CrowdStrike Windows outage are still being felt days later as global IT systems work to recover.]]></description>
-      <content:encoded><![CDATA[<img src="https://helios-i.mashable.com/imagery/articles/01imPuKBKRhQai9p3LlFTIH/hero-image.jpg" alt="The logo of CrowdStrike, a cybersecurity technology company."><p><strong><em>Editor's note:</em></strong><em>&nbsp;Check out&nbsp;<a href="https://mashable.com/live/microsoft-outage-crowdstrike-live-updates" target="_self">our oft-updated live blog</a></em><em>&nbsp;for all new developments about the&nbsp;<a href="https://mashable.com/article/crowdstrike-crash-microsoft-outage-bsod-fix" target="_self">Microsoft/CrowdStrike outage</a></em><em>.</em></p><hr><p>Global IT systems are still recovering after a CrowdStrike update caused a <a href="https://mashable.com/article/windows-bsod-crash-crowdstrike-update-worldwide-outage" target="_self">massive worldwide outage of Windows computers</a> last Friday. Countless businesses and organisations were impacted, including airlines, hospitals, banks, and telecommunications companies.</p><p><a href="https://mashable.com/article/biden-dropout-kamala-reactions" target="_self">Unrelated political events</a> have since taken centre stage, stealing the world's attention and taking some of the heat off CrowdStrike. However, that doesn't mean the security company's troubles are over. <a href="https://mashable.com/article/crowdstrike-microsoft-outage-how-long-will-it-last" target="_self">CrowdStrike CEO George Kurtz</a> warned that it <a href="https://www.aljazeera.com/news/2024/7/20/slow-recovery-after-crowdstrike-update-sparks-global-it-outage" target="_blank">may be weeks before we see a total recovery</a>, with organisations still dealing with the fallout days later.&nbsp;</p><blockquote class="twitter-tweet">
-    <a class="text-gray-600" href="https://twitter.com/ItsMattsLaw/status/1815183995388203075" target="_blank" rel="noopener" title="(opens in a new window)">
-        Tweet may have been deleted
-    </a>
-</blockquote>
-<p>Here's where we are three days on from CrowdStrike's global Windows outage.</p><h2>CrowdStrike outage impacted 8.5 million Windows computers</h2><p><a href="https://blogs.microsoft.com/blog/2024/07/20/helping-our-customers-through-the-crowdstrike-outage/" target="_blank">In a blog post on Saturday</a>, Microsoft revealed that an estimated 8.5 million Windows devices were impacted by the CrowdStrike update. While that is an undeniably enormous number, the company noted that it was still "less than one percent of all Windows machines."</p><p>"While the percentage was small, the broad economic and societal impacts reflect the use of CrowdStrike by enterprises that run many critical services," wrote Microsoft's Vice President of Enterprise and OS Security David Weston.</p><h2>Hundreds of U.S. flights are still being cancelled or delayed</h2><div class="eloquent-imagery-image">
-    <div class="flex justify-center">
-                    <img class="border border-gray-100" src="https://helios-i.mashable.com/imagery/articles/01imPuKBKRhQai9p3LlFTIH/images-1.fill.size_2000x1334.v1721631418.jpg" alt="CHICAGO, ILLINOIS - JULY 19: Flight information screens display a recovery window in the second terminal at Chicago O'Hare International Airport on July 19, 2024 in Chicago, Illinois." width="2000" height="1334" loading="lazy" srcset="https://helios-i.mashable.com/imagery/articles/01imPuKBKRhQai9p3LlFTIH/images-1.fill.size_800x534.v1721631418.jpg 800w, https://helios-i.mashable.com/imagery/articles/01imPuKBKRhQai9p3LlFTIH/images-1.fill.size_1400x934.v1721631418.jpg 1400w, https://helios-i.mashable.com/imagery/articles/01imPuKBKRhQai9p3LlFTIH/images-1.fill.size_2000x1334.v1721631418.jpg 2000w" sizes="(max-width: 1408px) 100vw, 1408px">
-
-
-            </div>
-            <div class="mt-2 subtitle-2 font-sans ">
-            <span class="normal-case text-gray-1000">Flight information screens display a recovery window in the second terminal at Chicago O'Hare International Airport on July 19, 2024 in Chicago, Illinois.</span>
-            <span class="text-gray-600 credit">Credit: Anna Moneymaker / Getty Images</span>
-        </div>
-    </div>
-<p>Though airlines are working to get back on track, they're definitely still seeing the effects of the CrowdStrike outage. Flight tracker FlightAware reported that <a href="https://www.flightaware.com/live/cancelled/today" target="_blank">1970 flights to, from, or within the U.S. were cancelled</a> on Sunday, while 9934 such flights were delayed.</p><p>For comparison, there were 932 cancellations and 12,579 delays on Thursday, the day before the outage.</p><h2>Bad actors have disguised malware as a CrowdStrike fix</h2><p>Amidst Friday's chaos, CrowdStrike CEO George Kurtz warned people to stay vigilant for <a href="https://mashable.com/article/crowdstrike-statement-outage-bad-actors-exploit" target="_self">bad actors attempting to exploit the situation</a>. Though <a href="https://mashable.com/article/crowdstrike-crash-microsoft-outage-bsod-fix" target="_self">CrowdStrike had published a workaround for the outage</a>, the danger remains that panicking white-collar workers may first encounter malware disguised as a fix.</p><p>It was a pertinent warning. <a href="https://www.bleepingcomputer.com/news/security/fake-crowdstrike-fixes-target-companies-with-malware-data-wipers/" target="_blank">Bleeping Computer</a> reports that bad actors posed as CrowdStrike or the BBVA Bank and instructed people to install malware in at least two nefarious campaigns. These bad actors falsely claimed the software was an update to fix the CrowdStrike issue, when instead it would hijack users' computers or wipe their data.</p><blockquote class="twitter-tweet">
-    <a class="text-gray-600" href="https://twitter.com/andretenreiro/status/1815270371261644981" target="_blank" rel="noopener" title="(opens in a new window)">
-        Tweet may have been deleted
-    </a>
-</blockquote>
-<h2>CrowdStrike's outage could cost billions of dollars</h2><p>With the dust slowly settling, many are wondering who will pay for the financial losses the global outage caused. Calculating the cost of the CrowdStrike outage is a tall order at this early stage, not in the least because systems are still recovering. However, <a href="https://edition.cnn.com/2024/07/21/business/crowdstrike-outage-cost/index.html" target="_blank">experts claim that it could</a> <a href="https://www.sbs.com.au/news/article/counting-the-cost-economists-weigh-in-on-the-major-it-outages-impact-on-australia/1dx3d2e5x" target="_blank">amount to billions of dollars</a>.</p><p>Whether CrowdStrike's clients can claim compensation from the company will depend on factors such as the exact terms of their contract and whether it was breached. Failing that, those impacted may attempt to argue claims such as negligence. Either way, New Zealand law firm Russell McVeagh considers class action lawsuits <a href="https://www.russellmcveagh.com/insights-news/the-largest-it-outage-in-history-crowdstrikes-routine-software-update/" target="_blank">"a real possibility"</a> considering the massive scale of the outage.</p><div class="eloquent-imagery-image">
-    <div class="flex justify-center">
-                    <img class="border border-gray-100" src="https://helios-i.mashable.com/imagery/articles/01imPuKBKRhQai9p3LlFTIH/images-2.fill.size_2000x1334.v1721631418.jpg" alt="An information screen informs travellers that train information is not running due to the global technical outage at Canal Street subway station on July 19, 2024 in New York City." width="2000" height="1334" loading="lazy" srcset="https://helios-i.mashable.com/imagery/articles/01imPuKBKRhQai9p3LlFTIH/images-2.fill.size_800x534.v1721631418.jpg 800w, https://helios-i.mashable.com/imagery/articles/01imPuKBKRhQai9p3LlFTIH/images-2.fill.size_1400x934.v1721631418.jpg 1400w, https://helios-i.mashable.com/imagery/articles/01imPuKBKRhQai9p3LlFTIH/images-2.fill.size_2000x1334.v1721631418.jpg 2000w" sizes="(max-width: 1408px) 100vw, 1408px">
-
-
-            </div>
-            <div class="mt-2 subtitle-2 font-sans ">
-            <span class="normal-case text-gray-1000">An information screen informs travellers that train information is not running due to the global technical outage at Canal Street subway station on July 19, 2024 in New York City.</span>
-            <span class="text-gray-600 credit">Credit: Adam Gray / Getty Images</span>
-        </div>
-    </div>
-<p><a href="https://www.reuters.com/technology/insurers-face-business-interruption-claims-after-global-tech-outage-2024-07-19/" target="_blank">Insurers are also bracing for a deluge of claims</a> concerning CrowdStrike's outage, though claimants' success will be dependent on the type of coverage they have. Considering that the outage wasn't caused by a malicious attack and didn't involve property damage, <a href="https://www.insurancenews.com.au/analysis/crowd-strike-outage-a-stark-reminder-of-cyber-threat" target="_blank">it's likely that many won't be covered</a>.</p><p><a href="https://www.nasdaq.com/articles/should-you-buy-crowdstrike-stock-its-dip-make-crwd-appealing-contrarians" target="_blank">CrowdStrike's stock has plummeted almost 22 percent</a> since Friday's outage, <a href="https://www.hindustantimes.com/business/crowdstrike-may-lose-16-billion-a-fifth-of-its-value-amid-global-it-outage-101721385865075.html" target="_blank">wiping around $16 billion</a> from the company's value. If it ends up having to pay out compensation, it could be looking at even further losses.</p><div id="related-video" class="mx-auto mt-8 mb-12 w-full max-w-3xl font-sans md:mt-12 md:mb-16 text-primary-400">
-    <div class="flex flex-row justify-center text-lg text-center md:text-xl">
-        <hr class="mx-auto border border-gray-100">
-        <strong class="py-4 mx-4 w-full min-w-max text-2xl">Featured Video For You</strong>
-        <hr class="mx-auto border border-gray-100">
-    </div>
-    <div class="mx-auto mt-5 max-w-2xl">
-        <div id="video-container-07IMVf5UKWi6YKCzYHQoH4c"></div>
-        
-        <div id="video-title-container-07IMVf5UKWi6YKCzYHQoH4c" class="mx-auto mt-8 w-full max-w-3xl text-lg font-semibold leading-5 md:leading-6">What is CrowdStrike and why users are getting Windows blue screens</div>
-    </div>
-    <hr class="mx-auto w-full border border-gray-100" style="max-width:48rem !important;">
-</div>]]></content:encoded>
     </item>
   </channel>
 </rss>
