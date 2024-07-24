@@ -6,7 +6,7 @@
 	<title type="text">Vox</title>
 	<subtitle type="text"></subtitle>
 
-	<updated>2024-07-24T01:32:36Z</updated>
+	<updated>2024-07-24T13:15:24Z</updated>
 
 	<link rel="alternate" type="text/html" href="https://www.vox.com" />
 	<id>https://www.vox.com/rss/index.xml</id>
@@ -14,6 +14,92 @@
 
 	<icon>https://platform.vox.com/wp-content/uploads/sites/2/2024/05/vox-favicon.jpeg?w=32</icon>
 		<entry>
+			
+			<author>
+				<name>Dylan Matthews</name>
+			</author>
+			
+			<title type="html"><![CDATA[The billionaire tax proposal that’s driving Silicon Valley to support Trump]]></title>
+			<link rel="alternate" type="text/html" href="https://www.vox.com/future-perfect/362399/billionaire-minimum-tax-andreessen-biden" />
+			<id>https://www.vox.com/?p=362399</id>
+			<updated>2024-07-23T19:12:04Z</updated>
+			<published>2024-07-24T13:00:00Z</published>
+			<category scheme="https://www.vox.com" term="Future Perfect" /><category scheme="https://www.vox.com" term="Policy" /><category scheme="https://www.vox.com" term="Politics" />
+							<summary type="html"><![CDATA[If you listen to venture capitalists Marc Andreessen and Ben Horowitz explain why they’re supporting Donald Trump, between the discussions of crypto and China and AI, you’ll detect a much more conventional reason for rich people to vote Republican: They’re worried about Democrats raising their taxes. Specifically, Andreessen and Horowitz railed against Joe Biden’s proposed [&#8230;]]]></summary>
+			
+							<content type="html">
+											<![CDATA[
+
+						
+<figure>
+
+<img alt="" data-caption="Andreessen Horowitz partner Marc Andreessen speaks during the Fortune Global Forum on November 3, 2015." data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.vox.com/wp-content/uploads/sites/2/2024/07/gettyimages-495485990.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption>Andreessen Horowitz partner Marc Andreessen speaks during the Fortune Global Forum on November 3, 2015.</figcaption>
+</figure>
+<p class="has-text-align-none">If you listen to venture capitalists Marc Andreessen and Ben Horowitz explain why they’re <a href="https://www.vox.com/politics/361087/trump-silicon-valley-fundraising-musk-andreessen-horowitz">supporting Donald Trump</a>, between the discussions of crypto and China and AI, you’ll detect a much more conventional reason for rich people to vote Republican: They’re <a href="https://youtu.be/n_sNclEgQZQ?si=77NENqin8HawDMEX&amp;t=3832">worried about Democrats raising their taxes</a>.</p>
+
+<p class="has-text-align-none">Specifically, Andreessen and Horowitz railed against Joe Biden’s proposed Billionaires Minimum Income Tax, which they claimed would destroy the startup ecosystem in Silicon Valley. They aren’t alone: <a href="https://www.zerohedge.com/markets/taxing-unrealized-gains-would-obliterate-us-economy">Finance</a> and <a href="https://x.com/mansourtarek_/status/1783936485936316778">tech</a> <a href="https://x.com/Austen/status/1783254353274638346">commentators</a> have been furious since <a href="https://www.theguardian.com/us-news/2022/mar/28/biden-announces-billionaire-minimum-income-tax">Biden first unveiled the plan in 2022</a>. </p>
+
+<p class="has-text-align-none">“Billionaires oppose tax increase” has a certain “dog bites man” quality to it as a story. But this particular iteration viscerally annoys me. For one thing, Andreessen and Horowitz are complaining about a tax that not only is dead on arrival in Congress but one that the Supreme Court, just a couple weeks ago, <a href="https://www.vox.com/scotus/355969/supreme-court-moore-us-wealth-tax-billionaires">implied would be unconstitutional</a>.&nbsp;</p>
+
+<p class="has-text-align-none">The plan is going nowhere. They’ve won. Stop gloating!</p>
+
+<p class="has-text-align-none">My other beef is that I think the minimum tax was mostly a good idea. It represented the <a href="https://equitablegrowth.org/taxing-wealth-by-taxing-investment-income-an-introduction-to-mark-to-market-taxation/">culmination of decades of scholarship</a> from economists and tax law experts attempting to address a serious problem with the way the US currently taxes income from selling stocks, real estate, and other assets.</p>
+
+<p class="has-text-align-none">Luckily, I think there are other options to solve the problems that the proposal was meant to solve, options that might not face quite the same resistance and would pass constitutional muster.</p>
+
+<h2 class="wp-block-heading">The problem with normal capital gains taxes</h2>
+
+<p class="has-text-align-none">When you buy something for one price, and later sell it for a higher price, that’s called a “capital gain.” In tax lingo, you “realize” a capital gain when you ultimately sell the asset. If the asset gains in value without you selling it (e.g., a stock you own rises in price), those gains are “unrealized.”</p>
+
+<p class="has-text-align-none">The capital gains tax in the US has a “realization requirement”: You have to actually sell the asset to be taxed. This creates an easy way for rich people to avoid taxes, by simply waiting to sell.</p>
+
+<p class="has-text-align-none">Imagine a 20-something who starts an internet company called FriendCo with his college roommates. Let’s call him Mark. (While I’m obviously basing Mark on somebody real, I’m going to simplify the real numbers a lot to make it easier to follow.)</p>
+
+<p class="has-text-align-none">At FriendCo’s founding in 2004, Mark and his four roommates each took 10 percent of the company, with the other half to be sold to investors. At the start, their shares were worth $0. But their website took off fast and soon had 1 billion users. The company went public in 2012, at a market value of $100 billion. Mark and his roommates’ shares were worth $10 billion each.</p>
+
+<p class="has-text-align-none">At this point, the company stands still and remains worth $100 billion forevermore (I told you I was going to simplify).</p>
+
+<p class="has-text-align-none">If Mark sells all his shares in 2012 after the company goes public, he’d pay taxes on the amount that the shares increased. They were worth $0 at first, and are now worth $10 billion. The top rate on capital gains in the US is 23.8 percent, so he’d pay $2.38 billion in taxes.</p>
+
+<p class="has-text-align-none">Suppose, instead, Mark decides to keep all his shares until he retires 40 years later, in 2052. Assuming the tax code doesn’t change, he’d still pay $2.38 billion. That, right there, is the problem.</p>
+
+<p class="has-text-align-none">Being able to pay a tax bill decades in the future, instead of right now, is a <em>huge</em> benefit. If I told my landlord that I would prefer to pay my rent 40 years from now, she would not find that very amusing. At the very least she would demand that I pay a <em>lot</em> of interest for paying so late. Other big purchases, like houses and cars, usually <em>do</em> involve paying a ton of interest in exchange for later payments. Capital gains taxes don’t.</p>
+
+<p class="has-text-align-none">The “realization requirement” of the capital gains tax thus functions like a massive, zero-interest government loan to people who’ve gained money on their investments. They’re able to save huge sums in taxes merely by waiting to sell their assets, and not paying any interest while they wait.</p>
+
+<p class="has-text-align-none">This is unfair; if you can afford to wait and not sell, you get a big tax break, but if you can’t afford that, you don’t. But the rule can also cause serious economic harm. By pushing people to hold onto investments longer than they normally would, it keeps them from moving their money to newer investments. That makes it harder for startups and other innovative firms to get the money they need to grow, leading to less innovation and slower economic growth.</p>
+
+<p class="has-text-align-none">The problem is compounded by other aspects of the US tax code. If Mark were to never sell his shares and instead pass them along to his children, they would not have to pay capital gains tax on the gain. In fact, if they were to later sell the shares, they would only pay tax on the difference between the value of the shares when they sell, and the value <em>when they inherited them</em>. (This is called “step-up in basis” or more evocatively as the “<a href="https://www.washingtonpost.com/archive/opinions/1987/06/25/the-angel-of-death-loophole/5a42296d-982b-4517-a13a-c89ba270f52d/">angel of death loophole</a>.”) So if the shares remain at $10 billion, the children can sell them and not pay a dime in capital gains tax. The rich are <a href="https://www.propublica.org/article/more-than-half-of-americas-100-richest-people-exploit-special-trusts-to-avoid-estate-taxes">talented at evading the estate tax</a>, too, so it’s very possible that Mark’s fortune will be completely untaxed.</p>
+
+<h2 class="wp-block-heading">How the Biden minimum tax tries to fix the problem</h2>
+
+<p class="has-text-align-none">The <a href="https://home.treasury.gov/system/files/131/General-Explanations-FY2023.pdf#page=40">Biden proposal</a> is meant to make the ultra-rich pay more. The strategy is simple: get rid of the realization rule.</p>
+
+<p class="has-text-align-none">For people with over $100 million in assets, the proposal would put in place a new tax regime. For easily sold assets with clear prices, like stocks and bonds and crypto, gains in value would be taxed during the year they happen, whether or not the assets are actually sold. Taxpayers would be able to get refunds if the assets later fell in value.</p>
+
+<p class="has-text-align-none">Andreessen, Horowitz, and other Silicon Valley types fret about what this would mean for startup founders whose companies haven’t gone public yet. These founders may be billionaires on paper but do not have any actual cash with which to pay taxes.</p>
+
+<p class="has-text-align-none">If these VCs had read <a href="https://home.treasury.gov/system/files/131/General-Explanations-FY2023.pdf#page=40">the fine print of the plan</a>, they’d see that someone in this situation <em>would not have to pay taxes yet</em>. If more than 80 percent of a person’s net worth is in “illiquid assets” like private company shares, they would not have to pay annual tax on those assets. If they sold the assets, they’d pay the tax plus a “deferral charge,” a kind of interest for paying the tax years after they gained the money. Should the company go public or be acquired, the situation would change — but also the newly minted billionaire would suddenly have liquid assets with which to pay their tax bill.</p>
+
+<p class="has-text-align-none">This is all somewhat academic, though, after the Supreme Court’s June 20th ruling in<em> </em><a href="https://www.supremecourt.gov/opinions/23pdf/22-800_jg6o.pdf"><em>Moore v. United States</em></a>. While the decision itself concerned a minor provision in the Trump tax cuts, one justice, Amy Coney Barrett, wrote a concurring opinion arguing that realization is required for a capital gains tax to be constitutional. As my colleague <a href="https://www.vox.com/scotus/355969/supreme-court-moore-us-wealth-tax-billionaires">Ian Milhiser notes</a>, Brett Kavanaugh’s majority opinion hinted pretty strongly that he’d side with Barrett on the matter, while deferring on a ruling for now.</p>
+
+<p class="has-text-align-none">If the Barrett view has at least five supporters on the Supreme Court, then the Billionaire Minimum Income Tax is dead in the water.</p>
+
+<h2 class="wp-block-heading">A more modest approach</h2>
+
+<p class="has-text-align-none">Of course, the minimum tax will likely never make it to the Supreme Court. Republicans control the House and aren’t voting to raise taxes on billionaires. The Biden administration failed to even get a much more modest capital tax hike passed in 2021–22, when they had a narrow Congressional majority. That plan would’ve <a href="https://www.bloomberg.com/news/articles/2021-05-04/biden-tax-rule-would-rip-billions-from-biggest-fortunes-at-death?embedded-checkout=true">gotten rid of the angel of death loophole</a>.</p>
+
+<p class="has-text-align-none">But <a href="https://www.wsj.com/articles/democrats-seek-backup-plan-on-taxing-capital-gains-11631893650">internal Democratic opposition</a> in Congress killed the idea. I do not know of a single honest defense of the angel of death loophole, but unfortunately there are many deeply dishonest defenses. Former Sen. Heidi Heitkamp (D-ND) spent much of 2021 claiming that <a href="https://doubledeathtax.org/heidi-heitkamp-launches-saving-americas-family-enterprises-safe/">realization at death would obliterate family farms in the Plains</a>, for which she offered literally zero evidence. Alas, the gambit worked.</p>
+
+<p class="has-text-align-none">In theory, though, a future Congress could still close the loophole. They could go further still and pass law professors Edward Fox and Zachary Liscow’s plan to <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4716197">tax the loans billionaires currently use</a> to generate tax-free cash. The most ambitious option would be to <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2979583">add deferral charges to the capital gains tax</a>, so the rich have to pay the government interest when they defer taxes by not selling their assets.&nbsp;</p>
+
+<p class="has-text-align-none">All of which is to say: There are a lot of ways to raise revenue from America’s billionaire class. And none of them pose any of the risks to innovation or startups, whatever you hear about from the likes of Andreessen.</p>
+						]]>
+									</content>
+			
+					</entry>
+			<entry>
 			
 			<author>
 				<name>Kenny Torrella</name>
@@ -94,7 +180,7 @@
 			<title type="html"><![CDATA[What’s Kamala Harris’s vision for America?]]></title>
 			<link rel="alternate" type="text/html" href="https://www.vox.com/2024-elections/362619/whats-kamala-harriss-vision-for-america" />
 			<id>https://www.vox.com/?p=362619</id>
-			<updated>2024-07-23T23:15:48Z</updated>
+			<updated>2024-07-24T13:15:24Z</updated>
 			<published>2024-07-24T10:30:00Z</published>
 			<category scheme="https://www.vox.com" term="2024 Elections" /><category scheme="https://www.vox.com" term="Kamala Harris" /><category scheme="https://www.vox.com" term="Policy" /><category scheme="https://www.vox.com" term="Politics" />
 							<summary type="html"><![CDATA[Five years ago, standing in front of a crowd of some 20,000 people in Oakland, California, Kamala Harris announced that she was running for president. “My whole life, I’ve only had one client: the people,” she said.&#160; Now that President Biden has dropped out of the race and Harris has become the presumptive Democratic nominee, [&#8230;]]]></summary>
@@ -110,19 +196,49 @@
 </figure>
 <p class="has-text-align-none">Five years ago, standing in front of a crowd of some 20,000 people in Oakland, California, Kamala Harris announced that she was running for president. “My whole life, I’ve only had one client: the people,” she said.&nbsp;</p>
 
-<p class="has-text-align-none">Now that President Biden has dropped out of the race and Harris has become the presumptive Democratic nominee, it’s fair to start asking what, exactly, she plans to do for her client if she wins in November. Despite Harris’s long career and remarkable rise in politics — she has served as the San Francisco district attorney, California’s attorney general, US senator, and, most recently, vice president — it’s still difficult to predict what her campaign, let alone presidency, will look like. </p>
+<p class="has-text-align-none">Now that President Biden has dropped out of the race and Harris has become the presumptive Democratic nominee, it’s fair to start asking what, exactly, she plans to do for her client if she wins in November. Despite Harris’s long career and remarkable rise in politics — she has served as the San Francisco district attorney, California’s attorney general, US senator, and, most recently, vice president — it’s still difficult to predict what her campaign, let alone presidency, will look like.&nbsp;</p>
 
 <p class="has-text-align-none">Although Harris has been vice president for three years and ran a presidential campaign in the 2020 cycle, she’s managed to avoid being neatly pigeonholed into any ideological box. Unlike candidates Bernie Sanders or Elizabeth Warren, who are easily remembered for their Medicare-for-all or wealth-tax proposals, Harris’s 2020 campaign fizzled out with few, if any, policy ideas or slogans being closely associated with it.</p>
 
 <p class="has-text-align-none">At any point in her two-decade political career, she could fit the description of a number of “types” of Democrat: centrist, moderate, progressive, liberal, establishment, or outsider. But besides her “<a href="https://www.slowboring.com/p/kamala-harris-wrote-a-good-book-about">smart-on-crime</a>” identity, none of those labels has ever effectively captured her way of thinking or how she would govern as president.</p>
 
-<p class="has-text-align-none">That might have been by design. “Policy has to be relevant,” <a href="https://www.nytimes.com/2019/07/27/us/politics/kamala-harris-2020-election.html">Harris told the New York Times in 2019</a>. “That’s my guiding principle: Is it relevant? Not, ‘Is it a beautiful sonnet?’” </p>
+<p class="has-text-align-none">That might have been by design. “Policy has to be relevant,” <a href="https://www.nytimes.com/2019/07/27/us/politics/kamala-harris-2020-election.html">Harris told the New York Times in 2019</a>. “That’s my guiding principle: Is it relevant? Not, ‘Is it a beautiful sonnet?’”&nbsp;</p>
 
-<p class="has-text-align-none">Her allies and those who have worked with her in the past describe her as a pragmatist — a fact that makes it hard for the public and press to decipher her vision for the nation.&nbsp;</p>
+<p class="has-text-align-none">Her allies and those who have worked with her in the past describe her as a pragmatist — a fact that makes it hard for the public and press to decipher her vision for the nation. </p>
 
-<p class="has-text-align-none">This may be the best way to understand Harris: She doesn’t necessarily <a href="https://web.archive.org/web/20151127005330/https://modernluxury.com/san-francisco/story/the-unstoppable-rise-of-kamala-harris">believe in a big ideological mission</a> to remake government or society, but instead considers government as a tool to concretely help improve the lives of as many people as possible, as quickly as possible, through practical means, like lowering the cost of medication, expanding access to broadband internet, and fixing roads and bridges. Aiming at smaller targets can effect change to bigger interconnected problems, like lowering inflation, expanding access to health care, and protecting reproductive rights.</p>
+<div class="wp-block-vox-media-highlight vox-media-highlight">
+<h2 class="wp-block-heading has-text-align-none"><strong>President Joe Biden endorsed Kamala Harris for president. Here’s what to know about her.</strong></h2>
 
-<p class="has-text-align-none">“She thinks about policy and law not from a place of the words on a page, but the ways in which those words impact the lives of everyday people,” said Democratic California Sen. Laphonza Butler, a longtime adviser and friend to Harris. “She tends to see gaps and see around corners and make sure that the policy can work for everyone.” </p>
+
+
+<p class="has-text-align-none">Vice President Kamala Harris could replace Biden at the top of the Democratic ticket in 2024.</p>
+
+
+
+<ul>
+<li><a href="https://www.vox.com/2024-elections/359620/kamala-harris-2020-president-campaign-2024-failure-lesson">What happened last time Harris ran for president</a></li>
+
+
+
+<li><a href="https://www.vox.com/politics/362043/kamala-harris-vice-running-mate-democratic-presidential-ticket">Who could be Harrris’s running mate?</a></li>
+
+
+
+<li><a href="https://www.vox.com/2024-elections/361750/biden-drop-out-harris-endorse-polls-against-trump-democrats-dnc">Does Harris give Democrats a better chance in 2024?</a></li>
+
+
+
+<li><a href="https://www.vox.com/kamala-harris/359072/kamala-harris-coconut-tree-context-unburden-meme-khive">Why is everyone talking about Harris and coconut trees?</a></li>
+
+
+
+<li><a href="https://www.vox.com/politics/360327/vice-president-kamala-harris-joe-biden-nominee">Harris’s strengths and vulnerabilities as a presidential candidate</a></li>
+</ul>
+</div>
+
+<p class="has-text-align-none">This may be the best way to understand Harris: She doesn’t necessarily <a href="https://web.archive.org/web/20151127005330/https://modernluxury.com/san-francisco/story/the-unstoppable-rise-of-kamala-harris">believe in a big ideological mission</a> to remake government or society, but instead considers government as a tool to concretely help improve the lives of as many people as possible, as quickly as possible, through practical means, like lowering the cost of medication, expanding access to broadband internet, and fixing roads and bridges. Aiming at smaller targets can effect change to bigger&nbsp;interconnected problems, like lowering inflation, expanding access to health care, and protecting reproductive rights.</p>
+
+<p class="has-text-align-none">“She thinks about policy and law not from a place of the words on a page, but the ways in which those words impact the lives of everyday people,” said Democratic California Sen. Laphonza Butler, a longtime adviser and friend to Harris. “She tends to see gaps and see around corners and make sure that the policy can work for everyone.”&nbsp;</p>
 
 <p class="has-text-align-none">A 2015 profile of her in San Francisco Magazine underscored that incrementalist approach. “I don’t admire grand gestures,” Harris <a href="https://web.archive.org/web/20151127005330/https://modernluxury.com/san-francisco/story/the-unstoppable-rise-of-kamala-harris">was quoted as saying</a>. “I admire goal achievement.”</p>
 
@@ -136,13 +252,13 @@
 
 <p class="has-text-align-none">In the last election cycle, Harris’s career as a prosecutor seemed to guide much of her campaign: Her <a href="https://www.thenation.com/article/archive/kamala-harris-prosecutor-for-the-people/">slogan</a> — “Kamala Harris, for the people”<em> </em>— was how <a href="https://www.politico.com/story/2019/01/26/kamala-harris-2020-oakland-1128563">she introduced herself in court</a>; her ads focused on her <a href="https://x.com/KamalaHarris/status/1197243216132804608?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1197243216132804608%7Ctwgr%5E341a78b4244eb8e416847db91740560bc1295366%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.rollingstone.com%2Fpolitics%2Fpolitics-news%2Fkamala-harris-trump-attack-ad-viral-1235064809%2F">record prosecuting sexual predators</a>, banks, and big corporations; and her <a href="https://www.nytimes.com/2019/06/27/us/politics/kamala-harris-prosecute-trump.html">promise to Democratic voters</a> was that she’d be the best candidate to “prosecute the case” against Donald Trump in 2020.&nbsp;</p>
 
-<p class="has-text-align-none">But as she campaigned, Harris’s messaging on policy was often muddied. She supported big ideas like Medicare-for-all, on the one hand, but emphasized that she’s <a href="https://www.nytimes.com/2019/07/27/us/politics/kamala-harris-2020-election.html">“not trying to restructure society”</a> on the other. </p>
+<p class="has-text-align-none">But as she campaigned, Harris’s messaging on policy was often muddied. She supported big ideas like Medicare-for-all, on the one hand, but emphasized that she’s <a href="https://www.nytimes.com/2019/07/27/us/politics/kamala-harris-2020-election.html">“not trying to restructure society”</a> on the other.&nbsp;</p>
 
-<p class="has-text-align-none">Some of her policy positions were also never clear, in part because she flip-flopped on several occasions. There were multiple times, for example, when she seemed to support abolishing private health insurance while campaigning on Medicare-for-all, but she <a href="https://www.nbcnews.com/politics/2020-election/kamala-harris-walks-back-her-hand-moment-health-insurance-democratic-n1024756">walked back on that position when pressed</a> on whether her plan would leave room for private insurers. </p>
+<p class="has-text-align-none">Some of her policy positions were also never clear, in part because she flip-flopped on several occasions. There were multiple times, for example, when she seemed to support abolishing private health insurance while campaigning on Medicare-for-all, but she <a href="https://www.nbcnews.com/politics/2020-election/kamala-harris-walks-back-her-hand-moment-health-insurance-democratic-n1024756">walked back on that position when pressed</a> on whether her plan would leave room for private insurers.&nbsp;</p>
 
 <p class="has-text-align-none">In one high-profile moment during the campaign, she went after Biden’s record on desegregation during a debate, skewering him for opposing court-ordered school busing programs in the 1970s. But in the days after her attack on Biden, Harris gave <a href="https://www.washingtonpost.com/politics/harriss-views-on-busing-come-under-question-after-her-debate-criticism-of-bidens-past-position/2019/07/04/b197c6cc-9e71-11e9-b27f-ed2942f73d70_story.html#">only vague answers</a> about whether she supported federally mandated busing, leaving many to <a href="https://www.nytimes.com/2019/07/31/us/politics/kamala-harris-biden-busing.html">wonder whether there was actually any daylight</a> between her position and Biden’s.</p>
 
-<p class="has-text-align-none">Aides who have worked with her in the past chalk some of this up to Harris’s “literalism” — what they say is a focus on the lived experience of the people who elected her and how policies and stances may need to change with the times or as reality sets in. </p>
+<p class="has-text-align-none">Aides who have worked with her in the past chalk some of this up to Harris’s “literalism” — what they say is a focus on the lived experience of the people who elected her and how policies and stances may need to change with the times or as reality sets in.&nbsp;</p>
 
 <p class="has-text-align-none">“She’s someone who thinks about the user experience of government, how it works, how it operates, how people are experiencing it, and she wants to make it better in literal ways, as opposed to theory,” said Daniel Suvor, who served as Harris’s chief of policy when she was California attorney general.</p>
 
@@ -150,7 +266,7 @@
 
 <h2 class="wp-block-heading">What does Harris’s vice presidency tell us about her priorities?</h2>
 
-<p class="has-text-align-none">If Harris struggled to define herself during the 2020 primaries, accepting the offer to serve as vice president only made that struggle <a href="https://thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible/">harder</a>. Early on, there were signs that Biden might want to empower his number two and make her a governing partner, as he said he would during the campaign. His pre-election talk about being a “bridge” to a new generation of leaders also cemented the idea that his vice president might be primed to be his successor. </p>
+<p class="has-text-align-none">If Harris struggled to define herself during the 2020 primaries, accepting the offer to serve as vice president only made that struggle <a href="https://thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible/">harder</a>. Early on, there were signs that Biden might want to empower his number two and make her a governing partner, as he said he would&nbsp;during the campaign. His pre-election talk about being a “bridge” to a new generation of leaders also cemented the idea that his vice president might be primed to be his successor.&nbsp;</p>
 
 <p class="has-text-align-none">But it quickly looked like Harris would be sidelined — and that’s what the public and press eventually assumed occurred. Questions swirled around what her portfolio would include. Harris ended up doing a little bit of everything, contributing to the sense of ambiguity and that her <a href="https://www.cnn.com/2021/11/14/politics/kamala-harris-frustrating-start-vice-president/index.html">tenure suffered from a lack of focus</a>. She asked for one specific priority (voting rights) and received another more nebulous task (addressing <a href="https://www.vox.com/politics/361635/kamala-harris-border-czar-immigration-mexico-guatemala-rnc">root causes</a> of migration).</p>
 
@@ -158,13 +274,13 @@
 
 <p class="has-text-align-none">That’s when she made a departure from the pragmatism that had previously defined her, despite the grim odds of the legislation passing in a tied Senate, let alone breaking a filibuster with 60 votes. She saw voter access as an issue that could unite various factions of the Democratic Party, and on which she could carry on the party’s legacy of fighting for civil rights — meaningful given her own historic place as the first Black woman vice president.</p>
 
-<p class="has-text-align-none">She was warned about the low chances of this kind of legislation passing, but still, she <a href="https://www.politico.com/news/2022/01/15/harris-voting-rights-push-527186">tried</a>, meeting with various activist groups and advocates to build popular support. Her work on Capitol Hill was more limited as the president himself tried to lobby senators. Despite an emotional <a href="https://www.nytimes.com/live/2022/01/11/us/biden-harris-voting-rights">last-minute push</a>, the chance of abolishing the filibuster was essentially zero, killing the effort.</p>
+<p class="has-text-align-none">She was warned about the low chances of this kind of legislation passing, but still, she <a href="https://www.politico.com/news/2022/01/15/harris-voting-rights-push-527186">tried</a>, meeting with various activist groups and advocates to build popular support. Her work on Capitol Hill&nbsp;was more limited as the president himself tried to lobby senators. Despite an emotional <a href="https://www.nytimes.com/live/2022/01/11/us/biden-harris-voting-rights">last-minute push</a>, the chance of abolishing the filibuster was essentially zero, killing the effort.</p>
 
-<p class="has-text-align-none">Her second priority, pegged to immigration, came as an assignment she did not ask for: leading diplomatic efforts and engagement with the countries of Mexico and the Northern Triangle to address the root causes of migration. It was essentially the same assignment Biden had received from Barack Obama eight years before, but it quickly spun into a greater political mess, one that will continue to be a vulnerability for Harris in the general election. </p>
+<p class="has-text-align-none">Her second priority, pegged to immigration, came as an assignment she did not ask for: leading diplomatic efforts and engagement with the countries of Mexico and the Northern Triangle to address the root causes of migration. It was essentially the same assignment Biden had received from Barack Obama eight years before, but it quickly spun into a greater political mess,&nbsp;one that will continue to be a vulnerability for Harris in the general election.&nbsp;</p>
 
 <p class="has-text-align-none">The task was diplomatic, neither focused on border security nor the immediate response to the influx of migrants and people seeking asylum. But that <a href="https://www.vox.com/politics/361635/kamala-harris-border-czar-immigration-mexico-guatemala-rnc">distinction</a> was muddled by the press, Republicans and the right, and <a href="https://www.vox.com/policy-and-politics/2021/4/1/22359917/biden-border-mixed-messaging-crisis">even</a> the White House.</p>
 
-<p class="has-text-align-none">Things changed for Harris when the <em>Dobbs </em>decision overturned <em>Roe v. Wade </em>and eliminated the constitutional right to abortion. The vice president quickly seized on the issue, talking naturally and practically about the decision’s real-world implications — in large part because it dealt with two constituencies she has always prioritized: mothers and children, a former Harris adviser said. </p>
+<p class="has-text-align-none">Things changed for Harris when the <em>Dobbs </em>decision overturned <em>Roe v. Wade </em>and eliminated the constitutional right to abortion. The vice president&nbsp;quickly seized on the issue, talking naturally and practically about the decision’s real-world implications —&nbsp;in large part because it dealt with two constituencies she has always prioritized: mothers and children, a former Harris adviser said.&nbsp;</p>
 
 <p class="has-text-align-none">She traveled to battleground and Republican-run states, explained the ties between abortion rights and other reproductive and individual rights, and became the administration’s point person on the issue. Harris’s thinking and strategizing on how to talk about reproductive rights in the aftermath of the <em>Dobbs</em> decision also fit the larger theme of how she thinks about policies and initiatives: considering who is affected, and how long it will take to achieve justice. And it will be a centerpiece of the campaign she runs now.</p>
 
@@ -176,7 +292,7 @@
 
 <p class="has-text-align-none">To support that swath of Americans, improving the care economy — those services that focus on children and the elderly — could be one of the major policy areas she may come to prioritize.</p>
 
-<p class="has-text-align-none">She would zero in on a straightforward policy agenda, said Carmel Martin, who served as the vice president’s domestic policy adviser from 2022 to 2023: a focus on “economic progress while bringing down inflation, expanding access to services that people need — health care being at the front of the line — and protecting reproductive rights.”</p>
+<p class="has-text-align-none">She would zero in on a straightforward policy agenda, said Carmel Martin, who served as the vice president’s domestic policy adviser from 2022 to 2023:&nbsp;a focus on “economic progress while bringing down inflation, expanding access to services that people need — health care being at the front of the line — and protecting reproductive rights.”</p>
 
 <p class="has-text-align-none">Harris has already shown signs of this focus, saying in a campaign address on Monday that she believes “in a future where no child has to grow up in poverty; where every person can buy a home, start a family, and build wealth; and where every person has access to paid family leave and affordable child care.” All of these stances are essentially what Biden has pitched before.</p>
 
@@ -186,11 +302,11 @@
 
 <h2 class="wp-block-heading">Will Harris help or hurt the Democrats’ chances in November?</h2>
 
-<p class="has-text-align-none">Usually, by the time a presidential candidate makes it to the general election after a grueling primary campaign, their policy priorities and ideology are relatively clear. Barack Obama, for example, offered a vision for a post-George W. Bush America — promising to end the US “forever” wars, address economic inequality, and unite the country around the common desire for hope and change. By contrast, Donald Trump offered a distinctly dark vision for the country, building a backlash coalition by injecting more racism and xenophobia into mainstream American politics. </p>
+<p class="has-text-align-none">Usually, by the time a presidential candidate makes it to the general election after a grueling primary campaign, their policy priorities and ideology are relatively clear. Barack Obama, for example, offered a vision for a post-George W. Bush America —&nbsp;promising to end the US “forever” wars, address economic inequality, and unite the country around the common desire for hope and change. By contrast, Donald Trump offered a distinctly dark vision for the country, building a backlash coalition by injecting more racism and xenophobia into mainstream American politics.&nbsp;</p>
 
 <p class="has-text-align-none">In 2020, Biden was largely viewed as a centrist who campaigned on defending democracy and a return to normalcy after the rise of Trumpism and the devastating effects of a pandemic, specifically touting his vested interest in pursuing bipartisanship.</p>
 
-<p class="has-text-align-none">Harris, however, is starting a campaign essentially from scratch, without having gone through a primary process. As a result, voters haven’t been properly introduced to her as a candidate for the presidency.  </p>
+<p class="has-text-align-none">Harris, however, is starting a campaign essentially from scratch, without having gone through a primary process. As a result, voters haven’t been properly introduced to her as a candidate for the presidency.&nbsp;&nbsp;</p>
 
 <p class="has-text-align-none">Her lack of a clearly defined ideological position up to this point in her career might now prove an asset: She has a unique opportunity to reintroduce herself to the country and offer a new vision for the future.</p>
 
@@ -308,7 +424,7 @@
 			<title type="html"><![CDATA[Nancy Pelosi is still in charge]]></title>
 			<link rel="alternate" type="text/html" href="https://www.vox.com/politics/362620/nancy-pelosi-biden" />
 			<id>https://www.vox.com/?p=362620</id>
-			<updated>2024-07-23T22:44:19Z</updated>
+			<updated>2024-07-24T13:13:39Z</updated>
 			<published>2024-07-23T22:45:00Z</published>
 			<category scheme="https://www.vox.com" term="Joe Biden" /><category scheme="https://www.vox.com" term="Politics" />
 							<summary type="html"><![CDATA[According to multiple reports, former House Speaker Nancy Pelosi — long known for her steely legislative prowess and confrontation of Republicans — was integral to the push to get President Joe Biden to reconsider his 2024 reelection bid.&#160; “Nancy made clear that they could do this the easy way or the hard way,” a Democrat [&#8230;]]]></summary>
@@ -328,7 +444,37 @@
 
 <p class="has-text-align-none">The hard way could have included Pelosi publicizing devastating internal polling that showed Biden losing states he easily won in 2020, according to the publication. And it could have led to Pelosi and other Democratic leaders stating plainly that it was time for Biden to go. Current House Minority Leader Hakeem Jeffries and Senate Majority Leader Chuck Schumer also reportedly had frank conversations with the president about dropping out, though Pelosi’s stance was <a href="https://www.nbcnews.com/politics/2024-election/nancy-pelosi-helped-pressure-joe-biden-end-2024-campaign-rcna162943">viewed as one of the most</a> impactful given her stature in the party.</p>
 
-<p class="has-text-align-none">Pelosi’s ability to influence the president was unsurprising due to the unique position of power she holds among Democrats, one she has earned after serving as House speaker for two hugely important terms, and as a lawmaker for more than three decades. In her time as speaker, she was known for overseeing the passage of critical policies like the Affordable Care Act, Dodd-Frank Wall Street Reform, and the American Rescue Plan, and for shepherding a fractious conference into uniting behind them. Over the years, she’s also built deep relationships across the party, and with different presidents — including Biden — while helming the House.&nbsp;</p>
+<p class="has-text-align-none">Pelosi’s ability to influence the president was unsurprising due to the unique position of power she holds among Democrats, one she has earned after serving as House speaker for two hugely important terms, and as a lawmaker for more than three decades. In her time as speaker, she was known for overseeing the passage of critical policies like the Affordable Care Act, Dodd-Frank Wall Street Reform, and the American Rescue Plan, and for shepherding a fractious conference into uniting behind them. Over the years, she’s also built deep relationships across the party, and with different presidents — including Biden — while helming the House. </p>
+
+<div class="wp-block-vox-media-highlight vox-media-highlight">
+<h2 class="wp-block-heading"><strong>Joe Biden dropped out of the 2024 race. Catch up on this story.</strong></h2>
+
+
+
+<p class="has-text-align-none">President Joe Biden surrendered to pressure from top Democrats and campaign donors who urged him to step aside amid concerns over his age and low polling numbers against Donald Trump.</p>
+
+
+
+<ul>
+<li><a href="https://www.vox.com/2024-elections/358559/biden-harris-whitmer-newsom-shapiro-buttigieg-alternative-nomination-candidate-2024">Do other Democrats actually poll better against Trump than Biden?</a></li>
+
+
+
+<li><a href="https://www.vox.com/joe-biden/361991/361991biden-campaign-funds-after-drops-out">What happens to Biden’s campaign cash?</a></li>
+
+
+
+<li><a href="https://www.vox.com/politics/357955/biden-age-democrats-nominee-kamala-harris">How did Democrats get here?</a></li>
+
+
+
+<li><a href="https://www.vox.com/politics/358084/biden-drop-out-lbj-harry-truman">What can we learn from incumbents who stepped aside</a></li>
+
+
+
+<li><a href="https://www.vox.com/politics/362062/biden-drop-out-republicans-accuse-democrats-coup">Why Republicans are accusing Democrats of a &#8220;coup&#8221;</a></li>
+</ul>
+</div>
 
 <p class="has-text-align-none">Pelosi’s successes (and wide-ranging ties) have all fed into her clout. And they point to how laser-focused she is on results, even at the expense of personal or political backlash. She’s known for sticking by her convictions, whether that involves confrontations with former President Donald Trump or using her political power to persuade other members to support her policies.&nbsp;</p>
 
@@ -350,7 +496,7 @@
 
 <p class="has-text-align-none">Beyond her successes in advancing policy and electoral wins, Pelosi is also known for how vocal she was as an antagonist to Trump. Her dedication to that role has fueled perceptions of her strength as a leader and added to the sense that she’s only prioritizing what it takes to prevent his return to power.&nbsp;</p>
 
-<p class="has-text-align-none">“She’s the single most consequential legislator of our time. So, you know, people trust her guidance, they trust her judgment. And she’s gotten more done than anybody else,” Drew Hammill, Pelosi’s former deputy chief of staff, told Vox. </p>
+<p class="has-text-align-none">“She’s the single most consequential legislator of our time. So, you know, people trust her guidance, they trust her judgment. And she’s gotten more done than anybody else,” Drew Hammill, Pelosi’s former deputy chief of staff, told Vox.&nbsp;</p>
 						]]>
 									</content>
 			
@@ -364,7 +510,7 @@
 			<title type="html"><![CDATA[The one thing Veep captures better than any other political show]]></title>
 			<link rel="alternate" type="text/html" href="https://www.vox.com/culture/362432/veep-kamala-harris-hbo-us-politics" />
 			<id>https://www.vox.com/?p=362432</id>
-			<updated>2024-07-24T01:32:36Z</updated>
+			<updated>2024-07-24T13:14:37Z</updated>
 			<published>2024-07-23T21:00:00Z</published>
 			<category scheme="https://www.vox.com" term="2024 Elections" /><category scheme="https://www.vox.com" term="Culture" /><category scheme="https://www.vox.com" term="Internet Culture" /><category scheme="https://www.vox.com" term="Kamala Harris" /><category scheme="https://www.vox.com" term="Politics" /><category scheme="https://www.vox.com" term="TV" />
 							<summary type="html"><![CDATA[The year is 2023. Julia Louis-Dreyfus, who played VP Selina Meyer on the 2010s HBO comedy series Veep, visits the White House to meet President Joe Biden and Vice President Kamala Harris. “Veep!” “Veep!” the two women greet one another. “By the way, she left as president,” Biden jokes to Harris, referring to a central [&#8230;]]]></summary>
@@ -393,6 +539,36 @@
 <p class="has-text-align-none">If there was anything <em>Veep</em> epitomized, it was the whiplash of the <a href="https://knowyourmeme.com/memes/its-so-over-were-so-back">It’s So Over/We’re So Back</a> vibes meter. Selina Meyer’s stock is always tanking or rallying throughout the series, often thanks to pure dumb luck or misfortune, and the opportunists around her scurry as the dial jerks back and forth.</p>
 
 <p class="has-text-align-none">This is taken to an extreme at the end of the first season, when Congressman Roger Furlong (Dan Bakkedahl), running for governor of Ohio, flip-flops on whether he wants Meyer to endorse him. He hems and haws even as she’s on stage giving a speech to introduce his gubernatorial bid. First it’s a no, because Meyer’s disapproval rating sits at a dismal 66 percent, and there are even whispers that POTUS might replace her on the ticket for his second term. Then she gives one good TV interview, and the endorsement is back on. But she cries a little too much during the Furlong speech — endorsement is off. In the next split second, she says something folksy that makes the crowd in Ohio cheer: endorsement is a go. The comically frustrating scene is not unlike the <a href="https://isitjoever.com/">back-and-forth</a> whispers we saw in the <a href="https://x.com/josh_wingrove/status/1813993123883753662">last few weeks</a>, with one report claiming Biden was <a href="https://www.axios.com/2024/07/18/president-biden-drop-out-election-democrats">close to dropping out</a> only for the next to claim he was, in fact, never <a href="https://x.com/josh_wingrove/status/1814032510591918182">dropping out</a>.</p>
+
+<div class="wp-block-vox-media-highlight vox-media-highlight">
+<h2 class="wp-block-heading has-text-align-none"><strong>President Joe Biden endorsed Kamala Harris for president. Here’s what to know about her.</strong></h2>
+
+
+
+<p class="has-text-align-none">Vice President Kamala Harris could replace Biden at the top of the Democratic ticket in 2024.</p>
+
+
+
+<ul>
+<li><a href="https://www.vox.com/2024-elections/359620/kamala-harris-2020-president-campaign-2024-failure-lesson">What happened last time Harris ran for president</a></li>
+
+
+
+<li><a href="https://www.vox.com/politics/362043/kamala-harris-vice-running-mate-democratic-presidential-ticket">Who could be Harrris’s running mate?</a></li>
+
+
+
+<li><a href="https://www.vox.com/2024-elections/361750/biden-drop-out-harris-endorse-polls-against-trump-democrats-dnc">Does Harris give Democrats a better chance in 2024?</a></li>
+
+
+
+<li><a href="https://www.vox.com/kamala-harris/359072/kamala-harris-coconut-tree-context-unburden-meme-khive">Why is everyone talking about Harris and coconut trees?</a></li>
+
+
+
+<li><a href="https://www.vox.com/politics/360327/vice-president-kamala-harris-joe-biden-nominee">Harris’s strengths and vulnerabilities as a presidential candidate</a></li>
+</ul>
+</div>
 
 <p class="has-text-align-none">A lot of <em>Veep</em>’s plotlines are, at their core, about the unpredictability of winds blowing hot and then cold. Who in the world could have foreseen that a former president would almost get assassinated, followed in quick succession by the current president getting Covid, then leaving the presidential race and completely shaking up the landscape of the 2024 election? When Meyer finds out she has a real shot at becoming president at the end of season two, she’s at her lowest, feeling ignored, underappreciated, tired. Every day she asks if the president called.&nbsp;The answer is always no. But now, halfway through his term, the president is probably facing impeachment, and things are not looking good for their party (<em>Veep</em> never makes clear which it is, though there are signs it’s the Dems). Meyer tells her staff that she’s out — she won’t be veep again. In six years, she’ll run at the top of the ticket.</p>
 
@@ -775,104 +951,6 @@
 <p class="has-text-align-none">Now, following a double-sprint win at the World Championships, Lyles is displaying more confidence than ever. During a recent appearance on <a href="https://www.youtube.com/watch?v=CZRVEX2OG10"><em>The Tonight Show</em></a>, Lyles took the opportunity to tell the country what he planned to achieve in Paris. For one thing, he wants to beat Bolt, who holds the top two times in the 100-meter dash at 9.63 and 9.69 seconds. But he also wants to take home four gold medals. “It’s not just good enough to be faster than that,” Lyles told Fallon. “You also have to have the medals to go with it.”</p>
 
 <p class="has-text-align-none">In addition to taking home the gold in the 100 and 200 meter, Lyles wants to win in the 4&#215;100&nbsp;and 4&#215;400 meter relays. It wouldn’t be the first time an American sprinter nabbed four gold medals at one Olympics. For instance, Jesse Owens, Alvin Kraenzlein, and Carl Lewis have each won four. Their wins included the long jump, however; Lyles would be making history for those four sprints. Beyond any potential medals, the energy surrounding him and Richardson feels like a new era for American track stars, one defined by attitude and swagger. If Lyles can impress the world with his personality, he’ll at least have achieved half of his goals.&nbsp;</p>
-						]]>
-									</content>
-			
-					</entry>
-			<entry>
-			
-			<author>
-				<name>Rebecca Jennings</name>
-			</author>
-			
-			<title type="html"><![CDATA[Could Kamala Harris’s “Brat summer” win her the presidency?]]></title>
-			<link rel="alternate" type="text/html" href="https://www.vox.com/culture/362300/kamala-harris-meme-brat-summer" />
-			<id>https://www.vox.com/?p=362300</id>
-			<updated>2024-07-23T19:47:11Z</updated>
-			<published>2024-07-23T10:30:00Z</published>
-			<category scheme="https://www.vox.com" term="2024 Elections" /><category scheme="https://www.vox.com" term="Culture" /><category scheme="https://www.vox.com" term="Kamala Harris" /><category scheme="https://www.vox.com" term="Politics" />
-							<summary type="html"><![CDATA[For a very long time in American politics, the primary question of presidential candidate likability was voters asking themselves, “Could I have a beer with them?” But over the course of the social media age, a new gut check has emerged to test a president’s ability to capture the internet’s attention: Does this person make [&#8230;]]]></summary>
-			
-							<content type="html">
-											<![CDATA[
-
-						
-<figure>
-
-<img alt="Kamala Harris in Brat green." data-caption="[To the tune of Charli xcx’s “Apple”]: I guess the coconut don’t fall far from the tree." data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.vox.com/wp-content/uploads/sites/2/2024/07/Kamala_Brat_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
-	<figcaption>[To the tune of Charli xcx’s “Apple”]: I guess the coconut don’t fall far from the tree.</figcaption>
-</figure>
-<p class="has-text-align-none">For a very long time in American politics, the primary question of presidential candidate likability was voters asking themselves, “Could I have a beer with them?” But over the course of the social media age, a new gut check has emerged to test a president’s ability to capture the internet’s attention: Does this person make a good meme?</p>
-
-<p class="has-text-align-none">After four years of a president for whom the answer was “not really” (with a minor caveat for <a href="https://www.vox.com/culture/23300286/biden-dark-brandon-meme-maga-why-confusing-explained">“Dark Brandon</a>,” which was funny for precisely one second), Democrats now have a candidate who can actually compete with Trump in the court of internet opinion. On social media timelines the world over, Vice President Kamala Harris is currently being made into <a href="https://x.com/JoePostingg/status/1815387172469387530">frenzied supercuts</a> where she dances, laughs, and delivers her now-iconic <a href="https://www.vox.com/kamala-harris/359072/kamala-harris-coconut-tree-context-unburden-meme-khive">metaphor about coconut trees</a> as she expounds on being “unburdened by what has been.” She’s being <a href="https://x.com/Saweetney/status/1813264361840148935">edited into pop songs</a> and remixed <a href="https://x.com/ryanlong03/status/1808510079382982870">queening out to “Brat,”</a> the <a href="https://www.vox.com/culture/354634/charli-xcx-brat-album-review">Charli xcx album that’s become this summer’s</a> biggest cultural breakout and digital shorthand for unapologetic, messy hedonism.&nbsp;</p>
-
-<p class="has-text-align-none">Memeability is an ineffable quality with undeniable electoral repercussions: Obama’s grabby slogans and punchy graphic design made him infinitely <a href="https://www.washingtonpost.com/news/morning-mix/wp/2017/01/11/obamas-yes-we-can-thank-michelle-for-that/">more memeable</a> than standard-issue Republicans John McCain and Mitt Romney, while Trump’s exaggerated facial expressions and off-the-cuff remarks can admittedly be very funny (who could forget <a href="https://www.youtube.com/watch?v=3NRUJbivhnE">his reaction</a> to Ruth Bader Ginsburg’s death as “Tiny Dancer” played?) when they’re not overtly cruel. In both cases, the candidates’ ubiquitous internet presence spoke to their wider ability to capture young people’s attention and energy, even when the memes themselves were barely legible to the average voter.&nbsp;</p>
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">why did I stay up till 3am making a von dutch brat coconut tree edit featuring kamala harris and why can’t I stop watching it on repeat <a href="https://t.co/hqcmerD1Pb">pic.twitter.com/hqcmerD1Pb</a></p>&mdash; ryan (@ryanlong03) <a href="https://twitter.com/ryanlong03/status/1808510079382982870?ref_src=twsrc%5Etfw">July 3, 2024</a></blockquote> 
-</div></figure>
-
-<p class="has-text-align-none">Now, Democrats have been handed the blessing of completely organic Kamala memes. The out-of-context clips and creative edits of the vice president, usually steeped in at least some level of irony, gained steam following <a href="https://www.vox.com/politics/357788/biden-trump-debate-winners-losers">Biden’s disastrous performance</a> at the June presidential debate, when swaths of voters were clamoring for a change in candidate and turned to the next most likely option.&nbsp;</p>
-
-<p class="has-text-align-none">Suddenly, mentions of the “KHive” were everywhere, referring to Harris’s supporters during her 2020 campaign, as were viral clips of Harris singing <a href="https://x.com/pIanetMEDIA/status/1589854533865607168?lang=en">“The Wheels on the Bus,”</a> theatrically sharing <a href="https://x.com/rayofvenuss/status/1814096303854403711">Thanksgiving turkey recipes</a> seconds before snapping to attention for an interview, and talking about her favorite subject, <a href="https://www.tiktok.com/@dailymail/video/7394381952989596959">Venn diagrams</a>. Harris is particularly prone to being memed: Many people on the internet have <a href="https://x.com/gayest_tone/status/1808249313455493491?s=46&amp;t=eeeaRs85C85Eh6UanNOWaQ">described her kooky persona</a> as “your Xanned out aunt,” thanks to her propensity to burst into a high-pitched cackle at any moment.&nbsp;</p>
-
-<p class="has-text-align-none">Only recently has Harris herself embraced the jokes, now that she’s officially running for president with Biden’s backing. Should you visit the campaign’s <a href="https://x.com/KamalaHQ">account</a> on X, you’ll notice a lime green banner with “kamala hq” written in the “Brat” font, an homage to the album cover. After Charli xcx <a href="https://x.com/charli_xcx/status/1815182384066707861">tweeted</a> “kamala IS brat,” Harris followed her on both X and Instagram.&nbsp;</p>
-
-<p class="has-text-align-none">Fellow Democratic politicians have followed suit, with Illinois Gov. <a href="https://x.com/JBPritzker/status/1815401261690208303">J.B. Pritzker asking</a>, “You think I just fell out of a coconut tree?” as his way of winkingly endorsing Harris (or perhaps gunning for a VP nomination), while Hawaii Sen. <a href="https://x.com/brianschatz/status/1815175570990276937">Brian Schatz posted</a> a photo of himself climbing a literal coconut tree.&nbsp;</p>
-
-<figure class="wp-block-pullquote"><blockquote><p>This, ultimately, is the power of memeability, or the talent of a candidate to transcend politics and become a legible cultural brand</p></blockquote></figure>
-
-<p class="has-text-align-none">Is this the beginning of a campaign that, for the first time since 2008, Democrats have actually found &#8230; fun? In 2016, the MAGA crowd delighted in <a href="https://www.vox.com/2016/9/21/12893656/pepe-frog-donald-trump">memes circulated on red-pill forums</a> that depicted Trump as a cartoonish strongman who was exactly as hateful and despotic as the left feared. Everything that made him invigorating to his fans — an unlikely nominee who captured a certain kind of irony-poisoned nihilistic impulse on the internet — now seems to be working in progressives’ favor.</p>
-
-<p class="has-text-align-none">Until recently, 2024 promised to be one of the most uninteresting elections in history. After a series of extremely unpredictable events (a <a href="https://www.vox.com/politics/357876/biden-trump-debate-cnn-won-step-down-atlanta">poor debate performance</a>, an <a href="https://www.vox.com/politics/360390/trump-shot-assassination-attempt-shooter-bullet-butler-pennsylvania-biden-secret-service-updates">assassination attempt</a>, a <a href="https://apnews.com/article/biden-covid-rehoboth-beach-harris-2024-ef4d643927247c59868607a80129c190">case of Covid</a>, and a <a href="https://www.vox.com/politics/361827/biden-drops-out-2024-kamala-convention">historic dropout)</a>, Harris has now filled a most unlikely role: a Democratic presidential nominee who’s entertaining to watch, even if you don’t agree with everything she stands for.&nbsp;</p>
-
-<p class="has-text-align-none">This, ultimately, is the power of memeability, or the talent of a candidate to transcend politics and become a legible cultural brand. It has played a crucial role in elections since before anyone used the term: Memeability is Bill Clinton playing the saxophone on <em>Arsenio Hall,</em> and it’s Howard Dean’s awkward scream that lost him the 2004 Democratic nomination.&nbsp;</p>
-
-<p class="has-text-align-none">Candidates have always attempted to stage this kind of virality — Hillary Clinton’s <a href="https://www.vice.com/en/article/vvbwmj/hillary-clinton-accidentally-became-a-vine-meme">“I’m just chilling in Cedar Rapids” Vine</a><em>, </em>for one<em> —</em> but the moments that truly take off lock into the absurdist, chaotic energy of the internet and are almost impossible to predict. Clinton never cracked that particular formula, whereas Harris has done it while barely even trying.&nbsp;</p>
-
-<div class="wp-block-vox-media-highlight vox-media-highlight">
-<h2 class="wp-block-heading has-text-align-left"><strong>President Joe Biden endorsed Kamala Harris for president. Here’s what to know about her.</strong></h2>
-
-
-
-<p class="has-text-align-left">Vice President Kamala Harris could replace Biden at the top of the Democratic ticket in 2024.</p>
-
-
-
-<ul>
-<li><a href="https://www.vox.com/2024-elections/359620/kamala-harris-2020-president-campaign-2024-failure-lesson">What happened last time Harris ran for president</a></li>
-
-
-
-<li><a href="https://www.vox.com/politics/362043/kamala-harris-vice-running-mate-democratic-presidential-ticket">Who could be Harris’s running mate?</a></li>
-
-
-
-<li><a href="https://www.vox.com/2024-elections/361750/biden-drop-out-harris-endorse-polls-against-trump-democrats-dnc">Does Harris give Democrats a better chance in 2024?</a></li>
-
-
-
-<li><a href="https://www.vox.com/kamala-harris/359072/kamala-harris-coconut-tree-context-unburden-meme-khive">Why is everyone talking about Harris and coconut trees?</a></li>
-
-
-
-<li><a href="https://www.vox.com/politics/360327/vice-president-kamala-harris-joe-biden-nominee">Harris’s strengths and vulnerabilities as a presidential candidate</a></li>
-</ul>
-</div>
-
-<p class="has-text-align-none">As Ryan Long, the 22-year-old senior at the University of Delaware who created one of the most <a href="https://x.com/ryanlong03/status/1808510079382982870">viral Kamala “Brat” video edits</a>, puts it, “She’s the perfect candidate for the TikTok generation. I’ve gone so deep into the Kamala Harris YouTube archives, and there are just so many moments of her laughing and dancing.” The clips, he adds, stand in stark contrast to the stagnant mood coloring the Biden camp over the past year. “Kamala just brings new energy and the possibility of change,” he tells me. “She does such a good job of embodying ‘Brat’ summer.”</p>
-
-<p class="has-text-align-none">It wasn’t long ago that Harris was dubbed “Copmala” by liberals and leftists <a href="https://www.vox.com/future-perfect/2019/1/23/18184192/kamala-harris-president-campaign-criminal-justice-record">dismayed by her “tough on crime” criminal justice record</a>. The vibe online has shifted significantly since then, and the left seems ready to <a href="https://x.com/thetolerantweft/status/1815142058555744734">embrace the absurdity</a> and <a href="https://x.com/chickenstrip007/status/1808154777634890089">make peace</a> with the candidate they’ve been handed. Though <a href="https://x.com/julesterpak/status/1815444787375599814">some online</a> have warned the Harris campaign against leaning into the jokes and memes too heavily or risk coming across as corny and try-hard, it’s just as easy to imagine large portions of voters excited about the prospect of a candidate who can — convincingly! — laugh along with them.&nbsp;</p>
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">I’m all in on President Kamala. We need a Gemini Rising woman President from California who is on pills+wine, is campy, and didn’t get married until she was middle aged because she was too busy being a 365 party girlboss. Who cares if she’s weird? At least she’s not a felon or 80</p>&mdash; superfun site (@chickenstrip007) <a href="https://twitter.com/chickenstrip007/status/1808154777634890089?ref_src=twsrc%5Etfw">July 2, 2024</a></blockquote>
-</div></figure>
-
-<p class="has-text-align-none">Perhaps progressives have finally learned from Trump, who understood that memes, even when they were theoretically unflattering, could help craft the persona that won him the presidency. There’s an infallibility that comes with being in on the joke, and now that the Harris campaign has joined in, the attacks from the right don’t stick as they might have with a different candidate.&nbsp;</p>
-
-<p class="has-text-align-none">It was the RNC who made the <a href="https://x.com/RNCResearch/status/1736468129528602811">four-minute video</a> splicing together every time Harris used the phrase “unburdened” back in December. Now, the most popular quote tweet of that <a href="https://x.com/nikicaga/status/1815128527886303620">post reads</a>, “The RNC staffer that posted this is getting executed as we speak,” referring to how the right’s criticisms of Harris have, so far, backfired. That Trump’s <a href="https://x.com/bennyjohnson/status/1814796045173272846">epithet for her is “Laughin’ Kamala”</a> feels particularly uninspired when compared to “Sleepy Joe” and “Crooked Hillary” — laughing is, after all, a famously fun and good activity. The Harris campaign <a href="https://x.com/BMeiselas/status/1815226127121826009">even gleefully reposted</a> a tweet advising Republicans to drop the “unburdened” jokes because “[t]hey’re going to spin that into marketing for her campaign.”&nbsp;</p>
-
-<p class="has-text-align-none">What this all amounts to is a viral marketing stunt that any presidential candidate would pay millions for, but one that no strategist or ad agency could create. It’s all entirely organic, forged from the fires of a truly bizarre and unpredictable time, and the feeling that a little chaos might be exactly what American politics needs. For once, it really does seem like we can become unburdened from what has been. And perhaps Kamala Harris will be laughing all the way to the Oval Office.&nbsp;</p>
 						]]>
 									</content>
 			
