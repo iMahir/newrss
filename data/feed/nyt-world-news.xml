@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.21896222671039234" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.19810385363720084" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 25 Jul 2024 16:36:44 +0000</lastBuildDate>
-    <pubDate>Thu, 25 Jul 2024 16:28:31 +0000</pubDate>
+    <lastBuildDate>Thu, 25 Jul 2024 16:46:49 +0000</lastBuildDate>
+    <pubDate>Thu, 25 Jul 2024 16:41:04 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -310,6 +310,21 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/06/12/multimedia/00ukraine-death-promo/00ukraine-death-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Laura Boushnak for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>The Summer Olympics: How to Watch. What to Watch.</title>
+      <link>https://www.nytimes.com/2024/07/25/world/olympics/the-summer-olympics-how-to-watch-what-to-watch.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/25/world/olympics/the-summer-olympics-how-to-watch-what-to-watch.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/25/world/olympics/the-summer-olympics-how-to-watch-what-to-watch.html" rel="standout"></atom:link>
+      <description>Gymnastics. Track. Swimming. Basketball. Break dancing.</description>
+      <dc:creator>Victor Mather</dc:creator>
+      <pubDate>Thu, 25 Jul 2024 16:41:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2024)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NBC Sports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/26/multimedia/26xp-olympics-guide-fmhk/26xp-olympics-guide-fmhk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chang W. Lee/The New York Times</media:credit>
+      <media:description>The Olympics come to Paris.</media:description>
     </item>
     <item>
       <title>AlphaProof, a New A.I. from Google DeepMind, Scores Big at the International Math Olympiad</title>
@@ -1136,24 +1151,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/21/multimedia/00pakistan-border-01-fmlp/00pakistan-border-01-fmlp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Saiyna Bashir for The New York Times</media:credit>
       <media:description>People gathered in Chaman, Pakistan, to protest new rules that have effectively closed the border with Afghanistan.</media:description>
-    </item>
-    <item>
-      <title>In Georgia’s Depressed Heartland, Pining for the Soviet Past</title>
-      <link>https://www.nytimes.com/2024/07/23/world/europe/georgia-heartland-soviet-union.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/23/world/europe/georgia-heartland-soviet-union.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/23/world/europe/georgia-heartland-soviet-union.html" rel="standout"></atom:link>
-      <description>While most Georgians support closer integration with Western Europe, many people in industrial areas that collapsed along with Communism in the 1990s express nostalgia for the old Soviet prosperity.</description>
-      <dc:creator>Ivan Nechepurenko</dc:creator>
-      <pubDate>Tue, 23 Jul 2024 18:19:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia (Georgian Republic)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/06/25/multimedia/00georgia-soviet-01-btgp/00georgia-soviet-01-btgp-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Natela Grigalashvili for The New York Times</media:credit>
-      <media:description>Davit Jakeli, right, who sells scrap metal from his home, and his neighbor looking out across Kazreti, Georgia, in May.</media:description>
     </item>
   </channel>
 </rss>
