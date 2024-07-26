@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>The Verge -  All Posts</title>
   <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
-  <updated>2024-07-26T11:54:25-04:00</updated>
+  <updated>2024-07-26T12:31:32-04:00</updated>
   <id>https://www.theverge.com/rss/full.xml</id>
   <link type="text/html" href="https://www.theverge.com/" rel="alternate"/>
+  <entry>
+    <published>2024-07-26T12:31:32-04:00</published>
+    <updated>2024-07-26T12:31:32-04:00</updated>
+    <title>Here’s how to stop X from using your posts to train its AI</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Vector collage of the X logo." src="https://cdn.vox-cdn.com/thumbor/tVzyqGI650oGqlcD9aieQu-SAd0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73484164/STK160_X_TWITTER_2__C.0.jpg" /&gt;
+        &lt;figcaption&gt;The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="hNclWF"&gt;X uses your data to train its Grok AI assistant, but if you’d like to opt out of that, you can do that right from your settings menu. It’s not available in the mobile apps, but &lt;a href="https://x.com/settings/grok_settings"&gt;it is on the web right here&lt;/a&gt;, or you can find it yourself if you click the three dots menu, then “Settings and privacy,” then “Privacy and safety,” and then “Grok.” &lt;/p&gt;
+&lt;p id="3g34DF"&gt;There, you can uncheck a box to opt out of allowing “your posts as well as your interactions, inputs, and results with Grok to be used for training and fine-tuning purposes” and sharing data about your interactions with xAI. The other option for opting out is to have a private account, which “prevents your posts from being used to train Grok’s underlying model or to generate responses to user queries.”&lt;/p&gt;
+...
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2024/7/26/24206904/x-grok-ai-train-turn-off"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/7/26/24206904/x-grok-ai-train-turn-off"/>
+    <id>https://www.theverge.com/2024/7/26/24206904/x-grok-ai-train-turn-off</id>
+    <author>
+      <name>Jay Peters</name>
+    </author>
+  </entry>
   <entry>
     <published>2024-07-26T11:54:25-04:00</published>
     <updated>2024-07-26T11:54:25-04:00</updated>
@@ -225,36 +250,6 @@
     <id>https://www.theverge.com/2024/7/26/24206720/steam-game-demos-update-library-store-pages</id>
     <author>
       <name>Jess Weatherbed</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-07-26T05:19:11-04:00</published>
-    <updated>2024-07-26T05:19:11-04:00</updated>
-    <title>Windows 11 will soon add your Android phone to File Explorer</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="A photo of Microsoft’s Surface Pro with an OLED display." src="https://cdn.vox-cdn.com/thumbor/jkGWaO7Z4H5DTGfKI6_DPCeV9Hg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73483353/DSCF7738.0.jpg" /&gt;
-        &lt;figcaption&gt;Photo by Chris Welch / The Verge&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="Bz2dOA"&gt;Microsoft has started testing a new way to access your Android phone from directly within Windows 11’s File Explorer. Windows Insiders are &lt;a href="https://blogs.windows.com/windows-insider/2024/07/25/ability-to-access-your-android-phone-in-file-explorer-begins-rolling-out-to-windows-insiders/"&gt;now able to test this new feature&lt;/a&gt;, which lets you wirelessly browse through folders and files on your Android phone.&lt;/p&gt;
-&lt;p id="S2akfg"&gt;The integration in File Explorer means your Android device appears just like a regular USB device on the left-hand side, with the ability to copy or move files between a PC and Android phone, and rename or delete them. It’s certainly a lot quicker than using the existing Phone Link app.&lt;/p&gt;
-  &lt;figure class="e-image"&gt;
-        
-      &lt;cite&gt;Image: Microsoft&lt;/cite&gt;
-      &lt;figcaption&gt;&lt;em&gt;Android phones will appear inside File Explorer.&lt;/em&gt;&lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;p id="6xmlxZ"&gt;You’ll need a device running Android version 11 or higher, be part of the Windows Insider program, and the...&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2024/7/26/24206712/microsoft-windows-11-file-explorer-android-phone-feature"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/7/26/24206712/microsoft-windows-11-file-explorer-android-phone-feature"/>
-    <id>https://www.theverge.com/2024/7/26/24206712/microsoft-windows-11-file-explorer-android-phone-feature</id>
-    <author>
-      <name>Tom Warren</name>
     </author>
   </entry>
 </feed>
