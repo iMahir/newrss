@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 29 Jul 2024 14:34:16 +0000</lastBuildDate>
-    <pubDate>Mon, 29 Jul 2024 14:31:31 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Jul 2024 14:45:12 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Jul 2024 14:44:55 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -57,6 +57,23 @@
       <media:description>Polling station workers in Petare, Venezuela, moved outside as they faced challenges in the transmission of votes during the election on Sunday.</media:description>
     </item>
     <item>
+      <title>African National Congress Expels Former President Jacob Zuma</title>
+      <link>https://www.nytimes.com/2024/07/29/world/africa/jacob-zuma-expelled-anc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/29/world/africa/jacob-zuma-expelled-anc.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/29/world/africa/jacob-zuma-expelled-anc.html" rel="standout"></atom:link>
+      <description>The African National Congress severed ties with its former leader over his decision to become the leading voice of an opposition party in the last election.</description>
+      <dc:creator>Lynsey Chutel</dc:creator>
+      <pubDate>Mon, 29 Jul 2024 12:22:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuma, Jacob G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">African National Congress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">uMkhonto weSizwe</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/17/multimedia/00safrica-zuma-1-jlpg/00safrica-zuma-1-jlpg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Michele Spatari/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Jacob Zuma, the former president of South Africa, campaigning ahead of the South African elections in May.</media:description>
+    </item>
+    <item>
       <title>Why Some Olympic Swimmers Think About Math in the Pool</title>
       <link>https://www.nytimes.com/2024/07/29/world/olympics/olympics-swimming-data-analytics.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/07/29/world/olympics/olympics-swimming-data-analytics.html</guid>
@@ -79,23 +96,6 @@
       <media:description>Kate Douglass of the United States often wears a device in training that measures her movement through the water.</media:description>
     </item>
     <item>
-      <title>African National Congress Expels Former President Jacob Zuma</title>
-      <link>https://www.nytimes.com/2024/07/29/world/africa/jacob-zuma-expelled-anc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/29/world/africa/jacob-zuma-expelled-anc.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/29/world/africa/jacob-zuma-expelled-anc.html" rel="standout"></atom:link>
-      <description>The African National Congress severed ties with its former leader over his decision to become the leading voice of an opposition party in the last election.</description>
-      <dc:creator>Lynsey Chutel</dc:creator>
-      <pubDate>Mon, 29 Jul 2024 12:22:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuma, Jacob G</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">African National Congress</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">uMkhonto weSizwe</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/17/multimedia/00safrica-zuma-1-jlpg/00safrica-zuma-1-jlpg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Michele Spatari/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Jacob Zuma, the former president of South Africa, campaigning ahead of the South African elections in May.</media:description>
-    </item>
-    <item>
       <title>Sinead O’Connor Died of Pulmonary Disease and Asthma, Death Report Says</title>
       <link>https://www.nytimes.com/2024/07/29/world/europe/sinead-oconnor-cause-of-death.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/07/29/world/europe/sinead-oconnor-cause-of-death.html</guid>
@@ -112,19 +112,30 @@
       <media:description>Sinead O’Connor in 2021. In January, a coroner said that Ms. O’Connor had died of “natural causes” but did not provide details. </media:description>
     </item>
     <item>
-      <title>Is the Olympic Flame Real?</title>
-      <link>https://www.nytimes.com/2024/07/29/world/olympics/flame-cauldron-balloon.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/29/world/olympics/flame-cauldron-balloon.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/29/world/olympics/flame-cauldron-balloon.html" rel="standout"></atom:link>
-      <description>Two torches may have lit it to open the Paris Games, but that’s not a fire in the cauldron.</description>
-      <dc:creator>Andrew Keh</dc:creator>
-      <pubDate>Mon, 29 Jul 2024 12:24:50 +0000</pubDate>
+      <title>Fencing Feud Highlights Ukrainian-Russian Animosity at Olympics</title>
+      <link>https://www.nytimes.com/2024/07/29/world/olympics/ukraine-russia-fencing-kharlan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/29/world/olympics/ukraine-russia-fencing-kharlan.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/29/world/olympics/ukraine-russia-fencing-kharlan.html" rel="standout"></atom:link>
+      <description>The war has torn apart old alliances and heightened the acrimony. A Ukrainian fencer is competing after her refusal to shake hands with a Russian rival got her barred from the world championships.</description>
+      <dc:creator>Jeré Longman</dc:creator>
+      <pubDate>Mon, 29 Jul 2024 14:30:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fencing (Sport)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2024)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Balloons (Aeronautics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Olympic Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bach, Thomas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tuileries Gardens</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/29/multimedia/29Olympics-flame-zhwt/29Olympics-flame-zhwt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Gabriela Bhaskar for The New York Times</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Olha Kharlan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Anna Smirnova</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/30/multimedia/30olympics-fencing-feud-tqlw/30olympics-fencing-feud-tqlw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Andrew Medichini/Associated Press</media:credit>
+      <media:description>Olha Kharlan of Ukraine celebrated after defeating Shihomi Fukushima of Japan on Monday.</media:description>
     </item>
     <item>
       <title>Man Detained in France After Breaking Into Railway Site Near Rouen</title>
@@ -149,20 +160,19 @@
       <media:description>Railway employees and French gendarmes inspect the scene of a suspected attack on the high-speed railway network in Croiselles, northern France last week.</media:description>
     </item>
     <item>
-      <title>Southport Stabbing: At Least 8 People Injured in English Seaside Town Attack</title>
-      <link>https://www.nytimes.com/2024/07/29/world/europe/southport-stabbing-uk.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/29/world/europe/southport-stabbing-uk.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/29/world/europe/southport-stabbing-uk.html" rel="standout"></atom:link>
-      <description>They were injured in a knife attack in Southport, near the northern English city of Liverpool.</description>
-      <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Mon, 29 Jul 2024 14:04:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Knives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Liverpool (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southport (UK)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/29/multimedia/29uk-stabbing-tmbp/29uk-stabbing-tmbp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Adam Vaughan/EPA, via Shutterstock</media:credit>
-      <media:description>Police officers at the scene of stabbings in Southport, England, on Monday.</media:description>
+      <title>Is the Olympic Flame Real?</title>
+      <link>https://www.nytimes.com/2024/07/29/world/olympics/flame-cauldron-balloon.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/29/world/olympics/flame-cauldron-balloon.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/29/world/olympics/flame-cauldron-balloon.html" rel="standout"></atom:link>
+      <description>Two torches may have lit it to open the Paris Games, but that’s not a fire in the cauldron.</description>
+      <dc:creator>Andrew Keh</dc:creator>
+      <pubDate>Mon, 29 Jul 2024 12:24:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2024)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Balloons (Aeronautics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tuileries Gardens</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/29/multimedia/29Olympics-flame-zhwt/29Olympics-flame-zhwt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Gabriela Bhaskar for The New York Times</media:credit>
     </item>
     <item>
       <title>Anguish in Golan Heights Village After Rocket Strike From Lebanon</title>
@@ -180,6 +190,40 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/28/multimedia/28israel-scene-01a-czbv/28israel-scene-01a-czbv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Avishag Shaar-Yashuv for The New York Times</media:credit>
       <media:description>Residents gather on the soccer field in Majdal Shams on Sunday following the rocket attack that killed 12 children.</media:description>
+    </item>
+    <item>
+      <title>Southport Stabbing: At Least 8 People Injured in English Seaside Town Attack</title>
+      <link>https://www.nytimes.com/2024/07/29/world/europe/southport-stabbing-uk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/29/world/europe/southport-stabbing-uk.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/29/world/europe/southport-stabbing-uk.html" rel="standout"></atom:link>
+      <description>They were injured in a knife attack in Southport, near the northern English city of Liverpool.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Mon, 29 Jul 2024 14:44:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Knives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Liverpool (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southport (UK)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/29/multimedia/29uk-stabbing-tmbp/29uk-stabbing-tmbp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Adam Vaughan/EPA, via Shutterstock</media:credit>
+      <media:description>Police officers at the scene of stabbings in Southport, England, on Monday.</media:description>
+    </item>
+    <item>
+      <title>Simone Biles Is Done Being Judged</title>
+      <link>https://www.nytimes.com/2024/07/28/world/olympics/simone-biles-olympic-gymnast.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/28/world/olympics/simone-biles-olympic-gymnast.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/28/world/olympics/simone-biles-olympic-gymnast.html" rel="standout"></atom:link>
+      <description>Three years after she dropped out of the Tokyo Games with a mental block, she is back at the Olympics with a defiant attitude — and a sense of where she is in the air.</description>
+      <dc:creator>Juliet Macur</dc:creator>
+      <pubDate>Sun, 28 Jul 2024 17:50:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biles, Simone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2024)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gymnastics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-suspenseful</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/28/multimedia/28olympics-biles-wmlv/28olympics-biles-wmlv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chang W. Lee/The New York Times</media:credit>
+      <media:description>Simone Biles performing on the balance beam in Tokyo in 2021.</media:description>
     </item>
     <item>
       <title>Maduro Is Declared Winner in Tainted Venezuela Election</title>
@@ -240,41 +284,6 @@
       <media:description>French spectators booed at a boat carrying Argentina’s Olympic team during the opening ceremony on Friday. There are different explanations for the antipathy.</media:description>
     </item>
     <item>
-      <title>As F-16s Arrive, Ukraine Still Faces Steep Challenges in the Skies</title>
-      <link>https://www.nytimes.com/2024/07/28/world/europe/ukraine-russia-f-16s.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/28/world/europe/ukraine-russia-f-16s.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/28/world/europe/ukraine-russia-f-16s.html" rel="standout"></atom:link>
-      <description>Ukraine wants to deploy its first F-16 jets this summer, hoping to counter Russia’s dominance in the air. But stepped-up Russian bombing attacks on air bases complicate the effort.</description>
-      <dc:creator>Marc Santora and Eric Schmitt</dc:creator>
-      <pubDate>Sun, 28 Jul 2024 16:01:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/25/multimedia/00ukraine-airwars-01-hbpt/00ukraine-airwars-01-hbpt-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Brendan Hoffman for The New York Times</media:credit>
-      <media:description>The aftermath of a strike on Kyiv’s main children’s hospital earlier this month. Russia’s attacks have become increasingly sophisticated and hard to counter.</media:description>
-    </item>
-    <item>
-      <title>Simone Biles Is Done Being Judged</title>
-      <link>https://www.nytimes.com/2024/07/28/world/olympics/simone-biles-olympic-gymnast.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/28/world/olympics/simone-biles-olympic-gymnast.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/28/world/olympics/simone-biles-olympic-gymnast.html" rel="standout"></atom:link>
-      <description>Three years after she dropped out of the Tokyo Games with a mental block, she is back at the Olympics with a defiant attitude — and a sense of where she is in the air.</description>
-      <dc:creator>Juliet Macur</dc:creator>
-      <pubDate>Sun, 28 Jul 2024 17:50:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biles, Simone</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2024)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gymnastics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-suspenseful</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/28/multimedia/28olympics-biles-wmlv/28olympics-biles-wmlv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Chang W. Lee/The New York Times</media:credit>
-      <media:description>Simone Biles performing on the balance beam in Tokyo in 2021.</media:description>
-    </item>
-    <item>
       <title>How a Crisis for Vultures Led to a Human Disaster: Half a Million Deaths</title>
       <link>https://www.nytimes.com/2024/07/29/climate/vultures-india-poisoning.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/07/29/climate/vultures-india-poisoning.html</guid>
@@ -298,32 +307,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/29/multimedia/29cli-vultures-khmj/29cli-vultures-khmj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sanjay Baid/EPA, via Shutterstock</media:credit>
       <media:description>A vulture in northern India, in 2020. A drug given to cattle in the 1990s nearly wiped out the birds in South Asia.</media:description>
-    </item>
-    <item>
-      <title>Fencing Feud Highlights Ukrainian-Russian Animosity at Olympics</title>
-      <link>https://www.nytimes.com/2024/07/29/world/olympics/ukraine-russia-fencing-kharlan.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/29/world/olympics/ukraine-russia-fencing-kharlan.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/29/world/olympics/ukraine-russia-fencing-kharlan.html" rel="standout"></atom:link>
-      <description>The war has torn apart old alliances and heightened the acrimony. A Ukrainian fencer is competing after her refusal to shake hands with a Russian rival got her barred from the world championships.</description>
-      <dc:creator>Jeré Longman</dc:creator>
-      <pubDate>Mon, 29 Jul 2024 14:30:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fencing (Sport)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2024)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Olympic Committee</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bach, Thomas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Olha Kharlan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Anna Smirnova</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/30/multimedia/30olympics-fencing-feud-tqlw/30olympics-fencing-feud-tqlw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Andrew Medichini/Associated Press</media:credit>
-      <media:description>Olha Kharlan of Ukraine celebrated after defeating Shihomi Fukushima of Japan on Monday.</media:description>
     </item>
     <item>
       <title>Olympics Opening Ceremony Singer Redefines What It Means to Be French</title>
@@ -526,6 +509,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chiles, Jordan (2001- )</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/28/multimedia/28olympics-fast-photos-gymnastics-all-around-grid1/28olympics-fast-photos-gymnastics-all-around-grid1-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Chang W. Lee/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>As F-16s Arrive, Ukraine Still Faces Steep Challenges in the Skies</title>
+      <link>https://www.nytimes.com/2024/07/28/world/europe/ukraine-russia-f-16s.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/28/world/europe/ukraine-russia-f-16s.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/28/world/europe/ukraine-russia-f-16s.html" rel="standout"></atom:link>
+      <description>Ukraine wants to deploy its first F-16 jets this summer, hoping to counter Russia’s dominance in the air. But stepped-up Russian bombing attacks on air bases complicate the effort.</description>
+      <dc:creator>Marc Santora and Eric Schmitt</dc:creator>
+      <pubDate>Sun, 28 Jul 2024 16:01:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/25/multimedia/00ukraine-airwars-01-hbpt/00ukraine-airwars-01-hbpt-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Brendan Hoffman for The New York Times</media:credit>
+      <media:description>The aftermath of a strike on Kyiv’s main children’s hospital earlier this month. Russia’s attacks have become increasingly sophisticated and hard to counter.</media:description>
     </item>
     <item>
       <title>A Blood Test Accurately Diagnosed Alzheimer’s 90% of the Time, Study Finds</title>
