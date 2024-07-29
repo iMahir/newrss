@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.02704415620269507" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 29 Jul 2024 12:49:51 +0000</lastBuildDate>
-    <pubDate>Mon, 29 Jul 2024 12:30:49 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Jul 2024 13:13:04 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Jul 2024 12:59:47 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -280,6 +280,25 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/28/multimedia/28olympics-biles-wmlv/28olympics-biles-wmlv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Chang W. Lee/The New York Times</media:credit>
       <media:description>Simone Biles performing on the balance beam in Tokyo in 2021.</media:description>
+    </item>
+    <item>
+      <title>Erdogan Says Turkey Could Enter Israel to Help Palestinians</title>
+      <link>https://www.nytimes.com/2024/07/29/world/middleeast/turkey-israel-erdogan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/29/world/middleeast/turkey-israel-erdogan.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/29/world/middleeast/turkey-israel-erdogan.html" rel="standout"></atom:link>
+      <description>It was unclear whether the comments reflected any concrete plans, but they drew a strong response from Israel.</description>
+      <dc:creator>Ben Hubbard and Safak Timur</dc:creator>
+      <pubDate>Mon, 29 Jul 2024 12:59:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/29/multimedia/29mideast-crisis-israel-turkey-1-fhbw/29mideast-crisis-israel-turkey-1-fhbw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Andrew Harnik/Getty Images</media:credit>
+      <media:description>It was unclear whether comments by President Recep Tayyip Erdogan of Turkey, referring to the possibility that his country could enter Israel, reflected concrete plans.</media:description>
     </item>
     <item>
       <title>Are Electric Cars Worth the Money?</title>
@@ -1086,21 +1105,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/28/multimedia/24Dumas-02-wtvh-print1/24Dumas-02-wtvh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Joel Saget/Agence France-Presse &amp;mdash; Getty Images</media:credit>
       <media:description>Roland Dumas in 2014. He was the French foreign minister from 1984 to 1986 and from 1988 to 1993 and was later president of the Constitutional Council, France’s highest appeals body.</media:description>
-    </item>
-    <item>
-      <title>Suspected Arsonists Knew Exactly Where to Strike Paris Railways to Heighten Chaos</title>
-      <link>https://www.nytimes.com/article/saboteurs-targeted-a-rail-network-so-vast-that-its-impossible-to-fully-secure.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/saboteurs-targeted-a-rail-network-so-vast-that-its-impossible-to-fully-secure.html</guid>
-      <atom:link href="https://www.nytimes.com/article/saboteurs-targeted-a-rail-network-so-vast-that-its-impossible-to-fully-secure.html" rel="standout"></atom:link>
-      <description>Thousands of miles of tracks leave the French system vulnerable to sabotage. But the suspected arsonists also knew just where to strike.</description>
-      <dc:creator>Aurelien Breeden</dc:creator>
-      <pubDate>Fri, 26 Jul 2024 18:07:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arson</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2024)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/26/multimedia/26olympics-opening-live-signaling-zlvf/26olympics-opening-live-signaling-zlvf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jean-Francois Monier/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Workers reconnecting the signal box to its rail line in Val d’Yerres, France, on Friday.</media:description>
     </item>
   </channel>
 </rss>
