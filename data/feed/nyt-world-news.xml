@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.02704415620269507" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 29 Jul 2024 13:13:04 +0000</lastBuildDate>
-    <pubDate>Mon, 29 Jul 2024 12:59:47 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Jul 2024 13:33:15 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Jul 2024 13:33:13 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2024/07/29/world/olympics/suni-lee-gymnastics-kidney-disease.html" rel="standout"></atom:link>
       <description>Sunisa Lee, the all-around women’s champion at the Tokyo Olympics, overcame personal strife, family expectations and serious illness to get to Paris.</description>
       <dc:creator>Juliet Macur</dc:creator>
-      <pubDate>Mon, 29 Jul 2024 10:00:25 +0000</pubDate>
+      <pubDate>Mon, 29 Jul 2024 13:32:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee, Sunisa (2003- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2024)</category>
@@ -65,14 +65,14 @@
       <dc:creator>Jenny Vrentas</dc:creator>
       <pubDate>Mon, 29 Jul 2024 04:01:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2024)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Swimming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Virginia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">USA Swimming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bowman, Bob</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Heilman, Thomas (2007- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">King, Lilly (1997- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Phelps, Michael</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virginia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Douglass, Kate (2001- )</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/29/multimedia/29Olympics-douglass-pool-vqgl/29Olympics-douglass-pool-vqgl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Al Bello/Getty Images</media:credit>
       <media:description>Kate Douglass of the United States often wears a device in training that measures her movement through the water.</media:description>
@@ -93,6 +93,28 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/17/multimedia/00safrica-zuma-1-jlpg/00safrica-zuma-1-jlpg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Michele Spatari/Agence France-Presse — Getty Images</media:credit>
       <media:description>Jacob Zuma, the former president of South Africa, campaigning ahead of the South African elections in May.</media:description>
+    </item>
+    <item>
+      <title>Man Detained in France After Breaking Into Railway Site Near Rouen</title>
+      <link>https://www.nytimes.com/2024/07/29/world/europe/france-railway-attack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/29/world/europe/france-railway-attack.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/29/world/europe/france-railway-attack.html" rel="standout"></atom:link>
+      <description>The man was picked up days after arsonists caused travel chaos by damaging train signaling cables around France, but he is not a suspect in that case, prosecutors say.</description>
+      <dc:creator>Aurelien Breeden</dc:creator>
+      <pubDate>Mon, 29 Jul 2024 13:21:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arson</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2024)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fiber Optics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sabotage (Crime)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">SNCF (Societe Nationale des Chemins de fer Francais)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Darmanin, Gerald</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rouen (France)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/29/multimedia/29france-sabotage-whcz/29france-sabotage-whcz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Denis Charlet/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Railway employees and French gendarmes inspect the scene of a suspected attack on the high-speed railway network in Croiselles, northern France last week.</media:description>
     </item>
     <item>
       <title>Is the Olympic Flame Real?</title>
@@ -125,6 +147,22 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/28/multimedia/28israel-scene-01a-czbv/28israel-scene-01a-czbv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Avishag Shaar-Yashuv for The New York Times</media:credit>
       <media:description>Residents gather on the soccer field in Majdal Shams on Sunday following the rocket attack that killed 12 children.</media:description>
+    </item>
+    <item>
+      <title>Sinead O’Connor Died of Pulmonary Disease and Asthma, Death Report Says</title>
+      <link>https://www.nytimes.com/2024/07/29/world/europe/sinead-oconnor-cause-of-death.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/29/world/europe/sinead-oconnor-cause-of-death.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/29/world/europe/sinead-oconnor-cause-of-death.html" rel="standout"></atom:link>
+      <description>A death certificate filed last week revealed the natural causes behind the death last July of Ms. O’Connor, the Irish singer and activist.</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Mon, 29 Jul 2024 13:16:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">O&#39;Connor, Sinead</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chronic Obstructive Pulmonary Disease</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/29/multimedia/29sinead-death-tvph/29sinead-death-tvph-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ellius Grace for The New York Times</media:credit>
+      <media:description>Sinead O’Connor in 2021. In January, a coroner said that Ms. O’Connor had died of “natural causes” but did not provide details. </media:description>
     </item>
     <item>
       <title>Maduro Is Declared Winner in Tainted Venezuela Election</title>
@@ -221,47 +259,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/28/multimedia/28israel-lebanon-sub-pmhj/28israel-lebanon-sub-pmhj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Avishag Shaar-Yashuv for The New York Times</media:credit>
       <media:description>A soccer field that was hit by a rocket, killing multiple children and teenagers, in the Druze town of Majdal Shams in the Golan Heights in northern Israel on Sunday.</media:description>
-    </item>
-    <item>
-      <title>Hourslong Lines as Voters Surge to Polls in Venezuela’s Pivotal Election</title>
-      <link>https://www.nytimes.com/2024/07/28/world/americas/venezuela-election-maduro-gonzalez-machado.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/28/world/americas/venezuela-election-maduro-gonzalez-machado.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/28/world/americas/venezuela-election-maduro-gonzalez-machado.html" rel="standout"></atom:link>
-      <description>Sunday’s vote could end a generation of control by Venezuela’s socialist party. It could also usher in a period of profound uncertainty.</description>
-      <dc:creator>Anatoly Kurmanaev, Frances Robles and Julie Turkewitz</dc:creator>
-      <pubDate>Mon, 29 Jul 2024 00:19:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Socialism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Court</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gonzalez, Edmundo (1949- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chavez, Hugo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Machado, Maria Corina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/28/multimedia/28venezuela-election-setup-newtop-phgj/28venezuela-election-setup-newtop-phgj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Marian Carrasquero for The New York Times</media:credit>
-      <media:description>A long line outside a polling station in Caracas, Venezuela, on Sunday as people voted in what promises to be a watershed election.</media:description>
-    </item>
-    <item>
-      <title>U.S. and Japan Strengthen Military Ties</title>
-      <link>https://www.nytimes.com/2024/07/28/world/asia/us-japan-military-alliance.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/28/world/asia/us-japan-military-alliance.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/28/world/asia/us-japan-military-alliance.html" rel="standout"></atom:link>
-      <description>The two governments said the moves were a response to growing aggression by China, whose rapid military buildup has many leaders worried.</description>
-      <dc:creator>Edward Wong</dc:creator>
-      <pubDate>Sun, 28 Jul 2024 23:59:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Austin, Lloyd J III</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blinken, Antony J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East China Sea</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/28/multimedia/28blinken-austin-japan-1-fhtl/28blinken-austin-japan-1-fhtl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Issei Kato/Reuters</media:credit>
-      <media:description>From left, Lloyd J. Austin III, the U.S. secretary of defense; Antony J. Blinken, the U.S. secretary of state; Yoko Kamikawa, the Japanese foreign minister; and Minoru Kihara, the Japanese defense minister, at a news conference in Tokyo on Sunday.</media:description>
     </item>
     <item>
       <title>Simone Biles Is Done Being Judged</title>
@@ -421,6 +418,25 @@
       <media:description>A screen showing Philippe Katerine&#39;s performance during the Olympics’ opening ceremony in Paris on Friday.</media:description>
     </item>
     <item>
+      <title>U.S. and Japan Strengthen Military Ties</title>
+      <link>https://www.nytimes.com/2024/07/28/world/asia/us-japan-military-alliance.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/28/world/asia/us-japan-military-alliance.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/28/world/asia/us-japan-military-alliance.html" rel="standout"></atom:link>
+      <description>The two governments said the moves were a response to growing aggression by China, whose rapid military buildup has many leaders worried.</description>
+      <dc:creator>Edward Wong</dc:creator>
+      <pubDate>Sun, 28 Jul 2024 23:59:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Austin, Lloyd J III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blinken, Antony J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East China Sea</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/28/multimedia/28blinken-austin-japan-1-fhtl/28blinken-austin-japan-1-fhtl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Issei Kato/Reuters</media:credit>
+      <media:description>From left, Lloyd J. Austin III, the U.S. secretary of defense; Antony J. Blinken, the U.S. secretary of state; Yoko Kamikawa, the Japanese foreign minister; and Minoru Kihara, the Japanese defense minister, at a news conference in Tokyo on Sunday.</media:description>
+    </item>
+    <item>
       <title>Here’s how Simone Biles and her American teammates stormed into the finals.</title>
       <link>https://www.nytimes.com/2024/07/28/world/olympics/simone-biles-team-usa-gymnastics.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/07/28/world/olympics/simone-biles-team-usa-gymnastics.html</guid>
@@ -461,6 +477,28 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/28/science/28AlzheimersBloodTest/28AlzheimersBloodTest-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Thomas Deerinck, NCMIR/Science Source</media:credit>
       <media:description>A colored transmission electron micrograph of the nerve cell of the brain of a patient with Alzheimer’s disease showing aggregates of the protein tau in green. The study used a blood test that focuses on a form of that protein.</media:description>
+    </item>
+    <item>
+      <title>Hourslong Lines as Voters Surge to Polls in Venezuela’s Pivotal Election</title>
+      <link>https://www.nytimes.com/2024/07/28/world/americas/venezuela-election-maduro-gonzalez-machado.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/28/world/americas/venezuela-election-maduro-gonzalez-machado.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/28/world/americas/venezuela-election-maduro-gonzalez-machado.html" rel="standout"></atom:link>
+      <description>Sunday’s vote could end a generation of control by Venezuela’s socialist party. It could also usher in a period of profound uncertainty.</description>
+      <dc:creator>Anatoly Kurmanaev, Frances Robles and Julie Turkewitz</dc:creator>
+      <pubDate>Mon, 29 Jul 2024 00:19:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Socialism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Court</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gonzalez, Edmundo (1949- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chavez, Hugo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Machado, Maria Corina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/28/multimedia/28venezuela-election-setup-newtop-phgj/28venezuela-election-setup-newtop-phgj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Marian Carrasquero for The New York Times</media:credit>
+      <media:description>A long line outside a polling station in Caracas, Venezuela, on Sunday as people voted in what promises to be a watershed election.</media:description>
     </item>
     <item>
       <title>Russia Punches Through Weakened Lines in Eastern Ukraine</title>
@@ -1066,45 +1104,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/25/climate/25CLI-Congestion-01/25CLI-Congestion-01-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Leon Neal/Getty Images</media:credit>
       <media:description>A sign last year alerting drivers to the expansion of the city’s Ultra Low Emission Zone, or ULEZ, designed to cut pollution.</media:description>
-    </item>
-    <item>
-      <title>For Epidemics to Cross Oceans, Viruses on Ships Had to Beat the Odds</title>
-      <link>https://www.nytimes.com/2024/07/26/health/viruses-ships-transmission.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/26/health/viruses-ships-transmission.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/26/health/viruses-ships-transmission.html" rel="standout"></atom:link>
-      <description>In the era when people traveled by sailing ship and steamer, illnesses usually burned themselves out before boats reached shore, a new study finds.</description>
-      <dc:creator>Gina Kolata</dc:creator>
-      <pubDate>Fri, 26 Jul 2024 18:25:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">History (Academic Subject)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sailboats and Sailing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smallpox</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Measles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Influenza</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Proceedings of the National Academy of Sciences</category>
-    </item>
-    <item>
-      <title>Roland Dumas Dies at 101; French Foreign Minister Tainted by Scandal</title>
-      <link>https://www.nytimes.com/2024/07/26/world/europe/roland-dumas-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/26/world/europe/roland-dumas-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/26/world/europe/roland-dumas-dead.html" rel="standout"></atom:link>
-      <description>A lawyer and confidant of François Mitterrand, he was in the forefront of French politics for decades, only to be undone by his taste for the high life.</description>
-      <dc:creator>Adam Nossiter</dc:creator>
-      <pubDate>Sat, 27 Jul 2024 13:51:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dumas, Roland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mitterrand, Francois</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Socialism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/28/multimedia/24Dumas-02-wtvh-print1/24Dumas-02-wtvh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Joel Saget/Agence France-Presse &amp;mdash; Getty Images</media:credit>
-      <media:description>Roland Dumas in 2014. He was the French foreign minister from 1984 to 1986 and from 1988 to 1993 and was later president of the Constitutional Council, France’s highest appeals body.</media:description>
     </item>
   </channel>
 </rss>
