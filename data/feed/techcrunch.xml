@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 29 Jul 2024 19:42:24 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 Jul 2024 20:17:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">136296444</site>	<item>
+		<title>Making AI models &#8216;forget&#8217; undesirable data hurts their performance</title>
+		<link>https://techcrunch.com/2024/07/29/making-ai-models-forget-undesirable-data-hurts-their-performance/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Mon, 29 Jul 2024 20:17:41 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[forgetting]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[study]]></category>
+		<category><![CDATA[unlearning]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2816087</guid>
+
+					<description><![CDATA[<p>So-called &#8220;unlearning&#8221; techniques are used to make a generative AI model forget specific and undesirable info it picked up from training data, like sensitive private data or copyrighted material. But current unlearning techniques are a double-edged sword: They could make a model like OpenAI&#8217;s GPT-4o or Meta&#8217;s Llama 3.1 405B much less capable of answering [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2816087</post-id>	</item>
+		<item>
 		<title>Uber now lets users in India book three trips at once</title>
 		<link>https://techcrunch.com/2024/07/29/uber-now-lets-users-in-india-book-three-trips-at-once/</link>
 		
@@ -436,26 +457,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2815915</post-id>	</item>
-		<item>
-		<title>Max Space reinvents expandable habitats with a 17th-century twist, launching in 2026</title>
-		<link>https://techcrunch.com/2024/07/27/max-space-reinvents-expandable-habitats-with-a-17th-century-twist-launching-in-2026/</link>
-		
-		<dc:creator><![CDATA[Devin Coldewey]]></dc:creator>
-		<pubDate>Sat, 27 Jul 2024 15:00:00 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Space]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[space travel]]></category>
-		<category><![CDATA[Made In Space]]></category>
-		<category><![CDATA[Max Space]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2789185</guid>
-
-					<description><![CDATA[<p>Max Space's expandable habitats promise to be larger, stronger, and more versatile than anything like them ever launched, not to mention cheaper and lighter by far than a solid, machined structure.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">2789185</post-id>	</item>
 	</channel>
 </rss>
