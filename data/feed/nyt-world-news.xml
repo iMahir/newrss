@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Jul 2024 14:11:33 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Jul 2024 14:08:46 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Jul 2024 14:23:27 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Jul 2024 14:22:38 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/07/31/world/israel-gaza-war-hamas-iran" rel="standout"></atom:link>
       <description>Hamas accused Israel of killing Ismail Haniyeh, who was in Tehran for the inauguration of Iran’s new president, though there was no response from Israel.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 31 Jul 2024 14:08:46 +0000</pubDate>
+      <pubDate>Wed, 31 Jul 2024 14:22:38 +0000</pubDate>
       <media:content height="1341" medium="image" url="https://static01.nyt.com/images/2024/07/31/multimedia/31mideast-crisis-promo-10am/31haniyeh-hp-vbql-mediumSquareAt3X.jpg" width="1341"></media:content>
       <media:credit>Arash Khamooshi for The New York Times</media:credit>
     </item>
@@ -292,6 +292,27 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/30/multimedia/30iran-president-vbwf-LIVE-copy/30iran-president-vbwf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arash Khamooshi for The New York Times</media:credit>
       <media:description>Iran’s new president Masoud Pezeshkian was sworn in on Tuesday in an inauguration ceremony in Tehran.</media:description>
+    </item>
+    <item>
+      <title>After Haniyeh’s Death, Who Are Hamas’s Most Prominent Leaders?</title>
+      <link>https://www.nytimes.com/2024/07/31/world/middleeast/hamas-leaders-haniyeh-sinwar-meshal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/31/world/middleeast/hamas-leaders-haniyeh-sinwar-meshal.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/31/world/middleeast/hamas-leaders-haniyeh-sinwar-meshal.html" rel="standout"></atom:link>
+      <description>Ismail Haniyeh, who was killed in Iran, was among the most senior members of Hamas’s leadership. Here is a look at others.</description>
+      <dc:creator>John Yoon</dc:creator>
+      <pubDate>Wed, 31 Jul 2024 14:22:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Deif, Muhammad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haniya, Ismail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Issa, Marwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meshal, Khaled</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sinwar, Yehya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/31/multimedia/31mideast-crisis-leaders-hamas-1-wjcq/31mideast-crisis-leaders-hamas-1-wjcq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Samar Abu Elouf for The New York Times</media:credit>
+      <media:description>Yahya Sinwar, head of the political bureau of Hamas, delivers a speech to the audience at the International Quds Day festival on the last Friday of Ramadan, which was held in Gaza City.</media:description>
     </item>
     <item>
       <title>Alex Yee overcomes currents, heat and a big lead to pull of a dramatic comeback.</title>
@@ -1138,12 +1159,12 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Swimming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2024)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Olympic Committee</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Anti-Doping Agency</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tang Muhan (2003- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">He Junyi (1997- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chinada</category>
       <category domain="">metandienone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2020)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/29/multimedia/29dc-doping-pzmg/29dc-doping-pzmg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Petr David Josek/Associated Press</media:credit>
       <media:description>Tang Muhan is a member of China’s Olympic team in Paris.</media:description>
@@ -1177,30 +1198,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/29/multimedia/29mideast-crisis-leadall-vphj/29mideast-crisis-leadall-vphj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Avishag Shaar-Yashuv for The New York Times</media:credit>
       <media:description>Burned bicycles and scooters at the site of a rocket strike near the soccer field in the Druze town of Majdal Shams in the Israeli-controlled Golan Heights on Sunday.</media:description>
-    </item>
-    <item>
-      <title>El Chapo’s Son Abducted El Mayo and Flew Him to U.S., Officials Now Say</title>
-      <link>https://www.nytimes.com/2024/07/29/world/americas/sinalo-cartel-el-mayo-joaquin-guzman-lopez.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/29/world/americas/sinalo-cartel-el-mayo-joaquin-guzman-lopez.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/29/world/americas/sinalo-cartel-el-mayo-joaquin-guzman-lopez.html" rel="standout"></atom:link>
-      <description>U.S. officials say Joaquín Guzmán López, a son of El Chapo, forced Ismael Zambada García onto a plane bound for the United States, in a case that landed the two Sinaloa cartel leaders in custody last week.</description>
-      <dc:creator>Alan Feuer and Natalie Kitroeff</dc:creator>
-      <pubDate>Tue, 30 Jul 2024 00:51:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zambada Garcia, Ismael</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guzman Lopez, Joaquin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guzman Loera, Joaquin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guzman Lopez, Ovidio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sinaloa Cartel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Paso (Tex)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/29/multimedia/29mexico-cartel01-photo-qkmb/29mexico-cartel01-photo-qkmb-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
-      <media:credit>Alfredo Estrella/Agence France-Presse — Getty Images</media:credit>
-      <media:description>President Andrés Manuel López Obrador of Mexico at a news conference following the arrest of Ismael Zambada García. Mr. Zambada García’s lawyer has said his client was kidnapped by Joaquín Guzmán López, El Chapo’s son.</media:description>
     </item>
   </channel>
 </rss>
