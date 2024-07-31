@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 31 Jul 2024 17:09:39 +0000</lastBuildDate>
-    <pubDate>Wed, 31 Jul 2024 17:08:38 +0000</pubDate>
+    <lastBuildDate>Wed, 31 Jul 2024 17:27:24 +0000</lastBuildDate>
+    <pubDate>Wed, 31 Jul 2024 17:25:05 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/07/31/world/israel-gaza-war-hamas-iran" rel="standout"></atom:link>
       <description>Hamas accused Israel of assassinating Ismail Haniyeh, who was in Tehran for the inauguration of Iran’s new president, and Iran vowed to retaliate. Israel has not talked about the killing.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 31 Jul 2024 17:08:38 +0000</pubDate>
+      <pubDate>Wed, 31 Jul 2024 17:25:05 +0000</pubDate>
       <media:content height="1341" medium="image" url="https://static01.nyt.com/images/2024/07/31/multimedia/31mideast-crisis-promo-1pm/31haniyeh-hp-vbql-mediumSquareAt3X.jpg" width="1341"></media:content>
       <media:credit>Arash Khamooshi for The New York Times</media:credit>
     </item>
@@ -140,7 +140,7 @@
       <atom:link href="https://www.nytimes.com/2024/07/31/world/americas/venezuela-election-vote-flaws.html" rel="standout"></atom:link>
       <description>From voter intimidation to refusing to provide paper tallies to verify the result claimed by the government, the election was riddled with problems.</description>
       <dc:creator>Genevieve Glatsky</dc:creator>
-      <pubDate>Wed, 31 Jul 2024 16:24:31 +0000</pubDate>
+      <pubDate>Wed, 31 Jul 2024 17:22:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Machines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
@@ -148,7 +148,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gonzalez, Edmundo (1949- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/31/multimedia/31venezuela-irregularities-lbmj/31venezuela-irregularities-lbmj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/31/multimedia/31venezuela-irregularities-newtop/31venezuela-irregularities-HP-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Adriana Loureiro Fernandez for The New York Times</media:credit>
       <media:description>Poll workers during the election on Sunday in Caracas, Venezuela’s capital.</media:description>
     </item>
@@ -300,6 +300,27 @@
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2024/07/29/multimedia/00olympics-southsudan-01-fjqw/00olympics-southsudan-01-fjqw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Guillem Sartorio for The New York Times</media:credit>
       <media:description>The Bright Stars are currently representing Africa in the Olympic men’s basketball tournament.</media:description>
+    </item>
+    <item>
+      <title>Guinea Court Finds Former President Guilty of Stadium Massacre and Rapes</title>
+      <link>https://www.nytimes.com/2024/07/31/world/africa/guinea-moussa-dadis-camara-guilty.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/31/world/africa/guinea-moussa-dadis-camara-guilty.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/31/world/africa/guinea-moussa-dadis-camara-guilty.html" rel="standout"></atom:link>
+      <description>The West African country’s former military leader and some of his top aides were found guilty of crimes against humanity committed during and after a pro-democracy demonstration in 2009.</description>
+      <dc:creator>Ruth Maclean</dc:creator>
+      <pubDate>Wed, 31 Jul 2024 17:20:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guinea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Camara, Moussa Dadis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Conakry (Guinea)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/31/multimedia/31Guinea-Massacre-gbhf/31Guinea-Massacre-gbhf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ahmed Ouoba/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Guinea’s former president, Capt. Moussa Dadis Camara, at a news conference in 2015.</media:description>
     </item>
     <item>
       <title>‘20th Hijacker’ Seeks Transfer From Federal Supermax to French Prison</title>
@@ -455,13 +476,32 @@
       <media:description>Tea plantation workers heading to a relief camp after landslides in Kerala, India, on Wednesday.</media:description>
     </item>
     <item>
+      <title>Will the Assassination of a Hamas Leader Escalate the Risk of a Wider War?</title>
+      <link>https://www.nytimes.com/2024/07/31/world/middleeast/hamas-killing-iran-israel-lebanon-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/31/world/middleeast/hamas-killing-iran-israel-lebanon-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/31/world/middleeast/hamas-killing-iran-israel-lebanon-war.html" rel="standout"></atom:link>
+      <description>Qatar and Egypt, the main mediators in talks to end the Gaza war, have warned that new assassinations risk plunging the region even deeper into chaos.</description>
+      <dc:creator>Vivian Yee</dc:creator>
+      <pubDate>Wed, 31 Jul 2024 17:12:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haniya, Ismail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qatar</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/31/world/31mideast-crisis-regional-sup-top/3131mideast-crisis-regional-sup-top-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>Professors gather in front of the University of Tehran on Wednesday to protest the assassination of the Hamas leader Ismail Haniyeh.</media:description>
+    </item>
+    <item>
       <title>Huw Edwards Pleads Guilty to Accessing Indecent Images of Children</title>
       <link>https://www.nytimes.com/2024/07/31/world/europe/huw-edwards-bbc-guilty.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/07/31/world/europe/huw-edwards-bbc-guilty.html</guid>
       <atom:link href="https://www.nytimes.com/2024/07/31/world/europe/huw-edwards-bbc-guilty.html" rel="standout"></atom:link>
       <description>Huw Edwards, who was one of Britain’s top television anchors, admitted to offenses in a London court on Wednesday.</description>
       <dc:creator>Amelia Nierenberg</dc:creator>
-      <pubDate>Wed, 31 Jul 2024 15:34:50 +0000</pubDate>
+      <pubDate>Wed, 31 Jul 2024 17:10:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Edwards, Huw</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Indecency, Obscenity and Profanity</category>
@@ -1175,31 +1215,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/24/multimedia/00india-sugar-bjht/00india-sugar-bjht-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Saumya Khandelwal for The New York Times</media:credit>
       <media:description>A Dalmia Bharat Sugar factory in Kolhapur, India, in 2023. A New York Times investigation found that inspections by a group that certifies the mill were all but guaranteed not to find problems.</media:description>
-    </item>
-    <item>
-      <title>As U.S.-Iran Conflict Builds, Iraq Is Caught in Middle</title>
-      <link>https://www.nytimes.com/2024/07/30/world/middleeast/us-iran-iraq.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/30/world/middleeast/us-iran-iraq.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/30/world/middleeast/us-iran-iraq.html" rel="standout"></atom:link>
-      <description>The United States and Iran are at odds over the Gaza war as well as proposals for an American troop withdrawal from Iraq.</description>
-      <dc:creator>Alissa J. Rubin</dc:creator>
-      <pubDate>Tue, 30 Jul 2024 09:00:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shiite Muslims</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Popular Mobilization Forces (Iraq)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2020/01/05/world/23iraq-iran-policy-top3/23iraq-iran-policy-top3-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
-      <media:description>Members of the Popular Mobilization Forces, a mostly Shiite militia group, at their post at the Iraqi border with Syria in 2017.</media:description>
     </item>
   </channel>
 </rss>
