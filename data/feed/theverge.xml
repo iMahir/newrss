@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>The Verge -  All Posts</title>
   <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
-  <updated>2024-07-30T21:39:55-04:00</updated>
+  <updated>2024-07-31T05:00:00-04:00</updated>
   <id>https://www.theverge.com/rss/full.xml</id>
   <link type="text/html" href="https://www.theverge.com/" rel="alternate"/>
+  <entry>
+    <published>2024-07-31T05:00:00-04:00</published>
+    <updated>2024-07-31T05:00:00-04:00</updated>
+    <title>StubHub accused of charging ‘deceptive’ fees in DC lawsuit</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Photo illustration of a gavel in front of a background of tickets." src="https://cdn.vox-cdn.com/thumbor/N8Dlp-i_WsZrM5y1Va7eQaXPd9U=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73492610/STK268_TICKETMASTER_CVIRGINIA_D.0.jpg" /&gt;
+        &lt;figcaption&gt;Image: Cath Virginia / The Verge, Getty Images&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="ioJ9HG"&gt;StubHub is facing a new lawsuit that accuses the ticketing service of hiding fees from customers until the very end of the purchasing process. In the lawsuit filed on Wednesday, District of Columbia Attorney General Brian L. Schwalb claims StubHub engages in “a series of deceptive, manipulative, and unfair practices.”&lt;/p&gt;
+&lt;p id="hLxuUn"&gt;Attorney General Schwalb alleges StubHub uses a “bait-and-switch” technique where it advertises “deceptively low” ticket prices and adds extra charges after a multi-page purchase process. During that process, StubHub displays a countdown timer giving customers 10 minutes to complete their purchase — something Schwalb calls a dark pattern designed to create a “false sense of urgency.”&lt;/p&gt;
+&lt;p id="VstJ5i"&gt;In addition, Schwalb accuses StubHub of...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2024/7/31/24209853/stubhub-hidden-junk-fees"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/7/31/24209853/stubhub-hidden-junk-fees"/>
+    <id>https://www.theverge.com/2024/7/31/24209853/stubhub-hidden-junk-fees</id>
+    <author>
+      <name>Emma Roth</name>
+    </author>
+  </entry>
   <entry>
     <published>2024-07-30T21:39:55-04:00</published>
     <updated>2024-07-30T21:39:55-04:00</updated>
@@ -32,7 +57,7 @@
   <entry>
     <published>2024-07-30T20:03:57-04:00</published>
     <updated>2024-07-30T20:03:57-04:00</updated>
-    <title>Ring camera features are down due to AWS problems</title>
+    <title>Ring camera features are back online following AWS problems</title>
     <content type="html">  
 
     &lt;figure&gt;
@@ -40,9 +65,9 @@
         &lt;figcaption&gt;Image: Ring&lt;/figcaption&gt;
     &lt;/figure&gt;
 
-  &lt;p id="PN0OCv"&gt;On Monday evening, Amazon Web Services &lt;a href="https://health.aws.amazon.com/health/status?eventID=arn:aws:health:us-east-1::event/MULTIPLE_SERVICES/AWS_MULTIPLE_SERVICES_OPERATIONAL_ISSUE/AWS_MULTIPLE_SERVICES_OPERATIONAL_ISSUE_F0449_625BDDE4846"&gt;sent a notice&lt;/a&gt; about issues in the US-EAST-1 region of its server networks, which support many of the internet’s services. So far, the only problem we’ve seen that appears to be linked to the problem is an outage affecting Amazon-owned Ring, with owners of the security cameras and doorbells reporting that features like history, events, and Neighbors are unavailable.&lt;/p&gt;
-&lt;p id="CZibqX"&gt;Monitoring live feeds from the cameras is still working for some of the people who’ve been affected, and Ring’s status page confirms, “We are investigating issues with multiple Ring systems impacting things like Live View, Recordings, Timeline, Event History, etc.” &lt;/p&gt;
-&lt;p id="Gt1YFk"&gt;Both outages are reported as starting at 6:40PM ET, and there is no word...&lt;/p&gt;
+  &lt;p id="PN0OCv"&gt;On Monday evening, Amazon Web Services &lt;a href="https://health.aws.amazon.com/health/status?eventID=arn:aws:health:us-east-1::event/MULTIPLE_SERVICES/AWS_MULTIPLE_SERVICES_OPERATIONAL_ISSUE/AWS_MULTIPLE_SERVICES_OPERATIONAL_ISSUE_F0449_625BDDE4846"&gt;sent a notice&lt;/a&gt; about issues in the US-EAST-1 region of its server networks, which supports many of the internet’s services. So far, the only problem we’ve seen that appears to be linked to the issues is an outage affecting Amazon-owned Ring, with owners of the security cameras and doorbells reporting that features like history, events, and Neighbors are unavailable.&lt;/p&gt;
+&lt;p id="CZibqX"&gt;At 1:20AM ET, &lt;a href="https://status.ring.com/incidents/4c0r80dkn28m"&gt;Ring’s status page&lt;/a&gt; was updated to announce the incident had been resolved, with a note at the bottom of the page saying the issues had affected Ring.com, Ring Protect (Video Recording), Live Calls (Doorbell Dings &amp;amp; Motions), Video On Demand, and Partner Integration. &lt;/p&gt;
+&lt;p id="CZQMg7"&gt;The Ring outage began starting at 6:40PM ET on Tuesday....&lt;/p&gt;
   &lt;p&gt;
     &lt;a href="https://www.theverge.com/2024/7/30/24210064/ring-camera-down-outage-amazon-aws-us-east"&gt;Continue reading&amp;hellip;&lt;/a&gt;
   &lt;/p&gt;
@@ -254,32 +279,6 @@
     <id>https://www.theverge.com/2024/7/30/24209519/microsoft-q4-2024-earnings-revenue-profits-windows-xbox-gaming-surface</id>
     <author>
       <name>Tom Warren</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-07-30T15:07:56-04:00</published>
-    <updated>2024-07-30T15:07:56-04:00</updated>
-    <title>Intel will officially ‘launch’ its Lunar Lake laptop chips on September 3rd</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="Graphical illustration with Intel branding" src="https://cdn.vox-cdn.com/thumbor/wYtKNwc6r1wzxfwXmsnHsdBH9z0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73491521/acastro_210120_1777_intel_0002.0.jpg" /&gt;
-        &lt;figcaption&gt;Illustration by Alex Castro / The Verge&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="8lgfxO"&gt;Qualcomm’s new Snapdragon laptops had the summer all to themselves, but that’s coming to an end. AMD is now shipping &lt;a href="https://www.theverge.com/2024/7/19/24198605/amd-ryzen-ai-strix-point-vs-apple-intel-qualcomm-event"&gt;its Ryzen AI chips&lt;/a&gt; — and Intel has just announced &lt;a href="https://www.intel.com/content/www/us/en/newsroom/news/media-alert-intels-next-gen-core-ultra-launch-event.html#gs.cd2czc"&gt;it’ll “launch”&lt;/a&gt; its next generation of Core Ultra laptop chips, codename Lunar Lake, on a September 3rd livestream. It sounds like they won’t be available quite that soon, but the full reveal should be just five weeks away.&lt;/p&gt;
-&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="nUsu5k"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"This is Lunar Lake — Intel’s utterly overhauled AI laptop chip","url":"https://www.theverge.com/2024/6/3/24169115/intel-lunar-lake-architecture-platform-feature-reveal"},{"title":"Here’s how Qualcomm’s new laptop chips really stack up to Apple, Intel, and AMD","url":"https://www.theverge.com/24191671/copilot-plus-pcs-laptops-qualcomm-intel-amd-apple"},{"title":"Windows on Arm finally has legs","url":"https://www.theverge.com/2024/6/26/24186432/microsoft-windows-on-arm-qualcomm-copilot-plus-pcs-prism-emulator"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
-&lt;p id="Hyx3jM"&gt;&lt;a href="https://www.theverge.com/2024/6/3/24169115/intel-lunar-lake-architecture-platform-feature-reveal"&gt;As we’ve discussed&lt;/a&gt;, Lunar Lake is an utterly overhauled chip that ditches the entire idea of plugging swappable memory sticks into your laptop, not to mention several of Intel’s previous ideas about how to achieve the best battery life and performance — plus a tripled NPU if you happen to have generative AI applications you’d like to run locally.&lt;/p&gt;
-&lt;p id="YPjivc"&gt;But...&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2024/7/30/24209778/intel-lunar-lake-launch-core-ultra-september-3rd"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/7/30/24209778/intel-lunar-lake-launch-core-ultra-september-3rd"/>
-    <id>https://www.theverge.com/2024/7/30/24209778/intel-lunar-lake-launch-core-ultra-september-3rd</id>
-    <author>
-      <name>Sean Hollister</name>
     </author>
   </entry>
 </feed>
