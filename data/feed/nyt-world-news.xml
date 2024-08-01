@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 01 Aug 2024 16:41:39 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Aug 2024 16:41:29 +0000</pubDate>
+    <lastBuildDate>Thu, 01 Aug 2024 16:45:50 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Aug 2024 16:45:31 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/08/01/world/russia-prisoner-swap-us" rel="standout"></atom:link>
       <description>The Wall Street Journal reporter and others were freed in a prisoner swap in Turkey in the most far-reaching exchange between Russia and the West in decades.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 01 Aug 2024 16:38:46 +0000</pubDate>
+      <pubDate>Thu, 01 Aug 2024 16:44:25 +0000</pubDate>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/08/01/multimedia/01prisoner-swap-promo-1230-ET-bwpj/01prisoner-swap-promo-1230-ET-bwpj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Evgenia Novozhenina/Reuters</media:credit>
     </item>
@@ -77,11 +77,14 @@
       <description>The small city where the renowned Dutch cheese is made is subsiding as sea levels rise. Experts say the industry may not survive there, even with the ingenuity of the country’s water managers.</description>
       <dc:creator>Nina Siegal</dc:creator>
       <pubDate>Thu, 01 Aug 2024 16:01:12 +0000</pubDate>
+      <category domain="">Gouda</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cheese</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gouda (Netherlands)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Netherlands</category>
-      <category domain="">Gouda</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/25/multimedia/25gouda-01-fmcp/25gouda-01-fmcp-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
       <media:credit>Ilvy Njiokiktjien for The New York Times</media:credit>
       <media:description>Ad van Kluijve selling his cheeses at the weekly market in Gouda, the Netherlands.</media:description>
@@ -281,6 +284,23 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/22/multimedia/00olympics-thaiboxing-02-jwzf/00olympics-thaiboxing-02-jwzf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lauren DeCicca for The New York Times</media:credit>
       <media:description>Thananya Somnuek, a member of Thailand’s Olympic boxing squad, trained in Bangkok in June. Boxing is practically a national sport in Thailand.</media:description>
+    </item>
+    <item>
+      <title>Turkey Aims to Cull Its Stray Dogs. Critics Say It’s About Politics.</title>
+      <link>https://www.nytimes.com/2024/08/01/world/europe/turkey-stray-dog-law.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/01/world/europe/turkey-stray-dog-law.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/01/world/europe/turkey-stray-dog-law.html" rel="standout"></atom:link>
+      <description>Turkey’s new law aimed at moving millions of stray dogs to shelters, and allowing some to be euthanized, has both cultural and political implications.</description>
+      <dc:creator>Sarah Hurtes</dc:creator>
+      <pubDate>Thu, 01 Aug 2024 16:42:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dogs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Abuse, Rights and Welfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/31/multimedia/31xp-Turkeydogslaw-wjtl/31xp-Turkeydogslaw-wjtl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Yasin Akgul/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A stray dog resting in front of Hagia Sophia in Istanbul, in May.</media:description>
     </item>
     <item>
       <title>Who Was Freed in the Prisoner Swap Between Russia and the West?</title>
@@ -1184,25 +1204,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/07/30/multimedia/30Olympics-Palestinians-01-mpkg/30Olympics-Palestinians-01-mpkg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Daniel Berehulak/The New York Times</media:credit>
       <media:description>The boxer Wasim Abusal competed with a Palestinian flag on his top. </media:description>
-    </item>
-    <item>
-      <title>What We Know About the Assassination of Ismail Haniyeh</title>
-      <link>https://www.nytimes.com/2024/07/30/world/middleeast/ismail-haniyeh-hamas-tehran.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/30/world/middleeast/ismail-haniyeh-hamas-tehran.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/30/world/middleeast/ismail-haniyeh-hamas-tehran.html" rel="standout"></atom:link>
-      <description>The top Hamas leader, who was central to the group’s high-stakes negotiations and diplomacy, was killed in Iran’s capital.</description>
-      <dc:creator>Victoria Kim</dc:creator>
-      <pubDate>Wed, 31 Jul 2024 09:22:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haniya, Ismail</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/30/multimedia/30mideast-crisis-haniyeh-WWK-1-vmtw/30mideast-crisis-haniyeh-WWK-1-vmtw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Vahid Salemi/Associated Press</media:credit>
-      <media:description>Ismail Haniyeh, a top Hamas leader, in Tehran in March.</media:description>
     </item>
   </channel>
 </rss>
