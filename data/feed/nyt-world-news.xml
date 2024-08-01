@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 01 Aug 2024 21:32:38 +0000</lastBuildDate>
-    <pubDate>Thu, 01 Aug 2024 21:32:19 +0000</pubDate>
+    <lastBuildDate>Thu, 01 Aug 2024 21:48:35 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Aug 2024 21:46:51 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -19,9 +19,9 @@
       <link>https://www.nytimes.com/live/2024/08/01/world/russia-prisoner-swap-us</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2024/08/01/world/russia-prisoner-swap-us</guid>
       <atom:link href="https://www.nytimes.com/live/2024/08/01/world/russia-prisoner-swap-us" rel="standout"></atom:link>
-      <description>Evan Gershkovich, a Wall Street Journal reporter, and 23 other people were freed as part of deal whose scope has little precedent in the post-Soviet era. President Biden hailed the deal and said “their brutal ordeal is over.”</description>
+      <description>Evan Gershkovich, a Wall Street Journal reporter, and about two dozen other people were freed as part of a deal whose scope has little precedent in the post-Soviet era. President Biden said “their brutal ordeal is over.”</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 01 Aug 2024 21:32:19 +0000</pubDate>
+      <pubDate>Thu, 01 Aug 2024 21:46:51 +0000</pubDate>
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2024/08/01/multimedia/01prisoner-swap-promo-510pm-ET/01wsj-relief-tfhk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dan Lyon/Agence France-Presse, via Wall Street Journal</media:credit>
       <media:description>Wall Street Journal Editor-in-Chief Emma Tucker reacts to the release of reporter Evan Gershkovich, in the Wall Street Journal newsroom on Thursday.</media:description>
@@ -56,7 +56,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/08/01/world/israel-hamas-iran-haniyeh-gaza" rel="standout"></atom:link>
       <description>The fate of Muhammad Deif, a top Hamas leader, has been unclear, and the group has not confirmed his death. Funerals for senior officials from Hamas and Hezbollah, both of whom were assassinated this week, drew thousands.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 01 Aug 2024 21:31:02 +0000</pubDate>
+      <pubDate>Thu, 01 Aug 2024 21:38:20 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/01/multimedia/01mideast-crisis-promo-5pm-ET/01mideast-crisis-cgfm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Amir Cohen/Reuters</media:credit>
     </item>
@@ -287,6 +287,22 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/31/multimedia/31venezuela-irregularities-newtop/31venezuela-irregularities-HP-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Adriana Loureiro Fernandez for The New York Times</media:credit>
       <media:description>Poll workers during the election on Sunday in Caracas, Venezuela’s capital.</media:description>
+    </item>
+    <item>
+      <title>Katie Ledecky’s 13th Olympic medal is a silver, but one for the record books.</title>
+      <link>https://www.nytimes.com/2024/08/01/world/olympics/katie-ledecky-record.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/01/world/olympics/katie-ledecky-record.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/01/world/olympics/katie-ledecky-record.html" rel="standout"></atom:link>
+      <description>No female American Olympian has won more medals than Ledecky, who swam the third leg for the Americans’ 4x200 freestyle relay team that finished second behind Australia.</description>
+      <dc:creator>Ben Shpigel, James Hill and Karen Hanley</dc:creator>
+      <pubDate>Thu, 01 Aug 2024 21:39:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Swimming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2024)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ledecky, Katie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/27/multimedia/27olympics-fast-photos-ledecky-4x200-relay-01-gkfb/27olympics-fast-photos-ledecky-4x200-relay-01-gkfb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>James Hill for The New York Times</media:credit>
     </item>
     <item>
       <title>Friday Briefing: Evan Gershkovich Freed in a Prisoner Swap</title>
@@ -520,7 +536,7 @@
       <atom:link href="https://www.nytimes.com/2024/08/01/world/olympics/boxer-quits-gender-angela-carini-imane-khelif.html" rel="standout"></atom:link>
       <description>The Italian, Angela Carini, stopped fighting only 46 seconds into her matchup against Imane Khelif of Algeria, who had been barred from a women’s event last year.</description>
       <dc:creator>Tariq Panja and Jeré Longman</dc:creator>
-      <pubDate>Thu, 01 Aug 2024 20:10:27 +0000</pubDate>
+      <pubDate>Thu, 01 Aug 2024 21:35:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Boxing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2024)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gender</category>
@@ -1218,25 +1234,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/22/multimedia/00olympics-thaiboxing-02-jwzf/00olympics-thaiboxing-02-jwzf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lauren DeCicca for The New York Times</media:credit>
       <media:description>Thananya Somnuek, a member of Thailand’s Olympic boxing squad, trained in Bangkok in June. Boxing is practically a national sport in Thailand.</media:description>
-    </item>
-    <item>
-      <title>Huw Edwards Pleads Guilty to Accessing Indecent Images of Children</title>
-      <link>https://www.nytimes.com/2024/07/31/world/europe/huw-edwards-bbc-guilty.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/07/31/world/europe/huw-edwards-bbc-guilty.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/07/31/world/europe/huw-edwards-bbc-guilty.html" rel="standout"></atom:link>
-      <description>Huw Edwards, who was one of Britain’s top television anchors, admitted to offenses in a London court on Wednesday.</description>
-      <dc:creator>Amelia Nierenberg</dc:creator>
-      <pubDate>Wed, 31 Jul 2024 17:10:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Edwards, Huw</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">British Broadcasting Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Pornography</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexting</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/31/multimedia/31uk-bbc-zhfb/31uk-bbc-zhfb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Hollie Adams/Reuters</media:credit>
-      <media:description>Huw Edwards, center, outside a London court on Wednesday.</media:description>
     </item>
   </channel>
 </rss>
