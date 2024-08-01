@@ -5,11 +5,126 @@
     <title>Mashable</title>
     <link>https://mashable.com/feeds/rss/all</link>
     <description>Mashable is a global, multi-platform media and entertainment company.</description>
-    <pubDate>Thu, 01 Aug 2024 13:44:23 +0000</pubDate>
+    <pubDate>Thu, 01 Aug 2024 14:44:29 +0000</pubDate>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Aug 2024 13:44:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 14:44:29 +0000</lastBuildDate>
     <copyright>©2024 Mashable, Inc. All Rights Reserved.</copyright>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Bumble, Hinge, and other apps had to fix privacy risk, study says]]></title>
+      <link>https://mashable.com/article/bumble-hinge-other-dating-apps-had-to-fix-privacy-risk-paper-says</link>
+      <guid isPermaLink="false">03zj5CLGpxHiiX9z5gR1XkQ</guid>
+      <pubDate>Thu, 01 Aug 2024 14:32:38 +0000</pubDate>
+      <description><![CDATA[New paper found that some major dating apps left users' locations able to be exposed by bad actors.]]></description>
+      <content:encoded><![CDATA[<img src="https://helios-i.mashable.com/imagery/articles/03zj5CLGpxHiiX9z5gR1XkQ/hero-image.png" alt="hand holding key, another hand emerging from smartphone with a lock"><p><a href="https://mashable.com/roundup/best-dating-sites-for-serious-relationships" target="_self">Dating apps</a> require users to disclose vulnerable information &mdash; and not just someone's romantic dreams. Most times, these apps require personal data like your name, age, and location. In the case of the latter, a new paper details that, for a time, several major apps left user locations able to be exposed by potential adversaries.</p><h2>Dating app location vulnerabilities</h2><p>In a new paper out of Belgian university KU Leuven, "<a href="https://lepoch.at/files/dating-apps-usesec24.pdf" target="_blank">Swipe Left for Identity Theft</a>," researchers break down potential privacy risks for 15 location-based dating apps (LBDs) with at least 10 million downloads. These days, dating apps are typically location-based in order to help users find matches physically close to them. By needing location, however, it opens users up to potential risks.</p><div class="mx-auto mt-8 w-full max-w-3xl font-sans text-lg leading-normal md:text-xl md:leading-7">
+        <span class="font-bold text-primary-400">SEE ALSO:</span>
+        <a href="https://mashable.com/article/daters-olympic-village-app-location-paris" class="text-secondary-300">
+            Daters are changing their app locations to the Olympic Village
+            <svg class="inline-block ml-1 w-4 h-4 font-normal fill-current"><use href="https://mashable.com/images/icons/spritemap.svg#sprite-arrow-right-thin"></use></svg>
+        </a>
+    </div>
+<p>All apps except one used distance between users to measure location. (That exception, TanTan &mdash; an Asian dating app &mdash; used exact coordinates one-time at the point of matching, and only if they matched.) "However, lacking sufficient protections, the availability of distances can still lead to the inference of a user's location," the paper states. "This is done through trilateration."</p><p><a href="https://www.sciencedirect.com/topics/engineering/trilateration" target="_blank">Trilateration</a> is the process of determining location by measuring distances between three triangles (or <a href="https://www.youtube.com/watch?v=4O3ZVHVFhes" target="_blank">circles, or spheres</a>). There are different types of trilateration apps use to determine location. The authors &mdash; Karel Dhondt, Victor Le Pochat, Yana Dimova, Wouter Joosen, and Stijn Volckaert &mdash; found that they were able to <a href="https://techcrunch.com/2024/07/31/bumble-and-hinge-allowed-stalkers-to-pinpoint-users-locations-down-to-2-meters-researchers-say/" target="_blank">pinpoint almost an exact location in six out of 15 apps</a>, as TechCrunch reported. </p><h2>Which dating apps had location vulnerabilities?</h2><p>The most common vulnerability was through "oracle trilateration," which the paper explains, "Adversaries use an <em>oracle</em> that indicates through a binary signal whether a victim is located within proximity, i.e., when they are within a defined 'proximity distance' from the attacker."</p><p>Hinge, Bumble, Badoo (which is owned by Bumble), and Hily were susceptible to such trilateration. </p><p>A Hinge spokesman told Mashable:</p><blockquote><p>At Hinge, the safety and privacy of our users is always a top priority. Our app is built with a privacy-by-design approach and strictly protects sensitive user data. We are proud of our state-of-the-art bug bounty program and our ongoing dialogue with researchers, which are designed to attract comments so we can make adjustments before any harm happens to our users. We reviewed the feedback from this research team when we received it in early 2023 and immediately took action where appropriate.</p></blockquote><p>A <a href="https://techcrunch.com/2024/07/31/bumble-and-hinge-allowed-stalkers-to-pinpoint-users-locations-down-to-2-meters-researchers-say/" target="_blank">Bumble spokesperson told both TechCrunch</a> and Mashable, "We were made aware of these findings in early 2023, and swiftly resolved the issues outlined. As a global business with members in countries all over the world, we are committed to protecting our users&rsquo; privacy and have adopted a global approach to privacy compliance."</p><p>This statement applies for Badoo as well, Bumble told Mashable.</p><p>Dmytro Kononov, CTO and co-founder of Hily, shared this statement with TechCrunch:</p><blockquote><p>The findings indicated a potential possibility for trilateration. However, in practice, exploiting this for attacks was impossible. This is due to our internal mechanisms designed to protect against spammers and the logic of our search algorithm...Despite this, we engaged in extensive consultations with the authors of the report and collaboratively developed new geocoding algorithms to completely eliminate this type of attack. These new algorithms have been successfully implemented for over a year now.</p></blockquote><p>Grindr was vulnerable to "exact distance trilateration." This can be done when services reveal exact distances to other users. The authors were able to figure out user locations as close as 111 meters (around 364 feet). Exact distance trilateration was possible even when the distance was hidden, such as in Egypt where Grindr hides all user locations for safety reasons.</p><div class="mx-auto mt-8 w-full max-w-3xl font-sans text-lg leading-normal md:text-xl md:leading-7">
+        <span class="font-bold text-primary-400">SEE ALSO:</span>
+        <a href="https://mashable.com/article/men-gaming-dating-app-algorithms-by-switching-sexualities" class="text-secondary-300">
+            Men found a surprising new way to lie on dating apps
+            <svg class="inline-block ml-1 w-4 h-4 font-normal fill-current"><use href="https://mashable.com/images/icons/spritemap.svg#sprite-arrow-right-thin"></use></svg>
+        </a>
+    </div>
+<p>"The proximity Grindr offers to this community is paramount in providing the ability to interact with those closest to them, Grindr's chief privacy officer Kelly Peterson Miranda told TechCrunch. "As is the case with many location-based social networks and dating apps, Grindr requires certain location information in order to connect its users with those nearby...Grindr users are in control of what location information they provide."</p><p>Finally, the app happn was vulnerable to "rounded distance trilateration," which can be done if an app utilizes a rounded location as a precaution. CEO and president of happn, Karima Ben Abdelmalek, told TechCrunch:</p><blockquote><p>After review by our Chief Security Officer of the research findings, we had the opportunity to discuss the trilateration method with the researchers. However, happn has an additional layer of protection beyond just rounding distances...This additional protection was not taken into account in their analysis and we mutually agreed that this extra measure on happn makes the trilateration technique ineffective. </p></blockquote><p>It appears that for apps with these vulnerabilities, the apps took measures to stop bad actors from determining user location using trilateration, with the exception of Grindr.</p><h2>Which dating apps weren't vulnerable?</h2><p>According to the paper, Tinder and LOVOO used "grid snapping" to prevent trilateration. <a href="https://robertheaton.com/2018/07/09/how-tinder-keeps-your-location-a-bit-private/" target="_blank">Grid snapping</a> is a technique of dividing one's location into a grid of squares. Coordinates (aka where users are) are moved to the center of these squares (Tinder) or the right side (LOVOO) and one's distance is measured from there. Therefore, their actual distance is inaccurate and can't be trilaterated. </p><p>Plenty of Fish and Meetic don't access GPS locations. While MeetMe, Tagged, and OkCupid do access this information, they convert it to the nearest town. The authors couldn't reverse engineer the information they needed for TanTan and Jaumo, so they couldn't test this method to find user locations. </p><p>The paper shows the importance of caution when using dating apps. As the paper concludes, "We hope that the awareness that we bring of these issues will lead LBD app providers to reconsider their data gathering practices, protect their APIs [application programming interfaces]<strong> </strong>from data leaks, prevent location inference, and give users control of their data and therefore ultimately their privacy."</p>]]></content:encoded>
+    </item>
+    <item>
+      <title><![CDATA[Snag the JBL Tune earbuds with active noise cancellation for under $50]]></title>
+      <link>https://mashable.com/article/aug-1-jbl-tune-earbuds-deal</link>
+      <guid isPermaLink="false">02lR5N2ATIEHSkNUzxtZ8tF</guid>
+      <pubDate>Thu, 01 Aug 2024 14:27:16 +0000</pubDate>
+      <description><![CDATA[As of August 1, get a pair of JBL Tune earbuds for just $47.95 at Amazon. That's 52% off.]]></description>
+      <content:encoded><![CDATA[<img src="https://helios-i.mashable.com/imagery/articles/02lR5N2ATIEHSkNUzxtZ8tF/hero-image.png" alt="JBL Tune earbuds on abstract orange background"><p><strong>SAVE 52%: </strong>As of August 1, get the <a href="https://zdcs.link/3dMO2?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=JBL%20Tune%20earbuds&object_type=article&object_uuid=02lR5N2ATIEHSkNUzxtZ8tF&short_url=3dMO2&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">JBL Tune earbuds</a> for just $47.95 at Amazon, down from their normal price of $99.95. That's a discount of $52. </p><hr><div class="flex flex-col mx-auto mt-8 mb-16 max-w-3xl font-sans md:flex-row">
+    <div class="mx-auto w-64 md:mx-0 md:w-1/3">
+                                                        <a class="block group" href="https://zdcs.link/3dMO2?pageview_type=RSS&template=article&module=shop-card&element=offer&item=image&element_label=image&object_type=article&object_uuid=02lR5N2ATIEHSkNUzxtZ8tF&short_url=3dMO2&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank"title="(opens in a new window)" data-ga-action="product_image" data-ga-label="image" data-ga-item="image" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="1" data-ga-click>
+                                                            <img class="w-full" src="https://helios-i.mashable.com/imagery/articles/02lR5N2ATIEHSkNUzxtZ8tF/images-1.fill.size_256x256.v1722520266.png" alt="JBL Tune earbuds on white background" width="256" height="256" loading="lazy">
+
+
+                    
+                    <div class="block relative mx-14 group-hover:visible tooltip">
+                    <span class="absolute invisible p-1 mt-2 text-xs text-center text-white group-hover:visible tooltiptext bg-gray-600/0 group-hover:bg-gray-600/100">
+                        Opens in a new window
+                    </span>
+                    </div>
+                                    </a>
+                                <div class="mt-2 leading-none text-left">
+                                            <span class="pr-5 mt-1 text-xs text-gray-600 subtitle-2">Credit: Amazon</span>
+                                    </div>
+                        </div>
+    <div class="pl-0 mt-3 w-full md:pl-8 md:mt-0 md:w-2/3">
+                                    <a href="https://zdcs.link/3dMO2?pageview_type=RSS&template=article&module=shop-card&element=offer&item=title&element_label=JBL%20Tune%20earbuds&object_type=article&object_uuid=02lR5N2ATIEHSkNUzxtZ8tF&short_url=3dMO2&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank" class="block mb-5 text-xl font-bold leading-8 text-center md:text-2xl md:text-left hover:underline text-secondary-300" data-ga-action="offer-title" data-ga-item="title" data-ga-element="offer" data-ga-module="shop-card" data-ga-label="JBL Tune earbuds" data-ga-position="1" data-ga-click title="(opens in a new window)">
+                    JBL Tune earbuds
+                </a>
+                                        <div class="flex justify-between items-center py-3 md:py-0 md:space-x-2">
+                <div class="md:w-2/3" style="line-height: 0.75rem">
+                                            <span class="text-sm font-bold">$47.95</span>
+                                                    <span class="text-xs"> at Amazon</span>
+                                                <br>
+                                                                                            <span class="text-xs font-bold line-through">$99.95</span>
+                                                                            <span class="text-xs font-bold text-red-400"> Save $52.00</span>
+                                                            </div>
+            </div>
+                                                    <a class="font-bold leading-6 text-center hover:underline" href="https://zdcs.link/3dMO2?pageview_type=RSS&template=article&module=shop-card&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=02lR5N2ATIEHSkNUzxtZ8tF&short_url=3dMO2&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="Get Deal" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="1" data-ga-click title="(opens in a new window)">
+                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide md:w-auto md:text-lg btn btn-secondary">Get Deal</button>
+                </a>
+                        </div>
+</div>
+<p>Looking for a pair of <a href="https://mashable.com/article/best-earbuds" target="_self">earbuds</a>, but don't want to spend too much? There are plenty of affordable options out there. But right now you can save big on a pair that's well worth scooping up for over half off for a limited time. </p><p>As of August 1, you can get the <a href="https://zdcs.link/3dMO2?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=JBL%20Tune%20earbuds&object_type=article&object_uuid=02lR5N2ATIEHSkNUzxtZ8tF&short_url=3dMO2&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">JBL Tune earbuds</a> for just $47.95 at Amazon. That's 52% off their normal price of $99.95 and a discount of $52. They aren't quite at their lowest price of all time, but they're only a few dollars away. </p><div class="mx-auto mt-8 w-full max-w-3xl font-sans text-lg leading-normal md:text-xl md:leading-7">
+        <span class="font-bold text-primary-400">SEE ALSO:</span>
+        <a href="https://mashable.com/article/best-earbuds" class="text-secondary-300">
+            The 6 best earbuds to buy in 2024, just in time for Prime Day deals
+            <svg class="inline-block ml-1 w-4 h-4 font-normal fill-current"><use href="https://mashable.com/images/icons/spritemap.svg#sprite-arrow-right-thin"></use></svg>
+        </a>
+    </div>
+<p>These wireless earbuds deliver great sound with active noise cancellation. Listen to your favorite tunes and then turn on ANC to block out unwanted sound. They also include an ambient mode to make sure you can still filter in the sounds you need to hear to stay aware of your surroundings. With 10mm drivers, they're nice and bassy, but they also serve up crystal clear treble, too. </p><p>Use these earbuds to listen to songs and podcasts or jump on a call thanks to their four built-in microphones. You'll be able to carry on your conversations without having to repeat yourself over and over. They're also water-resistant and sweatproof in case you want to take them to the gym for a workout. Plus, they offer up to 40 hours of battery life with fast charging that gets you 2 hours of playtime with just 10 minutes of charging. </p><p>These earbuds are on sale for a limited time only at Amazon, so be sure to grab them before all the inventory is claimed. </p>]]></content:encoded>
+    </item>
+    <item>
+      <title><![CDATA[Today only: Get the Vitamix Ascent A2500 blender for 50% off]]></title>
+      <link>https://mashable.com/article/aug-1-vitamix-ascent-a2500-deal</link>
+      <guid isPermaLink="false">03FpG3Hj4KO4vPZSSTGm7qP</guid>
+      <pubDate>Thu, 01 Aug 2024 14:25:02 +0000</pubDate>
+      <description><![CDATA[As of Aug. 1., the Vitamix Ascent A2500 blender is just $299.99 at Best Buy, down from the list price of $599.95. That's a 50% discount.]]></description>
+      <content:encoded><![CDATA[<img src="https://helios-i.mashable.com/imagery/articles/03FpG3Hj4KO4vPZSSTGm7qP/hero-image.jpg" alt="a vitamix ascent a2500 blender sits on a white kitchen countertop"><p><strong>SAVE 50%:</strong> The <a href="https://zdcs.link/1vdwk?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Vitamix%20Ascent%20A2500%20blender&object_type=article&object_uuid=03FpG3Hj4KO4vPZSSTGm7qP&short_url=1vdwk&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Vitamix Ascent A2500 blender</a> is on sale for just $299.99 at Best Buy, down from the standard price of $599.95. That's a savings of $299.96.</p><hr><div class="flex flex-col mx-auto mt-8 mb-16 max-w-3xl font-sans md:flex-row">
+    <div class="mx-auto w-64 md:mx-0 md:w-1/3">
+                                                        <a class="block group" href="https://zdcs.link/1vdwk?pageview_type=RSS&template=article&module=shop-card&element=offer&item=image&element_label=image&object_type=article&object_uuid=03FpG3Hj4KO4vPZSSTGm7qP&short_url=1vdwk&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank"title="(opens in a new window)" data-ga-action="product_image" data-ga-label="image" data-ga-item="image" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="1" data-ga-click>
+                                                            <img class="mx-auto" src="https://helios-i.mashable.com/imagery/articles/03FpG3Hj4KO4vPZSSTGm7qP/images-1.fill.size_117x256.v1722519330.jpg" alt="an empty vitamix blender" width="117" height="256" loading="lazy">
+
+
+                    
+                    <div class="block relative mx-14 group-hover:visible tooltip">
+                    <span class="absolute invisible p-1 mt-2 text-xs text-center text-white group-hover:visible tooltiptext bg-gray-600/0 group-hover:bg-gray-600/100">
+                        Opens in a new window
+                    </span>
+                    </div>
+                                    </a>
+                                <div class="mt-2 leading-none text-left">
+                                            <span class="pr-5 mt-1 text-xs text-gray-600 subtitle-2">Credit: Vitamix</span>
+                                    </div>
+                        </div>
+    <div class="pl-0 mt-3 w-full md:pl-8 md:mt-0 md:w-2/3">
+                                    <a href="https://zdcs.link/1vdwk?pageview_type=RSS&template=article&module=shop-card&element=offer&item=title&element_label=Vitamix%20Ascent%20A2500&object_type=article&object_uuid=03FpG3Hj4KO4vPZSSTGm7qP&short_url=1vdwk&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank" class="block mb-5 text-xl font-bold leading-8 text-center md:text-2xl md:text-left hover:underline text-secondary-300" data-ga-action="offer-title" data-ga-item="title" data-ga-element="offer" data-ga-module="shop-card" data-ga-label="Vitamix Ascent A2500" data-ga-position="1" data-ga-click title="(opens in a new window)">
+                    Vitamix Ascent A2500
+                </a>
+                                        <div class="flex justify-between items-center py-3 md:py-0 md:space-x-2">
+                <div class="md:w-2/3" style="line-height: 0.75rem">
+                                            <span class="text-sm font-bold">$299.99</span>
+                                                    <span class="text-xs"> at Best Buy</span>
+                                                <br>
+                                                                                            <span class="text-xs font-bold line-through">$599.95</span>
+                                                                            <span class="text-xs font-bold text-red-400"> Save $299.96</span>
+                                                            </div>
+            </div>
+                                                    <a class="font-bold leading-6 text-center hover:underline" href="https://zdcs.link/1vdwk?pageview_type=RSS&template=article&module=shop-card&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=03FpG3Hj4KO4vPZSSTGm7qP&short_url=1vdwk&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="Get Deal" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="1" data-ga-click title="(opens in a new window)">
+                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide md:w-auto md:text-lg btn btn-secondary">Get Deal</button>
+                </a>
+                        </div>
+</div>
+<p>A truly functional kitchen has some essential appliances and cooking implements that make creating meals easy. Sure, you'll probably want a range (or some type of cooking surface), a refrigerator, a set of knives, and most people want a microwave. But there's a certain food prep appliance that some see as an essential luxury, particularly models from a high-end brand, and one that's synonymous with steep prices. If you're looking for a blender that's one of the best on the market, Best Buy has something epic in store today.</p><p>As of Aug. 1, the <a href="https://zdcs.link/1vdwk?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Vitamix%20Ascent%20A2500%20blender&object_type=article&object_uuid=03FpG3Hj4KO4vPZSSTGm7qP&short_url=1vdwk&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Vitamix Ascent A2500 blender</a> is just $299.99 at Best Buy, marked down from the usual price of $599.95. That's a massive 50% discount or a savings of $299.96.</p><p>Sometimes, buying the value-centered version of a product doesn't cut it, like the different between name-brand cola and the store brand. In a pinch, the store brand does just fine, but the flavor is distinctly different.</p><p>In the world of blenders, sometimes the high-end (and expensive) models are actually worth it when it comes to performance and lifespan. The Vitamix Ascent A2500 is a great example &mdash; sometimes high-quality comes with a high price tag. But thanks to today's deal at Best Buy, you can pay just 50% of the normal retail price.</p><p>The Vitamix Ascent A2500 comes with three pre-set programs &mdash; smoothies, hot soup, and frozen dessert. Yes, you read that right &mdash; <em>hot </em>soup, produced from the friction of the powerful Vitamix blades in just a handful of minutes.</p><p>Aside from those three pre-set functions, there's a dial with settings between 1 and 10 for variable speed control. The blender also incorporates a pulse feature which is great to make sure all ice cubes or frozen strawberries are fully integrated into the smoothie. </p><p>The 64-ounce included container comes with a lid and a lid plug. Plus, its low-profile design is more likely to fit on the counter under cupboards. You'll also get a low-profile tamper to use with the blender. </p><p>If you've always wanted a Vitamix blender in your kitchen but haven't loved the typical high price tag, today you can score the <a href="https://zdcs.link/1vdwk?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Vitamix%20Ascent%20A2500&object_type=article&object_uuid=03FpG3Hj4KO4vPZSSTGm7qP&short_url=1vdwk&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">Vitamix Ascent A2500</a> for half price. But you'll want to hurry because this deal expires tonight at 11:59 PT.</p>]]></content:encoded>
+    </item>
     <item>
       <title><![CDATA[The best tech gear for boosting productivity at school]]></title>
       <link>https://mashable.com/roundup/best-productivity-tech</link>
@@ -3307,7 +3422,13 @@
     <a class="text-gray-600" href="https://twitter.com/ShawlyUrKidding/status/1818631835217543423" target="_blank" rel="noopener" title="(opens in a new window)">
         Tweet may have been deleted
     </a>
-</blockquote>]]></content:encoded>
+</blockquote>
+<h2>Surfing delivers the coolest picture ever</h2><p>Sometimes, a photographer gets the timing just right. And, man, Jerome Brouillet perfectly timed this snap of Brazilian surfer Gabriel Medina as he triumphantly rose above a wave. </p><blockquote class="twitter-tweet">
+    <a class="text-gray-600" href="https://twitter.com/Olympics/status/1818320190024655011" target="_blank" rel="noopener" title="(opens in a new window)">
+        Tweet may have been deleted
+    </a>
+</blockquote>
+<p>The ride was a great one for Medina, who <a href="https://sports.yahoo.com/2024-olympics-brazilian-surfer-gabriel-medina-appears-to-defy-gravity-in-spectacular-photo-of-record-setting-ride-050051582.html" target="_blank">scored the highest</a> of the day at 9.90. </p>]]></content:encoded>
     </item>
     <item>
       <title><![CDATA[New iPhone 16 leak reveals 5 vibrant colors and camera redesign]]></title>
@@ -5133,312 +5254,6 @@
     </a>
 </blockquote>
 <p>What an amazing moment, and the kind of thing that makes the Olympics so great. With just a few seconds on the game clock, the U.S. went from so close, to making history. </p>]]></content:encoded>
-    </item>
-    <item>
-      <title><![CDATA[Simone Biles' floor routine is a history-defining moment for the Olympics]]></title>
-      <link>https://mashable.com/article/simone-biles-floor-routine-olympics-2024</link>
-      <guid isPermaLink="false">04Igt3b9WmVPcYdANT1g2se</guid>
-      <pubDate>Tue, 30 Jul 2024 18:41:00 +0000</pubDate>
-      <description><![CDATA[Team USA women's gymnastics dominates final round of the team competition, ending on a stunning floor routine from Simone Biles.]]></description>
-      <content:encoded><![CDATA[<img src="https://helios-i.mashable.com/imagery/articles/04Igt3b9WmVPcYdANT1g2se/hero-image.jpg" alt="Simone Biles flies through the air during her floor routine at the 2024 Olympics. "><p>Simone Biles has stunned onlookers once again, as Team USA grabs the gold in the final round of the <a href="https://mashable.com/category/olympics" target="_self">2024 Paris Olympics</a> gymnastic team competition. It's a stunning comeback moment for the G.O.A.T.</p><div class="mx-auto mt-8 w-full max-w-3xl font-sans text-lg leading-normal md:text-xl md:leading-7">
-        <span class="font-bold text-primary-400">SEE ALSO:</span>
-        <a href="https://mashable.com/article/womens-gymnastics-olympics-2024-simone-biles-scoring" class="text-secondary-300">
-            How women&rsquo;s gymnastics is scored at the Olympics, and how Simone Biles pushes those boundaries
-            <svg class="inline-block ml-1 w-4 h-4 font-normal fill-current"><use href="https://mashable.com/images/icons/spritemap.svg#sprite-arrow-right-thin"></use></svg>
-        </a>
-    </div>
-<p>The floor event is routinely Team USA's shining moment in world competition &mdash; current team member Sunisa Lee won the all-around at the 2020 Tokyo Olympics &mdash; with Biles' routine featuring some of the most difficult tumbling passes ever seen in gymnastics history.</p><blockquote class="twitter-tweet">
-    <a class="text-gray-600" href="https://twitter.com/USAGym/status/1818352059097444537" target="_blank" rel="noopener" title="(opens in a new window)">
-        Tweet may have been deleted
-    </a>
-</blockquote>
-<p>Biles' routine sets the highest difficulty scores of anyone else you'll see tumbling across the mat &mdash; and these are already some of history's greatest gymnasts. Her last pass (usually the lowest difficulty score out of a typical three- or four-pass routine) is scored nearly the same as other gymnasts' hardest tumbling efforts. It also features a skill named entirely after her. </p><div class="mx-auto mt-8 w-full max-w-4xl">
-    <div id="video-container-I_4n7HPl7uw"></div>
-</div>
-
-
-<p>Team USA, at large, showcases several powerhouse routines. However, nerves were high during the first qualification round. While Biles pulled in a huge 14.6 for her routine on Sunday, teammate and floor expert Carey stumbled into a major fall for the usually solid athlete. But in the finals, the entire team was on fire &mdash; and the podium seemed closer than ever for all three floor competitors. </p><p>Biles nearly nailed her history-defining passes, soaring through the air with only a few wobbles outside of bounds. But the minor slip-up was a trivial one: Biles got a 14.666. Lee brought in an impressive 13.533 herself, and Jordan Chiles &mdash; a known floor performer &mdash; nabbed a stunning 13.966 as she and her team were <a href="https://x.com/USAGym/status/1818350589937664384" target="_blank">brought to tears</a> on the mat. </p><blockquote class="twitter-tweet">
-    <a class="text-gray-600" href="https://twitter.com/OnHerTurf/status/1818347781821809073" target="_blank" rel="noopener" title="(opens in a new window)">
-        Tweet may have been deleted
-    </a>
-</blockquote>]]></content:encoded>
-    </item>
-    <item>
-      <title><![CDATA[Drew Afualo is more vulnerable than ever in her debut book 'Loud']]></title>
-      <link>https://mashable.com/article/drew-afualo-tiktok-book-loud-interview</link>
-      <guid isPermaLink="false">04lqqzBgiBMq26lt9SbD156</guid>
-      <pubDate>Tue, 30 Jul 2024 17:47:00 +0000</pubDate>
-      <description><![CDATA[Drew Afualo talks about writing her debut book "Loud: Accept Nothing Less Than The Life You Deserve," her career trajectory, and her MySpace days.]]></description>
-      <content:encoded><![CDATA[<img src="https://helios-i.mashable.com/imagery/articles/04lqqzBgiBMq26lt9SbD156/hero-image.jpg" alt="Drew Afualo's new book, "Loud: Accept Nothing Less Than The Life You Deserve.""><p>Drew Afualo is ready to get vulnerable.</p><p>That&rsquo;s one of the reasons the influencer and the internet's "Crusader for Women" decided to write a book. She already has a podcast, <a href="https://podcasts.apple.com/us/podcast/the-comment-section-with-drew-afualo/id1609986124" target="_blank"><em>The Comment Section with Drew Afualo</em></a>, and a platform on <a href="https://www.tiktok.com/@drewafualo?lang=en" target="_blank"><u>TikTok with more than 8 million followers</u></a>. But something about the space on a page and the necessity of self-evaluation drew her to writing a memoir.</p><p>"I was pretty open and vulnerable considering how I typically am publicly," Afualo tells Mashable ahead of its release on July 30. "That's a big shift for me."</p><div class="mx-auto mt-8 w-full max-w-3xl font-sans text-lg leading-normal md:text-xl md:leading-7">
-        <span class="font-bold text-primary-400">SEE ALSO:</span>
-        <a href="https://mashable.com/article/delaney-rowe-tiktok-cringe-comedy" class="text-secondary-300">
-            Why Delaney Rowe's cringe TikTok videos are so good
-            <svg class="inline-block ml-1 w-4 h-4 font-normal fill-current"><use href="https://mashable.com/images/icons/spritemap.svg#sprite-arrow-right-thin"></use></svg>
-        </a>
-    </div>
-<p>Writing a book wasn't always on her radar, though. In fact, when her team first pitched it, she was pretty uninterested.</p><p>"Initially, I didn't even think I could write a book because I didn't think anything I had said up until that point was worth a book," Afualo says, adding that her manager encouraged her to consider it anyway. She was worried that because she isn't an expert in a scientific field, she didn't have enough to say &mdash; then she decided to lean into a book that's part <a href="https://mashable.com/article/best-self-help-book-advice" target="_self">self-help</a>, part memoir. It felt right to her. "I think it just fits my niche very well."</p><p>In her debut title, <a href="https://zdcs.link/NM2jD?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Loud%3A%20Accept%20Nothing%20Less%20Than%20The%20Life%20You%20Deserve&object_type=article&object_uuid=04lqqzBgiBMq26lt9SbD156&short_url=NM2jD&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank"><em>Loud: Accept Nothing Less Than The Life You Deserve</em></a>, Afualo talks about feminism, racism, family, life online, and more. Afualo sat down (over Zoom) with Mashable to talk about her writing process, her career trajectory, and MySpace.</p><blockquote class="mx-auto instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/C3YMUg4vXA-/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin-top: 1px; margin-bottom:1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
-    <div style="padding:16px;">
-        <a href="https://www.instagram.com/p/C3YMUg4vXA-/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank" title="(opens in a new window)">
-            <div style=" display: flex; flex-direction: row; align-items: center;">
-                <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div>
-                <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;">
-                    <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div>
-                    <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div>
-                </div>
-            </div>
-            <div style="padding: 19% 0;"></div>
-            <div style="display:block; height:50px; margin:0 auto 12px; width:50px;">
-                <svg width="50px" height="50px" viewbox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink">
-                    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                        <g transform="translate(-511.000000, -20.000000)" fill="#000000">
-                            <g>
-                                <path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path>
-                            </g>
-                        </g>
-                    </g>
-                </svg>
-            </div>
-            <div style="padding-top: 8px;">
-                <div class="text-sm" style=" color:#3897f0; font-family:Arial,sans-serif; font-style:normal; font-weight:550; line-height:18px;">
-                    View this post on Instagram
-                </div>
-            </div>
-            <div style="padding: 12.5% 0;"></div>
-            <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;">
-                <div>
-                    <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div>
-                    <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div>
-                    <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div>
-                </div>
-                <div style="margin-left: 8px;">
-                    <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div>
-                    <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div>
-                </div>
-                <div style="margin-left: auto;">
-                    <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div>
-                    <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div>
-                    <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div>
-                </div>
-            </div>
-        </a>
-    </div>
-</blockquote>
-
-<div class="flex flex-col mx-auto mt-8 mb-16 max-w-3xl font-sans md:flex-row">
-    <div class="mx-auto w-64 md:mx-0 md:w-1/3">
-                                                        <a class="block group" href="https://zdcs.link/NM2jD?pageview_type=RSS&template=article&module=shop-card&element=offer&item=image&element_label=image&object_type=article&object_uuid=04lqqzBgiBMq26lt9SbD156&short_url=NM2jD&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank"title="(opens in a new window)" data-ga-action="product_image" data-ga-label="image" data-ga-item="image" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="1" data-ga-click>
-                                                            <img class="mx-auto" src="https://helios-i.mashable.com/imagery/articles/04lqqzBgiBMq26lt9SbD156/images-1.fill.size_173x256.v1722348347.webp" alt="Loud: Accept Nothing Less Than the Life You Deserve" width="173" height="256" loading="lazy">
-
-
-                    
-                    <div class="block relative mx-14 group-hover:visible tooltip">
-                    <span class="absolute invisible p-1 mt-2 text-xs text-center text-white group-hover:visible tooltiptext bg-gray-600/0 group-hover:bg-gray-600/100">
-                        Opens in a new window
-                    </span>
-                    </div>
-                                    </a>
-                                <div class="mt-2 leading-none text-left">
-                                            <span class="pr-5 mt-1 text-xs text-gray-600 subtitle-2">Credit: Drew Afualo</span>
-                                    </div>
-                        </div>
-    <div class="pl-0 mt-3 w-full md:pl-8 md:mt-0 md:w-2/3">
-                                    <a href="https://zdcs.link/NM2jD?pageview_type=RSS&template=article&module=shop-card&element=offer&item=title&element_label=Loud%3A%20Accept%20Nothing%20Less%20Than%20the%20Life%20You%20Deserve%20by%20Drew%20Afualo&object_type=article&object_uuid=04lqqzBgiBMq26lt9SbD156&short_url=NM2jD&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank" class="block mb-5 text-xl font-bold leading-8 text-center md:text-2xl md:text-left hover:underline text-secondary-300" data-ga-action="offer-title" data-ga-item="title" data-ga-element="offer" data-ga-module="shop-card" data-ga-label="Loud: Accept Nothing Less Than the Life You Deserve by Drew Afualo" data-ga-position="1" data-ga-click title="(opens in a new window)">
-                    Loud: Accept Nothing Less Than the Life You Deserve by Drew Afualo
-                </a>
-                                        <div class="flex justify-between items-center py-3 md:py-0 md:space-x-2">
-                <div class="md:w-2/3" style="line-height: 0.75rem">
-                                            <span class="text-sm font-bold">$26.04</span>
-                                                    <span class="text-xs"> at BookShop.org</span>
-                                                <br>
-                                                                                            <span class="text-xs font-bold line-through">$28.00</span>
-                                                                            <span class="text-xs font-bold text-red-400"> Save $1.96</span>
-                                                            </div>
-            </div>
-                                                    <a class="font-bold leading-6 text-center hover:underline" href="https://zdcs.link/NM2jD?pageview_type=RSS&template=article&module=shop-card&element=offer&item=buy-button&element_label=Shop%20Now&object_type=article&object_uuid=04lqqzBgiBMq26lt9SbD156&short_url=NM2jD&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="Shop Now" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="1" data-ga-click title="(opens in a new window)">
-                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide md:w-auto md:text-lg btn btn-secondary">Shop Now</button>
-                </a>
-                        </div>
-</div>
-<h2>Mashable: How do you describe this book to people?</h2><p><strong>Drew Afualo:</strong> Typically, I like to say it's more in the self-help category. I think, more than anything, it's extremely anecdotal, as opposed to many self-help books. I feel like most self-help &mdash; at least the ones I've read &mdash; are very statistical. They're very scientific, which I love. Mine is more life experience. </p><p>I just didn't wanna write exclusively a memoir because I'm only 28, so I felt like I hadn't lived a life long enough yet to warrant that more. But I thought talking about my own lived experience and my journey through unpacking a lot of my internalized biases leans more toward self-help.</p><h2>What do you feel like you can accomplish in a book that you can't on TikTok or on your podcast? Why write this book at all?</h2><p>Part of what I really was looking forward to accomplishing with the book was the fact that on TikTok and on my podcast, I'm also a comedian. I love to make silly jokes. I love to banter; I love entertaining as a whole. My platform has been wonderful in the sense that I've been able to almost put a pill in cheese and give it to my dog. Teach people about misogyny and patriarchy and bigotry as a whole in a way that's digestible and entertaining. And I think that's wonderful. If I'm their first intro to wanting to unpack it and learn more about it, I think that's wonderful. </p><p>Please don't stop at me. For the love of God, please don't stop at me. It goes so much deeper than me. The book is an opportunity for me to expand a lot more in a way that's a lot more erudite and driven by historical facts. It's driven by a lot of things that I feel like you should know.&nbsp;</p><h2>Like what?</h2><p>For example, how&nbsp;<a href="https://mashable.com/article/sofie-hagen-fat-activism-history-becomes-her" target="_self">fatphobia</a>&nbsp;is so grossly intertwined into many different facets of bigotry, but it's also important that we diagnose it and recognize it and, more importantly, break it. That's what I talked about in the book, how I lean more towards body neutrality than body positivity. I think body neutrality just works a lot better for me, personally. I don't want to pull anything from my body other than gratefulness and thankfulness that it works and it keeps me alive.</p><p>The book was an opportunity for me to give [my audience] a lot more information that I can't really be as snappy and entertaining within 45 minutes of my show or in a two-minute TikTok.There is the attention span that you're fighting against when you're making content online. The book was just a way for me to expand a lot more and give people a much more nuanced understanding of why I think the things I do and why I believe the things I do.</p><h2>You start the book with a quote from Nelson Mandela: "If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart." Why did you choose this quote to start it off?</h2><p>I usually say that when speaking to your oppressor, you have to speak in a language they understand. A lot of times, it's violence. And I know for a fact I didn't make that up. I was trying to find who actually said it, and I couldn't. But there are a lot of Nelson Mandela quotes that I love.&nbsp;</p><p>When people fight oppression, it takes many different forms. And a lot of times, the only forms that are ever remembered in hindsight are nice ways or what people perceive to be nice. I really admire Nelson Mandela for many reasons. I thought this quote was perfect because it is exactly what I've been trying to communicate.</p><q>
-    I usually say that when speaking to your oppressor, you have to speak in a language they understand. 
-    </q>
-<h2>You write a lot about feminism, sexism, and misogyny in the book. Did you read anything &mdash; memoir or feminist theory &mdash; in preparation?&nbsp;</h2><p>I have read lots of feminist theories and books prior to having a platform. But when writing my book, I didn't read anything. The reason for that was intentional, and it was because I have a photographic memory, and I also have a sponge for a brain. So I feared that I would absorb things that were not mine and I would write them into my book. And so, to be very careful and cognizant of that, I haven't read anything for the last year and a half while I have been writing this book. That was intentional on purpose because the last thing I would ever want is for any unintentional plagiarism to happen.&nbsp;</p><h2>What books would you recommend to people who read your book and are interested in delving into it more?</h2><p>bell hooks. Roxanne Gay. Jessica Valenti is also wonderful. I spoke with Jessica Valenti in the very early stages of [having] my platform. There are incredible intersectional feminist authors, all of whom are far and away much more of an expert than I ever will be. Bren&eacute; Brown's books truly changed my life after I got fired. Not necessarily in the feminist vein, but more so in the mental health kind of vein, which I think go hand-in-hand in a lot of ways. Over the years, I've read so many wonderful authors that I was like, "Please don't ever think that I'm the one-stop shop for this." I am but a silly internet clown. That is who I am. So if mine is like, an intro, great. Please go read far more talented, far more informed authors other than myself.</p><q>
-     I am but a silly internet clown.
-    </q>
-<h2>Tell me a bit about your writing process.</h2><p>I didn't write anything longhand. I did right before I started writing the book &mdash; I did an <a href="https://www.latimes.com/opinion/story/2022-10-06/tiktok-drew-afualo-misogynists-trolls-social-media-sexism" target="_blank"><u>op-ed for the <em>Los Angeles Times</em></u></a>. And when I initially did the op-ed, I did hand-write it. That kickstarted me actually writing my own book. But it was in pieces. I wrote very out of order.</p><p>My team, my literary agents, and my publishing team were like, "Give me 20 topics that are related to what you talked about online but things that you would like to expand on or have stories from your personal life that drove why you believe what you do and why your convictions are so strong and steadfast."</p><p>From there, we whittled it down. Which ones seemed a little repetitive? Which ones needed their own chapter? Which ones could go inside another chapter? Once we had those topics lined out, my team would tell me, "Give me 3000 words on this," or "Give me 1800 words on this." That's how the writing process went. But before we even started writing, they just listened to me talk for hours. We just recorded so many hours of me talking on Zoom with my team just about my life, from the very beginning until now, and going through all my different life experiences and stories that solidified my beliefs in certain things. And that shaped my perception and my perspective on things. </p><p>After that, it was just writing, writing, writing, editing, writing, writing, writing, editing. It gets very tedious after the initial thing is finished. I feel like my writing process was relatively tame compared to other people's, whose books are probably harder to write.</p><h2>I know that talking online is what you do, but that sounds exhausting.</h2><p>It was a lot. It's honestly quite boring in the sense of like, it's not very interesting to watch happen. You're just sitting and typing for hours. And as far as playlists go, I love listening to music when I write or when I'm reading. I like to listen to music. I like listening to music with lyrics. I know sometimes people don't like listening to music with lyrics because it can be distracting when they read. I personally like it. I just have a very tame flow in my playlist. So they're very soft songs. They're very melodic. They're very soothing. That's the kind of music I like to listen to when I write.</p><h2>You write about the relationship between gender and race in Loud. We know that gender is a racial construct. How has being Samoan shaped the lens that you use to criticize the patriarchy?</h2><p>In multiple ways. The first one that I talk about a lot is that Samoan culture at its genesis, prior to being colonized, was matriarchal and is still very matriarchal in a lot of ways. Obviously, we are not immune to the effects of white supremacy and colonialism after it's already happened to us. So, in modern times, we struggle with things that many other ethnicities struggle with: white supremacy, misogyny, homophobia, and transphobia. But prior to being colonized, that was not the case for my people. </p><p>I was raised in a home where women are equals, men and women do the same things, and we have the same responsibilities, and it's a culture rooted in service. It's giving with no expectation of anything in return, and it's serving whether it's the lord or your elders. That's just where Samoan culture thrives; that's the very beating heart of it. That's how I was raised. That played a huge role in how I viewed respect and being treated like an equal. </p><q>
-    It's very rare that I get attacked by a misogynist that is not also racist. It's a real hat on a hat, you know?
-    </q>
-<p>I think another one is that Samoan people are genetically larger, whether that's taller, bigger, fatter, or whatever you want to call it. So, having grown up around a very different kind of body type that was desired both in men and women and anyone else who didn't adhere to a gender binary, that also plays a huge role because fatphobia is rooted in white supremacy and Eurocentric beauty standards. And so what's beautiful in my culture, what's desirable in my culture, is not what your beauty standards are.</p><p>Those are two huge things in my Samoan culture that have really informed my view on patriarchy and how white supremacy, misogyny, racism, homophobia, and transphobia are all so closely intertwined. It's very rare that I get attacked by a misogynist that is not also racist. It's a real hat on a hat, you know?</p><h2>You're posting constantly, you've got a podcast, and you wrote this book, all while being constantly affronted by sexist, racist men. How do you not just quit?</h2><p>I'm stubborn. If anything is gonna make me quit, it is never gonna be a man.</p><p>Maybe that's just me being petty until the end. But I think more than anything, and I've gone over in explicit detail in the book, I've done a lot of work to unpack and let go of a lot of my internalized biases and prejudice, both towards myself and others. So because I've done so much unpacking prior to doing this for a living, it's done nothing but serve me. Letting go of male validation, specifically, almost makes me immune to having to hear that all the time. I do get an unbelievable amount of vitriol every single day of every single month of every single year. For the last three years, I've gotten some very violent hate consistently on all my platforms.</p><q>
-    If anything is gonna make me quit, it is never gonna be a man, I'll tell you that much.
-    </q>
-<p>So, I think unpacking all of that and letting go of male validation specifically doesn't hurt me. I don't draw any sort of strength or power from men who don't know me telling me that they're attracted to me. That makes me angry. That doesn't fire me up; it truly triggers my prey drive to the point where I get angry and violent. I seek and want nothing from them, so their hate means nothing to me.</p><h2>Have the platforms done anything to protect you from that vitriol?&nbsp;</h2><p>I am lucky enough now that my platform is large enough that I have wonderful people who can help if things get out of hand on the different platforms. They are very aware of my niche and the kind of hate I get. They do everything they can to help me, and I'm very appreciative of that.&nbsp;</p><p>Unfortunately, that aspect of hate is something you just get used to with time. Even if I was the most PG, amazing, superficial creator ever, I would still get hate. It's unfortunately a reality of being an online person. That part I've just gotten used to, but I do have wonderful people who help me if something gets crazy.</p><h2>Did you learn anything about yourself while you were writing this book?</h2><p>I learned that I struggled a lot more with being vulnerable than I thought I would. I think because I've been an online person for so long now, I feel like I've shared so much of myself &mdash; which I have, to an extent. But then I realized in writing the book that there were many parts of myself I hadn't really shared. I've shared that I can be mean. People got that part; they're up to speed on that. But being vulnerable and very open and honest about certain life experiences, like my sister's coming-out story and my thoughts on kids, those kinds of experiences that I detail in the book, were very hard for me.</p><p>But I have a wonderful team who gently, gently pushed me. They always assured me, "You don't have to share anything that you don't feel comfortable sharing, but if you give me a little bit more, if you really want to take me there, take me there." We struck a wonderful balance, but I did learn that I struggled with the vulnerability part, which was a little shocking for me.&nbsp;</p><h2>We've got TikTok, we have a podcast, we have a book. What's next?</h2><p>Sleeping. [I] haven't done that in a while. I would say going on my book tour, which is very exciting. And definitely going to do more standup, which is also very exciting. I've only done a little baby five, but I'm definitely getting into that. Hopefully, more stuff in the TV and movie area. The sky's the limit. I'm gonna bleed into every platform and we're never gonna stop hearing about me.</p><h2>What do you remember as the first place you spent a lot of time online? Was it Neopets or Club Penguin?</h2><p>I loved computer games when I was a kid. My sister and I liked <a href="https://myscene.fandom.com/wiki/My_Scene_(Website)" target="_blank"><u>My Scene</u></a>. We loved <a href="https://www.stardoll.com/en/" target="_blank"><u>Star Doll</u></a>. As far as social media, the first social media I ever had was MySpace. I loved MySpace. I was so into MySpace.</p><h2>Were you mean to men on MySpace?</h2><p>Honestly, no. I thought I was just the coolest alive on MySpace. I don't know why. Even though I was just copying everything my sister was doing when she learned how to code HTML.</p><p><a href="https://zdcs.link/NM2jD?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Loud%3A%20Accept%20Nothing%20Less%20Than%20the%20Life%20You%20Deserve%20by%20Drew%20Afualo%20is%20out%20now%20via%20Auwa.&object_type=article&object_uuid=04lqqzBgiBMq26lt9SbD156&short_url=NM2jD&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank"><em>Loud: Accept Nothing Less Than the Life You Deserve</em> by Drew Afualo is out now via Auwa.</a></p><p><em>This interview has been edited for clarity.</em></p>]]></content:encoded>
-    </item>
-    <item>
-      <title><![CDATA[Spend $50 on school supplies at Amazon and save $10]]></title>
-      <link>https://mashable.com/article/july-30-school-supplies-deal</link>
-      <guid isPermaLink="false">07JSfLm8lYXwGa1lSZT9V5a</guid>
-      <pubDate>Tue, 30 Jul 2024 17:04:25 +0000</pubDate>
-      <description><![CDATA[As of July 30, spend $50 on select school supplies and save $10.]]></description>
-      <content:encoded><![CDATA[<img src="https://helios-i.mashable.com/imagery/articles/07JSfLm8lYXwGa1lSZT9V5a/hero-image.jpg" alt="a display of back to school items including ziploc bags, disinfecting wipes, pens, and glue sticks"><p><strong>SAVE $10: </strong>Spend $50 or more on <a href="https://zdcs.link/pgn1R?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=select%20back-to-school%20items%20at%20Amazon&object_type=article&object_uuid=07JSfLm8lYXwGa1lSZT9V5a&short_url=pgn1R&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">select back-to-school items at Amazon</a> and automatically save $10. </p><hr><div class="flex flex-col mx-auto mt-8 mb-16 max-w-3xl font-sans md:flex-row">
-    <div class="mx-auto w-64 md:mx-0 md:w-1/3">
-                                                        <a class="block group" href="https://zdcs.link/pgn1R?pageview_type=RSS&template=article&module=shop-card&element=offer&item=image&element_label=image&object_type=article&object_uuid=07JSfLm8lYXwGa1lSZT9V5a&short_url=pgn1R&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank"title="(opens in a new window)" data-ga-action="product_image" data-ga-label="image" data-ga-item="image" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="1" data-ga-click>
-                                                            <img class="w-full" src="https://helios-i.mashable.com/imagery/articles/07JSfLm8lYXwGa1lSZT9V5a/images-1.fill.size_256x107.v1722354848.jpg" alt="the amazon logo" width="256" height="107" loading="lazy">
-
-
-                    
-                    <div class="block relative mx-14 group-hover:visible tooltip">
-                    <span class="absolute invisible p-1 mt-2 text-xs text-center text-white group-hover:visible tooltiptext bg-gray-600/0 group-hover:bg-gray-600/100">
-                        Opens in a new window
-                    </span>
-                    </div>
-                                    </a>
-                                <div class="mt-2 leading-none text-left">
-                                            <span class="pr-5 mt-1 text-xs text-gray-600 subtitle-2">Credit: Amazon</span>
-                                    </div>
-                        </div>
-    <div class="pl-0 mt-3 w-full md:pl-8 md:mt-0 md:w-2/3">
-                                    <a href="https://zdcs.link/pgn1R?pageview_type=RSS&template=article&module=shop-card&element=offer&item=title&element_label=Spend%20%2450%20and%20save%20%2410&object_type=article&object_uuid=07JSfLm8lYXwGa1lSZT9V5a&short_url=pgn1R&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank" class="block mb-5 text-xl font-bold leading-8 text-center md:text-2xl md:text-left hover:underline text-secondary-300" data-ga-action="offer-title" data-ga-item="title" data-ga-element="offer" data-ga-module="shop-card" data-ga-label="Spend $50 and save $10" data-ga-position="1" data-ga-click title="(opens in a new window)">
-                    Spend $50 and save $10
-                </a>
-                                        <div class="flex justify-between items-center py-3 md:py-0 md:space-x-2">
-                <div class="md:w-2/3" style="line-height: 0.75rem">
-                                                        </div>
-            </div>
-                                                    <a class="font-bold leading-6 text-center hover:underline" href="https://zdcs.link/pgn1R?pageview_type=RSS&template=article&module=shop-card&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=07JSfLm8lYXwGa1lSZT9V5a&short_url=pgn1R&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="Get Deal" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="1" data-ga-click title="(opens in a new window)">
-                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide md:w-auto md:text-lg btn btn-secondary">Get Deal</button>
-                </a>
-                        </div>
-</div>
-<p>Ready or not, it's back-to-school time. You might be lucky and have your first classes on the calendar for September, but for some kids, the school year will start in just a few weeks. If you're shopping for your kids' supplies to head back to school or stocking up on college essentials, you'll want to listen up to this deal.</p><p>As of July 30, Amazon is offering a $10 discount when you spend $50 or more on <a href="https://zdcs.link/pgn1R?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=eligible%20back-to-school%20items&object_type=article&object_uuid=07JSfLm8lYXwGa1lSZT9V5a&short_url=pgn1R&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">eligible back-to-school items</a>. The discount will automatically appear during checkout, so you don't need to enter a code to save.</p><div class="flex flex-col mx-auto mt-6 mb-16 max-w-3xl font-sans md:mt-10 md:border-b-2 md:border-gray-100">
-    <div class="mb-1 text-xl font-bold">
-        Eligible back-to-school supplies at Amazon
-    </div>
-            <hr class="border border-gray-100 mx-auto !mt-0 !max-w-full">
-        <div class="py-6 md:flex md:justify-between md:items-stretch">
-            <div class="flex md:w-3/4">
-                <div class="pr-3 w-full md:order-2 md:ml-4 md:ml-8 md:w-3/4">
-                    <div class="text-sm font-bold uppercase">
-                        Best pens deal
-                    </div>
-                    <div class="mt-1 text-sm">
-                        <a data-ga-click data-ga-module="product-summary-list" data-ga-element="offer" data-ga-item="buy-link" class="mb-5 text-lg font-bold leading-tight hover:underline text-secondary-300" href="https://zdcs.link/OdOND?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-link&element_label=Paper%20Mate%20Colorful%20Gel%20Pens%20%2814%20count%29&object_type=article&object_uuid=07JSfLm8lYXwGa1lSZT9V5a&short_url=OdOND&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" rel="sponsored" title="(opens in a new window)">
-                            Paper Mate Colorful Gel Pens (14 count)
-                        </a>
-                        <div class="mt-1">
-                            <span class="font-bold md:text-base text-primary-400">$13.39 at Amazon </span>
-                                                            <span class="text-primary-400">(save $18.60)</span>
-                                                    </div>
-                    </div>
-                </div>
-                <div class="my-auto w-1/4 md:order-1 md:w-1/5 md:max-h-36">
-                    <img class="my-auto mx-auto max-h-full" src="https://helios-i.mashable.com/imagery/articles/07JSfLm8lYXwGa1lSZT9V5a/images-2.fit_lim.size_135x133.v1722354848.jpg" alt="papermate pens on a white background" width="135" height="133" loading="lazy">
-
-
-                </div>
-            </div>
-            <div class="mt-6 mb-2 w-full md:my-auto md:w-1/4">
-                <a class="w-full font-bold leading-6 text-center whitespace-nowrap hover:underline" href="https://zdcs.link/OdOND?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=07JSfLm8lYXwGa1lSZT9V5a&short_url=OdOND&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="$text" data-ga-element="offer" data-ga-module="product-summary-list" data-ga-click rel="sponsored" title="(opens in a new window)">
-                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide overflow-ellipsis line-clamp-1 btn btn-secondary">
-                        Get Deal
-                    </button>
-                </a>
-            </div>
-        </div>
-            <hr class="border border-gray-100 mx-auto !mt-0 !max-w-full">
-        <div class="py-6 md:flex md:justify-between md:items-stretch">
-            <div class="flex md:w-3/4">
-                <div class="pr-3 w-full md:order-2 md:ml-4 md:ml-8 md:w-3/4">
-                    <div class="text-sm font-bold uppercase">
-                        Best school supplies deal
-                    </div>
-                    <div class="mt-1 text-sm">
-                        <a data-ga-click data-ga-module="product-summary-list" data-ga-element="offer" data-ga-item="buy-link" class="mb-5 text-lg font-bold leading-tight hover:underline text-secondary-300" href="https://zdcs.link/4A0VD?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-link&element_label=Elmer%27s%20Disappearing%20Purple%20Glue%20Sticks%20%2812%20count%29&object_type=article&object_uuid=07JSfLm8lYXwGa1lSZT9V5a&short_url=4A0VD&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" rel="sponsored" title="(opens in a new window)">
-                            Elmer's Disappearing Purple Glue Sticks (12 count)
-                        </a>
-                        <div class="mt-1">
-                            <span class="font-bold md:text-base text-primary-400">$4.47 at Amazon</span>
-                                                            <span class="text-primary-400">(save $8.12)</span>
-                                                    </div>
-                    </div>
-                </div>
-                <div class="my-auto w-1/4 md:order-1 md:w-1/5 md:max-h-36">
-                    <img class="my-auto mx-auto max-h-full" src="https://helios-i.mashable.com/imagery/articles/07JSfLm8lYXwGa1lSZT9V5a/images-3.fit_lim.size_133x133.v1722354848.jpg" alt="a pack of 12 glue sticks" width="133" height="133" loading="lazy">
-
-
-                </div>
-            </div>
-            <div class="mt-6 mb-2 w-full md:my-auto md:w-1/4">
-                <a class="w-full font-bold leading-6 text-center whitespace-nowrap hover:underline" href="https://zdcs.link/4A0VD?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=07JSfLm8lYXwGa1lSZT9V5a&short_url=4A0VD&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="$text" data-ga-element="offer" data-ga-module="product-summary-list" data-ga-click rel="sponsored" title="(opens in a new window)">
-                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide overflow-ellipsis line-clamp-1 btn btn-secondary">
-                        Get Deal
-                    </button>
-                </a>
-            </div>
-        </div>
-            <hr class="border border-gray-100 mx-auto !mt-0 !max-w-full">
-        <div class="py-6 md:flex md:justify-between md:items-stretch">
-            <div class="flex md:w-3/4">
-                <div class="pr-3 w-full md:order-2 md:ml-4 md:ml-8 md:w-3/4">
-                    <div class="text-sm font-bold uppercase">
-                        Best lunch-packing deal
-                    </div>
-                    <div class="mt-1 text-sm">
-                        <a data-ga-click data-ga-module="product-summary-list" data-ga-element="offer" data-ga-item="buy-link" class="mb-5 text-lg font-bold leading-tight hover:underline text-secondary-300" href="https://zdcs.link/oe21Y?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-link&element_label=Ziploc%20sandwich%20bags%20%28280%20count%29&object_type=article&object_uuid=07JSfLm8lYXwGa1lSZT9V5a&short_url=oe21Y&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" rel="sponsored" title="(opens in a new window)">
-                            Ziploc sandwich bags (280 count)
-                        </a>
-                        <div class="mt-1">
-                            <span class="font-bold md:text-base text-primary-400">$9.77 at Amazon</span>
-                                                            <span class="text-primary-400">(save $2.71)</span>
-                                                    </div>
-                    </div>
-                </div>
-                <div class="my-auto w-1/4 md:order-1 md:w-1/5 md:max-h-36">
-                    <img class="my-auto mx-auto max-h-full" src="https://helios-i.mashable.com/imagery/articles/07JSfLm8lYXwGa1lSZT9V5a/images-4.fit_lim.size_136x133.v1722354848.png" alt="a box of ziploc bags with a sandwich in front of it" width="136" height="133" loading="lazy">
-
-
-                </div>
-            </div>
-            <div class="mt-6 mb-2 w-full md:my-auto md:w-1/4">
-                <a class="w-full font-bold leading-6 text-center whitespace-nowrap hover:underline" href="https://zdcs.link/oe21Y?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=07JSfLm8lYXwGa1lSZT9V5a&short_url=oe21Y&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="$text" data-ga-element="offer" data-ga-module="product-summary-list" data-ga-click rel="sponsored" title="(opens in a new window)">
-                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide overflow-ellipsis line-clamp-1 btn btn-secondary">
-                        Get Deal
-                    </button>
-                </a>
-            </div>
-        </div>
-            <hr class="border border-gray-100 mx-auto !mt-0 !max-w-full">
-        <div class="py-6 md:flex md:justify-between md:items-stretch">
-            <div class="flex md:w-3/4">
-                <div class="pr-3 w-full md:order-2 md:ml-4 md:ml-8 md:w-3/4">
-                    <div class="text-sm font-bold uppercase">
-                        Best home cleaning deal
-                    </div>
-                    <div class="mt-1 text-sm">
-                        <a data-ga-click data-ga-module="product-summary-list" data-ga-element="offer" data-ga-item="buy-link" class="mb-5 text-lg font-bold leading-tight hover:underline text-secondary-300" href="https://zdcs.link/mV7B6?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-link&element_label=Clorox%20Disinfecting%20Wipes%20Value%20Pack%20%282-pack%29&object_type=article&object_uuid=07JSfLm8lYXwGa1lSZT9V5a&short_url=mV7B6&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" rel="sponsored" title="(opens in a new window)">
-                            Clorox Disinfecting Wipes Value Pack (2-pack)
-                        </a>
-                        <div class="mt-1">
-                            <span class="font-bold md:text-base text-primary-400">$9.68 at Amazon</span>
-                                                            <span class="text-primary-400">(save $1.81)</span>
-                                                    </div>
-                    </div>
-                </div>
-                <div class="my-auto w-1/4 md:order-1 md:w-1/5 md:max-h-36">
-                    <img class="my-auto mx-auto max-h-full" src="https://helios-i.mashable.com/imagery/articles/07JSfLm8lYXwGa1lSZT9V5a/images-5.fit_lim.size_131x133.v1722354848.png" alt="a pack of two clorox disinfecting wipes" width="131" height="133" loading="lazy">
-
-
-                </div>
-            </div>
-            <div class="mt-6 mb-2 w-full md:my-auto md:w-1/4">
-                <a class="w-full font-bold leading-6 text-center whitespace-nowrap hover:underline" href="https://zdcs.link/mV7B6?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=07JSfLm8lYXwGa1lSZT9V5a&short_url=mV7B6&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="$text" data-ga-element="offer" data-ga-module="product-summary-list" data-ga-click rel="sponsored" title="(opens in a new window)">
-                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide overflow-ellipsis line-clamp-1 btn btn-secondary">
-                        Get Deal
-                    </button>
-                </a>
-            </div>
-        </div>
-    </div>
-<p>Back to school can be a super exciting time, but it can also come with the financial burden of needing fresh supplies. But thanks to today's deal at Amazon, you'll be able to save $10 when you spend $50 or more on some essentials. </p><p>We listed some of our favorite deals above, but you can also score savings on other back-to-school essentials like pencils, index cards, Post-it sticky notes, and spiral notebooks. This means the sale could also be a great time to stock up on office supplies or to replenish your work-from-home stockpile. </p><p>But the deal extends to more than just classroom-worthy supplies. You can also grab some household essentials like Kleenex tissues, trash bags, and cleaning supplies.</p><p>If you're a teacher, you'll also find this Amazon back-to-school sale full of educational classroom decor.</p><p>Browse the <a href="https://zdcs.link/pgn1R?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=full%20list%20of%20eligible%20sale%20items%20at%20Amazon&object_type=article&object_uuid=07JSfLm8lYXwGa1lSZT9V5a&short_url=pgn1R&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank">full list of eligible sale items at Amazon</a> and save $10 when you spend $50 or more. You'll be back-to-school ready for less thanks to today's deal.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
