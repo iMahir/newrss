@@ -6,7 +6,7 @@
 	<title type="text">Vox</title>
 	<subtitle type="text"></subtitle>
 
-	<updated>2024-08-02T20:41:43Z</updated>
+	<updated>2024-08-02T21:08:34Z</updated>
 
 	<link rel="alternate" type="text/html" href="https://www.vox.com" />
 	<id>https://www.vox.com/rss/index.xml</id>
@@ -16,13 +16,93 @@
 		<entry>
 			
 			<author>
+				<name>Ellen Ioanes</name>
+			</author>
+			
+			<title type="html"><![CDATA[Intel was once a Silicon Valley leader. How did it fall so far?]]></title>
+			<link rel="alternate" type="text/html" href="https://www.vox.com/technology/364745/intel-nvidia-ai-silicon-valley-layoffs-stock-semiconductor" />
+			<id>https://www.vox.com/?p=364745</id>
+			<updated>2024-08-02T21:08:34Z</updated>
+			<published>2024-08-02T21:10:25Z</published>
+			<category scheme="https://www.vox.com" term="Artificial Intelligence" /><category scheme="https://www.vox.com" term="Business &amp; Finance" /><category scheme="https://www.vox.com" term="Explainers" /><category scheme="https://www.vox.com" term="Innovation" /><category scheme="https://www.vox.com" term="Living in an AI world" /><category scheme="https://www.vox.com" term="Money" /><category scheme="https://www.vox.com" term="Stock market" /><category scheme="https://www.vox.com" term="Tech policy" /><category scheme="https://www.vox.com" term="Technology" />
+							<summary type="html"><![CDATA[Intel stock is tumbling amid news that the company will lay off 15 percent of its staff after a steep decline in revenue and billions in losses in its chip foundry business.  It’s the largest drop for the company in half a century; at Friday’s closing bell, shares were trading at $21.48 — a price [&#8230;]]]></summary>
+			
+							<content type="html">
+											<![CDATA[
+
+						
+<figure>
+
+<img alt="" data-caption="Visitors visit the booth of Intel at the 2023 Apsara Conference in Hangzhou, East China’s Zhejiang province, November 1, 2023. | CFOTO/Future Publishing via Getty Images&lt;br&gt;" data-portal-copyright="CFOTO/Future Publishing via Getty Images&lt;br&gt;" data-has-syndication-rights="1" src="https://platform.vox.com/wp-content/uploads/sites/2/2024/08/gettyimages-2164265333_3ae2ae.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption>Visitors visit the booth of Intel at the 2023 Apsara Conference in Hangzhou, East China’s Zhejiang province, November 1, 2023. | CFOTO/Future Publishing via Getty Images&lt;br&gt;</figcaption>
+</figure>
+<p class="has-text-align-none">Intel stock is tumbling amid news that the company will lay off 15 percent of its staff after a steep decline in revenue and <a href="https://www.reuters.com/technology/intel-discloses-financials-foundry-business-2024-04-02/">billions in losses in its chip foundry business</a>. </p>
+
+<p class="has-text-align-none">It’s the <a href="https://www.cnbc.com/2024/08/02/intel-share-plunge-drags-down-global-chip-stocks-from-tsmc-to-samsung.html">largest drop for the company in half a century</a>; at Friday’s closing bell, shares were trading at $21.48 — a price not seen since 2013.</p>
+
+<p class="has-text-align-none">The company is scrambling to shore up reserves by introducing layoffs and suspending stock dividends. But even those moves may not be enough to return the veteran tech company to its once-vaunted spot as an industry leader, especially in the face of heavy competition, particularly from <a href="https://www.vox.com/business-and-finance/357250/nvidia-stock-shareholder-ai-investor-market-capitalization-bubble">rival chipmaker Nvidia</a>.</p>
+
+<p class="has-text-align-none">Intel’s bad week really is more of a bad quarter: It started back in April, when <a href="https://www.reuters.com/technology/intel-discloses-financials-foundry-business-2024-04-02/">the company revealed during an investor presentation</a> that its chip manufacturing unit had, through a series of poor decisions, sustained $7 billion in losses in 2023, on top of a 31 percent decrease in revenue from 2022. Cost-cutting and other measures will save the company $10 billion in 2025, <a href="https://www.intel.com/content/www/us/en/newsroom/news/actions-accelerate-our-progress.html#gs.cgovp0">according to CEO Pat Gelsinger</a>.</p>
+
+<p class="has-text-align-none">Semiconductor technology — which is crucial to everything from our phones to operating airplanes — was the foundation of Intel’s business when the company started in the 1960s. (Co-founder Gordon Moore was responsible for Moore’s Law, which theorized that semiconductor power would grow exponentially smaller, more powerful, and less expensive over time.) But as the company’s recent announcements indicate, Intel is no longer the innovative leader it once was. </p>
+
+<p class="has-text-align-none">There are also concerns about the global semiconductor industry — shares of other major chip companies like Taiwan Semiconductor Manufacturing Company (TSMC) and Samsung were down at closing on Friday, too, and <a href="https://www.theinformation.com/articles/nvidia-faces-doj-antitrust-probe-over-complaints-from-rivals">industry leader Nvidia is reportedly facing an antitrust investigation by the Department of Justice</a>. But Intel is in a particularly difficult position.</p>
+
+<h2 class="wp-block-heading"><strong>How did things get so bad for Intel?</strong></h2>
+
+<p class="has-text-align-none">This is not the first time the company has had to implement cost-cutting measures — Intel did <a href="https://www.bloomberg.com/news/articles/2022-10-27/intel-cuts-sales-forecasts-pledges-further-cost-reductions?sref=qYiz2hd0">mass layoffs</a> back in October 2022, after a brief, Covid-powered bump in the company’s fortunes.</p>
+
+<p class="has-text-align-none">“In February ’22, they put out revenue targets that — I mean, I use the phrase outlandish, they were ridiculously high,” <a href="https://www.semi.org/en/connect/events/industry-strategy-symposium-iss-2024-speaker-abstract-bio-stacy-rasgon">Stacy Rasgon</a>, senior analyst at Bernstein Research, told Vox. “They were sizing the company and sizing the investments to that COVID level of revenue,” based on the need for technology that allowed people to work from home or for kids to attend school remotely — a business that collapsed nearly as quickly as it arose.</p>
+
+<p class="has-text-align-none">But the current CEO, Pat Gelsinger, inherited a business that was coming off a decade of stumbles when he started in 2021. “He came into a situation that they were dire straits; they had no competitive product to really bring to market,” while Jensen Huang’s Nvidia dominated the curve on AI tech, Daniel Newman, CEO of the Futurum Group, told Vox.</p>
+
+<p class="has-text-align-none">Intel’s <a href="https://www.hpcwire.com/2021/03/24/intel-invests-10b-in-new-foundry-business/">other recent big bet</a> <a href="https://www.reuters.com/technology/intel-discloses-financials-foundry-business-2024-04-02/">has been its foundry business</a> — <a href="https://www.intel.com/content/www/us/en/support/articles/000089875/programs/intel-corporation.html">three facilities in the US and three overseas to manufacture semiconductor chips</a>, with other facilities in Asia and Latin America for testing and assembly. But that’s gotten a bumpy start; for instance, Intel declined to invest in cost-effective extreme ultraviolet machines for its manufacturing facilities, then had to outsource 30 percent of the manufacturing to a rival company, TSMC.</p>
+
+<h2 class="wp-block-heading"><strong>Intel is no longer ahead of the technological pack</strong></h2>
+
+<p class="has-text-align-none">“Historically, Intel has been the company that was pushing the leading edge,” Newman said. But in the lead-up to Gelsinger’s tenure, the company “missed the AI transition,” he said —&nbsp;and companies like Nvidia, AMD, and TSMC, which are manufacturing semiconductor chips that can be used to accelerate AI technology, filled the market.&nbsp;</p>
+
+<p class="has-text-align-none">Nvidia, in particular, has become a dominant force. <a href="https://www.vox.com/business-and-finance/357250/nvidia-stock-shareholder-ai-investor-market-capitalization-bubble">As my colleague Nicole Narea explained</a>, some of the technical capabilities of its earlier work in graphics cards for gaming translated well to the needs of generative AI. Starting in 2018, well before ChatGPT came on the scene, the company bet big on that possibility:</p>
+
+<blockquote class="wp-block-quote has-text-align-none is-layout-flow wp-block-quote-is-layout-flow">
+<p class="has-text-align-none">The company structured its research and development and mergers and acquisitions strategies to benefit from a coming AI boom.</p>
+
+
+
+<p class="has-text-align-none">“They were playing the game when nobody else was,” Newman said.</p>
+</blockquote>
+
+<p class="has-text-align-none">Intel is now trying to catch up with <a href="https://www.intel.com/content/www/us/en/products/details/processors/ai-accelerators/gaudi-overview.html">its Gaudi technology</a>, but in the meantime, companies that used to use Intel products are shifting away from the company. Apple, for instance, switched from Intel processors to manufacturing their own processors in 2020 and <a href="https://www.businessinsider.com/apple-appears-to-have-shunned-nvidia-chips-for-google-ai-2024-7">reportedly relied on Google to build Apple Intelligence</a> —&nbsp;Intel wasn’t even in the running.</p>
+
+<p class="has-text-align-none">Intel will survive (for now), on the money saved from the layoffs and dividend pause. Government subsidies from the CHIPs Act, and investments from hedge funds like Brookstone and Apollo, which have bought into the foundry business, will also help.&nbsp;</p>
+
+<p class="has-text-align-none">“I think they are a critical infrastructure company to the US and to the world,” Newman said. But getting back on track will depend on making sure the foundry business becomes profitable.&nbsp;</p>
+
+<p class="has-text-align-none">“Even if they’re number two, or number three behind Samsung, we still need it — this demand for AI change, nobody can go fast enough,” Newman told Vox.</p>
+
+<p class="has-text-align-none">But even if Intel can slot itself into that number two or three spot, there’s still the question of AI’s place in the tech sector and society —&nbsp;whether it needs to be more tightly regulated, or if it’s getting overhyped.</p>
+
+<p class="has-text-align-none">“In general for AI, people are just nervous that the numbers have gotten so big, so quickly, you just worry about sustainability,” Rasgon said. </p>
+
+<p class="has-text-align-none">For now, the silver lining of Intel’s current situation is that there’s nowhere to go but up.</p>
+
+<blockquote class="wp-block-quote has-text-align-none is-layout-flow wp-block-quote-is-layout-flow">
+<p class="has-text-align-none"></p>
+</blockquote>
+						]]>
+									</content>
+			
+					</entry>
+			<entry>
+			
+			<author>
 				<name>Haleema Shah</name>
 			</author>
 			
 			<title type="html"><![CDATA[MDMA is on the brink of becoming medicine]]></title>
 			<link rel="alternate" type="text/html" href="https://www.vox.com/today-explained-podcast/363903/mdma-medicine-ptsd-fda" />
 			<id>https://www.vox.com/?p=363903</id>
-			<updated>2024-08-02T20:41:43Z</updated>
+			<updated>2024-08-02T20:57:50Z</updated>
 			<published>2024-08-02T20:40:00Z</published>
 			<category scheme="https://www.vox.com" term="Podcasts" /><category scheme="https://www.vox.com" term="Today, Explained podcast" />
 							<summary type="html"><![CDATA[2024 was supposed to be the year MDMA, perhaps better known as “ecstasy” or “molly,” got its big break.&#160; Until this summer, it was on track to rise out of the underground and into mainstream mental health care. Amid a lack of novel treatments for PTSD and staggering rates of veteran suicide, results from late-stage [&#8230;]]]></summary>
@@ -44,9 +124,11 @@
 
 <p class="has-text-align-none">In a three-part series, <em><a href="https://www.vox.com/today-explained-podcast" data-type="link" data-id="https://www.vox.com/today-explained-podcast">Today, Explained</a></em>’s Haleema Shah reports on the promise and precarity of MDMA. Starting with the rogue chemist and therapists in the 1980s who believed it could change psychotherapy, the series traces the decades-long effort to make a dance-floor drug medicinal, journeying through the war on drugs, the rave era, and the psychedelic renaissance to explain how a once-maligned drug became an emblem of healing — and how, no matter what the FDA decides, therapy will never be the same.</p>
 
-<p class="has-text-align-none">Listen to the first episode below or wherever you find podcasts. The second and third episodes of the series are scheduled to publish on Friday, August 2, and Thursday, August 8.</p>
+<p class="has-text-align-none">Listen to the first two episodes below or wherever you find podcasts. The final episode of the series will be published Thursday, August 8.</p>
 
 <iframe frameborder="0" height="200" src="https://playlist.megaphone.fm/?e=VMP5927100160" width="100%"></iframe>
+
+<iframe frameborder="0" height="200" src="https://playlist.megaphone.fm/?e=VMP7485344437" width="100%"></iframe>
 						]]>
 									</content>
 			
@@ -791,106 +873,6 @@
 <p class="has-text-align-none">The No Kings Act, in other words, represents a significant escalation in the fight between elected Democrats and unelected Republicans on the Supreme Court. And, if those unelected Republicans do not yield, Congress has plenty of tools it can use to escalate further.</p>
 
 <p class="has-text-align-none"><strong><em>Correction, 8 pm ET: </em></strong><em>This piece previously misstated where a trial of a former president would take place under the No Kings Act.</em></p>
-						]]>
-									</content>
-			
-					</entry>
-			<entry>
-			
-			<author>
-				<name>Eric Levitz</name>
-			</author>
-			
-			<title type="html"><![CDATA[The Trump-Vance campaign would be great if not for Trump and Vance]]></title>
-			<link rel="alternate" type="text/html" href="https://www.vox.com/politics/364369/trump-kamala-not-black-indian-vance-childless-cat-ladies" />
-			<id>https://www.vox.com/?p=364369</id>
-			<updated>2024-08-02T16:30:46Z</updated>
-			<published>2024-08-01T21:20:00Z</published>
-			<category scheme="https://www.vox.com" term="2024 Elections" /><category scheme="https://www.vox.com" term="Donald Trump" /><category scheme="https://www.vox.com" term="Kamala Harris" /><category scheme="https://www.vox.com" term="Politics" />
-							<summary type="html"><![CDATA[Like so many wares branded with Donald Trump’s name, his 2024 campaign is a shoddy product in glossy packaging.&#160; Trump-Vance 2024 has benefited from savvy marketing. This time around, Trump has enlisted the aid of two of the Republican Party’s premier operatives: Susie Wiles, who masterminded the GOP’s conquest of Florida, and Chris LaCivita, who [&#8230;]]]></summary>
-			
-							<content type="html">
-											<![CDATA[
-
-						
-<figure>
-
-<img alt="" data-caption="Donald Trump greets J.D. Vance as they attend their first campaign rally together at Van Andel Arena in Grand Rapids, Michigan, on July 20, 2024. | Jim Watson/AFP via Getty Images" data-portal-copyright="Jim Watson/AFP via Getty Images" data-has-syndication-rights="1" src="https://platform.vox.com/wp-content/uploads/sites/2/2024/08/gettyimages-2162204589.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
-	<figcaption>Donald Trump greets J.D. Vance as they attend their first campaign rally together at Van Andel Arena in Grand Rapids, Michigan, on July 20, 2024. | Jim Watson/AFP via Getty Images</figcaption>
-</figure>
-<p class="has-text-align-none">Like so <a href="https://www.rollingstone.com/politics/politics-news/donald-trumps-13-biggest-business-failures-59556/">many wares</a> branded with Donald Trump’s name, his 2024 campaign is a shoddy product in glossy packaging.&nbsp;</p>
-
-<p class="has-text-align-none">Trump-Vance 2024 has benefited from savvy marketing. This time around, Trump has enlisted the aid of two of the Republican Party’s <a href="https://www.theatlantic.com/politics/archive/2024/07/trump-campain-election-2024-susie-wiles-chris-lacivita/678806/">premier operatives</a>: Susie Wiles, who masterminded the GOP’s conquest of Florida, and Chris LaCivita, who introduced “<a href="https://en.wikipedia.org/wiki/Swiftboating#:~:text=The%20term%20swiftboating%20(also%20swift,unfair%20or%20untrue%20political%20attack.">swiftboating</a>” into the American vernacular. And the professionalism and ruthless pragmatism of Trump’s new state managers has made itself felt.&nbsp;</p>
-
-<p class="has-text-align-none">At the Trump campaign’s direction, the GOP removed calls for banning abortion federally or opposing same-sex marriage from its <a href="https://www.nbcnews.com/politics/2024-election/trump-pushes-new-gop-platform-softening-partys-positions-abortion-sex-rcna160730">platform</a>, while adding a pledge to sustain Medicare and Social Security’s existing benefit levels and retirement ages. All these changes brought Republicans into <a href="https://www.usatoday.com/story/news/politics/2023/04/07/social-security-medicare-budget-cuts-poll/11621677002/">closer</a> <a href="https://apnews.com/article/abortion-trump-biden-election-2024-dobbs-498d14f6e2bbfe1f313f006ad089de4e">alignment</a> with <a href="https://news.gallup.com/poll/506636/sex-marriage-support-holds-high.aspx">public opinion</a>.</p>
-
-<p class="has-text-align-none">At the Republican National Convention, meanwhile, Trump’s team made <a href="https://www.vox.com/politics/361751/rnc-trump-speech-vance-2024">overtures</a> to various traditionally Democratic constituencies, giving a labor leader and biracial influencer primetime speaking slots.&nbsp;</p>
-
-<p class="has-text-align-none">When Democrats put a <a href="https://www.vox.com/politics/360318/project-2025-trump-policies-abortion-divorce">spotlight</a> on the Heritage Foundation’s “Project 2025” — a compendium of all the conservative movement policy goals for a second Trump White House, including federal abortion restrictions and the criminalization of pornography — the Trump campaign not only disavowed the document, but <a href="https://newrepublic.com/post/184392/project-2025-head-paul-dans-resigns-heritage-foundation-backlash-trump">got its lead author ousted</a>.&nbsp;</p>
-
-<p class="has-text-align-none">And recently, Trump has touted heterodox economic policy ideas with some appeal to swing constituencies, such as <a href="https://thehill.com/opinion/campaign/4803191-no-tax-on-tips-tradeoffs/">exempting tips</a> and <a href="https://www.bloomberg.com/news/articles/2024-08-01/trump-vows-to-cut-taxes-on-social-security-in-bid-to-woo-seniors">Social Security benefits</a> from taxation.</p>
-
-<p class="has-text-align-none">But sound marketing only gets you so far. And in recent days, Trump and his running mate have made it clear that their campaign is trying to sell a similarly defective product. Their handlers can try to present them as center-right populists who will get tough on immigration, while protecting entitlements and leaving abortion to the states. But let them speak unscripted for long enough, and the weird and hateful nature of their worldviews will shine through.</p>
-
-<p class="has-text-align-none">On Wednesday, the GOP nominee participated in <a href="https://www.vox.com/2024-elections/364172/trump-nabj-black-voter-journalist-racist-kamala-harris-indian-american">a question-and-answer session</a> before the National Association of Black Journalists (NABJ). Trump could have used this appearance to advance a few of his campaign’s many sound lines of attack against Kamala Harris: that she <a href="https://nymag.com/intelligencer/2019/07/kamala-harriss-medicare-for-all-plan-makes-political-sense.html">once endorsed</a> many <a href="https://www.nytimes.com/2024/07/29/us/politics/kamala-harris-2020-positions.html">exceptionally</a> <a href="https://www.politico.com/news/2024/07/30/harris-fracking-shift-raises-questions-in-pennsylvania-can-shapiro-help-00170885">left-wing policies</a>, such as the <a href="https://www.politico.com/news/2024/07/31/harris-border-immigration-gop-00172202">decriminalization of border enforcement</a>; that she presided over the highest inflation in four decades; or that she might have <a href="https://abcnews.go.com/Politics/trump-allies-escalate-attacks-harris-accusing-covering-bidens/story?id=112163387">publicly downplayed</a> the extent of President Joe Biden’s cognitive decline.&nbsp;</p>
-
-<p class="has-text-align-none">Instead, he chose to suggest that Harris is not really Black, since in some contexts she has identified with the heritage of her Indian mother. (Her father is Jamaican.)</p>
-
-<p class="has-text-align-none">The vice president “happen[ed] to turn Black,” Trump explained. “She was Indian all the way and all of a sudden she made a turn and she became a Black woman.”</p>
-
-<p class="has-text-align-none">Since his exile from Twitter, Trump has had fewer opportunities to advertise his racial insensitivity and personal cruelty on a high-visibility platform. But no campaign consultant could vet Trump’s extemporaneous musings on Harris’s ethnicity before they escaped his mouth.&nbsp;</p>
-
-<p class="has-text-align-none">Nor, evidently, could they prevent him from doubling down on this bizarre line of attack in the face of controversy.&nbsp;</p>
-
-<p class="has-text-align-none">At a rally in Harrisburg, Pennsylvania, Wednesday night, Trump <a href="https://www.forbes.com/sites/saradorn/2024/08/01/trump-doubles-down-on-harris-race-comments/">projected</a> on a large overhead screen an image of a news story that described Harris as “Indian-American.”&nbsp;</p>
-
-<p class="has-text-align-none">On Thursday, Trump reiterated this attack by <a href="https://x.com/TrumpDailyPosts/status/1819010458277580946">posting on Truth Social</a> an old photograph of Harris with several Indian family members, beneath the sardonic message, “Thank you Kamala for the nice picture you sent from many years ago! Your warmth, friendship, and love of your Indian Heritage are very much appreciated!”</p>
-
-<h2 class="wp-block-heading has-text-align-none">Trump’s attacks on Harris’s ethnicity are dishonest (and probably counterproductive)</h2>
-
-<p class="has-text-align-none">It is perhaps misguided to seek some strategic logic in these rancid effusions. To the extent that questioning Harris’s Blackness was a coldly calculated move rather than a thoughtless outburst, its aim is to promote the idea that she is a phony: For most of her life, Trump implicitly argues, Harris’s true, primary ethnic identity was Indian, but she chose to downplay that part of her heritage — and emphasize her Jamaican roots — once she entered Democratic politics, in an inauthentic bid for personal gain.&nbsp;</p>
-
-<p class="has-text-align-none">If this argument has a rational purpose, it is to trigger white Americans’ resentment of affirmative action (by insinuating that Harris owes her position to the cynical exploitation of her heritage) while dampening Black voters’ enthusiasm for her candidacy.</p>
-
-<p class="has-text-align-none">I cannot say with total certainty that Trump’s attack on Harris’s identity will fail to achieve either of those ends. Trump launched all manner of disgraceful attacks in 2016 and then won the presidency anyway. And current polls suggest he is the slight favorite in this year’s election. </p>
-
-<p class="has-text-align-none">But I do not believe that any competent political consultant would encourage Trump to pursue this line of attack. Voters are worried about immigration and inflation. Harris’s record leaves her vulnerable on both fronts. Any day that the media is talking about her ethnic heritage is a day they aren’t talking about the most unpopular positions she took during her 2020 primary campaign. Meanwhile, one of Trump’s biggest liabilities include the perception that he <a href="https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_060320/">stokes racial division</a>, and therefore is not actually the candidate of order and social calm. Attacking Harris on the basis of her race increases the salience of that liability — especially since the attack in question is transparently mendacious and insincere.</p>
-
-<p class="has-text-align-none">Harris attended Howard University, a historically Black college. Her identification as Black therefore long predates her political career.&nbsp;</p>
-
-<p class="has-text-align-none">It is Trump who abruptly chose to adopt a manifestly inauthentic social identity once he started running for office: After spending decades as one of America’s most prominent libertines, Trump refashioned himself in 2015 as a devout Christian whose “<a href="https://www.cnn.com/2015/08/27/politics/donald-trump-favorite-bible-verses/index.html">favorite book</a>” is the Bible. Nevertheless, he proved unable to name a single treasured biblical verse when asked in an interview and flubbed the name of one of the New Testament’s books in a campaign speech.</p>
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">today seems like a good day to bring back the clip of Trump being unable to name a single verse from the Bible — his &#039;favorite book&#039; — when asked what his favorite verse was: <a href="https://t.co/NGccrMtHHu">pic.twitter.com/NGccrMtHHu</a></p>&mdash; JRR Jokien (@joshcarlosjosh) <a href="https://twitter.com/joshcarlosjosh/status/1772709698979930377?ref_src=twsrc%5Etfw">March 26, 2024</a></blockquote>
-</div></figure>
-
-<h2 class="wp-block-heading has-text-align-none">J.D. Vance is the most disliked vice presidential candidate on record</h2>
-
-<p class="has-text-align-none">In any case, Trump’s remarks about Harris were not the only missteps in his appearance before the NABJ. Asked whether his choice for vice president, J.D. Vance, is qualified to assume the duties of the presidency on day one, the 78-year-old Republican nominee declined to say yes, replying instead, “The vice president in terms of the election doesn’t have any impact.”</p>
-
-<p class="has-text-align-none">Trump’s eagerness to distance himself from his running mate is understandable. Vance is a similarly difficult commodity to sell.&nbsp;</p>
-
-<p class="has-text-align-none">The Ohio senator’s career as a politician has been brief and undistinguished. In 2022, he <a href="https://www.politico.com/2022-election/results/ohio/">won election</a> to the Senate by just a six-point margin, even as the GOP’s gubernatorial candidate Mike DeWine won his race by 25 points.</p>
-
-<p class="has-text-align-none">The sources of Vance’s underperformance aren’t hard to identify. He has the <a href="https://x.com/mannyfidel/status/1815466593146581153">charisma</a> of a memoirist, not a politician. And he has staked out a wide variety of deeply unpopular and off-putting policy positions, arguing that rape victims should <a href="https://www.washingtonpost.com/politics/vance-abortion-rape/2021/09/24/c3007318-1d32-11ec-8380-5fbadbc43ef8_story.html">be legally forbidden</a> from receiving abortions since “two wrongs don’t make a right,” and <a href="https://www.vox.com/politics/360283/jd-vance-trump-vp-vice-president-authoritarian">lamenting</a> the imprisonment of January 6 rioters.&nbsp;</p>
-
-<p class="has-text-align-none">In recent weeks, <a href="https://www.vox.com/politics/363473/jd-vance-weird-voting-parents-demeny-postliberalism">Vance’s peculiar contempt for childless women</a> has come to national attention. Democrats <a href="https://www.youtube.com/watch?v=7gPGxB2FqEc">have promoted</a> a clip from a July 2021 interview that Vance gave to Tucker Carlson, in which he told the then-Fox News host that the Democratic Party is run by “childless cat ladies who are miserable at their own lives.”</p>
-
-<p class="has-text-align-none">Vance backed up this claim by citing Harris and Transportation Secretary Pete Buttigieg as childless Democrats who, as a result of their childlessness, had no “direct stake” in their country’s future.&nbsp;</p>
-
-<p class="has-text-align-none">One problem with Vance’s argument is that Harris has step-children and Buttigieg was in the process of adopting twins in summer 2021. Another problem is that you do not need to have children of your own to have young loved ones (including, say, your nieces or nephews), or to care about improving your country, as an end in itself. And a third problem is that many people who would like to have kids are unable to do so as a result of infertility, and mocking their supposed misery is a weird and offputting thing to do.&nbsp;</p>
-
-<p class="has-text-align-none">Actor Jennifer Aniston, who has <a href="https://www.allure.com/story/jennifer-aniston-ivf-fertility-struggles">openly struggled</a> with fertility, <a href="https://www.nytimes.com/2024/07/27/us/politics/jd-vance-jennifer-aniston-childless-cat-lady.html">highlighted this third point</a> in an Instagram post criticizing Vance’s remarks.</p>
-
-<p class="has-text-align-none">The Republican vice presidential candidate then had an opportunity to walk back his years-old comments, express remorse for any hurt his ill-considered remarks may have caused, and explain that what he really meant to say was that we need to make it easier for Americans to start families through better public policy.</p>
-
-<p class="has-text-align-none">Instead, he decided to suggest that Aniston had sexualized his toddler because she wrote in her message, “Mr. Vance, I pray that your daughter is fortunate enough to bear children of her own one day.”</p>
-
-<p class="has-text-align-none">“Hollywood celebrities say, ‘Oh, well, J.D. Vance, what if your daughter suffered fertility problems?’” Vance said on <em>The Megyn Kelly Show</em>. “Well, first of all, that’s disgusting because my daughter is 2 years old. And second of all, if she had fertility problems, as I said in that speech, I would try everything I could to try to help her because I believe families and babies are a good thing.”</p>
-
-<p class="has-text-align-none">None of this has ingratiated Vance to the American people. As CNN’s Harry Enten <a href="https://x.com/ForecasterEnten/status/1819010887287488558">notes</a>, Vance is the first-ever vice presidential nominee to have a net-negative favorability rating right after being introduced at their party’s convention. And in ABC News’s polling, Vance’s net approval has dropped from -6 points shortly after his nomination to -15 points today.</p>
-
-<p class="has-text-align-none">All this said, it remains entirely possible that Trump and Vance will move into the White House next year. Indeed, Trump is still<a href="https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris"> leading</a> Harris in <a href="https://www.realclearpolling.com/polls/president/general/2024/wisconsin/trump-vs-harris">many polls</a> of key battleground states. But if the Republican Party succeeds in winning the presidency this November, it will be in spite of the two men on its ticket, not because of them.</p>
 						]]>
 									</content>
 			
