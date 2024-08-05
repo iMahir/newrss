@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>The Verge -  All Posts</title>
   <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
-  <updated>2024-08-04T13:55:15-04:00</updated>
+  <updated>2024-08-04T20:18:31-04:00</updated>
   <id>https://www.theverge.com/rss/full.xml</id>
   <link type="text/html" href="https://www.theverge.com/" rel="alternate"/>
+  <entry>
+    <published>2024-08-04T20:18:31-04:00</published>
+    <updated>2024-08-04T20:18:31-04:00</updated>
+    <title>OpenAI won’t watermark ChatGPT text because its users could get caught</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Vector illustration of the ChatGPT logo." src="https://cdn.vox-cdn.com/thumbor/nilLDeYow5Roh4LkAVsb-ryA98U=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73501540/STK155_OPEN_AI_CVirginia_D.0.jpg" /&gt;
+        &lt;figcaption&gt;Image: The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="p5M5VB"&gt;OpenAI has had a system for watermarking ChatGPT-created text and a tool to detect the watermark ready for about a year, &lt;a href="https://www.wsj.com/tech/ai/openai-tool-chatgpt-cheating-writing-135b755a"&gt;reports &lt;em&gt;The Wall Street Journal&lt;/em&gt;&lt;/a&gt;. But the company is divided internally over whether to release it. On one hand, it seems like the responsible thing to do; on the other, it could hurt its bottom line.&lt;/p&gt;
+&lt;p id="PA4CLB"&gt;OpenAI’s watermarking is described as adjusting how the model predicts the most likely words and phrases that will follow previous ones, creating a detectable pattern. (That’s a simplification, but you can check out Google’s &lt;a href="https://www.theverge.com/2024/5/14/24155927/google-ai-synthid-watermark-text-video-io"&gt;more in-depth explanation&lt;/a&gt; for &lt;a href="https://www.theverge.com/2024/5/14/24155927/google-ai-synthid-watermark-text-video-io"&gt;Gemini’s text watermarking&lt;/a&gt; for more). &lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="aJsvqg"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"OpenAI is adding new watermarks to DALL-E 3","url":"https://www.theverge.com/2024/2/6/24063954/ai-watermarks-dalle3-openai-content-credentials"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="yFpvwo"&gt;Offering any way to detect AI-written material is a potential boon for teachers trying to deter students from turning over writing...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2024/8/4/24213268/openai-chatgpt-text-watermark-cheat-detection-tool"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/8/4/24213268/openai-chatgpt-text-watermark-cheat-detection-tool"/>
+    <id>https://www.theverge.com/2024/8/4/24213268/openai-chatgpt-text-watermark-cheat-detection-tool</id>
+    <author>
+      <name>Wes Davis</name>
+    </author>
+  </entry>
   <entry>
     <published>2024-08-04T13:55:15-04:00</published>
     <updated>2024-08-04T13:55:15-04:00</updated>
@@ -231,23 +257,6 @@
     <id>https://www.theverge.com/2024/8/3/24212518/nvidia-ai-chip-delay-blackwell-b200-microsoft-amazon-google-openai-meta-artificial-intelligence</id>
     <author>
       <name>Wes Davis</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-08-03T09:00:00-04:00</published>
-    <updated>2024-08-03T09:00:00-04:00</updated>
-    <title>Samsung Galaxy Z Flip 6 review: the practical flip phone</title>
-    <content type="html">
-  		 &lt;p&gt;It’s not the most fun, but reliability goes a long way.&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/24211507/samsung-galaxy-z-flip-6-review-screen-battery-camera"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/24211507/samsung-galaxy-z-flip-6-review-screen-battery-camera"/>
-    <id>https://www.theverge.com/24211507/samsung-galaxy-z-flip-6-review-screen-battery-camera</id>
-    <author>
-      <name>Allison Johnson</name>
     </author>
   </entry>
 </feed>
