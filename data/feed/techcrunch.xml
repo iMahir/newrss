@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 06 Aug 2024 19:31:21 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 06 Aug 2024 19:48:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">136296444</site>	<item>
+		<title>Amazon upgrades its AI image generator</title>
+		<link>https://techcrunch.com/2024/08/06/amazon-upgrades-its-ai-image-generator/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Tue, 06 Aug 2024 19:43:54 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[image generation]]></category>
+		<category><![CDATA[Titan Image Generator v2]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2821285</guid>
+
+					<description><![CDATA[<p>Amazon has released an upgraded version of its in-house image-generating model, Titan Image Generator, for AWS customers using its Bedrock generative AI platform. Simply called Titan Image Generator v2, the new model brings with it several new capabilities, AWS principal developer advocate Channy Yun explains in a blog post. Users can &#8220;guide&#8221; the images they [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2821285</post-id>	</item>
+		<item>
 		<title>X is getting closer to launching its payment service</title>
 		<link>https://techcrunch.com/2024/08/06/x-twitter-payment-service-update/</link>
 		
@@ -191,11 +214,11 @@
 		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
 		<pubDate>Tue, 06 Aug 2024 16:00:00 +0000</pubDate>
 				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[travel apps]]></category>
 		<category><![CDATA[Flighty]]></category>
+		<category><![CDATA[travel apps]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=2820297</guid>
 
-					<description><![CDATA[<p>Popular flight tracking app Flighty is releasing a new version on Tuesday that uses machine learning and aviation authority data to provide early warnings of delays and give users the exact reason behind delays.  With the launch of Flight 4.0, the app tracks the two biggest causes of delays—late aircraft and airspace issues—to inform users [&#8230;]</p>
+					<description><![CDATA[<p>Popular flight-tracking app Flighty is releasing a new version on Tuesday that uses machine learning and aviation authority data to provide early warnings of delays and give users the exact reason behind delays.  With the launch of Flight 4.0, the app tracks the two biggest causes of delays — late aircraft and airspace issues — [&#8230;]</p>
 <p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
 ]]></description>
 		
@@ -402,31 +425,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2818998</post-id>	</item>
-		<item>
-		<title>Hyperspace is building custom instances to accelerate database searches</title>
-		<link>https://techcrunch.com/2024/08/06/hyperspace-is-building-custom-instances-to-accelerate-database-searches/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Tue, 06 Aug 2024 13:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[Fundraising]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[chip]]></category>
-		<category><![CDATA[database]]></category>
-		<category><![CDATA[Funding]]></category>
-		<category><![CDATA[hyperspace]]></category>
-		<category><![CDATA[MizMaa Ventures]]></category>
-		<category><![CDATA[Search]]></category>
-		<category><![CDATA[startup]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2818768</guid>
-
-					<description><![CDATA[<p>Hyperspace, a Tel Aviv-based startup, says its custom cloud instances for database searches can dramatically speed up queries.</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">2818768</post-id>	</item>
 	</channel>
 </rss>
