@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 06 Aug 2024 19:20:18 +0000</lastBuildDate>
-    <pubDate>Tue, 06 Aug 2024 19:19:28 +0000</pubDate>
+    <lastBuildDate>Tue, 06 Aug 2024 19:30:13 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Aug 2024 19:29:07 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/08/06/world/israel-iran-hezbollah-gaza" rel="standout"></atom:link>
       <description>Hamas announced that Yahya Sinwar would take over as the group’s political leader after the assassination of Ismail Haniyeh in Iran.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 06 Aug 2024 19:18:11 +0000</pubDate>
+      <pubDate>Tue, 06 Aug 2024 19:29:07 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/06/multimedia/06mideast-crisis-2p-zblq/06mideast-crisis-2p-zblq-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Menahem Kahana/Agence France-Presse — Getty Images</media:credit>
     </item>
@@ -60,7 +60,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Denver</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/02/multimedia/00venezuela-tiktok-top/00venezuela-tiktok-top-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/02/multimedia/00venezuela-tiktok-top/00venezuela-tiktok-top-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Alejandro Cegarra for The New York Times</media:credit>
       <media:description>Shortly after midnight on the day of the election, the government-controlled electoral council declared President Nicolás Maduro the winner, without providing any vote tallies.</media:description>
     </item>
@@ -280,6 +280,23 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/05/us/00olympics-restaurant-09/00olympics-restaurant-09-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Photographs by Weiyi Cai/The New York Times</media:credit>
       <media:description>For the past two weeks, Tang Zhongqiu’s narrow restaurant, Yang Xiao Chu, has been transformed into a bustling, unofficial hangout for Olympic table tennis fans.</media:description>
+    </item>
+    <item>
+      <title>Bangladesh’s Leader Fled Just Ahead of an Angry Crowd, Urged by Family to Go</title>
+      <link>https://www.nytimes.com/2024/08/06/world/asia/bangladesh-hasina-final-hours.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/06/world/asia/bangladesh-hasina-final-hours.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/06/world/asia/bangladesh-hasina-final-hours.html" rel="standout"></atom:link>
+      <description>As masses of people converged, angry at the killing of protesters, Prime Minister Sheikh Hasina insisted that she could hold on, which military leaders said would mean spilling far more blood.</description>
+      <dc:creator>Mujib Mashal, Shayeza Walid and Saif Hasnat</dc:creator>
+      <pubDate>Tue, 06 Aug 2024 19:27:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wazed, Hasina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dhaka (Bangladesh)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Curfews</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/06/multimedia/06bangladesh-reconstruct-01-htcz/06bangladesh-reconstruct-01-htcz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Monirul Alam/EPA, via Shutterstock</media:credit>
+      <media:description>A vandalized image of Prime Minister Sheikh Hasina in the aftermath of her hasty departure from Bangladesh.</media:description>
     </item>
     <item>
       <title>E.P.A. Pulls Pesticide Dacthal From the Market Over Health Concerns</title>
@@ -1163,40 +1180,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/01/multimedia/00trade-bans-takeaways-jgmb/00trade-bans-takeaways-jgmb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>The New York Times</media:credit>
       <media:description>The SEG electronics market in Shenzhen, China.</media:description>
-    </item>
-    <item>
-      <title>With Smugglers and Front Companies, China Is Skirting American A.I. Bans</title>
-      <link>https://www.nytimes.com/2024/08/04/technology/china-ai-microchips.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/08/04/technology/china-ai-microchips.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/08/04/technology/china-ai-microchips.html" rel="standout"></atom:link>
-      <description>The U.S. is trying to stop China from getting Nvidia microchips to advance its military. The private sector is fighting back.</description>
-      <dc:creator>Ana Swanson and Claire Fu</dc:creator>
-      <pubDate>Sun, 04 Aug 2024 18:44:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smuggling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Torpedoes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Advanced Micro Devices Inc.</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chinese Academy of Sciences</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Intel Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shenzhen (China)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/18/multimedia/00trade-bans-01-zqmp/00trade-bans-01-zqmp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>The New York Times</media:credit>
-      <media:description>The bustling SEG electronics market in Shenzhen, China, where customers can buy everything from drones to robotic waiters.</media:description>
     </item>
   </channel>
 </rss>
