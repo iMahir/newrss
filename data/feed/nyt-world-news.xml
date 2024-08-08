@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?a=1" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 08 Aug 2024 22:08:25 +0000</lastBuildDate>
-    <pubDate>Thu, 08 Aug 2024 22:07:59 +0000</pubDate>
+    <lastBuildDate>Thu, 08 Aug 2024 22:28:28 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Aug 2024 22:27:21 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/08/08/world/israel-iran-hamas-gaza-war" rel="standout"></atom:link>
       <description>Israel said Hamas fighters were operating near the school compounds The strikes were among several across Gaza that killed at least 40 people, Palestinian officials said.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 08 Aug 2024 22:07:59 +0000</pubDate>
+      <pubDate>Thu, 08 Aug 2024 22:24:19 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/08/multimedia/08mideast-crisis-promo-615pmEST-lqpb/08mideast-crisis-promo-615pmEST-lqpb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eyad Baba/Agence France-Presse — Getty Images</media:credit>
     </item>
@@ -60,7 +60,7 @@
       <atom:link href="https://www.nytimes.com/2024/08/08/world/europe/russia-border-ukraine.html" rel="standout"></atom:link>
       <description>The local government in the Russian region of Kursk declared a state of emergency as military analysts reported that Ukrainian forces had advanced several miles across the border.</description>
       <dc:creator>Andrew E. Kramer</dc:creator>
-      <pubDate>Thu, 08 Aug 2024 20:08:35 +0000</pubDate>
+      <pubDate>Thu, 08 Aug 2024 22:12:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
@@ -193,7 +193,7 @@
       <atom:link href="https://www.nytimes.com/2024/08/08/world/asia/muhammad-yunus-bangladesh-swearing-in.html" rel="standout"></atom:link>
       <description>Muhammad Yunus, as interim leader, faces the daunting task of restoring order in a country gripped by violence and uncertainty.</description>
       <dc:creator>Saif Hasnat and Mujib Mashal</dc:creator>
-      <pubDate>Thu, 08 Aug 2024 16:37:03 +0000</pubDate>
+      <pubDate>Thu, 08 Aug 2024 22:25:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yunus, Muhammad</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wazed, Hasina</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
@@ -311,14 +311,16 @@
       <atom:link href="https://www.nytimes.com/2024/08/08/world/europe/basketball-commentary-ireland-timmy-mccarthy.html" rel="standout"></atom:link>
       <description>While the Irish have no team in the Olympic tournament, Timmy McCarthy’s eccentric, enthusiastic commentary has earned him his own fervent fan base.</description>
       <dc:creator>Ali Watkins</dc:creator>
-      <pubDate>Thu, 08 Aug 2024 20:39:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCarthy, Timmy</category>
+      <pubDate>Thu, 08 Aug 2024 20:39:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2024)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCarthy, Timmy (Sports Commentator)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raidio Teilifis Eireann (RTE)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cork (Ireland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raidio Teilifis Eireann (RTE)</category>
     </item>
     <item>
       <title>Taylor Swift Fans Commiserate in Vienna After Concerts Are Canceled</title>
@@ -1108,7 +1110,7 @@
       <atom:link href="https://www.nytimes.com/2024/07/27/world/olympics/arisa-trew-skateboarding.html" rel="standout"></atom:link>
       <description>Arisa Trew vaulted into first place with her final run, winning gold.</description>
       <dc:creator>Ben Shpigel and Chang W. Lee</dc:creator>
-      <pubDate>Tue, 06 Aug 2024 19:15:36 +0000</pubDate>
+      <pubDate>Thu, 08 Aug 2024 22:27:21 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/27/multimedia/27olympics-fast-photos-skateboarding-01-bwhl/27olympics-fast-photos-skateboarding-01-bwhl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Chang W. Lee/The New York Times</media:credit>
     </item>
