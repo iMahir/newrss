@@ -6,7 +6,7 @@
 	<title type="text">Vox</title>
 	<subtitle type="text"></subtitle>
 
-	<updated>2024-08-12T21:36:36Z</updated>
+	<updated>2024-08-12T21:54:59Z</updated>
 
 	<link rel="alternate" type="text/html" href="https://www.vox.com" />
 	<id>https://www.vox.com/rss/index.xml</id>
@@ -14,6 +14,70 @@
 
 	<icon>https://platform.vox.com/wp-content/uploads/sites/2/2024/08/vox_logo_rss_light_mode.png?w=150&amp;h=100&amp;crop=1</icon>
 		<entry>
+			
+			<author>
+				<name>Ellen Ioanes</name>
+			</author>
+			
+			<title type="html"><![CDATA[What we know about Trump’s claim that Iran hacked his campaign]]></title>
+			<link rel="alternate" type="text/html" href="https://www.vox.com/politics/366657/trump-iran-hack-microsoft-campaign-spear-phishing-russia-china-irgc" />
+			<id>https://www.vox.com/?p=366657</id>
+			<updated>2024-08-12T21:54:59Z</updated>
+			<published>2024-08-12T21:55:00Z</published>
+			<category scheme="https://www.vox.com" term="2024 Elections" /><category scheme="https://www.vox.com" term="China" /><category scheme="https://www.vox.com" term="Cybersecurity" /><category scheme="https://www.vox.com" term="Donald Trump" /><category scheme="https://www.vox.com" term="Explainers" /><category scheme="https://www.vox.com" term="Iran" /><category scheme="https://www.vox.com" term="Politics" /><category scheme="https://www.vox.com" term="Privacy &amp; Security" /><category scheme="https://www.vox.com" term="Russia" /><category scheme="https://www.vox.com" term="Technology" /><category scheme="https://www.vox.com" term="World Politics" />
+							<summary type="html"><![CDATA[The Trump campaign claims it was hacked by Iran —&#160;though what information the accused hackers actually obtained, if anything, is unclear. The FBI is reportedly looking into the matter. Here’s what we know for sure: In a report released last Friday, Microsoft claimed it caught a group with ties to Iran’s Islamic Revolutionary Guard Corps [&#8230;]]]></summary>
+			
+							<content type="html">
+											<![CDATA[
+
+						
+<figure>
+
+<img alt="Trump, in a navy suit, red tie, and white shirt, speaks into a microphone." data-caption="Republican presidential candidate Donald Trump speaks during a press conference on August 8, 2024, in Palm Beach, Florida. | Joe Raedle/Getty Images" data-portal-copyright="Joe Raedle/Getty Images" data-has-syndication-rights="1" src="https://platform.vox.com/wp-content/uploads/sites/2/2024/08/gettyimages-2165917707.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption>Republican presidential candidate Donald Trump speaks during a press conference on August 8, 2024, in Palm Beach, Florida. | Joe Raedle/Getty Images</figcaption>
+</figure>
+<p class="has-text-align-none">The Trump campaign claims it was hacked by Iran —&nbsp;though what information the accused hackers actually obtained, if anything, is unclear. The FBI is <a href="https://www.reuters.com/world/us/fbi-says-it-is-investigating-hack-trump-campaign-blamed-iran-2024-08-12/">reportedly looking into the matter</a>.</p>
+
+<p class="has-text-align-none">Here’s what we know for sure: <a href="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/5bc57431-a7a9-49ad-944d-b93b7d35d0fc.pdf">In a report released last Friday, Microsoft</a> claimed it caught a group with ties to Iran’s Islamic Revolutionary Guard Corps (IRGC) using a “compromised email account” to try to gain access to the system of a “high-ranking official of a presidential campaign.” The company did not name the presidential campaign and did not elaborate on whether the attempt was successful.&nbsp;</p>
+
+<p class="has-text-align-none">Saturday, <a href="https://www.politico.com/news/2024/08/10/trump-campaign-hack-00173503">Politico</a> published a report that detailed documents it received from a mysterious AOL email address from someone going by the name Robert. The materials seemed to be from the Trump campaign, and included a draft of what appeared to be the vetting profiles of potential vice presidential pick Florida Sen. Marco Rubio and the campaign’s actual pick, Ohio <a href="https://www.vox.com/politics/360283/jd-vance-trump-vp-vice-president-authoritarian">Sen. JD Vance</a>. Sunday, the <a href="https://www.nytimes.com/2024/08/11/us/politics/trump-campaign-hacking-iran.html">New York Times said</a> it had received what appeared to be the same documents, from a person claiming to also be the Politico source.</p>
+
+<p class="has-text-align-none">Shortly after Politico published its Saturday piece, the Trump campaign <a href="https://www.politico.com/news/2024/08/10/trump-campaign-hack-00173503">gave Politico a statement</a> claiming “foreign sources hostile to the United States” stole the documents from them; the statement went on to suggest that Iran was behind the outreach to Politico. Former President Donald Trump then made that suggestion explicit Saturday night, writing on <a href="https://truthsocial.com/@realDonaldTrump/posts/112941157610530127" rel="nofollow">Truth Social</a>, “We were just informed by Microsoft Corporation that one of our many websites was hacked by the Iranian Government &#8211; Never a nice thing to do!”</p>
+
+<p class="has-text-align-none">Monday, the FBI announced it is investigating Trump’s claim.</p>
+
+<p class="has-text-align-none">A great deal of uncertainty remains around the supposed hack, and foreign efforts to meddle in the 2024 elections. But here are some other key things to know.</p>
+
+<h2 class="wp-block-heading"><strong>What do we know about Iranian hackers and the Trump campaign?</strong></h2>
+
+<p class="has-text-align-none">Though the Trump campaign is explicitly stating that it was the target of an Iranian attack, Microsoft has yet to be so blunt.</p>
+
+<p class="has-text-align-none">According to the Microsoft report, the Islamic Revolutionary Guard Corps (IRGC) has been operating a wide-scale hacking campaign involving at least four groups — Cotton Sandstorm, Lemon Sandstorm, Mint Sandstorm, and Peach Sandstorm — over the past few election cycles. Microsoft says its <a href="https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/624967260377296#:~:text=The%20Microsoft%20Threat%20Analysis%20Center,Microsoft%20and%20its%20customers%20globally.">Microsoft Threat Analysis Center</a>, a department tasked with protecting both the company and its user base from cybercrimes, noticed that someone “sent a spear phishing email in June to a high-ranking official on a presidential campaign from the compromised email account of a former senior advisor.”&nbsp;</p>
+
+<p class="has-text-align-none">Spear phishing is when a hacker or hacking group tries to gain access to a specific individual or organization’s digital space by placing a malicious link in a message, that when the recipient clicks through, can install malware on a machine that allows hackers access to information it contains. Microsoft said in a <a href="https://blogs.microsoft.com/on-the-issues/2024/08/08/iran-targeting-2024-us-election/">blog post</a> that it has “notified those targeted” in the spear phishing attempt.</p>
+
+<p class="has-text-align-none">Though the MTAC report isn’t explicit about the success of Mint Sandstorm’s spear phishing attempt, it does outline other ways the IRGC appears to be planning to influence the election, including by setting up fake news sites that contain polarizing content about the Israel-Hamas conflict and LGBTQ rights, as well as the presidential candidates themselves.&nbsp;</p>
+
+<p class="has-text-align-none">If Iran is behind the phishing attempt, and if the country did share documents with US journalists, that could suggest an effort to sway voters away from Trump. The former president has claimed his Iranian policy to be better, and harsher, than that of Democrats.&nbsp;</p>
+
+<p class="has-text-align-none">His first administration did practice “maximum pressure” on the Islamic Republic. And he ordered the assassination of IRGC commander Qassem Soleimani in January 2020, which was both a practical and ideological blow to Iran. Soleimani was a revered figure in the country and a central force behind external groups affiliated with the regime, including Hezbollah in Lebanon and Shia militias in Iraq and Syria.&nbsp;</p>
+
+<p class="has-text-align-none">Trump also nixed a 2015 nuclear deal which would have, among other things, eased sanctions in return for greater international oversight over and the winding down of Iran’s nuclear weapons development program. That allowed Iran to <a href="https://www.vox.com/23002229/return-iran-nuclear-deal-vienna-explained">accelerate its weapons development</a>.&nbsp;</p>
+
+<h2 class="wp-block-heading"><strong>What does this mean for the 2024 campaign?</strong></h2>
+
+<p class="has-text-align-none">The documents the journalists received don’t appear to have any campaign-altering bombshells.</p>
+
+<p class="has-text-align-none">But this whole saga is a reminder that online attempts to sway voters, similar to Russian efforts in the <a href="https://www.vox.com/policy-and-politics/2023/1/20/23559214/russia-2016-election-trolls-study-email-hack">2016</a> and <a href="https://www.vox.com/2020/9/21/21401149/russia-2020-election-meddling-trump-biden">2020 elections</a>, are at play this time around, too. Russia and China are both also attempting to influence the current election, <a href="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/5bc57431-a7a9-49ad-944d-b93b7d35d0fc.pdf">according to Microsoft</a>.&nbsp;</p>
+
+<p class="has-text-align-none">Such efforts seem to include Chinese programs that leverage social media to inflame tensions over such issues as the campus protests that happened this spring. Much of Russia’s efforts seemingly focus on sowing disinformation about Ukraine and its involvement with the US intelligence apparatus, as well as inflaming polarization online, particularly about immigration.&nbsp;</p>
+
+<p class="has-text-align-none">With just under three months to go before the elections, it’s likely we will see more attempts from Iran, but also Russia and China, to interfere with US elections.</p>
+						]]>
+									</content>
+			
+					</entry>
+			<entry>
 			
 			<author>
 				<name>Alex Abad-Santos</name>
@@ -763,108 +827,6 @@
 <p class="has-text-align-none">The fact that <em>Industry</em> has gotten better over time is a huge relief. At this point, we’ve watched several popular, critically acclaimed shows — <a href="https://www.vox.com/culture/358672/the-bear-season-3-review-food-main-character-fine-dining"><em>The Bear</em></a>, <em>Atlanta</em>, <em>Killing Eve</em>, <em>Big Little Lies</em>, etc. — lose their way after one or two good seasons. (I might be the only person who thinks that <em>Succession </em>got worse after season two.) The constraints of streaming have allowed creators to become more self-indulgent in their work. Certain shows have felt more focused on experimenting with structure to the point where it doesn’t feel like they’re interested in making TV anymore — rather, college-level film projects. Others seem to bend to the demands of social media, like <em>Succession</em>, which gradually lost its “eat the rich” bite in favor of sympathizing with fan-favorite characters. </p>
 
 <p class="has-text-align-none">Thankfully, <em>Industry</em> hasn’t succumbed to any of these tendencies yet — maybe, in part, because it hasn’t been showered with awards or received a large amount of attention. Instead, the show keeps reflecting what prestige TV still has the potential to be in an era of forgettable television — engrossing characters, smart storytelling, and a respect for the medium as we knew it before Netflix and Twitter.</p>
-						]]>
-									</content>
-			
-					</entry>
-			<entry>
-			
-			<author>
-				<name>Celia Ford</name>
-			</author>
-			
-			<title type="html"><![CDATA[The case for pole dancing in the Olympics]]></title>
-			<link rel="alternate" type="text/html" href="https://www.vox.com/culture/366257/pole-dancing-olympics-sport-sex-work-gymnastics-paris" />
-			<id>https://www.vox.com/?p=366257</id>
-			<updated>2024-08-09T16:09:38Z</updated>
-			<published>2024-08-10T11:00:00Z</published>
-			<category scheme="https://www.vox.com" term="Culture" /><category scheme="https://www.vox.com" term="Olympics" /><category scheme="https://www.vox.com" term="Sports" />
-							<summary type="html"><![CDATA[Humans are simple creatures. Since the dawn of spectator sports, we’ve wanted to watch muscular people fight and do flips. Today, TikTok-friendly high-drama sports like women’s gymnastics regularly dominate Olympic viewership on TV networks and streaming platforms. But watching artistic gymnastics isn’t the only way to see ultra-strong people do flips and splits. Pole dancing [&#8230;]]]></summary>
-			
-							<content type="html">
-											<![CDATA[
-
-						
-<figure>
-
-<img alt="" data-caption="Celia and a friend performing “Balance Facing Away From Each Other,” with a technical value of 0.7 out of 1.0 per the International Pole Sport Federation. Photo courtesy of Knocking Bird Creative (shot at VRV3 Pole and Aerial Studios in San Francisco, California, 2022)." data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.vox.com/wp-content/uploads/sites/2/2024/08/ALEXISampCELIA-1205-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
-	<figcaption>Celia and a friend performing “Balance Facing Away From Each Other,” with a technical value of 0.7 out of 1.0 per the International Pole Sport Federation. Photo courtesy of Knocking Bird Creative (shot at VRV3 Pole and Aerial Studios in San Francisco, California, 2022).</figcaption>
-</figure>
-<p class="has-text-align-none">Humans are simple creatures. Since the dawn of spectator sports, we’ve wanted to watch muscular people fight and do flips. <a href="https://www.nbcboston.com/paris-2024-summer-olympics/olympians-viral-tiktok/3450742/">Today, TikTok-friendly</a> high-drama sports like <a href="https://deadline.com/2024/07/simone-biles-usa-womens-gymnastics-finals-viewership-olympics-nbc-1236028346/">women’s gymnastics</a> regularly dominate Olympic viewership on TV networks and streaming platforms. But watching artistic gymnastics isn’t the only way to see ultra-strong people do flips and splits.</p>
-
-<p class="has-text-align-none">Pole dancing — the erotic striptease-turned-sport that’s essentially sexy gymnastics on a stick — has all the makings of a perfect Olympic sport. The athleticism of pole performers, whether at a family-friendly competition or a strip club, is undeniable. Even the most basic pole moves are no joke: <a href="https://www.thepolept.com/pole-anatomy/pole-climb-in-4-steps/">Getting off the ground at all</a> is kind of like doing a pull up, a push up, a crunch, and an air squat all at once. At <a href="https://www.youtube.com/watch?v=3pyB7SRD84w">the highest level</a>, pole athletes — yes, there are pole athletes — can perform several minutes worth of choreographed handstands, flips, tumbles, and other aerial tricks, all set to music. Sometimes, <a href="https://www.youtube.com/watch?v=ryi-6qgcqYw">they do it in eight-inch stilettos</a>. And just as gymnastics increases in difficulty over time, pole dancers get stronger, bendier, and more creative every year.</p>
-
-<div class="wp-block-vox-media-highlight vox-media-highlight">
-<h2 class="wp-block-heading">Why I wrote this</h2>
-
-
-
-<p class="has-text-align-none">I auditioned for my <a href="https://www.instagram.com/thepolerbears/?hl=en">university’s pole dancing team</a> my freshman year of college simply because I couldn’t believe it existed. I didn’t make the cut, but I tried pole dancing again while I was in grad school. It took me almost a year to build the strength I needed to flip upside down. But I stuck with it, training at my local pole studio nearly every day after lab, mopping its floors in exchange for a discounted membership. </p>
-
-
-
-<p class="has-text-align-none">Today, I’m a part-time pole instructor in the California Bay Area, and welcoming new people into the sport is one of my greatest joys. Pole dancing embodies endless contradictions — strength and grace, explosive power and sensual flow, technicality and vibes. For years, I’ve watched the pole community debate about how to honor its history, and I’ve seen my own studios evolve in their stance towards sex work over time. Here, I wanted to explore why it’s so hard for pole dancing to earn the IOC’s respect. (And selfishly, I want to watch more sports where people do flips and splits. People love flips and splits.)</p>
-</div>
-
-<p class="has-text-align-none">In the <a href="https://bloggeronpole.com/2021/07/a-history-of-modern-pole-dance/">early 20th century</a>, burlesque and striptease performers began incorporating poles into their routines. This was less for artistic reasons than functional ones — bars had tiny stages or no stage at all, and dancers needed something to hold onto. When Mary’s Club opened in Portland in 1954, it became <a href="https://www.hausofpole.com/post/stripping-through-history-disrobing-the-origins-of-modern-day-pole-dancing">the first bar</a> to install brass poles onstage for strippers to incorporate into their performances. Strip clubs increasingly featured pole dancing, and dancers invented more tricks — climbing up the pole and performing splits on the ceiling, twerking upside-down, and plummeting back to the ground. </p>
-
-<p class="has-text-align-none">Dancers generally practice and teach each other at the club, but in the early 2000s, the first pole studios opened in North America, Europe, and Australia, bringing the art of sensual movement on a vertical steel bar from strippers to hobbyists. Since then, pole dancing has seen a massive surge in popularity. Pole studios quickly spread across the world. Today, there are <a href="https://docs.google.com/spreadsheets/d/1TlccFClJ-_DIvXnarwXGzBGh7SjU2O61tYRBmyJH_-U/edit?usp=sharing">over 600 studios</a> in the US alone, and thousands more across every continent excluding Antarctica. I, like many others, got swept into this world not through sex work, but Groupons advertising an intriguing alternative to pilates. I stuck with it long enough to become a professional pole instructor, and have taught microbiologists, sex workers, goth teens, and white-collar dads. </p>
-
-<p class="has-text-align-none">Clearly, pole dancing has widespread appeal. It’s also globally practiced, visually engaging, and physically impressive, meeting several of the <a href="https://www.britannica.com/story/how-are-sports-chosen-for-the-olympics#:~:text=The%20Olympic%20Charter%20indicates%20that,countries%20and%20on%20three%20continents">criteria</a> for Olympic recognition. The <a href="http://www.polesports.org/">International Pole Sports Federation (IPSF)</a>, led by cofounder <a href="http://www.polesports.org/about-us/ipsf-committee/">Katie Coates</a>, has been advocating for pole as an Olympic sport for 15 years. It created a 126-page <a href="http://www.polesports.org/about-us/document-policies/">rulebook</a> from scratch and <a href="https://www.aljazeera.com/features/2018/9/12/shattering-stereotypes-pole-dancing-wants-to-be-at-the-olympics">gathered 10,000 signatures</a> on a 2010 petition to make pole dancing an Olympic sport. It even earned <a href="https://www.washingtonpost.com/news/early-lead/wp/2017/10/18/pole-dancing-in-the-olympics-international-sports-federation-recognition-helps-pave-the-way/">provisional recognition</a> by the now-defunct <a href="https://gaisf.org/about/observers/">Global Association of International Sports Federations</a> (GAISF) in 2017, once viewed as an auspicious step toward winning over the International Olympic Committee (IOC), whose formal recognition is a prerequisite to becoming an Olympic sport.</p>
-
-<p class="has-text-align-none">Yet even as Paris features new sports such as breaking, there’s no space for pole — not this year, nor any future games thus far. Even <a href="https://www.thebrisbaneolympics.com.au/sports/equestrian-vaulting-at-the-2032-brisbane-olympics/#:~:text=The%202032%20Brisbane%20Olympics%20will,athleticism%20and%20artistry%20of%20gymnastics.">equestrian vaulting</a> has locked in a 2032 comeback. What gives?</p>
-
-<h2 class="wp-block-heading"><strong>The fight for Olympic recognition</strong></h2>
-
-<p class="has-text-align-none">First, the boring answer: Gaining Olympic recognition involves a lot of hard, unpaid labor, and no one wants to do it. Athletes in movement practices like pole dancing already struggle to make a living doing their sport. (I lived off my pole instructor income alone for a couple months, and I don’t recommend it.)&nbsp;</p>
-
-<p class="has-text-align-none">“If you’re a high level athlete, you want to focus on your training,” said <a href="https://www.instagram.com/amysunshine007/?hl=en">Amy Bond</a>, founder and CEO of <a href="https://www.poleanddancestudios.com/?gad_source=1&amp;gclid=Cj0KCQjw8MG1BhCoARIsAHxSiQmNn6SAZw0wdGjIkz7hCiNY8zrKc_Aef0MAKbW2BztEXgesTYy2twwaApp6EALw_wcB">Pole + Dance Studios</a>, which operates several pole studios along the US west coast. (Disclosure: I teach at Pole + Dance Studios.) “You don’t want to focus your time on the administration and bureaucracy and red tape that goes into getting your sport into the Olympics.”</p>
-
-<p class="has-text-align-none">Pole’s Olympic push has largely been a one-woman operation, with Coates serving as an entrepreneur-diplomat-organizer-athlete at IPSF. “She’s one human trying to wear 15 hats,” Bond said. Even for a well-organized team of advocates, the work of <a href="https://www.britannica.com/story/how-are-sports-chosen-for-the-olympics">getting a sport to the Olympics</a> is Sisyphean at best. For example, the <a href="https://www.worlddancesport.org/">World DanceSport Federation</a>, which organizes international breaking competitions, was <a href="https://www.nbcolympics.com/news/everything-you-need-know-about-breakings-olympic-debut">first recognized by the IOC in 1997</a> — 27 years before its Olympic debut. Breaking won’t be included again in 2028. </p>
-
-<p class="has-text-align-none">Pole got GAISF  “observer status” in 2017, giving the IPSF access to a network of international sports federations for support. This status theoretically brought it closer to being taken seriously by the IOC, but the GAISF <a href="https://www.playthegame.org/news/world-sports-federations-may-give-up-their-own-independent-platform/">dissolved in 2022</a>, bringing pole back to the drawing board. </p>
-
-<p class="has-text-align-none">“We never really got anywhere and we never got any support. I think they were just trying to placate us and shut us up,” <a href="https://slate.com/culture/2024/07/olympics-2024-paris-summer-usa-skateboarding-pole-dance.html">Coates told Slate</a> last month. “It broke my soul because it felt like I’d reached the summit only to find another, much tougher mountain in front of me.”</p>
-
-<figure class="wp-block-embed is-type-rich is-provider-tiktok wp-block-embed-tiktok"><div class="wp-block-embed__wrapper">
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@munchy_monk/video/7400156101125147935" data-video-id="7400156101125147935" data-embed-from="oembed"> <section> <a target="_blank" title="@munchy_monk" href="https://www.tiktok.com/@munchy_monk?refer=embed">@munchy_monk</a> <p><a title="paris2024" target="_blank" href="https://www.tiktok.com/tag/paris2024?refer=embed">#paris2024</a> <a title="olympics" target="_blank" href="https://www.tiktok.com/tag/olympics?refer=embed">#olympics</a> <a title="suggestions" target="_blank" href="https://www.tiktok.com/tag/suggestions?refer=embed">#suggestions</a> <a title="part2" target="_blank" href="https://www.tiktok.com/tag/part2?refer=embed">#part2</a> <a title="horses" target="_blank" href="https://www.tiktok.com/tag/horses?refer=embed">#horses</a> <a title="medals" target="_blank" href="https://www.tiktok.com/tag/medals?refer=embed">#medals</a> <a title="frisbeedog" target="_blank" href="https://www.tiktok.com/tag/frisbeedog?refer=embed">#frisbeedog</a> <a title="poledancing" target="_blank" href="https://www.tiktok.com/tag/poledancing?refer=embed">#poledancing</a> <a title="cooking" target="_blank" href="https://www.tiktok.com/tag/cooking?refer=embed">#cooking</a> <a title="carlosyulo" target="_blank" href="https://www.tiktok.com/tag/carlosyulo?refer=embed">#carlosyulo</a> <a title="filipino" target="_blank" href="https://www.tiktok.com/tag/filipino?refer=embed">#filipino</a> <a title="blackeyedpeas" target="_blank" href="https://www.tiktok.com/tag/blackeyedpeas?refer=embed">#blackeyedpeas</a> <a title="lol" target="_blank" href="https://www.tiktok.com/tag/lol?refer=embed">#lol</a> <a title="munchymonk" target="_blank" href="https://www.tiktok.com/tag/munchymonk?refer=embed">#munchymonk</a> <a title="swag" target="_blank" href="https://www.tiktok.com/tag/swag?refer=embed">#swag</a> <a title="greenscreen" target="_blank" href="https://www.tiktok.com/tag/greenscreen?refer=embed">#greenscreen</a> </p> <a target="_blank" title="♬ NBA on ESPN Theme Song - Instrumental King" href="https://www.tiktok.com/music/NBA-on-ESPN-Theme-Song-6777455848600897538?refer=embed">♬ NBA on ESPN Theme Song &#8211; Instrumental King</a> </section> </blockquote> 
-</div></figure>
-
-<p class="has-text-align-none">Looking at pole dancing next to other Olympic sports, the snub can feel ridiculous. Pole combines the jaw-dropping feats of gymnastics, the social media appeal of skateboarding, and the countercultural intrigue of breaking. Clara Pauchet, a French pole instructor, <a href="https://www.reuters.com/sports/pole-dancers-eyeing-games-participation-soul-sport-risk-2024-04-04/">told Reuters</a>, “When I see what it requires of the body, I don’t see the difference between gymnastics with parallel bars and a vertical bar. I think it really has its place.” </p>
-
-<p class="has-text-align-none">But pole also brings something that the IOC may not be ready to handle: sexuality, and a lot of cultural baggage.</p>
-
-<h2 class="wp-block-heading"><strong>The sportification of pole dancing</strong></h2>
-
-<p class="has-text-align-none">Plenty of Olympic sports feature scantily-clad athletes. Female beach volleyball players <a href="https://wwd.com/pop-culture/celebrity-news/beach-volleyball-player-uniform-olympics-1236509653/">often wear bikinis</a> while competing, figure skaters perform in <a href="https://www.youtube.com/watch?v=Tbv1a5vYI24">form-fitting, sheer-accented leotards</a>, and French diver <a href="https://www.out.com/gay-athletes/jules-bouyer-hot-pictures-fan-reaction#rebelltitem15">Jules Bouyer</a> was wearing less than most pole dancers when his <a href="https://www.eonline.com/news/1405768/2024-olympics-anthony-ammirati-and-jules-bouyer-react-after-going-viral-for-nsfw-reasons">speedo bulge</a> went viral this year.</p>
-
-<p class="has-text-align-none">But while revealing costumes are partially a vestige of pole’s roots, skin friction against metal is also what keeps athletes from sliding off the pole. Think of firefighters <a href="https://www.youtube.com/watch?v=a2i3gDgEt1Q">zooming down fire poles</a> — with clothes on, a stainless steel or chrome pole is slippery. Because the inner thighs, hip fold, armpits, and midriff are all crucial contact points for many tricks, they all need to be exposed.&nbsp;</p>
-
-<p class="has-text-align-none">Here’s what some pole athletes are afraid to admit: Pole outfits are frequently not only tiny, but <em>sexy</em>, and intentionally so. Many pole dancers, including online censorship researcher and <a href="https://bloggeronpole.com/about/">blogger</a> <a href="https://www.northumbria.ac.uk/about-us/our-staff/a/carolina-are/">Carolina Are</a>, don’t think that they should have to hide that to be respected as artists and athletes. Just because “something is sexual, doesn’t make it less beautiful, or less hard to do as an extreme sport,” she said.</p>
-
-<p class="has-text-align-none">Some of the <a href="https://bloggeronpole.com/2021/07/a-history-of-modern-pole-dance/">first pole studio owners</a>, like <a href="https://www.instagram.com/officiallyfawnia/?hl=en">Fawnia Mondey</a> and <a href="https://www.polejunkies.com/index.php/about">Alena Downs</a>, were strippers first, bringing what they learned at clubs to women outside the industry. In 2005, the <a href="https://www.facebook.com/worldpoledance/photos/a.1557690021176161/2693315304280288/?type=3">first World Pole Championship</a> primarily featured strippers as competitors. But, Are said, the more normie hobbyists entered the pole world, the more pole entrepreneurs distanced themselves from sex workers. The social media hashtag <a href="https://www.reddit.com/r/stripper/comments/vwo33k/notastripper/">#NotAStripper</a> was big in 2016, widely used by young, white women new to pole who were desperate to offload the cultural baggage of their new hobby.</p>
-
-<p class="has-text-align-none">In an attempt to earn respect and an aura of legitimacy in the international sports world, the IPSF and other pole federations rebranded “pole dancing” as “pole sport” or “pole fitness.” Rather than (accurately) trace pole’s origins to <a href="https://www.youtube.com/watch?v=deJ_AIIFWd8">Hoochie Coochie</a> and burlesque dancers, a certain brand of athlete would rewrite history, attributing modern pole fitness to the ancient male-dominated sports of <a href="https://www.youtube.com/watch?v=7M7Z5wYghpc">Mallakhamb</a> — performing yoga poses and wrestling grips on a wooden pole — and <a href="https://www.youtube.com/watch?v=YJVO3UCN9FU">Chinese acrobatic pole</a>. </p>
-
-<p class="has-text-align-none">Bond understands why some pole athletes try to separate themselves from strippers, <a href="https://www.vice.com/en/article/qvxpdm/pole-dancing-sport-offensive-to-strippers">despite the harm it causes professional erotic dancers</a>. As a studio owner, she’s had ads rejected by social media platforms “if there’s any amount of butt shown, and sometimes even when there’s not.” Across the board, <a href="https://www.tandfonline.com/doi/full/10.1080/14680777.2021.1928259">pole accounts are reportedly shadowbanned</a> on TikTok and Instagram, preventing dancers from marketing themselves and monetizing their work. “If these examples are a snapshot of our society,” Are said, “I doubt the Olympics would be any more progressive.” </p>
-
-<p class="has-text-align-none">Today, pole incorporates many flavors of movement, from sensual body rolls to dynamic aerial tumbles. But what’s truly transformative about pole as a movement practice isn’t its athleticism — it’s “the pushing of boundaries of what constitutes strength and power,” and “the liberation from shame,” Are said. Establishing technical scores for something so subjective is tricky, and dancers disagree on whether it should be done at all. “Anytime you watch a movement practice that is embodying art,” Bond said, “it’s really hard to create standards.”&nbsp;</p>
-
-<p class="has-text-align-none">Many of the movements codified by IPSF require both extreme flexibility and strength. Pole athletes competing under its guidelines have to include a set number of tricks from a long list of “flexibility elements” and “strength elements,” with more points awarded to those performing longer continuous sequences of harder, more well-executed tricks. Like gymnastics, pole sport is largely judged based on execution (how flawlessly a trick was performed) and difficulty. But because pole is more “dance” than gymnastics, originality, charisma, and confidence also contribute to the final score. </p>
-
-<p class="has-text-align-none">While gymnasts usually begin training as children, when they’re more pliable and less afraid of hurting themselves, US pole dancers usually aren’t introduced to the sport until adulthood. Studios that do welcome kids <a href="https://www.youtube.com/watch?v=lX6Y0vQOyNs">face immediate backlash</a> from conservative media in the US, so many instructors avoid teaching children altogether. </p>
-
-<p class="has-text-align-none">But in Europe and Latin American countries, pole studios often cater to children, where it’s viewed no differently than youth gymnastics or martial arts. Russia has a well-established youth pole federation, creating a pipeline for <a href="https://www.youtube.com/watch?v=0bdXkpgZ9dU">future Olympic hopefuls</a> to train and compete. Youth pole dancing competitions look a lot like competitions in rhythmic gymnastics or acrobatics — incredibly impressive, albeit standardized and sanitized.</p>
-
-<p class="has-text-align-none">But with standardization comes repetition. Just like the <a href="https://www.youtube.com/watch?v=o2IeEsPki0I">wolf turn</a> has become ubiquitous in gymnastics balance beam and floor routines because it’s a big point-earner, pole tricks like <a href="https://www.instagram.com/reel/C7zAqujs5Im/?utm_source=ig_web_button_share_sheet">Russian splits</a> pop up over and over again in high-level routines.</p>
-
-<p class="has-text-align-none">Some dancers worry that this could tarnish the essence of the movement, a concern <a href="https://www.nytimes.com/2023/10/10/arts/dance/olympics-breaking-dance.html">shared by many B-boys and B-girls</a> leading up to breaking’s Olympic debut. A pole fitness event organized by a federation like IPSF, the current model for Olympic pole sport, involves watching a bunch of performances where people are pushing their bodies to the limit to maximize points. While it showcases athleticism in a way that the IOC may be able to stomach, Are said that “trying to clean up something that is naturally gloriously filthy, nuanced, and porous” strips dancers of their ability to experiment, tell stories, and own their sexuality.</p>
-
-<p class="has-text-align-none">Bond is hopeful that even a sanitized version of pole will give artists the platform they need to introduce a large audience to the full spectrum of movement embodied at clubs and studios. Given society’s squeamishness around sensuality, “we have to play by those rules in order to move our industry of pole forward,” she said. “We only push these things forward by giving people a glimpse.”</p>
-
-<p class="has-text-align-none">Others are less optimistic. If the IOC can embrace all of pole’s history, including its sexuality, and make space for sensual expression in its scoring system — which seems exceedingly unlikely — that would be great.&nbsp;</p>
-
-<p class="has-text-align-none">“If not,” Are said, “bye.”</p>
 						]]>
 									</content>
 			
