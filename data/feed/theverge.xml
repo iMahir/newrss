@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>The Verge -  All Posts</title>
   <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
-  <updated>2024-08-15T13:00:00-04:00</updated>
+  <updated>2024-08-15T13:12:30-04:00</updated>
   <id>https://www.theverge.com/rss/full.xml</id>
   <link type="text/html" href="https://www.theverge.com/" rel="alternate"/>
+  <entry>
+    <published>2024-08-15T13:12:30-04:00</published>
+    <updated>2024-08-15T13:12:30-04:00</updated>
+    <title>Google Pixel phones sold with security vulnerability, report finds</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Photo collage of a phone with a combination lock and keyhole over the screen." src="https://cdn.vox-cdn.com/thumbor/-qSgCHKfUVgl560KElMGl3uAa2c=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73523860/STK478_breaking_into_phone_C.0.jpg" /&gt;
+        &lt;figcaption&gt;Image: Cath Virginia / The Verge; Getty Images&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="NpICuv"&gt;Most Google Pixel phones sold since September 2017 included software that could be used to surveil or remotely control users’ phones, according to a new &lt;a href="https://iverify.io/blog/iverify-discovers-android-vulnerability-impacting-millions-of-pixel-devices-around-the-world"&gt;report&lt;/a&gt; from the cybersecurity company iVerify.&lt;/p&gt;
+&lt;p id="c0i3g0"&gt;The vulnerability was discovered after iVerify’s endpoint detection and response (EDR) scanner flagged an insecure Android device at Palantir Technologies, an iVerify client. After launching a joint investigation, iVerify, Palantir, and Trail of Bits discovered a hidden Android software package — Showcase.apk — across Google Pixel devices. The data-mining firm Palantir, which &lt;a href="https://www.theverge.com/2024/8/8/24216215/palantir-microsoft-azure-ai-defense-partnership-surveillance"&gt;sells its surveillance products to governments&lt;/a&gt; and private companies, banned Android devices across the company in response.&lt;/p&gt;
+&lt;p id="ChcxLI"&gt;“This was very deleterious of trust, to...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2024/8/15/24221151/google-pixel-showcase-software-spyware-palantir-iverify"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/8/15/24221151/google-pixel-showcase-software-spyware-palantir-iverify"/>
+    <id>https://www.theverge.com/2024/8/15/24221151/google-pixel-showcase-software-spyware-palantir-iverify</id>
+    <author>
+      <name>Gaby Del Valle</name>
+    </author>
+  </entry>
   <entry>
     <published>2024-08-15T13:00:00-04:00</published>
     <updated>2024-08-15T13:00:00-04:00</updated>
@@ -226,30 +251,6 @@
     <id>https://www.theverge.com/2024/8/15/24220944/tplink-tapo-d225-video-doorbell-camera-review</id>
     <author>
       <name>Jennifer Pattison Tuohy</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-08-15T10:15:00-04:00</published>
-    <updated>2024-08-15T10:15:00-04:00</updated>
-    <title>What’s next for KOSA, the controversial ‘child safety’ bill that could change online speech</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="Photo collage of a photo of the US Capitol building coming out of a computer window." src="https://cdn.vox-cdn.com/thumbor/TOU6BD6loAyZW10IN0aY3Ec3ers=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73522701/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.0.jpg" /&gt;
-        &lt;figcaption&gt;Image: Cath Virginia / The Verge; Getty Images&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="JMxyv7"&gt;We’ve talked a lot on &lt;em&gt;Decoder &lt;/em&gt;about various attempts to regulate the internet in the United States and how they all run into the very simple fact that almost everything on the internet is speech, and the First Amendment prohibits most speech regulations in this country. Literally, it says, “Congress shall make no law...” and that’s why we don’t have any laws.&lt;/p&gt;
-&lt;p id="faoJqb"&gt;But there’s a major internet speech regulation currently making its way through Congress, and it has a really good chance of becoming law. It’s called KOSPA: the Kids Online Safety and Privacy Act, which &lt;a href="https://www.theverge.com/2024/7/30/24205718/senate-passes-kids-online-safety-act-kosa-content-moderation"&gt;passed in the Senate&lt;/a&gt; with overwhelming bipartisan support late last month. You’ve probably heard of KOSPA’s predecessor KOSA, the Kids Online Safety Act — it got bundled up with...&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/24221014/kosa-child-safety-bills-online-free-speech-first-amendment-congress-decoder-podcast"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/24221014/kosa-child-safety-bills-online-free-speech-first-amendment-congress-decoder-podcast"/>
-    <id>https://www.theverge.com/24221014/kosa-child-safety-bills-online-free-speech-first-amendment-congress-decoder-podcast</id>
-    <author>
-      <name>Nilay Patel</name>
     </author>
   </entry>
 </feed>
