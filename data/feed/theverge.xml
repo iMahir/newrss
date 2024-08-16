@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>The Verge -  All Posts</title>
   <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
-  <updated>2024-08-15T23:03:30-04:00</updated>
+  <updated>2024-08-16T05:01:16-04:00</updated>
   <id>https://www.theverge.com/rss/full.xml</id>
   <link type="text/html" href="https://www.theverge.com/" rel="alternate"/>
+  <entry>
+    <published>2024-08-16T05:01:16-04:00</published>
+    <updated>2024-08-16T05:01:16-04:00</updated>
+    <title>Microsoft is finally removing the FAT32 partition size limit in Windows 11</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Windows format prompt" src="https://cdn.vox-cdn.com/thumbor/4df61tvO3k9iXp9JKtDOGIaeuvk=/0x0:1320x880/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73525135/fat32windows11.0.jpg" /&gt;
+        &lt;figcaption&gt;&lt;em&gt;FAT32 is limited to 32GB in existing versions of Windows.&lt;/em&gt; | Image: Tom Warren / The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="Uigahf"&gt;Microsoft is planning to remove the 32GB size limit for FAT32 partitions in Windows 11. While FAT supports volumes up to 2TB, Windows has had a 32GB arbitrary limit in place for nearly 30 years.&lt;/p&gt;
+&lt;p id="6QsqYK"&gt;“When formatting disks from the command line using the format command, we’ve increased the FAT32 size limit from 32GB to 2TB,” revealed the Windows team &lt;a href="https://blogs.windows.com/windows-insider/2024/08/15/announcing-windows-11-insider-preview-build-27868-canary-channel/"&gt;in a blog post&lt;/a&gt; on Thursday detailing the latest Windows 11 canary test build. &lt;/p&gt;
+&lt;p id="ODggH2"&gt;The limit is only being removed from the format command line right now, so the existing format dialog box will continue to have the FAT32 size limit unless Microsoft finally decides to update this Windows feature it &lt;a href="https://www.theverge.com/2024/3/25/24111288/microsoft-format-drive-windows-ui-dialog"&gt;has forgotten about for decades&lt;/a&gt;.&lt;/p&gt;
+&lt;p id="rLZ6uM"&gt;The 32GB limit was originally put in place during the development of...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2024/8/16/24221635/microsoft-fat32-partition-size-limit-windows-11"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/8/16/24221635/microsoft-fat32-partition-size-limit-windows-11"/>
+    <id>https://www.theverge.com/2024/8/16/24221635/microsoft-fat32-partition-size-limit-windows-11</id>
+    <author>
+      <name>Tom Warren</name>
+    </author>
+  </entry>
   <entry>
     <published>2024-08-15T23:03:30-04:00</published>
     <updated>2024-08-15T23:03:30-04:00</updated>
@@ -229,31 +255,6 @@
     <id>https://www.theverge.com/2024/8/15/24221100/us-offshore-wind-energy-orsted-project-delay-revolution</id>
     <author>
       <name>Justine Calma</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-08-15T14:33:36-04:00</published>
-    <updated>2024-08-15T14:33:36-04:00</updated>
-    <title>OpenAI’s new voice mode threw me into the uncanny valley</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="OpenAI’s advanced voice mode over an ombre colored background" src="https://cdn.vox-cdn.com/thumbor/hYogMNZOfCzbrwA-Ehw1t3-AWGo=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73524033/voice_alpha2.0.png" /&gt;
-        &lt;figcaption&gt;OpenAI&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="o9Jiuo"&gt;It’s strange to sit down at my desk and talk to an AI about my life — but that’s what I spent my Tuesday doing.&lt;/p&gt;
-&lt;p id="DPYKfO"&gt;I’d gotten access to OpenAI’s Advanced Voice Mode, the new ChatGPT feature that sounds strangely like a human. When &lt;a href="https://www.theverge.com/2024/8/1/24211328/openais-uncanny-valley"&gt;counting quickly, it’ll pretend it’s out of breath&lt;/a&gt;. It says “um” and “uh.” It laughs. It changes tone when talking about difficult or upbeat topics. After messing around with it, I felt equal parts amazed and uncomfortable. It sounds natural (when it isn’t glitching), it responds in seconds, and you’re able to interrupt it and ask new things — but do we need chatbots that sound like us?&lt;/p&gt;
-&lt;p id="hd0vox"&gt;Advanced Voice Mode features several different voice options, and I chose Juniper, a feminine persona reminiscent of the movie &lt;em&gt;H...&lt;/em&gt;&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2024/8/15/24220378/openai-advanced-voice-mode-uncanny-valley"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/8/15/24220378/openai-advanced-voice-mode-uncanny-valley"/>
-    <id>https://www.theverge.com/2024/8/15/24220378/openai-advanced-voice-mode-uncanny-valley</id>
-    <author>
-      <name>Kylie Robison</name>
     </author>
   </entry>
 </feed>
