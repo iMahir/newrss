@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 16 Aug 2024 13:44:43 +0000</lastBuildDate>
-    <pubDate>Fri, 16 Aug 2024 13:38:21 +0000</pubDate>
+    <lastBuildDate>Fri, 16 Aug 2024 14:10:07 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Aug 2024 14:08:53 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -34,10 +34,18 @@
       <dc:creator>Aaron Boxerman, Adam Rasgon and Michael Levenson</dc:creator>
       <pubDate>Thu, 15 Aug 2024 23:05:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/15/multimedia/15Mideast-Crisis-Leadall-hcvl/15Mideast-Crisis-Leadall-hcvl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Clodagh Kilcoyne/Reuters</media:credit>
       <media:description>Doha earlier this year. The Qatari capital is the scene of talks aimed at stopping the fighting in the Gaza Strip.</media:description>
@@ -75,7 +83,7 @@
       <atom:link href="https://www.nytimes.com/2024/08/16/world/europe/ukraine-russia-kursk-incursion.html" rel="standout"></atom:link>
       <description>Ukraine’s forces could try advancing farther on Russian soil, or return to the front line, where Moscow is making gains. There are arguments for various options.</description>
       <dc:creator>Kim Barker and Constant Méheut</dc:creator>
-      <pubDate>Fri, 16 Aug 2024 11:27:03 +0000</pubDate>
+      <pubDate>Fri, 16 Aug 2024 14:01:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
@@ -276,6 +284,20 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/14/multimedia/15afghanistan-1-mzkh/14afghanistan-1-mzkh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mohsen Karimi/Agence France-Presse — Getty Images</media:credit>
       <media:description>Celebrating the third anniversary of the Taliban takeover of Afghanistan in Herat on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>What I’m Reading: Why Democracy Erodes From the Top</title>
+      <link>https://www.nytimes.com/2024/08/16/world/europe/what-im-reading-why-democracy-erodes-from-the-top.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/16/world/europe/what-im-reading-why-democracy-erodes-from-the-top.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/16/world/europe/what-im-reading-why-democracy-erodes-from-the-top.html" rel="standout"></atom:link>
+      <description>Three book recommendations from sunny London.</description>
+      <dc:creator>Amanda Taub</dc:creator>
+      <pubDate>Fri, 16 Aug 2024 13:44:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/08/16/multimedia/16Interpreter-Reading-Newsletter-fbpc/16Interpreter-Reading-Newsletter-fbpc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ilvy Njiokiktjien for The New York Times</media:credit>
+      <media:description>When it’s hot, books are a balm.</media:description>
     </item>
     <item>
       <title>Dolphin Attacks Spoil Summer Along a Stretch of Japanese Beaches</title>
@@ -1128,27 +1150,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/08/13/multimedia/13ukraine-russia-incursion-01-mckt/13ukraine-russia-incursion-01-mckt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>David Guttenfelder for The New York Times</media:credit>
       <media:description>A Ukrainian military vehicle passing through a destroyed Russian border post this month.</media:description>
-    </item>
-    <item>
-      <title>Seven Pro-Palestinian Activists Charged Over Break-In at Israeli Arms Company’s U.K. Site</title>
-      <link>https://www.nytimes.com/2024/08/13/world/europe/israeli-arms-company-elbit-break-in.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/08/13/world/europe/israeli-arms-company-elbit-break-in.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/08/13/world/europe/israeli-arms-company-elbit-break-in.html" rel="standout"></atom:link>
-      <description>Prosecutors argued in court that pro-Palestinian activists had vandalized a site belonging to Elbit, an arms manufacturer, and had committed offenses with a “terrorist connection.”</description>
-      <dc:creator>Lynsey Chutel</dc:creator>
-      <pubDate>Tue, 13 Aug 2024 20:26:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Elbit Systems Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bristol (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Crown Prosecution Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/13/world/13-UK-DEFENSE/13-UK-DEFENSE-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Burak Bir/Anadolu, via Getty Images</media:credit>
-      <media:description>The entrance to the Elbit site near Bristol, in March. Last week, a protest group called Palestine Action broke into the building and smashed items inside. Police said its members also attacked officers and a security guard.</media:description>
     </item>
   </channel>
 </rss>
