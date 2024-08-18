@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?dataType=xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 18 Aug 2024 12:22:11 +0000</lastBuildDate>
-    <pubDate>Sun, 18 Aug 2024 12:16:31 +0000</pubDate>
+    <lastBuildDate>Sun, 18 Aug 2024 12:47:25 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Aug 2024 12:26:40 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -28,6 +28,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caracas (Venezuela)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/18/world/18Venezuela-Deaths-New-Top/18Venezuela-Deaths-New-Top-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>The New York Times</media:credit>
       <media:description>Friends and family of Jeison Gabriel España, 18, mourning during his burial. Mr. España was killed while protesting in a low-income neighborhood in Caracas, Venezuela.</media:description>
