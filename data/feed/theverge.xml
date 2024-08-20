@@ -107,7 +107,7 @@
   <entry>
     <published>2024-08-19T17:59:37-04:00</published>
     <updated>2024-08-19T17:59:37-04:00</updated>
-    <title>Plain text passwords may have struck again</title>
+    <title>Plaintext passwords may have struck again</title>
     <content type="html">  
 
     &lt;figure&gt;
@@ -116,7 +116,7 @@
     &lt;/figure&gt;
 
   &lt;p id="2S0vL7"&gt;National Public Data (NPD) &lt;a href="https://www.theverge.com/2024/8/16/24222112/data-breach-national-public-data-2-9-billion-ssn"&gt;confirmed last week&lt;/a&gt; that it suffered a security breach dating back to December last year. An &lt;a href="https://www.theverge.com/2024/8/14/24220212/national-public-data-breach-social-security-3-billion"&gt;alleged stolen NPD database containing 2.9 billion lines of data&lt;/a&gt;, including Social Security numbers, was advertised on the dark web in April by a hacker group known as USDoD for $3.5 million, and the stolen data has since been posted publicly in various locations.&lt;/p&gt;
-&lt;p id="lTELHJ"&gt;Now, &lt;a href="https://krebsonsecurity.com/2024/08/national-public-data-published-its-own-passwords/"&gt;&lt;em&gt;Krebs On Security&lt;/em&gt; reports&lt;/a&gt; a roughly identical website to NPD called recordscheck.net was found to be hosting an archive containing site logins as well as source code for some of the site’s tools in plaintext. That would’ve been enough information to access the same consumer records as NPD. The now-removed file contained email data belonging to NPD founder...&lt;/p&gt;
+&lt;p id="lTELHJ"&gt;Now, &lt;a href="https://krebsonsecurity.com/2024/08/national-public-data-published-its-own-passwords/"&gt;Krebs On Security reports&lt;/a&gt; a roughly identical website to NPD called recordscheck.net was found to be hosting an archive containing site logins as well as source code for some of the site’s tools in plaintext. That would’ve been enough information to access the same consumer records as NPD. The now-removed file contained email data belonging to NPD founder...&lt;/p&gt;
   &lt;p&gt;
     &lt;a href="https://www.theverge.com/2024/8/19/24223858/national-public-data-breach-ssn-privacy"&gt;Continue reading&amp;hellip;&lt;/a&gt;
   &lt;/p&gt;
