@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.7500048948585667" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 22 Aug 2024 18:11:33 +0000</lastBuildDate>
-    <pubDate>Thu, 22 Aug 2024 18:09:12 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Aug 2024 18:46:35 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Aug 2024 18:44:30 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,8 +21,8 @@
       <atom:link href="https://www.nytimes.com/live/2024/08/22/world/israel-hamas-iran-gaza-war" rel="standout"></atom:link>
       <description>The Israeli military said its forces had “intensified their operational activities in the area” of Deir al-Balah, after its intelligence indicated the presence of Hamas.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 22 Aug 2024 18:06:54 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/22/multimedia/22mideast-crisis-gaza-promo-1pm/22mideast-crisis-gaza-promo-1pm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <pubDate>Thu, 22 Aug 2024 18:38:06 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/22/multimedia/22mideast-crisis-gaza-promo-215pm/22mideast-crisis-gaza-evacuations-jlcv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Abdel Kareem Hana/Associated Press</media:credit>
     </item>
     <item>
@@ -94,6 +94,24 @@
       <media:description>A Canadian Pacific Kansas City railyard in British Columbia. Half of all Canadian exports are moved by train, according to an industry group.</media:description>
     </item>
     <item>
+      <title>Venezuela’s Loyalist Supreme Court Certifies Maduro’s Election Win</title>
+      <link>https://www.nytimes.com/2024/08/22/world/americas/venezuela-supreme-court-maduro-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/22/world/americas/venezuela-supreme-court-maduro-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/22/world/americas/venezuela-supreme-court-maduro-election.html" rel="standout"></atom:link>
+      <description>The court did not share voting data to back up its decision despite demands from Venezuelans and international election observers that the government produce evidence of his victory.</description>
+      <dc:creator>Julie Turkewitz and Genevieve Glatsky</dc:creator>
+      <pubDate>Thu, 22 Aug 2024 18:36:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gonzalez, Edmundo (1949- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Machado, Maria Corina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/22/multimedia/22venezuela-gmvl/22venezuela-gmvl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Federico Parra/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Caryslia Rodríguez, president of Venezuela’s top court, declares Mr. Maduro the winner in July’s presidential vote.</media:description>
+    </item>
+    <item>
       <title>Mike Lynch’s Body Is Found After Sicily Yacht Sinking, Official Says</title>
       <link>https://www.nytimes.com/2024/08/22/world/europe/italy-sicily-yacht-bodies-found.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/08/22/world/europe/italy-sicily-yacht-bodies-found.html</guid>
@@ -119,7 +137,7 @@
       <atom:link href="https://www.nytimes.com/2024/08/22/world/europe/germany-ukraine-aid-scholz.html" rel="standout"></atom:link>
       <description>With a budget shortfall for 2025 and evidence mounting that Ukraine blew up natural-gas pipelines between Germany and Russia, German aid to Ukraine is under pressure.</description>
       <dc:creator>Steven Erlanger</dc:creator>
-      <pubDate>Thu, 22 Aug 2024 16:54:13 +0000</pubDate>
+      <pubDate>Thu, 22 Aug 2024 18:31:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
@@ -192,29 +210,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/05/15/multimedia/21iceland-cucumber/as-cucumber-salad-cvpz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Christopher Testani for The New York Times</media:credit>
       <media:description>Cucumbers are missing from produce aisles across Iceland.</media:description>
-    </item>
-    <item>
-      <title>Wilmer Puello-Mota, Ex-U.S. Airman Charged With Child Pornography, Appears in Russian Video</title>
-      <link>https://www.nytimes.com/2024/08/21/world/europe/wilmer-puello-mota-airman-russia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/08/21/world/europe/wilmer-puello-mota-airman-russia.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/08/21/world/europe/wilmer-puello-mota-airman-russia.html" rel="standout"></atom:link>
-      <description>“I don’t consider myself a traitor,” said Wilmer Puello-Mota, who has enlisted in the Russian military.</description>
-      <dc:creator>Eve Sampson</dc:creator>
-      <pubDate>Thu, 22 Aug 2024 13:52:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reserves (Military)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Pornography</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fugitives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defectors (Political)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Massachusetts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Air National Guard</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wilmer Puello-Mota</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/21/multimedia/21russia-veteran-qhfp/21russia-veteran-qhfp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>via Associated Press</media:credit>
-      <media:description>An image taken from a video posted on pro-Kremlin media sites appeared to show Wilmer Puello-Mota in a military enlistment office in Siberia.</media:description>
     </item>
     <item>
       <title>Russia Pushes Forward in Ukraine’s East as Kursk Offensive Slows</title>
@@ -320,7 +315,7 @@
       <atom:link href="https://www.nytimes.com/2024/08/22/climate/fish-stocks-overcounting.html" rel="standout"></atom:link>
       <description>A new study suggests that estimates of the health of the world’s fisheries may be too optimistic.</description>
       <dc:creator>Manuela Andreoni</dc:creator>
-      <pubDate>Thu, 22 Aug 2024 18:04:32 +0000</pubDate>
+      <pubDate>Thu, 22 Aug 2024 18:04:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fishing, Commercial</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
@@ -338,7 +333,7 @@
       <atom:link href="https://www.nytimes.com/2024/08/22/climate/climate-policies.html" rel="standout"></atom:link>
       <description>The most effective ones tend to combine several emissions-cutting strategies, not a stand-alone approach, according to an examination of 1,500 policies globally.</description>
       <dc:creator>Austyn Gaffney</dc:creator>
-      <pubDate>Thu, 22 Aug 2024 18:00:05 +0000</pubDate>
+      <pubDate>Thu, 22 Aug 2024 18:22:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
@@ -452,6 +447,29 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/21/multimedia/21mideast-crisis-dnc-uncommitted1-pwvz/21mideast-crisis-dnc-uncommitted1-pwvz-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Ruth Fremson/The New York Times</media:credit>
       <media:description>Delegates holding signs on Tuesday to protest the war in Gaza.</media:description>
+    </item>
+    <item>
+      <title>Wilmer Puello-Mota, Ex-U.S. Airman Charged With Child Pornography, Appears in Russian Video</title>
+      <link>https://www.nytimes.com/2024/08/21/world/europe/wilmer-puello-mota-airman-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/21/world/europe/wilmer-puello-mota-airman-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/21/world/europe/wilmer-puello-mota-airman-russia.html" rel="standout"></atom:link>
+      <description>“I don’t consider myself a traitor,” said Wilmer Puello-Mota, who has enlisted in the Russian military.</description>
+      <dc:creator>Eve Sampson</dc:creator>
+      <pubDate>Thu, 22 Aug 2024 13:52:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reserves (Military)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Pornography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fugitives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defectors (Political)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Massachusetts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Air National Guard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wilmer Puello-Mota</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/21/multimedia/21russia-veteran-qhfp/21russia-veteran-qhfp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>via Associated Press</media:credit>
+      <media:description>An image taken from a video posted on pro-Kremlin media sites appeared to show Wilmer Puello-Mota in a military enlistment office in Siberia.</media:description>
     </item>
     <item>
       <title>Andy Kim, Who Cleaned the Capitol After Jan. 6, Debuts on a Bigger Stage</title>
@@ -1174,28 +1192,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/08/20/multimedia/20ambrf-euro-Israel-Blinken-jtzm/20ambrf-euro-Israel-Blinken-jtzm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Kevin Mohatt</media:credit>
       <media:description>Antony J. Blinken, left, the U.S. secretary of state, with President Isaac Herzog of Israel at a Tel Aviv news conference yesterday.</media:description>
-    </item>
-    <item>
-      <title>They Ran a Campaign in Hiding. Now They Wait.</title>
-      <link>https://www.nytimes.com/2024/08/20/world/americas/venezuela-opposition-leaders-argentine-embassy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/08/20/world/americas/venezuela-opposition-leaders-argentine-embassy.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/08/20/world/americas/venezuela-opposition-leaders-argentine-embassy.html" rel="standout"></atom:link>
-      <description>The campaign officials for Venezuela’s opposition have sheltered in an Argentine diplomatic residence in Caracas for five months, watching the country’s turmoil from asylum.</description>
-      <dc:creator>Genevieve Glatsky</dc:creator>
-      <pubDate>Tue, 20 Aug 2024 12:46:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gonzalez, Edmundo (1949- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Machado, Maria Corina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caracas (Venezuela)</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2024/08/19/multimedia/00argentine-embassy-01-jkwl/00argentine-embassy-01-jkwl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Leonardo Fernandez Viloria/Reuters</media:credit>
-      <media:description>Humberto Villalobos, Omar González, Claudia Macero, Magalli Meda and Pedro Urruchurtu at the Argentine diplomatic residence in Caracas.</media:description>
     </item>
   </channel>
 </rss>
