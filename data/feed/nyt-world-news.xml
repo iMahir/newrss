@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.04566939910707557" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 23 Aug 2024 14:44:27 +0000</lastBuildDate>
-    <pubDate>Fri, 23 Aug 2024 14:32:11 +0000</pubDate>
+    <lastBuildDate>Fri, 23 Aug 2024 15:10:28 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Aug 2024 15:08:25 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -107,13 +107,18 @@
       <dc:creator>Raja Abdulrahim, Abu Bakr Bashir and Isabel Kershner</dc:creator>
       <pubDate>Thu, 22 Aug 2024 21:50:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/22/multimedia/22mideast-1-whlq/22mideast-1-whlq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Abdel Kareem Hana/Associated Press</media:credit>
       <media:description>Palestinian women mourn a relative killed in the Israeli bombardment of the Gaza Strip, at a hospital in Deir al-Balah, on Thursday.</media:description>
@@ -159,7 +164,7 @@
       <atom:link href="https://www.nytimes.com/2024/08/23/world/americas/uruguay-mujica-love-story.html" rel="standout"></atom:link>
       <description>José Mujica and Lucía Topolansky have long been married to one another — and their leftist political cause.</description>
       <dc:creator>Jack Nicas</dc:creator>
-      <pubDate>Fri, 23 Aug 2024 09:03:38 +0000</pubDate>
+      <pubDate>Fri, 23 Aug 2024 15:07:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bank Robberies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prison Escapes</category>
@@ -274,13 +279,13 @@
       <media:description>Train cars at a Canadian National rail yard on Thursday in Surrey, British Columbia. The lockout had threatened to cause supply-chain disruptions in the United States and serious economic consequences in Canada. </media:description>
     </item>
     <item>
-      <title>Biden’s National Security Adviser Will Visit China Next Week</title>
+      <title>Jake Sullivan, Biden’s National Security Adviser, Will Visit China Next Week</title>
       <link>https://www.nytimes.com/2024/08/23/us/politics/biden-china-us.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/08/23/us/politics/biden-china-us.html</guid>
       <atom:link href="https://www.nytimes.com/2024/08/23/us/politics/biden-china-us.html" rel="standout"></atom:link>
       <description>A final meeting between President Biden and China’s leader, Xi Jinping, is also likely to come up.</description>
       <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Fri, 23 Aug 2024 14:23:00 +0000</pubDate>
+      <pubDate>Fri, 23 Aug 2024 14:23:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullivan, Jacob J (1976- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wang Yi</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
@@ -468,7 +473,7 @@
       <atom:link href="https://www.nytimes.com/2024/08/22/world/africa/large-diamond-botswana.html" rel="standout"></atom:link>
       <description>The diamond was unearthed using new technology, and miners hope it will bring back luster to a struggling industry.</description>
       <dc:creator>Lynsey Chutel</dc:creator>
-      <pubDate>Thu, 22 Aug 2024 19:28:38 +0000</pubDate>
+      <pubDate>Fri, 23 Aug 2024 15:05:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Diamonds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Luxury Goods and Services</category>
@@ -718,14 +723,19 @@
       <description>The rape and murder of a trainee doctor at her own hospital has brought up, once again, uncomfortable truths about a country that wants to be a global leader.</description>
       <dc:creator>Anupreeta Das and Sameer Yasir</dc:creator>
       <pubDate>Thu, 22 Aug 2024 09:03:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kolkata (India)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Domestic Violence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Care Workers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Strikes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court of India</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/22/multimedia/22india-1-hwqv/22india-1-hwqv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Piyal Adhikary/EPA, via Shutterstock</media:credit>
