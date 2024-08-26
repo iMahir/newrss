@@ -5,11 +5,102 @@
     <title>Mashable</title>
     <link>https://mashable.com/feeds/rss/all</link>
     <description>Mashable is a global, multi-platform media and entertainment company.</description>
-    <pubDate>Mon, 26 Aug 2024 09:18:13 +0000</pubDate>
+    <pubDate>Mon, 26 Aug 2024 09:48:29 +0000</pubDate>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Aug 2024 09:18:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 09:48:29 +0000</lastBuildDate>
     <copyright>©2024 Mashable, Inc. All Rights Reserved.</copyright>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[How to identify AI-generated images]]></title>
+      <link>https://mashable.com/article/how-to-identify-ai-generated-images</link>
+      <guid isPermaLink="false">041yeKy6cF6xEcvxfTcS2rh</guid>
+      <pubDate>Mon, 26 Aug 2024 09:30:00 +0000</pubDate>
+      <description><![CDATA[AI image detection can be accomplished with the naked eye, but online tools, and special techniques like reverse image search can help.]]></description>
+      <content:encoded><![CDATA[<img src="https://helios-i.mashable.com/imagery/articles/041yeKy6cF6xEcvxfTcS2rh/hero-image.jpg" alt="illustration of a magnifying glass examining a fingerprint"><p>First, the bad news: it's really hard to detect AI-generated images. The telltale signs that used to be giveaways &mdash; warped hands and jumbled text &mdash; are increasingly rare as AI models improve at a dizzying pace.&nbsp;</p><p>It's no longer obvious what images are created using popular tools like Midjourney, Stable Diffusion, DALL-E, and Gemini. In fact, AI-generated images are starting to dupe people even more, which has created major issues in <a href="https://mashable.com/article/donald-trump-taylor-swift-endorsement-truth-social" target="_self" data-ga-click="1" data-ga-element="offer" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">spreading misinformation</a>. The good news is that it's usually not impossible to identify AI-generated images, but it takes more effort than it used to.</p><h2>AI image detectors - proceed with caution</h2><p>These tools use computer vision to examine pixel patterns and determine the likelihood of an image being AI-generated. That means, AI detectors aren't completely foolproof, but it's a good way for the average person to determine whether an image merits some scrutiny &mdash; especially when it's not immediately obvious. </p><p>"Unfortunately, for the human eye &mdash; and <a href="https://www.nexcess.net/resources/ai-vs-human-study/" target="_blank" data-ga-click="1" data-ga-element="offer" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">there</a> are <a href="https://arxiv.org/html/2402.03214v1" target="_blank" data-ga-click="1" data-ga-element="offer" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">studies</a> &mdash; it's about a fifty-fifty chance that a person gets it," said Anatoly Kvitnitsky, CEO of AI image detection platform <a href="https://www.aiornot.com/" target="_blank" data-ga-click="1" data-ga-element="offer" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body"><u>AI or Not</u></a>. "But for AI detection for images, due to the pixel-like patterns, those still exist, even as the models continue to get better." Kvitnitsky claims AI or Not achieves a 98 percent accuracy rate on average.</p><p>Other AI detectors that have generally high success rates include <a href="https://hivemoderation.com/ai-generated-content-detection" target="_blank" data-ga-click="1" data-ga-element="offer" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body"><u>Hive Moderation</u></a>, <a href="https://huggingface.co/Organika/sdxl-detector" target="_blank" data-ga-click="1" data-ga-element="offer" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body"><u>SDXL Detector</u></a> on Hugging Face, and <a href="https://illuminarty.ai/en/" target="_blank" data-ga-click="1" data-ga-element="offer" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">Illuminarty</a>. We tested ten AI-generated images on all of these detectors to see how they did.</p><h3>AI or Not </h3><p>AI or Not gives a simple "yes" or "no" unlike other AI image detectors, but it correctly said the image was AI-generated. With the free plan, you get 10 uploads a month. We tried with 10 images and got an 80 percent success rate. </p><div class="eloquent-imagery-image">
+    <div class="flex justify-center">
+                    <img class="border border-gray-100" src="https://helios-i.mashable.com/imagery/articles/041yeKy6cF6xEcvxfTcS2rh/images-1.fill.size_2000x974.v1724342370.jpg" alt="AI or Not image detector correctly identifying an image of donald trump carrying a wheelbarrow of muffins as AI-generated" width="2000" height="974" loading="lazy" srcset="https://helios-i.mashable.com/imagery/articles/041yeKy6cF6xEcvxfTcS2rh/images-1.fill.size_800x389.v1724342370.jpg 800w, https://helios-i.mashable.com/imagery/articles/041yeKy6cF6xEcvxfTcS2rh/images-1.fill.size_1400x681.v1724342370.jpg 1400w, https://helios-i.mashable.com/imagery/articles/041yeKy6cF6xEcvxfTcS2rh/images-1.fill.size_2000x974.v1724342370.jpg 2000w" sizes="(max-width: 1408px) 100vw, 1408px">
+
+
+            </div>
+            <div class="mt-2 subtitle-2 font-sans ">
+            <span class="normal-case text-gray-1000">AI or Not correctly identified this image as AI-generated.</span>
+            <span class="text-gray-600 credit">Credit: Screenshot: Mashable / AI or Not</span>
+        </div>
+    </div>
+<h3>Hive Moderation</h3><p>We tried Hive Moderation's free demo tool with over 10 different images and got a 90 percent overall success rate, meaning they had a high probability of being AI-generated. However, it failed to detect the AI-qualities of an artificial image of a chipmunk army scaling a rock wall. </p><div class="eloquent-imagery-image">
+    <div class="flex justify-center">
+                    <img class="border border-gray-100" src="https://helios-i.mashable.com/imagery/articles/041yeKy6cF6xEcvxfTcS2rh/images-5.fill.size_2000x976.v1724353269.jpg" alt="hive moderation ai detector saying an ai-generated image of a chipmunk army scaling a stone wall has a 13.8 percent probability of bein ai generated.   " width="2000" height="976" loading="lazy" srcset="https://helios-i.mashable.com/imagery/articles/041yeKy6cF6xEcvxfTcS2rh/images-5.fill.size_800x390.v1724353269.jpg 800w, https://helios-i.mashable.com/imagery/articles/041yeKy6cF6xEcvxfTcS2rh/images-5.fill.size_1400x683.v1724353269.jpg 1400w, https://helios-i.mashable.com/imagery/articles/041yeKy6cF6xEcvxfTcS2rh/images-5.fill.size_2000x976.v1724353269.jpg 2000w" sizes="(max-width: 1408px) 100vw, 1408px">
+
+
+            </div>
+            <div class="mt-2 subtitle-2 font-sans ">
+            <span class="normal-case text-gray-1000">We'd love to believe a chipmunk army is real, but the AI detector got it wrong.</span>
+            <span class="text-gray-600 credit">Credit: Screenshot: Mashable / Hive Moderation</span>
+        </div>
+    </div>
+<h3>SDXL Detector</h3><p>The SDXL Detector on Hugging Face takes a few seconds to load, and you might initially get an error on the first try, but it's completely free. It also gives a probability percentage instead. It said 70 percent of the AI-generated images had a high probability of being generative AI.</p><div class="eloquent-imagery-image">
+    <div class="flex justify-center">
+                    <img class="border border-gray-100" src="https://helios-i.mashable.com/imagery/articles/041yeKy6cF6xEcvxfTcS2rh/images-3.fill.size_2000x973.v1724353269.jpg" alt="sdxl detector correctly identifying an image of barack obama at a sink as ai-generated" width="2000" height="973" loading="lazy" srcset="https://helios-i.mashable.com/imagery/articles/041yeKy6cF6xEcvxfTcS2rh/images-3.fill.size_800x389.v1724353269.jpg 800w, https://helios-i.mashable.com/imagery/articles/041yeKy6cF6xEcvxfTcS2rh/images-3.fill.size_1400x681.v1724353269.jpg 1400w, https://helios-i.mashable.com/imagery/articles/041yeKy6cF6xEcvxfTcS2rh/images-3.fill.size_2000x973.v1724353269.jpg 2000w" sizes="(max-width: 1408px) 100vw, 1408px">
+
+
+            </div>
+            <div class="mt-2 subtitle-2 font-sans ">
+            <span class="normal-case text-gray-1000">SDXL Detector correctly identified a tricky Grok-2-generated image of Barack Obama in a public bathroom</span>
+            <span class="text-gray-600 credit">Credit: Screenshot: Mashable / SDXL Detector</span>
+        </div>
+    </div>
+<h3>Illuminarty</h3><p>Illuminarty has a free plan that provides basic AI image detection. Out of the 10 AI-generated images we uploaded, it only classified 50 percent as having a very low probability. To the horror of rodent biologists, it gave the infamous <a href="https://mashable.com/article/ai-rat-penis-diagram-midjourney-science" target="_self" data-ga-click="1" data-ga-element="offer" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">rat dick image</a> a low probability of being AI-generated. </p><div class="eloquent-imagery-image">
+    <div class="flex justify-center">
+                    <img class="border border-gray-100" src="https://helios-i.mashable.com/imagery/articles/041yeKy6cF6xEcvxfTcS2rh/images-4.fill.size_2000x980.v1724353269.jpg" alt="Illuminarty AI detector saying a AI generated drawing of a rat with what appears to be an enormous penis has a low probability of being ai generated." width="2000" height="980" loading="lazy" srcset="https://helios-i.mashable.com/imagery/articles/041yeKy6cF6xEcvxfTcS2rh/images-4.fill.size_800x392.v1724353269.jpg 800w, https://helios-i.mashable.com/imagery/articles/041yeKy6cF6xEcvxfTcS2rh/images-4.fill.size_1400x686.v1724353269.jpg 1400w, https://helios-i.mashable.com/imagery/articles/041yeKy6cF6xEcvxfTcS2rh/images-4.fill.size_2000x980.v1724353269.jpg 2000w" sizes="(max-width: 1408px) 100vw, 1408px">
+
+
+            </div>
+            <div class="mt-2 subtitle-2 font-sans ">
+            <span class="normal-case text-gray-1000">Ummm, this one seemed like a lay-up.</span>
+            <span class="text-gray-600 credit">Credit: Screenshot: Mashable / Illuminarty</span>
+        </div>
+    </div>
+<p>As you can see, AI detectors are mostly pretty good, but not infallible and shouldn't be used as the only way to authenticate an image. Sometimes, they're able to detect deceptive AI-generated images even though they look real, and sometimes they get it wrong with images that are clearly AI creations. This is exactly why a combination of methods is best.</p><h2>Other tips and tricks</h2><h3>The ol' reverse image search</h3><p>Another way to detect AI-generated images is the simple reverse image search which is what Bamshad Mobasher, professor of computer science and the director of the Center for Web Intelligence at DePaul University College of Computing and Digital Media in Chicago recommends. By uploading an image to Google Images or a reverse image search tool, you can trace the provenance of the image. If the photo shows an ostensibly real news event, "you may be able to determine that it's fake or that the actual event didn't happen," said Mobasher.</p><h3>Google's "About this Image" tool</h3><p>Google Search also has an "About this Image" feature that provides contextual information like when the image was first indexed, and where else it appeared online. This is found by clicking on the three dots icon in the upper right corner of an image.</p><h2>Telltale signs that the naked eye can spot</h2><p>Speaking of which, while AI-generated images are getting scarily good, it's still worth looking for the telltale signs. As mentioned above, you might still occasionally see an image with warped hands, hair that looks a little too perfect, or text within the image that's garbled or nonsensical.&nbsp;Our sibling site PCMag's <a href="https://www.pcmag.com/articles/how-to-detect-ai-created-images" target="_blank" data-ga-click="1" data-ga-element="offer" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">breakdown</a> recommends looking in the background for blurred or warped objects, or subjects with flawless &mdash; and we mean no pores, flawless &mdash; skin.</p><p>At a first glance, the Midjourney image below looks like a Kardashian relative promoting a cookbook that could easily be from Instagram. But upon further inspection, you can see the contorted sugar jar, warped knuckles, and skin that's a little too smooth.</p><div class="eloquent-imagery-image">
+    <div class="flex justify-center">
+                    <img class="border border-gray-100" src="https://helios-i.mashable.com/imagery/articles/041yeKy6cF6xEcvxfTcS2rh/images-6.fill.size_2000x2000.v1724355872.jpg" alt="AI generated image of a woman with long brown hair chopping vegetables in a sunny kitchen" width="2000" height="2000" loading="lazy" srcset="https://helios-i.mashable.com/imagery/articles/041yeKy6cF6xEcvxfTcS2rh/images-6.fill.size_800x800.v1724355872.jpg 800w, https://helios-i.mashable.com/imagery/articles/041yeKy6cF6xEcvxfTcS2rh/images-6.fill.size_1400x1400.v1724355872.jpg 1400w, https://helios-i.mashable.com/imagery/articles/041yeKy6cF6xEcvxfTcS2rh/images-6.fill.size_2000x2000.v1724355872.jpg 2000w" sizes="(max-width: 1408px) 100vw, 1408px">
+
+
+            </div>
+            <div class="mt-2 subtitle-2 font-sans ">
+            <span class="normal-case text-gray-1000">At a second glance, all is not as it seems in this image.</span>
+            <span class="text-gray-600 credit">Credit: Mashable / Midjourney</span>
+        </div>
+    </div>
+<p>"AI can be good at generating the overall scene, but the devil is in the details," wrote Sasha Luccioni, AI and climate lead at Hugging Face, in an email to Mashable.&nbsp;Look for "mostly small inconsistencies: extra fingers, asymmetrical jewelry or facial features, incongruities in objects (an extra handle on a teapot)."</p><p>Mobasher, who is also a fellow at the Institute of Electrical and Electronics Engineers (IEEE), said to zoom in and look for "odd details" like stray pixels and other inconsistencies, like subtly mismatched earrings.&nbsp;</p><p>"You may find part of the same image with the same focus being blurry but another part being super detailed," Mobasher said. This is especially true in the backgrounds of images. "If you have signs with text and things like that in the backgrounds, a lot of times they end up being garbled or sometimes not even like an actual language," he added.</p><p>This image of a parade of Volkswagen vans parading down a beach was created by Google's Imagen 3. The sand and busses look flawlessly photorealistic. But look closely, and you'll notice the lettering on the third bus where the VW logo should be is just a garbled symbol, and there are amorphous splotches on the fourth bus.</p><div class="mx-auto mt-8 max-w-3xl">
+        <div class="flex flex-col space-y-4 md:flex-row md:space-y-0 md:space-x-4">
+        <div class="w-full md:w-1/2">
+                                        <img style="width:100%;" class="w-full border border-gray-100" src="https://helios-i.mashable.com/imagery/articles/041yeKy6cF6xEcvxfTcS2rh/images-7.fit_lim.size_376x.jpg" alt="imagen 3 generated image of a parade of Volkswagen busses driving on a beach at sunset" loading="lazy" width="1024" height="1024">
+                <div class="mt-4 font-sans text-left subtitle-2">
+                                            <span class="normal-case text-gray-1000">We're sure a VW bus parade happened at some point, but this ain't it.</span>
+                                                                <span class="text-gray-600 credit">Credit: Mashable / Google </span>
+                                    </div>
+                    </div>
+        <div class="w-full md:w-1/2">
+                                        <img class="w-full border border-gray-100" src="https://helios-i.mashable.com/imagery/articles/041yeKy6cF6xEcvxfTcS2rh/images-8.fit_lim.size_376x.jpg" alt="close up of imagen 3 generated image of a parade of Volkswagen busses driving on a beach at sunset" loading="lazy" width="311" height="248">
+                <div class="mt-4 font-sans text-left subtitle-2">
+                                            <span class="normal-case text-gray-1000">Notice the garbled logo and weird splotches.</span>
+                                                                <span class="text-gray-600 credit">Credit: Mashable / Google </span>
+                                    </div>
+                    </div>
+    </div>
+</div>
+<h2>It all comes down to AI literacy</h2><p>None of the above methods will be all that useful if you don't first pause while consuming media &mdash; particularly social media &mdash; to wonder if what you're seeing is AI-generated in the first place. Much like media literacy that became a popular concept around the misinformation-rampant 2016 election, AI literacy is the first line of defense for determining what's real or not.&nbsp;</p><p>AI researchers Duri Long and Brian Magerko's <a href="https://dl.acm.org/doi/10.1145/3313831.3376727" target="_blank" data-ga-click="1" data-ga-element="offer" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">define</a> AI literacy as "a set of competencies that enables individuals to critically evaluate AI technologies; communicate and collaborate effectively with AI; and use AI as a tool online, at home, and in the workplace." </p><p>Knowing how generative AI works and what to look for is key. "It may sound cliche, but taking the time to verify the provenance and source of the content you see on social media is a good start," said Luccioni.</p><p>Start by asking yourself about the source of the image in question and the context in which it appears. Who published the image? What does the accompanying text (if any) say about it? Have other people or media outlets published the image? How does the image, or the text accompanying it, make you feel? If it seems like it's designed to enrage or entice you, think about why.&nbsp;</p><h2>How some organizations are combatting the AI deepfakes and misinformation problem</h2><p>As we've seen, so far the methods by which individuals can discern AI images from real ones are patchy and limited. To make matters worse, the spread of illicit or harmful AI-generated images is a double whammy because the posts circulate falsehoods, which then spawn mistrust in online media. But in the wake of generative AI, several initiatives have sprung up to bolster trust and transparency. </p><p>The <a href="https://c2pa.org/" target="_blank" data-ga-click="1" data-ga-element="offer" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">Coalition for Content Provenance and Authenticity</a> (C2PA) was founded by Adobe and Microsoft, and includes tech companies like OpenAI and Google, as well as media companies like Reuters and the BBC. C2PA provides clickable <a href="https://contentcredentials.org/" target="_blank" data-ga-click="1" data-ga-element="offer" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body"><u>Content Credentials</u></a> for identifying the provenance of images and whether they're AI-generated. However, it's up to the creators to attach the Content Credentials to an image.&nbsp;</p><p>On the flip side, the <a href="https://www.starlinglab.org/" target="_blank" data-ga-click="1" data-ga-element="offer" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">Starling Lab</a> at Stanford University is working hard to authenticate real images. Starling Lab verifies "sensitive digital records, such as the documentation of human rights violations, war crimes, and testimony of genocide," and securely stores verified digital images in decentralized networks so they can't be tampered with. The lab's work isn't user-facing, but its library of projects are a good resource for someone looking to authenticate images of, say, the war in Ukraine, or the presidential transition from Donald Trump to Joe Biden.&nbsp;</p><p>Experts often talk about AI images in the context of hoaxes and misinformation, but AI imagery isn't <em>always</em> meant to deceive per se. AI images are sometimes just jokes or memes removed from their original context, or they're lazy advertising. Or maybe they're just a form of creative expression with an intriguing new technology. But for better or worse, AI images are a fact of life now. And it's up to you to detect them.</p><div class="eloquent-imagery-image">
+    <div class="flex justify-center">
+                    <img class="border border-gray-100" src="https://helios-i.mashable.com/imagery/articles/041yeKy6cF6xEcvxfTcS2rh/images-9.fill.size_2000x1371.v1724358205.jpg" alt="grok-2 ai generated image of a Smokey the bear behind three kids holding a sign that says 'only you can detect ai slop'" width="2000" height="1371" loading="lazy" srcset="https://helios-i.mashable.com/imagery/articles/041yeKy6cF6xEcvxfTcS2rh/images-9.fill.size_800x548.v1724358205.jpg 800w, https://helios-i.mashable.com/imagery/articles/041yeKy6cF6xEcvxfTcS2rh/images-9.fill.size_1400x960.v1724358205.jpg 1400w, https://helios-i.mashable.com/imagery/articles/041yeKy6cF6xEcvxfTcS2rh/images-9.fill.size_2000x1371.v1724358205.jpg 2000w" sizes="(max-width: 1408px) 100vw, 1408px">
+
+
+            </div>
+            <div class="mt-2 subtitle-2 font-sans ">
+            <span class="normal-case text-gray-1000">We're paraphrasing Smokey the Bear here, but he would understand.</span>
+            <span class="text-gray-600 credit">Credit: Mashable / xAI</span>
+        </div>
+    </div>]]></content:encoded>
+    </item>
     <item>
       <title><![CDATA[Telegram CEO arrested in investigation into criminal activity on platform]]></title>
       <link>https://mashable.com/article/telegram-ceo-arrested-france-pavel-durov</link>
@@ -6024,139 +6115,6 @@
         </a>
     </div>
 <p>Amazon will likely use this October Prime event to kick off the <a href="https://mashable.com/category/black-friday" target="_self" data-ga-click="1" data-ga-element="offer" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">Black Friday</a> shopping season extra early, so it'll be a good time to start looking for holiday gifts and year-round lows on certain items. Plan your <a href="https://mashable.com/deals/amazon-prime-day-wishlist-shopping-hack" target="_self" data-ga-click="1" data-ga-element="offer" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">shopping list</a> accordingly.</p><p>For all things Prime Big Deal Days, keep an eye on our continued coverage before, during, and after the big sale. </p><h2>Can you shop Prime Big Deal Days 2024 if you're not a Prime member?</h2><p>The Prime Big Deal Days sale is exclusive to Prime members, but fortunately, there's a workaround if you don't feel like committing to an annual or monthly subscription. Just use a free <a href="https://zdcs.link/GyqXV?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=30-day%20trial&object_type=article&object_uuid=07fl04OLKgkXXgjtpwp2DQk&short_url=GyqXV&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank" data-ga-click="1" data-ga-element="offer" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">30-day trial</a> at the start of October and enjoy the sale as if you've always been a Prime member. Just remember to <a href="https://mashable.com/article/how-to-cancel-amazon-prime" target="_self" data-ga-click="1" data-ga-element="offer" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">cancel it</a> as soon as Prime Big Deal Days is over to avoid getting charged.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title><![CDATA[Best back-to-school laptops: I review laptops for a living and these are the top 3]]></title>
-      <link>https://mashable.com/article/i-test-laptops-for-a-living-and-these-are-the-best-back-to-school-laptops</link>
-      <guid isPermaLink="false">02D32LywSFpIqCAHyyiCRFr</guid>
-      <pubDate>Fri, 23 Aug 2024 15:40:30 +0000</pubDate>
-      <description><![CDATA[Shopping for a back-to-school laptop can feel like extra homework, so to make your life easier, I've rounded up three stellar picks.]]></description>
-      <content:encoded><![CDATA[<img src="https://helios-i.mashable.com/imagery/articles/02D32LywSFpIqCAHyyiCRFr/hero-image.jpg" alt="best back to school laptops"><p>Finding the <a href="https://mashable.com/roundup/best-laptops-for-students" target="_self" data-ga-click="1" data-ga-element="offer" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">best back-to-school laptop for students</a> can be taxing, to say the least. With so many different brands to choose between and different spec configurations to compare, it can quickly become overwhelming. Luckily, I&rsquo;m here to make your back-to-school laptop search a little easier.</p><p>I&rsquo;ve been reviewing laptops for years, so you could say I know my way around a laptop. At this point, I&rsquo;ve scrutinized keyboard comfortability, personally run battery and performance tests, and compared specs vs. value for almost 20 different laptops.</p><p>In other words, I know my way around a laptop.</p><p>I chose these three laptops because they&rsquo;re portable enough to slip into your backpack between classes and deliver enough battery life to last an entire 8-hour day <strong>&mdash; </strong>and then some. If you&rsquo;re searching for a MacBook, a Snapdragon X Elite-powered machine, or a classic Intel-based Windows laptop, one of these laptops is bound to jump out at you as the perfect pick.</p><h2><strong>1. Microsoft Surface Laptop 7</strong></h2><div class="eloquent-imagery-image">
-    <div class="flex justify-center">
-                    <img class="border border-gray-100" src="https://helios-i.mashable.com/imagery/articles/02D32LywSFpIqCAHyyiCRFr/images-1.fill.size_2000x1125.v1724343157.jpg" alt="Microsoft Surface Laptop 7" width="2000" height="1125" loading="lazy" srcset="https://helios-i.mashable.com/imagery/articles/02D32LywSFpIqCAHyyiCRFr/images-1.fill.size_800x450.v1724343157.jpg 800w, https://helios-i.mashable.com/imagery/articles/02D32LywSFpIqCAHyyiCRFr/images-1.fill.size_1400x788.v1724343157.jpg 1400w, https://helios-i.mashable.com/imagery/articles/02D32LywSFpIqCAHyyiCRFr/images-1.fill.size_2000x1125.v1724343157.jpg 2000w" sizes="(max-width: 1408px) 100vw, 1408px">
-
-
-            </div>
-            <div class="mt-2 subtitle-2 font-sans ">
-            <span class="normal-case text-gray-1000"></span>
-            <span class="text-gray-600 credit">Credit: Joe Maldonado / Mashable</span>
-        </div>
-    </div>
-<p><strong>Pros: </strong>The Microsoft Surface Laptop 7&rsquo;s shining feature for students is its battery life. In our 1080p video test to run down battery life, the Surface Laptop 7 lasted a staggering <strong>22 hours and 50 minutes</strong>. That&rsquo;s the longest battery life we&rsquo;ve ever seen for a Windows laptop <strong>&mdash;</strong> and it&rsquo;s largely thanks to the unit&rsquo;s Qualcomm Snapdragon X Elite CPU.</p><p>Under the balanced default power mode, the Surface Laptop 7 delivered a multi-core score of <strong>11,875</strong> on the Geekbench 6 performance test. Bumping it up to &ldquo;best performance&rdquo; power mode, that score jumped to <strong>14,586</strong>, which is on par with what Qualcomm promised and certainly enough oomph for students.</p><p>Students will also be happy to know the Surface Laptop 7 is incredibly light, weighing in at just 2.96 pounds. And with slim dimensions of 11.85 x 8.67 x 0.69 inches, it fits nicely inside a backpack. </p><p><strong>Cons: </strong>Unlike an Intel- or AMD-based Windows laptop, this Windows-on-ARM PC currently has compatibility issues with some apps, like Apple Music, and games, like <em>Fortnite</em> and <em>Dirt 5</em>. But for most students, these minor compatibility issues won&rsquo;t be an issue. Many apps have native versions for Windows-on-ARM PCs, including Chrome, Zoom, Spotify, Photoshop, and Dropbox. And over the next few years, more apps will develop native versions to accommodate ARM chips.</p><p><strong>Where to buy: </strong>Grab a Surface Laptop 7 <a href="https://zdcs.link/GdlbM?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=via%20Amazon%20for%201%2C399.&object_type=article&object_uuid=02D32LywSFpIqCAHyyiCRFr&short_url=GdlbM&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank" data-ga-click="1" data-ga-element="offer" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">via Amazon for 1,399.</a></p><div class="flex flex-col mx-auto mt-8 mb-16 max-w-3xl font-sans md:flex-row">
-    <div class="mx-auto w-64 md:mx-0 md:w-1/3">
-                                                        <a class="block group" href="https://zdcs.link/GdlbM?pageview_type=RSS&template=article&module=shop-card&element=offer&item=image&element_label=image&object_type=article&object_uuid=02D32LywSFpIqCAHyyiCRFr&short_url=GdlbM&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank"title="(opens in a new window)" data-ga-action="product_image" data-ga-label="image" data-ga-item="image" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="1" data-ga-click>
-                                                            <img class="w-full" src="https://helios-i.mashable.com/imagery/articles/02D32LywSFpIqCAHyyiCRFr/images-1.fill.size_256x144.v1724343157.jpg" alt="Microsoft Surface Laptop 7" width="256" height="144" loading="lazy">
-
-
-                    
-                    <div class="block relative mx-14 group-hover:visible tooltip">
-                    <span class="absolute invisible p-1 mt-2 text-xs text-center text-white group-hover:visible tooltiptext bg-gray-600/0 group-hover:bg-gray-600/100">
-                        Opens in a new window
-                    </span>
-                    </div>
-                                    </a>
-                                <div class="mt-2 leading-none text-left">
-                                            <span class="pr-5 mt-1 text-xs text-gray-600 subtitle-2">Credit: Joe Maldonado / Mashable</span>
-                                    </div>
-                        </div>
-    <div class="pl-0 mt-3 w-full md:pl-8 md:mt-0 md:w-2/3">
-                                    <a href="https://zdcs.link/GdlbM?pageview_type=RSS&template=article&module=shop-card&element=offer&item=title&element_label=Microsoft%20Surface%20Laptop%207&object_type=article&object_uuid=02D32LywSFpIqCAHyyiCRFr&short_url=GdlbM&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank" class="block mb-5 text-xl font-bold leading-8 text-center md:text-2xl md:text-left hover:underline text-secondary-300" data-ga-action="offer-title" data-ga-item="title" data-ga-element="offer" data-ga-module="shop-card" data-ga-label="Microsoft Surface Laptop 7" data-ga-position="1" data-ga-click title="(opens in a new window)">
-                    Microsoft Surface Laptop 7
-                </a>
-                                        <div class="flex justify-between items-center py-3 md:py-0 md:space-x-2">
-                <div class="md:w-2/3" style="line-height: 0.75rem">
-                                                        </div>
-            </div>
-                                                    <a class="font-bold leading-6 text-center hover:underline" href="https://zdcs.link/GdlbM?pageview_type=RSS&template=article&module=shop-card&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=02D32LywSFpIqCAHyyiCRFr&short_url=GdlbM&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="Get Deal" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="1" data-ga-click title="(opens in a new window)">
-                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide md:w-auto md:text-lg btn btn-secondary">Get Deal</button>
-                </a>
-                        </div>
-</div>
-<p></p><h2><strong>2. Lenovo ThinkPad X1 2-in-1 Gen 9</strong></h2><div class="eloquent-imagery-image">
-    <div class="flex justify-center">
-                    <img class="border border-gray-100" src="https://helios-i.mashable.com/imagery/articles/02D32LywSFpIqCAHyyiCRFr/images-2.fill.size_2000x1124.v1724343157.jpg" alt="Lenovo ThinkPad X1 2-in-1 Gen 9" width="2000" height="1124" loading="lazy" srcset="https://helios-i.mashable.com/imagery/articles/02D32LywSFpIqCAHyyiCRFr/images-2.fill.size_800x450.v1724343157.jpg 800w, https://helios-i.mashable.com/imagery/articles/02D32LywSFpIqCAHyyiCRFr/images-2.fill.size_1400x787.v1724343157.jpg 1400w, https://helios-i.mashable.com/imagery/articles/02D32LywSFpIqCAHyyiCRFr/images-2.fill.size_2000x1124.v1724343157.jpg 2000w" sizes="(max-width: 1408px) 100vw, 1408px">
-
-
-            </div>
-            <div class="mt-2 subtitle-2 font-sans ">
-            <span class="normal-case text-gray-1000"></span>
-            <span class="text-gray-600 credit">Credit: Joe Maldonado / Mashable</span>
-        </div>
-    </div>
-<p><strong>Pros: </strong>If you want to ensure compatibility with all your favorite Windows apps, you can&rsquo;t go wrong with the Intel-based Lenovo ThinkPad X1 2-in-1 Gen 9.&nbsp;</p><p>For those with long commutes or packed days of classes, this laptop&rsquo;s impressive battery life will be a strong selling point. When looping a 1080p video at 50% brightness, the ThinkPad X1 2-in-1 lasted <strong>14 hours and 21 minutes</strong> until turning off.</p><p>On top of solid performance and a lengthy battery life, the ThinkPad X1 2-in-1 comes with a touch display with anti-glare, matte finish, a welcome feature when you&rsquo;re spending a lot of time staring at a screen. With the laptop&rsquo;s 2-in-1 functionality, you can flip it into tablet mode to finish your nightly reading from the comfort of your bed.</p><p><strong>Cons: </strong>The ThinkPad X1 2-in-1 is a bit pricey, but for students, it&rsquo;s worth it for that 14+ hour battery life. Plus, the laptop boasts a plethora of ports, a comfortably springy keyboard, and surprisingly great under-keyboard speakers. </p><p><strong>Where to buy: </strong>Snag Lenovo&rsquo;s ThinkPad X1 2-in-1 Gen 9 <a href="https://zdcs.link/OdVXY?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=via%20Amazon%20for%201%2C899.&object_type=article&object_uuid=02D32LywSFpIqCAHyyiCRFr&short_url=OdVXY&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank" data-ga-click="1" data-ga-element="offer" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">via Amazon for 1,899.</a></p><div class="flex flex-col mx-auto mt-8 mb-16 max-w-3xl font-sans md:flex-row">
-    <div class="mx-auto w-64 md:mx-0 md:w-1/3">
-                                                        <a class="block group" href="https://zdcs.link/OdVXY?pageview_type=RSS&template=article&module=shop-card&element=offer&item=image&element_label=image&object_type=article&object_uuid=02D32LywSFpIqCAHyyiCRFr&short_url=OdVXY&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank"title="(opens in a new window)" data-ga-action="product_image" data-ga-label="image" data-ga-item="image" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="2" data-ga-click>
-                                                            <img class="w-full" src="https://helios-i.mashable.com/imagery/articles/02D32LywSFpIqCAHyyiCRFr/images-2.fill.size_256x144.v1724343157.jpg" alt="Lenovo ThinkPad X1 2-in-1 Gen 9" width="256" height="144" loading="lazy">
-
-
-                    
-                    <div class="block relative mx-14 group-hover:visible tooltip">
-                    <span class="absolute invisible p-1 mt-2 text-xs text-center text-white group-hover:visible tooltiptext bg-gray-600/0 group-hover:bg-gray-600/100">
-                        Opens in a new window
-                    </span>
-                    </div>
-                                    </a>
-                                <div class="mt-2 leading-none text-left">
-                                            <span class="pr-5 mt-1 text-xs text-gray-600 subtitle-2">Credit: Joe Maldonado / Mashable</span>
-                                    </div>
-                        </div>
-    <div class="pl-0 mt-3 w-full md:pl-8 md:mt-0 md:w-2/3">
-                                    <a href="https://zdcs.link/OdVXY?pageview_type=RSS&template=article&module=shop-card&element=offer&item=title&element_label=Lenovo%20ThinkPad%20X1%202-in-1%20Gen%209&object_type=article&object_uuid=02D32LywSFpIqCAHyyiCRFr&short_url=OdVXY&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank" class="block mb-5 text-xl font-bold leading-8 text-center md:text-2xl md:text-left hover:underline text-secondary-300" data-ga-action="offer-title" data-ga-item="title" data-ga-element="offer" data-ga-module="shop-card" data-ga-label="Lenovo ThinkPad X1 2-in-1 Gen 9" data-ga-position="2" data-ga-click title="(opens in a new window)">
-                    Lenovo ThinkPad X1 2-in-1 Gen 9
-                </a>
-                                        <div class="flex justify-between items-center py-3 md:py-0 md:space-x-2">
-                <div class="md:w-2/3" style="line-height: 0.75rem">
-                                            <span class="text-sm font-bold">$1,899.00</span>
-                                                    <span class="text-xs"> at Amazon</span>
-                                                <br>
-                                                        </div>
-            </div>
-                                                    <a class="font-bold leading-6 text-center hover:underline" href="https://zdcs.link/OdVXY?pageview_type=RSS&template=article&module=shop-card&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=02D32LywSFpIqCAHyyiCRFr&short_url=OdVXY&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="Get Deal" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="2" data-ga-click title="(opens in a new window)">
-                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide md:w-auto md:text-lg btn btn-secondary">Get Deal</button>
-                </a>
-                        </div>
-</div>
-<h2><strong>3. Apple 15-inch M3 MacBook Air</strong></h2><div class="eloquent-imagery-image">
-    <div class="flex justify-center">
-                    <img class="border border-gray-100" src="https://helios-i.mashable.com/imagery/articles/02D32LywSFpIqCAHyyiCRFr/images-3.fill.size_2000x1125.v1724343157.jpg" alt="Apple 15-inch M3 MacBook Air" width="2000" height="1125" loading="lazy" srcset="https://helios-i.mashable.com/imagery/articles/02D32LywSFpIqCAHyyiCRFr/images-3.fill.size_800x450.v1724343157.jpg 800w, https://helios-i.mashable.com/imagery/articles/02D32LywSFpIqCAHyyiCRFr/images-3.fill.size_1400x788.v1724343157.jpg 1400w, https://helios-i.mashable.com/imagery/articles/02D32LywSFpIqCAHyyiCRFr/images-3.fill.size_2000x1125.v1724343157.jpg 2000w" sizes="(max-width: 1408px) 100vw, 1408px">
-
-
-            </div>
-            <div class="mt-2 subtitle-2 font-sans ">
-            <span class="normal-case text-gray-1000"></span>
-            <span class="text-gray-600 credit">Credit: Kimberly Gedeon / Mashable</span>
-        </div>
-    </div>
-<p><strong>Pros: </strong>Apple&rsquo;s 15-inch M3 MacBook Air is the obvious pick for students who want a MacBook. Whether you plan on vlogging, editing, and uploading your college experience, or you just love the sleek aesthetic MacBooks promise, this laptop offers the best bang for your buck.</p><p>You&rsquo;ll get strong performance, thanks to Apple&rsquo;s M3 chip. The 15-inch M3 MacBook Air earned a Geekbench 6 score of <strong>12,057</strong>, and in practice, our reviewer said it provided &ldquo;ample &lsquo;oomph&rsquo; for creatives, professionals, and students who need robust performance that can handle their multifaceted workflows.&rdquo;</p><p>The 15-inch M3 MacBook Air offers equally impressive battery life. On a single charge, the laptop lasted <strong>10 hours and 52 minutes</strong> while looping a 1080p video. This laptop will last all day as your trusty note-taking companion in class, and still have juice leftover to study at a coffee shop before heading home.</p><p>In true MacBook fashion, this laptop excels at more than just performance and battery life. Almost every little feature meets or exceeds expectations, including the exquisite, clicky keyboard, an angelic six-speaker sound system, and a bright, crisp 15.3-inch, 2880 x 1864-pixel display.</p><p><strong>Cons: </strong>There&rsquo;s really only one reason<em> not</em> to buy the 15-inch M3 MacBook Air: lack of ports. If you&rsquo;re looking for USB-A ports, an HDMI port, a SD card slot, or anything other than two USB-C ports and an audio jack, you won&rsquo;t find it in this MacBook Air. That said, you can connect displays with the USB-C (Thunderbolt 3) ports and many peripherals connect via Bluetooth, so lack of port variety won&rsquo;t be a dealbreaker for many students.</p><p><strong>Where to buy:</strong> You can pick up a 15-inch M3 MacBook Air via Apple, <a href="https://zdcs.link/6XGqq?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=starting%20at%20%241%2C299&object_type=article&object_uuid=02D32LywSFpIqCAHyyiCRFr&short_url=6XGqq&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank" data-ga-click="1" data-ga-element="offer" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body"><u>starting at $1,299</u></a> for the base model.</p><div class="flex flex-col mx-auto mt-8 mb-16 max-w-3xl font-sans md:flex-row">
-    <div class="mx-auto w-64 md:mx-0 md:w-1/3">
-                                                        <a class="block group" href="https://zdcs.link/6XGqq?pageview_type=RSS&template=article&module=shop-card&element=offer&item=image&element_label=image&object_type=article&object_uuid=02D32LywSFpIqCAHyyiCRFr&short_url=6XGqq&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank"title="(opens in a new window)" data-ga-action="product_image" data-ga-label="image" data-ga-item="image" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="3" data-ga-click>
-                                                            <img class="w-full" src="https://helios-i.mashable.com/imagery/articles/02D32LywSFpIqCAHyyiCRFr/images-3.fill.size_256x144.v1724343157.jpg" alt="Apple 15-inch M3 MacBook Air" width="256" height="144" loading="lazy">
-
-
-                    
-                    <div class="block relative mx-14 group-hover:visible tooltip">
-                    <span class="absolute invisible p-1 mt-2 text-xs text-center text-white group-hover:visible tooltiptext bg-gray-600/0 group-hover:bg-gray-600/100">
-                        Opens in a new window
-                    </span>
-                    </div>
-                                    </a>
-                                <div class="mt-2 leading-none text-left">
-                                            <span class="pr-5 mt-1 text-xs text-gray-600 subtitle-2">Credit: Kimberly Gedeon / Mashable</span>
-                                    </div>
-                        </div>
-    <div class="pl-0 mt-3 w-full md:pl-8 md:mt-0 md:w-2/3">
-                                    <a href="https://zdcs.link/6XGqq?pageview_type=RSS&template=article&module=shop-card&element=offer&item=title&element_label=15-inch%20M3%20MacBook%20Air&object_type=article&object_uuid=02D32LywSFpIqCAHyyiCRFr&short_url=6XGqq&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank" class="block mb-5 text-xl font-bold leading-8 text-center md:text-2xl md:text-left hover:underline text-secondary-300" data-ga-action="offer-title" data-ga-item="title" data-ga-element="offer" data-ga-module="shop-card" data-ga-label="15-inch M3 MacBook Air" data-ga-position="3" data-ga-click title="(opens in a new window)">
-                    15-inch M3 MacBook Air
-                </a>
-                                        <div class="flex justify-between items-center py-3 md:py-0 md:space-x-2">
-                <div class="md:w-2/3" style="line-height: 0.75rem">
-                                                        </div>
-            </div>
-                                                    <a class="font-bold leading-6 text-center hover:underline" href="https://zdcs.link/6XGqq?pageview_type=RSS&template=article&module=shop-card&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=02D32LywSFpIqCAHyyiCRFr&short_url=6XGqq&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="Get Deal" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="3" data-ga-click title="(opens in a new window)">
-                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide md:w-auto md:text-lg btn btn-secondary">Get Deal</button>
-                </a>
-                        </div>
-</div>]]></content:encoded>
     </item>
   </channel>
 </rss>
