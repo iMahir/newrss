@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 26 Aug 2024 16:40:24 +0000</lastBuildDate>
-    <pubDate>Mon, 26 Aug 2024 16:38:04 +0000</pubDate>
+    <lastBuildDate>Mon, 26 Aug 2024 16:47:08 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Aug 2024 16:45:45 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/08/26/world/israel-hamas-gaza-war" rel="standout"></atom:link>
       <description>After heavy Israel-Hezbollah strikes, the conflicts in Gaza and Lebanon remain stuck, even if a wider Middle East war has been averted for now, analysts say.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 26 Aug 2024 16:38:04 +0000</pubDate>
+      <pubDate>Mon, 26 Aug 2024 16:43:35 +0000</pubDate>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/08/26/multimedia/26live-mideast-promo-1045-jlcp/26live-mideast-promo-1045-jlcp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mahmoud Zayyat/Agence France-Presse — Getty Images</media:credit>
     </item>
@@ -117,7 +117,7 @@
       <atom:link href="https://www.nytimes.com/2024/08/26/world/europe/russia-ukraine-missiles-kyiv.html" rel="standout"></atom:link>
       <description>Ukraine’s president, Volodymyr Zelensky, said more than 200 missiles and drones were used in an attack that ranged from Kyiv to Odesa to Ukraine’s West.</description>
       <dc:creator>Andrew E. Kramer and Matthew Mpoke Bigg</dc:creator>
-      <pubDate>Mon, 26 Aug 2024 16:30:07 +0000</pubDate>
+      <pubDate>Mon, 26 Aug 2024 16:45:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
@@ -387,21 +387,21 @@
       <media:description>A building in northern Israel damaged during a Hezbollah attack.</media:description>
     </item>
     <item>
-      <title>Iceland Ice Wall Collapse: 1 Tourist Is Dead and 2 Are Trapped</title>
+      <title>Iceland Ice Wall Collapse: 1 Tourist Is Dead and 1 Is Injured</title>
       <link>https://www.nytimes.com/2024/08/25/world/europe/iceland-cave-collapse.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/08/25/world/europe/iceland-cave-collapse.html</guid>
       <atom:link href="https://www.nytimes.com/2024/08/25/world/europe/iceland-cave-collapse.html" rel="standout"></atom:link>
-      <description>The tourists were part of a group exploring a glacier in southeastern Iceland when an ice canyon wall collapsed. A fourth tourist was rescued, officials said.</description>
-      <dc:creator>Alexandra E. Petri</dc:creator>
-      <pubDate>Mon, 26 Aug 2024 14:38:52 +0000</pubDate>
+      <description>Rescuers on Monday called off a search for what they initially believed were two other trapped tourists after it became clear that all the visitors were accounted for.</description>
+      <dc:creator>Alexandra E. Petri and Ali Watkins</dc:creator>
+      <pubDate>Mon, 26 Aug 2024 16:42:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iceland</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Glaciers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/08/25/multimedia/25xp-iceland-mzqg/25xp-iceland-mzqg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sean Gallup/Getty Images</media:credit>
-      <media:description>An iceberg broken from the glacier Breidamerkurjokull, which looms behind. A group of about 25 tourists were exploring ice caves and canyons on the glacier when an ice wall collapsed on Sunday.</media:description>
+      <media:content height="1434" medium="image" url="https://static01.nyt.com/images/2024/09/25/multimedia/25xp-iceland-fqlh/25xp-iceland-fqlh-mediumSquareAt3X.jpg" width="1434"></media:content>
+      <media:credit>STOD2/ Vilhelm Gunnarsson, via Associated Press</media:credit>
+      <media:description>Rescue teams at the scene of an ice cave collapse at the Breidamerkurjokull glacier in southeastern Iceland on Monday.</media:description>
     </item>
     <item>
       <title>Monday Briefing: Israel and Hezbollah Exchange Major Attacks</title>
@@ -1159,26 +1159,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/23/multimedia/23bangladesh-02-wpgm/23bangladesh-02-wpgm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Munir Uz Zaman/Agence France-Presse — Getty Images</media:credit>
       <media:description>People wading through floodwaters in Feni, Bangladesh, on Friday.</media:description>
-    </item>
-    <item>
-      <title>Final Body Is Recovered From Yacht That Sank Off Sicily</title>
-      <link>https://www.nytimes.com/2024/08/23/world/europe/italy-sicily-yacht-lynch.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/08/23/world/europe/italy-sicily-yacht-lynch.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/08/23/world/europe/italy-sicily-yacht-lynch.html" rel="standout"></atom:link>
-      <description>Hannah Lynch, the 18-year-old daughter of the British tech entrepreneur Mike Lynch, was on board a yacht that was hit by a storm and went down in the early hours on Monday.</description>
-      <dc:creator>Emma Bubola and Elisabetta Povoledo</dc:creator>
-      <pubDate>Fri, 23 Aug 2024 21:06:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sailboats and Sailing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shipwrecks (Historic)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diving and Divers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lynch, Michael Richard (1965- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Morvillo, Christopher J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sicily (Italy)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/23/multimedia/23italy-yacht-bmzw/23italy-yacht-bmzw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Guglielmo Mangiapane/Reuters</media:credit>
-      <media:description>A bag believed to hold the body of Hannah Lynch, daughter of the British tech entrepreneur Mike Lynch, off Porticello, Sicily, on Friday.</media:description>
     </item>
   </channel>
 </rss>
