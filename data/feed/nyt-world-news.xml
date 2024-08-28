@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml%5D(https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 28 Aug 2024 19:47:28 +0000</lastBuildDate>
-    <pubDate>Wed, 28 Aug 2024 19:37:45 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Aug 2024 20:47:07 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Aug 2024 20:38:47 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,9 +21,9 @@
       <atom:link href="https://www.nytimes.com/live/2024/08/28/world/israel-hamas-gaza-war" rel="standout"></atom:link>
       <description>Hundreds of troops entered cities in the occupied territory, targeting Palestinian militants. It was a significant escalation after months of raids that have unfolded alongside the war in Gaza.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 28 Aug 2024 19:37:45 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/28/multimedia/28MIDEAST-CRISIS-PROMO-3PM-mkjv/28MIDEAST-CRISIS-PROMO-3PM-mkjv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Zain Jaafar/Agence France-Presse — Getty Images</media:credit>
+      <pubDate>Wed, 28 Aug 2024 20:31:17 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/28/multimedia/28MIDEAST-CRISIS-LIVE-PROMO-400-fctg/28MIDEAST-CRISIS-LIVE-PROMO-400-fctg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jaafar Ashtiyeh/Agence France-Presse — Getty Images</media:credit>
     </item>
     <item>
       <title>With Hezbollah-Israel Conflict Contained, Iran’s Next Move May Be Modest</title>
@@ -97,7 +97,7 @@
       <atom:link href="https://www.nytimes.com/2024/08/28/world/europe/russia-ukraine-incursion-war.html" rel="standout"></atom:link>
       <description>Despite its overwhelming firepower, Russia has been unable for weeks to push Ukrainian troops back across the border, with the failure as much the result of priorities as a lack of personnel.</description>
       <dc:creator>Lara Jakes and Eric Schmitt</dc:creator>
-      <pubDate>Wed, 28 Aug 2024 14:58:59 +0000</pubDate>
+      <pubDate>Wed, 28 Aug 2024 20:13:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
@@ -244,9 +244,9 @@
       <link>https://www.nytimes.com/2024/08/27/business/telegram-pavel-durov-arrest-explained.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/08/27/business/telegram-pavel-durov-arrest-explained.html</guid>
       <atom:link href="https://www.nytimes.com/2024/08/27/business/telegram-pavel-durov-arrest-explained.html" rel="standout"></atom:link>
-      <description>Pavel Durov has been detained in France, as part of wide-ranging investigation into criminal activities on the messaging platform he runs.</description>
+      <description>Pavel Durov was charged in France, as part of wide-ranging investigation into criminal activities on the messaging platform he runs.</description>
       <dc:creator>Aurelien Breeden</dc:creator>
-      <pubDate>Tue, 27 Aug 2024 18:29:15 +0000</pubDate>
+      <pubDate>Wed, 28 Aug 2024 20:22:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Durov, Pavel Valeryevich (1984- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Telegram LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
@@ -261,7 +261,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/08/27/multimedia/27durov-ljcm/27durov-ljcm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jim Wilson/The New York Times</media:credit>
-      <media:description>Pavel Durov, Telegram’s founder, in 2014. He has not been charged but is currently in custody and being questioned at France’s National Anti-Fraud Office, a law enforcement agency that handles a wide range of financial crimes.</media:description>
+      <media:description>Pavel Durov, Telegram’s founder, in 2014. He was charged on Wednesday and released on bail of about $5.5 million.</media:description>
     </item>
     <item>
       <title>In Brazil, Wildfires Roar Across the Pantanal as Rare Wildlife Dies</title>
@@ -329,6 +329,59 @@
       <media:description>The brother of freed hostage Farhan al-Qadi shows a photograph of the pair celebrating at a medical center in southern Israel on Tuesday.</media:description>
     </item>
     <item>
+      <title>Israeli Military Begins Major West Bank Raids</title>
+      <link>https://www.nytimes.com/2024/08/28/world/middleeast/israel-west-bank-jenin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/28/world/middleeast/israel-west-bank-jenin.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/28/world/middleeast/israel-west-bank-jenin.html" rel="standout"></atom:link>
+      <description>Hundreds of troops entered cities in the occupied territory, targeting Palestinian militants. It was a significant escalation after months of raids that have unfolded alongside the war in Gaza.</description>
+      <dc:creator>Aaron Boxerman, Adam Rasgon, Raja Abdulrahim and Thomas Fuller</dc:creator>
+      <pubDate>Wed, 28 Aug 2024 20:30:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jenin (West Bank)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/28/multimedia/28mideast-crisis-ledeall01-photo-gtwz/28mideast-crisis-ledeall01-photo-gtwz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jaafar Ashtiyeh/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Israeli soldiers operate during raid a near Tulkarm, in the occupied West Bank, on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Family of Bedouin Hostage Celebrates His Release and Pray for Cease-Fire</title>
+      <link>https://www.nytimes.com/2024/08/28/world/middleeast/israel-gaza-war-ceasefire.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/28/world/middleeast/israel-gaza-war-ceasefire.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/28/world/middleeast/israel-gaza-war-ceasefire.html" rel="standout"></atom:link>
+      <description>The marginalized Bedouin community suffered deaths and abductions during the Hamas-led Oct. 7 attack, and also ache for their Palestinian relatives in Gaza.</description>
+      <dc:creator>Rawan Sheikh Ahmad and Erika Solomon</dc:creator>
+      <pubDate>Wed, 28 Aug 2024 19:58:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rahat (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nomadic People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bedouins</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farhan al-Qadi</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/28/multimedia/28mideast-crisis-hostage-village/28gaza-tunnels-wbgl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Amir Levy/Getty Images</media:credit>
+      <media:description>Farhan al-Qadi in Karkur, Israel, on Wednesday. He said he had lost around 28 pounds because he was too distraught during 10 months of captivity, most spent in underground tunnels.</media:description>
+    </item>
+    <item>
       <title>A 4-Year-Old Boy Breaks a 3,500-Year-Old Jar at an Israeli Museum</title>
       <link>https://www.nytimes.com/2024/08/28/world/middleeast/4-year-old-boy-jar-hecht-museum.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/08/28/world/middleeast/4-year-old-boy-jar-hecht-museum.html</guid>
@@ -337,14 +390,36 @@
       <dc:creator>Christine Hauser</dc:creator>
       <pubDate>Wed, 28 Aug 2024 19:34:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restoration and Renovation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Collectors and Collections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Archaeology and Anthropology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Falls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hecht Museum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ceramics and Pottery</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bronze Age</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restoration and Renovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hecht Museum (Haifa, Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haifa (Israel)</category>
       <media:content height="1152" medium="image" url="https://static01.nyt.com/images/2024/08/28/multimedia/28xp-museum-1st/28xp-museum-1st-mediumSquareAt3X.jpg" width="1152"></media:content>
       <media:credit>Hecht Museum</media:credit>
       <media:description>The ancient jar that was accidentally smashed into pieces by a 4-year-old boy during a trip to the Hecht Museum, in Haifa, Israel.</media:description>
+    </item>
+    <item>
+      <title>C.I.A. Warning Helped Thwart ISIS Attack at Taylor Swift Concert in Vienna</title>
+      <link>https://www.nytimes.com/2024/08/28/us/politics/cia-isis-warning-taylor-swift-concert.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/28/us/politics/cia-isis-warning-taylor-swift-concert.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/28/us/politics/cia-isis-warning-taylor-swift-concert.html" rel="standout"></atom:link>
+      <description>The agency provided information about several suspects that led to arrests, the deputy director said.</description>
+      <dc:creator>Julian E. Barnes</dc:creator>
+      <pubDate>Wed, 28 Aug 2024 20:38:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State Khorasan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vienna (Austria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swift, Taylor</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/28/multimedia/28dc-intel-cpbk/28dc-intel-cpbk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Max Slovencik/EPA, via Shutterstock</media:credit>
+      <media:description>Taylor Swift had been planning to hold three concerts in Vienna beginning Aug. 8, and 200,000 people had been expected to attend.</media:description>
     </item>
     <item>
       <title>Major Israeli-Palestinian Clashes in the West Bank: A Timeline</title>
@@ -453,9 +528,9 @@
       <link>https://www.nytimes.com/2024/08/28/technology/durov-telegram-liability-platforms.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/08/28/technology/durov-telegram-liability-platforms.html</guid>
       <atom:link href="https://www.nytimes.com/2024/08/28/technology/durov-telegram-liability-platforms.html" rel="standout"></atom:link>
-      <description>The arrest of Pavel Durov, Telegram’s founder, as part of an investigation into illicit activities on the messaging app set off worries about the personal liability of tech executives.</description>
+      <description>The indictment of Pavel Durov, Telegram’s founder, as part of an investigation into illicit activities on the messaging app set off worries about the personal liability of tech executives.</description>
       <dc:creator>Adam Satariano and Cecilia Kang</dc:creator>
-      <pubDate>Wed, 28 Aug 2024 19:14:52 +0000</pubDate>
+      <pubDate>Wed, 28 Aug 2024 20:32:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Durov, Pavel Valeryevich (1984- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Telegram LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
@@ -469,9 +544,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/28/multimedia/28telegram-liability-gtcf/28telegram-liability-gtcf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jim Wilson/The New York Times</media:credit>
-      <media:description>Regulators and lawmakers are increasingly considering when to hold tech leaders directly responsible for the activities on their services, a shift punctuated by the arrest of Telegram’s founder, Pavel Durov. </media:description>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2024/08/28/multimedia/28telegram-liability-ptml/28telegram-liability-ptml-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Albert Gea/Reuters</media:credit>
+      <media:description>Regulators and lawmakers are increasingly considering when to hold tech leaders directly responsible for the activities on their services, a shift punctuated by the arrest of Telegram’s founder, Pavel Durov.</media:description>
     </item>
     <item>
       <title>Wednesday Briefing: A Look at Harris’s Polling Lead</title>
@@ -1199,62 +1274,6 @@
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2024/08/21/multimedia/00sci-drillship-01-vhqz/00sci-drillship-01-vhqz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Heba Khamis for The New York Times</media:credit>
       <media:description>Members of the International Ocean Discovery Program welcomed the arrival of the JOIDES Resolution in Amsterdam on Aug. 2 for its final berth.</media:description>
-    </item>
-    <item>
-      <title>Getting to Know Kenya Through a Local Hiking Club</title>
-      <link>https://www.nytimes.com/2024/08/26/travel/nairobi-hiking.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/08/26/travel/nairobi-hiking.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/08/26/travel/nairobi-hiking.html" rel="standout"></atom:link>
-      <description>The author sought an authentic experience, and found it in Lets Drift, “an exuberant Kenyan-centered enterprise” of people living in and near Nairobi.</description>
-      <dc:creator>Rolf Potts</dc:creator>
-      <pubDate>Tue, 27 Aug 2024 18:01:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hikes and Hiking</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nairobi (Kenya)</category>
-    </item>
-    <item>
-      <title>A Fire in East London Recalls Deadly Grenfell Cladding Scandal</title>
-      <link>https://www.nytimes.com/2024/08/26/world/europe/east-london-fire.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/08/26/world/europe/east-london-fire.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/08/26/world/europe/east-london-fire.html" rel="standout"></atom:link>
-      <description>More than 80 people were evacuated in the early hours of Monday from a building that had used similar insulation.</description>
-      <dc:creator>Amelia Nierenberg</dc:creator>
-      <pubDate>Mon, 26 Aug 2024 17:37:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Grenfell Tower (London, England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/26/world/26uk-london-fire/26uk-london-fire-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Leon Neal/Getty Images</media:credit>
-      <media:description>Smoke continued to rise on Monday from an apartment building in East London after an early morning fire broke out.</media:description>
-    </item>
-    <item>
-      <title>Israel Averts All-Out War With Hezbollah, but Regional Conflicts Grind On</title>
-      <link>https://www.nytimes.com/2024/08/26/world/middleeast/israel-hamas-hezbollah.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/08/26/world/middleeast/israel-hamas-hezbollah.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/08/26/world/middleeast/israel-hamas-hezbollah.html" rel="standout"></atom:link>
-      <description>Relief that an eruption of violence across the border between Israel and Lebanon has been contained is tempered by a lack of progress in ending the fighting in Gaza.</description>
-      <dc:creator>Patrick Kingsley</dc:creator>
-      <pubDate>Mon, 26 Aug 2024 21:06:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sinwar, Yehya</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasrallah, Hassan</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/26/multimedia/26mideast-crisis-assess-vqtw/26mideast-crisis-assess-vqtw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kawnat Haju/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Smoke billowing from the site of an airstrike on Zibqin in southern Lebanon on Sunday.</media:description>
     </item>
   </channel>
 </rss>
