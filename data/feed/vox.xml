@@ -6,7 +6,7 @@
 	<title type="text">Vox</title>
 	<subtitle type="text"></subtitle>
 
-	<updated>2024-08-28T22:58:00Z</updated>
+	<updated>2024-08-28T23:51:05Z</updated>
 
 	<link rel="alternate" type="text/html" href="https://www.vox.com" />
 	<id>https://www.vox.com/rss/index.xml</id>
@@ -14,6 +14,104 @@
 
 	<icon>https://platform.vox.com/wp-content/uploads/sites/2/2024/08/vox_logo_rss_light_mode.png?w=150&amp;h=100&amp;crop=1</icon>
 		<entry>
+			
+			<author>
+				<name>Kelsey Piper</name>
+			</author>
+			
+			<title type="html"><![CDATA[We spoke with the architect behind the notorious AI safety bill]]></title>
+			<link rel="alternate" type="text/html" href="https://www.vox.com/future-perfect/361562/california-ai-bill-scott-wiener-sb-1047" />
+			<id>https://www.vox.com/?p=361562</id>
+			<updated>2024-08-28T23:51:05Z</updated>
+			<published>2024-08-28T23:51:04Z</published>
+			<category scheme="https://www.vox.com" term="Artificial Intelligence" /><category scheme="https://www.vox.com" term="Future Perfect" /><category scheme="https://www.vox.com" term="Innovation" /><category scheme="https://www.vox.com" term="Policy" /><category scheme="https://www.vox.com" term="Technology" />
+							<summary type="html"><![CDATA[Editor’s note, August 28, 7:50 pm ET: This story was originally published on July 19, 2024, and has been updated to reflect news that SB 1047 passed this week. California state Sen. Scott Wiener (D-San Francisco) is generally known for his relentless bills on housing and public safety, a legislative record that made him one [&#8230;]]]></summary>
+			
+							<content type="html">
+											<![CDATA[
+
+						
+<figure>
+
+<img alt="" data-caption="California state Senator Scott Weiner, left, speaks during a press conference at Alamo Square Park about a new bill to close a loophole in prosecuting automobile break-ins, on November 26, 2018, in San Francisco. | Lea Suzuki/San Francisco Chronicle via Getty Images" data-portal-copyright="Lea Suzuki/San Francisco Chronicle via Getty Images" data-has-syndication-rights="1" src="https://platform.vox.com/wp-content/uploads/sites/2/2024/07/gettyimages-1322391289.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption>California state Senator Scott Weiner, left, speaks during a press conference at Alamo Square Park about a new bill to close a loophole in prosecuting automobile break-ins, on November 26, 2018, in San Francisco. | Lea Suzuki/San Francisco Chronicle via Getty Images</figcaption>
+</figure>
+<p class="has-text-align-none"><em><strong>Editor’s note, August 28, 7:50 pm ET: </strong>This story was originally published on July 19, 2024, and has been updated to reflect news that SB 1047 passed this week.</em></p>
+
+<p class="has-text-align-none">California state Sen. Scott Wiener (D-San Francisco) is generally known for <a href="https://www.vox.com/policy/2023/8/21/23831121/housing-yimbys-affordable-rent-unions-california">his</a> relentless <a href="https://www.vox.com/policy-and-politics/2018/3/19/17135678/sb-827-cars-california-transit-trains-buses">bills</a> on <a href="https://www.vox.com/policy-and-politics/2018/12/7/18125644/scott-wiener-sb-50-california-housing">housing</a> and <a href="https://www.sf.gov/news/mayor-breed-and-senator-wiener-announce-state-legislation-shut-down-sale-stolen-goods-san">public safety</a>, a legislative record that made him one of the tech industry’s favorite legislators.&nbsp;</p>
+
+<p class="has-text-align-none">His introduction of the “Safe and Secure Innovation for Frontier Artificial Intelligence Models” bill, however, gained the ire of that very same industry, with VC heavyweights Andreessen-Horowitz and Y Combinator <a href="https://www.transformernews.ai/p/a16z-y-combinator-big-tech-sb1047-lobbying">publicly condemning</a> the bill. Known as SB 1047, the legislation requires companies to train “frontier models” that cost more than $100 million to do safety testing and be able to shut off their models in the event of a safety incident. </p>
+
+<p class="has-text-align-none">On Tuesday, the bill passed California’s state legislature 41-9 — albeit with amendments softening some of its grip. For it to become state law, it needs Gov. Gavin Newsom’s signature next.</p>
+
+<p class="has-text-align-none">I spoke with Wiener back in July about SB 1047 and its critics; our conversation is below (condensed for length and clarity).  </p>
+
+<p class="has-text-align-none"><strong>Kelsey Piper: I wanted to present you with challenges to SB 1047 I’ve heard and give you a chance to answer them. I think one category of concern here is that the bill would prohibit using a model publicly, or making it available for public use, if it poses an unreasonable risk of critical harm. </strong></p>
+
+<p class="has-text-align-none"><strong>What’s an unreasonable risk? Who decides what’s reasonable? A lot of Silicon Valley is very regulator-skeptical, so they don’t trust that discretion will be used and not abused. </strong></p>
+
+<p class="has-text-align-none"><strong>Sen. Scott Wiener: </strong>To me, SB 1047 is a light-touch bill in a lot of ways. It’s a serious bill, it’s a big bill. I think it’s an impactful bill, but it’s not hardcore. The bill doesn’t require a license. There are people including some CEOs who <a href="https://www.foxbusiness.com/technology/should-ai-development-require-license-chatgpts-creator-thinks-so-experts-disagree">have said</a> there should be a licensure requirement. I rejected that.&nbsp;</p>
+
+<p class="has-text-align-none">There are people who think <a href="https://www.vox.com/future-perfect/2024/2/7/24062374/ai-openai-anthropic-deepmind-legal-liability-gabriel-weil">there should be strict liability</a>. That’s the rule for most product liability. I rejected that.&nbsp;[AI companies] do not have to get permission from an agency to release the [model]. They have to do the safety testing they all say they are currently doing or intend to do. And if that safety testing reveals a significant risk — and we define those risks as being catastrophic — then you have to put mitigations in place. Not to eliminate the risk but to try to reduce it.&nbsp;</p>
+
+<p class="has-text-align-none">There are already legal standards today&nbsp;that if a developer releases a model and then that model ends up being used in a way that harms someone or something, you can be sued and it’ll probably be a negligence standard about whether you acted reasonably. It’s much, much broader than the liability that we create in the bill. In the bill, only the Attorney General can sue, whereas under tort law anybody can sue. Model developers are already subject to potential liability that’s much broader than this.</p>
+
+<p class="has-text-align-none"><strong>Yes, I’ve seen some objections to the bill that seem to revolve around misunderstandings of tort law, like people <a href="https://x.com/AndrewYNg/status/1798753608974139779">saying</a>, “This would be like making the makers of engines liable for car accidents.”</strong></p>
+
+<p class="has-text-align-none">And they are. If someone crashes a car and there was something about the engine design that contributed to that collision, then the engine maker can be sued. It would have to be proven that they did something negligent.&nbsp;</p>
+
+<p class="has-text-align-none">I’ve talked to startup founders about it and VCs and folks from the large tech companies, and I’ve never heard a rebuttal to the reality that liability exists today and the liability that exists today is profoundly broader.</p>
+
+<p class="has-text-align-none">We definitely hear contradictions. Some people who were <a href="https://www.vox.com/future-perfect/355212/ai-artificial-intelligence-1047-bill-safety-liability">opposing</a> it were saying “this is all science fiction, anyone focused on safety is part of a cult, it’s not real, the capabilities are so limited.” Of course that’s not true. These are powerful models with huge potential to make the world a better place. I’m really excited for AI. I’m not a doomer in any respect. And then they say, “We can’t possibly be liable if these catastrophes happen.”&nbsp;</p>
+
+<p class="has-text-align-none"><strong><a href="https://www.reddit.com/r/singularity/comments/1e0ts13/the_perils_of_californias_sb_1047_a_threat_to/">Another challenge</a> to the bill is that&nbsp;open source developers have benefited a lot from Meta putting [the generously licensed, sometimes called open source&nbsp;AI model] Llama out there, and they’re understandably scared that this bill will make Meta less willing to do releases in the future, out of a fear of liability. Of course, if a model is genuinely extremely dangerous, no one wants it released. But the worry is that the concerns might just make companies way too conservative.&nbsp;</strong></p>
+
+<p class="has-text-align-none">In terms of open source, including and not limited to Llama, I’ve taken the critiques from the open source community really, really seriously. We interacted with people in the open source community and we made amendments in direct response to the open source community.&nbsp;&nbsp;</p>
+
+<p class="has-text-align-none">The shutdown provision requirement [a provision in the bill that requires model developers to have the capability to enact a full shutdown of a covered model, to be able to “unplug it” if things go south] was very high on the list of what person after person was concerned about.</p>
+
+<p class="has-text-align-none">We made an amendment making it crystal clear that once the model is not in your possession, you are not responsible for being able to shut it down. Open source folks who open source a model are not responsible for being able to shut it down.&nbsp;</p>
+
+<div class="wp-block-vox-media-highlight vox-media-highlight">
+<h2 class="wp-block-heading">This story was first featured in the <a href="https://www.vox.com/pages/future-perfect-newsletter-signup">Future Perfect newsletter</a>.</h2>
+
+
+
+<p class="has-text-align-none">Sign up <a href="https://www.vox.com/pages/future-perfect-newsletter-signup">here</a> to explore the big, complicated problems the world faces and the most efficient ways to solve them. Sent twice a week.</p>
+</div>
+
+<p class="has-text-align-none">And then the other thing we did was make an amendment about folks who were fine-tuning. If you make more than minimal changes to the model, or significant changes to the model, then at some point it effectively becomes a new model and the original developer is no longer liable. And there are a few other smaller amendments but those are the big ones we made in direct response to the open source community.&nbsp;</p>
+
+<p class="has-text-align-none"><strong>Another challenge I’ve heard is: Why are you focusing on this and not all of California’s more pressing problems?&nbsp;</strong></p>
+
+<p class="has-text-align-none">When you work on any issue, you hear people say, “Don’t you have more important things to work on?” Yeah, I work <a href="https://sd11.senate.ca.gov/news/san-francisco-housing-approval-times-plummet-senator-scott-wieners-landmark-housing-law-takes">incessantly on housing</a>. I work on <a href="https://www.calbhbc.org/uploads/5/8/5/3/58536227/sb_855_-_fact_sheet_and_background_info.pdf">mental health and addiction treatment</a>. I work incessantly on <a href="https://abc7news.com/scott-wiener-speed-governors-pedestrian-safety-california-bills-streets-safer/14356386/">public safety</a>. I have an <a href="https://sd11.senate.ca.gov/news/senate-passes-senator-wiener-bills-crack-down-car-break-ins">auto break-ins bill</a> and a <a href="https://www.sf.gov/news/mayor-breed-and-senator-wiener-announce-state-legislation-shut-down-sale-stolen-goods-san">bill on people selling stolen goods on the streets</a>.&nbsp;And I’m also working on a bill to make sure we both foster AI innovation and do it in a responsible way.&nbsp;</p>
+
+<p class="has-text-align-none">As a policymaker, I’ve been very pro-tech. I’m a supporter of our tech environment, which is often under attack. I’ve <a href="https://sd11.senate.ca.gov/news/senator-wieners-net-neutrality-law-upheld-federal-appeals-court">supported</a> California’s net neutrality law that fosters an open and free internet.&nbsp;</p>
+
+<p class="has-text-align-none">But I have also seen with technology that we fail to get ahead of what are sometimes very obvious problems. We did that with data privacy. We finally got a data privacy law here in California — and for the record, the opposition to that said all of the same things, that it’ll destroy innovation, that no one will want to work here.&nbsp;</p>
+
+<p class="has-text-align-none">My goal here is to create tons of space for innovation and at the same time promote responsible deployment and training and release of these models. This argument that this is going to squash innovation, that it’s going to push companies out of California — again, we hear that with pretty much every bill. But I think it’s important to understand this bill doesn&#8217;t just apply to people who develop their models in California, it applies to everyone who does business in California. So you can be in Miami, but unless you’re going to disconnect from California — and you’re not — you have to do this.&nbsp;</p>
+
+<p class="has-text-align-none"><strong>I wanted to talk about one of the interesting elements of the debate over this bill, which is the fact it’s wildly popular everywhere except in Silicon Valley. It <a href="https://sd11.senate.ca.gov/news/bipartisan-vote-senate-passes-senator-wieners-landmark-ai-safety-and-innovation-bill">passed</a> the state senate 32-1, with bipartisan approval. <a href="https://static1.squarespace.com/static/65ea6ad22e449b11a1df46b0/t/6694cb31c6758b310ba372f2/1721027377736/SB+1047+poll+memo.pdf">77 percent of Californians are in favor</a> according to one poll, more than half strongly in favor.&nbsp;</strong></p>
+
+<p class="has-text-align-none"><strong>But the people who hate it, they’re all in San Francisco. How did this end up being your bill?</strong></p>
+
+<p class="has-text-align-none">In some ways I’m the best author for this bill, representing San Francisco, because I’m surrounded and immersed in AI. The origin story of this bill was that I started talking with a bunch of front-line AI technologists, startup founders. This was early 2023, and I started having a series of salons and dinners with AI folks. And some of these ideas started forming. So in a way I’m the best author for it because I have access to unbelievably brilliant folks in tech. In another way I’m the worst author because I have folks in San Francisco who are not happy.&nbsp;</p>
+
+<p class="has-text-align-none"><strong>There’s something I struggle with as a reporter, which is conveying to people who aren’t in San Francisco, who aren’t in those conversations, that AI is something really, really big, really high stakes.</strong></p>
+
+<p class="has-text-align-none">It’s very exciting. Because when you start trying to envision — could we have a cure for cancer? Could we have highly effective treatments for a broad range of viruses? Could we have breakthroughs in clean energy that no one ever envisioned? So many exciting possibilities.&nbsp;</p>
+
+<p class="has-text-align-none">But with every powerful technology comes risk. [This bill] is not about eliminating risk. Life is about risk. But how do we make sure that&nbsp;at least our eyes are wide open? That we understand that risk and that if there’s a way to reduce risk, we take it.&nbsp;</p>
+
+<p class="has-text-align-none">That’s all we’re asking with this bill, and I think the vast majority of people will support that.</p>
+
+<p class="has-text-align-none"></p>
+						]]>
+									</content>
+			
+					</entry>
+			<entry>
 			
 			<author>
 				<name>Ellen Ioanes</name>
@@ -837,74 +935,6 @@
 <p class="has-text-align-none">There are some signs of the stigma breaking, of more people speaking out about their experiences with hepatitis, especially in developed countries like the US. But breaking such a long-held bias is difficult. And until the hepatitis community can mobilize a political movement that public officials can no longer ignore, the dream of eradicating hepatitis could keep slipping away.</p>
 
 <p class="has-text-align-none">“I kind of felt that after 25 years, I wouldn’t have to constantly argue about prioritizing. I figured it would be a no-­brainer,” Cohen said. “But the communities that are most impacted by hepatitis B are the disenfranchised communities, the communities that don’t typically have a political voice. They don’t have political strength. And when you don’t demand action, you don’t get it.”</p>
-						]]>
-									</content>
-			
-					</entry>
-			<entry>
-			
-			<author>
-				<name>Nicole Narea</name>
-			</author>
-			
-			<title type="html"><![CDATA[Biden’s plan to shield undocumented spouses of Americans is on hold. Here’s what to know.]]></title>
-			<link rel="alternate" type="text/html" href="https://www.vox.com/policy/369180/biden-undocumented-spouses-legalization-court-ruling" />
-			<id>https://www.vox.com/?p=369180</id>
-			<updated>2024-08-27T22:46:44Z</updated>
-			<published>2024-08-27T22:50:00Z</published>
-			<category scheme="https://www.vox.com" term="Immigration" /><category scheme="https://www.vox.com" term="Policy" /><category scheme="https://www.vox.com" term="Politics" /><category scheme="https://www.vox.com" term="US Federal Courts" />
-							<summary type="html"><![CDATA[A federal court in Texas has put one of the biggest legalization programs in over a decade on hold temporarily, leaving more than half a million people in limbo.&#160; The program, announced by the Biden administration in June, allows undocumented spouses of Americans to apply for a green card without having to leave the country. [&#8230;]]]></summary>
-			
-							<content type="html">
-											<![CDATA[
-
-						
-<figure>
-
-<img alt="Several people stand in sunshine against a blue sky, holding American flags. " data-caption="A naturalization ceremony held on November 19, 2022, at the National Cemetery in Gettysburg, Pennsylvania. | Andrew Lichtenstein/Corbis via Getty Images" data-portal-copyright="Andrew Lichtenstein/Corbis via Getty Images" data-has-syndication-rights="1" src="https://platform.vox.com/wp-content/uploads/sites/2/2024/08/gettyimages-1443027720.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
-	<figcaption>A naturalization ceremony held on November 19, 2022, at the National Cemetery in Gettysburg, Pennsylvania. | Andrew Lichtenstein/Corbis via Getty Images</figcaption>
-</figure>
-<p class="has-text-align-none">A federal court in Texas has put one of the biggest legalization programs in over a decade <a href="https://storage.courtlistener.com/recap/gov.uscourts.txed.232527/gov.uscourts.txed.232527.27.0_1.pdf">on hold temporarily</a>, leaving more than half a million people in limbo.&nbsp;</p>
-
-<p class="has-text-align-none">The program, announced by the Biden administration in June, allows undocumented spouses of Americans to apply for a green card without having to leave the country. Approximately 500,000 spouses and 50,000 stepchildren would be eligible for the program, according to senior administration officials.&nbsp;</p>
-
-<p class="has-text-align-none">The attorneys general of 16 red states — including Texas, Florida, and Georgia — <a href="https://www.texasattorneygeneral.gov/sites/default/files/images/press/Parole%20in%20Place%20Complaint%20Filed.pdf">argued</a> that the program was an illegal attempt to circumvent Congress and create a new pathway to citizenship. The court has given those states two weeks to provide evidence that they would be permanently harmed if the program resumes. Then, the court will rule whether blocking the program on a longer-term basis is appropriate. </p>
-
-<p class="has-text-align-none">The individuals eligible for the new program were always technically able to apply for permanent residence through their US citizen spouse or stepparent but to do so, their families would have to separate, making applying impractical, if not impossible. </p>
-
-<p class="has-text-align-none">That’s because undocumented immigrants would have to leave the country as part of the green card application process. They wouldn’t be legally allowed to reenter for 10 years if they had initially come to the US without permission and stayed for more than a year. Immigrants can <a href="https://www.fwd.us/news/parole-in-place-citizen-spouses/">apply for waivers</a> of this 10-year bar, but the process faces major backlogs.</p>
-
-<p class="has-text-align-none">If upheld, the new program would essentially allow noncitizen spouses and stepchildren to bypass that 10-year bar by offering them parole, which protects them from deportation and gives them work authorization.</p>
-
-<p class="has-text-align-none">While the government won’t be able to process applications to the program under the court’s order, individuals can still file applications in the hope that the program will be allowed to resume.</p>
-
-<p class="has-text-align-none">Critically, that might only happen after an appeals process that could extend beyond the November election. If former President Donald Trump is elected, he is expected to scrap the program because it conflicts with his campaign promise to <a href="https://www.nytimes.com/2023/11/11/us/politics/trump-2025-immigration-agenda.html">deport undocumented immigrants</a> living in the US.</p>
-
-<h2 class="wp-block-heading has-text-align-none"><strong>What are the chances that the program survives court challenges?</strong></h2>
-
-<p class="has-text-align-none">Based on previous cases involving the legal authority Biden invoked to create the program, it should survive court challenges, said <a href="https://www.mckinneyimmigration.com/jeremy-mckinney/">Jeremy McKinney</a>, former president of the American Immigration Lawyers Association.</p>
-
-<p class="has-text-align-none">The program relies on the president’s power to issue what’s called “parole in place,” which has been used for decades by both Republican and Democratic presidents to allow immigrants to remain in the US temporarily, as well as on a case-by-case basis for humanitarian reasons — or because it would significantly benefit the public. For instance, the US government has offered <a href="https://www.uscis.gov/sites/default/files/document/brochures/Brochure-Immigration_Options_for_Family_of_Certain_Military_Members_and_Veterans.pdf">parole in place to undocumented relatives of US service members</a>. </p>
-
-<p class="has-text-align-none">Part of what could help the new program as it faces legal challenges is the fact it isn’t creating a new path to citizenship for immigrants, but instead relies on parole in place to make it easier for undocumented spouses to obtain legal status that they are already eligible for.</p>
-
-<p class="has-text-align-none">“All it does is make it easier for mixed-status households to stay together while they are going through the legal immigration process,” McKinney said. “This is not a shortcut of the normal system.”&nbsp;</p>
-
-<p class="has-text-align-none">He noted that the Fifth Circuit, the appeals court that might review this case, previously recognized the president has parole-in-place authority as recently as 2021 when it called it a “means of removing bars that stand between an [immigrant] and government benefits.”&nbsp;</p>
-
-<p class="has-text-align-none">“I do think that the legal landscape looks favorable to these applicants,” he said.</p>
-
-<h2 class="wp-block-heading has-text-align-none">Should undocumented spouses still apply?</h2>
-
-<p class="has-text-align-none">Those eligible for the program can still move ahead with their applications.</p>
-
-<p class="has-text-align-none">To be eligible for the new program, spouses must be present in the US without having been legally admitted to the US or previously provided parole. They must have also lived in the US for at least a decade and have a legally valid marriage to a US citizen as of June 17, 2024. And they must “merit a favorable exercise of discretion” and not pose a threat to public safety, according to a senior administration official.</p>
-
-<p class="has-text-align-none">For stepchildren to be eligible, they must be unmarried and under 21. Their parent must have married a US citizen before the stepchild turned 18.</p>
-
-<p class="has-text-align-none">The decision of whether to apply might ultimately come down to whether applicants are willing to take on the financial risk while the program is on hold. The application fee is $580 per person, excluding any fees associated with hiring a lawyer to prepare the application. </p>
-
-<p class="has-text-align-none">“They are making a financial bet, so to speak,” McKinney said. “And so if money is tight, maybe they want to wait until the litigation is resolved.”</p>
 						]]>
 									</content>
 			
