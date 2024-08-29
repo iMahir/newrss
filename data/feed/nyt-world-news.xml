@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 29 Aug 2024 21:12:53 +0000</lastBuildDate>
-    <pubDate>Thu, 29 Aug 2024 21:04:05 +0000</pubDate>
+    <lastBuildDate>Thu, 29 Aug 2024 21:23:50 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Aug 2024 21:19:56 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -50,7 +50,7 @@
       <atom:link href="https://www.nytimes.com/card/2024/08/29/world/africa/mpox-outbreak-africa-congo" rel="standout"></atom:link>
       <description>The New York Times visited a remote hospital in Congo where children and adults suffer with mpox, recently declared a global health emergency.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 29 Aug 2024 21:04:05 +0000</pubDate>
+      <pubDate>Thu, 29 Aug 2024 21:19:56 +0000</pubDate>
     </item>
     <item>
       <title>Lucy Letby Inquiry Won’t Weigh Key Question: Is the ‘Killer Nurse’ Innocent?</title>
@@ -288,6 +288,25 @@
       <media:description>Patrick Lam, left, and Chung Pui-kuen of Stand News leaving court in Hong Kong last year.</media:description>
     </item>
     <item>
+      <title>Namibia, Facing Drought, Plans to Kill Elephants for Meat</title>
+      <link>https://www.nytimes.com/2024/08/29/world/africa/namibia-drought-elephants-meat.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/29/world/africa/namibia-drought-elephants-meat.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/29/world/africa/namibia-drought-elephants-meat.html" rel="standout"></atom:link>
+      <description>The Southern African country plans to butcher over 700 wild animals, including 83 elephants and 300 zebras, to feed people and, it hopes, cut down on dangerous cross-species encounters.</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Thu, 29 Aug 2024 21:16:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Insecurity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elephants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zebras</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Namibia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/08/29/multimedia/29namibia-animals-photo-fjck/29namibia-animals-photo-fjck-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Wolfgang Kaehler/LightRocket, via Getty Images</media:credit>
+      <media:description>African elephants in the Huanib River Valley in northern Namibia in 2019. Namibia declared a state of emergency in May because of the devastating drought.</media:description>
+    </item>
+    <item>
       <title>‘Climate-Friendly’ Meat? Regulators Tighten Scrutiny of Label Buzzwords.</title>
       <link>https://www.nytimes.com/2024/08/29/climate/usda-meat-chicken-climate-labels.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/08/29/climate/usda-meat-chicken-climate-labels.html</guid>
@@ -321,7 +340,7 @@
       <media:description>Vice President Kamala Harris being interviewed on CNN in June.</media:description>
     </item>
     <item>
-      <title>Honduras Says It Will End Extradition Treaty With United States</title>
+      <title>Honduras Says It Will End Extradition Treaty With U.S. After Ambassador Remarks</title>
       <link>https://www.nytimes.com/2024/08/29/world/americas/honduras-extradition-us.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/08/29/world/americas/honduras-extradition-us.html</guid>
       <atom:link href="https://www.nytimes.com/2024/08/29/world/americas/honduras-extradition-us.html" rel="standout"></atom:link>
@@ -1184,33 +1203,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/08/20/multimedia/00trade-war-03-bqgh/00trade-war-03-bqgh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Adam Amengual for The New York Times</media:credit>
       <media:description>A universal tariff has the potential to deliver a devastating jolt to world trade, economists have warned.</media:description>
-    </item>
-    <item>
-      <title>The Crypto Industry Loudly Defends Telegram’s Pavel Durov</title>
-      <link>https://www.nytimes.com/2024/08/27/technology/telegram-crypto-industry-defender.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/08/27/technology/telegram-crypto-industry-defender.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/08/27/technology/telegram-crypto-industry-defender.html" rel="standout"></atom:link>
-      <description>When the messaging app’s founder, Pavel Durov, was arrested, he received a flood of support from a multitrillion-dollar industry that relies on it.</description>
-      <dc:creator>David Yaffe-Bellany</dc:creator>
-      <pubDate>Tue, 27 Aug 2024 18:07:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Entrepreneurship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Instant Messaging</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Commerce and Payments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">HK FTX Trading Ltd (Futures Exchange)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Telegram LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Three Arrows Capital</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bankman-Fried, Sam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Durov, Pavel Valeryevich (1984- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellison, Caroline (1994- )</category>
-      <media:content height="853" medium="image" url="https://static01.nyt.com/images/2024/08/27/multimedia/27crypto-telegram-twbq/27crypto-telegram-twbq-mediumSquareAt3X.jpg" width="853"></media:content>
-      <media:credit>Ton Foundation, via Reuters</media:credit>
-      <media:description>Pavel Durov, center, the founder of Telegram, at a cryptocurrency conference in Dubai, United Arab Emirates, in April.</media:description>
     </item>
   </channel>
 </rss>
