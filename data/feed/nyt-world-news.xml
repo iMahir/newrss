@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 30 Aug 2024 13:45:34 +0000</lastBuildDate>
-    <pubDate>Fri, 30 Aug 2024 13:44:56 +0000</pubDate>
+    <lastBuildDate>Fri, 30 Aug 2024 14:09:12 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Aug 2024 13:50:26 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -172,16 +172,20 @@
       <description>The operation is the largest Israeli military incursion in over a year into the West Bank, which has become a third front in a conflict also being fought in Gaza and along the border with Lebanon.</description>
       <dc:creator>Victoria Kim and Thomas Fuller</dc:creator>
       <pubDate>Fri, 30 Aug 2024 00:43:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mosques</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Islamic Jihad</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tulkarm (West Bank)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jenin (West Bank)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mosques</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/29/multimedia/29mideast-crisis-ledeall01-photo-tcfb/29mideast-crisis-ledeall01-photo-tcfb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Zain Jaafar/Agence France-Presse — Getty Images</media:credit>
       <media:description>A mosque damaged during an Israeli military operation in the northern West Bank, on Thursday.</media:description>
@@ -689,16 +693,14 @@
       <description>Jake Sullivan also met with China’s top leader, Xi Jinping, who said the United States should “find a correct way for the two major countries to get along.”</description>
       <dc:creator>Keith Bradsher and David Pierson</dc:creator>
       <pubDate>Thu, 29 Aug 2024 12:38:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Military Commission (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">People&#39;s Liberation Army (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullivan, Jacob J (1976- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullivan, Jacob J (1976- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South China Sea</category>
       <media:content height="1222" medium="image" url="https://static01.nyt.com/images/2024/08/29/multimedia/29china-us-gczq/29china-us-gczq-mediumSquareAt3X-v2.jpg" width="1221"></media:content>
       <media:credit>Pool photo by Trevor Hunnicutt</media:credit>
       <media:description>Jake Sullivan, the U.S. national security adviser, met with China’s leader, Xi Jinping, on Thursday.</media:description>
