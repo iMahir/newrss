@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 01 Sep 2024 16:13:57 +0000</lastBuildDate>
-    <pubDate>Sun, 01 Sep 2024 16:13:54 +0000</pubDate>
+    <lastBuildDate>Sun, 01 Sep 2024 16:39:02 +0000</lastBuildDate>
+    <pubDate>Sun, 01 Sep 2024 16:38:44 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/09/01/world/israel-hamas-gaza-war" rel="standout"></atom:link>
       <description>Israelis lashed out at Prime Minister Benjamin Netanyahu, accusing him of torpedoing efforts to secure a cease-fire in exchange for the hostages’ release. The country’s largest labor union said it would go on strike on Monday.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 01 Sep 2024 16:12:15 +0000</pubDate>
+      <pubDate>Sun, 01 Sep 2024 16:38:44 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/01/multimedia/01mideast-crisis-hostage-promo-9am-hcgb/01mideast-crisis-hostage-promo-9am-hcgb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Tsafrir Abayov/Associated Press</media:credit>
     </item>
@@ -92,16 +92,19 @@
       <atom:link href="https://www.nytimes.com/2024/09/01/world/americas/venezuela-maracaibo-migration.html" rel="standout"></atom:link>
       <description>About a quarter of the residents of Maracaibo, Venezuela’s second-largest city, have moved away — and more are expected to soon follow.</description>
       <dc:creator>Frances Robles and Marian Carrasquero</dc:creator>
-      <pubDate>Sun, 01 Sep 2024 16:13:31 +0000</pubDate>
+      <pubDate>Sun, 01 Sep 2024 16:13:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maracaibo (Venezuela)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Population</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gonzalez, Edmundo (1949- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Machado, Maria Corina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South America</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/09/01/multimedia/01venezuela-migration-promo/01venezuela-migration-top-pjfl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Marian Carrasquero for The New York Times</media:credit>
       <media:description>Irma Palmar, 52, cares for her seven grandchildren at her home in Maricaibo, Venezuela.</media:description>
@@ -386,13 +389,13 @@
       <description>In a reversal, two senior U.S. military officials say the cause of the F-16’s crash was probably not friendly fire.</description>
       <dc:creator>Marc Santora</dc:creator>
       <pubDate>Sun, 01 Sep 2024 01:51:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Friendly Fire (Military and Law Enforcement)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kursk (Russia)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2024/09/01/multimedia/01ukraine-f16-pilot-zfvg-top-art/01ukraine-f16-pilot-zfvg-top-art-mediumSquareAt3X.jpg" width="1800"></media:content>
@@ -408,11 +411,16 @@
       <dc:creator>Aaron Boxerman</dc:creator>
       <pubDate>Sat, 31 Aug 2024 15:29:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jenin (West Bank)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tulkarm (West Bank)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Islamic Jihad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/31/multimedia/31mideast-ledeall-sub-1-zmhj/31mideast-ledeall-sub-1-zmhj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alaa Badarneh/EPA, via Shutterstock</media:credit>
       <media:description>Palestinians salvaged items after an Israeli military raid in the Nur Shams area of the West Bank on Friday.</media:description>
