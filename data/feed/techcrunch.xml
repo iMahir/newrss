@@ -15,7 +15,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Sun, 01 Sep 2024 17:19:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 01 Sep 2024 17:37:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,23 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">136296444</site>	<item>
+		<title>The case against AI art</title>
+		<link>https://techcrunch.com/2024/09/01/the-case-against-ai-art/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sun, 01 Sep 2024 17:37:27 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2846751</guid>
+
+					<description><![CDATA[<p>No matter who powerful generative AI becomes, writer Ted Chiang says it will never create true art. Chiang is one of the most admired science fiction authors writing today, best known for the novella “Story Of Your Life” (which was adapted into the movie “Arrival”). But he’s also published terrific pieces for The New Yorker [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2846751</post-id>	</item>
+		<item>
 		<title>Palantir’s CTO, and 13th employee, has become a secret weapon for Valley defense tech startups</title>
 		<link>https://techcrunch.com/2024/09/01/tktk/</link>
 		
@@ -417,27 +434,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2846141</post-id>	</item>
-		<item>
-		<title>The org behind the dataset used to train Stable Diffusion claims it has removed CSAM</title>
-		<link>https://techcrunch.com/2024/08/30/the-org-behind-the-data-set-used-to-train-stable-diffusion-claims-it-has-removed-csam/</link>
-		
-		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
-		<pubDate>Fri, 30 Aug 2024 17:39:37 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[CSAM]]></category>
-		<category><![CDATA[Generative AI]]></category>
-		<category><![CDATA[LAION]]></category>
-		<category><![CDATA[open source]]></category>
-		<category><![CDATA[Stability AI]]></category>
-		<category><![CDATA[Stable Diffusion]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=2846346</guid>
-
-					<description><![CDATA[<p>LAION, the German research org that created the data used to train Stable Diffusion, among other generative AI models, has released a new dataset that it claims has been &#8220;thoroughly cleaned of known links to suspected child sexual abuse material (CSAM).&#8221; The new dataset, Re-LAION-5B, is actually a re-release of an old dataset, LAION-5B &#8212; [&#8230;]</p>
-<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
-]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">2846346</post-id>	</item>
 	</channel>
 </rss>
