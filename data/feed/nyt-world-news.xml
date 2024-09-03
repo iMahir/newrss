@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World/xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 03 Sep 2024 20:46:18 +0000</lastBuildDate>
-    <pubDate>Tue, 03 Sep 2024 20:40:47 +0000</pubDate>
+    <lastBuildDate>Tue, 03 Sep 2024 21:08:11 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Sep 2024 21:03:15 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -46,7 +46,7 @@
       <atom:link href="https://www.nytimes.com/2024/09/03/world/americas/venezuela-maduro-christmas-october.html" rel="standout"></atom:link>
       <description>With the nation’s democracy in shambles, President Nicolás Maduro tries to inject some holiday cheer.</description>
       <dc:creator>Julie Turkewitz</dc:creator>
-      <pubDate>Tue, 03 Sep 2024 18:04:27 +0000</pubDate>
+      <pubDate>Tue, 03 Sep 2024 21:03:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Christmas</category>
@@ -283,6 +283,18 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/02/world/02france-rape-add/02france-rape-add-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Christophe Simon/Agence France-Presse — Getty Images</media:credit>
       <media:description>A demonstration outside the courthouse on Monday in Avignon. One of the placards reads: “And you. What is your excuse?” Another reads: “Rapists we see you.”</media:description>
+    </item>
+    <item>
+      <title>Wednesday Briefing: Russian Strike Kills 50 in Ukraine</title>
+      <link>https://www.nytimes.com/2024/09/03/briefing/russia-strike-harris-polio.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/03/briefing/russia-strike-harris-polio.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/03/briefing/russia-strike-harris-polio.html" rel="standout"></atom:link>
+      <description>Plus, a quiz to test healthy brain habits.</description>
+      <dc:creator>Gaya Gupta</dc:creator>
+      <pubDate>Tue, 03 Sep 2024 20:48:00 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/04/multimedia/04ambriefing-asia-nl-ukraine-vgtf/04ambriefing-asia-nl-ukraine-vgtf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>David Guttenfelder for The New York Times</media:credit>
+      <media:description>Destruction at a military educational institution in Poltava, Ukraine.</media:description>
     </item>
     <item>
       <title>No Time to Run: Russian Missiles Hit Ukraine City Just After Sirens Sound</title>
@@ -1143,27 +1155,6 @@
       <media:content height="1657" medium="image" url="https://static01.nyt.com/images/2024/09/01/multimedia/01mideast-crisis-hostages-jkzh/01mideast-crisis-hostages-jkzh-mediumSquareAt3X.jpg" width="1656"></media:content>
       <media:credit>The Hostages Families Forum, via Associated Press</media:credit>
       <media:description>Clockwise from top left: Carmel Gat, Eden Yerushalmi, Hersh Goldberg-Polin, Ori Danino, Almog Sarusi and Alexander Lobanov, in photos released by the Hostages and Missing Families Forum.</media:description>
-    </item>
-    <item>
-      <title>In Race Against Polio, Gaza Begins Vaccination Drive</title>
-      <link>https://www.nytimes.com/2024/09/01/world/middleeast/gaza-polio-vaccine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/01/world/middleeast/gaza-polio-vaccine.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/01/world/middleeast/gaza-polio-vaccine.html" rel="standout"></atom:link>
-      <description>Israel and Hamas agreed to pause the war to permit the vaccination of 640,000 children in Gaza, a daunting effort for health workers.</description>
-      <dc:creator>Bilal Shbair, Erika Solomon and Hiba Yazbek</dc:creator>
-      <pubDate>Sun, 01 Sep 2024 23:18:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poliomyelitis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/01/multimedia/01gaza-polio-top-sub-htbq/01gaza-polio-top-sub-htbq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Eyad Baba/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A health worker administering the polio vaccine to a Palestinian child in the central Gaza Strip on Sunday.</media:description>
     </item>
   </channel>
 </rss>
