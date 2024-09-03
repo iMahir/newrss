@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 03 Sep 2024 19:19:22 +0000</lastBuildDate>
-    <pubDate>Tue, 03 Sep 2024 19:19:13 +0000</pubDate>
+    <lastBuildDate>Tue, 03 Sep 2024 19:34:36 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Sep 2024 19:29:40 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -60,23 +60,24 @@
       <media:description>The government, without providing evidence, accused the opposition of causing a nationwide blackout on Friday. </media:description>
     </item>
     <item>
-      <title>At Least 12 Die Trying to Cross English Channel, French Authorities Say</title>
+      <title>At Least 12 Die Trying to Cross English Channel, French Officials Say</title>
       <link>https://www.nytimes.com/2024/09/03/world/europe/migrant-boat-english-channel.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/09/03/world/europe/migrant-boat-english-channel.html</guid>
       <atom:link href="https://www.nytimes.com/2024/09/03/world/europe/migrant-boat-english-channel.html" rel="standout"></atom:link>
-      <description>The French maritime authorities said that 65 people were picked up from the sea after their vessel encountered unspecified difficulties.</description>
+      <description>Over 60 people were crowded into a small boat that “rapidly and brutally” broke apart off the coast of France, authorities said.</description>
       <dc:creator>Aurelien Breeden and Megan Specia</dc:creator>
-      <pubDate>Tue, 03 Sep 2024 15:47:21 +0000</pubDate>
+      <pubDate>Tue, 03 Sep 2024 19:29:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drownings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Darmanin, Gerald</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">English Channel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pas-de-Calais (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/03/multimedia/03france-migrants-gvwm/03france-migrants-gvwm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Gareth Fuller/Press Association, via Associated Press</media:credit>
-      <media:description>A group of people thought to be migrants being brought in to Dover, England, in the Channel on Tuesday.</media:description>
+      <media:description>A group of people thought to be migrants are being brought in to Dover, England, on Tuesday.</media:description>
     </item>
     <item>
       <title>129 Dead in Congo Prison Jailbreak</title>
