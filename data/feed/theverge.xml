@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>The Verge -  All Posts</title>
   <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
-  <updated>2024-09-04T09:00:09-04:00</updated>
+  <updated>2024-09-04T09:22:20-04:00</updated>
   <id>https://www.theverge.com/rss/full.xml</id>
   <link type="text/html" href="https://www.theverge.com/" rel="alternate"/>
+  <entry>
+    <published>2024-09-04T09:22:20-04:00</published>
+    <updated>2024-09-04T09:22:20-04:00</updated>
+    <title>A Minecraft Movie’s first trailer is equal parts goofy and creepy</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="A still image from the Minecraft movie." src="https://cdn.vox-cdn.com/thumbor/bQF5VfdmoHRWks_ge-hdmsLB_wA=/239x0:1859x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73562953/Screen_Shot_2024_09_04_at_9.07.47_AM.0.png" /&gt;
+        &lt;figcaption&gt;Image: Warner Bros. Pictures&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="Y5gWbp"&gt;Move over, &lt;a href="https://www.theverge.com/2019/5/2/18525323/detective-pikachu-review-pokemon"&gt;&lt;em&gt;Detective Pikachu&lt;/em&gt;&lt;/a&gt;, there’s an even stranger live-action video game movie on the way. And by that, I mean Warner Bros. just released the first teaser trailer for &lt;em&gt;A Minecraft Movie&lt;/em&gt;. The film features actual humans and a slightly realistic CG take on &lt;em&gt;Minecraft&lt;/em&gt;. But when you mix the game’s iconic blocky style with real life, you get, well, this:&lt;/p&gt;
+  &lt;figure class="e-image"&gt;
+        
+      &lt;cite&gt;Image: Warner Bros. Pictures&lt;/cite&gt;
+  &lt;/figure&gt;
+&lt;p id="n7gQKC"&gt;Unsettling imagery aside, &lt;em&gt;A Minecraft Movie&lt;/em&gt; looks like some silly family fun, with lots of one-liners, large-scale battles, and Jack Black exclaiming “I am Steve!” very proudly. And obviously, there’s both mining and crafting. Aside from Black, the movie also stars Jason Momoa, Emma Myers, Danielle Brooks, Sebastian Eugene Hansen, and...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/24235698/minecraft-movie-trailer"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/24235698/minecraft-movie-trailer"/>
+    <id>https://www.theverge.com/24235698/minecraft-movie-trailer</id>
+    <author>
+      <name>Andrew Webster</name>
+    </author>
+  </entry>
   <entry>
     <published>2024-09-04T09:00:09-04:00</published>
     <updated>2024-09-04T09:00:09-04:00</updated>
@@ -236,31 +264,6 @@
     <id>https://www.theverge.com/2024/9/4/24232248/apple-event-september-iphone-16-date-time-live-stream-watch-how-to-rumors</id>
     <author>
       <name>Umar Shakir</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-09-04T07:49:08-04:00</published>
-    <updated>2024-09-04T07:49:08-04:00</updated>
-    <title>YubiKeys have an unfixable security flaw — but it’s difficult to exploit</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="Someone using the YubiKey 5 NFC to access a laptop." src="https://cdn.vox-cdn.com/thumbor/__locvmZZn4Ow_qi9ns2JXBirb8=/0x407:2435x2030/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73562684/laptop_anfc_yubico.0.jpg" /&gt;
-        &lt;figcaption&gt;&lt;em&gt;The flaw doesn’t impact newer YubiKey hardware that doesn’t use the Infineon cryptolibrary.&lt;/em&gt; | Image: Yubico&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="GPIBEB"&gt;Security researchers have detected a vulnerability in YubiKey two-factor authentication tokens that enables attackers to clone the device according to &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.yubico.com%2Fsupport%2Fsecurity-advisories%2Fysa-2024-03%2F&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F9%2F4%2F24235635%2Fyubikey-unfixable-security-vulnerability-side-channel-explot" rel="sponsored nofollow noopener" target="_blank"&gt;a new security advisory&lt;/a&gt;. The vulnerability was discovered within the Infineon cryptographic library used by most YubiKey products, including the YubiKey 5, Yubikey Bio, Security Key, and YubiHSM 2 series devices.&lt;/p&gt;
-&lt;p id="ucXAWk"&gt;YubiKey manufacturer Yubico says the severity of the side-channel vulnerability is “moderate” but is difficult to exploit, partly because two-factor systems rely upon something the user has and something only they should know. &lt;/p&gt;
-&lt;p id="qoL4TX"&gt;“The attacker would need physical possession of the YubiKey, Security Key, or YubiHSM, knowledge of the accounts they want to target, and specialized...&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2024/9/4/24235635/yubikey-unfixable-security-vulnerability-side-channel-explot"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/9/4/24235635/yubikey-unfixable-security-vulnerability-side-channel-explot"/>
-    <id>https://www.theverge.com/2024/9/4/24235635/yubikey-unfixable-security-vulnerability-side-channel-explot</id>
-    <author>
-      <name>Jess Weatherbed</name>
     </author>
   </entry>
 </feed>
