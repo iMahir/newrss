@@ -16,6 +16,114 @@
 		<entry>
 			
 			<author>
+				<name>Whizy Kim</name>
+			</author>
+			
+			<title type="html"><![CDATA[Is this algorithm driving your rent higher?]]></title>
+			<link rel="alternate" type="text/html" href="https://www.vox.com/money/370351/realpage-doj-lawsuit-rent-algorithm-pricing" />
+			<id>https://www.vox.com/?p=370351</id>
+			<updated>2024-09-05T21:55:21Z</updated>
+			<published>2024-09-06T10:00:00Z</published>
+			<category scheme="https://www.vox.com" term="Economy" /><category scheme="https://www.vox.com" term="Housing" /><category scheme="https://www.vox.com" term="Money" /><category scheme="https://www.vox.com" term="Policy" />
+							<summary type="html"><![CDATA[Today, algorithms rule everything around us. They serve us entertaining, or at least addictive, content on social media. They try to suss out which emails in our overstuffed inboxes might be most important, and which ones are spam. They act as matchmakers for our love lives. Increasingly, though, algorithms have also been deployed by companies, [&#8230;]]]></summary>
+			
+							<content type="html">
+											<![CDATA[
+
+						
+<figure>
+
+<img alt="" data-caption="RealPage, the software company being accused by the DOJ of antitrust violations, has rent data on some 16 million units in the US." data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.vox.com/wp-content/uploads/sites/2/2024/09/GettyImages-1771879591.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption>RealPage, the software company being accused by the DOJ of antitrust violations, has rent data on some 16 million units in the US.</figcaption>
+</figure>
+<p class="has-text-align-none">Today, algorithms rule everything around us. They serve us entertaining, or at least addictive, content on social media. They try to suss out which emails in our overstuffed inboxes might be most important, and which ones are spam. They act as matchmakers for our love lives. Increasingly, though, algorithms have also been deployed by companies, from <a href="https://www.vox.com/money/24105250/fast-food-restaurants-dynamic-pricing-algorithm-wendys">Amazon to Uber to Wendy’s</a>, to figure out optimal — often higher — prices that can shift automatically based on a firehose of fine-grained data.</p>
+
+<p class="has-text-align-none">Including, apparently, your rent.</p>
+
+<p class="has-text-align-none">Now, a software company called RealPage is being sued by the Department of Justice for using an algorithm that suggests rent prices to corporate landlords. The DOJ argues that its algorithm has driven rents higher, and constitutes an illegal information sharing scheme. That is, competitors (the landlords) who would otherwise be acting independently, have exchanged “nonpublic, competitively sensitive data” to the detriment of renters who don’t have access to such knowledge.</p>
+
+<p class="has-text-align-none">A <a href="https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent">2022 ProPublica investigation</a> quoted Andrew Bowen, then a RealPage executive, admitting that the software had probably driven up rental prices. “As a property manager, very few of us would be willing to actually raise rents double digits within a single month by doing it manually,” he said. In the <a href="https://www.justice.gov/opa/media/1364976/dl?inline">DOJ’s complaint</a>, one unnamed landlord is quoted praising a RealPage product as “classic price fixing” saying, “I always liked this product because your algorithm uses proprietary data from other subscribers to suggest rents and term.” The complaint claims that RealPage has data on over 16 million units; the National Multifamily Housing Council estimates that there are around <a href="https://www.nmhc.org/research-insight/quick-facts-figures/quick-facts-apartment-stock/">23 million apartment units</a> in the US.</p>
+
+<p class="has-text-align-none">Vox spoke to <a href="https://www.law.csuohio.edu/faculty/facultyprofiles/christopher-l-sagers">Christopher L. Sagers</a>, a law professor at Cleveland State University, on why pricing algorithms are under scrutiny now — and how likely it is for the DOJ to win this case. The conversation has been lightly edited for clarity.</p>
+
+<p class="has-text-align-none"><strong>What exactly is RealPage?</strong></p>
+
+<p class="has-text-align-none">The company is a service provider that serves landlords. We&#8217;re basically talking very big landlords — corporate landlords that own many properties, generally speaking. The RealPage service is very expensive, so it’s for bigger entities, more or less, and they’re very sophisticated. Whether they use RealPage or not, they would be sophisticated data crunchers who are into using management expertise to maximize the money they can make. </p>
+
+<p class="has-text-align-none">[RealPage] is really a software service provided to landlords, a management service that’s tech-based, and the business end of that service is: RealPage collects a very large amount of confidential, sensitive data that’s very useful to landlords in figuring out what their competition is doing, and therefore choosing how to set their own behavior to maximize their own profits.</p>
+
+<p class="has-text-align-none">The government alleges that there are 16 million individual rental units at stake here — in other words, RealPage is collecting lease terms, rent prices, occupancy rates, et cetera, for 16 million different apartment units. The data is very disaggregated — it’s very granular, very precise and detailed. Then [it] takes all that data, crunches it. RealPage, increasingly, is an artificial intelligence provider. It is now crunching [the data] with artificial intelligence; they’re presumably going to be getting more and more sophisticated about it, assuming that the government doesn’t force them to stop doing what they’re doing. </p>
+
+<p class="has-text-align-none"><strong>Landlords use this software, but they’re not the ones named in this suit, right?</strong></p>
+
+<p class="has-text-align-none">That’s correct.</p>
+
+<p class="has-text-align-none"><strong>Is there a good case to be made that RealPage committed antitrust violations?</strong></p>
+
+<p class="has-text-align-none">Yes.</p>
+
+<p class="has-text-align-none">I’ll just lay my cards on the table: I think the government’s case is very strong, and it’s unlikely that RealPage gets out of this without some kind of legal liability.&nbsp;</p>
+
+<p class="has-text-align-none"><strong>What is the part of what RealPage and its software does that the DOJ is saying violates antitrust law?</strong></p>
+
+<p class="has-text-align-none">I think the relatively simple answer is, they do a few things with this data that cause them to be doing more than just providing information or helping landlords make decisions. Most importantly, they are using confidential data not available to renters. They’re only available to one side of the market. They are then using that data to, as they would say, make mere recommendations. In other words, they’re making forward-looking future predictions of what the best price will be from the landlord’s perspective — meaning the most profitable. </p>
+
+<figure class="wp-block-pullquote"><blockquote><p>They’re making forward-looking future predictions of what the best price will be from the landlord’s perspective — meaning the most profitable. </p></blockquote></figure>
+
+<p class="has-text-align-none">It’s very clear that, in the abstract, a couple of things that RealPage could be said to be doing are, in fact, legal. [But] according to the government’s allegations, RealPage is doing more than just those things that are legal. There is, first of all, this argument that RealPage is doing stuff that screws up the rental market — it increases rent prices for consumers. There’s the separate argument, though, that RealPage has monopolized the market for this software.</p>
+
+<p class="has-text-align-none"><strong>So it doesn’t sound like RealPage was just letting its software do its thing — the complaint mentions how it had “pricing advisors” who would basically escalate the matter if a landlord rejected their recommendation. Does that constitute an agreement of some kind?</strong></p>
+
+<p class="has-text-align-none">Oh, yes. It feels like you read complaints all the time in which you’re like, “Wow, what were they thinking? Why did they think they were going to get away with this?” You’re selling a service in which you’re going to have an employee go complain to somebody’s competitors and say, “Hey, get your prices up.” Is it illegal just to have [a price advisor]? Is it illegal to sell a service in which you’re going to go nag people’s competitors to get their prices up? I think the short answer very well may be yes, that in and of itself is independently illegal.</p>
+
+<p class="has-text-align-none">Here’s why I think that’s so significant. You asked, “Are they suing the landlords too?” The answer is no — but there are pending private lawsuits, and I think if the government wins this case, which I think they will, there are going to be big lawsuits against the landlords. These private cases that are coming, I think, will be conspiracy cases. They’ll be what we call “hub and spoke conspiracy” theories. </p>
+
+<p class="has-text-align-none">For a long time, antitrust has recognized that people might want to get their prices up with their horizontal competitors, but they find it difficult to make agreements with them — or they’re afraid of doing something illegal, so they don’t explicitly agree. But then some intermediary will come along who’s willing to do the work of getting the cartel together and enforcing the cartel agreements — that person is called the hub. Their relationship with each one of the competitors is like a spoke. Hub and spoke conspiracies, when they involve somebody just fixing explicit prices, are what we call <em>per se</em> illegal: they’re automatically illegal if it’s proven, there’s no defense.</p>
+
+<p class="has-text-align-none">[RealPage] is selling the thing that makes it so hard to get a price-fixing conspiracy together — it’s hard to get people to agree, and then enforce the agreement once it’s made. </p>
+
+<p class="has-text-align-none"><strong>What do you think RealPage’s main defense will be?</strong></p>
+
+<p class="has-text-align-none">Their main defense is going to be that they are simply helping landlords do something that landlords could have done themselves, and if the landlords did it, it would all have been legal. That’s a general point they will make.</p>
+
+<p class="has-text-align-none">A closely related point is, they’re going to say this isn’t price fixing; this is just sharing of information. And as everybody knows who’s taken freshman economics, information is good for markets, right? Competitive markets have to have good information or they don’t work well. So we’re really just doing this to have a vibrant, competitive marketplace.</p>
+
+<p class="has-text-align-none"><strong>Do you find that compelling? What’s the first rebuttal to that?&nbsp;</strong></p>
+
+<p class="has-text-align-none">No, everything about it is a lie. The first rebuttal to it is this: they’re not doing something that any landlord could do independently. For one thing, one landlord can’t get 16 million data points that are updated every night and crunch it through a big data algorithm. If a trade association of landlords did that on their own, without a third-party intermediary, it would very likely be illegal for the same reasons that this thing seems like it’s illegal.&nbsp;</p>
+
+<p class="has-text-align-none"><strong>So the scale of it is a big thing here.</strong></p>
+
+<p class="has-text-align-none">Yes, the scale of it is a big thing.&nbsp;</p>
+
+<p class="has-text-align-none">It isn’t just that it would be hard to get that much data, and it would be expensive to crunch it — there would also be a lot of difficulty in coordinating the agreement. Two competitors would share information if they really were comfortable that they could trust the other one to use it for evil. If I can trust my competitor to use this to get our prices up and keep them up, that’s great, but the truth is, they’re actually quite suspicious of each other. There’s a reason this information is confidential, because they ordinarily don’t want their competitors to have it.</p>
+
+<p class="has-text-align-none">Then point number two, that this is actually good for the economy — that’s not plausible because they’re not sharing it. They’re not going to make a public database where renters can go see who’s charging the lowest price. </p>
+
+<p class="has-text-align-none"><strong>Based on what we know, based on the DOJ complaint and </strong><a href="https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent"><strong>other reporting</strong></a><strong>, do you think it’s likely that RealPage helped drive up rents?</strong></p>
+
+<p class="has-text-align-none">I think it’s very likely. This isn’t just a big conspiracy in that it involves a lot of units; they also have very substantial market penetration. Among landlords of a certain size, a very large percentage of them are using not just a product like this; they’re using RealPage. The complaint contains a bunch of evidence that the landlords know who else in their market is using RealPage, and they call each other and ask. The reason that’s so significant is, if you know that your three competitors are all using the same software that you use for any competitive purposes, then you know there’s no real risk to you in raising your prices, right? </p>
+
+<p class="has-text-align-none">So the idea that this isn’t raising prices in real markets seems very unlikely to me.&nbsp;</p>
+
+<p class="has-text-align-none"><strong>If RealPage said that their algorithm doesn’t just recommend higher prices, but also lower ones sometimes, would that change the situation?</strong></p>
+
+<p class="has-text-align-none">It might if they could prove it. It would still be a case that, I think, could go to a jury on liability — even if there were substantial evidence that sometimes they’re making prices go down — because there’s just a lot of anti-competitive evidence here. They have the price nudge officials, there’s evidence that all the users of it know when their competitors are using it. All of those things suggest this is anti-competitive. </p>
+
+<figure class="wp-block-pullquote"><blockquote><p>“I have reason to believe that this particular technology has had a huge impact on consumer prices throughout the economy.”</p></blockquote></figure>
+
+<p class="has-text-align-none"><strong>If the DOJ wins this case, what does that change for digital pricing tools in general? Because there are </strong><a href="https://www.cbsnews.com/news/inflation-ftc-surveillance-pricing-impact-consumers/"><strong>a lot of those</strong></a><strong> around now. Amazon famously </strong><a href="https://apnews.com/article/amazon-ftc-lawsuit-antitrust-lina-khan-d40f5437bac57f7f4a3ab5a49650f98d"><strong>uses algorithms</strong></a><strong> in how it prices.</strong></p>
+
+<p class="has-text-align-none">One thing we’re going to learn, I think, once this case starts chugging along, is just how common businesses like RealPage are. Using confidential information and big data technology to calculate the highest possible price — who knows, I’m not a macro economist, I don’t know what causes inflation — but I have reason to believe that this particular technology has had a huge impact on consumer prices throughout the economy. </p>
+
+<p class="has-text-align-none">If RealPage is found to have violated the law, it will at least have repercussions throughout the tech sector. This is a big tech product category, right? It’s something antitrust watchers have been thinking about for a long time. When can an algorithm itself be illegal, and when is an algorithm effectively price fixing?</p>
+						]]>
+									</content>
+			
+					</entry>
+			<entry>
+			
+			<author>
 				<name>Aja Romano</name>
 			</author>
 			
@@ -853,110 +961,6 @@
 <p>Under this new legal regime, the future of firearm regulation looks grim for anyone who believes that the government should help protect us from gun violence.</p>
 
 <p><em><strong>Update, September 4, 2024, 5 pm ET:&nbsp;</strong>This story was originally published on May 26, 2022, and has been updated multiple times, most recently with the latest details from the September 4 shooting at Apalachee High School in Winder, Georgia.</em></p>
-						]]>
-									</content>
-			
-					</entry>
-			<entry>
-			
-			<author>
-				<name>Alex Abad-Santos</name>
-			</author>
-			
-			<title type="html"><![CDATA[Your guide to the Brittany Mahomes-Donald Trump drama, such as it is]]></title>
-			<link rel="alternate" type="text/html" href="https://www.vox.com/culture/369543/brittany-mahomes-likes-trump-instagram" />
-			<id>https://www.vox.com/?p=369543</id>
-			<updated>2024-09-04T19:50:40Z</updated>
-			<published>2024-09-04T19:50:38Z</published>
-			<category scheme="https://www.vox.com" term="Celebrity Culture" /><category scheme="https://www.vox.com" term="Culture" />
-							<summary type="html"><![CDATA[At any given second, millions of people are liking various things on Instagram. Pictures of sunsets and sunrises, recipes for keto brownies, videos of viral K-pop dances — there’s something for everyone. But right now there’s one specific semi-famous woman whose social media activity (liking, unliking, posting) has drawn widespread attention: Brittany Mahomes.&#160; Best known [&#8230;]]]></summary>
-			
-							<content type="html">
-											<![CDATA[
-
-						
-<figure>
-
-<img alt="Two women hugging and smiling from inside a suite at a football game." data-caption="Taylor Swift and Brittany Mahomes hanging out at a Chiefs game in 2023. | Stacy Revere/Getty Images" data-portal-copyright="Stacy Revere/Getty Images" data-has-syndication-rights="1" src="https://platform.vox.com/wp-content/uploads/sites/2/2024/08/gettyimages-1829598694_848f0a.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
-	<figcaption>Taylor Swift and Brittany Mahomes hanging out at a Chiefs game in 2023. | Stacy Revere/Getty Images</figcaption>
-</figure>
-<p class="has-text-align-none">At any given second, millions of people are liking various things on Instagram. Pictures of sunsets and sunrises, recipes for keto brownies, videos of viral K-pop dances — there’s something for everyone. But right now there’s one specific semi-famous woman whose social media activity (liking, unliking, posting) has drawn widespread attention: <a href="https://nypost.com/2024/08/29/sports/brittany-mahomes-is-brushing-off-haters-after-patrick-mahomes-advice/">Brittany Mahomes</a>.&nbsp;</p>
-
-<p class="has-text-align-none">Best known as the wife of Super Bowl-winning Kansas City Chiefs quarterback Patrick Mahomes, Brittany Mahomes’s national profile has, for the moment, eclipsed her husband’s. That’s due to her perceived support for former President Donald Trump and his promised political policies. This all started when Mahomes liked and then unliked an Instagram post from the former president that <a href="https://www.tmz.com/2024/08/28/brittany-mahomes-trump-support/">outlined his 2024 platform</a>.&nbsp;&nbsp;</p>
-
-<p class="has-text-align-none">Under any normal circumstances, only <a href="https://www.instagram.com/brittanylynne/?hl=en">Brittany Mahomes’s biggest fans</a> would be deeply invested in whether she desires mass deportation and an Iron Dome missile defense system built over America. But Mahomes has connections to Taylor Swift, the most famous woman in the world. That very valuable association is why the social media likes and dislikes of an American football WAG (that’s “wives and girlfriends”) has become a pop culture saga.&nbsp;</p>
-
-<p class="has-text-align-none">We’re here to answer your most pressing questions.</p>
-
-<p class="has-text-align-none"><strong>Wait, what happened?&nbsp;</strong></p>
-
-<p class="has-text-align-none">Brittany Mahomes has become a moment in this news cycle because she has been liking and unliking social media posts supporting former President Donald Trump and his various policies.&nbsp;</p>
-
-<p class="has-text-align-none">On <a href="https://www.instagram.com/p/C-m53xGu3MY/?utm_source=ig_embed&amp;ig_rid=a69d4fdc-9933-4d07-904b-7e88d71753a8">August 13</a>, Trump’s Instagram account posted a platform promising to “Seal the border, and stop the migrant invasion,” “Keep men OUT of women’s sports,” and “Carry out the largest deportation operation in American history.” He also plans to cut “federal funding for any school pushing Critical Race Theory, Radical Gender Ideology, and other inappropriate racial, sexual, or political content on our children.”</p>
-
-<p class="has-text-align-none"><a href="https://x.com/tiredasslesbian/status/1826972546052325629">Eagle-eyed internet sleuths</a> spotted that Mahomes “liked” and “unliked” the xenophobic and transphobic dog whistle salad last week. And though Mahomes doesn’t follow Trump on her account, it seems as though the narrative was already set: Mahomes supports some of Trump’s most pernicious and divisive politics.&nbsp;</p>
-
-<p class="has-text-align-none">The news that people saw Mahomes’s social media activity eventually circled its way back to Mahomes, who was not pleased that people noticed her public actions. To that, she posted a message via <a href="https://www.glamour.com/story/brittany-mahomes-message-haters-liking-pro-trump-instagram-post">Instagram Story</a> (Instagram Stories are temporary), denouncing her haters and telling them they were emotionally damaged adults:&nbsp;</p>
-
-<p class="has-text-align-none"><em>I mean honestly, to be a hater as an adult, you have to have some deep rooted issues you refuse to heal from childhood. There’s no reason your brain is fully developed and you hate to see others doing well.&nbsp;</em></p>
-
-<p class="has-text-align-none"><a href="https://www.yahoo.com/entertainment/brittany-mahomes-slams-haters-instagram-015629071.html?.tsrc=daily_mail&amp;segment_id=DY_GOLDLIST_TEST&amp;ncid=crm_19908-1202929-20240825-0&amp;bt_user_id=6JRyBTwoYQzmdnLH3pN2QzNZuI5lUW99eij89uny52Y9VmIpDsEpGGO5JWIe&amp;bt_ts=1724580120381&amp;guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAKBxQxF-fo9Px30l0B6tcZu6KwckIA3BbKQcCQTyBfmdE-eLjhpbxsDzUFDj5U0riA9M2Jsg-zMbF58SDN42jXuDiD764vw6o2Wv0F_tzmN_zscfp-UWDMzLVQM4dRmTihmI2MylQw9k_ZcZWJAySNmtqdVp7JDgb2AdfXCpwmLA">Mahomes seemed</a> to see the negativity surrounding her social media proclivities as a sign that people were mad that she was succeeding, rather than that people were disappointed in her presumed politics, that is to say, what appeared to be her beliefs about how the country should be run and how others should be treated. Mahomes also <a href="https://x.com/PopCrave/status/1828870083847884899">liked a pro-Trump comment</a> under a recent post, eliminating any ambiguity that her previous liking and unliking spree might be an accident. </p>
-
-<p class="has-text-align-none">On August 26, Mahomes doubled down and <a href="https://people.com/brittany-mahomes-doubles-down-calling-out-critics-after-backlash-8701908">shared a post</a> that read, “Contrary to the tone of the world today … You can disagree with someone, and still love them. You can have differing views, and still be kind.” She did not comment on or explain the relative kindness of the views she appeared to support. </p>
-
-<p class="has-text-align-none">Then, on September 4, Trump apparently heard the news and was flattered, <a href="https://truthsocial.com/@realDonaldTrump/posts/113080034075111751" rel="nofollow">posting a message</a> on his own social media platform, Truth Social. In the post, Trump called Mahomes “beautiful” and thanked her for “strongly defending” him, going on to decry “Crime and Illegal Immigration,” “INFLATION,” a “World that is laughing” at US leaders. </p>
-
-<figure class="wp-block-embed is-type-rich is-provider-truth-social wp-block-embed-truth-social"><div class="wp-block-embed__wrapper">
-<div class="iframely-embed"><div class="iframely-responsive"><a href="https://truthsocial.com/@realDonaldTrump/posts/113080034075111751" data-iframely-url="//cdn.iframe.ly/api/iframe?maxheight=750&#038;url=https%3A%2F%2Ftruthsocial.com%2F%40realDonaldTrump%2Fposts%2F113080034075111751&#038;key=a95589c51263af39f0de8ef8737db4f3"></a></div></div>
-</div></figure>
-
-<p class="has-text-align-none">Mahomes has yet to comment on Trump’s thanks.</p>
-
-<p class="has-text-align-none">And sorry, who is Brittany Mahomes again? Do people regularly care about Brittany Mahomes in general?</p>
-
-<p class="has-text-align-none">Brittany Mahomes is primarily famous because she’s married to Kansas City Chiefs quarterback Patrick Mahomes, who was her high school sweetheart. She’s also the <a href="https://www.elle.com/culture/celebrities/a45601704/who-is-patrick-mahomes-wife-brittany-mahomes/">co-owner</a> of the Kansas City Current, a team in the National Women’s Soccer League, which was the sport she excelled in through college, and she was a Sports Illustrated <a href="https://www.si.com/sports-illustrated/brittany-mahomes-makes-her-sports-illustrated-swimsuit-debut-01hxt4v7tp05">swimsuit model</a> in May of this year. She and Patrick have two children and are currently expecting a third.&nbsp;</p>
-
-<p class="has-text-align-none">The <a href="https://trends.google.com/trends/explore/TIMESERIES/1724935800?hl=en-US&amp;tz=300&amp;geo=US&amp;hl=en&amp;q=brittany+mahomes,brittany+mahomes+trump&amp;sni=3">biggest “Brittany Mahomes” search spike</a> of the past year was during the Super Bowl when people were ostensibly trying to figure out whether Patrick Mahomes had a wife and if she was hanging out with Taylor Swift (more on this in a bit).&nbsp;</p>
-<img src="https://platform.vox.com/wp-content/uploads/sites/2/2024/08/gettyimages-2160725206.jpg?quality=90&#038;strip=all&#038;crop=0,10.696771244586,100,78.606457510828" alt="" title="" data-has-syndication-rights="1" data-caption="Patrick Mahomes and Brittany Mahomes at Wimbledon this year. | Karwai Tang/WireImage via Getty Images" data-portal-copyright="Karwai Tang/WireImage via Getty Images" />
-<p class="has-text-align-none">For the most part, the name Brittany Mahomes is not one the average American gives a lot of thought to, and her political views would probably warrant even less consideration. She’s not a political scholar nor is she some kind of kingmaker. Prior to her online statements about “haters,” the <a href="https://trends.google.com/trends/explore/TIMESERIES/1724935800?hl=en-US&amp;tz=300&amp;geo=US&amp;hl=en&amp;q=brittany+mahomes,brittany+mahomes+trump&amp;sni=3">American public wasn’t furiously Googling</a> “Brittany Mahomes loves Trump?” or “Brittany Mahomes Republican.” There’s a bit of a <a href="https://en.wikipedia.org/wiki/Streisand_effect">Streisand effect</a> happening, where the more Mahomes doubles down, the more attention she draws to the kerfuffle. There’s possibly a timeline in which Mahomes lets the entire saga run its course and fade away as football season begins.&nbsp;</p>
-
-<p class="has-text-align-none">One thing to note is that her pro-Trump political stance appears to many to be at odds with her husband’s identity. Patrick is biracial, with a Black father and a white mother. And it would seem that Brittany’s liking that pro-Trump post, especially his bits about attacking critical race theory (an attack that would minimize the historical <a href="https://www.vox.com/22443822/critical-race-theory-controversy">Black American experience</a>) would be insensitive if not incongruent with her husband’s identity. <a href="https://www.vox.com/2024-elections/364172/trump-nabj-black-voter-journalist-racist-kamala-harris-indian-american">Trump has recently attacked</a> Vice President Kamala Harris’s biracial ethnicity, claiming that she “turned” Black for political gain. Harris’s father is Jamaican.  </p>
-
-<p class="has-text-align-none">Patrick hasn’t been open about who he’s voting for, but he has spoken up about police brutality and <a href="https://andscape.com/features/patrick-mahomes-saw-george-floyds-death-and-chiefs-quarterback-knew-he-couldnt-stay-on-the-sideline/">supported Black Lives Matter</a>. In 2020, he <a href="https://www.marketwatch.com/story/watch-patrick-mahomes-and-other-nfl-stars-demand-the-nfl-condemn-racism-and-admit-wrong-in-silencing-players-from-peacefully-protesting-2020-06-05">urged the NFL</a> to denounce and separate itself from racism.&nbsp;</p>
-
-<p class="has-text-align-none">But more important than her husband and the reason everyone’s talking about Brittany at all is that she’s allegedly friends with Taylor Swift — the most famous person on the planet.&nbsp;</p>
-
-<p class="has-text-align-none"><strong>So this is all because she’s friends with Taylor Swift?&nbsp;</strong></p>
-
-<p class="has-text-align-none">Pretty much!&nbsp;</p>
-
-<p class="has-text-align-none"><strong>How long have they been friends?&nbsp;</strong></p>
-
-<p class="has-text-align-none">Swift and Mahomes seem to have formed their close bond after Swift started dating <a href="https://www.vox.com/culture/2023/9/25/23889682/taylor-swift-travis-kelces-date-nfl-chiefs-game">Travis Kelce</a>, a Chiefs tight end who plays with Patrick Mahomes. The two women likely cultivated their relationship during Chiefs games last year, when they <a href="https://www.today.com/popculture/taylor-swift-brittany-mahomes-rcna121662">were photographed</a> together multiple times at the VIP suites, even potentially wearing matching necklaces. It wasn’t long until they took their friendship on the road, with Taylor including Brittany on a <a href="https://www.eonline.com/photos/36639/taylor-swifts-nyc-night-out-with-selena-gomez-brittany-mahomes-more">girls’ night in NYC</a> with the rest of her squad.&nbsp;</p>
-
-<p class="has-text-align-none"><strong>Wait, what does Taylor have to say about Trump?</strong></p>
-
-<p class="has-text-align-none">Swift has spoken up against Trump in the past, <a href="https://www.axios.com/2020/01/24/taylor-swift-politics-miss-americana-donald-trump">acknowledging in her 2020 documentary</a><em> Miss Americana</em> that she regretted not speaking up about him and his policies during the 2016 election. Ahead of the 2020 election, <a href="https://x.com/taylorswift13/status/1266392274549776387">Swift tweeted</a> that Trump was cavorting with white supremacists and promised “we will vote you out in November.”&nbsp;</p>
-
-<p class="has-text-align-none">But ahead of the upcoming 2024 election, Swift has been less vocal about Trump and publicly more nonpartisan.<strong> </strong><a href="https://www.nbcnews.com/news/us-news/taylor-swift-urges-282-million-instagram-followers-vote-super-tuesday-rcna141848">In March</a>, she urged her fans to vote for “the people who most represent YOU into power.” Kelce, her boyfriend, has appeared in Covid-19 vaccine and <a href="https://www.thestreet.com/restaurants/bud-light-boycott-movement-goes-after-taylor-swift-and-travis-kelce">Budweiser</a> commercials, <a href="https://www.vox.com/money/2023/4/12/23680135/bud-light-boycott-dylan-mulvaney-travis-tritt-trans">two targets</a> of right-wing protests. </p>
-
-<p class="has-text-align-none">At last year’s Super Bowl, Swift and Kelce found themselves in the middle of a kooky <a href="https://www.nytimes.com/2024/02/12/us/politics/biden-tiktok-super-bowl.html">right-wing conspiracy theory</a> that President Joe Biden rigged the game in Kelce and Kansas City’s favor, all to get some of that sweet Swift attention. The gist: that Kelce and Swift were liberal, so Biden tilted the game in their favor.&nbsp;</p>
-
-<p class="has-text-align-none">Yet, <a href="https://www.cnn.com/2024/08/19/politics/donald-trump-taylor-swift-ai/index.html">Trump also recently posted an AI image</a> falsely suggesting he has the support of her fans. Swift has not <a href="https://www.cnn.com/2024/08/24/us/ai-content-laws-taylor-swift-trump/index.html">officially responded</a> to that “acceptance.”<strong> </strong>Still, Swift has yet to endorse a presidential candidate. In what’s likely to be a close election, <a href="https://www.theatlantic.com/politics/archive/2024/08/swifties-kamala-harris-zoom/679637/">some of Swift’s biggest fans</a> are urging her to throw her support behind Harris.&nbsp;</p>
-
-<p class="has-text-align-none"><strong>Okay, so … Brittany Mahomes isn’t actually Taylor Swift, she’s just a friend. Why do her perceived politics matter?</strong></p>
-
-<p class="has-text-align-none">Mahomes’s social media meltdown came at a peculiar time for megastar Swift. Mahomes and her husband spent the weekend with Taylor Swift at the singer’s Rhode Island estate on August 24. Swift was reportedly hosting a birthday party for pal Blake Lively that weekend. Lively has been having a difficult time in the press recently because of a <a href="https://www.vox.com/culture/367451/blake-lively-it-ends-with-us-press-tour-controversy">feud with co-star Justin Baldoni</a> during the filming of their movie <em>It Ends With Us</em>.&nbsp;</p>
-
-<p class="has-text-align-none">Swift’s getaway weekends are famous for being luxurious and over the top, but also as invitations only her very best friends receive. Swift is known for picking and choosing her friends from the world of beautiful and notable people and then visibly hanging out with them. Ever since Swift’s <em>1989</em> tour, where her pals — ranging from Fifth Harmony to Gigi Hadid — joined her onstage, <a href="https://www.vox.com/culture/24134809/taylor-swift-tortured-poets-department-matty-healy-joe-alwyn">Swift’s friendships</a> with the hippest, smartest, kindest, and most beautiful women in pop culture have become a crucial part of her image. All these people who call Swift friends are culturally cool, which makes Swift culturally cool.&nbsp;</p>
-<img src="https://platform.vox.com/wp-content/uploads/sites/2/2024/08/gettyimages-1717057814.jpg?quality=90&#038;strip=all&#038;crop=0,10.7460602225,100,78.507879555" alt="" title="" data-has-syndication-rights="1" data-caption="Taylor Swift, Brittany Mahomes, and Blake Lively hanging out! One of these women may or may not be deeply into mass deportation! | Kevin Sabitus/Getty Images" data-portal-copyright="Kevin Sabitus/Getty Images" />
-<p class="has-text-align-none">At the same time, Swift’s friendships are the most human thing about her. They’re her way of signaling to the public that as different as she is from the rest of the population — a billionaire making hit music and selling all kinds of albums — she’s relatable as a good friend. Arguably, Swift’s friends have defined the singer almost as much as she’s defined herself. The Mahomes’ presence in Rhode Island would indicate that Brittany is indeed a bestie. </p>
-
-<p class="has-text-align-none">Now, not unlike how fans are trying to puzzle out the dynamic of Brittany’s relationship with her husband, Swifties are trying to figure out how Brittany’s politics figure into her friendship with Swift. Since the singer has been relatively quiet, they’re trying to get a read on Swift’s current feelings about Trump. Or, possibly, get a read on how much longer Brittany and Swift will remain friends.&nbsp;</p>
-
-<p class="has-text-align-none">Swift’s friendships have always been a crucial and visible part of her image.<strong> </strong>And Brittany Mahomes may have just made a mark on that image that Taylor Swift didn’t agree to.</p>
-
-<p class="has-text-align-none"><em><strong>Update: September 4, 3:25 pm:</strong> This story, originally published August 29, has been updated with Trump’s Truth Social post about Brittany Mahomes. </em></p>
 						]]>
 									</content>
 			
