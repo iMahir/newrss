@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 08 Sep 2024 14:47:19 +0000</lastBuildDate>
-    <pubDate>Sun, 08 Sep 2024 14:43:24 +0000</pubDate>
+    <lastBuildDate>Sun, 08 Sep 2024 15:13:18 +0000</lastBuildDate>
+    <pubDate>Sun, 08 Sep 2024 14:54:54 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2024/09/08/world/middleeast/israel-gaza-hamas-war-west-bank.html" rel="standout"></atom:link>
       <description>The Allenby crossing, near the West Bank city of Jericho, has been the scene of violence in the past.</description>
       <dc:creator>Adam Rasgon</dc:creator>
-      <pubDate>Sun, 08 Sep 2024 10:23:16 +0000</pubDate>
+      <pubDate>Sun, 08 Sep 2024 14:54:54 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
@@ -29,8 +29,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2024/09/08/multimedia/08mideast-ledeall-sub-tcmz/08mideast-ledeall-sub-tcmz-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Ammar Awad/Reuters</media:credit>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/08/multimedia/08mideast-ledeall-sub-8-qhmf/08mideast-ledeall-sub-8-qhmf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jamal Awwad/EPA, via Shutterstock</media:credit>
       <media:description>Israeli police officers patrolling near the Allenby Bridge crossing between the West Bank and Jordan on Sunday.</media:description>
     </item>
     <item>
@@ -167,16 +167,14 @@
       <atom:link href="https://www.nytimes.com/2024/09/07/world/asia/typhoon-yagi-vietnam-china.html" rel="standout"></atom:link>
       <description>At least four people have died and thousands were evacuated after Yagi, one of the strongest storms to hit northern Vietnam, brought powerful winds and torrential rains.</description>
       <dc:creator>John Yoon and Isabella Kwai</dc:creator>
-      <pubDate>Sat, 07 Sep 2024 19:31:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <pubDate>Sat, 07 Sep 2024 19:31:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Typhoons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hanoi (Vietnam)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hainan Island (China)</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/09/07/multimedia/07xp-typhoon-gbtm/07xp-typhoon-gbtm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nhac Nguyen/Agence France-Presse — Getty Images</media:credit>
@@ -288,12 +286,16 @@
       <description>With witnesses and Palestinian officials accusing Israeli soldiers of firing the fatal shots, “an Israeli investigation is not adequate,” the family said in a statement.</description>
       <dc:creator>Liam Stack and Ephrat Livni</dc:creator>
       <pubDate>Sat, 07 Sep 2024 21:15:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aysenur Eyzi Eygi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eygi, Aysenur Ezgi (1998-2024)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/06/multimedia/07westbank-protester-01/06mideast-crisis-protester-killed-cblz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>Medics transporting the body of Aysenur Ezgi Eygi, 26, a Turkish American woman who was fatally shot on Friday in the occupied West Bank.</media:description>
@@ -365,8 +367,17 @@
       <dc:creator>Erika Solomon and Rawan Sheikh Ahmad</dc:creator>
       <pubDate>Sat, 07 Sep 2024 15:58:54 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eygi, Aysenur Ezgi (1998-2024)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/07/multimedia/07mideast-ledeall-ftzw/07mideast-ledeall-ftzw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eyad Baba/Agence France-Presse — Getty Images</media:credit>
       <media:description>Palestinians mourn over bodies in Deir al Balah, in central Gaza, on Saturday.</media:description>
