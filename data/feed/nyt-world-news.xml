@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 09 Sep 2024 06:40:11 +0000</lastBuildDate>
-    <pubDate>Mon, 09 Sep 2024 05:51:52 +0000</pubDate>
+    <lastBuildDate>Mon, 09 Sep 2024 07:53:30 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Sep 2024 07:10:32 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -297,6 +297,25 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/07/multimedia/07pope-png-01-bhmz/07pope-png-01-bhmz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Guglielmo Mangiapane</media:credit>
       <media:description>Pope Francis meeting with Bob Dadae, the governor general of Papua New Guinea, in Port Moresby on Saturday.</media:description>
+    </item>
+    <item>
+      <title>El Salvador’s Police Chief Dies in Helicopter Crash</title>
+      <link>https://www.nytimes.com/2024/09/09/world/americas/el-salvador-helicopter-crash-police.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/09/world/americas/el-salvador-helicopter-crash-police.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/09/world/americas/el-salvador-helicopter-crash-police.html" rel="standout"></atom:link>
+      <description>Mauricio Arriaza Chicas led the nation’s police force during a crackdown on gang violence. The president expressed doubt that the crash had been an accident.</description>
+      <dc:creator>Mike Ives</dc:creator>
+      <pubDate>Mon, 09 Sep 2024 07:10:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Helicopters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bukele, Nayib</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Salvador</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/09/09/multimedia/09xp-elsalvador-tjwc/09xp-elsalvador-tjwc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jose Cabezas/Reuters</media:credit>
+      <media:description>Mauricio Arriaza Chicas, El Salvador’s national police chief, in 2021.</media:description>
     </item>
     <item>
       <title>Why Is Pope Francis Going to East Timor?</title>
@@ -1170,23 +1189,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/09/05/multimedia/05cli-bats-pvwl/05cli-bats-pvwl-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Kim Raff for The New York Times</media:credit>
       <media:description>The new study shows how human health can suffer when nature is out of balance.</media:description>
-    </item>
-    <item>
-      <title>German Police Shoot Gunman Dead Near Israeli Consulate in Munich</title>
-      <link>https://www.nytimes.com/2024/09/05/world/europe/german-police-shoot-gunman-dead-near-israeli-consulate-in-munich.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/05/world/europe/german-police-shoot-gunman-dead-near-israeli-consulate-in-munich.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/05/world/europe/german-police-shoot-gunman-dead-near-israeli-consulate-in-munich.html" rel="standout"></atom:link>
-      <description>The shootout with an 18-year-old Austrian came on the anniversary of the attack on the Munich Olympics that left 11 Israelis dead, and was being investigated as a possible terrorist attack.</description>
-      <dc:creator>Christopher F. Schuetze</dc:creator>
-      <pubDate>Thu, 05 Sep 2024 18:04:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (1972)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Documentation Center for the History of National Socialism (Munich, Germany)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Soder, Markus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Steinmeier, Frank-Walter</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/05/multimedia/05munich-shooting-lcvj/05munich-shooting-lcvj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Gintare Karpaviciute/Reuters</media:credit>
-      <media:description>Police officers secured the area near the Israeli Consulate in Munich on Thursday.</media:description>
     </item>
   </channel>
 </rss>
