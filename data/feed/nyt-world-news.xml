@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.9619060202326397" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 12 Sep 2024 14:47:28 +0000</lastBuildDate>
-    <pubDate>Thu, 12 Sep 2024 14:47:20 +0000</pubDate>
+    <lastBuildDate>Thu, 12 Sep 2024 15:09:59 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Sep 2024 15:08:14 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -53,7 +53,7 @@
       <atom:link href="https://www.nytimes.com/2024/09/12/world/europe/biden-ukraine-strike-russia.html" rel="standout"></atom:link>
       <description>President Biden has refused to allow Ukraine to use long-range Western missiles on Russian military targets, but he appears to be wavering.</description>
       <dc:creator>Lara Jakes</dc:creator>
-      <pubDate>Thu, 12 Sep 2024 12:15:57 +0000</pubDate>
+      <pubDate>Thu, 12 Sep 2024 14:48:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
@@ -296,6 +296,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Americans Abroad</category>
+    </item>
+    <item>
+      <title>Russian Forces Are Stepping Up Attacks on Pokrovsk, Ukraine Says</title>
+      <link>https://www.nytimes.com/2024/09/12/world/europe/russia-ukraine-pokrovsk-attacks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/12/world/europe/russia-ukraine-pokrovsk-attacks.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/12/world/europe/russia-ukraine-pokrovsk-attacks.html" rel="standout"></atom:link>
+      <description>Bombardments are increasing in and around Pokrovsk, Ukrainian officials said, with water supplies now cut and a road overpass destroyed.</description>
+      <dc:creator>Andrew E. Kramer</dc:creator>
+      <pubDate>Thu, 12 Sep 2024 15:08:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pokrovsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2024/09/12/multimedia/12ukraine-pokrovsk-01-lvkp/12ukraine-pokrovsk-01-lvkp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>Evacuees from towns and villages in the Pokrovsk district boarding a train last week.</media:description>
     </item>
     <item>
       <title>Ukraine Says Russian Missile Hit Grain Ship in Black Sea</title>
