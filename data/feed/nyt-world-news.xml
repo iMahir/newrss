@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.9619060202326397" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 12 Sep 2024 15:09:59 +0000</lastBuildDate>
-    <pubDate>Thu, 12 Sep 2024 15:08:14 +0000</pubDate>
+    <lastBuildDate>Thu, 12 Sep 2024 15:25:02 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Sep 2024 15:24:44 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -42,32 +42,67 @@
       <atom:link href="https://www.nytimes.com/live/2024/09/12/world/israel-hamas-gaza-war" rel="standout"></atom:link>
       <description>The United Nations criticized the strike, which killed 18 people including six of its workers. Israel said the former school it targeted had become a haven for militants.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 12 Sep 2024 14:42:45 +0000</pubDate>
+      <pubDate>Thu, 12 Sep 2024 15:24:44 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/12/multimedia/12mideast-crisis-promo1030am-mgtz/12mideast-crisis-promo1030am-mgtz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Haitham Imad/EPA, via Shutterstock</media:credit>
     </item>
     <item>
-      <title>Should Ukraine Launch Western Weapons Deep Into Russia?</title>
-      <link>https://www.nytimes.com/2024/09/12/world/europe/biden-ukraine-strike-russia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/12/world/europe/biden-ukraine-strike-russia.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/12/world/europe/biden-ukraine-strike-russia.html" rel="standout"></atom:link>
-      <description>President Biden has refused to allow Ukraine to use long-range Western missiles on Russian military targets, but he appears to be wavering.</description>
-      <dc:creator>Lara Jakes</dc:creator>
-      <pubDate>Thu, 12 Sep 2024 14:48:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <title>Russian Forces Are Stepping Up Attacks on Pokrovsk, Ukraine Says</title>
+      <link>https://www.nytimes.com/2024/09/12/world/europe/russia-ukraine-pokrovsk-attacks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/12/world/europe/russia-ukraine-pokrovsk-attacks.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/12/world/europe/russia-ukraine-pokrovsk-attacks.html" rel="standout"></atom:link>
+      <description>Bombardments are increasing in and around Pokrovsk, Ukrainian officials said, with water supplies now cut and a road overpass destroyed.</description>
+      <dc:creator>Andrew E. Kramer</dc:creator>
+      <pubDate>Thu, 12 Sep 2024 15:08:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
-      <category domain="">ATACMS</category>
-      <category domain="">F-16s</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pokrovsk (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/12/multimedia/12ukraine-4-kjwz/12ukraine-4-kjwz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>David Guttenfelder for The New York Times</media:credit>
-      <media:description>Ukrainian rescue workers carrying a man injured in a Russian missile strike on a sports complex in Kharkiv, Ukraine earlier this month.</media:description>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2024/09/12/multimedia/12ukraine-pokrovsk-01-lvkp/12ukraine-pokrovsk-01-lvkp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>Evacuees from towns and villages in the Pokrovsk district boarding a train last week.</media:description>
+    </item>
+    <item>
+      <title>The Grenfell Fire and the Unbearable Slowness of Public Inquiries</title>
+      <link>https://www.nytimes.com/2024/09/12/world/europe/grenfell-fire-public-inquiry-failings-scandal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/12/world/europe/grenfell-fire-public-inquiry-failings-scandal.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/12/world/europe/grenfell-fire-public-inquiry-failings-scandal.html" rel="standout"></atom:link>
+      <description>Holding an inquiry has become one of the British government’s go-to responses to outrageous harm. But that approach can sometimes stall change and delay justice.</description>
+      <dc:creator>Amanda Taub</dc:creator>
+      <pubDate>Thu, 12 Sep 2024 10:45:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anger (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grenfell Tower Fire (June, 2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Grenfell Tower (London, England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/04/multimedia/04uk-grenfell-takeaways-01-pcjh/04uk-grenfell-takeaways-01-pcjh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Natalie Oxford/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The fire at Grenfell Tower in west London on June 14, 2017, killed 72 people. “The simple truth is that the deaths that occurred were all avoidable,” the chairman of a public inquiry said last week.</media:description>
+    </item>
+    <item>
+      <title>Ukraine Says Russian Missile Hit Grain Ship in Black Sea</title>
+      <link>https://www.nytimes.com/2024/09/12/world/europe/ukraine-grain.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/12/world/europe/ukraine-grain.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/12/world/europe/ukraine-grain.html" rel="standout"></atom:link>
+      <description>If confirmed, the attack would be the first on a commercial vessel since Ukraine secured a shipping route to grain markets abroad last year.</description>
+      <dc:creator>Matthew Mpoke Bigg and Maria Varenikova</dc:creator>
+      <pubDate>Thu, 12 Sep 2024 14:47:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Black Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/12/multimedia/12ukraine-grain-bjmf/12ukraine-grain-bjmf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Daniel Berehulak for The New York Times</media:credit>
+      <media:description>A cargo vessel being filled with grain at the port of Pivdennyi, Ukraine, in 2022.</media:description>
     </item>
     <item>
       <title>Deepfake Sex Videos in South Korea Seen as Old Misogyny With New Tech</title>
@@ -115,26 +150,6 @@
       <media:description>Protesters outside of the Senate in Mexico City on Tuesday.</media:description>
     </item>
     <item>
-      <title>The Grenfell Fire and the Unbearable Slowness of Public Inquiries</title>
-      <link>https://www.nytimes.com/2024/09/12/world/europe/grenfell-fire-public-inquiry-failings-scandal.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/12/world/europe/grenfell-fire-public-inquiry-failings-scandal.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/12/world/europe/grenfell-fire-public-inquiry-failings-scandal.html" rel="standout"></atom:link>
-      <description>Holding an inquiry has become one of the British government’s go-to responses to outrageous harm. But that approach can sometimes stall change and delay justice.</description>
-      <dc:creator>Amanda Taub</dc:creator>
-      <pubDate>Thu, 12 Sep 2024 10:45:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anger (Emotion)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grenfell Tower Fire (June, 2017)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Grenfell Tower (London, England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/04/multimedia/04uk-grenfell-takeaways-01-pcjh/04uk-grenfell-takeaways-01-pcjh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Natalie Oxford/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The fire at Grenfell Tower in west London on June 14, 2017, killed 72 people. “The simple truth is that the deaths that occurred were all avoidable,” the chairman of a public inquiry said last week.</media:description>
-    </item>
-    <item>
       <title>After Being Shot, Slovakia’s Leader Targets His Enemies</title>
       <link>https://www.nytimes.com/2024/09/12/world/europe/slovakia-robert-fico.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/09/12/world/europe/slovakia-robert-fico.html</guid>
@@ -153,6 +168,31 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/09/05/multimedia/00slovakia-fico-01-vhzg/00slovakia-fico-01-vhzg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Radovan Stoklasa/Reuters</media:credit>
       <media:description>Prime Minister Robert Fico in July. The Slovakian leader, who has been purging his opponents from a wide range of institutions, survived an assassination attempt in May.</media:description>
+    </item>
+    <item>
+      <title>Should Ukraine Launch Western Weapons Deep Into Russia?</title>
+      <link>https://www.nytimes.com/2024/09/12/world/europe/biden-ukraine-strike-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/12/world/europe/biden-ukraine-strike-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/12/world/europe/biden-ukraine-strike-russia.html" rel="standout"></atom:link>
+      <description>President Biden has refused to allow Ukraine to use long-range Western missiles on Russian military targets, but he appears to be wavering.</description>
+      <dc:creator>Lara Jakes</dc:creator>
+      <pubDate>Thu, 12 Sep 2024 14:48:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <category domain="">ATACMS</category>
+      <category domain="">F-16s</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/12/multimedia/12ukraine-4-kjwz/12ukraine-4-kjwz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>David Guttenfelder for The New York Times</media:credit>
+      <media:description>Ukrainian rescue workers carrying a man injured in a Russian missile strike on a sports complex in Kharkiv, Ukraine earlier this month.</media:description>
     </item>
     <item>
       <title>Israeli Strike in Gaza Kills 18, Officials Say, Including 6 U.N. Workers</title>
@@ -262,87 +302,13 @@
       <media:description>A gas pipe explosion from a Russian missile strike on Kharkiv, Ukraine, this month.</media:description>
     </item>
     <item>
-      <title>U.K.’s Revered NHS Is in Deep Trouble, Darzi Report Finds</title>
-      <link>https://www.nytimes.com/2024/09/11/world/europe/nhs-starmer-darzi-report.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/11/world/europe/nhs-starmer-darzi-report.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/11/world/europe/nhs-starmer-darzi-report.html" rel="standout"></atom:link>
-      <description>A government-commissioned review into the National Health Service laid bare the challenge Prime Minister Keir Starmer faces after years of underinvestment.</description>
-      <dc:creator>Stephen Castle</dc:creator>
-      <pubDate>Wed, 11 Sep 2024 21:30:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Health Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Finances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/11/multimedia/11uk-nhs-2-pflz/11uk-nhs-2-pflz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Andrew Testa for The New York Times</media:credit>
-      <media:description>The emergency room at Queen’s Hospital in Romford, England, last year. A new report said the National Health Service had been “starved of capital.”</media:description>
-    </item>
-    <item>
-      <title>Family of American Woman Held in China for 10 Years Asks for Help</title>
-      <link>https://www.nytimes.com/2024/09/11/world/asia/china-us-woman-imprisoned.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/11/world/asia/china-us-woman-imprisoned.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/11/world/asia/china-us-woman-imprisoned.html" rel="standout"></atom:link>
-      <description>Dawn Michelle Hunt, who is serving a life sentence, says she was duped into carrying drugs. Her family says she is seriously ill and should be sent home.</description>
-      <dc:creator>Mara Hvistendahl</dc:creator>
-      <pubDate>Wed, 11 Sep 2024 04:01:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Dui Hua</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Americans Abroad</category>
-    </item>
-    <item>
-      <title>Russian Forces Are Stepping Up Attacks on Pokrovsk, Ukraine Says</title>
-      <link>https://www.nytimes.com/2024/09/12/world/europe/russia-ukraine-pokrovsk-attacks.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/12/world/europe/russia-ukraine-pokrovsk-attacks.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/12/world/europe/russia-ukraine-pokrovsk-attacks.html" rel="standout"></atom:link>
-      <description>Bombardments are increasing in and around Pokrovsk, Ukrainian officials said, with water supplies now cut and a road overpass destroyed.</description>
-      <dc:creator>Andrew E. Kramer</dc:creator>
-      <pubDate>Thu, 12 Sep 2024 15:08:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pokrovsk (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2024/09/12/multimedia/12ukraine-pokrovsk-01-lvkp/12ukraine-pokrovsk-01-lvkp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nicole Tung for The New York Times</media:credit>
-      <media:description>Evacuees from towns and villages in the Pokrovsk district boarding a train last week.</media:description>
-    </item>
-    <item>
-      <title>Ukraine Says Russian Missile Hit Grain Ship in Black Sea</title>
-      <link>https://www.nytimes.com/2024/09/12/world/europe/ukraine-grain.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/12/world/europe/ukraine-grain.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/12/world/europe/ukraine-grain.html" rel="standout"></atom:link>
-      <description>If confirmed, the attack would be the first on a commercial vessel since Ukraine secured a shipping route to grain markets abroad last year.</description>
-      <dc:creator>Matthew Mpoke Bigg and Maria Varenikova</dc:creator>
-      <pubDate>Thu, 12 Sep 2024 14:47:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Black Sea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/12/multimedia/12ukraine-grain-bjmf/12ukraine-grain-bjmf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Daniel Berehulak for The New York Times</media:credit>
-      <media:description>A cargo vessel being filled with grain at the port of Pivdennyi, Ukraine, in 2022.</media:description>
-    </item>
-    <item>
       <title>Turkish-American Activist Killed in West Bank to Be Buried in Turkey</title>
       <link>https://www.nytimes.com/2024/09/12/world/middleeast/west-bank-shooting-turkey-aysenur-ezgi-eygi-burial.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/09/12/world/middleeast/west-bank-shooting-turkey-aysenur-ezgi-eygi-burial.html</guid>
       <atom:link href="https://www.nytimes.com/2024/09/12/world/middleeast/west-bank-shooting-turkey-aysenur-ezgi-eygi-burial.html" rel="standout"></atom:link>
       <description>The body of Aysenur Ezgi Eygi, a Turkish American dual citizen, was being sent to Turkey for her funeral. Her fatal shooting by Israeli forces has sparked outrage in both countries.</description>
       <dc:creator>Safak Timur</dc:creator>
-      <pubDate>Thu, 12 Sep 2024 14:39:23 +0000</pubDate>
+      <pubDate>Thu, 12 Sep 2024 15:24:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eygi, Aysenur Ezgi (1998-2024)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
@@ -376,6 +342,28 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/11/multimedia/11dc-egypt-aid-jplf/11dc-egypt-aid-jplf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Alberto Pezzali</media:credit>
       <media:description>The decision by Secretary of State Antony J. Blinken was based on Egypt’s monthslong role as an intermediary between Hamas and Israel as the two sides negotiate an elusive cease-fire deal.</media:description>
+    </item>
+    <item>
+      <title>U.K.’s Revered NHS Is in Deep Trouble, Darzi Report Finds</title>
+      <link>https://www.nytimes.com/2024/09/11/world/europe/nhs-starmer-darzi-report.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/11/world/europe/nhs-starmer-darzi-report.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/11/world/europe/nhs-starmer-darzi-report.html" rel="standout"></atom:link>
+      <description>A government-commissioned review into the National Health Service laid bare the challenge Prime Minister Keir Starmer faces after years of underinvestment.</description>
+      <dc:creator>Stephen Castle</dc:creator>
+      <pubDate>Wed, 11 Sep 2024 21:30:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Health Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Finances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/11/multimedia/11uk-nhs-2-pflz/11uk-nhs-2-pflz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>The emergency room at Queen’s Hospital in Romford, England, last year. A new report said the National Health Service had been “starved of capital.”</media:description>
     </item>
     <item>
       <title>Thursday Briefing: Who Won the Harris-Trump Debate?</title>
@@ -637,6 +625,20 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/09/multimedia/09-cholera-deaths-01-zbhk/09-cholera-deaths-01-zbhk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Joao Silva/The New York Times</media:credit>
       <media:description>A patient in an isolation tent being treated for cholera last year in Malawi. The spread of the disease there was driven by catastrophic weather events.</media:description>
+    </item>
+    <item>
+      <title>Family of American Woman Held in China for 10 Years Asks for Help</title>
+      <link>https://www.nytimes.com/2024/09/11/world/asia/china-us-woman-imprisoned.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/11/world/asia/china-us-woman-imprisoned.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/11/world/asia/china-us-woman-imprisoned.html" rel="standout"></atom:link>
+      <description>Dawn Michelle Hunt, who is serving a life sentence, says she was duped into carrying drugs. Her family says she is seriously ill and should be sent home.</description>
+      <dc:creator>Mara Hvistendahl</dc:creator>
+      <pubDate>Wed, 11 Sep 2024 04:01:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Dui Hua</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Americans Abroad</category>
     </item>
     <item>
       <title>Israeli Bombing in Gaza Humanitarian Zone Kills at Least 19, Officials Say</title>
