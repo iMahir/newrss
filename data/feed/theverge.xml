@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>The Verge -  All Posts</title>
   <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
-  <updated>2024-09-12T14:04:27-04:00</updated>
+  <updated>2024-09-12T14:30:26-04:00</updated>
   <id>https://www.theverge.com/rss/full.xml</id>
   <link type="text/html" href="https://www.theverge.com/" rel="alternate"/>
+  <entry>
+    <published>2024-09-12T14:30:26-04:00</published>
+    <updated>2024-09-12T14:30:26-04:00</updated>
+    <title>Microsoft is building new Windows security features to prevent another CrowdStrike</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Vector illustration of the Crowdstrike logo." src="https://cdn.vox-cdn.com/thumbor/-oKkt-dfgRpj6gQUTbI0POeRYgg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73581838/STK275_CROWDSTRIKE_CVIRGINIA_A.0.jpg" /&gt;
+        &lt;figcaption&gt;Image: The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="F3SVzP"&gt;Microsoft is announcing plans to make changes to Windows that will help CrowdStrike and other security vendors operate outside of the Windows kernel. The announcement stems from a Microsoft-hosted &lt;a href="https://www.theverge.com/2024/8/23/24226638/microsoft-windows-security-summit-crowdstrike-partners"&gt;security summit&lt;/a&gt; earlier this week at the company’s Redmond, Washington headquarters, where it discussed changes to Windows in the wake of the disastrous CrowdStrike incident in July.&lt;/p&gt;
+&lt;p id="UWtGM7"&gt;Windows kernel access has been a hot topic ever since the &lt;a href="https://www.theverge.com/2024/7/19/24201717/windows-bsod-crowdstrike-outage-issue"&gt;CrowdStrike catastrophe&lt;/a&gt; took down 8.5 million Windows PCs and servers. CrowdStrike’s software runs at the kernel level of Windows — the core part of an operating system that has unrestricted access to system memory and hardware. That’s what allowed a faulty update to generate a Blue Screen of Death as soon...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2024/9/12/24242947/microsoft-windows-security-kernel-access-features-crowdstrike"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/9/12/24242947/microsoft-windows-security-kernel-access-features-crowdstrike"/>
+    <id>https://www.theverge.com/2024/9/12/24242947/microsoft-windows-security-kernel-access-features-crowdstrike</id>
+    <author>
+      <name>Tom Warren</name>
+    </author>
+  </entry>
   <entry>
     <published>2024-09-12T14:04:27-04:00</published>
     <updated>2024-09-12T14:04:27-04:00</updated>
@@ -235,30 +259,6 @@
     <id>https://www.theverge.com/2024/9/12/24242802/lego-mclaren-p1-hypercar-full-size</id>
     <author>
       <name>Andrew Liszewski</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-09-12T12:00:00-04:00</published>
-    <updated>2024-09-12T12:00:00-04:00</updated>
-    <title>Google Chrome makes it easier to opt out of annoying notifications on Android</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="screenshot of a notification coming from a horoscope website to get your reading, but there’s an unsubscribe button underneath that you can tap, next screenshot shows it was unsubscribed." src="https://cdn.vox-cdn.com/thumbor/I-2nw8ybxnmOc8iuUot5ogAAVb0=/125x0:1475x900/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73581365/unnamed__1_.0.jpg" /&gt;
-        &lt;figcaption&gt;&lt;em&gt;On mobile, you get a one-tap unsubscribe under annoying website notifications from Chrome.&lt;/em&gt; | Image: Google&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="K2jgnV"&gt;Google is &lt;a href="https://blog.google/products/chrome/google-chrome-safety-update-september-2024/"&gt;expanding a Chrome safety feature&lt;/a&gt; to help you cancel pesky website notifications with a single tap. It’s already available on Pixels and is coming to more Android devices; adding a simple unsubscribe button in the notification so that you can get rid of websites you didn’t mean to subscribe to, like horoscopes or weird facts about ducks (there’s also an undo button in case you actually do still want those weird duck facts).&lt;/p&gt;
-&lt;p id="VO9eSa"&gt;There’s also an updated Safety Check &lt;a href="https://www.theverge.com/2023/12/21/24011655/google-chrome-safety-check-password-background"&gt;running in the background&lt;/a&gt; to automatically revoke permissions from websites that you haven’t visited in a long time or are otherwise dangerous. You can see the actions taken in the summary panel, which lists other potential security concerns like compromised passwords and...&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2024/9/12/24242838/google-chrome-android-notifications-permissions"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/9/12/24242838/google-chrome-android-notifications-permissions"/>
-    <id>https://www.theverge.com/2024/9/12/24242838/google-chrome-android-notifications-permissions</id>
-    <author>
-      <name>Umar Shakir</name>
     </author>
   </entry>
 </feed>
