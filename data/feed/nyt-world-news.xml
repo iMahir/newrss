@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 13 Sep 2024 15:44:57 +0000</lastBuildDate>
-    <pubDate>Fri, 13 Sep 2024 15:35:18 +0000</pubDate>
+    <lastBuildDate>Fri, 13 Sep 2024 16:12:29 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Sep 2024 16:00:42 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/09/13/world/israel-hamas-gaza-war" rel="standout"></atom:link>
       <description>Israeli forces pulled back from the city of Tulkarm this week only to return, leaving some residents asking whether it is worth rebuilding after destructive raids.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 13 Sep 2024 15:05:15 +0000</pubDate>
+      <pubDate>Fri, 13 Sep 2024 16:00:20 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/13/multimedia/13mideast-crisis-sectionfront/13mideast-crisis-promo-ftlv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eyad Baba/Agence France-Presse — Getty Images</media:credit>
     </item>
@@ -300,6 +300,31 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2020/10/08/world/12venezuela-sanctions/merlin_177548454_93a8c204-b41b-4856-8222-9b571be0004e-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Adriana Loureiro Fernandez for The New York Times</media:credit>
       <media:description>American sanctions have hobbled Venezuela’s oil industry, a crucial source of income for President Nicolás Maduro’s government.</media:description>
+    </item>
+    <item>
+      <title>How Hamas Uses Brutality to Maintain Power</title>
+      <link>https://www.nytimes.com/2024/09/13/us/politics/hamas-power-gaza-violence-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/13/us/politics/hamas-power-gaza-violence-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/13/us/politics/hamas-power-gaza-violence-israel.html" rel="standout"></atom:link>
+      <description>The group has abused hostages and Palestinians as it wields rough justice in its efforts to maintain control of Gaza and wage an insurgent war.</description>
+      <dc:creator>Julian E. Barnes, Adam Rasgon, Adam Goldman and Ronen Bergman</dc:creator>
+      <pubDate>Fri, 13 Sep 2024 15:51:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sinwar, Yehya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/08/multimedia/00dc-hamas-crimes-print-5/00dc-hamas-crimes-04-bzqv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Eyad Baba/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Women mourning three children who were killed in an Israeli attack targeting Muhammed Deif, a senior Hamas commander, that killed some 70 Palestinians in July.</media:description>
     </item>
     <item>
       <title>Robert Lewandowski on Fame, Frailty and the One Voice He Won’t Ignore</title>
@@ -1211,28 +1236,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Americans Abroad</category>
-    </item>
-    <item>
-      <title>Israeli Bombing in Gaza Humanitarian Zone Kills at Least 19, Officials Say</title>
-      <link>https://www.nytimes.com/2024/09/10/world/middleeast/israeli-attack-gaza-humanitarian-zone.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/10/world/middleeast/israeli-attack-gaza-humanitarian-zone.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/10/world/middleeast/israeli-attack-gaza-humanitarian-zone.html" rel="standout"></atom:link>
-      <description>The Israeli airstrike, which the military said targeted Hamas militants, appeared to use 2,000-pound bombs, which Israel has been criticized for using in heavily populated areas.</description>
-      <dc:creator>Rawan Sheikh Ahmad, Ephrat Livni, Sanjana Varghese and Thomas Fuller</dc:creator>
-      <pubDate>Tue, 10 Sep 2024 23:14:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blinken, Antony J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Deif, Muhammad</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/11/multimedia/10mideast-crisis-ledeall-2/11mideast-print-A1-mcpt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haitham Imad/EPA, via Shutterstock</media:credit>
-      <media:description>The site of Israeli strikes on a makeshift camp for internally displaced Palestinians in Al-Mawasi, Gaza, on Tuesday.</media:description>
     </item>
   </channel>
 </rss>
