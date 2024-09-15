@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 15 Sep 2024 03:02:05 +0000</lastBuildDate>
-    <pubDate>Sun, 15 Sep 2024 02:49:59 +0000</pubDate>
+    <lastBuildDate>Sun, 15 Sep 2024 04:02:32 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Sep 2024 04:01:29 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -302,6 +302,43 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/02/multimedia/13brazil/02brazil-court-bwmj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Victor Moriyama for The New York Times</media:credit>
       <media:description>A Starlink antenna in a village of the Marubo Indigenous people, deep in the Brazilian Amazon.</media:description>
+    </item>
+    <item>
+      <title>Going the Distance at the Tram Driver Olympics</title>
+      <link>https://www.nytimes.com/2024/09/15/world/europe/tramdriver-competition-frankfurt-tram.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/15/world/europe/tramdriver-competition-frankfurt-tram.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/15/world/europe/tramdriver-competition-frankfurt-tram.html" rel="standout"></atom:link>
+      <description>Europe’s public transit captains showed off their skills at an annual championship. “We have been practicing,” a Dutch competitor said. “But the other teams have also been practicing, too.”</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Sun, 15 Sep 2024 04:01:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transit Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cable Cars and Trams</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Frankfurt (Germany)</category>
+      <category domain="">European Tramdriver Championship</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/15/multimedia/15tram-olympics-photo1-vbtw/15tram-olympics-photo1-vbtw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lena Mucha for The New York Times</media:credit>
+      <media:description>The European Tramdriver Championship, now in its 11th year, brought competitors from across Europe cities to Frankfurt on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Once Considered Foes, Iran-Backed Groups Get a Warm Welcome From Iraq</title>
+      <link>https://www.nytimes.com/2024/09/15/world/middleeast/iran-iraq-hamas-houthis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/15/world/middleeast/iran-iraq-hamas-houthis.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/15/world/middleeast/iran-iraq-hamas-houthis.html" rel="standout"></atom:link>
+      <description>Hamas and the Houthis have opened offices in Baghdad, reflecting the two groups’ evolving relationship with Iraq as Tehran works to build a regional power bloc.</description>
+      <dc:creator>Alissa J. Rubin</dc:creator>
+      <pubDate>Sun, 15 Sep 2024 04:01:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/14/multimedia/14iraq-proxies-1-jtqf/14iraq-proxies-1-jtqf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hadi Mizban/Associated Press</media:credit>
+      <media:description>A crowd chanted slogans and waved Palestinian flags in Baghdad last month to show support for Palestinians in Gaza.</media:description>
     </item>
     <item>
       <title>Divided Attention</title>
@@ -1248,46 +1285,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/07/multimedia/00skorea-deepfake-mpqv/00skorea-deepfake-mpqv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Chung Sung-Jun/Getty Images</media:credit>
       <media:description>A protest against deepfake pornography in Seoul last week.</media:description>
-    </item>
-    <item>
-      <title>Citing Gaza Help, Blinken Waives Human Rights Conditions on Aid to Egypt</title>
-      <link>https://www.nytimes.com/2024/09/11/us/politics/egypt-us-military-aid.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/11/us/politics/egypt-us-military-aid.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/11/us/politics/egypt-us-military-aid.html" rel="standout"></atom:link>
-      <description>Cairo will receive its full military aid allotment of $1.3 billion after the secretary of state also said it had made progress on releasing political prisoners and protecting Americans.</description>
-      <dc:creator>Michael Crowley</dc:creator>
-      <pubDate>Thu, 12 Sep 2024 01:38:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blinken, Antony J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sisi, Abdel Fattah el-</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/11/multimedia/11dc-egypt-aid-jplf/11dc-egypt-aid-jplf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Alberto Pezzali</media:credit>
-      <media:description>The decision by Secretary of State Antony J. Blinken was based on Egypt’s monthslong role as an intermediary between Hamas and Israel as the two sides negotiate an elusive cease-fire deal.</media:description>
-    </item>
-    <item>
-      <title>Alberto Fujimori, 86, Leader of Peru Imprisoned for Rights Abuses, Dies</title>
-      <link>https://www.nytimes.com/2024/09/11/world/americas/alberto-fujimori-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/11/world/americas/alberto-fujimori-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/11/world/americas/alberto-fujimori-dead.html" rel="standout"></atom:link>
-      <description>During his decade in power, he revived the economy and crushed two violent leftist insurgencies. But he was forced out in a corruption scandal and later imprisoned for human rights abuses.</description>
-      <dc:creator>Sewell Chan</dc:creator>
-      <pubDate>Fri, 13 Sep 2024 05:10:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fujimori, Alberto K</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peru</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bribery and Kickbacks</category>
-      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2017/12/25/world/00fujimori1/00fujimori1-moth.jpg" width="151"></media:content>
-      <media:credit>Silvia Izquierdo/Reuters</media:credit>
-      <media:description>Alberto Fujimori, left, Peru’s president from 1990 to 2000, at a military celebration in 1998 that honored the country’s independence.</media:description>
     </item>
   </channel>
 </rss>
