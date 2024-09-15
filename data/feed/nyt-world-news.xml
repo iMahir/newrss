@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 15 Sep 2024 15:32:57 +0000</lastBuildDate>
-    <pubDate>Sun, 15 Sep 2024 15:09:05 +0000</pubDate>
+    <lastBuildDate>Sun, 15 Sep 2024 15:46:44 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Sep 2024 15:41:00 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -123,6 +123,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kursk (Russia)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/12/multimedia/12ukraine-kursk-01-ztgj/12ukraine-kursk-01-ztgj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>Digging through the wreckage of a home after a missile strike on a neighborhood in Sumy, Ukraine, on Sunday.</media:description>
     </item>
@@ -159,16 +160,19 @@
       <description>A vote in Montreal is seen as a referendum on Canada’s prime minister, who has brushed aside calls to step down as party members fear a wipeout in the next general election.</description>
       <dc:creator>Norimitsu Onishi</dc:creator>
       <pubDate>Sat, 14 Sep 2024 09:03:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bloc Quebecois</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Liberal Party (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New Democratic Party (Canada)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Poilievre, Pierre</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Singh, Jagmeet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montreal (Quebec)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/11/multimedia/00canada-election-top-wlct/00canada-election-top-wlct-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Evan Buhler/Reuters</media:credit>
       <media:description>Prime Minister Justin Trudeau during a visit to Montreal in 2022. His popularity has plunged.</media:description>
@@ -615,13 +619,14 @@
       <description>The government greatly increased a grant to encourage more immigrants to return home. Critics say it sends the wrong message and, in any case, may not tempt many refugees.</description>
       <dc:creator>Lynsey Chutel</dc:creator>
       <pubDate>Sat, 14 Sep 2024 00:34:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sweden Democrats</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations High Commission for Refugees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/13/multimedia/13sweden-1-pwvg/13sweden-1-pwvg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>David Ramos/Getty Images</media:credit>
       <media:description>Prayer at a temporary camp for refugees in Vanersborg, Sweden. The country is among a growing number of European nations embracing a harder stance on immigration.</media:description>
@@ -1200,7 +1205,7 @@
       <atom:link href="https://www.nytimes.com/2024/09/12/world/europe/red-cross-ukraine-deaths.html" rel="standout"></atom:link>
       <description>The aid workers lost their lives as they were preparing to distribute heating supplies in preparation for winter in the region of Donetsk.</description>
       <dc:creator>Eve Sampson</dc:creator>
-      <pubDate>Thu, 12 Sep 2024 18:25:35 +0000</pubDate>
+      <pubDate>Sun, 15 Sep 2024 15:41:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Committee of the Red Cross</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
