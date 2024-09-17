@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>The Verge -  All Posts</title>
   <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
-  <updated>2024-09-17T14:00:00-04:00</updated>
+  <updated>2024-09-17T14:18:13-04:00</updated>
   <id>https://www.theverge.com/rss/full.xml</id>
   <link type="text/html" href="https://www.theverge.com/" rel="alternate"/>
+  <entry>
+    <published>2024-09-17T14:18:13-04:00</published>
+    <updated>2024-09-17T14:18:13-04:00</updated>
+    <title>Eufy’s new smart lock may Matter to Apple Home users</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/3Tppg8kg77cF5cCQ_MApd0lHWrE=/0x104:725x587/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73591957/Eufy_E30.0.jpg" /&gt;
+        &lt;figcaption&gt;&lt;em&gt;The Eufy E30 is a Matter-compatible smart lock with a fingerprint reader. It’s Eufy’s first lock to work with Apple Home.&lt;/em&gt; | Image: Eufy&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="y39YKO"&gt;The latest smart lock from Eufy is its first product to support &lt;a href="https://www.theverge.com/22832127/matter-smart-home-products-thread-wifi-explainer"&gt;Matter&lt;/a&gt;. The &lt;a href="https://www.amazon.com/eufy-Fingerprint-Ecosystem-Deadbolt-Supports/dp/B0DB1QHWH3?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Eufy Smart Lock E30 ($169.99)&lt;/a&gt; works over Thread, which should allow for faster responsiveness, longer battery life, and better connectivity than locks that work just over Wi-Fi or Bluetooth. &lt;/p&gt;
+&lt;p id="e5mqlM"&gt;The E30 is also the first smart lock from Anker’s smart home arm that works with Apple Home, although Home Key is not supported. While Eufy offers a &lt;a href="https://support.eufy.com/s/article/HomeKit-on-eufySecurity-Devices"&gt;handful of older security cameras&lt;/a&gt; with HomeKit compatibility, it hasn’t released a new Apple Home product for years. &lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="DViPSs"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"The best smart locks you can buy right now","url":"https://www.theverge.com/23393163/best-smart-door-lock"},{"title":"Every smart home device that works with Matter","url":"https://www.theverge.com/23568091/matter-compatible-devices-accessories-apple-amazon-google-samsung"},{"title":"You can finally buy a Matter smart lock ","url":"https://www.theverge.com/2023/6/8/23753915/matter-smart-lock-aqara-u100-apple-home-key"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="eoDZtH"&gt;The E30 can use a traditional key but also has a fingerprint reader for biometric access and a keypad for keycode access. It can be controlled through the Eufy app over built-in Wi-Fi, including out-of-home...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2024/9/17/24243714/eufy-smart-lock-e30-matter-thread-apple-home"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/9/17/24243714/eufy-smart-lock-e30-matter-thread-apple-home"/>
+    <id>https://www.theverge.com/2024/9/17/24243714/eufy-smart-lock-e30-matter-thread-apple-home</id>
+    <author>
+      <name>Jennifer Pattison Tuohy</name>
+    </author>
+  </entry>
   <entry>
     <published>2024-09-17T14:00:00-04:00</published>
     <updated>2024-09-17T14:00:00-04:00</updated>
@@ -228,34 +254,6 @@
     <id>https://www.theverge.com/2024/9/17/24246695/apple-iphone-ios-18-rcs-green-bubbles-android-upgraded</id>
     <author>
       <name>Jay Peters</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-09-17T11:51:26-04:00</published>
-    <updated>2024-09-17T11:51:26-04:00</updated>
-    <title>How to use macOS Terminal and what it’s useful for  </title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="A Mac with an Apple symbol against an illustrated background." src="https://cdn.vox-cdn.com/thumbor/OUdta7gE264aPkORFh2N9LTlRBw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73591519/HT016_macOS_0004.0.jpg" /&gt;
-        &lt;figcaption&gt;Illustration by Samar Haddad / The Verge&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="JLrEa3"&gt;With each &lt;a href="https://www.theverge.com/2024/6/10/24170586/macos-15-mac-apple-ai-wwdc-2024"&gt;operating system update&lt;/a&gt;, our computers get further away from their earliest, text-based interfaces, when copying files and launching programs required typing out specific commands rather than double-clicking on icons. But although a lot of today’s users won’t know these command line interfaces ever existed, and others will have forgotten all about them, they’re still present in macOS and in Windows. More than that, they’re still actually useful. &lt;/p&gt;
-&lt;p id="PCkb4L"&gt;In this article, I’ll look at some ways you can access and use Terminal, a throwback to the days before macOS. There are two ways of launching it:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li id="fQB4W3"&gt;In Spotlight, start typing &lt;strong&gt;Terminal&lt;/strong&gt;, and when &lt;strong&gt;Terminal.app&lt;/strong&gt; comes up, hit return.&lt;/li&gt;
-&lt;li id="ST9848"&gt;In Finder, go to the &lt;strong&gt;Utilities&lt;/strong&gt; folder (you’ll find that...&lt;/li&gt;
-&lt;/ul&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/24246585/macos-apple-terminal-how-to"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/24246585/macos-apple-terminal-how-to"/>
-    <id>https://www.theverge.com/24246585/macos-apple-terminal-how-to</id>
-    <author>
-      <name>David Nield</name>
     </author>
   </entry>
 </feed>
