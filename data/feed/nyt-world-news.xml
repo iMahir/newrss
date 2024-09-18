@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.24697102843635332" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 18 Sep 2024 10:48:50 +0000</lastBuildDate>
-    <pubDate>Wed, 18 Sep 2024 10:41:48 +0000</pubDate>
+    <lastBuildDate>Wed, 18 Sep 2024 11:09:01 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Sep 2024 11:08:21 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -319,6 +319,24 @@
       <media:description>An aerial picture of the flooded town of Klodzko, southwestern Poland, on Sunday.</media:description>
     </item>
     <item>
+      <title>What We Know About the Deadly Pager Explosions in Lebanon</title>
+      <link>https://www.nytimes.com/2024/09/18/world/europe/pager-explosions-lebanon-what-we-know.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/18/world/europe/pager-explosions-lebanon-what-we-know.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/18/world/europe/pager-explosions-lebanon-what-we-know.html" rel="standout"></atom:link>
+      <description>The seemingly coordinated blasts targeting Hezbollah members stoked fears of a broadening conflict.</description>
+      <dc:creator>Lynsey Chutel</dc:creator>
+      <pubDate>Wed, 18 Sep 2024 11:00:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/18/multimedia/18mideast-pagers-wwk-01-pkbt/18mideast-pagers-wwk-01-pkbt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hassan Ammar/Associated Press</media:credit>
+      <media:description>An ambulance carrying wounded people at the emergency entrance of the American University hospital in Beirut on Tuesday.</media:description>
+    </item>
+    <item>
       <title>Child, 10, Stabbed Near Japanese School in China</title>
       <link>https://www.nytimes.com/2024/09/18/world/asia/child-stabbed-japan-china.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/09/18/world/asia/child-stabbed-japan-china.html</guid>
@@ -342,9 +360,9 @@
       <link>https://www.nytimes.com/2024/09/18/world/middleeast/hezbollah-israel-pager-lebanon.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/09/18/world/middleeast/hezbollah-israel-pager-lebanon.html</guid>
       <atom:link href="https://www.nytimes.com/2024/09/18/world/middleeast/hezbollah-israel-pager-lebanon.html" rel="standout"></atom:link>
-      <description>The coordinated attacks targeting the group’s wireless devices caused thousands of injuries, piercing the group’s rank and file and raising questions about how it will respond.</description>
+      <description>The armed group’s history suggests that the attacks targeting its pagers will not cause it to change course or seek an accommodation with Israel.</description>
       <dc:creator>Ben Hubbard</dc:creator>
-      <pubDate>Wed, 18 Sep 2024 10:27:59 +0000</pubDate>
+      <pubDate>Wed, 18 Sep 2024 11:08:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
@@ -1185,22 +1203,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airport Security</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-    </item>
-    <item>
-      <title>As Ukraine Presses Its Attack in Kursk, Russia Stiffens Its Defenses</title>
-      <link>https://www.nytimes.com/2024/09/14/world/europe/ukraine-russia-war-kursk.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/14/world/europe/ukraine-russia-war-kursk.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/14/world/europe/ukraine-russia-war-kursk.html" rel="standout"></atom:link>
-      <description>Soldiers and military analysts say that Ukraine is largely holding onto land it seized in the Kursk region, even as Moscow has begun a counterattack.</description>
-      <dc:creator>Marc Santora and David Guttenfelder</dc:creator>
-      <pubDate>Sat, 14 Sep 2024 12:50:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kursk (Russia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/12/multimedia/12ukraine-kursk-01-ztgj/12ukraine-kursk-01-ztgj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>Digging through the wreckage of a home after a missile strike on a neighborhood in Sumy, Ukraine, on Sunday.</media:description>
     </item>
   </channel>
 </rss>
