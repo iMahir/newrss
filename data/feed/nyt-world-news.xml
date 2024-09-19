@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 19 Sep 2024 18:45:49 +0000</lastBuildDate>
-    <pubDate>Thu, 19 Sep 2024 18:41:10 +0000</pubDate>
+    <lastBuildDate>Thu, 19 Sep 2024 19:10:12 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Sep 2024 19:07:10 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -19,9 +19,9 @@
       <link>https://www.nytimes.com/live/2024/09/19/world/israel-hezbollah-gaza-hamas</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2024/09/19/world/israel-hezbollah-gaza-hamas</guid>
       <atom:link href="https://www.nytimes.com/live/2024/09/19/world/israel-hezbollah-gaza-hamas" rel="standout"></atom:link>
-      <description>Hassan Nasrallah, the Hezbollah leader, blamed Israel for the explosions of pagers and walkie-talkies that killed at least 37 people and injured thousands in Lebanon. Israeli planes flew over Beirut as he spoke, in an apparent show of might.</description>
+      <description>Hassan Nasrallah, the Hezbollah leader, blamed Israel for the explosions of pagers and walkie-talkies that killed at least 37 people and injured thousands in Lebanon. Later in the day, Israeli warplanes struck rocket launchers and weapons caches in southern Lebanon.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 19 Sep 2024 18:41:10 +0000</pubDate>
+      <pubDate>Thu, 19 Sep 2024 19:07:10 +0000</pubDate>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/19/multimedia/19mideast-crisis-promo-230pm-cwjz/19mideast-crisis-promo-230pm-cwjz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
     </item>
@@ -341,6 +341,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Central Bank</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
       <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2024/09/19/multimedia/2024-09-19-policy-rate-changes-since-june-index/2024-09-19-policy-rate-changes-since-june-index-mediumSquareAt3X.png" width="1000"></media:content>
+      <media:credit>The New York Times</media:credit>
     </item>
     <item>
       <title>A New Era in Sabotage: Turning Ordinary Devices Into Grenades, on a Mass Scale</title>
