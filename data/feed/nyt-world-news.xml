@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.4944466492284634" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 20 Sep 2024 19:10:22 +0000</lastBuildDate>
-    <pubDate>Fri, 20 Sep 2024 19:08:59 +0000</pubDate>
+    <lastBuildDate>Fri, 20 Sep 2024 19:17:50 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Sep 2024 19:09:59 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -297,6 +297,23 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/18/multimedia/18hezbollah-reconstruct-01-wqfm/18hezbollah-reconstruct-01-wqfm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
       <media:description>Hezbollah supporters on Wednesday mourning the deaths of four comrades killed in the explosions.</media:description>
+    </item>
+    <item>
+      <title>Remembering Toto Schillaci and a Summer That Changed Soccer</title>
+      <link>https://www.nytimes.com/2024/09/20/world/europe/toto-schillaci-italy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/20/world/europe/toto-schillaci-italy.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/20/world/europe/toto-schillaci-italy.html" rel="standout"></atom:link>
+      <description>For one month in 1990, Schillaci was the most beloved player in Italy, and one of the most famous players in the world.</description>
+      <dc:creator>Rory Smith</dc:creator>
+      <pubDate>Fri, 20 Sep 2024 19:09:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Juventus (Soccer Team)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schillaci, Salvatore (1964-2024)</category>
+      <media:content height="1591" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/20rory-toto-kwmt/20rory-toto-kwmt-mediumSquareAt3X.jpg" width="1591"></media:content>
+      <media:credit>Daniel Garcia/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Salvatore Schillaci in 1990, the summer when he burst onto the stage at the World Cup. He died on Wednesday at age 59.</media:description>
     </item>
     <item>
       <title>Israeli Soldiers Throw Three Seemingly Lifeless Palestinians Off a Roof</title>
@@ -1110,26 +1127,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/18/multimedia/18mideast-crisis-pager-business/18mideast-crisis-pager-business-01-phtv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lam Yik Fei for The New York Times</media:credit>
       <media:description>Pagers at the Gold Apollo factory in Taiwan on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>England and Wales Will Introduce Buffer Zones to Ban Protest at Abortion Clinics</title>
-      <link>https://www.nytimes.com/2024/09/18/world/europe/abortion-clinic-safe-zones-protests-england-wales.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/18/world/europe/abortion-clinic-safe-zones-protests-england-wales.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/18/world/europe/abortion-clinic-safe-zones-protests-england-wales.html" rel="standout"></atom:link>
-      <description>“Safe access” zones outside clinics in England and Wales will make it illegal to harass anyone seeking medical services or working there, the British government said.</description>
-      <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Wed, 18 Sep 2024 18:45:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wales</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/18/multimedia/18uk-abortion-mfql/18uk-abortion-mfql-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lucy North/Press Association, via Associated Press</media:credit>
-      <media:description>An anti-abortion demonstration outside Britain’s Parliament in May. The new measures cover protests up to 500 feet from a clinic.</media:description>
     </item>
   </channel>
 </rss>
