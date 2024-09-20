@@ -16,6 +16,82 @@
 		<entry>
 			
 			<author>
+				<name>Kelsey Piper</name>
+			</author>
+			
+			<title type="html"><![CDATA[What it means that new AIs can “reason”]]></title>
+			<link rel="alternate" type="text/html" href="https://www.vox.com/future-perfect/372843/openai-chagpt-o1-strawberry-dual-use-technology" />
+			<id>https://www.vox.com/?p=372843</id>
+			<updated>2024-09-19T18:40:04Z</updated>
+			<published>2024-09-20T13:00:00Z</published>
+			<category scheme="https://www.vox.com" term="Artificial Intelligence" /><category scheme="https://www.vox.com" term="Future Perfect" /><category scheme="https://www.vox.com" term="Innovation" /><category scheme="https://www.vox.com" term="Technology" />
+							<summary type="html"><![CDATA[An underappreciated fact about large language models (LLMs) is that they produce “live” answers to prompts. You prompt them and they start talking in response, and they talk until they’re done. The result is like asking a person a question and getting a monologue back in which they improv their answer sentence by sentence. This [&#8230;]]]></summary>
+			
+							<content type="html">
+											<![CDATA[
+
+						
+<figure>
+
+<img alt="" data-caption="In this photo illustration, the sign of OpenAl o1, the first in a planned series of “reasoning” models that have been trained to answer more complex questions, is displayed on a smartphone screen on September 13, 2024, in Suqian, Jiangsu Province of China." data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.vox.com/wp-content/uploads/sites/2/2024/09/GettyImages-2171652505.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption>In this photo illustration, the sign of OpenAl o1, the first in a planned series of “reasoning” models that have been trained to answer more complex questions, is displayed on a smartphone screen on September 13, 2024, in Suqian, Jiangsu Province of China.</figcaption>
+</figure>
+<p class="has-text-align-none">An underappreciated fact about large language models (LLMs) is that they produce “live” answers to prompts. You prompt them and they start talking in response, and they talk until they’re done. The result is like asking a person a question and getting a monologue back in which they improv their answer sentence by sentence.</p>
+
+<p class="has-text-align-none">This explains several of the ways in which large language models can be so frustrating. The model will sometimes contradict itself even within a paragraph, saying something and then immediately following up with the exact opposite because it’s just “reasoning aloud” and sometimes adjusts its impression on the fly. As a result, AIs need a lot of hand-holding to do any complex reasoning.</p>
+
+<div class="wp-block-vox-media-highlight vox-media-highlight">
+<h2 class="wp-block-heading">This story was first featured in the <a href="https://www.vox.com/pages/future-perfect-newsletter-signup">Future Perfect newsletter</a>.</h2>
+
+
+
+<p class="has-text-align-none">Sign up <a href="https://www.vox.com/pages/future-perfect-newsletter-signup">here</a> to explore the big, complicated problems the world faces and the most efficient ways to solve them. Sent twice a week.</p>
+</div>
+
+<p class="has-text-align-none">One well-known way to solve this is called <a href="https://www.promptingguide.ai/techniques/cot">chain-of-thought prompting</a>, where you ask the large language model to effectively “show its work” by “‘thinking” out loud about the problem and giving an answer only after it has laid out all of its reasoning, step by step.&nbsp;</p>
+
+<p class="has-text-align-none">Chain-of-thought prompting makes language models behave <a href="https://arxiv.org/abs/2201.11903">much more intelligently</a>, which isn’t surprising. Compare how you’d answer a question if someone shoves a microphone in your face and demands that you answer immediately to how you’d answer if you had time to compose a draft, review it, and then hit “publish.”</p>
+
+<h2 class="wp-block-heading">The power of think, then answer</h2>
+
+<p class="has-text-align-none">OpenAI’s latest model, <a href="https://openai.com/o1/">o1</a> (nicknamed Strawberry), is the first major LLM release with this “think, then answer” approach built in.&nbsp;</p>
+
+<p class="has-text-align-none">Unsurprisingly, the company <a href="https://openai.com/index/introducing-openai-o1-preview/">reports</a> that the method makes the model a lot smarter. In a blog post, OpenAI said o1 “performs similarly to PhD students on challenging benchmark tasks in physics, chemistry, and biology. We also found that it excels in math and coding. In a qualifying exam for the International Mathematics Olympiad (IMO), GPT-4o correctly solved only 13 percent of problems, while the reasoning model scored 83 percent.”</p>
+
+<p class="has-text-align-none">This major improvement in the model’s ability to think also intensifies some of the dangerous capabilities that <a href="https://www.newsweek.com/openai-advanced-gpt-model-potential-risks-need-regulation-experts-1953311">leading AI researchers have long been on the lookout</a> for. Before release, OpenAI tests its models for their capabilities with <a href="https://assets.ctfassets.net/kftzwdyauwt9/67qJD51Aur3eIc96iOfeOP/71551c3d223cd97e591aa89567306912/o1_system_card.pdf">chemical, biological, radiological, and nuclear weapons</a>, the abilities that would be most sought-after by terrorist groups that don’t have the expertise to build them with current technology.&nbsp;</p>
+
+<p class="has-text-align-none">As my colleague Sigal Samuel <a href="https://www.vox.com/future-perfect/371827/openai-chatgpt-artificial-intelligence-ai-risk-strawberry">wrote recently</a>, OpenAI o1 is the first model to score “medium” risk in this category. That means that while it’s not capable enough to walk, say, a complete beginner through developing a deadly pathogen, the evaluators found that it “can help experts with the operational planning of reproducing a known biological threat.”&nbsp;</p>
+
+<p class="has-text-align-none">These capabilities are one of the most clear-cut examples of AI as a <a href="https://researchfeatures.com/ai-dual-use-technology-cautionary-tale/">dual-use technology</a>: a more intelligent model becomes more capable in a wide array of uses, both benign and malign.<br><br>If future AI does get good enough to tutor any college biology major through steps involved in recreating, say, smallpox in the lab, this would potentially have catastrophic casualties. At the same time, AIs that can tutor people through complex biology projects will do an enormous amount of good by accelerating lifesaving research. It is intelligence itself, artificial or otherwise, that is the double-edged sword.</p>
+
+<p class="has-text-align-none">The point of doing AI safety work to evaluate these risks is to figure out how to mitigate them with policy so we can get the good without the bad.</p>
+
+<h2 class="wp-block-heading">How to (and how not to) evaluate an AI</h2>
+
+<p class="has-text-align-none">Every time OpenAI or one of its competitors (Meta, Google, Anthropic) releases a new model, we retread the same conversations. Some people find a question on which the AI performs very impressively, and awed screenshots circulate. Others find a question on which the AI bombs — say, “<a href="https://community.openai.com/t/incorrect-count-of-r-characters-in-the-word-strawberry/829618">how many ‘r’s are there in ‘strawberry</a>’” or “<a href="https://www.reddit.com/r/OpenAI/comments/1ctfq4f/a_man_and_a_goat/">how do you cross a river with a goat</a>” — and share those as proof that AI is still more hype than product.&nbsp;</p>
+
+<p class="has-text-align-none">Part of this pattern is driven by the lack of good scientific measures of how capable an AI system is. We used to have benchmarks that were meant to describe AI language and reasoning capabilities, but the rapid pace of AI improvement has <a href="https://cset.georgetown.edu/article/evaluating-large-language-models/">gotten ahead of them, with benchmarks often “saturated.”</a> This means AI performs as well as a human on these benchmark tests, and as a result they’re no longer useful for measuring further improvements in skill.</p>
+
+<p class="has-text-align-none">I strongly recommend trying AIs out yourself to get a feel for how well they work. (OpenAI o1 is only available to paid subscribers for now, and even then is very rate-limited, but there are new top model releases all the time.) It’s still too easy to fall into the trap of trying to prove a new release “impressive” or “unimpressive” by selectively mining for tasks where they excel or where they embarrass themselves, instead of looking at the big picture.&nbsp;</p>
+
+<p class="has-text-align-none">The big picture is that, across nearly all tasks we’ve invented for them, AI systems are continuing to improve rapidly, but the incredible performance on almost every test we can devise hasn’t yet translated into many economic applications. Companies are still <a href="https://www.vox.com/today-explained-newsletter/365292/ai-bubble-nvidia-chatgpt-stock-market-crash">struggling</a> to identify how to make money off LLMs. A big obstacle is the inherent unreliability of the models, and in principle an approach like OpenAI o1’s — in which the model gets more of a chance to think before it answers — might be a way to drastically improve reliability without the expense of training a much bigger model.&nbsp;</p>
+
+<h2 class="wp-block-heading">Sometimes, big things can come from small improvements&nbsp;</h2>
+
+<p class="has-text-align-none">In all likelihood, there isn’t going to be a silver bullet that suddenly fixes the longstanding limitations of large language models. Instead, I suspect they’ll be gradually eroded over a series of releases, with the unthinkable becoming achievable and then mundane over the course of a few years — which is precisely how&nbsp;AI has proceeded so far.&nbsp;</p>
+
+<p class="has-text-align-none">But as ChatGPT — which itself was only a moderate improvement over OpenAI’s previous chatbots but which reached hundreds of millions of people overnight — demonstrates, technical progress being incremental doesn’t mean societal impact is incremental. Sometimes the grind of improvements to various parts of how an LLM operates — or improvements to its UI so that more people will try it, like the chatbot itself — push us across the threshold from “party trick&#8221; to “essential tool.”&nbsp;</p>
+
+<p class="has-text-align-none">And while OpenAI has come <a href="https://www.vox.com/future-perfect/2024/5/17/24158403/openai-resignations-ai-safety-ilya-sutskever-jan-leike-artificial-intelligence">under fire recently</a> for ignoring the safety implications of their work and silencing whistleblowers, its o1 release seems to take the policy implications seriously, including collaborating with external organizations to check what their model can do. I’m grateful that they’re making that work possible, and I have a feeling that as models keep improving, we will need such conscientious work more than ever.&nbsp;</p>
+
+<p class="has-text-align-none"><em>A version of this story originally appeared in the&nbsp;<a href="https://www.vox.com/future-perfect">Future Perfect</a>&nbsp;newsletter.&nbsp;<a href="https://www.vox.com/pages/future-perfect-newsletter-signup">Sign up here!</a></em></p>
+						]]>
+									</content>
+			
+					</entry>
+			<entry>
+			
+			<author>
 				<name>Benji Jones</name>
 			</author>
 			
@@ -887,104 +963,6 @@
 <p class="has-text-align-none">College application essays are your chance to share who you were, who you are, and how this university will shape who you hope to be, Hsaio says. Focus on topics you want admissions officers to know and let your voice and passion carry the essay.</p>
 
 <p class="has-text-align-none"><em><strong>Correction, September 19, 11 am ET: </strong>A previous version of this story conflated the number of applicants with the number of applications sent through the Common App. Over 1 million students apply using the Common App. </em></p>
-						]]>
-									</content>
-			
-					</entry>
-			<entry>
-			
-			<author>
-				<name>Allie Volpe</name>
-			</author>
-			
-			<title type="html"><![CDATA[Applying to college? Seven current students on how to stand out and stay sane.]]></title>
-			<link rel="alternate" type="text/html" href="https://www.vox.com/even-better/369659/college-application-advice-undergraduate-extracurricular-organization-stress" />
-			<id>https://www.vox.com/?p=369659</id>
-			<updated>2024-09-18T18:53:39Z</updated>
-			<published>2024-09-19T11:00:00Z</published>
-			<category scheme="https://www.vox.com" term="Advice" /><category scheme="https://www.vox.com" term="Even Better" /><category scheme="https://www.vox.com" term="Life" />
-							<summary type="html"><![CDATA[It’s that time of year again: Summer is over, class is in session, and high school seniors are filled with dread. Yes, it’s college application season. The formula required to get into many colleges these days involves striking a delicate balance between highlighting personal and academic accomplishments, outlining future interests and aspirations, and painting a [&#8230;]]]></summary>
-			
-							<content type="html">
-											<![CDATA[
-
-						
-<figure>
-
-<img alt="An illustration of a human hand with one finger up balancing a basket ball, a trophy, a suitcase, a graduation cap, a mirror, a baseball, a pencil, a stethoscope and a calculator." data-caption="" data-portal-copyright="Christina Lee for Vox" data-has-syndication-rights="1" src="https://platform.vox.com/wp-content/uploads/sites/2/2024/09/Application.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
-	<figcaption></figcaption>
-</figure>
-<p class="has-text-align-none">It’s that time of year again: Summer is over, class is in session, and high school seniors are filled with dread. Yes, it’s college application season. The formula required to get into many colleges these days involves striking a delicate balance between highlighting personal and academic accomplishments, outlining future interests and aspirations, and painting a picture of who you are versus who you want to be. </p>
-
-<p class="has-text-align-none">The prospect of documenting an entire high school career while also selling your personality can be daunting. It’s normal for aspiring undergrads — and their parents — to feel overwhelmed. But you can manage it, whether you’re applying to five schools or 15.&nbsp;</p>
-
-<div class="wp-block-vox-media-highlight vox-media-highlight">
-<h2 class="wp-block-heading">Vox’s guide to college application season</h2>
-
-
-
-<p class="has-text-align-none"><a href="https://www.vox.com/even-better/369514/college-application-essay-advice-personal-statement-common-app-supplemental-essays" data-type="link" data-id="https://www.vox.com/even-better/369514/college-application-essay-advice-personal-statement-common-app-supplemental-essays">This is what admissions officers really want to read in college essays</a></p>
-
-
-
-<p class="has-text-align-none"><a href="https://www.vox.com/even-better/369475/paying-for-college-advice-financial-aid-loans-scholarships">You got into college. How will you pay for it?</a></p>
-</div>
-
-<p class="has-text-align-none">I talked to the people who are most familiar with how high-stakes it can all feel: seven current college students who successfully navigated the process for themselves. Here, they offer their best advice on staying organized, quelling anxiety, and the mistakes they wish they’d avoided.</p>
-
-<p class="has-text-align-none">Responses have been edited and condensed for clarity.</p>
-
-<h2 class="wp-block-heading">Don’t put all your eggs in one basket</h2>
-
-<p class="has-text-align-none">“At first, I only applied to one school, and then got wait-listed. I ended up applying to more after that. I wasn’t really thinking about college as much as I should have, and I was dead set on this one school. I just assumed the application process and acceptance was going to be a lot easier than it was. I put all my eggs in one basket. I was so overwhelmed and I wanted to get the application out of the way. I wish I would have applied to more schools from the start. I wish I would have relied more on support and help from other people, like my school counselors and friends who had already applied to colleges and got accepted.”</p>
-
-<p class="has-text-align-none"><em>—Alani Sage, 19. Applied to five schools, accepted to four, wait-listed at one. Now attends the University of Alabama.</em></p>
-
-<h2 class="wp-block-heading">Trust that you can turn heartbreak around</h2>
-
-<p class="has-text-align-none">“I was one of those students who didn’t get accepted into a dream school, and you feel like it’s the end of the world, like you have no other hope. But now that I look back, I honestly think every single thing that happens, it’s for a reason. If you adapt and accept things head-on, you’ll thank yourself. I’m really happy now. I think that this experience was better for me, better for becoming more mature, more independent.”</p>
-
-<p class="has-text-align-none"><em>—Amna Ahmed, 19. Applied to 22 schools, accepted to 10, wait-listed at six. Now attends Wake Forest University. </em></p>
-
-<h2 class="wp-block-heading">Use social media (but don’t let it discourage you)</h2>
-
-<p class="has-text-align-none">“Reddit is a great resource. Subreddits <a href="https://www.reddit.com/r/collegeresults/">r/CollegeResults </a>and <a href="https://www.reddit.com/r/chanceme/">r/ChanceMe</a> are great resources because people post their admitted profiles and you can see what their extracurriculars were and you know what they did to get into X school. r/ChanceMe, you post your own application and people say if they think you’re going to get in or not. </p>
-
-<figure class="wp-block-pullquote has-text-align-center"><blockquote><p>“Create a story for yourself that is so authentic and unique to you that anyone that reads it would be like, ‘That is so you.’”</p></blockquote></figure>
-
-<p class="has-text-align-none">Take what people say about your application with a grain of salt, because at the end of the day, they’re not the admissions officer. It’s okay to compare yourself and your application to other people, but it’s not the be-all, end-all. Use it as inspiration but don’t think, ‘This person’s just better than me. I’m never going to have a chance.’”</p>
-
-<p class="has-text-align-none"><em>—Dylan Ott, 18. Applied to 15 schools, accepted via early decision to the University of Pennsylvania</em>.</p>
-
-<h2 class="wp-block-heading">Focus on authenticity</h2>
-
-<p class="has-text-align-none">“College apps are very tricky if you haven’t previously heard advice or if you don’t have other family members that have gone through them. I struggled a lot, because my family is from India, and they weren’t accustomed to the American college admission process. For example, a lot of my peers could afford college counselors when my family didn’t even know what those were. </p>
-
-<p class="has-text-align-none">I struggled with selling myself and knowing how to tell my story in a way that was unique to me, because from a very young age, I felt pressure trying to be more like people around me. Whenever I was writing my essays, I would try to frame myself as someone that had this background that my peers did, even though I didn’t. Create a story for yourself that is so authentic and unique to you that anyone that reads it would be like, ‘That is so you.’ Pick one angle about yourself to go with. For me, I talked about my self-growth and development, from being pretty shy to being super confident, starting a TikTok, and being in debate.”</p>
-
-<p class="has-text-align-none"><em>—Tanu Tripathi, 20. Applied to 11 schools, accepted to six. Now attends the University of Texas.</em></p>
-
-<h2 class="wp-block-heading">Just keep writing</h2>
-
-<p class="has-text-align-none">“I spent a lot of time finding my story and writing down my life, asking my parents about things through my childhood that I couldn’t remember that I could draw connections to right now. It was me dumping much of my life onto the page, and then rewriting it and rewriting it and rewriting it again for a long time. </p>
-
-<p class="has-text-align-none">Those 250-word blurb answers were the hardest for me. I wrote about all my interests first and then saw what would match the essay questions for each school. Then you can edit them and change it to match, so you’re not really writing as many essays as you need to. In all, for every single school, there were over 50 essays. But I didn’t write 50 essays. A lot of these are reused, and a lot of them were also 150-word ones. For those questions, I always tried to answer them very creatively and in a way that most people wouldn’t just to show another side of myself.”</p>
-
-<p class="has-text-align-none"><em>—Jeremy Hsiao, 21. Applied to 11 schools, accepted to six, wait-listed at two. Now attends Stanford University.</em></p>
-
-<h2 class="wp-block-heading">Stay organized and have an emotional outlet</h2>
-
-<p class="has-text-align-none">“I figured out a system of organization that worked for me. Making a drive on Google was huge. I called it ‘college.’ Within that drive I had different folders for scholarships, supplemental essays, and then my Common App. Once you have those folders, make a huge spreadsheet for all the colleges you’re going to apply to. Divide out your spreadsheet into three different sections: early action, a November 30 or December 1 deadline, and then your regular decision colleges. Having it all in one place helped a lot.</p>
-
-<p class="has-text-align-none">Everyone’s going through this at the same time, and it’s really important to talk to your friends and family throughout the whole process for your mental health. Make sure you’re not keeping all the stress and all the overwhelming feelings inside of you. Make sure you’re ranting to your friends, ranting to your mom. Getting it all out is generally going to help you so much more in the long run.”</p>
-
-<p class="has-text-align-none"><em>—Chahat Kapoor, 20. Applied to 15 schools, accepted to nine, wait-listed at two. Now attends University of Illinois Urbana-Champaign.</em></p>
-
-<h2 class="wp-block-heading">Highlight the commonality in all your activities</h2>
-
-<p class="has-text-align-none">“I talked to a lot of my admission officers and interviewers after I got into these schools and they told me what stood out about my profile was it was so clear what type of student I was going to be. All my activities, my awards, my essays, even my extracurriculars, touched on my leadership and value of community service, specifically in the health field. My junior year of high school when I started thinking about college, I sat down and I wrote out all my extracurriculars and all my awards, and I saw that so many things I did were involved in the health field, and I also had a lot of leadership positions, so that naturally became what I would present in my profile.”</p>
-
-<p class="has-text-align-none"><em>—Olivia Zhang, 19. Applied to 26 schools, accepted to 20, wait-listed at two. Now attends Harvard University.</em></p>
 						]]>
 									</content>
 			
