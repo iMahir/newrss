@@ -194,9 +194,9 @@
         &lt;figcaption&gt;Illustration: Cath Virginia / The Verge&lt;/figcaption&gt;
     &lt;/figure&gt;
 
-  &lt;p id="Yq1Ese"&gt;A security researcher revealed a “catastrophic” vulnerability in the &lt;a href="https://www.theverge.com/23462235/arc-web-browser-review"&gt;Arc&lt;/a&gt; browser that would have allowed attackers to insert arbitrary code into other users’ browser sessions with little than an easily findable user ID. The vulnerability was patched on August 26th and disclosed today &lt;a href="https://kibty.town/blog/arc/"&gt;in a blog post by security researcher xyz3va&lt;/a&gt;, as well as &lt;a href="https://arc.net/blog/CVE-2024-45489-incident-response"&gt;a statement from The Browser Company&lt;/a&gt;. The company says that its logs indicate no users were affected by the flaw. &lt;/p&gt;
+  &lt;p id="Yq1Ese"&gt;A security researcher revealed a “catastrophic” vulnerability in the &lt;a href="https://www.theverge.com/23462235/arc-web-browser-review"&gt;Arc&lt;/a&gt; browser that would have allowed attackers to insert arbitrary code into other users’ browser sessions with little more than an easily findable user ID. The vulnerability was patched on August 26th and disclosed today &lt;a href="https://kibty.town/blog/arc/"&gt;in a blog post by security researcher xyz3va&lt;/a&gt;, as well as &lt;a href="https://arc.net/blog/CVE-2024-45489-incident-response"&gt;a statement from The Browser Company&lt;/a&gt;. The company says that its logs indicate no users were affected by the flaw. &lt;/p&gt;
 &lt;p id="pPtq6H"&gt;The exploit, CVE-2024-45489, relied on a misconfiguration in The Browser Company’s implementation of Firebase, a “database-as-a-backend service,” for storage of user info, including &lt;a href="https://resources.arc.net/hc/en-us/articles/19212718608151-Boosts-Customize-Any-Website"&gt;Arc Boosts&lt;/a&gt;, a feature that lets users customize the appearance of websites they visit. &lt;/p&gt;
-&lt;p id="h4O8v3"&gt;In its statement,...&lt;/p&gt;
+&lt;p id="h4O8v3"&gt;In its...&lt;/p&gt;
   &lt;p&gt;
     &lt;a href="https://www.theverge.com/2024/9/20/24249919/arc-browser-boost-firebase-vulnerability-patched"&gt;Continue reading&amp;hellip;&lt;/a&gt;
   &lt;/p&gt;
