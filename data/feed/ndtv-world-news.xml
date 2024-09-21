@@ -3,13 +3,94 @@
 <channel>
    <title>NDTV News-World-news</title>
    <link>https://www.ndtv.com</link>
-   <lastBuildDate><![CDATA[Sat, 21 Sep 2024 08:37:07 +0530]]></lastBuildDate>
+   <lastBuildDate><![CDATA[Sat, 21 Sep 2024 09:34:22 +0530]]></lastBuildDate>
 <language>en</language>	<image>
 	<title>NDTV News-World-news</title>
 	<url>https://www.ndtv.com/common/header/images/ndtv_logo_black.gif</url>
 	<link>https://www.ndtv.com</link>
 	</image>
 <description>NDTV.com provides the latest information from and in-depth coverage of India and the world. Find breaking news, India news, top stories, elections, politics, business, cricket, movies, lifestyle, health, live TV, videos, photos and more.</description>   <item>
+       <guid isPermaLink='true'><![CDATA[https://www.ndtv.com/world-news/israel-iran-hezbollah-stuxnet-how-cia-mossad-developed-a-digital-weapon-to-target-iran-nuclear-site-6614789]]></guid>
+       <title><![CDATA[How CIA, Mossad Developed A "Digital Weapon" To Target Iran Nuclear Site]]></title>
+       <link><![CDATA[https://www.ndtv.com/world-news/israel-iran-hezbollah-stuxnet-how-cia-mossad-developed-a-digital-weapon-to-target-iran-nuclear-site-6614789]]></link>
+       <pubDate><![CDATA[Sat, 21 Sep 2024 09:34:22 +0530]]></pubDate>
+       <description><![CDATA[The story of Stuxnet's development and deployment began years earlier. The inception of Stuxnet can be traced back to the early 2000s, during a period of heightened tension between Iran and Western nations over Iran's nuclear ambitions.]]></description>
+       <content:encoded><![CDATA[<p>It's June, 2009. The streets of Tehran have erupted in protests over the results of a presidential election. The incumbent Mahmoud Ahmadinejad has emerged victorious with an overwhelming majority against Mir-Hossein Mousavi. Protesters alleged a fraudulent victory. Among them is a woman named Neda Agha-Soltan, who on her way to join the main protests, parked her car at some distance from the gathering and stepped out as the vehicle's air conditioner was not working. As she breathed in the fresh air, a sniper belonging to a government-funded militia took aim and shot her square in the chest. She was dead.</p>
+
+<p>While this was unfolding in Tehran, around 300 kilometres to the south at the Natanz nuclear facility, the heart of Iran's nuclear program - 'strange' things were happening. Just days after Neda's death, the CIA reportedly received approval to initiate a cyber operation against this facility. The operation involved uploading a sophisticated piece of malware, known as <a class="sp_lnk2" href="https://www.kaspersky.com/resource-center/definitions/what-is-stuxnet" target="_blank">Stuxnet</a>, directly onto Iranian hardware. This malware had been in development for years, a collaborative effort between the United States and Israel, and represented the world's first digital weapon.</p>
+
+<h2><strong>Stuxnet: The Genesis</strong></h2>
+
+<p>Stuxnet was not a new presence in Iran's nuclear infrastructure; it had been causing disruptions for years. However, this new version was designed to deliver a decisive blow.&nbsp;</p>
+
+<p>The story of Stuxnet's development and deployment began years earlier. The inception of Stuxnet can be traced back to the early 2000s, during a period of heightened tension between Iran and Western nations over Iran's nuclear ambitions. The Bush administration, concerned about Iran's potential to develop nuclear weapons, sought unconventional methods to impede Tehran's progress. Thus, the covert operation codenamed 'Olympic Games' was born. This initiative, involving close collaboration between the CIA, the NSA, and Israel's Mossad, aimed to create a digital weapon capable of physically disrupting Iran's nuclear enrichment capabilities.</p>
+
+<p>Stuxnet was not an ordinary piece of malware. Its design reflected a level of sophistication unprecedented in the realm of cyber weapons. The malware targeted Siemens Step7 software, used to control industrial equipment, specifically focusing on the centrifuges at Iran's Natanz uranium enrichment facility. These centrifuges, essential for enriching uranium, operated at high speeds and required precise control to function correctly.</p>
+
+<h2><strong>Stuxnet: The Execution</strong></h2>
+
+<p>The US built a replica of Iran's nuclear facility in its <a class="sp_lnk2" href="https://www.nytimes.com/2011/01/16/world/middleeast/16stuxnet.html" target="_blank">Oak Ridge facility</a> in the state of Tennessee, where they meticulously studied the centrifuges to understand how to sabotage them without detection. In 2007, the first version of Stuxnet was released, targeting these centrifuges by preventing the release of pressure through the valves, causing the uranium gas to solidify and the centrifuges to spin out of control and ultimately self-destruct.</p>
+
+<div class="ins_instory_dv">
+<div class="ins_instory_dv_cont"><img alt="Latest and Breaking News on NDTV" id="story_image_main" src="https://c.ndtvimg.com/2024-09/94hrnf28_oak-ridge-_625x300_21_September_24.jpg" title="Latest and Breaking News on NDTV" /></div>
+
+<p class="ins_instory_dv_caption"><span class="ins_instory_span_credit">Photo Credit: Oak Ridge National Laboratory </span></p>
+</div>
+
+<p>Iran's nuclear facility was air-gapped, meaning its network was offline, so Stuxnet had to be introduced via an inside agent using a USB drive. The malware operated undetected, using a rootkit to hide its presence and stolen digital certificates to appear as legitimate commands. Despite its effectiveness, initial versions of Stuxnet only slowed Iran's progress, and did not sabotage it entirely.</p>
+
+<p>In response, US researchers developed a more aggressive version of Stuxnet, using four zero-day exploits and stolen private keys to sign its commands. This version could spread rapidly, even across air-gapped networks, and reprogram the centrifuges to destroy themselves while masking the sabotage as hardware malfunctions.</p>
+
+<h2><strong>Stuxnet: The Implications</strong></h2>
+
+<p>An insider at Natanz introduced this new version of Stuxnet, and it quickly spread throughout the facility's network. However, its aggressive nature led to unintended consequences: the malware spread beyond Natanz, infecting computers across Iran and eventually the globe. The CIA, realising the uncontrollable spread of Stuxnet, decided to continue with the operation, hoping it would remain undetected within Natanz.</p>
+
+<div class="ins_instory_dv">
+<div class="ins_instory_dv_cont"><img alt="Latest and Breaking News on NDTV" id="story_image_main" src="https://c.ndtvimg.com/2024-09/if5rokr8_natanz-_625x300_21_September_24.jpg" title="Latest and Breaking News on NDTV" /></div>
+
+<p class="ins_instory_dv_caption"><span class="ins_instory_span_credit">Photo Credit: Google Earth </span></p>
+</div>
+
+<p>Their hopes were dashed when cybersecurity firm Symantec discovered Stuxnet and published a detailed report on the malware. Iran soon realised the extent of the cyber attack and took measures to protect their nuclear program. Despite the setbacks caused by Stuxnet, Iran vowed to continue its nuclear ambitions.</p>
+
+<p>One of the earlier hints of Stuxnet's existence emerged in June 2010 when a Belarusian cybersecurity firm discovered an unusual piece of malware on an Iranian computer. As cybersecurity experts from around the world began analysing the code, they were astounded by its complexity and purpose.&nbsp;</p>
+
+<h2><strong>Impact On Iran's Nuclear Program</strong></h2>
+
+<p>Stuxnet's impact on Iran's nuclear program was significant but not immediately catastrophic. By 2009, Iran had installed over 7,000 centrifuges at Natanz, but Stuxnet caused approximately 1,000 of these to fail. The disruptions forced Iran to temporarily halt its enrichment activities and replace the damaged equipment, delaying its nuclear ambitions by several months to years.</p>
+
+<p>The Iranian government, initially oblivious to the cause of the centrifuge failures, eventually recognised the cyber intrusion. Publicly, Iran downplayed the impact of Stuxnet, but internally, it spurred significant investment in cybersecurity measures and the development of offensive cyber capabilities.</p>
+
+<p>Over the following years, targeted assassinations of key Iranian nuclear scientists further crippled their program. Car bombings and other attacks eliminated many of the leaders involved, including the director of the Natanz facility.</p>
+
+<h2><strong>Stuxnet: Global Fallout</strong></h2>
+
+<p>Stuxnet did not confine itself to Iran. It spread to other countries, including India, Indonesia, and Pakistan, affecting industrial systems worldwide. In India, several critical infrastructure facilities, &nbsp;reportedly infecting as many as 80,000 computers. Several power plants and manufacturing units were also found to be vulnerable to similar attacks.</p>
+
+<p>In 2013, India adopted the <a class="sp_lnk2" href="https://www.meity.gov.in/writereaddata/files/National_cyber_security_policy-2013_0.pdf">National Cyber Security Policy</a> which focused on "protection of information infrastructure and preservation of the confidentiality, integrity and availability of information in cyberspace". The following year, the Centre announced the formation of the <a class="sp_lnk2" href="https://www.india.gov.in/website-national-critical-information-infrastructure-protection-centre" target="_blank">National Critical Information Infrastructure Protection Centre</a> to further safeguard India's cyber security space.&nbsp;<br />
+&nbsp;</p>]]></content:encoded>
+<media:content url='https://c.ndtvimg.com/2024-09/vob3imj_stuxnet_625x300_21_September_24.jpeg' type='image/jpeg' expression='full' width='538' height='190'>
+<media:description type='plain'><![CDATA[Stuxnet did not confine itself to Iran. It spread to other countries, including India.]]></media:description>
+</media:content>   </item>
+   <item>
+       <guid isPermaLink='true'><![CDATA[https://www.ndtv.com/world-news/indian-embassy-official-found-dead-at-washington-office-probe-on-6614770]]></guid>
+       <title><![CDATA[Indian Embassy Official Found Dead At Washington Office, Probe On]]></title>
+       <link><![CDATA[https://www.ndtv.com/world-news/indian-embassy-official-found-dead-at-washington-office-probe-on-6614770]]></link>
+       <pubDate><![CDATA[Sat, 21 Sep 2024 09:30:29 +0530]]></pubDate>
+       <description><![CDATA[An Indian embassy official has been allegedly found dead under mysterious circumstances inside the mission premises in Washington.]]></description>
+       <content:encoded><![CDATA[<p>An Indian embassy official has been allegedly found dead under mysterious circumstances inside the mission premises in Washington.</p>
+
+<p>According to the news agency PTI, local police and the Secret Service are currently investigating the incident that occurred on Wednesday, including the possibility of suicide.</p>
+
+<p>The Embassy confirmed the death in an official statement on Friday but did not give any further details.</p>
+
+<p>"With deep regret, we wish to confirm that a member of the Embassy of India passed away on the evening of 18th September 2024. We are in touch with all relevant agencies and members of the family to ensure the swift transfer of the remains to India," it said.</p>
+
+<p>"Additional details regarding the deceased are not being released out of concern for the family's privacy. Our thoughts and prayers are with the family in this time of grief. We thank you for your understanding," it added.</p>]]></content:encoded>
+<media:content url='https://c.ndtvimg.com/2024-09/40to72lg_indian-embassy-in-us_625x300_21_September_24.jpg' type='image/jpeg' expression='full' width='538' height='190'>
+<media:description type='plain'><![CDATA[File photo]]></media:description>
+</media:content>   </item>
+   <item>
        <guid isPermaLink='true'><![CDATA[https://www.ndtv.com/world-news/chinas-beautiful-governor-jailed-over-affairs-with-58-staff-members-and-corruption-6614489]]></guid>
        <title><![CDATA[China's "Beautiful Governor" Jailed Over Affairs With Subordinates, Bribes]]></title>
        <link><![CDATA[https://www.ndtv.com/world-news/chinas-beautiful-governor-jailed-over-affairs-with-58-staff-members-and-corruption-6614489]]></link>
@@ -37,7 +118,7 @@
 </media:content>   </item>
    <item>
        <guid isPermaLink='true'><![CDATA[https://www.ndtv.com/world-news/ibrahim-aqil-the-top-hezbollah-leader-killed-in-israeli-strike-in-beirut-6614488]]></guid>
-       <title><![CDATA[Ibrahim Aqil: The Top Hezbollah Leader Killed In Israeli Strike In Beirut]]></title>
+       <title><![CDATA[Who Was Ibrahim Aqil, Top Hezbollah Military Commander Killed In Beirut]]></title>
        <link><![CDATA[https://www.ndtv.com/world-news/ibrahim-aqil-the-top-hezbollah-leader-killed-in-israeli-strike-in-beirut-6614488]]></link>
        <pubDate><![CDATA[Sat, 21 Sep 2024 08:14:36 +0530]]></pubDate>
        <description><![CDATA[Israel on Friday said that it killed Ibrahim Aqil, the top commander of Hezbollah, in a strike in the Iran-backed group's stronghold in Beirut.]]></description>
@@ -701,92 +782,6 @@
 <p>Aqil, whose bounty was set by the United States at an even higher value than that of Shukr's, may prove a similar blow.</p><p><i>(Except for the headline, this story has not been edited by NDTV staff and is published from a syndicated feed.)</i></p>]]></content:encoded>
 <media:content url='https://c.ndtvimg.com/2024-07/933oja6g_israel-hamas-war-afp_625x300_11_July_24.jpeg' type='image/jpeg' expression='full' width='538' height='190'>
 <media:description type='plain'><![CDATA[The Hezbollah operations commander Ibrahim Aqil was killed in an Israeli strike on Friday.]]></media:description>
-</media:content>   </item>
-   <item>
-       <guid isPermaLink='true'><![CDATA[https://www.ndtv.com/world-news/how-hack-of-hezbollah-devices-exposes-dark-corners-of-asia-supply-chains-6612932]]></guid>
-       <title><![CDATA[How Hack Of Hezbollah Devices Exposes Dark Corners Of Asia Supply Chains]]></title>
-       <link><![CDATA[https://www.ndtv.com/world-news/how-hack-of-hezbollah-devices-exposes-dark-corners-of-asia-supply-chains-6612932]]></link>
-       <pubDate><![CDATA[Fri, 20 Sep 2024 23:55:29 +0530]]></pubDate>
-       <description><![CDATA[The lethal hack of Hezbollah's Asian-branded pagers and walkie-talkies has sparked an intense search for the devices' path, revealing a murky market for older technologies where buyers may have few assurances about what they are getting.]]></description>
-       <content:encoded><![CDATA[<p>The lethal hack of Hezbollah's Asian-branded pagers and walkie-talkies has sparked an intense search for the devices' path, revealing a murky market for older technologies where buyers may have few assurances about what they are getting.</p>
-
-<p>While supply chains and distribution channels for higher-margin and newer products are tightly managed, that's not the case for older electronics from Asia where counterfeiting, surplus inventories and complex contract manufacturing deals can sometimes make it impossible to identify the source of a product, analysts and consultants say.</p>
-
-<p>The response from the companies at the centre of the booby-trapped gadgets that killed 37 people and wounded about 3,000 in Lebanon this week has underlined difficulties in discerning how and when they were weaponised.</p>
-
-<p>Taiwan-based Gold Apollo put the blame on a Europe-based licensee of its pager, sparking investigations in Hungary, Bulgaria, Norway and Romania into the origins of the deadly device. Japan's Icom said it could not tell if the walkie-talkies bearing its name were real, in a market awash with fake products.</p>
-
-<p>"If the supply chain was compromised to put explosives inside ... it's incredible engineering to do that. But the actual supply chain compromise is not that hard. Probably the easiest part was the supply chain compromise," said David Fincher, a China-based technologist and consultant.</p>
-
-<p>He said counterfeit products are prevalent, especially in big manufacturing centres like China where fake components can be easily produced, adding that it isn't a big leap to go from fake components to supply chain compromise.</p>
-
-<p>"As the technologist I am, I can tell you getting a little explosive in a radio is not that hard."</p>
-
-<p>Hezbollah acquired the devices around five months ago, according to a security source, who added that the armed group thought it was buying the pagers from Gold Apollo.</p>
-
-<p>The hand-held radios, which the source said were purchased around the same time as the pagers, had labels bearing the name of Osaka-based Icom and the phrase "Made in Japan", images of one exploded device showed.</p>
-
-<p>Both companies have ruled out the possibility that any of the deadly components were made in factories in either of their home locations.</p>
-
-<p>Taiwan's Economy Minister Kuo Jyh-huei has also said the components used in the pagers that detonated in Lebanon were not made in Taiwan.</p>
-
-<p>A preliminary investigation by Lebanese authorities into the devices found that the explosives were implanted before they arrived in the country, according to a letter to the U.N. Security Council by Lebanon's mission to the United Nations.</p>
-
-<p><strong>FAKE GOODS</strong></p>
-
-<p>But, for now, that's about all anyone is certain of. It's not clear how or when the pagers and walkie-talkies were weaponised so they could be remotely detonated.</p>
-
-<p>Joe Simone, partner with Chinese intellectual property firm East IP, said part of the problem is that smaller brands tend to invest less in policing counterfeits, due in large part to costs that could impact their profitability.</p>
-
-<p>"Authorities are happy to deal with low-tech counterfeits but the IP owners need to monitor, investigate and file complaints and that doesn't always happen as much as it might for high-tech and bigger technology brands," he said.</p>
-
-<p>For Icom, one problem is that it stopped making the IC-V82 model in question a decade ago, around the time it started introducing holographic stickers as a protection against counterfeit products, the company said.</p>
-
-<p>The company has long warned about imitation products, especially of its older models.</p>
-
-<p>In fact, more than 7% of firms in Japan reported business losses from counterfeit products in 2020, according to the latest available report by the Japan Patent Office, with around a third of cases linked to China.</p>
-
-<p>Icom has urged that customers only use its official distributor network to ensure they are buying genuine products.</p>
-
-<p>But in China, there are dozens of shops selling Icom-branded walkie-talkies on e-commerce platforms such as Alibaba.com, Taobao, JD.com and Pinduoduo, including in some cases the IC-V82 model, according to Reuters checks.</p>
-
-<p>Among three China-based vendors of Icom products on Alibaba.com, none of which were listed as official suppliers on Icom's website, Guangzhou Minxing Communications Equipment Co and Chengdu Bingxin Technology Co Ltd both said they sell authentic products, while Quanzhou Yitian Trading Co acknowledged selling "Chinese made imitations" in addition to original products.</p>
-
-<p>Icom has said it makes all its products in its factories in Japan. It did not immediately reply to a request for comment on Icom-branded products sold in Chinese online sites.</p>
-
-<p>The discontinued IC-V82 model is also sold in Vietnam on e-commerce platform Shopee, a Reuters check showed, indicating wide availability of such products.</p>
-
-<p>For Gold Apollo, which licensed its brand to Budapest-based BAC, the supply chain devolved into a mysterious production trail that authorities in various countries are now trying to piece together.</p>
-
-<p>"The widespread availability of cheap, second-hand manufacturing equipment meant counterfeiters were increasingly able to go beyond single components and even make full-fledged products," said Diganta Das from the University of Maryland's Center for Advanced Lifecycle Engineering, who studies counterfeit electronics.</p>
-
-<p>"I wouldn't call it counterfeiting anymore, it's like illegal manufacturing," Das said.</p><p><i>(Except for the headline, this story has not been edited by NDTV staff and is published from a syndicated feed.)</i></p>]]></content:encoded>
-<media:content url='https://c.ndtvimg.com/2024-09/ol7bsm98_walkie-talkie-explosion_625x300_20_September_24.jpeg' type='image/jpeg' expression='full' width='538' height='190'>
-<media:description type='plain'><![CDATA[Hezbollah acquired the devices around five months ago, according to a security source (File)]]></media:description>
-</media:content>   </item>
-   <item>
-       <guid isPermaLink='true'><![CDATA[https://www.ndtv.com/world-news/us-national-tortured-to-death-in-ukraine-by-russian-soldiers-moscow-says-6612920]]></guid>
-       <title><![CDATA[US National Tortured To Death In Ukraine By Russian soldiers, Moscow Says]]></title>
-       <link><![CDATA[https://www.ndtv.com/world-news/us-national-tortured-to-death-in-ukraine-by-russian-soldiers-moscow-says-6612920]]></link>
-       <pubDate><![CDATA[Fri, 20 Sep 2024 23:51:13 +0530]]></pubDate>
-       <description><![CDATA[Russell Bentley, a US national who went missing in Russian-controlled eastern Ukraine early this year, is believed to have been tortured to death by Russian soldiers who are now set to go on trial, Russia's top investigative body said on Friday.]]></description>
-       <content:encoded><![CDATA[<p>Russell Bentley, a US national who went missing in Russian-controlled eastern Ukraine early this year, is believed to have been tortured to death by Russian soldiers who are now set to go on trial, Russia's top investigative body said on Friday.</p>
-
-<p>Bentley died in the Russian-controlled city of Donetsk in April, Margarita Simonyan, head of Russia's state media outlet RT, wrote at the time, saying he had been "fighting there for our guys" and working with Russia's Sputnik news service.</p>
-
-<p>Bentley, born in 1960, was a self-declared supporter of Russian-backed forces in Ukraine. The Russian state news agency RIA reported that he had joined pro-Russian fighters in eastern Ukraine in 2014, later working with Sputnik and obtaining Russian citizenship.</p>
-
-<p>The Investigative Committee said in a statement that it had completed its probe and accused three Russian servicemen of torturing Bentley to death in Donetsk on April 8.</p>
-
-<p>It said two of the soldiers had then put his body in a car and blown it up. A fourth soldier had been ordered the following day to move Bentley's remains to another location in an attempt to conceal the crime.</p>
-
-<p>The Committee's statement said the accused soldiers, whom it named, were familiarising themselves with the allegations before the indictment was sent for approval.</p>
-
-<p>It said they would variously be tried on charges ranging from exceeding their authority, using physical violence and torture, and causing death by negligence, to attempted concealment of a serious crime. It did not say whether or not they had denied the accusations.</p>
-
-<p>Russian media outlets have suggested that the soldiers may have mistaken Bentley - the subject of a 2022 interview with Rolling Stone magazine titled "The Bizarre Story of How a Hardcore Texas Leftist Became a Frontline Putin propagandist" - for a US spy.</p><p><i>(Except for the headline, this story has not been edited by NDTV staff and is published from a syndicated feed.)</i></p>]]></content:encoded>
-<media:content url='https://c.ndtvimg.com/2024-09/50a9boq_donetsk-ukraine_625x300_20_September_24.jpeg' type='image/jpeg' expression='full' width='538' height='190'>
-<media:description type='plain'><![CDATA[Russell Bentley died in the Russian-controlled city of Donetsk in April]]></media:description>
 </media:content>   </item>
 </channel>
 </rss>
