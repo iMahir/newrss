@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.9079294501278552" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 21 Sep 2024 14:10:28 +0000</lastBuildDate>
-    <pubDate>Sat, 21 Sep 2024 14:09:55 +0000</pubDate>
+    <lastBuildDate>Sat, 21 Sep 2024 14:23:05 +0000</lastBuildDate>
+    <pubDate>Sat, 21 Sep 2024 14:23:00 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -57,7 +57,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/09/21/world/gaza-israel-hamas-hezbollah" rel="standout"></atom:link>
       <description>Hezbollah said a senior leader was among those killed, the day after confirming the death of a top commander wanted by the U.S. Lebanon’s Health Ministry said the death toll had risen to at least 37 and included women and children.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 21 Sep 2024 14:02:04 +0000</pubDate>
+      <pubDate>Sat, 21 Sep 2024 14:23:00 +0000</pubDate>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/21/multimedia/21mideast-crisis-promo940am/21mideast-crisis-carousel-01-tvhk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
     </item>
@@ -259,12 +259,13 @@
       <dc:creator>Jenny Gross and Constant Méheut</dc:creator>
       <pubDate>Fri, 20 Sep 2024 13:11:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">von der Leyen, Ursula</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">von der Leyen, Ursula</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/20eu-ukraine-cfbh/20eu-ukraine-cfbh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Christoph Soeder</media:credit>
       <media:description>Ursula von der Leyen, president of the European Commission, at a war memorial on Friday. She traveled to Kyiv to reassure Ukraine’s president about the bloc’s financial support.</media:description>
@@ -282,6 +283,26 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Netherlands</category>
+    </item>
+    <item>
+      <title>For Families of Those Missing After Israeli Strike in Beirut, an Agonizing Wait</title>
+      <link>https://www.nytimes.com/2024/09/21/world/middleeast/beirut-israel-strike-families.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/21/world/middleeast/beirut-israel-strike-families.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/21/world/middleeast/beirut-israel-strike-families.html" rel="standout"></atom:link>
+      <description>With the death toll rising and rescuers still searching for people beneath the rubble, families were keeping a desperate watch over the site of an Israeli strike in Lebanon.</description>
+      <dc:creator>Hwaida Saad and Erika Solomon</dc:creator>
+      <pubDate>Sat, 21 Sep 2024 14:20:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/21/multimedia/21mideast-crisis-beirut-aftermath-cvbf/21mideast-crisis-beirut-aftermath-cvbf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <media:description>Rescue workers on Saturday at a suburban Beirut residential building that was destroyed in an Israeli airstrike a day earlier.</media:description>
     </item>
     <item>
       <title>Shoulder Season</title>
@@ -548,9 +569,11 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Insecurity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/20mideast-crisis-gaza-war-01-fqzt/20mideast-crisis-gaza-war-01-fqzt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mohammed Saber/EPA, via Shutterstock</media:credit>
       <media:description>Palestinians walk past rubble in Bureij in central Gaza on Tuesday.</media:description>
@@ -1124,18 +1147,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/18/multimedia/18mideast-crisis-ledeall-zwgb/18mideast-crisis-ledeall-zwgb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Fadel Itani/Agence France-Presse — Getty Images</media:credit>
       <media:description>Ambulances arriving after a device reportedly exploded during the funeral in Beirut’s southern suburbs on Wednesday for people killed when hundreds of pagers exploded across Lebanon a day earlier.</media:description>
-    </item>
-    <item>
-      <title>Thursday Briefing: A Second Day of Explosions in Lebanon</title>
-      <link>https://www.nytimes.com/2024/09/18/briefing/lebanon-explosions-harris-kashmir.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/18/briefing/lebanon-explosions-harris-kashmir.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/18/briefing/lebanon-explosions-harris-kashmir.html" rel="standout"></atom:link>
-      <description>Plus, Kamala Harris courts Latino voters.</description>
-      <dc:creator>Gaya Gupta</dc:creator>
-      <pubDate>Wed, 18 Sep 2024 21:29:00 +0000</pubDate>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/18/multimedia/19ambriefing-asia-Lebanon/19ambriefing-asia-Lebanon-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
-      <media:description>Hezbollah supporters mourned the deaths of four fighters.</media:description>
     </item>
   </channel>
 </rss>
