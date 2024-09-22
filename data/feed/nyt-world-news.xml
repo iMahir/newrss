@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.6881091739004523" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 22 Sep 2024 14:47:04 +0000</lastBuildDate>
-    <pubDate>Sun, 22 Sep 2024 14:43:18 +0000</pubDate>
+    <lastBuildDate>Sun, 22 Sep 2024 15:12:09 +0000</lastBuildDate>
+    <pubDate>Sun, 22 Sep 2024 15:11:48 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -78,7 +78,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/09/22/world/gaza-israel-hamas-hezbollah" rel="standout"></atom:link>
       <description>The militant group targeted areas in Israel farther south than most of its previous attacks, reinforcing fears of broader regional conflict.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 22 Sep 2024 14:43:18 +0000</pubDate>
+      <pubDate>Sun, 22 Sep 2024 15:11:48 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/22/multimedia/22mideast-crisis-promo1045am/22mideast-crisis-hezbollah-mlvj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Gil Nechushtan/Associated Press</media:credit>
     </item>
@@ -99,6 +99,23 @@
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2024/09/22/multimedia/22congo-prison-bqvz/22congo-prison-bqvz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Chris Milosi/EPA, via Shutterstock</media:credit>
       <media:description>Inmates waiting to be released from Makala Prison in Kinshasa, Democratic Republic of Congo, on Saturday.</media:description>
+    </item>
+    <item>
+      <title>At a Remote Scottish Pub, a Pint Worth Hiking 20 Miles</title>
+      <link>https://www.nytimes.com/2024/09/22/world/europe/britain-remote-pub-knoydart.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/22/world/europe/britain-remote-pub-knoydart.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/22/world/europe/britain-remote-pub-knoydart.html" rel="standout"></atom:link>
+      <description>The Old Forge on the rugged peninsula of Knoydart is a community-owned meeting point for locals and visitors — at least those willing to trek across the wilderness.</description>
+      <dc:creator>Isabella Kwai</dc:creator>
+      <pubDate>Sun, 22 Sep 2024 12:33:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hikes and Hiking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wilderness Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bars and Nightclubs</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/xp-remotepub-qlwg/xp-remotepub-qlwg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Andy Buchanan/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The Old Forge is known as the remotest pub in mainland Britain.</media:description>
     </item>
     <item>
       <title>Explosion at an Iranian Mine Kills Dozens, State Media Says</title>
@@ -229,25 +246,6 @@
       <media:description>The compound in Tirana, the Albanian capital, that would become the Sovereign State of the Bektashi Order.</media:description>
     </item>
     <item>
-      <title>Elon Musk’s X Backs Down in Brazil</title>
-      <link>https://www.nytimes.com/2024/09/21/world/americas/elon-musk-x-brazil.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/21/world/americas/elon-musk-x-brazil.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/21/world/americas/elon-musk-x-brazil.html" rel="standout"></atom:link>
-      <description>In an abrupt reversal, the social network’s lawyers said it was complying with court orders that it had previously defied. Brazil’s Supreme Court could allow the site to return next week.</description>
-      <dc:creator>Jack Nicas and Ana Ionova</dc:creator>
-      <pubDate>Sat, 21 Sep 2024 15:33:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moraes, Alexandre de (1968- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X (Formerly Twitter)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Federal Court (Brazil)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/00brazil-x-fpjt/00brazil-x-fpjt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Dado Galdieri for The New York Times</media:credit>
-      <media:description>Brazil’s Supreme Court blocked X last month because its owner, Elon Musk, refused to comply with court orders.</media:description>
-    </item>
-    <item>
       <title>Leader of Kenya, Donor to Haiti Police Force, Makes First Visit</title>
       <link>https://www.nytimes.com/2024/09/21/world/americas/kenya-haiti-ruto.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/09/21/world/americas/kenya-haiti-ruto.html</guid>
@@ -300,30 +298,13 @@
       <media:description>A dashcam video captures the moment a missile fired by Hezbollah struck near Haifa in Israel.</media:description>
     </item>
     <item>
-      <title>At a Remote Scottish Pub, a Pint Worth Hiking 20 Miles</title>
-      <link>https://www.nytimes.com/2024/09/22/world/europe/britain-remote-pub-knoydart.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/22/world/europe/britain-remote-pub-knoydart.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/22/world/europe/britain-remote-pub-knoydart.html" rel="standout"></atom:link>
-      <description>The Old Forge on the rugged peninsula of Knoydart is a community-owned meeting point for locals and visitors — at least those willing to trek across the wilderness.</description>
-      <dc:creator>Isabella Kwai</dc:creator>
-      <pubDate>Sun, 22 Sep 2024 12:33:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hikes and Hiking</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wilderness Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bars and Nightclubs</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/xp-remotepub-qlwg/xp-remotepub-qlwg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Andy Buchanan/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The Old Forge is known as the remotest pub in mainland Britain.</media:description>
-    </item>
-    <item>
       <title>Israel’s Military Closes Al Jazeera’s Office in the West Bank</title>
       <link>https://www.nytimes.com/2024/09/22/world/middleeast/al-jazeera-west-bank-raid.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/09/22/world/middleeast/al-jazeera-west-bank-raid.html</guid>
       <atom:link href="https://www.nytimes.com/2024/09/22/world/middleeast/al-jazeera-west-bank-raid.html" rel="standout"></atom:link>
       <description>The Israeli authorities have been putting pressure on the local operations of the network, saying its coverage threatens national security.</description>
       <dc:creator>Adam Rasgon</dc:creator>
-      <pubDate>Sun, 22 Sep 2024 13:35:50 +0000</pubDate>
+      <pubDate>Sun, 22 Sep 2024 14:58:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Jazeera</category>
@@ -429,6 +410,25 @@
       <media:content height="1690" medium="image" url="https://static01.nyt.com/images/2024/09/21/multimedia/21mideast-crisis-gaza-school-kwbj/21mideast-crisis-gaza-school-kwbj-mediumSquareAt3X.jpg" width="1690"></media:content>
       <media:credit>Omar Al-Qattaa/Agence France-Presse — Getty Images</media:credit>
       <media:description>Gaza’s rescue services said the Saturday strike on Gaza’s Zeitoun School killed mostly women and children.</media:description>
+    </item>
+    <item>
+      <title>Elon Musk’s X Backs Down in Brazil</title>
+      <link>https://www.nytimes.com/2024/09/21/world/americas/elon-musk-x-brazil.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/21/world/americas/elon-musk-x-brazil.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/21/world/americas/elon-musk-x-brazil.html" rel="standout"></atom:link>
+      <description>In an abrupt reversal, the social network’s lawyers said it was complying with court orders that it had previously defied. Brazil’s Supreme Court could allow the site to return next week.</description>
+      <dc:creator>Jack Nicas and Ana Ionova</dc:creator>
+      <pubDate>Sat, 21 Sep 2024 15:33:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moraes, Alexandre de (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X (Formerly Twitter)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Federal Court (Brazil)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/00brazil-x-fpjt/00brazil-x-fpjt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dado Galdieri for The New York Times</media:credit>
+      <media:description>Brazil’s Supreme Court blocked X last month because its owner, Elon Musk, refused to comply with court orders.</media:description>
     </item>
     <item>
       <title>Who Was Ahmed Wahbi, One of the Hezbollah Commanders Killed by an Israeli Airstrike?</title>
@@ -564,10 +564,15 @@
       <pubDate>Sat, 21 Sep 2024 15:31:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">RT (TV Network)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">RT France (TV Network)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WhatsApp Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/21/world/21russia-rt/21russia-rt-mediumSquareAt3X.jpg" width="1800"></media:content>
