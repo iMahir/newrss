@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 23 Sep 2024 21:44:30 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Sep 2024 21:31:00 +0000</pubDate>
+    <lastBuildDate>Mon, 23 Sep 2024 22:08:47 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Sep 2024 21:59:13 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/09/23/world/gaza-israel-hamas-hezbollah" rel="standout"></atom:link>
       <description>It was the deadliest day of Israeli attacks in Lebanon since at least 2006. More than a thousand were also injured, Lebanon’s health ministry said, without saying how many were civilians. The armed group Hezbollah sent rockets into northern Israel and vowed to keep attacking.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 23 Sep 2024 21:28:48 +0000</pubDate>
+      <pubDate>Mon, 23 Sep 2024 21:47:45 +0000</pubDate>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/23/multimedia/23mideast-crisis-promo530p-tvkq/23mideast-crisis-promo530p-tvkq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Avishag Shaar-Yashuv for The New York Times</media:credit>
     </item>
@@ -295,6 +295,31 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/22/multimedia/22srilanka-election-tfph/22srilanka-election-tfph-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Chamila Karunarathne/EPA, via Shutterstock</media:credit>
       <media:description>Anura Kumara Dissanayake, center, leaving a polling station after casting his vote in the presidential election in Colombo, Sri Lanka, on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Biden Works Against the Clock as Violence Escalates in the Middle East</title>
+      <link>https://www.nytimes.com/2024/09/23/us/politics/biden-violence-escalates-in-middle-east.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/23/us/politics/biden-violence-escalates-in-middle-east.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/23/us/politics/biden-violence-escalates-in-middle-east.html" rel="standout"></atom:link>
+      <description>President Biden is beginning to acknowledge that he is simply running out of time to help forge a cease-fire and hostage deal with Hamas, his aides say. And the risk of a wider war has never looked greater.</description>
+      <dc:creator>David E. Sanger</dc:creator>
+      <pubDate>Mon, 23 Sep 2024 21:59:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/09/23/multimedia/23dc-prexy-01-tlbm/23dc-prexy-01-tlbm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang for The New York Times</media:credit>
+      <media:description>For a year now, President Biden has warned publicly and privately about the need to avoid a broader war in the Middle East, one that could easily escalate into direct conflict between Israel and Iran.</media:description>
     </item>
     <item>
       <title>At U.N. Conference, Global Crises Collide With Fraught American Politics</title>
@@ -1116,27 +1141,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/21/multimedia/21canadaletter--echaquan-wpjb/21canadaletter--echaquan-wpjb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hubert Hayaud for The New York Times</media:credit>
       <media:description>The former home of Joyce Echaquan, an Indigenous woman who was mocked and neglected by staff members in a Quebec hospital while she died.</media:description>
-    </item>
-    <item>
-      <title>Israel’s Attacks on Hezbollah Alter Balance of Power in a Long-Running Fight</title>
-      <link>https://www.nytimes.com/2024/09/21/world/middleeast/israel-hezbollah-lebanon.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/21/world/middleeast/israel-hezbollah-lebanon.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/21/world/middleeast/israel-hezbollah-lebanon.html" rel="standout"></atom:link>
-      <description>A focus on mutual deterrence had kept intermittent clashes along the Lebanon-Israel border from spiraling into a major war. That changed this past week.</description>
-      <dc:creator>Ben Hubbard</dc:creator>
-      <pubDate>Sun, 22 Sep 2024 13:20:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/21Hezbollah-assess-top/20mideast-crisis-assess-vlkp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
-      <media:description>Hezbollah supporters mourning the deaths of two people after a second wave of explosions followed this week’s pager attack.</media:description>
     </item>
   </channel>
 </rss>
