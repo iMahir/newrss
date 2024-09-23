@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 23 Sep 2024 11:20:18 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Sep 2024 11:09:43 +0000</pubDate>
+    <lastBuildDate>Mon, 23 Sep 2024 11:35:22 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Sep 2024 11:24:31 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -285,6 +285,29 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/21/multimedia/21haiti-kenya-sub-photo-qtcg/21haiti-kenya-sub-photo-qtcg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Adriana Zehbrauskas for The New York Times</media:credit>
       <media:description>President William Ruto of Kenya, center, with police officers from his country in Port-au-Prince, Haiti, on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Supermarkets in Australia Sued Over Claims of Fake Discounts</title>
+      <link>https://www.nytimes.com/2024/09/23/world/australia/woolworths-coles-fake-discounts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/23/world/australia/woolworths-coles-fake-discounts.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/23/world/australia/woolworths-coles-fake-discounts.html" rel="standout"></atom:link>
+      <description>In a rare case of legal action tied to rising prices, the government sued Woolworths and Coles for what it described as a pattern of deceiving consumers.</description>
+      <dc:creator>Damien Cave</dc:creator>
+      <pubDate>Mon, 23 Sep 2024 11:24:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Coles Group Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Woolworths (Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Albanese, Anthony (1963- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/23/multimedia/23oz-supermarkets-hqfp/23oz-supermarkets-hqfp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>AnnaMaria Antoinette D&#39;Addario for The New York Times</media:credit>
+      <media:description>Coles and Woolworths control 65 percent of the grocery store market in Australia.</media:description>
     </item>
     <item>
       <title>Why Is Israel Escalating Attacks Against Hezbollah?</title>
@@ -1124,26 +1147,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/20uk-farage-02-bfvl/20uk-farage-02-bfvl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hollie Adams/Reuters</media:credit>
       <media:description>Nigel Farage, leader of the Reform U.K. party, at its conference in Birmingham, England, on Friday.</media:description>
-    </item>
-    <item>
-      <title>After Pager Attack, Israel and Hezbollah Return to Familiar Deadlock</title>
-      <link>https://www.nytimes.com/2024/09/20/world/middleeast/israel-hezbollah-pager-attack-standoff.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/20/world/middleeast/israel-hezbollah-pager-attack-standoff.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/20/world/middleeast/israel-hezbollah-pager-attack-standoff.html" rel="standout"></atom:link>
-      <description>Israel’s attack on Hezbollah’s communication devices raised expectations of a decisive shift in their war of attrition. Instead, the fighting has returned to a standoff.</description>
-      <dc:creator>Patrick Kingsley</dc:creator>
-      <pubDate>Fri, 20 Sep 2024 13:24:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasrallah, Hassan</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/20/multimedia/20mideast-crisis-assess-vlkp/20mideast-crisis-assess-vlkp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
-      <media:description>Hezbollah supporters mourning the deaths of two people during a second wave of explosions that struck Lebanon following the pager bomb attack.</media:description>
     </item>
   </channel>
 </rss>
