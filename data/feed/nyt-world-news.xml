@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.9454319121184296" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 23 Sep 2024 19:08:28 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Sep 2024 19:08:20 +0000</pubDate>
+    <lastBuildDate>Mon, 23 Sep 2024 19:23:34 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Sep 2024 19:20:28 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/09/23/world/gaza-israel-hamas-hezbollah" rel="standout"></atom:link>
       <description>It was the deadliest day of Israeli attacks in Lebanon since at least 2006. The armed group Hezbollah sent rockets into northern Israel and vowed to keep attacking.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 23 Sep 2024 19:02:29 +0000</pubDate>
+      <pubDate>Mon, 23 Sep 2024 19:20:28 +0000</pubDate>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/23/multimedia/23mideast-crisis-promo-3pm/23mideast-crisis-promo-3pm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
     </item>
@@ -297,6 +297,25 @@
       <media:description>Anura Kumara Dissanayake, center, leaving a polling station after casting his vote in the presidential election in Colombo, Sri Lanka, on Saturday.</media:description>
     </item>
     <item>
+      <title>Pentagon to Send More U.S. Troops to Middle East as Tensions Rise</title>
+      <link>https://www.nytimes.com/2024/09/23/us/politics/us-troops-mideast.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/23/us/politics/us-troops-mideast.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/23/us/politics/us-troops-mideast.html" rel="standout"></atom:link>
+      <description>Maj. Gen. Patrick S. Ryder, the Pentagon press secretary, declined to say exactly how many troops were deploying, citing operational security.</description>
+      <dc:creator>Helene Cooper</dc:creator>
+      <pubDate>Mon, 23 Sep 2024 19:18:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Austin, Lloyd J III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/09/23/multimedia/23DC-military-pthw/23DC-military-pthw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Aziz Taher/Reuters</media:credit>
+      <media:description>Israel has carried out a series of attacks on Hezbollah targets in recent days, raising concern in the Biden administration that retaliatory strikes by the group or Iran could endanger U.S. troops in the region.</media:description>
+    </item>
+    <item>
       <title>A South Korean Olympian Gets to Play an Assassin, but Some Before Her Have Flopped</title>
       <link>https://www.nytimes.com/2024/09/23/sports/kim-ye-ji-korea-olympics-shooter-acting.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/09/23/sports/kim-ye-ji-korea-olympics-shooter-acting.html</guid>
@@ -480,7 +499,7 @@
       <atom:link href="https://www.nytimes.com/2024/09/23/us/politics/us-china-research-military.html" rel="standout"></atom:link>
       <description>A congressional report argues that Beijing has exploited ties with American universities to advance technologically, and that further guardrails are needed.</description>
       <dc:creator>Ana Swanson</dc:creator>
-      <pubDate>Mon, 23 Sep 2024 09:03:08 +0000</pubDate>
+      <pubDate>Mon, 23 Sep 2024 19:12:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
@@ -1134,33 +1153,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/13/multimedia/00CLI-SLUDGE-FOOD-hfqc/00CLI-SLUDGE-FOOD-hfqc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Greta Rybus for The New York Times</media:credit>
       <media:description>PFAS-contaminated beef from a farm in Maine. </media:description>
-    </item>
-    <item>
-      <title>Did PFAS From Sewage Sludge Poison a Family Farm?</title>
-      <link>https://www.nytimes.com/2024/09/21/climate/farm-pfas-meat-poison-sewage-sludge.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/21/climate/farm-pfas-meat-poison-sewage-sludge.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/21/climate/farm-pfas-meat-poison-sewage-sludge.html" rel="standout"></atom:link>
-      <description>Pastures were fertilized with toxic sewage decades ago. Nobody knew, until the cows’ milk was tested.</description>
-      <dc:creator>Hiroko Tabuchi</dc:creator>
-      <pubDate>Sat, 21 Sep 2024 11:24:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">PFAS (Per- and Polyfluoroalkyl Substances)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beef</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dairy Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Livestock</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sewers and Sewage</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fertilizer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Hampshire</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/11/multimedia/00CLI-SLUDGE-FAMILY-promo-wqgv/00CLI-SLUDGE-FAMILY-promo-wqgv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Greta Rybus for The New York Times</media:credit>
     </item>
   </channel>
 </rss>
