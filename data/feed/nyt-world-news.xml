@@ -7,21 +7,21 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 25 Sep 2024 14:12:41 +0000</lastBuildDate>
-    <pubDate>Wed, 25 Sep 2024 14:11:30 +0000</pubDate>
+    <lastBuildDate>Wed, 25 Sep 2024 14:45:03 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Sep 2024 14:35:53 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
-      <title>Live Updates: Israel Intercepts First Hezbollah Missile Aimed at Tel Aviv</title>
+      <title>Live Updates: Hezbollah Fires Missile at Tel Aviv in Show of Defiance</title>
       <link>https://www.nytimes.com/live/2024/09/25/world/israel-gaza-hamas-hezbollah</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2024/09/25/world/israel-gaza-hamas-hezbollah</guid>
       <atom:link href="https://www.nytimes.com/live/2024/09/25/world/israel-gaza-hamas-hezbollah" rel="standout"></atom:link>
-      <description>No damage was reported from the missile, but it was a sign of defiance from the Lebanese militia after a week of withering Israeli attacks. Half a million people are displaced in Lebanon, the foreign minister said.</description>
+      <description>The missile was shot down by air defenses and did no damage, but it was a sign of its reach even after days of strikes. At least 51 people were killed and 223 wounded since Wednesday morning, the Lebanese health minister said.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 25 Sep 2024 14:11:05 +0000</pubDate>
+      <pubDate>Wed, 25 Sep 2024 14:35:53 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/25/multimedia/25mideast-promo-9amET-whqc/25mideast-promo-9amET-whqc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Baz Ratner/Associated Press</media:credit>
     </item>
@@ -46,7 +46,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/09/25/world/united-nations-zelensky-speeches" rel="standout"></atom:link>
       <description>To reverse Russia’s steady battlefield advances, the Ukrainian leader needs the support of Western allies whose attention is also demanded by other wars.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 25 Sep 2024 14:11:30 +0000</pubDate>
+      <pubDate>Wed, 25 Sep 2024 14:26:25 +0000</pubDate>
       <media:content height="8" medium="image" url="https://static01.nyt.com/images/2024/09/25/multimedia/25unga-live-promo-fhcj/25unga-live-promo-fhcj-mediumSquareAt3X.jpg" width="8"></media:content>
       <media:credit>Graham Dickie/The New York Times</media:credit>
     </item>
@@ -365,15 +365,15 @@
       <description>The Russian novelist, a compulsive gambler, lost everything in the opulent spa and gambling towns of Baden-Baden, Bad Homburg and Wiesbaden. An admirer of his books follows his footsteps.</description>
       <dc:creator>Charly Wilder</dc:creator>
       <pubDate>Wed, 25 Sep 2024 09:00:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Spas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Casinos</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dostoyevsky, Fyodor</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baden-Baden (Germany)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Casinos</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wiesbaden, Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bad Homburg, Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wiesbaden (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bad Homburg (Germany)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/17/multimedia/00Dostoyevsky-hmgq/00Dostoyevsky-hmgq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Felix Schmitt for The New York Times</media:credit>
       <media:description>The casino in the Kurhaus at Baden-Baden, one of three spa towns where the 19th-century Russian novelist, Fyodor Dostoyevsky, gambled his money away.</media:description>
@@ -438,18 +438,16 @@
       <atom:link href="https://www.nytimes.com/2024/09/24/world/middleeast/israel-hezbollah-lebanon.html" rel="standout"></atom:link>
       <description>Israel said it was striking Hezbollah targets with “high intensity” to keep the campaign as short as possible, as the Lebanese militants maintained their own cross-border barrage.</description>
       <dc:creator>Euan Ward, Ben Hubbard, Aaron Boxerman and Michael Levenson</dc:creator>
-      <pubDate>Tue, 24 Sep 2024 22:50:00 +0000</pubDate>
+      <pubDate>Wed, 25 Sep 2024 14:33:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Assembly (UN)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abdullah II, King of Jordan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Danon, Danny (1971- )</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/24/multimedia/24mideast-crisisi-leadall-01-bmpg/24mideast-crisisi-leadall-01-bmpg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hassan Ammar/Associated Press</media:credit>
       <media:description>Lebanese army and emergency workers at the scene of an Israeli airstrike in Beirut’s southern suburbs on Tuesday.</media:description>
@@ -735,13 +733,12 @@
       <pubDate>Tue, 24 Sep 2024 20:27:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Assembly (UN)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/24/multimedia/24dc-prexy-mpzw/24dc-prexy-mpzw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Haiyun Jiang for The New York Times</media:credit>
       <media:description>President Joe Biden’s address to the United Nations General Assembly on Tuesday combined personal touches with policy imperatives and an impassioned defense of democracy. </media:description>
