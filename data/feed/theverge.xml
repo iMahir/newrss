@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>The Verge -  All Posts</title>
   <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
-  <updated>2024-09-27T16:58:38-04:00</updated>
+  <updated>2024-09-27T17:37:11-04:00</updated>
   <id>https://www.theverge.com/rss/full.xml</id>
   <link type="text/html" href="https://www.theverge.com/" rel="alternate"/>
+  <entry>
+    <published>2024-09-27T17:37:11-04:00</published>
+    <updated>2024-09-27T17:37:11-04:00</updated>
+    <title>Arc Browser adds security bulletins and bug bounties</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Grayscale Arc logo on pink and blue background." src="https://cdn.vox-cdn.com/thumbor/whZJ4izWTIKVp_VXfhJ0rEiXc8I=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73616361/STK283_ARC_BROWSER_B.0.jpg" /&gt;
+        &lt;figcaption&gt;Illustration: Cath Virginia / The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="ZrPN4n"&gt;Arc creator The Browser Company has officially &lt;a href="https://arc.net/blog/investing-in-security"&gt;started a bug bounty program&lt;/a&gt; to keep its growing Chromium-based browser’s security in check. The company is also launching a new security bulletin to maintain “transparent and proactive communication” with users and researchers on bug fixes and reports.&lt;/p&gt;
+&lt;p id="PIfrxr"&gt;These security revisions followed &lt;a href="https://www.theverge.com/2024/9/20/24249919/arc-browser-boost-firebase-vulnerability-patched"&gt;a devastating bug&lt;/a&gt; a researcher found and reported to the company that would’ve allowed bad actors could insert arbitrary code into anyone’s browser just by knowing their easily findable user ID. &lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="gvYCaE"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"Arc creator Josh Miller on why you need a better browser than Chrome","url":"https://www.theverge.com/24247369/the-browser-company-ceo-josh-miller-arc-google-chrome-ai-search-web-decoder-interview"},{"title":"The Arc browser arrives on Windows to take on Chrome and Edge","url":"https://www.theverge.com/2024/4/30/24144183/arc-browser-windows-launch-features-availability"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="wmee4l"&gt;The problem lived inside the Arc Boosts feature that lets you customize any website with CSS and Javascript. On top of its initial mitigations, the company says it now has disabled Boosts with Javascript by default...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2024/9/27/24256271/arc-browser-bug-bounty-security-bulletin"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/9/27/24256271/arc-browser-bug-bounty-security-bulletin"/>
+    <id>https://www.theverge.com/2024/9/27/24256271/arc-browser-bug-bounty-security-bulletin</id>
+    <author>
+      <name>Umar Shakir</name>
+    </author>
+  </entry>
   <entry>
     <published>2024-09-27T16:58:38-04:00</published>
     <updated>2024-09-27T16:58:38-04:00</updated>
@@ -246,31 +272,6 @@
     <id>https://www.theverge.com/2024/9/27/24256070/nintendo-museum-kyoto-tour-shigeru-miyamoto</id>
     <author>
       <name>Andrew Webster</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-09-27T13:00:00-04:00</published>
-    <updated>2024-09-27T13:00:00-04:00</updated>
-    <title>Microsoft’s more secure Windows Recall feature can also be uninstalled by users</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="Illustration of Windows Recall" src="https://cdn.vox-cdn.com/thumbor/dMhpZ_8ufYqwDkmAW0QW7moD5TE=/0x0:1320x880/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73615662/windowsrecall.0.jpg" /&gt;
-        &lt;figcaption&gt;Image: Microsoft&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="uYC6Xq"&gt;In response to security concerns, Microsoft is detailing how it has overhauled its controversial AI-powered Recall feature that creates screenshots of mostly everything you see or do on a computer. Recall was originally supposed to debut with &lt;a href="https://www.theverge.com/2024/5/20/24160486/microsoft-copilot-plus-ai-arm-chips-pc-surface-event"&gt;Copilot Plus PCs&lt;/a&gt; in June, but Microsoft has spent the past few months reworking the security behind it to make it an opt-in experience that you can now fully remove from Windows if you want.&lt;/p&gt;
-&lt;p id="K4P5J2"&gt;“I’m actually really excited about how nerdy we got on the security architecture,” says David Weston, vice president of enterprise and OS security at Microsoft, in an interview with &lt;em&gt;The Verge&lt;/em&gt;. “I’m excited because I think the security community is going to get how much we’ve pushed [into Recall].”&lt;/p&gt;
-&lt;p id="XmRxS0"&gt;One of...&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2024/9/27/24255721/microsoft-windows-recall-ai-security-improvements-overhaul-uninstall"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/9/27/24255721/microsoft-windows-recall-ai-security-improvements-overhaul-uninstall"/>
-    <id>https://www.theverge.com/2024/9/27/24255721/microsoft-windows-recall-ai-security-improvements-overhaul-uninstall</id>
-    <author>
-      <name>Tom Warren</name>
     </author>
   </entry>
 </feed>
