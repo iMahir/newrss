@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 27 Sep 2024 12:54:29 +0000</lastBuildDate>
-    <pubDate>Fri, 27 Sep 2024 12:46:09 +0000</pubDate>
+    <lastBuildDate>Fri, 27 Sep 2024 13:24:34 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Sep 2024 13:23:08 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/09/27/world/israel-lebanon-hezbollah-hamas" rel="standout"></atom:link>
       <description>World leaders are urging a pause in fighting between Israel and Hezbollah in Lebanon. Israel’s prime minister, who will speak Friday at the U.N. General Assembly, has given mixed signals.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 27 Sep 2024 12:46:09 +0000</pubDate>
+      <pubDate>Fri, 27 Sep 2024 13:04:18 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/27/multimedia/27mideast-crisis-promo-8amET-qwjl/27mideast-crisis-promo-8amET-qwjl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ayal Margolin/Reuters</media:credit>
     </item>
@@ -32,7 +32,7 @@
       <atom:link href="https://www.nytimes.com/2024/09/27/world/middleeast/bekaa-valley-lebanon-hezbollah.html" rel="standout"></atom:link>
       <description>The Bekaa Valley, a Hezbollah bastion in eastern Lebanon, had mostly been spared over 11 months of war. But The New York Times saw widespread devastation there after intense Israeli airstrikes this week.</description>
       <dc:creator>Christina Goldbaum, Hwaida Saad and Diego Ibarra Sanchez</dc:creator>
-      <pubDate>Fri, 27 Sep 2024 09:09:54 +0000</pubDate>
+      <pubDate>Fri, 27 Sep 2024 13:18:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bekaa Valley (Lebanon)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
@@ -154,7 +154,7 @@
       <atom:link href="https://www.nytimes.com/2024/09/27/world/europe/pope-francis-belgium-sex-abuse.html" rel="standout"></atom:link>
       <description>During a trip to Luxembourg and Belgium, Francis will spend an hour meeting with 15 people who were abused by Roman Catholic clergy. Survivors say it is not enough.</description>
       <dc:creator>Jenny Gross and Emma Bubola</dc:creator>
-      <pubDate>Fri, 27 Sep 2024 09:40:52 +0000</pubDate>
+      <pubDate>Fri, 27 Sep 2024 12:55:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
@@ -212,15 +212,13 @@
       <dc:creator>Marc Santora and Nicole Tung</dc:creator>
       <pubDate>Thu, 26 Sep 2024 15:52:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chasiv Yar (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vuhledar (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2024/09/24/multimedia/24Ukraine-Eastern-Front-promo/24Ukraine-Eastern-Front-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -249,12 +247,15 @@
       <dc:creator>Zia ur-Rehman</dc:creator>
       <pubDate>Thu, 26 Sep 2024 15:42:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blasphemy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lynching</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blasphemy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capital Punishment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vigilantes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lynching</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
       <media:content height="1496" medium="image" url="https://static01.nyt.com/images/2024/09/25/multimedia/25pakistan-blasphemy-01-qpbw/25pakistan-blasphemy-01-qpbw-mediumSquareAt3X.jpg" width="1496"></media:content>
       <media:credit>Allah Bux/Associated Press</media:credit>
       <media:description>From left, the mother, wife and daughter of Shah Nawaz. The family has accused the police in southern Pakistan of killing Mr. Nawaz, a doctor who was accused of blasphemy.</media:description>
@@ -550,10 +551,14 @@
       <description>Israel said the goal of its strikes on Hezbollah was to allow residents of the north to go home. Some are hopeful that plan will work, but others worry that war may not bring safety.</description>
       <dc:creator>Adam Rasgon and Gabby Sobelman</dc:creator>
       <pubDate>Thu, 26 Sep 2024 09:03:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/26/multimedia/26israel-north-01-fgjh/26israel-north-01-fgjh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Avishag Shaar-Yashuv for The New York Times</media:credit>
       <media:description>Orly Gavishi-Sotto and her daughters have shuttled among temporary living arrangements since leaving her hometown near the border with Lebanon.</media:description>
