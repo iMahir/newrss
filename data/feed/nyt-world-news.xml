@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?cacheBuster=1727647673858" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 29 Sep 2024 21:45:01 +0000</lastBuildDate>
-    <pubDate>Sun, 29 Sep 2024 21:34:04 +0000</pubDate>
+    <lastBuildDate>Sun, 29 Sep 2024 22:07:54 +0000</lastBuildDate>
+    <pubDate>Sun, 29 Sep 2024 22:04:51 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -60,7 +60,7 @@
       <media:description>McGill University students on the campus grounds in downtown Montreal. </media:description>
     </item>
     <item>
-      <title>Austria’s Far Right Awaits Its Biggest Success</title>
+      <title>As Austrians Vote, Far Right Awaits Its Biggest Success</title>
       <link>https://www.nytimes.com/2024/09/29/world/europe/austria-election-freedom-party-kickl.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/09/29/world/europe/austria-election-freedom-party-kickl.html</guid>
       <atom:link href="https://www.nytimes.com/2024/09/29/world/europe/austria-election-freedom-party-kickl.html" rel="standout"></atom:link>
@@ -126,7 +126,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/09/29/world/israel-hezbollah-lebanon-nasrallah" rel="standout"></atom:link>
       <description>The Israeli military said it had struck the Yemeni port city of Hodeidah in response to recent attacks by the Iranian-backed Houthis against Israel.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 29 Sep 2024 21:34:04 +0000</pubDate>
+      <pubDate>Sun, 29 Sep 2024 22:02:06 +0000</pubDate>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/29/multimedia/29mideast-crisis-promo-5pm-jvkt/29mideast-crisis-promo-5pm-jvkt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Avishag Shaar-Yashuv for The New York Times</media:credit>
     </item>
@@ -330,6 +330,49 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/03/multimedia/00skorea-profile-park-phqv/00skorea-profile-park-phqv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Woohae Cho for The New York Times</media:credit>
       <media:description>“Whenever I visited the North, I knew my life was on the line,” said Park Chae-so, a South Korean spy who met with the then-leader of North Korea, Kim Jong-il.</media:description>
+    </item>
+    <item>
+      <title>Israel Targets Hezbollah in Lebanon, the Houthis in Yemen and Hamas in Gaza</title>
+      <link>https://www.nytimes.com/2024/09/29/world/middleeast/israel-lebanon-yemen-gaza.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/29/world/middleeast/israel-lebanon-yemen-gaza.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/29/world/middleeast/israel-lebanon-yemen-gaza.html" rel="standout"></atom:link>
+      <description>The escalation of violence between Israel and its Iran-backed proxies across the Middle East threatened to bring the combatants closer to a regional war.</description>
+      <dc:creator>Christopher Maag, Euan Ward and Adam Rasgon</dc:creator>
+      <pubDate>Sun, 29 Sep 2024 22:04:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasrallah, Hassan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Saar, Gideon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/29/multimedia/29mideast-ledeall-bqzl/29mideast-ledeall-bqzl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Avishag Shaar-Yashuv for The New York Times</media:credit>
+      <media:description>Israeli military forces in northern Israel, near Kiryat Shmona, on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Austria’s Far Right Wins Election but May Fall Short of Forming a Government</title>
+      <link>https://www.nytimes.com/2024/09/29/world/europe/far-right-austria-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/29/world/europe/far-right-austria-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/29/world/europe/far-right-austria-election.html" rel="standout"></atom:link>
+      <description>The Freedom Party got nearly 30 percent of the national vote, but mainstream parties have vowed to join in a coalition government without the party’s pugilistic leader, Herbert Kickl.</description>
+      <dc:creator>Christopher F. Schuetze</dc:creator>
+      <pubDate>Sun, 29 Sep 2024 22:01:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kickl, Herbert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nehammer, Karl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Austrian People&#39;s Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Freedom Party of Austria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Austria</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/29/multimedia/29austria-election-results-fztc/29austria-election-results-fztc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Filip Singer/EPA, via Shutterstock</media:credit>
+      <media:description>Herbert Kickl, center left, leader of the Freedom Party of Austria, on Sunday in Vienna, where he said he has a clear mandate to form a government.</media:description>
     </item>
     <item>
       <title>Monday Briefing: The Aftermath of Nasrallah’s Death</title>
@@ -1169,35 +1212,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/27/multimedia/27ozletter-blqh/27ozletter-blqh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mark Metcalfe/AFL Photos, via Getty Images</media:credit>
       <media:description>The GWS Giants, in orange, playing the Brisbane Lions in the A.F.L. semifinals earlier this month. Brisbane will play the Sydney Swans in the final. </media:description>
-    </item>
-    <item>
-      <title>Myanmar’s Military Asks Rebels to Stop Fighting and Join in Elections</title>
-      <link>https://www.nytimes.com/2024/09/27/world/asia/myanmar-military.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/27/world/asia/myanmar-military.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/27/world/asia/myanmar-military.html" rel="standout"></atom:link>
-      <description>Though the offer was quickly rejected by several commanders of the opposition forces, it was still seen as a significant development in the three-year civil war.</description>
-      <dc:creator>Sui-Lee Wee</dc:creator>
-      <pubDate>Sat, 28 Sep 2024 01:09:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/09/27/multimedia/27myanmar-01-lwhm/27myanmar-01-lwhm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>Myanmar’s junta chief military leader, Min Aung Hlaing, during a ceremony in Naypyidaw to mark the country’s Armed Forces Day in March.</media:description>
-    </item>
-    <item>
-      <title>Friday Briefing: Mayor’s Adams’s Arraignment</title>
-      <link>https://www.nytimes.com/2024/09/27/briefing/mayor-eric-adams-israel-hezbollah-us-election.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/27/briefing/mayor-eric-adams-israel-hezbollah-us-election.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/27/briefing/mayor-eric-adams-israel-hezbollah-us-election.html" rel="standout"></atom:link>
-      <description>Plus, control behind K-pop goes public.</description>
-      <dc:creator>Justin Porter</dc:creator>
-      <pubDate>Fri, 27 Sep 2024 04:08:28 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/26/multimedia/27ambriefing-europe-adams/26adams-indictment-carousel-jthq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Karsten Moran for The New York Times</media:credit>
-      <media:description>Mayor Adams speaking yesterday.</media:description>
     </item>
   </channel>
 </rss>
