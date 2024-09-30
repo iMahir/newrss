@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?cacheBuster=1727689523197" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 30 Sep 2024 09:45:23 +0000</lastBuildDate>
-    <pubDate>Mon, 30 Sep 2024 09:06:19 +0000</pubDate>
+    <lastBuildDate>Mon, 30 Sep 2024 10:13:01 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Sep 2024 10:04:23 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -333,13 +333,52 @@
       <media:description>“Whenever I visited the North, I knew my life was on the line,” said Park Chae-so, a South Korean spy who met with the then-leader of North Korea, Kim Jong-il.</media:description>
     </item>
     <item>
+      <title>Facing a Big Test, Iran’s ‘Axis of Resistance’ Flails</title>
+      <link>https://www.nytimes.com/2024/09/30/world/middleeast/iran-axis-of-resistance.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/30/world/middleeast/iran-axis-of-resistance.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/30/world/middleeast/iran-axis-of-resistance.html" rel="standout"></atom:link>
+      <description>Iran united militias to take on Israel, but as the Israelis pummel one, Hezbollah, the rest have so far largely failed to come to its aid.</description>
+      <dc:creator>Ben Hubbard and Alissa J. Rubin</dc:creator>
+      <pubDate>Mon, 30 Sep 2024 09:51:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasrallah, Hassan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/30/multimedia/30mideast-axis01-htpf/30mideast-axis01-htpf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>After the killing of the Hezbollah leader Hassan Nasrallah, Tehran has put his image on billboards. But it has not retaliated directly.</media:description>
+    </item>
+    <item>
+      <title>Senior Officer Gets 3 Years Over South Korea Crowd Crush</title>
+      <link>https://www.nytimes.com/2024/09/30/world/asia/skorea-itaewon-police-chief-convicted.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/30/world/asia/skorea-itaewon-police-chief-convicted.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/30/world/asia/skorea-itaewon-police-chief-convicted.html" rel="standout"></atom:link>
+      <description>Lee Im-jae, a former district chief, is the most senior official to be convicted in connection with the 2022 disaster that killed nearly 160 Halloween partygoers.</description>
+      <dc:creator>Choe Sang-Hun</dc:creator>
+      <pubDate>Mon, 30 Sep 2024 09:49:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seoul Halloween Stampede (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/30/multimedia/30skorea-crowdcrush-ctqf/30skorea-crowdcrush-ctqf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Yonhap/EPA, via Shutterstock</media:credit>
+      <media:description>Lee Im-jae was the chief of police in Yongsan District, the area in central Seoul where the disaster happened.</media:description>
+    </item>
+    <item>
       <title>Dockworkers Strike at U.S. Ports Could Begin Tuesday</title>
       <link>https://www.nytimes.com/2024/09/30/business/port-strike-dockworkers.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/09/30/business/port-strike-dockworkers.html</guid>
       <atom:link href="https://www.nytimes.com/2024/09/30/business/port-strike-dockworkers.html" rel="standout"></atom:link>
       <description>Members of the International Longshoremen’s Association could walk off the job, halting most shipments at East and Gulf Coast ports and rattling the U.S. economy.</description>
       <dc:creator>Peter Eavis</dc:creator>
-      <pubDate>Mon, 30 Sep 2024 09:06:19 +0000</pubDate>
+      <pubDate>Mon, 30 Sep 2024 10:04:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ports</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Strikes</category>
@@ -1166,46 +1205,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/09/27/multimedia/27uk-bronte-01-kptw/27uk-bronte-01-kptw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Aaron Chown/Press Association, via Associated Press</media:credit>
       <media:description>A conservator adding the finishing touches to the Brontë sisters’ plaque at Poets’ Corner in Westminster Abbey in London on Thursday.</media:description>
-    </item>
-    <item>
-      <title>Israel Likely to Have Enough Weapons for Multiple Conflicts</title>
-      <link>https://www.nytimes.com/2024/09/27/world/middleeast/israel-weapons-stockpiles.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/27/world/middleeast/israel-weapons-stockpiles.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/27/world/middleeast/israel-weapons-stockpiles.html" rel="standout"></atom:link>
-      <description>Although Israel, like many countries, is highly secretive about its weapons stockpiles, experts believe it could outlast adversaries in offensives on at least two fronts simultaneously.</description>
-      <dc:creator>Lara Jakes</dc:creator>
-      <pubDate>Fri, 27 Sep 2024 15:56:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/26/multimedia/26mideast-crisis-israel-arsenal-assess-kqtb/26mideast-crisis-israel-arsenal-assess-kqtb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Aziz Taher/Reuters</media:credit>
-      <media:description>Smoke rising over southern Lebanon after Israeli strikes on Monday.</media:description>
-    </item>
-    <item>
-      <title>The Sudden Appeal of the Bulldog Spirit</title>
-      <link>https://www.nytimes.com/2024/09/27/world/europe/atletico-real-madrid-derby.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/27/world/europe/atletico-real-madrid-derby.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/27/world/europe/atletico-real-madrid-derby.html" rel="standout"></atom:link>
-      <description>Such is the hold the Premier League has on the popular consciousness that enticing a player away from it is seen as a coup.</description>
-      <dc:creator>Rory Smith</dc:creator>
-      <pubDate>Fri, 27 Sep 2024 14:49:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Atletico Madrid (Soccer Team)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Real Madrid (Soccer Team)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">English Premier League</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bellingham, Jude (2003- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gallagher, Conor (2000- )</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/27/multimedia/27rory-gallagher-vzcg/27rory-gallagher-vzcg-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Violeta Santos Moura/Reuters</media:credit>
-      <media:description>Atlético Madrid’s new English prize, Conor Gallagher.</media:description>
     </item>
   </channel>
 </rss>
