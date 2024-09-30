@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.26904922651236074" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 30 Sep 2024 02:35:16 +0000</lastBuildDate>
-    <pubDate>Mon, 30 Sep 2024 02:27:40 +0000</pubDate>
+    <lastBuildDate>Mon, 30 Sep 2024 03:15:13 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Sep 2024 03:09:17 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -87,7 +87,7 @@
       <atom:link href="https://www.nytimes.com/2024/09/29/world/middleeast/netanyahu-israel-mideast.html" rel="standout"></atom:link>
       <description>Israel’s strike on Hassan Nasrallah was the culmination of several startling moves that suggest the Israeli prime minister feels unconstrained by foreign criticism.</description>
       <dc:creator>Patrick Kingsley</dc:creator>
-      <pubDate>Sun, 29 Sep 2024 17:31:05 +0000</pubDate>
+      <pubDate>Sun, 29 Sep 2024 17:31:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasrallah, Hassan</category>
@@ -126,7 +126,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/09/29/world/israel-hezbollah-lebanon-nasrallah" rel="standout"></atom:link>
       <description>The Israeli military said it had struck the Yemeni port city of Hodeidah in response to recent attacks by the Iranian-backed Houthis against Israel.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 30 Sep 2024 02:25:26 +0000</pubDate>
+      <pubDate>Mon, 30 Sep 2024 02:45:01 +0000</pubDate>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/29/multimedia/29mideast-crisis-promo-5pm-jvkt/29mideast-crisis-promo-5pm-jvkt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Avishag Shaar-Yashuv for The New York Times</media:credit>
     </item>
@@ -137,7 +137,7 @@
       <atom:link href="https://www.nytimes.com/2024/09/29/world/middleeast/middle-east-war-peace-nasrallah.html" rel="standout"></atom:link>
       <description>The United States’ ability to influence events in the Mideast has waned, and other major nations have essentially been onlookers.</description>
       <dc:creator>Roger Cohen</dc:creator>
-      <pubDate>Sun, 29 Sep 2024 17:54:02 +0000</pubDate>
+      <pubDate>Sun, 29 Sep 2024 17:54:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
@@ -333,13 +333,32 @@
       <media:description>“Whenever I visited the North, I knew my life was on the line,” said Park Chae-so, a South Korean spy who met with the then-leader of North Korea, Kim Jong-il.</media:description>
     </item>
     <item>
+      <title>A Strike in Central Beirut Damages a Building</title>
+      <link>https://www.nytimes.com/2024/09/29/world/middleeast/lebanon-beirut-strike-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/29/world/middleeast/lebanon-beirut-strike-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/29/world/middleeast/lebanon-beirut-strike-israel.html" rel="standout"></atom:link>
+      <description>If the explosion is confirmed to be an Israeli attack, it would be the first Israeli strike within the Lebanese capital since the 2006 war with Hezbollah.</description>
+      <dc:creator>Mike Ives</dc:creator>
+      <pubDate>Mon, 30 Sep 2024 02:57:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Popular Front for the Liberation of Palestine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/10/29/multimedia/29xp-beirut-mhzf/29xp-beirut-mhzf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Fadel Itani/Agence France-Presse — Getty Images</media:credit>
+    </item>
+    <item>
       <title>Israel Targets Hezbollah in Lebanon, the Houthis in Yemen and Hamas in Gaza</title>
       <link>https://www.nytimes.com/2024/09/29/world/middleeast/israel-lebanon-yemen-gaza.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/09/29/world/middleeast/israel-lebanon-yemen-gaza.html</guid>
       <atom:link href="https://www.nytimes.com/2024/09/29/world/middleeast/israel-lebanon-yemen-gaza.html" rel="standout"></atom:link>
-      <description>The escalation of violence between Israel and its Iran-backed proxies across the Middle East threatened to bring the combatants closer to an all-out regional war.</description>
+      <description>The escalation of violence between Israel and Iran-backed proxies across the Middle East threatened to bring the combatants closer to an all-out regional war.</description>
       <dc:creator>Christopher Maag, Euan Ward and Adam Rasgon</dc:creator>
-      <pubDate>Mon, 30 Sep 2024 02:25:40 +0000</pubDate>
+      <pubDate>Mon, 30 Sep 2024 03:09:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
@@ -1178,41 +1197,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/27/multimedia/27lebanon-dispatch-09-vjmz-copy/27lebanon-dispatch-09-vjmz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
       <media:description>A man surveys the destruction left by an Israeli airstrike in Baalbek, Lebanon, on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Shigeru Ishiba to Be Next Prime Minister of Japan</title>
-      <link>https://www.nytimes.com/2024/09/27/world/asia/japan-new-prime-minister-shigeru-ishiba.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/27/world/asia/japan-new-prime-minister-shigeru-ishiba.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/27/world/asia/japan-new-prime-minister-shigeru-ishiba.html" rel="standout"></atom:link>
-      <description>Shigeru Ishiba, a former defense minister known for his plainspoken opinions, will replace Fumio Kishida next week.</description>
-      <dc:creator>Motoko Rich and Hisako Ueno</dc:creator>
-      <pubDate>Fri, 27 Sep 2024 09:58:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ishiba, Shigeru</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Takaichi, Sanae</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Liberal Democratic Party (Japan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/27/multimedia/27japan-election-jhqc/27japan-election-jhqc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Hiro Komae</media:credit>
-      <media:description>Shigeru Ishiba after he was selected as the new head of the Liberal Democratic Party in Tokyo on Friday.</media:description>
-    </item>
-    <item>
-      <title>A ‘Super Bowl’ Holiday</title>
-      <link>https://www.nytimes.com/2024/09/27/world/australia/afl-grand-final.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/27/world/australia/afl-grand-final.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/27/world/australia/afl-grand-final.html" rel="standout"></atom:link>
-      <description>In the state of Victoria, you need more than one day to take in all that the A.F.L. Grand Final has to offer.</description>
-      <dc:creator>Julia Bergin</dc:creator>
-      <pubDate>Fri, 27 Sep 2024 06:18:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Australian Football League</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cox, Mason (1991- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Australian Football</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holidays and Special Occasions</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/27/multimedia/27ozletter-blqh/27ozletter-blqh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Mark Metcalfe/AFL Photos, via Getty Images</media:credit>
-      <media:description>The GWS Giants, in orange, playing the Brisbane Lions in the A.F.L. semifinals earlier this month. Brisbane will play the Sydney Swans in the final. </media:description>
     </item>
   </channel>
 </rss>
