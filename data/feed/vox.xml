@@ -6,7 +6,7 @@
 	<title type="text">Vox</title>
 	<subtitle type="text"></subtitle>
 
-	<updated>2024-10-01T14:15:05Z</updated>
+	<updated>2024-10-01T14:43:24Z</updated>
 
 	<link rel="alternate" type="text/html" href="https://www.vox.com" />
 	<id>https://www.vox.com/rss/index.xml</id>
@@ -14,6 +14,88 @@
 
 	<icon>https://platform.vox.com/wp-content/uploads/sites/2/2024/08/vox_logo_rss_light_mode.png?w=150&amp;h=100&amp;crop=1</icon>
 		<entry>
+			
+			<author>
+				<name>Vox Staff</name>
+			</author>
+			
+			<title type="html"><![CDATA[Take a mental break with the newest Vox crossword]]></title>
+			<link rel="alternate" type="text/html" href="https://www.vox.com/21523212/crossword-puzzles-free-daily-printable" />
+			<id>https://www.vox.com/21523212/crossword-puzzles-free-daily-printable</id>
+			<updated>2024-10-01T14:42:00Z</updated>
+			<published>2024-10-01T14:41:58Z</published>
+			<category scheme="https://www.vox.com" term="Crosswords" />
+							<summary type="html"><![CDATA[Welcome to the Vox crossword! New puzzles are published daily, Monday through Saturday, and our moderated comments section is now live. The registration link is below every puzzle so get over there and add your two cents. Puzzle editors, constructors, and other solvers will be on hand to answer your questions and reply to your [&#8230;]]]></summary>
+			
+							<content type="html">
+											<![CDATA[
+
+						
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/18980610/crossword_yellow__1_.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none">Welcome to the Vox crossword! New puzzles are published daily, Monday through Saturday, and our moderated <strong>comments section is now live</strong>. The registration link is below every puzzle so get over there and add your two cents. Puzzle editors, constructors, and other solvers will be on hand to answer your questions and reply to your remarks. You can also register <a href="https://vox.coral.coralproject.net/embed/auth?view=SIGN_UP">right here</a>. Puzzles are constructed by <a href="https://www.vox.com/e/21273241">these great people</a> and edited by <a href="https://www.vox.com/authors/elizabeth-crane">Elizabeth Crane</a>. </p>
+
+<p class="has-text-align-none">Make sure to bookmark this page or <a href="https://www.howtogeek.com/667910/how-to-add-a-website-to-your-iphone-or-ipad-home-screen/">add it to your phone’s home screen</a> to find a new challenge each day. You can also get a weekly email reminder by <a href="http://vox.com/crossword-newsletter">signing up for our crossword newsletter</a>.</p>
+
+<p class="has-text-align-none">Need more puzzles? We have whole <a href="https://www.amazon.com/Vox-Pop-Culture-Crosswords-Puzzles/dp/1454950064">books</a> of <a href="https://www.amazon.com/Vox-Mega-Book-Mini-Crosswords/dp/1454950056/ref=pd_lpo_sccl_2/130-1400015-9235626?pd_rd_w=7UXxb&amp;content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&amp;pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&amp;pf_rd_r=5WNWY0GXSDT6CZQCQ1J7&amp;pd_rd_wg=acUYA&amp;pd_rd_r=79c1a273-f9d1-4614-9fc3-414aad1ccd14&amp;pd_rd_i=1454950056&amp;psc=1">Vox crosswords</a>!</p>
+
+<div class="m-ad m-ad__editorial-athena-placement"></div>
+
+<div id="xword-wrapper">
+<iframe allowfullscreen="true" height="1000" width="375" src="https://cdn3.amuselabs.com/vox/date-picker?set=vox&amp;embed=1&amp;limit=30&amp;maxCols=1"></iframe>
+</div>
+
+var puzzlecontainer = document.getElementById('xword-wrapper');
+var puzzle = document.getElementById('voxpuzzle').contentWindow;
+
+
+function receiveMessage(event) {
+if (event.origin !== "https://cdn3.amuselabs.com") return;
+if (!event.data) return;
+if (typeof event.data !== 'string') return;
+var data = JSON.parse(event.data);
+  if (data.src === "crossword" || data.src === "picker"){
+  puzzlecontainer.style.height = data.frameHeight + 'px';
+}
+}
+window.addEventListener("message", receiveMessage, false);
+
+
+<p><a href="/pages/crossword-puzzles-free-archive" class="p-button">More crossword puzzles</a></p>
+
+<div class="m-ad m-ad__editorial-leaderboard-placement"></div>
+
+<div id="coral_thread"></div>
+
+  (function() {
+      var d = document, s = d.createElement('script');
+      s.src = 'https://vox.coral.coralproject.net/assets/js/embed.js';
+      s.async = false;
+      s.defer = true;
+      s.onload = function() {
+          Coral.createStreamEmbed({
+              id: "coral_thread",
+              autoRender: true,
+              rootURL: 'https://vox.coral.coralproject.net',
+              // Uncomment these lines and replace with the ID of the
+              // story's ID and URL from your CMS to provide the
+              // tightest integration. Refer to our documentation at
+              // https://docs.coralproject.net for all the configuration
+              // options.
+              // storyID: '${storyID}',
+              // storyURL: '${storyURL}',
+          });
+      };
+      (d.head || d.body).appendChild(s);
+  })();
+						]]>
+									</content>
+			
+					</entry>
+			<entry>
 			
 			<author>
 				<name>Kenny Torrella</name>
@@ -456,7 +538,7 @@
 			<title type="html"><![CDATA[The latest on the fallout of Hurricane Helene]]></title>
 			<link rel="alternate" type="text/html" href="https://www.vox.com/climate/374867/hurricane-helene" />
 			<id>https://www.vox.com/?post_type=vm_stream&#038;p=374867</id>
-			<updated>2024-10-01T11:39:48Z</updated>
+			<updated>2024-10-01T14:43:24Z</updated>
 			<published>2024-09-30T19:06:39Z</published>
 			<category scheme="https://www.vox.com" term="Climate" /><category scheme="https://www.vox.com" term="Natural Disasters" />
 							<summary type="html"><![CDATA[Hurricane Helene ruined much of what it encountered in its 500-mile journey across the Southeast US, leaving Florida, Georgia, North Carolina, South Carolina, Tennessee, and Virginia to battle with record storm surge, wind damage, and catastrophic flooding. At least 120 people have been killed across the six states, and millions of homes and businesses are [&#8230;]]]></summary>
@@ -479,13 +561,13 @@
 <p class="has-text-align-none">Follow here for the latest news and updates.</p>
 <ul>
 			<li>
+			<a href="https://www.vox.com/even-better/375075/hurricane-helene-relief-donate-north-carolina-tennessee-florida">What to do — and what to avoid — to help those affected by Hurricane Helene</a>
+		</li>
+			<li>
 			<a href="https://www.vox.com/future-perfect/374940/hurricane-helene-georgia-chicken-poultry-farms">Helene just pummeled America’s chicken farming capital</a>
 		</li>
 			<li>
 			<a href="https://www.vox.com/climate/374794/helene-flooding-hurricane-asheville-carolina">What’s going on in Asheville? The devastating fallout from Hurricane Helene, explained.</a>
-		</li>
-			<li>
-			<a href=""></a>
 		</li>
 			<li>
 			<a href="https://www.vox.com/down-to-earth/374541/hurricane-helene-storm-wind-birds-wildlife">Weather radar showed a strange blue mass in the eye of Hurricane Helene. What was it?</a>
@@ -737,112 +819,6 @@
 <p class="has-text-align-none">We’re essentially out of time for Congress to act before its <a href="https://www.senate.gov/legislative/2024_schedule.htm">preelection October recess</a>, and action may be harder in November and December when we know who the next president will be, and their copartisans may be less willing to support actions to constrain their powers. But the battle will only get harder once a new president takes office and starts proposing tariffs.&nbsp;</p>
 
 <p class="has-text-align-none">The time to act is this year, before that happens and while Congress has an opportunity to reassert its taxing power. The alternative could mean hundreds of billions of dollars’ worth of tax increases issued unilaterally by the president, with Congress unable to stop it.</p>
-						]]>
-									</content>
-			
-					</entry>
-			<entry>
-			
-			<author>
-				<name>Rachel M. Cohen</name>
-			</author>
-			
-			<title type="html"><![CDATA[Abortion groups are raising more money than ever. Where exactly is it going? ]]></title>
-			<link rel="alternate" type="text/html" href="https://www.vox.com/policy/374174/abortion-fundraising-reproductive-rights-election-planned-parenthood-trump-medication" />
-			<id>https://www.vox.com/?p=374174</id>
-			<updated>2024-09-26T19:45:30Z</updated>
-			<published>2024-09-30T10:00:00Z</published>
-			<category scheme="https://www.vox.com" term="Abortion" /><category scheme="https://www.vox.com" term="Policy" /><category scheme="https://www.vox.com" term="Politics" />
-							<summary type="html"><![CDATA[In some ways, there have never been more dollars flowing into abortion rights organizing, with philanthropies finally stepping up and more Americans activated over freedoms they previously doubted were really at stake. With hundreds of candidates vying for office and abortion rights on the ballot in 10 states, advocates have been busy raising money to [&#8230;]]]></summary>
-			
-							<content type="html">
-											<![CDATA[
-
-						
-<figure>
-
-<img alt="A woman in a Roe, Roe, Roe t-shirt speaks at a lectern bearing the words “Fighting for Reproductive Freedom.”" data-caption="Activist Hadley Duvall, 22, speaks at a Harris-Walz Fighting for Reproductive Freedom press conference at the Pennsylvania State Capitol in Harrisburg, Pennsylvania, on September 18, 2024. | &lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif;&quot;&gt;Nathan Morris/NurPhoto via Getty Images&lt;/span&gt;" data-portal-copyright="&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif;&quot;&gt;Nathan Morris/NurPhoto via Getty Images&lt;/span&gt;" data-has-syndication-rights="1" src="https://platform.vox.com/wp-content/uploads/sites/2/2024/09/gettyimages-2172092176.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
-	<figcaption>Activist Hadley Duvall, 22, speaks at a Harris-Walz Fighting for Reproductive Freedom press conference at the Pennsylvania State Capitol in Harrisburg, Pennsylvania, on September 18, 2024. | &lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif;&quot;&gt;Nathan Morris/NurPhoto via Getty Images&lt;/span&gt;</figcaption>
-</figure>
-<p class="has-text-align-none">In some ways, there have never been more dollars flowing into abortion rights organizing, with philanthropies <a href="https://www.vox.com/2022/5/18/23074733/abortion-philanthropy-foundations-funds">finally stepping up</a> and more Americans activated over freedoms <a href="https://perryundem.com/wp-content/uploads/2022/02/PerryUndem-Abortion-Public-Opinion-Survey-2022.pdf">they previously doubted</a> were really at stake. With hundreds of candidates vying for office and abortion rights on the ballot in <a href="https://time.com/7018665/abortion-ballot-measures-2024/">10 states</a>, advocates have been busy raising money to spend through November. In June, the ACLU pledged more than <a href="https://www.aclu.org/press-releases/aclu-launches-2024-election-push-to-protect-abortion-and-voting-rights">$25 million</a> to protect abortion rights; this was followed by <a href="https://apnews.com/article/planned-parenthood-spending-45-million-2024-election-a6b9252fec64d1e051816ea173dab32f">$40 million weeks later</a> from Planned Parenthood, then another <a href="https://www.politico.com/news/2024/06/24/abortion-rights-advocates-launch-100-million-campaign-00164528">$100 million</a> from a new coalition of national groups.&nbsp;</p>
-
-<p class="has-text-align-none">But even as money flows toward protecting abortion rights, the financial burden of accessing abortion services has grown more severe, as bans force people to travel further and delay procedures until they are riskier and more expensive.&nbsp;</p>
-
-<p class="has-text-align-none">This strain is overwhelming the nation’s 100 <a href="https://abortionfunds.org/">abortion funds</a>, which are mostly volunteer-led organizations that help people end unwanted pregnancies by paying for their abortions as well as practical support like travel costs —&nbsp;and the tab for this kind of aid quickly adds up.&nbsp;</p>
-
-<p class="has-text-align-none">Though cheaper methods to safely end a pregnancy <a href="https://www.vox.com/policy/2023/12/27/24015092/abortion-pills-mifepristone-roe-reproductive-misoprostol">have emerged over the past two years</a>, many abortion seekers lack knowledge of these new, more affordable options. Funds and clinics also don’t always provide clear guidance on alternatives, driven by a mix of <a href="https://www.plancpills.org/documentary">financial and legal self-interest</a>, as well as a belief that in-person abortion care should be prioritized.&nbsp;</p>
-
-<p class="has-text-align-none">“What we’re seeing is patients are very comfortable embracing telemedicine as an option, but people within our movement have not been as flexible,” said Julie Kay, the co-founder of the <a href="https://www.theactgroup.org/#:~:text=The%20Abortion%20Coalition%20for%20Telemedicine,abortion%20in%20all%2050%20states.">Abortion Coalition for Telemedicine</a>, which formed in 2022 after the Supreme Court overturned <em>Roe </em>v. <em>Wade.&nbsp;</em></p>
-
-<p class="has-text-align-none">This past year, abortion funds say they’re <a href="https://www.huffpost.com/entry/abortion-funds-running-out-money-dobbs_n_667486b4e4b043a634bd9cd2">fighting for their lives</a>, unable to raise enough money to meet demand. A few are fundraising with <a href="https://newrepublic.com/article/186128/abortion-fund-money-dobbs-election" target="_blank" rel="noreferrer noopener">new state-level partners</a>, but increasingly, funds have had to tell callers they’ve run out of resources, leaving people to scramble for other options or carry unwanted pregnancies to term.</p>
-
-<p class="has-text-align-none">In general, all the money flowing to the 2024 election in the name of reproductive rights feels very siloed from their work paying for abortions, said Alisha Dingus, the development director at the <a href="https://dcabortionfund.org/">DC Abortion Fund</a>.&nbsp;</p>
-
-<p class="has-text-align-none">“There is an alarming disconnect between abortion funds … and large national organizations that are advocating for access,” a group of over 30 funds wrote collectively <a href="https://www.thenation.com/article/activism/abortion-funds-movement-crisis/">in the Nation</a> in early August. “The national organizations … fundraise endlessly, siphon support from institutional funders and grassroots donors, capitalize on the <em>Dobbs</em> rage donations, and funnel that money into campaign bank accounts.”</p>
-
-<p class="has-text-align-none">Another challenge is messaging. Abortion funds have always positioned themselves as more radical and unapologetic when it comes to abortion care, priding themselves on avoiding stigmatizing language, whether that’s by using gender-neutral terms or elevating stories of people ending unwanted pregnancies for <a href="https://www.nytimes.com/2024/09/25/opinion/abortions-necessary-sympathy.html?partner=slack&amp;smid=sl-share">no traumatic, exceptional reason</a>.&nbsp;</p>
-
-<p class="has-text-align-none">But given the increasingly desperate funding environment, these activists are being forced now to reconsider how they appeal to a public <a href="https://www.pewresearch.org/politics/2024/05/13/broad-public-support-for-legal-abortion-persists-2-years-after-dobbs/?utm_source=AdaptiveMailer&amp;utm_medium=email&amp;utm_campaign=24-05-13%20Abortion%20GEN%20DISTRO&amp;org=982&amp;lvl=100&amp;ite=13991&amp;lea=3375400&amp;ctr=0&amp;par=1&amp;trk=a0DQm000001nkFdMAI">that is broadly supportive</a> of reproductive rights but is still more moderate on abortion.&nbsp;</p>
-
-<p class="has-text-align-none">“In my experience on ballot campaigns, abortion funds have been incredibly challenging as partners in states that weren&#8217;t blue,” one leader involved with multiple post-<em>Roe </em>ballot measures, who requested anonymity to speak candidly, told Vox. “If you&#8217;re only communicating in very extreme messaging about abortion access, you&#8217;re not broadening your base of donors, you&#8217;re just talking to the 12 people who already agree with you. A lot of people who would love to donate to funds and probably don&#8217;t understand the need are turned off before they even get in the door by the language and behavior.”</p>
-
-<p class="has-text-align-none">These kinds of criticisms vex Dingus, who wrestles with whether abortion funds should be more “acceptable and digestible” to the public, as she put it.</p>
-
-<p class="has-text-align-none">“I came from a more traditional philanthropy space where you had to make sure you never hurt anyone’s feelings or made anyone angry because you might lose a dollar,” she said. “Abortion funds I&#8217;ve always found to be more liberated spaces where we can speak truth to power and push for change and not have to worry about one funder here or one funder there. But we are also seeing the reality of people not getting the care they need, people are going to be forced to give birth, so I think it’s tough.”</p>
-
-<p class="has-text-align-none">Tensions are rising within the movement as disagreements over a scarce resource — money — intensify. These battles among leaders<em> </em>reflect practical and ideological divisions about the future of abortion access and underscore the messy, unsettled questions that loom over activists more than two years after Americans lost their national right to end a pregnancy.&nbsp;</p>
-
-<h2 class="wp-block-heading">The 2024 election is dominating abortion-related donations</h2>
-
-<p class="has-text-align-none">When it comes to donations this year, it’s mostly going to one place.<br><br>Despite earlier concern that abortion rights ballot measures would struggle to raise enough money, organizers say those fears have mostly not been realized, and tens of millions of dollars are flowing into the state contests as the election draws near.</p>
-
-<p class="has-text-align-none">These contests are “expensive and high-impact,” said Kelly Hall, the executive director of the Fairness Project, a national progressive group. “We are very grateful that organizations and in-state donors are seeing the opportunity with state ballot measures and are investing the resources that are needed to win.”</p>
-
-<p class="has-text-align-none">One newer member of the abortion rights political ecosystem is the House Majority PAC’s <a href="https://www.thehousemajoritypac.com/news/memo-hmp-launches-100-million-reproductive-freedom-accountability-fund">Reproductive Freedom Accountability Fund</a>, a $100 million investment to mobilize voters in swing districts sympathetic to abortion rights. “In 2022, 42 percent of our ads mentioned abortion, and I think it will be that much again if not higher,” said C.J. Warnke, a spokesperson for the congressional PAC.</p>
-
-<p class="has-text-align-none">Still, making sense of the amount of abortion-rights money flowing into political campaigns can be difficult.</p>
-
-<p class="has-text-align-none">Some lower-profile elections, <a href="https://azmirror.com/2024/09/18/campaigns-battle-over-the-fate-of-2-az-supreme-court-justices-who-ushered-in-the-1864-abortion-ban/">like two high court contests</a> in Arizona, have struggled to raise money, despite their importance for reproductive rights. And in June Planned Parenthood, one of the largest abortion rights advocacy groups,&nbsp; announced it would be spending $40 million during the 2024 cycle, less than the group spent <a href="https://apnews.com/article/abortion-2022-midterm-elections-health-congress-71871318f3c725a7df0bbe183e6c84be">in either of</a> the <a href="https://www.cnbc.com/2020/01/16/planned-parenthood-to-spend-45-million-in-2020-elections.html">previous two</a> election cycles. Their announcement came shortly after it announced it would also need to <a href="https://rewirenewsgroup.com/2024/08/13/following-national-funding-cuts-july-was-pure-hell-for-abortion-funds/">reduce its subsidies</a> for abortion care through its Justice Fund program.</p>
-
-<p class="has-text-align-none">Planned Parenthood says it can spend less simply because other organizations are spending more and because candidates themselves are more emboldened on reproductive rights. But elections are more expensive now and there are more political contests to fund than during the midterms, so the explanation is puzzling.&nbsp; (The group also declined to share details of its Justice Fund or to direct patient assistance broadly, citing “<a href="https://rewirenewsgroup.com/2024/08/13/following-national-funding-cuts-july-was-pure-hell-for-abortion-funds/">disclosure policy</a>” restrictions.)&nbsp;</p>
-
-<p class="has-text-align-none">In some ways, this is likely to be the last big year for spending on abortion rights ballot measures, simply because there aren’t many additional states that allow for such citizen initiatives. “It’s not an either-or” on funding, said Ashley All, who led the communications strategy for the <a href="https://www.vox.com/23273455/kansas-abortion-roe-dobbs-ballot-initiative-constitutional-amendment">winning Kansas abortion rights ballot measure</a> in 2022<em>. </em>“We have to do these ballot campaigns because if we don’t then people will lose access to care.”</p>
-
-<p class="has-text-align-none">Still, while national activists and fundraisers are spinning things in a more positive light, emphasizing that more money will be available to fund direct services soon, many local abortion fund leaders are skeptical things will really improve financially when election season ends.&nbsp;</p>
-
-<p class="has-text-align-none">According to Lexis Dotson-Dufault, executive director of the <a href="https://www.abortionfundofohio.org/">Abortion Fund of Ohio</a>, no new donors contributed to the organization following the passage of Issue 1, the abortion rights ballot measure that prevailed in Ohio last year by <a href="https://www.nytimes.com/interactive/2023/11/07/us/elections/results-ohio-issue-1-abortion-rights.html?action=click&amp;pgtype=Article&amp;state=default&amp;module=election-results&amp;context=election_recirc&amp;region=RaceLink">a 13-point margin</a>.&nbsp;</p>
-
-<p class="has-text-align-none">“We have seen nothing but an increase in need and we got no new funders from Issue 1,” she told Vox. “In 2022, we saw about 1,200 folks, in 2023 we saw about 4,500, and this year so far between February and August we’ve seen almost 4,000 people.”</p>
-
-<p class="has-text-align-none">Dingus, of the DC Abortion Fund, said election season has made their financial challenges more difficult. “It’s tough to see, not just the ballot measures but the <a href="https://www.vox.com/culture/364410/kamala-harris-white-people-zooms-race-intersectionality-crenshaw">Zooms for Harris</a> that raised millions of dollars in 30 minutes,” she said. “It can be really demoralizing to see that and then look at our budgets and know we continually have to cut back and maybe will have to get rid of staff.”</p>
-
-<p class="has-text-align-none">Cheryl Wolf, an organizer with <a href="https://www.cascadesabortionsupport.org/">Cascades Abortion Support Collective</a> in Portland, Oregon, said it’s been hard to convince the public that donating to small local funds over large political campaigns is a more reliable way to ensure their money directly supports abortion care.<br><br>“When they make their donations to national organizations, so much of it goes to overhead, salary, campaigning, advertising,” she told Vox. “Rather than directly into the hands of abortion seekers.”</p>
-
-<p class="has-text-align-none">This pressure has all been <a href="https://www.huffpost.com/entry/abortion-funds-running-out-money-dobbs_n_667486b4e4b043a634bd9cd2">exacerbated by recent national funding cuts</a>; since July, the National Abortion Federation, along with Planned Parenthood, announced they’d only be able to subsidize up to 30 percent of abortion costs, down from their previous cap of 50 percent.&nbsp;</p>
-
-<p class="has-text-align-none">Wolf described these cuts from the National Abortion Federation as “detrimental,” particularly because most of the collective’s money comes from small one-time or monthly donations from individuals. “We are definitely not raising enough,” she added, noting they bring in about $500 every month and spend about $9,000. “We’re definitely looking at running out of money in the next couple months if we don’t have some kind of miracle.”&nbsp;</p>
-
-<p class="has-text-align-none">As travel costs rise, some abortion rights leaders say the movement has been too focused on elevating travel for those living in states with bans.&nbsp;</p>
-
-<p class="has-text-align-none">Kay, of the Abortion Coalition for Telemedicine, formed her more critical perspective while working in Ireland when abortion was criminalized. “The Irish solution to abortion bans was travel, but not everyone has the privilege or means to travel,” she said. “It’s alienating, stigmatizing, and expensive.” Prioritizing travel today, Kay thinks, reflects a movement that hasn’t “pivoted to the reality of what we&#8217;re living in now” with more options and more restrictions.</p>
-
-<h2 class="wp-block-heading">A difference of philosophy — and why it matters</h2>
-
-<p class="has-text-align-none">Across the abortion rights movement, leaders are grappling with how best to engage voters and donors while also debating how much compromise is acceptable in the pursuit of broader support.</p>
-
-<p class="has-text-align-none">In 2023, when Ohio activists were pushing for an abortion rights ballot measure, leaders with the Abortion Fund of Ohio were frustrated by compromises these ballot measure activists were willing to make. “I’m not really ever into hearing things about trimester limits or viability standards, or hearing language that’s very trauma-focused,” said Dotson-Dufault. “Something I say is a lot of the reason you feel the need to use that type of language is because we haven’t been doing the deep community destigmatization work.”&nbsp;</p>
-
-<p class="has-text-align-none">In other states, abortion fund staff and volunteers are experiencing similar discomfort. In South Dakota, a local abortion fund has publicly <a href="https://www.vox.com/24078960/south-dakota-abortion-ballot-measure-dobbs">criticized the abortion rights ballot measure</a> citizens will be voting on this November, even as the red state has a near-total abortion ban. Other funds are wrestling with messaging choices.<strong> </strong>“A lot of campaigns like <a href="https://floridiansprotectingfreedom.com/about/">Yes on 4</a> [the Florida abortion rights ballot measure] use gendered language, while we always use ‘pregnant people’ or ‘people who are pregnant,’” said Bree Wallace, the director of case management at the <a href="https://tbafund.com/">Tampa Bay Abortion Fund</a>. </p>
-
-<p class="has-text-align-none">When I asked Brittany Fonteno, the president and CEO of the National Abortion Federation, how her organization balances their more bold, progressive rhetoric with their recent funding cuts to local affiliates, she said it comes down to “investing time and energy in educating people, and helping them to evolve their own perspective.” Fonteno then cited her own journey growing up in a more conservative and religious environment, and her path to abandoning abortion stigma. “It took time for me to evolve and become someone who is not pro-choice but pro-abortion, pro-reproductive freedom,” she said.&nbsp;</p>
-
-<p class="has-text-align-none">Yet rejection of terms like “pro-choice” from activists like Fonteno stands in sharp contrast to how <a href="https://www.npr.org/2022/06/03/1102872199/gallup-poll-pro-choice-roe-v-wade-supreme-court">most Americans who support reproductive rights</a> feel about it. Election pollsters have also found that <a href="https://www.vox.com/2022/7/13/23204957/roe-wade-abortion-dobbs-persuasion-midterms">some of the most effective</a> abortion rights-related messages with voters are the same ones that activists argue are too gendered, stigmatizing, and patronizing (like that the decision to end a pregnancy should be “between a woman and her doctor” or that “victims of rape and incest would be forced to give birth.”)</p>
-
-<p class="has-text-align-none">In 2022, under pressure from activists, the House Pro-Choice Caucus <a href="https://twitter.com/sarahnferris/status/1524792388677402626">circulated new talking points</a> that warned “choice” is “harmful language” for reproductive rights, and should be replaced with the “helpful” alternative of “decision.” This generated some ridicule, but other aides and leaders were upset that activists would seek to ditch the well-known and popular “pro-choice” label at such a high-visibility moment, and without real survey research to support it.</p>
-
-<p class="has-text-align-none">There are no simple answers to the movement&#8217;s future direction, though progressive activists rightly note that <a href="https://navigatorresearch.org/wp-content/uploads/2023/05/May-2-Release-FINAL.pdf">public opinion</a> is <a href="https://maristpoll.marist.edu/wp-content/uploads/2023/04/NPR_PBS-News-Hour_Marist-Poll_USA-NOS-and-Tables_0426_202304211458.pdf">increasingly</a> <a href="https://www.wsj.com/articles/support-for-legalized-abortion-grows-since-dobbs-ruling-wsj-poll-shows-11662210020">shifting in favor</a> of abortion rights. Some activists are wary about prematurely abandoning the long-held goal of restoring accessible in-person clinic care nationwide, while others worry that leaders&#8217; refusal to adapt to new realities will come at the expense of pregnant people.</p>
-
-<p class="has-text-align-none">Wallace, of the Tampa Bay Abortion Fund, said that after <em>Roe </em>v. <em>Wade </em>was overturned, her fund received 755,000 individual donations, but by 2023, that number fell to 272,000. “People are donating more toward the election and Yes on 4 right now, and we all want Yes on 4 to pass, but people don’t understand that even if it does, people still don’t have money for abortion, people still don’t have ways of traveling to their appointments,” she said. “Next year is going to be all about holding people to account.”&nbsp;</p>
 						]]>
 									</content>
 			
