@@ -3,65 +3,124 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.34216086643847166" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 01 Oct 2024 10:15:13 +0000</lastBuildDate>
-    <pubDate>Tue, 01 Oct 2024 10:15:02 +0000</pubDate>
+    <lastBuildDate>Tue, 01 Oct 2024 10:39:15 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Oct 2024 10:35:21 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
-      <title>Israel Begins Ground Operations in Southern Lebanon</title>
-      <link>https://www.nytimes.com/live/2024/09/30/world/israel-lebanon-hezbollah</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2024/09/30/world/israel-lebanon-hezbollah</guid>
-      <atom:link href="https://www.nytimes.com/live/2024/09/30/world/israel-lebanon-hezbollah" rel="standout"></atom:link>
-      <description>Israeli troops crossed the border after a prolonged bombing campaign aimed at killing many of Hezbollah’s top leaders and destroying some of its weapons.</description>
+      <title>Live Updates: Israel Launches Invasion Into Southern Lebanon</title>
+      <link>https://www.nytimes.com/live/2024/10/01/world/israel-lebanon-hezbollah</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2024/10/01/world/israel-lebanon-hezbollah</guid>
+      <atom:link href="https://www.nytimes.com/live/2024/10/01/world/israel-lebanon-hezbollah" rel="standout"></atom:link>
+      <description>Israeli troops crossed the border for the first time since 2006 in a ground operation targeting Hezbollah. The Israeli military called for evacuations of more than two dozen villages in southern Lebanon.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 01 Oct 2024 09:29:28 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/01/multimedia/01mideast-crisis-promo-1230a-mcpf/01mideast-crisis-promo-1230a-mcpf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Leo Correa/Associated Press</media:credit>
+      <pubDate>Tue, 01 Oct 2024 10:35:21 +0000</pubDate>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/10/01/multimedia/01mideast-crisis-promo-630am-tbmk-b/01mideast-crisis-promo-630am-tbmk-b-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Avishag Shaar-Yashuv for The New York Times</media:credit>
     </item>
     <item>
-      <title>As Israel Strikes Hezbollah, Iran-Backed Militias Fail to Provide Aid</title>
-      <link>https://www.nytimes.com/2024/09/30/world/middleeast/iran-axis-of-resistance.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/30/world/middleeast/iran-axis-of-resistance.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/30/world/middleeast/iran-axis-of-resistance.html" rel="standout"></atom:link>
-      <description>Iran united militias to take on Israel, but as the Israelis pummel one, Hezbollah, the rest have so far largely failed to come to its aid.</description>
-      <dc:creator>Ben Hubbard and Alissa J. Rubin</dc:creator>
-      <pubDate>Mon, 30 Sep 2024 22:13:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <title>As Crisis Builds, Lebanon’s Government Is Nowhere to Be Found</title>
+      <link>https://www.nytimes.com/2024/10/01/world/middleeast/lebanon-government-failure-israeli-strikes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/01/world/middleeast/lebanon-government-failure-israeli-strikes.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/01/world/middleeast/lebanon-government-failure-israeli-strikes.html" rel="standout"></atom:link>
+      <description>Already crippled by years of economic decline, political paralysis and other crises, Lebanon has little but its own citizens’ grit to survive the Israel-Hezbollah conflict.</description>
+      <dc:creator>Vivian Yee</dc:creator>
+      <pubDate>Tue, 01 Oct 2024 09:59:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasrallah, Hassan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beirut, Lebanon, Explosions (2020)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/30/multimedia/30mideast-axis01-htpf/30mideast-axis01-htpf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Arash Khamooshi for The New York Times</media:credit>
-      <media:description>After the killing of the Hezbollah leader Hassan Nasrallah, Tehran has put his image on billboards. But it has not retaliated directly.</media:description>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/28/multimedia/28lebanon-moment-01-zklp/28lebanon-moment-01-zklp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <media:description>The aftermath of an Israeli strike in Hilaniyeh, Lebanon, last week, part of a bombing campaign that some experts have called one of the most intense in contemporary warfare.</media:description>
     </item>
     <item>
-      <title>Separated by the Ukraine War, Two Soul Mates Reconnect</title>
-      <link>https://www.nytimes.com/2024/09/30/world/europe/ukraine-russia-war-love.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/30/world/europe/ukraine-russia-war-love.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/30/world/europe/ukraine-russia-war-love.html" rel="standout"></atom:link>
-      <description>Sofia Malina and Polina Muzhychkova met in the Ukrainian city of Mariupol, but were separated after it came under brutal assault by Russian forces. They were reunited after a long and harrowing saga.</description>
-      <dc:creator>Carlotta Gall and Oleksandr Chubko</dc:creator>
-      <pubDate>Mon, 30 Sep 2024 09:01:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mariupol (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/17/multimedia/xxcrimea-women-vkqj/xxcrimea-women-vkqj-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Brendan Hoffman for The New York Times</media:credit>
-      <media:description>Polina Muzhychkova, left, and Sofia Malina in Odesa, Ukraine, in July.</media:description>
+      <title>Assange, in First Speech Since Release, Says He Was Jailed for Journalism</title>
+      <link>https://www.nytimes.com/2024/10/01/world/europe/julian-assange-journalism-wikileaks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/01/world/europe/julian-assange-journalism-wikileaks.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/01/world/europe/julian-assange-journalism-wikileaks.html" rel="standout"></atom:link>
+      <description>Julian Assange, the WikiLeaks founder, said in public remarks in Strasbourg, France, that his imprisonment had set a dangerous precedent.</description>
+      <dc:creator>Jenny Gross and Megan Specia</dc:creator>
+      <pubDate>Tue, 01 Oct 2024 09:30:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assange, Julian P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News Sources, Confidential Status of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/10/01/multimedia/01eu-assange-gpkc/01eu-assange-gpkc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pascal Bastien/Associated Press</media:credit>
+      <media:description>Julian Assange with his wife, Stella Assange, were in Strasbourg, France, on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Mexico’s First Female President Takes Office</title>
+      <link>https://www.nytimes.com/2024/10/01/world/americas/mexico-claudia-sheinbaum-president.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/01/world/americas/mexico-claudia-sheinbaum-president.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/01/world/americas/mexico-claudia-sheinbaum-president.html" rel="standout"></atom:link>
+      <description>A climate scientist and former mayor, Claudia Sheinbaum will be inaugurated on Tuesday as the first woman to lead the country.</description>
+      <dc:creator>Emiliano Rodríguez Mega</dc:creator>
+      <pubDate>Tue, 01 Oct 2024 09:02:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lopez Obrador, Andres Manuel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico City (Mexico)</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/10/01/multimedia/01mexico-inauguration-thzb/01mexico-inauguration-thzb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Meghan Dhaliwal for The New York Times</media:credit>
+      <media:description>Claudia Sheinbaum will be Mexico’s first female president.</media:description>
+    </item>
+    <item>
+      <title>A New Fine-Dining Restaurant in London, Staffed by Ex-Homeless People</title>
+      <link>https://www.nytimes.com/2024/10/01/world/europe/restaurant-london-homeless.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/01/world/europe/restaurant-london-homeless.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/01/world/europe/restaurant-london-homeless.html" rel="standout"></atom:link>
+      <description>In London’s upmarket Primrose Hill, a Michelin-starred chef is employing people on the edge of homelessness as chefs, wait staff and cocktail makers.</description>
+      <dc:creator>Patricia Cohen</dc:creator>
+      <pubDate>Tue, 01 Oct 2024 04:01:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homeless Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vocational Training</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chefs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/10/01/multimedia/01UK-Homeless-Restaurant-04-cfvb/01UK-Homeless-Restaurant-04-cfvb-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>The evening service. Mr. Simmonds revised the menu before opening to ensure dishes could be successfully executed by inexperienced workers.</media:description>
+    </item>
+    <item>
+      <title>Cambodia Arrests Mech Dara, Journalist Who Exposed Scam Centers</title>
+      <link>https://www.nytimes.com/2024/10/01/world/asia/cambodia-journalist-mech-dara-arrest.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/01/world/asia/cambodia-journalist-mech-dara-arrest.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/01/world/asia/cambodia-journalist-mech-dara-arrest.html" rel="standout"></atom:link>
+      <description>The authorities did not give a reason for the action, but it came after the United States punished a tycoon for what it said was his role in the scam compounds.</description>
+      <dc:creator>Sui-Lee Wee and Sun Narin</dc:creator>
+      <pubDate>Tue, 01 Oct 2024 07:38:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Trafficking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cambodia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Koh Kong Province (Cambodia)</category>
+      <media:content height="1334" medium="image" url="https://static01.nyt.com/images/2024/10/01/multimedia/00cambodia-journalist-vtpm/00cambodia-journalist-vtpm-mediumSquareAt3X.jpg" width="1334"></media:content>
+      <media:credit>Jack Brook, via Associated Press</media:credit>
+      <media:description>Mech Dara, who has exposed human trafficking in online scam centers, in Siem Reap, Cambodia, in 2021.</media:description>
     </item>
     <item>
       <title>Crisis at The Jewish Chronicle: Fabrications and Resignations</title>
@@ -90,6 +149,23 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/26/multimedia/26uk-jewish-chronicle-qlzw/26uk-jewish-chronicle-qlzw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Andrew Testa for The New York Times</media:credit>
       <media:description>The Jewish Chronicle, a weekly founded in 1841, bills itself as the world’s oldest Jewish newspaper.</media:description>
+    </item>
+    <item>
+      <title>Separated by the Ukraine War, Two Soul Mates Reconnect</title>
+      <link>https://www.nytimes.com/2024/09/30/world/europe/ukraine-russia-war-love.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/30/world/europe/ukraine-russia-war-love.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/30/world/europe/ukraine-russia-war-love.html" rel="standout"></atom:link>
+      <description>Sofia Malina and Polina Muzhychkova met in the Ukrainian city of Mariupol, but were separated after it came under brutal assault by Russian forces. They were reunited after a long and harrowing saga.</description>
+      <dc:creator>Carlotta Gall and Oleksandr Chubko</dc:creator>
+      <pubDate>Mon, 30 Sep 2024 09:01:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mariupol (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/17/multimedia/xxcrimea-women-vkqj/xxcrimea-women-vkqj-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Brendan Hoffman for The New York Times</media:credit>
+      <media:description>Polina Muzhychkova, left, and Sofia Malina in Odesa, Ukraine, in July.</media:description>
     </item>
     <item>
       <title>Zelensky Returns to Russian Strikes in Eastern Ukraine and Counterattacks in Kursk Region</title>
@@ -154,67 +230,25 @@
       <media:description>The French far-right leader Marine Le Pen speaking to journalists during the French parliamentary elections in Paris in July.</media:description>
     </item>
     <item>
-      <title>Russia to Boost Defense Budget as Ukraine War Drags On</title>
-      <link>https://www.nytimes.com/2024/09/30/world/europe/russia-defense-budget-ukraine-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/30/world/europe/russia-defense-budget-ukraine-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/30/world/europe/russia-defense-budget-ukraine-war.html" rel="standout"></atom:link>
-      <description>The Kremlin plans a 25 percent increase to more than $145 billion in 2025, a year in which it had intended to cut military spending.</description>
-      <dc:creator>Ivan Nechepurenko</dc:creator>
-      <pubDate>Mon, 30 Sep 2024 20:54:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/30/multimedia/30russia-defense-budget-hvjc/30russia-defense-budget-hvjc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nanna Heitmann for The New York Times</media:credit>
-      <media:description>Preparing for a military parade in Moscow last year. The Kremlin plans to boost military spending by 25 percent in 2025.</media:description>
-    </item>
-    <item>
-      <title>Saudi Arabia Pledges to Send Financial Aid to Palestine</title>
-      <link>https://www.nytimes.com/2024/09/30/world/middleeast/saudi-arabia-palestine-financial-aid.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/30/world/middleeast/saudi-arabia-palestine-financial-aid.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/30/world/middleeast/saudi-arabia-palestine-financial-aid.html" rel="standout"></atom:link>
-      <description>An expected cash infusion for the Palestinian Authority would signal renewed Saudi backing for Palestinian statehood and help mend ties between Riyadh and the body that administers the West Bank.</description>
-      <dc:creator>Adam Rasgon and Aaron Boxerman</dc:creator>
-      <pubDate>Mon, 30 Sep 2024 15:11:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <title>As Israel Strikes Hezbollah, Iran-Backed Militias Fail to Provide Aid</title>
+      <link>https://www.nytimes.com/2024/09/30/world/middleeast/iran-axis-of-resistance.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/30/world/middleeast/iran-axis-of-resistance.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/30/world/middleeast/iran-axis-of-resistance.html" rel="standout"></atom:link>
+      <description>Iran united militias to take on Israel, but as the Israelis pummel one, Hezbollah, the rest have so far largely failed to come to its aid.</description>
+      <dc:creator>Ben Hubbard and Alissa J. Rubin</dc:creator>
+      <pubDate>Mon, 30 Sep 2024 22:13:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Authority</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mahmoud</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasrallah, Hassan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/29/multimedia/29mideast-crisis-saudi-pa-lztc/29mideast-crisis-saudi-pa-lztc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
-      <media:description>Palestinians lining up this summer at A.T.M.s in Ramallah, in the Israeli-occupied West Bank.</media:description>
-    </item>
-    <item>
-      <title>Senior Officer Gets 3 Years Over South Korea Crowd Crush</title>
-      <link>https://www.nytimes.com/2024/09/30/world/asia/skorea-itaewon-police-chief-convicted.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/30/world/asia/skorea-itaewon-police-chief-convicted.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/30/world/asia/skorea-itaewon-police-chief-convicted.html" rel="standout"></atom:link>
-      <description>Lee Im-jae, a former district chief, is the most senior official to be convicted in connection with the 2022 disaster that killed nearly 160 Halloween partygoers.</description>
-      <dc:creator>Choe Sang-Hun</dc:creator>
-      <pubDate>Mon, 30 Sep 2024 09:49:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seoul Halloween Stampede (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/30/multimedia/30skorea-crowdcrush-ctqf/30skorea-crowdcrush-ctqf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Yonhap/EPA, via Shutterstock</media:credit>
-      <media:description>Lee Im-jae was the chief of police in Yongsan District, the area in central Seoul where the disaster happened.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/30/multimedia/30mideast-axis01-htpf/30mideast-axis01-htpf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>After the killing of the Hezbollah leader Hassan Nasrallah, Tehran has put his image on billboards. But it has not retaliated directly.</media:description>
     </item>
     <item>
       <title>As Mexico’s President Steps Down, Some Laud His Legacy, but Others Fear It</title>
@@ -234,50 +268,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/30/multimedia/30mexico-amlo01-photo-cpqb/30mexico-amlo01-photo-cpqb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Cesar Rodriguez for The New York Times</media:credit>
       <media:description>President Andrés Manuel López Obrador of Mexico and his wife, Beatriz Gutiérrez Müller, during Independence Day celebrations in Mexico City this month.</media:description>
-    </item>
-    <item>
-      <title>Iran Projects Caution After Israeli Strikes Against Hezbollah</title>
-      <link>https://www.nytimes.com/2024/09/29/world/middleeast/iran-hezbollah-israel-nasrallah.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/29/world/middleeast/iran-hezbollah-israel-nasrallah.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/29/world/middleeast/iran-hezbollah-israel-nasrallah.html" rel="standout"></atom:link>
-      <description>Leaders in Tehran suggested it would be the Lebanese militia that would strike back at Israel after the killing of Hassan Nasrallah and bombings in Beirut.</description>
-      <dc:creator>Farnaz Fassihi</dc:creator>
-      <pubDate>Sun, 29 Sep 2024 18:50:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasrallah, Hassan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pezeshkian, Masoud</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/29/multimedia/29mideast-crisis-iran01-photo-zfgq/29mideast-crisis-iran01-photo-zfgq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Arash Khamooshi for The New York Times</media:credit>
-      <media:description>Government supporters in Tehran’s Palestine Square mourning the death of Hassan Nasrallah, the leader of the Lebanese militia Hezbollah, on Saturday.</media:description>
-    </item>
-    <item>
-      <title>Austria’s Far Right Wins Election but May Fall Short of Forming a Government</title>
-      <link>https://www.nytimes.com/2024/09/29/world/europe/far-right-austria-election.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/09/29/world/europe/far-right-austria-election.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/09/29/world/europe/far-right-austria-election.html" rel="standout"></atom:link>
-      <description>The Freedom Party got nearly 30 percent of the national vote, but mainstream parties have vowed to join in a coalition government without the party’s pugilistic leader, Herbert Kickl.</description>
-      <dc:creator>Christopher F. Schuetze</dc:creator>
-      <pubDate>Sun, 29 Sep 2024 22:01:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kickl, Herbert</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nehammer, Karl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Austrian People&#39;s Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Freedom Party of Austria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Austria</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/29/multimedia/29austria-election-results-fztc/29austria-election-results-fztc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Filip Singer/EPA, via Shutterstock</media:credit>
-      <media:description>Herbert Kickl, center left, leader of the Freedom Party of Austria, on Sunday in Vienna, where he said he has a clear mandate to form a government.</media:description>
     </item>
     <item>
       <title>How Mexican Novelist Yuri Herrera Found Himself in New Orleans</title>
@@ -302,43 +292,6 @@
       <media:description>Much of Yuri Herrera’s work has touched on social realities in Mexico. Now he has turned his attention to New Orleans, a uniquely American city that has been his home for 13 years. </media:description>
     </item>
     <item>
-      <title>As Crisis Builds, Lebanon’s Government Is Nowhere to Be Found</title>
-      <link>https://www.nytimes.com/2024/10/01/world/middleeast/lebanon-government-failure-israeli-strikes.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/01/world/middleeast/lebanon-government-failure-israeli-strikes.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/01/world/middleeast/lebanon-government-failure-israeli-strikes.html" rel="standout"></atom:link>
-      <description>Already crippled by years of economic decline, political paralysis and other crises, Lebanon has little but its own citizens’ grit to survive the Israel-Hezbollah conflict.</description>
-      <dc:creator>Vivian Yee</dc:creator>
-      <pubDate>Tue, 01 Oct 2024 09:59:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beirut, Lebanon, Explosions (2020)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/28/multimedia/28lebanon-moment-01-zklp/28lebanon-moment-01-zklp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
-      <media:description>The aftermath of an Israeli strike in Hilaniyeh, Lebanon, last week, part of a bombing campaign that some experts have called one of the most intense in contemporary warfare.</media:description>
-    </item>
-    <item>
-      <title>Mexico’s First Female President Takes Office</title>
-      <link>https://www.nytimes.com/2024/10/01/world/americas/mexico-claudia-sheinbaum-president.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/01/world/americas/mexico-claudia-sheinbaum-president.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/01/world/americas/mexico-claudia-sheinbaum-president.html" rel="standout"></atom:link>
-      <description>A climate scientist and former mayor, Claudia Sheinbaum will be inaugurated on Tuesday as the first woman to lead the country.</description>
-      <dc:creator>Emiliano Rodríguez Mega</dc:creator>
-      <pubDate>Tue, 01 Oct 2024 09:02:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lopez Obrador, Andres Manuel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico City (Mexico)</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/10/01/multimedia/01mexico-inauguration-thzb/01mexico-inauguration-thzb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Meghan Dhaliwal for The New York Times</media:credit>
-      <media:description>Claudia Sheinbaum will be Mexico’s first female president.</media:description>
-    </item>
-    <item>
       <title>Why Did Israel Send Troops Into Southern Lebanon? </title>
       <link>https://www.nytimes.com/2024/10/01/world/middleeast/why-israel-lebanon-invasion.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/10/01/world/middleeast/why-israel-lebanon-invasion.html</guid>
@@ -355,44 +308,6 @@
       <media:description>A U.N. peacekeeper in the southern Lebanese village of Yarine in July.</media:description>
     </item>
     <item>
-      <title>Assange, in First Speech Since Release, Says He Was Jailed for Journalism</title>
-      <link>https://www.nytimes.com/2024/10/01/world/europe/julian-assange-journalism-wikileaks.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/01/world/europe/julian-assange-journalism-wikileaks.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/01/world/europe/julian-assange-journalism-wikileaks.html" rel="standout"></atom:link>
-      <description>Julian Assange, the WikiLeaks founder, said in public remarks in Strasbourg, France, that his imprisonment had set a dangerous precedent.</description>
-      <dc:creator>Jenny Gross and Megan Specia</dc:creator>
-      <pubDate>Tue, 01 Oct 2024 09:30:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assange, Julian P</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News Sources, Confidential Status of</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/10/01/multimedia/01eu-assange-gpkc/01eu-assange-gpkc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pascal Bastien/Associated Press</media:credit>
-      <media:description>Julian Assange with his wife, Stella Assange, were in Strasbourg, France, on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Cambodia Arrests Mech Dara, Journalist Who Exposed Scam Centers</title>
-      <link>https://www.nytimes.com/2024/10/01/world/asia/cambodia-journalist-mech-dara-arrest.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/01/world/asia/cambodia-journalist-mech-dara-arrest.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/01/world/asia/cambodia-journalist-mech-dara-arrest.html" rel="standout"></atom:link>
-      <description>The authorities did not give a reason for the action, but it came after the United States punished a tycoon for what it said was his role in the scam compounds.</description>
-      <dc:creator>Sui-Lee Wee and Sun Narin</dc:creator>
-      <pubDate>Tue, 01 Oct 2024 07:38:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Trafficking</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cambodia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Koh Kong Province (Cambodia)</category>
-      <media:content height="1334" medium="image" url="https://static01.nyt.com/images/2024/10/01/multimedia/00cambodia-journalist-vtpm/00cambodia-journalist-vtpm-mediumSquareAt3X.jpg" width="1334"></media:content>
-      <media:credit>Jack Brook, via Associated Press</media:credit>
-      <media:description>Mech Dara, who has exposed human trafficking in online scam centers, in Siem Reap, Cambodia, in 2021.</media:description>
-    </item>
-    <item>
       <title>Tuesday Briefing: Israel Sends Troops Into Lebanon</title>
       <link>https://www.nytimes.com/2024/10/01/briefing/lebanon-israel-trump-coal-britain.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/10/01/briefing/lebanon-israel-trump-coal-britain.html</guid>
@@ -403,28 +318,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/09/30/multimedia/01ambriefing-europe-nl-mideast/01ambriefing-europe-nl-mideast-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Atef Safadi/EPA, via Shutterstock</media:credit>
       <media:description>Israeli artillery shells hit in southern Lebanon yesterday.</media:description>
-    </item>
-    <item>
-      <title>A New Fine-Dining Restaurant in London, Staffed by Ex-Homeless People</title>
-      <link>https://www.nytimes.com/2024/10/01/world/europe/restaurant-london-homeless.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/01/world/europe/restaurant-london-homeless.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/01/world/europe/restaurant-london-homeless.html" rel="standout"></atom:link>
-      <description>In London’s upmarket Primrose Hill, a Michelin-starred chef is employing people on the edge of homelessness as chefs, wait staff and cocktail makers.</description>
-      <dc:creator>Patricia Cohen</dc:creator>
-      <pubDate>Tue, 01 Oct 2024 04:01:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homeless Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vocational Training</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chefs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/10/01/multimedia/01UK-Homeless-Restaurant-04-cfvb/01UK-Homeless-Restaurant-04-cfvb-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Andrew Testa for The New York Times</media:credit>
-      <media:description>The evening service. Mr. Simmonds revised the menu before opening to ensure dishes could be successfully executed by inexperienced workers.</media:description>
     </item>
     <item>
       <title>Super Typhoon Krathon Nears Taiwan After Lashing the Philippines</title>
@@ -596,6 +489,27 @@
       <media:description>Damage to Highway 64 near Bat Cave, N.C., on Monday.</media:description>
     </item>
     <item>
+      <title>Russia to Boost Defense Budget as Ukraine War Drags On</title>
+      <link>https://www.nytimes.com/2024/09/30/world/europe/russia-defense-budget-ukraine-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/30/world/europe/russia-defense-budget-ukraine-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/30/world/europe/russia-defense-budget-ukraine-war.html" rel="standout"></atom:link>
+      <description>The Kremlin plans a 25 percent increase to more than $145 billion in 2025, a year in which it had intended to cut military spending.</description>
+      <dc:creator>Ivan Nechepurenko</dc:creator>
+      <pubDate>Mon, 30 Sep 2024 20:54:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/30/multimedia/30russia-defense-budget-hvjc/30russia-defense-budget-hvjc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nanna Heitmann for The New York Times</media:credit>
+      <media:description>Preparing for a military parade in Moscow last year. The Kremlin plans to boost military spending by 25 percent in 2025.</media:description>
+    </item>
+    <item>
       <title>U.S. and Allies Sound Alarm Over Their Adversaries’ Military Ties</title>
       <link>https://www.nytimes.com/2024/09/30/us/politics/us-axis-china-iran-russia.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/09/30/us/politics/us-axis-china-iran-russia.html</guid>
@@ -620,6 +534,30 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/30/multimedia/30dc-war-axis-top-gmkf/30dc-war-axis-top-gmkf-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Dave Sanders for The New York Times</media:credit>
       <media:description>In speeches and closed-door talks, most recently at the United Nations General Assembly in New York, U.S. officials have been sounding the alarm on the coalition of powers working to strengthen one another’s militaries to defeat America’s partners.</media:description>
+    </item>
+    <item>
+      <title>Saudi Arabia Pledges to Send Financial Aid to Palestine</title>
+      <link>https://www.nytimes.com/2024/09/30/world/middleeast/saudi-arabia-palestine-financial-aid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/30/world/middleeast/saudi-arabia-palestine-financial-aid.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/30/world/middleeast/saudi-arabia-palestine-financial-aid.html" rel="standout"></atom:link>
+      <description>An expected cash infusion for the Palestinian Authority would signal renewed Saudi backing for Palestinian statehood and help mend ties between Riyadh and the body that administers the West Bank.</description>
+      <dc:creator>Adam Rasgon and Aaron Boxerman</dc:creator>
+      <pubDate>Mon, 30 Sep 2024 15:11:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mahmoud</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/29/multimedia/29mideast-crisis-saudi-pa-lztc/29mideast-crisis-saudi-pa-lztc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
+      <media:description>Palestinians lining up this summer at A.T.M.s in Ramallah, in the Israeli-occupied West Bank.</media:description>
     </item>
     <item>
       <title>Britain Shuts Down Last Coal Plant, ‘Turning Its Back on Coal Forever’</title>
@@ -748,6 +686,24 @@
       <media:description>An Israeli tank in a staging area in northern Israel, on Sunday.</media:description>
     </item>
     <item>
+      <title>Senior Officer Gets 3 Years Over South Korea Crowd Crush</title>
+      <link>https://www.nytimes.com/2024/09/30/world/asia/skorea-itaewon-police-chief-convicted.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/30/world/asia/skorea-itaewon-police-chief-convicted.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/30/world/asia/skorea-itaewon-police-chief-convicted.html" rel="standout"></atom:link>
+      <description>Lee Im-jae, a former district chief, is the most senior official to be convicted in connection with the 2022 disaster that killed nearly 160 Halloween partygoers.</description>
+      <dc:creator>Choe Sang-Hun</dc:creator>
+      <pubDate>Mon, 30 Sep 2024 09:49:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seoul Halloween Stampede (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/30/multimedia/30skorea-crowdcrush-ctqf/30skorea-crowdcrush-ctqf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Yonhap/EPA, via Shutterstock</media:credit>
+      <media:description>Lee Im-jae was the chief of police in Yongsan District, the area in central Seoul where the disaster happened.</media:description>
+    </item>
+    <item>
       <title>Dockworkers Strike at U.S. Ports Could Begin Tuesday</title>
       <link>https://www.nytimes.com/2024/09/30/business/port-strike-dockworkers.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/09/30/business/port-strike-dockworkers.html</guid>
@@ -841,6 +797,26 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/29/multimedia/29mideast-ledeall-bqzl/29mideast-ledeall-bqzl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Avishag Shaar-Yashuv for The New York Times</media:credit>
       <media:description>Israeli military forces in northern Israel, near Kiryat Shmona, on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Austria’s Far Right Wins Election but May Fall Short of Forming a Government</title>
+      <link>https://www.nytimes.com/2024/09/29/world/europe/far-right-austria-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/29/world/europe/far-right-austria-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/29/world/europe/far-right-austria-election.html" rel="standout"></atom:link>
+      <description>The Freedom Party got nearly 30 percent of the national vote, but mainstream parties have vowed to join in a coalition government without the party’s pugilistic leader, Herbert Kickl.</description>
+      <dc:creator>Christopher F. Schuetze</dc:creator>
+      <pubDate>Sun, 29 Sep 2024 22:01:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kickl, Herbert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nehammer, Karl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Austrian People&#39;s Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Freedom Party of Austria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Austria</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/29/multimedia/29austria-election-results-fztc/29austria-election-results-fztc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Filip Singer/EPA, via Shutterstock</media:credit>
+      <media:description>Herbert Kickl, center left, leader of the Freedom Party of Austria, on Sunday in Vienna, where he said he has a clear mandate to form a government.</media:description>
     </item>
     <item>
       <title>Monday Briefing: The Aftermath of Nasrallah’s Death</title>
@@ -1059,6 +1035,30 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/09/11/multimedia/00canada-quebec-tuition-promo/00canada-quebec-tuition-gcpl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nasuna Stuart-Ulin for The New York Times</media:credit>
       <media:description>McGill University students on the campus grounds in downtown Montreal. </media:description>
+    </item>
+    <item>
+      <title>Iran Projects Caution After Israeli Strikes Against Hezbollah</title>
+      <link>https://www.nytimes.com/2024/09/29/world/middleeast/iran-hezbollah-israel-nasrallah.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/09/29/world/middleeast/iran-hezbollah-israel-nasrallah.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/09/29/world/middleeast/iran-hezbollah-israel-nasrallah.html" rel="standout"></atom:link>
+      <description>Leaders in Tehran suggested it would be the Lebanese militia that would strike back at Israel after the killing of Hassan Nasrallah and bombings in Beirut.</description>
+      <dc:creator>Farnaz Fassihi</dc:creator>
+      <pubDate>Sun, 29 Sep 2024 18:50:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasrallah, Hassan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pezeshkian, Masoud</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/29/multimedia/29mideast-crisis-iran01-photo-zfgq/29mideast-crisis-iran01-photo-zfgq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>Government supporters in Tehran’s Palestine Square mourning the death of Hassan Nasrallah, the leader of the Lebanese militia Hezbollah, on Saturday.</media:description>
     </item>
     <item>
       <title>As Austrians Vote, Far Right Awaits Its Biggest Success</title>
