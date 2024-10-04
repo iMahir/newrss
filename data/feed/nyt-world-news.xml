@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.9738530433292172" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 04 Oct 2024 04:36:02 +0000</lastBuildDate>
-    <pubDate>Fri, 04 Oct 2024 04:21:18 +0000</pubDate>
+    <lastBuildDate>Fri, 04 Oct 2024 04:46:04 +0000</lastBuildDate>
+    <pubDate>Fri, 04 Oct 2024 04:35:51 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -292,6 +292,18 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/02/world/02DJIBOUTI-MIGRANTS/02DJIBOUTI-MIGRANTS-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nariman El-Mofty/Associated Press</media:credit>
       <media:description>Migrants boarding a boat in Djibouti in 2019. The route between Africa and the Arabian Peninsula is perilous for such journeys.</media:description>
+    </item>
+    <item>
+      <title>Friday Briefing: Israel Targets Hezbollah’s Remaining Leaders</title>
+      <link>https://www.nytimes.com/2024/10/04/briefing/israel-hezbollah-trump-britain-labour.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/04/briefing/israel-hezbollah-trump-britain-labour.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/04/briefing/israel-hezbollah-trump-britain-labour.html" rel="standout"></atom:link>
+      <description>Plus, a billion-dollar plan to protect trees.</description>
+      <dc:creator>Justin Porter</dc:creator>
+      <pubDate>Fri, 04 Oct 2024 04:35:51 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/04/multimedia/04themorning-nl-mideast-wmbv/04themorning-nl-mideast-wmbv-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Amr Abdallah Dalsh/Reuters</media:credit>
+      <media:description>Beirut’s southern suburbs after Israeli airstrikes yesterday.</media:description>
     </item>
     <item>
       <title>A Rest, a Reset and a Thanks for the Banter</title>
@@ -1173,24 +1185,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/10/02/multimedia/02ambriefing-europ-nl-israel-vhwq/02ambriefing-europ-nl-israel-vhwq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Amir Cohen/Reuters</media:credit>
       <media:description>Israel’s air defense system intercepted many of the Iranian missiles, the military said.</media:description>
-    </item>
-    <item>
-      <title>Catholics Meet to Chart Church’s Future, but Not Women Deacons</title>
-      <link>https://www.nytimes.com/2024/10/02/world/europe/pope-women.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/02/world/europe/pope-women.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/02/world/europe/pope-women.html" rel="standout"></atom:link>
-      <description>The ordination of female deacons is no longer on the agenda during a global assembly at the Vatican, but will be discussed separately.</description>
-      <dc:creator>Elisabetta Povoledo</dc:creator>
-      <pubDate>Wed, 02 Oct 2024 04:00:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Priests</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clergy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/02/multimedia/02vatican-meeting01-photo-mcwv/02vatican-meeting01-photo-mcwv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Nicolas Maeterlinck</media:credit>
-      <media:description>Pope Francis during a meeting with bishops, priests, deacons and other pastoral workers in Brussels on Saturday. </media:description>
     </item>
   </channel>
 </rss>
