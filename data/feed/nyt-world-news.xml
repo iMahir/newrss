@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.0957232703702886" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 04 Oct 2024 20:48:04 +0000</lastBuildDate>
-    <pubDate>Fri, 04 Oct 2024 20:44:57 +0000</pubDate>
+    <lastBuildDate>Fri, 04 Oct 2024 21:11:22 +0000</lastBuildDate>
+    <pubDate>Fri, 04 Oct 2024 21:11:19 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/10/04/world/israel-iran-hezbollah-lebanon" rel="standout"></atom:link>
       <description>It was not clear if the attack had killed its target, the presumed successor to Hezbollah’s slain leader. In Iran, Ayatollah Ali Khamenei threatened further attacks on Israel. At the White House, President Biden suggested Israel should consider alternatives to striking Iranian oil facilities.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 04 Oct 2024 20:44:57 +0000</pubDate>
+      <pubDate>Fri, 04 Oct 2024 20:59:11 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/04/multimedia/04mideast-promo-3:50-hgzc/04mideast-promo-3:50-hgzc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arash Khamooshi for The New York Times</media:credit>
     </item>
@@ -105,13 +105,13 @@
       <atom:link href="https://www.nytimes.com/2024/10/04/us/haiti-gang-attack.html" rel="standout"></atom:link>
       <description>The assault took place in a key agricultural region, which has seen a surge in gang violence.</description>
       <dc:creator>Frances Robles</dc:creator>
-      <pubDate>Fri, 04 Oct 2024 18:16:59 +0000</pubDate>
+      <pubDate>Fri, 04 Oct 2024 21:11:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/04/multimedia/04hati-massacre-lbth/04hati-massacre-lbth-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Federico Rios for The New York Times</media:credit>
-      <media:description>The attack happened in the Artibonite department, where criminals have increasingly invaded farmland and set up roadblocks on the highway to kidnap drivers. </media:description>
+      <media:description>The attack happened in the Artibonite department, where criminals have increasingly invaded farmland and set up roadblocks on the highway to kidnap passengers. </media:description>
     </item>
     <item>
       <title>E.U. Court Says Some Rules for Soccer’s Transfer Market Are Illegal</title>
@@ -290,6 +290,55 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/10/01/multimedia/00russia-recruitment01-photo-pzvc/00russia-recruitment01-photo-pzvc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nanna Heitmann for The New York Times</media:credit>
       <media:description>A military recruiting poster in Kursk, Russia, in August. President Vladimir V. Putin has ordered the ranks of Russia’s army to increase by 180,000 service members to 1.5 million.</media:description>
+    </item>
+    <item>
+      <title>US Conducts Strikes Against Houthis in Yemen</title>
+      <link>https://www.nytimes.com/2024/10/04/world/middleeast/us-strikes-yemen-houthis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/04/world/middleeast/us-strikes-yemen-houthis.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/04/world/middleeast/us-strikes-yemen-houthis.html" rel="standout"></atom:link>
+      <description>The Houthis have been attacking ships in the Red Sea in solidarity with Hamas, and the U.S. attacks were aimed at securing international waterways.</description>
+      <dc:creator>Ephrat Livni and Ismaeel Naar</dc:creator>
+      <pubDate>Fri, 04 Oct 2024 20:52:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Central Command</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/04/multimedia/04mideast-crisis-yemen-strikes-cvtk/04mideast-crisis-yemen-strikes-cvtk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Osamah Abdulrahman/Associated Press</media:credit>
+      <media:description>Smoke rises after strikes on Houthi targets in Yemen.</media:description>
+    </item>
+    <item>
+      <title>Biden Cautions Israel on Plans to Retaliate Against Iran</title>
+      <link>https://www.nytimes.com/2024/10/04/world/middleeast/biden-israel-iran-oil-strike.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/04/world/middleeast/biden-israel-iran-oil-strike.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/04/world/middleeast/biden-israel-iran-oil-strike.html" rel="standout"></atom:link>
+      <description>The president suggested that Israel should consider alternative ways to retaliate against Iran.</description>
+      <dc:creator>Zolan Kanno-Youngs</dc:creator>
+      <pubDate>Fri, 04 Oct 2024 20:51:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/04/multimedia/04mideast-crisis-biden-ktgh/04mideast-crisis-biden-ktgh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>President Biden joined his press secretary, Karine Jean-Pierre, left, at the daily press briefing Friday at the White House. It was the only time he has joined the briefing as president, and he took questions on the Middle East.</media:description>
     </item>
     <item>
       <title>A Pentagon Debate: Are U.S. Deployments Containing the Fighting, or Inflaming It?</title>
@@ -1145,24 +1194,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/02/multimedia/02vatican-abuse01-photo-mkvf/02vatican-abuse01-photo-mkvf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alessandra Tarantino/Associated Press</media:credit>
       <media:description>Laurence Gien on Tuesday at St. Peter’s Basilica, where he recounted having been abused as a child by a priest in South Africa. He told his story with Pope Francis in attendance.</media:description>
-    </item>
-    <item>
-      <title>Biden Says He Won’t Support an Israeli Strike on Iran’s Nuclear Sites</title>
-      <link>https://www.nytimes.com/2024/10/02/world/middleeast/iran-nuclear-weapons-biden-israel.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/02/world/middleeast/iran-nuclear-weapons-biden-israel.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/02/world/middleeast/iran-nuclear-weapons-biden-israel.html" rel="standout"></atom:link>
-      <description>His comments reflected a renewed effort by his administration to seek restraint from Israel to try to avoid a growing war in the Middle East.</description>
-      <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Wed, 02 Oct 2024 23:00:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/02/multimedia/02mideast-crisis-biden-nuclear-kcbh/02mideast-crisis-biden-nuclear-kcbh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Al Drago for The New York Times</media:credit>
-      <media:description>President Joe Biden at Joint Base Andrews in Maryland on Wednesday</media:description>
     </item>
   </channel>
 </rss>
