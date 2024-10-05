@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 05 Oct 2024 16:11:33 +0000</lastBuildDate>
-    <pubDate>Sat, 05 Oct 2024 15:30:19 +0000</pubDate>
+    <lastBuildDate>Sat, 05 Oct 2024 16:38:45 +0000</lastBuildDate>
+    <pubDate>Sat, 05 Oct 2024 16:36:28 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -66,7 +66,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/10/05/world/israel-iran-hezbollah-lebanon" rel="standout"></atom:link>
       <description>Israel’s attacks against Hezbollah had largely been concentrated in the south and near Beirut. But Hamas, an ally of Hezbollah, said an Israeli strike in northern Lebanon had killed one of its commanders.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 05 Oct 2024 15:30:19 +0000</pubDate>
+      <pubDate>Sat, 05 Oct 2024 16:36:28 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/05/multimedia/05mideast-crisis-promo-11-kcmp/05mideast-crisis-promo-11-kcmp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sergey Ponomarev for The New York Times</media:credit>
     </item>
@@ -276,10 +276,11 @@
       <atom:link href="https://www.nytimes.com/2024/10/04/us/haiti-gang-attack.html" rel="standout"></atom:link>
       <description>The assault took place in a key agricultural region, which has seen a surge in gang violence.</description>
       <dc:creator>Frances Robles</dc:creator>
-      <pubDate>Sat, 05 Oct 2024 13:37:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <pubDate>Sat, 05 Oct 2024 13:37:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/04/multimedia/04hati-massacre-lbth/04hati-massacre-lbth-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Federico Rios for The New York Times</media:credit>
       <media:description>The attack happened in the Artibonite department, where criminals have increasingly invaded farmland and set up roadblocks on the highway to kidnap passengers. </media:description>
@@ -576,16 +577,19 @@
       <description>Ayatollah Ali Khamenei, who led Friday prayers for the first time in years, called for pan-Muslim unity against Israel and the United States at a memorial service for Hassan Nasrallah.</description>
       <dc:creator>Farnaz Fassihi and Leily Nikounazar</dc:creator>
       <pubDate>Fri, 04 Oct 2024 19:47:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasrallah, Hassan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Suleimani, Qassim</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasrallah, Hassan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/04/multimedia/04mideast-crisis-khamenei-blzm/04mideast-crisis-khamenei-blzm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arash Khamooshi for The New York Times</media:credit>
       <media:description>Tens of thousands of supporters gathered to hear Iran’s supreme leader, Ali Khamenei, lead Friday prayers in Tehran.</media:description>
@@ -818,7 +822,7 @@
       <atom:link href="https://www.nytimes.com/2024/10/03/health/marburg-virus-disease.html" rel="standout"></atom:link>
       <description>In Rwanda, 11 deaths have been reported from this rare but deadly disease. Two people tested negative in Germany this week.</description>
       <dc:creator>Annie Correal and April Rubin</dc:creator>
-      <pubDate>Fri, 04 Oct 2024 16:15:34 +0000</pubDate>
+      <pubDate>Sat, 05 Oct 2024 16:30:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Marburg Virus</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Center for Disease Prevention and Control</category>
