@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.04633139090631522" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 06 Oct 2024 15:11:37 +0000</lastBuildDate>
-    <pubDate>Sun, 06 Oct 2024 15:11:19 +0000</pubDate>
+    <lastBuildDate>Sun, 06 Oct 2024 15:25:32 +0000</lastBuildDate>
+    <pubDate>Sun, 06 Oct 2024 15:23:56 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -290,6 +290,30 @@
       <media:description>Cleaning up on Monday after an early-morning Israeli airstrike on an apartment block in Beirut, Lebanon.</media:description>
     </item>
     <item>
+      <title>Peter Jay, Headline-Making British Ambassador to the U.S., Dies at 87</title>
+      <link>https://www.nytimes.com/2024/10/06/world/europe/peter-jay-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/06/world/europe/peter-jay-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/06/world/europe/peter-jay-dead.html" rel="standout"></atom:link>
+      <description>His appointment sparked criticism and charges of nepotism. He later achieved unwanted attention as a character in the novel “Heartburn.”</description>
+      <dc:creator>Adam Nossiter</dc:creator>
+      <pubDate>Sun, 06 Oct 2024 15:23:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jay, Peter (1937-2024)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nepotism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Callaghan, James</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carter, Jimmy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Heartbeat (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Heartburn (Movie)</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/10/07/multimedia/04Jay-05-pkzh/04Jay-05-pkzh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Keystone/Hulton Archive, via Getty Images</media:credit>
+      <media:description>Peter Jay at his home in London in May 1977, shortly after being named British Ambassador to the United States.</media:description>
+    </item>
+    <item>
       <title>On Social Media, Gazans Share Advice for Those Under Fire in Lebanon</title>
       <link>https://www.nytimes.com/2024/10/06/world/middleeast/gaza-lebanon-tiktok-advice.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/10/06/world/middleeast/gaza-lebanon-tiktok-advice.html</guid>
@@ -458,9 +482,12 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bechtel Group</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Westinghouse Electric Co</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Choczewo (Poland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Slajszewo (Poland)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/09/19/multimedia/00poland-nuclear-01-gwpk/00poland-nuclear-01-gwpk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Maciek Nabrdalik for The New York Times</media:credit>
       <media:description>A harvest festival in Choczewo, Poland, where locals are bitterly divided on a plan for a proposed nuclear plant, Poland’s first.</media:description>
@@ -1204,24 +1231,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/10/03/multimedia/03EU-China-Tariffs-pflc/03EU-China-Tariffs-pflc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Felix Schmitt for The New York Times</media:credit>
       <media:description>European countries are set on Friday to approve additional tariffs of up to 45 percent on Chinese-made electric cars, aiming to protect European automakers from an influx of cheaper, state-subsidized vehicles.</media:description>
-    </item>
-    <item>
-      <title>Russia, U.S. and Other Countries Are Evacuating Their Citizens from Lebanon</title>
-      <link>https://www.nytimes.com/2024/10/03/world/middleeast/lebanon-evacuations-flights-countries.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/03/world/middleeast/lebanon-evacuations-flights-countries.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/03/world/middleeast/lebanon-evacuations-flights-countries.html" rel="standout"></atom:link>
-      <description>Several countries have chartered flights, while others issued warnings and offered assistance.</description>
-      <dc:creator>Lynsey Chutel</dc:creator>
-      <pubDate>Thu, 03 Oct 2024 17:28:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Migrant Labor (Non-Agriculture)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/03/multimedia/03mideast-crisis-evacuations-gfct/03mideast-crisis-evacuations-gfct-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Vassil Donev/EPA, via Shutterstock</media:credit>
-      <media:description>Arriving in Bulgaria onboard a government plane from Beirut on Monday.</media:description>
     </item>
   </channel>
 </rss>
