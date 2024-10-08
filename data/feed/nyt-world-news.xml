@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.3141654867843868" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 08 Oct 2024 03:49:13 +0000</lastBuildDate>
-    <pubDate>Tue, 08 Oct 2024 03:27:38 +0000</pubDate>
+    <lastBuildDate>Tue, 08 Oct 2024 04:14:23 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Oct 2024 04:01:13 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -289,6 +289,27 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/07/multimedia/07Israel-Anniversary-03-gqfl/07Israel-Anniversary-03-gqfl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mohammed Fayq Abu Mostafa/Reuters</media:credit>
       <media:description>Palestinians entered Israel through a breach in the Gaza border fence during the Hamas-led attacks on Oct. 7, 2023.</media:description>
+    </item>
+    <item>
+      <title>So, Are You Pregnant Yet? China’s In-Your-Face Push for More Babies.</title>
+      <link>https://www.nytimes.com/2024/10/08/world/asia/china-women-children-abortions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/08/world/asia/china-women-children-abortions.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/08/world/asia/china-women-children-abortions.html" rel="standout"></atom:link>
+      <description>The government is again trying to insert itself into women’s childbearing decisions, knocking on doors and making calls with questions some find downright invasive.</description>
+      <dc:creator>Vivian Wang</dc:creator>
+      <pubDate>Tue, 08 Oct 2024 04:01:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birth Control and Family Planning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/09/19/multimedia/00china-fertility-01-bztg/00china-fertility-01-bztg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Andrea Verdelli for The New York Times</media:credit>
+      <media:description>Propaganda artwork in Miyun, a district of Beijing, depicting a couple with three children and including slogans promoting childbearing.</media:description>
     </item>
     <item>
       <title>Athens Democracy Forum: Where Is Global Politics Headed?</title>
@@ -1188,25 +1209,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/05/multimedia/05mideast-crisis-macron-tgpf/05mideast-crisis-macron-tgpf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Benoit Tessier/Reuters</media:credit>
       <media:description>President Emmanuel Macron spoke on a French radio show on Saturday.</media:description>
-    </item>
-    <item>
-      <title>What to Know: How Israel Could Retaliate Against Iran</title>
-      <link>https://www.nytimes.com/article/israel-iran-retaliation.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/israel-iran-retaliation.html</guid>
-      <atom:link href="https://www.nytimes.com/article/israel-iran-retaliation.html" rel="standout"></atom:link>
-      <description>Iran has a number of sensitive sites, including oil infrastructure, military installations and nuclear facilities.</description>
-      <dc:creator>Lazaro Gamio and Eve Sampson</dc:creator>
-      <pubDate>Mon, 07 Oct 2024 16:59:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2024/10/04/multimedia/2024-10-04-iran-facilities-index/2024-10-04-iran-facilities-index-mediumSquareAt3X.png" width="1000"></media:content>
-      <media:credit>The New York Times</media:credit>
     </item>
   </channel>
 </rss>
