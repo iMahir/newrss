@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.3408570469373453" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 09 Oct 2024 11:08:55 +0000</lastBuildDate>
-    <pubDate>Wed, 09 Oct 2024 11:06:55 +0000</pubDate>
+    <lastBuildDate>Wed, 09 Oct 2024 12:24:20 +0000</lastBuildDate>
+    <pubDate>Wed, 09 Oct 2024 12:19:32 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -44,6 +44,45 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/09/multimedia/09mideast-crisis-diplomacy-01-mzvc/09mideast-crisis-diplomacy-01-mzvc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jack Guez/Agence France-Presse — Getty Images</media:credit>
       <media:description>Destruction in Hod Hasharon, Israel, last week after an Iranian missile attack.</media:description>
+    </item>
+    <item>
+      <title>Flooding Ravages Thai District Known for Elephant Parks</title>
+      <link>https://www.nytimes.com/2024/10/09/world/asia/thailand-flooding-elephants.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/09/world/asia/thailand-flooding-elephants.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/09/world/asia/thailand-flooding-elephants.html" rel="standout"></atom:link>
+      <description>Two people have died following the intense rains that inundated the city of Chiang Mai and surrounding areas that are popular with tourists.</description>
+      <dc:creator>Muktita Suhartono</dc:creator>
+      <pubDate>Wed, 09 Oct 2024 12:18:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drownings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elephants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chiang Mai (Thailand)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/09/multimedia/00thailand-flooding-elephants-tmqf/00thailand-flooding-elephants-tmqf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Elephant Nature Park, via Agence France-Presse — Getty Images</media:credit>
+    </item>
+    <item>
+      <title>With Biden Absent, Meeting of Western Leaders on Ukraine Is Postponed</title>
+      <link>https://www.nytimes.com/2024/10/09/world/europe/us-ukraine-biden-ramstein.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/09/world/europe/us-ukraine-biden-ramstein.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/09/world/europe/us-ukraine-biden-ramstein.html" rel="standout"></atom:link>
+      <description>A gathering in Germany intended to show support for Ukraine was put off after President Biden canceled his trip to deal with Hurricane Milton.</description>
+      <dc:creator>Steven Erlanger</dc:creator>
+      <pubDate>Wed, 09 Oct 2024 11:34:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Milton (2024)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/09/multimedia/09ramstein-kbcp/09ramstein-kbcp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang for The New York Times</media:credit>
+      <media:description>President Biden disembarking from Marine One on Tuesday after arriving at the White House.</media:description>
     </item>
     <item>
       <title>As I Am: L.G.B.T.Q. in Japan</title>
@@ -85,16 +124,20 @@
       <media:description>People walking past the Harrods department store in London in 2022. Mohamed Al Fayed, who owned the store from 1985 until 2010, allegedly used it as a hunting ground for young women whom he would select from the storeroom floor and then elevate to work in his personal office.</media:description>
     </item>
     <item>
-      <title>Nobel Prize in Chemistry Is Awarded to 3 Scientists for Work With Proteins</title>
+      <title>Nobel Prize in Chemistry Goes to 3 Scientists for Predicting and Creating Proteins</title>
       <link>https://www.nytimes.com/2024/10/09/science/nobel-prize-chemistry.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/10/09/science/nobel-prize-chemistry.html</guid>
       <atom:link href="https://www.nytimes.com/2024/10/09/science/nobel-prize-chemistry.html" rel="standout"></atom:link>
-      <description>Demis Hassabis and John M. Jumper were part of a Google DeepMind team whose A.I. technology predicts protein shapes. David Baker designed “a new protein that was unlike any other,” the committee said.</description>
-      <dc:creator>Claire Moses and Cade Metz</dc:creator>
-      <pubDate>Wed, 09 Oct 2024 10:29:28 +0000</pubDate>
+      <description>The Nobel, awarded to David Baker of the University of Washington and Demis Hassabis and John M. Jumper of Google DeepMind, is the second this week to involve artificial intelligence.</description>
+      <dc:creator>Claire Moses, Cade Metz and Teddy Rosenbluth</dc:creator>
+      <pubDate>Wed, 09 Oct 2024 12:02:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Chemistry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nobel Prizes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jumper, John Michael</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hassabis, Demis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baker, David (1962- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Proteins</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/10/09/multimedia/09nobel-prize-chemistry-wcft/09nobel-prize-chemistry-wcft-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jonathan Nackstrand/Agence France-Presse — Getty Images</media:credit>
       <media:description>David Baker, Demis Hassabis and John M. Jumper were awarded the Nobel Prize in Chemistry in Stockholm on Wednesday.</media:description>
@@ -247,49 +290,6 @@
       <media:description>Police guarding a crime scene last month in Culiacán, Mexico.</media:description>
     </item>
     <item>
-      <title>India’s Elections Offer Mixed Results for Modi</title>
-      <link>https://www.nytimes.com/2024/10/08/world/asia/india-elections-haryana-jammu-kashmir.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/08/world/asia/india-elections-haryana-jammu-kashmir.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/08/world/asia/india-elections-haryana-jammu-kashmir.html" rel="standout"></atom:link>
-      <description>Two closely watched elections, in Haryana and the turbulent Jammu and Kashmir, kept the surprises coming after this summer’s shocking national outcome.</description>
-      <dc:creator>Alex Travelli, Hari Kumar and Showkat Nanda</dc:creator>
-      <pubDate>Wed, 09 Oct 2024 02:26:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Indian National Congress</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kashmir and Jammu (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haryana (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hinduism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2024/10/08/multimedia/08india-elections-01-fjwb/08india-elections-01-fjwb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Farooq Khan/EPA, via Shutterstock</media:credit>
-      <media:description>Supporters of the opposition Congress Party celebrating on Tuesday in Srinagar, in Jammu and Kashmir. Congress and its allies won overwhelmingly in the territory. </media:description>
-    </item>
-    <item>
-      <title>France’s Government Survives a No-Confidence Vote</title>
-      <link>https://www.nytimes.com/2024/10/08/world/europe/michel-barnier-france-no-confidence-vote.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/08/world/europe/michel-barnier-france-no-confidence-vote.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/08/world/europe/michel-barnier-france-no-confidence-vote.html" rel="standout"></atom:link>
-      <description>The outcome was not a surprise but signals a treacherous road ahead for the country’s divided legislature.</description>
-      <dc:creator>Aurelien Breeden</dc:creator>
-      <pubDate>Wed, 09 Oct 2024 01:18:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barnier, Michel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rally (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New Popular Front (French Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
-      <category domain="">explanatory</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/08/multimedia/08france-vote-zfht/08france-vote-zfht-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Yoan Valat/EPA, via Shutterstock</media:credit>
-      <media:description>Prime Minister Michel Barnier of France in Paris on Monday. A no-confidence vote against his government failed on Tuesday. </media:description>
-    </item>
-    <item>
       <title>Trump Family Business Eyes Hotel Deals in Israel</title>
       <link>https://www.nytimes.com/2024/10/09/us/politics/trump-organization-israel-hotels.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/10/09/us/politics/trump-organization-israel-hotels.html</guid>
@@ -333,26 +333,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/09/multimedia/09cli-helene-attribution-01-hwgv/09cli-helene-attribution-01-hwgv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mike Belleme for The New York Times</media:credit>
       <media:description>Damage in Swannona, N.C., on Sept. 28.</media:description>
-    </item>
-    <item>
-      <title>Volkswagen’s Woes Reflect a Stagnant German Economy</title>
-      <link>https://www.nytimes.com/2024/10/09/world/europe/volkswagen-german-economy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/09/world/europe/volkswagen-german-economy.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/09/world/europe/volkswagen-german-economy.html" rel="standout"></atom:link>
-      <description>Germany’s largest automaker rode a wave of strong sales for years, but lagging demand and pressure from China are forcing it to consider layoffs.</description>
-      <dc:creator>Melissa Eddy</dc:creator>
-      <pubDate>Wed, 09 Oct 2024 04:00:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Volkswagen AG</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ig Metall</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/01/multimedia/00volkswagen-cuts-01-pfkc/00volkswagen-cuts-01-pfkc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ingmar Nolting for The New York Times</media:credit>
-      <media:description>Volkswagen has said it is considering job cuts and factory closings in Germany for the first time in its 87-year history.</media:description>
     </item>
     <item>
       <title>Ruth Glacier in Alaska Hides America’s Deepest Gorge</title>
@@ -585,6 +565,27 @@
       <media:description>Hashem Safieddine, center, in a southern suburb of Beirut, in August.</media:description>
     </item>
     <item>
+      <title>France’s Government Survives a No-Confidence Vote</title>
+      <link>https://www.nytimes.com/2024/10/08/world/europe/michel-barnier-france-no-confidence-vote.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/08/world/europe/michel-barnier-france-no-confidence-vote.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/08/world/europe/michel-barnier-france-no-confidence-vote.html" rel="standout"></atom:link>
+      <description>The outcome was not a surprise but signals a treacherous road ahead for the country’s divided legislature.</description>
+      <dc:creator>Aurelien Breeden</dc:creator>
+      <pubDate>Wed, 09 Oct 2024 01:18:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barnier, Michel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rally (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New Popular Front (French Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="">explanatory</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/08/multimedia/08france-vote-zfht/08france-vote-zfht-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Yoan Valat/EPA, via Shutterstock</media:credit>
+      <media:description>Prime Minister Michel Barnier of France in Paris on Monday. A no-confidence vote against his government failed on Tuesday. </media:description>
+    </item>
+    <item>
       <title>Art or Trash? It Can Be a Fine Line.</title>
       <link>https://www.nytimes.com/2024/10/08/arts/beer-can-art-lam-museum-thrown-out.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/10/08/arts/beer-can-art-lam-museum-thrown-out.html</guid>
@@ -667,6 +668,28 @@
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2024/10/08/us/politics/08dc-unwaste/08dc-unwaste-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eugene Gologursky/Getty Images</media:credit>
       <media:description>A U.N. court found last week that Vitaly Vanshelboim had committed fraud and “blatant misconduct” by failing to disclose gifts from a British businessman.</media:description>
+    </item>
+    <item>
+      <title>India’s Elections Offer Mixed Results for Modi</title>
+      <link>https://www.nytimes.com/2024/10/08/world/asia/india-elections-haryana-jammu-kashmir.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/08/world/asia/india-elections-haryana-jammu-kashmir.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/08/world/asia/india-elections-haryana-jammu-kashmir.html" rel="standout"></atom:link>
+      <description>Two closely watched elections, in Haryana and the turbulent Jammu and Kashmir, kept the surprises coming after this summer’s shocking national outcome.</description>
+      <dc:creator>Alex Travelli, Hari Kumar and Showkat Nanda</dc:creator>
+      <pubDate>Wed, 09 Oct 2024 02:26:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Indian National Congress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kashmir and Jammu (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haryana (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hinduism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2024/10/08/multimedia/08india-elections-01-fjwb/08india-elections-01-fjwb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Farooq Khan/EPA, via Shutterstock</media:credit>
+      <media:description>Supporters of the opposition Congress Party celebrating on Tuesday in Srinagar, in Jammu and Kashmir. Congress and its allies won overwhelmingly in the territory. </media:description>
     </item>
     <item>
       <title>Russia Pushes Forward in Ukraine’s East After Fall of Vuhledar</title>
@@ -1220,42 +1243,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/07/multimedia/07tunisia-election-01-vcfl/07tunisia-election-01-vcfl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mohamed Messara/EPA, via Shutterstock</media:credit>
       <media:description>Supporters of President Kais Saied of Tunisia in Tunis after exit poll results were announced on Sunday.</media:description>
-    </item>
-    <item>
-      <title>Key Moments in the Middle East War Since Hamas’s Oct. 7 Attack on Israel: Timeline</title>
-      <link>https://www.nytimes.com/2024/10/07/world/middleeast/israel-hamas-war-middle-east-timeline.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/07/world/middleeast/israel-hamas-war-middle-east-timeline.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/07/world/middleeast/israel-hamas-war-middle-east-timeline.html" rel="standout"></atom:link>
-      <description>Hamas’s Oct. 7 attack on Israel and the 12 months of conflagration that has followed.</description>
-      <dc:creator>Matthew Mpoke Bigg and Patrick Kingsley</dc:creator>
-      <pubDate>Mon, 07 Oct 2024 15:54:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/07/multimedia/07oct7-anniversary-timeline-02-thbv/07oct7-anniversary-timeline-02-thbv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ammar Awad/Reuters</media:credit>
-      <media:description>Victims lie on a highway in the Sderot area of southern Israel following the attack by Hamas on Oct. 7.</media:description>
-    </item>
-    <item>
-      <title>Russia Sentences 72-Year-Old American on Charges of Fighting for Ukraine</title>
-      <link>https://www.nytimes.com/2024/10/07/world/europe/russia-american-sentence-ukraine-military.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/07/world/europe/russia-american-sentence-ukraine-military.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/07/world/europe/russia-american-sentence-ukraine-military.html" rel="standout"></atom:link>
-      <description>Stephen James Hubbard, a native of Big Rapids, Mich., whose family says is an English teacher, was sentenced to six years and 10 months in a penal colony.</description>
-      <dc:creator>Ivan Nechepurenko</dc:creator>
-      <pubDate>Mon, 07 Oct 2024 14:28:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mercenaries and Private Military Contractors</category>
-      <media:content height="644" medium="image" url="https://static01.nyt.com/images/2024/10/07/multimedia/07russia-mercenary-wlgq/07russia-mercenary-wlgq-mediumSquareAt3X.jpg" width="644"></media:content>
-      <media:credit>Moscow City Court, via Reuters</media:credit>
-      <media:description>A still image taken from a video provided by the Moscow City Court of Stephen James Hubbard at a court hearing in Moscow on Monday. </media:description>
     </item>
   </channel>
 </rss>
