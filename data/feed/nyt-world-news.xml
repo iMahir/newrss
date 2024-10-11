@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 11 Oct 2024 19:47:52 +0000</lastBuildDate>
-    <pubDate>Fri, 11 Oct 2024 19:40:26 +0000</pubDate>
+    <lastBuildDate>Fri, 11 Oct 2024 20:12:05 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Oct 2024 20:09:32 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -265,6 +265,53 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/02/multimedia/00uk-hiker-profile-mtbc/00uk-hiker-profile-mtbc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mary Turner for The New York Times</media:credit>
       <media:description>Rhiane Fatinikun, the founder of Black Girls Hike, on Ingleborough, a peak in the Yorkshire Dales National Park in England, after climbing it with a group of hikers this year.</media:description>
+    </item>
+    <item>
+      <title>Evan Gershkovich, U.S. Journalist Imprisoned in Russia, Will Publish a Memoir</title>
+      <link>https://www.nytimes.com/2024/10/11/books/evan-gershkovich-memoir.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/11/books/evan-gershkovich-memoir.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/11/books/evan-gershkovich-memoir.html" rel="standout"></atom:link>
+      <description>The memoir, which will cover his time in prison and Russia’s move toward autocracy, will be published by Crown, an imprint of Penguin Random House.</description>
+      <dc:creator>Alexandra Alter and Katie Robertson</dc:creator>
+      <pubDate>Fri, 11 Oct 2024 20:09:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gershkovich, Evan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Trade and Publishing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Crown Publishing Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wall Street Journal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/11/multimedia/OakArticle-6709799e-qcgp/OakArticle-6709799e-qcgp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tom Brenner for The New York Times</media:credit>
+      <media:description>Evan Gershkovich was freed as part of a complex prisoner swap after 16 months in a Russian prison.</media:description>
+    </item>
+    <item>
+      <title>Rare Northern Lights Animate Night Skies Around the Globe: Photos</title>
+      <link>https://www.nytimes.com/2024/10/11/science/northern-lights-world-photos.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/11/science/northern-lights-world-photos.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/11/science/northern-lights-world-photos.html" rel="standout"></atom:link>
+      <description>An outburst from elevated solar activity created conditions on Thursday that kept people’s eyes glued to evening views all over the Northern Hemisphere.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Fri, 11 Oct 2024 19:51:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aurora Borealis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Asheville (NC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Holy Island (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kaluga (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Plymouth (Mass)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Queens (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Denmark</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Pole</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/11/multimedia/11Aurora-visual-02-cjtg/11Aurora-visual-02-cjtg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jane Barlow/Press Association, via Associated Press</media:credit>
+      <media:description>The light of the aurora borealis shining brightly over what are known as the Kissing Trees, near the town of Kinghorn, in Fife, Scotland.</media:description>
     </item>
     <item>
       <title>Nobel Peace Prize Is Awarded to Nihon Hidankyo For Its Efforts to Rid of Nuclear Weapons</title>
@@ -1062,44 +1109,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/15/multimedia/00Japan-lgbtq-promo-bcfw/00Japan-lgbtq-promo-bcfw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Chang W. Lee/The New York Times</media:credit>
       <media:description>Satoko Nagamura, right, with her partner, Mamiko Moda, and their son in Tokyo.</media:description>
-    </item>
-    <item>
-      <title>In This Office, the Fading Dream of a Unified Korea Lives On</title>
-      <link>https://www.nytimes.com/2024/10/09/world/asia/korea-reunification.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/09/world/asia/korea-reunification.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/09/world/asia/korea-reunification.html" rel="standout"></atom:link>
-      <description>On paper, five South Korean officials are the governors of North Korean provinces. Their goal is reunification, but fewer and fewer Koreans share it.</description>
-      <dc:creator>Choe Sang-Hun</dc:creator>
-      <pubDate>Wed, 09 Oct 2024 04:01:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Korean War</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/08/multimedia/00koreas-reunification-01-twkv/00koreas-reunification-01-twkv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Woohae Cho for The New York Times</media:credit>
-      <media:description>A meeting Tuesday of the “governors” appointed by South Korea to run provinces in North Korea. They have no real power in the North; the appointments are a way for the South to claim sovereignty there.</media:description>
-    </item>
-    <item>
-      <title>How Harrods of London Is Dealing With a Sexual Abuse Scandal</title>
-      <link>https://www.nytimes.com/2024/10/09/world/europe/harrods-sexual-abuse-scandal-mohamed-al-fayed.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/09/world/europe/harrods-sexual-abuse-scandal-mohamed-al-fayed.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/09/world/europe/harrods-sexual-abuse-scandal-mohamed-al-fayed.html" rel="standout"></atom:link>
-      <description>The 175-year-old department store is trying to make amends for alleged abuse by its former owner, Mohamed Al Fayed, even while shoppers seem undeterred.</description>
-      <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Wed, 09 Oct 2024 04:14:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Luxury Goods and Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harrods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Scotland Yard (Metropolitan Police Service)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/10/09/multimedia/09uk-harrods-brand-01-kjhg/09uk-harrods-brand-01-kjhg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Henry Nicholls/Reuters</media:credit>
-      <media:description>People walking past the Harrods department store in London in 2022. Mohamed Al Fayed, who owned the store from 1985 until 2010, allegedly used it as a hunting ground for young women whom he would select from the storeroom floor and then elevate to work in his personal office.</media:description>
     </item>
   </channel>
 </rss>
