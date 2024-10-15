@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>The Verge -  All Posts</title>
   <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
-  <updated>2024-10-15T15:18:13-04:00</updated>
+  <updated>2024-10-15T15:50:43-04:00</updated>
   <id>https://www.theverge.com/rss/full.xml</id>
   <link type="text/html" href="https://www.theverge.com/" rel="alternate"/>
+  <entry>
+    <published>2024-10-15T15:50:43-04:00</published>
+    <updated>2024-10-15T15:50:43-04:00</updated>
+    <title>Google Chrome’s uBlock Origin phaseout has begun</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Illustration of the Chrome logo on a bright and dark red background." src="https://cdn.vox-cdn.com/thumbor/h2hos1jbKiIKhhyQdzBYvnEoNuM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73655448/STK114_Google_Chrome_01.0.jpg" /&gt;
+        &lt;figcaption&gt;Image: The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="xlFYB8"&gt;Google Chrome has begun to phase out uBlock Origin. The developer of the free ad blocker, Raymond Hill, recently &lt;a href="https://x.com/gorhill/status/1846185858744869245"&gt;reposted a screenshot&lt;/a&gt; that shows Chrome automatically turning off uBlock Origin because it is “no longer supported.”&lt;/p&gt;
+&lt;p id="ODjooJ"&gt;The change comes as &lt;a href="https://www.theverge.com/2023/11/16/23964509/google-manifest-v3-rollout-ad-blockers"&gt;Google Chrome migrates to Manifest V3&lt;/a&gt;, a new extension specification that could impact the effectiveness of some ad blockers. uBlock Origin has launched uBlock Origin Lite, which uses Manifest V3, in response to the transition. However, you have to &lt;a href="https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh"&gt;manually install the extension&lt;/a&gt; because it’s “too different from uBO to be an automatic replacement,” according to a &lt;a href="https://github.com/uBlockOrigin/uBOL-home/wiki/Frequently-asked-questions-(FAQ)#if-i-install-ubol-will-i-see-a-difference-with-ubo"&gt;FAQ Hill that posted to GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;div id="zgKXds"&gt;&lt;div data-anthem-component="aside:11724815"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p id="gueblH"&gt;Hill says you may notice a difference when using uBlock Origin Lite compared to uBlock Origin...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2024/10/15/24270981/google-chrome-ublock-origin-phaseout-manifest-v3-ad-blocker"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/10/15/24270981/google-chrome-ublock-origin-phaseout-manifest-v3-ad-blocker"/>
+    <id>https://www.theverge.com/2024/10/15/24270981/google-chrome-ublock-origin-phaseout-manifest-v3-ad-blocker</id>
+    <author>
+      <name>Emma Roth</name>
+    </author>
+  </entry>
   <entry>
     <published>2024-10-15T15:18:13-04:00</published>
     <updated>2024-10-15T15:18:13-04:00</updated>
@@ -234,30 +260,6 @@
     <id>https://www.theverge.com/2024/10/15/24270821/sag-aftra-video-game-voice-actor-strike-resume-negotiations</id>
     <author>
       <name>Ash Parrish</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-10-15T12:00:00-04:00</published>
-    <updated>2024-10-15T12:00:00-04:00</updated>
-    <title>Android 15 is now available for Pixels</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="Android logo on a green and blue background" src="https://cdn.vox-cdn.com/thumbor/JAOtXzyJwyK37AFTJaG3pfUsnpg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73654726/acastro_STK112_android_01.0.jpg" /&gt;
-        &lt;figcaption&gt;Illustration by Alex Castro / The Verge&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="zLF6MX"&gt;Android 15 is now rolling out to Pixel devices, bringing them new privacy features, security tools, and improvements for foldables and tablets. The operating system first launched last month through the Android Open Source Project, but at the time, it &lt;a href="https://www.theverge.com/2024/9/3/24234730/android-15-availability-circle-to-search-earthquake-alerts"&gt;wasn’t yet available&lt;/a&gt; on Pixel phones and tablets — or other major Android devices. &lt;a href="https://blog.google/products/android/android-15/"&gt;Google announced today&lt;/a&gt; that it’s finally coming to Pixels alongside a series of Pixel feature drops.&lt;/p&gt;
-&lt;p id="ynWew1"&gt;One major new feature in Android 15 is the ability to make a “private space” for apps you might want to keep hidden from other people who get ahold of your phone. (Google gives the examples of social, dating, or banking apps.) Apps you put in the private space won’t show up in your recent apps, notifications,...&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2024/10/15/24268043/google-android-15-pixel"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/10/15/24268043/google-android-15-pixel"/>
-    <id>https://www.theverge.com/2024/10/15/24268043/google-android-15-pixel</id>
-    <author>
-      <name>Jay Peters</name>
     </author>
   </entry>
 </feed>
