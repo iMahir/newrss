@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.23925882405117505" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 16 Oct 2024 09:27:19 +0000</lastBuildDate>
-    <pubDate>Wed, 16 Oct 2024 09:12:03 +0000</pubDate>
+    <lastBuildDate>Wed, 16 Oct 2024 09:47:28 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Oct 2024 09:40:57 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -253,13 +253,59 @@
       <media:description>A detention center for migrants seeking to enter Italy, in Gjader, Albania, last week.</media:description>
     </item>
     <item>
+      <title>Flying Into Storms Improves Forecasts, but It Is Rare in Asia’s Typhoon Alley</title>
+      <link>https://www.nytimes.com/2024/10/16/world/asia/typhoon-hurricane-forecast-accuracy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/16/world/asia/typhoon-hurricane-forecast-accuracy.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/16/world/asia/typhoon-hurricane-forecast-accuracy.html" rel="standout"></atom:link>
+      <description>While observational flights have improved forecasts for many storms in the Americas, such flights have been far fewer for storms that have hit Asia.</description>
+      <dc:creator>John Yoon</dc:creator>
+      <pubDate>Wed, 16 Oct 2024 09:40:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Typhoons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Meteorological Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Oceanic and Atmospheric Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Asia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South China Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
+    </item>
+    <item>
+      <title>With Jets and Ships, China is Honing Its Ability to Choke Taiwan</title>
+      <link>https://www.nytimes.com/2024/10/16/world/asia/china-taiwan-blockade-drills.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/16/world/asia/china-taiwan-blockade-drills.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/16/world/asia/china-taiwan-blockade-drills.html" rel="standout"></atom:link>
+      <description>China’s large-scale military exercises are encircling Taiwan and testing the island’s defenses. They also raise the risk of conflict, accidental or otherwise.</description>
+      <dc:creator>David Pierson and Amy Chang Chien</dc:creator>
+      <pubDate>Wed, 16 Oct 2024 09:33:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aircraft Carriers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">People&#39;s Liberation Army (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Asia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fujian Province (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lai Ching-te</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tsai Ing-wen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/16/multimedia/taiwan-china-drills-01-hbjl/taiwan-china-drills-01-hbjl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Greg Baker/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Scores of Chinese aircraft and dozens of ships surrounded Taiwan, after President Lai Ching-te rejected Beijing’s claim over the island.</media:description>
+    </item>
+    <item>
       <title>Fleeing Israeli Bombs, the Displaced in Lebanon Search for Safety</title>
       <link>https://www.nytimes.com/2024/10/16/world/middleeast/israel-lebanon-displaced-hezbollah.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/10/16/world/middleeast/israel-lebanon-displaced-hezbollah.html</guid>
       <atom:link href="https://www.nytimes.com/2024/10/16/world/middleeast/israel-lebanon-displaced-hezbollah.html" rel="standout"></atom:link>
       <description>Schools, clubs and parks have become places of refuge as the displaced seek safety amid Israeli bombings.</description>
       <dc:creator>Alissa J. Rubin and David Guttenfelder</dc:creator>
-      <pubDate>Wed, 16 Oct 2024 09:12:03 +0000</pubDate>
+      <pubDate>Wed, 16 Oct 2024 09:40:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
@@ -319,7 +365,7 @@
       <atom:link href="https://www.nytimes.com/2024/10/16/world/americas/brazil-supreme-court-expanded-powers-democracy.html" rel="standout"></atom:link>
       <description>Brazil’s top court expanded its power to protect democracy. But some are wondering whether the court now represents the threat.</description>
       <dc:creator>Jack Nicas</dc:creator>
-      <pubDate>Wed, 16 Oct 2024 09:02:47 +0000</pubDate>
+      <pubDate>Wed, 16 Oct 2024 09:02:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
@@ -1111,40 +1157,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/10/multimedia/10berlusconi-legacy-01-fghm/10berlusconi-legacy-01-fghm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Davide Monteleone for The New York Times</media:credit>
       <media:description>“He messed up my life,” Karima el-Mahroug says of Silvio Berlusconi, the former Italian prime minister who died last year.</media:description>
-    </item>
-    <item>
-      <title>How Palestinians Are Roadblocked in the West Bank</title>
-      <link>https://www.nytimes.com/video/world/middleeast/100000009749390/how-palestinians-are-roadblocked-in-the-west-bank.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/video/world/middleeast/100000009749390/how-palestinians-are-roadblocked-in-the-west-bank.html</guid>
-      <atom:link href="https://www.nytimes.com/video/world/middleeast/100000009749390/how-palestinians-are-roadblocked-in-the-west-bank.html" rel="standout"></atom:link>
-      <description>Driving in the Israeli-occupied West Bank is an incredibly different experience depending on who you are. Ben Hubbard, international correspondent for The New York Times, rode along on two bus trips, one for Israelis, the other for Palestinians, that tell a story of separate and unequal roadways.</description>
-      <dc:creator>Ben Hubbard, Rebecca Suner and James Surdam</dc:creator>
-      <pubDate>Mon, 14 Oct 2024 13:59:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buses</category>
-    </item>
-    <item>
-      <title>Boot Found at Everest Could Be From Sandy Irvine, Who Vanished 100 Years Ago</title>
-      <link>https://www.nytimes.com/2024/10/12/world/asia/sandy-irvine-remains-everest.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/12/world/asia/sandy-irvine-remains-everest.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/12/world/asia/sandy-irvine-remains-everest.html" rel="standout"></atom:link>
-      <description>When Sandy Irvine went on a pioneering expedition to Mount Everest’s summit in 1924, he and his partner vanished. The recent discovery may shed light on the ill-fated adventure.</description>
-      <dc:creator>Hank Sanders</dc:creator>
-      <pubDate>Sun, 13 Oct 2024 00:38:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Irvine, Andrew</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mallory, George Leigh</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mount Everest</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mountaineering</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missing Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <media:content height="778" medium="image" url="https://static01.nyt.com/images/2024/10/11/multimedia/11xp-irvine2/11xp-irvine2-mediumSquareAt3X.jpg" width="779"></media:content>
-      <media:credit>Noel E. Odell/Royal Geographical Society, via Getty Images</media:credit>
-      <media:description>The last known image taken of George Mallory, left, and Sandy Irvine. The two men vanished while trying to be the first to reach the summit at Mount Everest in 1924.</media:description>
     </item>
   </channel>
 </rss>
