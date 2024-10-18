@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.00949067210884147" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 18 Oct 2024 13:26:35 +0000</lastBuildDate>
-    <pubDate>Fri, 18 Oct 2024 13:26:04 +0000</pubDate>
+    <lastBuildDate>Fri, 18 Oct 2024 13:37:27 +0000</lastBuildDate>
+    <pubDate>Fri, 18 Oct 2024 13:35:09 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,9 +21,9 @@
       <atom:link href="https://www.nytimes.com/live/2024/10/18/world/israel-hamas-gaza-news" rel="standout"></atom:link>
       <description>The Biden administration was trying to restart cease-fire talks after Israel killed Yahya Sinwar in Gaza. Hamas confirmed its leader’s death but said his “banner will not fall.”</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 18 Oct 2024 13:26:04 +0000</pubDate>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/10/18/multimedia/18mideast-crisis-live-promo0830ET/18mideast-crisis-live-promo0830ET-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Samar Abu Elouf for The New York Times</media:credit>
+      <pubDate>Fri, 18 Oct 2024 13:34:03 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/18/multimedia/18mideast-930-kplh/18mideast-930-kplh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mohammed Abed/Agence France-Presse — Getty Images</media:credit>
     </item>
     <item>
       <title>Yahya Sinwar’s Death Could Shake But Not Topple Hamas, Experts Say</title>
@@ -337,17 +337,20 @@
       <description>The United States and Canada have worked together to investigate what they say is the Indian government’s campaign against Sikh separatists.</description>
       <dc:creator>Devlin Barrett</dc:creator>
       <pubDate>Fri, 18 Oct 2024 07:57:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gupta, Nikhil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yadav, Vikash</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sikhs and Sikhism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pannun, Gurpatwant Singh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pannun, Gurpatwant Singh</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gupta, Nikhil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/10/17/multimedia/17dc-india-ztjw/17dc-india-ztjw-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Kent Nishimura for The New York Times</media:credit>
       <media:description>Prime Minister Narendra Modi of India, right, and Prime Minister Anthony Albanese of Australia last month as President Biden spoke in Clayton, Del.</media:description>
