@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.35144910771240734" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 19 Oct 2024 18:46:54 +0000</lastBuildDate>
-    <pubDate>Sat, 19 Oct 2024 18:40:18 +0000</pubDate>
+    <lastBuildDate>Sat, 19 Oct 2024 19:06:58 +0000</lastBuildDate>
+    <pubDate>Sat, 19 Oct 2024 19:04:09 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -296,17 +296,39 @@
       <atom:link href="https://www.nytimes.com/2024/10/18/world/americas/cuba-power-plant-blackout.html" rel="standout"></atom:link>
       <description>The Cuban government had just announced emergency measures to reduce electricity use — then the power went out across the entire nation.</description>
       <dc:creator>Frances Robles</dc:creator>
-      <pubDate>Sat, 19 Oct 2024 03:46:58 +0000</pubDate>
+      <pubDate>Sat, 19 Oct 2024 03:46:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Havana (Cuba)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Diaz-Canel Bermudez, Miguel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2024/10/18/multimedia/18cuba-photo-lpmf/18cuba-photo-lpmf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Antonio Levi/Agence France-Presse — Getty Images</media:credit>
       <media:description>People waiting at a bus station on Friday in Matanzas, Cuba, following a power outage across the entire country.</media:description>
+    </item>
+    <item>
+      <title>Tensions Spike in Mozambique After Killing of 2 Political Activists</title>
+      <link>https://www.nytimes.com/2024/10/19/world/africa/mozambique-election-activists-killed.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/19/world/africa/mozambique-election-activists-killed.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/19/world/africa/mozambique-election-activists-killed.html" rel="standout"></atom:link>
+      <description>Leading supporters of the top opposition presidential candidate, Venâncio Mondlane, were fatally shot in their car following an election marred by allegations of fraud.</description>
+      <dc:creator>Tavares Cebola and John Eligon</dc:creator>
+      <pubDate>Sat, 19 Oct 2024 19:04:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Frelimo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Podemos (Spanish Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mondlane, Venancio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chapo, Daniel Francisco</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/19/multimedia/19mozambique-election-photo1-jkfg/19mozambique-election-photo1-jkfg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alfredo Zuniga/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Venâncio Mondlane, the leading opposition candidate in Mozambique’s recent election, attended a vigil in Maputo on Saturday following the killings of his lawyer and an adviser late Friday.</media:description>
     </item>
     <item>
       <title>Novelty Acts</title>
@@ -731,13 +753,14 @@
       <description>Analysts call the killing of several Hamas leaders, including Yahya Sinwar, a deep blow to the Palestinian militant group, but expect it to keep fighting.</description>
       <dc:creator>Ben Hubbard</dc:creator>
       <pubDate>Fri, 18 Oct 2024 15:03:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sinwar, Yehya</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/18/multimedia/18hamas-assess-top-swap-tjmw/18hamas-assess-top-swap-tjmw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lynsey Addario for The New York Times</media:credit>
       <media:description>Soldiers with al Qassam Brigades, Hamas’s military wing, in Gaza City in 2011.</media:description>
@@ -1222,25 +1245,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/10/18/multimedia/18xp-fan-mqcg/18xp-fan-mqcg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Yan Cong for The New York Times</media:credit>
       <media:description>Fan Bingbing in Beijing in 2019. The year before, she was at the peak of her career.</media:description>
-    </item>
-    <item>
-      <title>Zelensky Outlines Ukraine’s ‘Victory Plan’ to EU Leaders</title>
-      <link>https://www.nytimes.com/2024/10/17/world/europe/zelensky-eu-victory-plan.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/17/world/europe/zelensky-eu-victory-plan.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/17/world/europe/zelensky-eu-victory-plan.html" rel="standout"></atom:link>
-      <description>President Volodymyr Zelensky of Ukraine made an urgent plea in Brussels, though it’s unclear to what extent the officials gathered there will go along with it.</description>
-      <dc:creator>Jenny Gross and Constant Méheut</dc:creator>
-      <pubDate>Fri, 18 Oct 2024 07:11:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/10/17/multimedia/17eu-zelensky-mjtb/17eu-zelensky-mjtb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Olivier Hoslet/EPA, via Shutterstock</media:credit>
-      <media:description>President Volodymyr Zelensky of Ukraine, left with Charles Michel of the European Council, told a gathering in Brussels that Russia would “resort to diplomacy” only “when it sees that it cannot achieve anything by force.”</media:description>
     </item>
   </channel>
 </rss>
