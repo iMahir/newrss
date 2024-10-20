@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.029423171625603484" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 20 Oct 2024 10:12:39 +0000</lastBuildDate>
-    <pubDate>Sun, 20 Oct 2024 09:57:33 +0000</pubDate>
+    <lastBuildDate>Sun, 20 Oct 2024 10:31:17 +0000</lastBuildDate>
+    <pubDate>Sun, 20 Oct 2024 10:25:14 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -104,9 +104,40 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moldova</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/10/20/multimedia/20moldova-election-lgpc/20moldova-election-lgpc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/20/multimedia/20moldova-election-lgpc/20moldova-election-lgpc-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
       <media:credit>Daniel Mihailescu/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Voting on Sunday in Chisinau, Moldova. </media:description>
+      <media:description>Voting on Sunday in Chisinau, Moldova.</media:description>
+    </item>
+    <item>
+      <title>Leaked U.S. Intelligence Suggests Israel Is Preparing to Strike Iran</title>
+      <link>https://www.nytimes.com/2024/10/19/us/politics/us-intelligence-israel-iran.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/19/us/politics/us-intelligence-israel-iran.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/19/us/politics/us-intelligence-israel-iran.html" rel="standout"></atom:link>
+      <description>American officials are trying to determine the source of the leak, which describes military drills and weapons placement, and how damaging it might be.</description>
+      <dc:creator>Julian E. Barnes, Ronen Bergman and David E. Sanger</dc:creator>
+      <pubDate>Sat, 19 Oct 2024 23:11:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/10/19/multimedia/19dc-intel-jvct/19dc-intel-jvct-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Amir Cohen/Reuters</media:credit>
+      <media:description>An Israeli tank maneuvering near the Israel-Gaza border this week. The war has expanded to include Iran and its proxies.</media:description>
+    </item>
+    <item>
+      <title>Live Updates: Israel Strikes Hezbollah Stronghold South of Beirut</title>
+      <link>https://www.nytimes.com/live/2024/10/20/world/israel-hamas-yahya-sinwar-news</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2024/10/20/world/israel-hamas-yahya-sinwar-news</guid>
+      <atom:link href="https://www.nytimes.com/live/2024/10/20/world/israel-hamas-yahya-sinwar-news" rel="standout"></atom:link>
+      <description>The Israeli military attacked the Dahiya, a Hezbollah-dominated area south of the Lebanese capital. In Gaza, a Palestinian emergency service said an overnight Israeli strike killed and wounded “tens” of people.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sun, 20 Oct 2024 10:25:14 +0000</pubDate>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/10/20/multimedia/20mideast-crisis-promo0530ET/20mideast-crisis-header-gwtf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hussein Malla/Associated Press</media:credit>
     </item>
     <item>
       <title>What Joko Widodo Achieved as President</title>
@@ -235,58 +266,6 @@
       <media:description>Venâncio Mondlane, the leading opposition candidate in Mozambique’s recent election, attended a vigil in Maputo on Saturday following the killings of his lawyer and an adviser late Friday.</media:description>
     </item>
     <item>
-      <title>Despite Sinwar’s Death, Mideast Peace May Still Be Elusive</title>
-      <link>https://www.nytimes.com/2024/10/19/world/middleeast/mideast-peace-israel-sinwar-iran.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/19/world/middleeast/mideast-peace-israel-sinwar-iran.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/19/world/middleeast/mideast-peace-israel-sinwar-iran.html" rel="standout"></atom:link>
-      <description>Just about all of the actors in the region are looking for an “offramp” to the conflict, many analysts say. But Hezbollah and Hamas are talking tough, and Israel is not backing down.</description>
-      <dc:creator>Vivian Yee</dc:creator>
-      <pubDate>Sat, 19 Oct 2024 14:38:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jordan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qatar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sinwar, Yehya</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/10/17/multimedia/17sinwar-region-pmlc/17sinwar-region-pmlc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Chris McGrath/Getty Images</media:credit>
-      <media:description>The killing of the Hamas leader Yahya Sinwar may have opened a window to a peace agreement that would be widely welcomed, some analysts say. </media:description>
-    </item>
-    <item>
-      <title>Despite Israeli Bombs and Assassinations, Hezbollah Keeps Fighting</title>
-      <link>https://www.nytimes.com/2024/10/19/world/middleeast/israel-hezbollah-lebanon-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/19/world/middleeast/israel-hezbollah-lebanon-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/19/world/middleeast/israel-hezbollah-lebanon-war.html" rel="standout"></atom:link>
-      <description>Extensive Israeli attacks have blown up Hezbollah munitions and killed many fighters and leaders, but the Lebanese militia is far from incapacitated, analysts say.</description>
-      <dc:creator>Natan Odenheimer and Ben Hubbard</dc:creator>
-      <pubDate>Sat, 19 Oct 2024 09:03:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasrallah, Hassan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sinwar, Yehya</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/10/17/multimedia/00hezbollah-capabilities-01-zvqj/00hezbollah-capabilities-01-zvqj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
-      <media:description>A funeral last month for Hezbollah members who were killed in the pager attacks south of Beirut. Despite its losses, Hezbollah continues to fight.</media:description>
-    </item>
-    <item>
       <title>5 Provisions in China’s Panda Contracts With U.S. Zoos</title>
       <link>https://www.nytimes.com/2024/10/19/world/asia/panda-rental-contracts.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/10/19/world/asia/panda-rental-contracts.html</guid>
@@ -342,7 +321,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dublin (Ireland)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northern Ireland</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/18/multimedia/18NFL-IRELAND-zlfh/18NFL-IRELAND-zlfh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/18/multimedia/18NFL-IRELAND-zlfh/18NFL-IRELAND-zlfh-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Paulo Nunes dos Santos for The New York Times</media:credit>
       <media:description>A Steelers watch party held at Dublin’s Croke Park last month drew a sold-out crowd of 800 people.</media:description>
     </item>
@@ -405,6 +384,34 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/10/19/multimedia/19mideast-crisis-austin-wzgj/19mideast-crisis-austin-wzgj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Olivier Matthys/EPA, via Shutterstock</media:credit>
       <media:description>While criticizing Israel for high civilian casualties in its attacks on Lebanon, Defense Secretary Lloyd J. Austin III also blamed Hezbollah for hiding its weapons and fighters among the civilian population.</media:description>
+    </item>
+    <item>
+      <title>Despite Sinwar’s Death, Mideast Peace May Still Be Elusive</title>
+      <link>https://www.nytimes.com/2024/10/19/world/middleeast/mideast-peace-israel-sinwar-iran.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/19/world/middleeast/mideast-peace-israel-sinwar-iran.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/19/world/middleeast/mideast-peace-israel-sinwar-iran.html" rel="standout"></atom:link>
+      <description>Just about all of the actors in the region are looking for an “offramp” to the conflict, many analysts say. But Hezbollah and Hamas are talking tough, and Israel is not backing down.</description>
+      <dc:creator>Vivian Yee</dc:creator>
+      <pubDate>Sat, 19 Oct 2024 14:38:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jordan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qatar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sinwar, Yehya</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/10/17/multimedia/17sinwar-region-pmlc/17sinwar-region-pmlc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chris McGrath/Getty Images</media:credit>
+      <media:description>The killing of the Hamas leader Yahya Sinwar may have opened a window to a peace agreement that would be widely welcomed, some analysts say. </media:description>
     </item>
     <item>
       <title>Novelty Acts</title>
@@ -507,6 +514,30 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/17/world/00south-america-drought/00south-america-drought-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Luis Acosta/Agence France-Presse — Getty Images</media:credit>
       <media:description>The banks of the Amazon River this month in Colombia. Colombia’s disaster risk agency recently said the flow of the Amazon River had been reduced by up to 90 percent because of a lack of rainfall.</media:description>
+    </item>
+    <item>
+      <title>Despite Israeli Bombs and Assassinations, Hezbollah Keeps Fighting</title>
+      <link>https://www.nytimes.com/2024/10/19/world/middleeast/israel-hezbollah-lebanon-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/19/world/middleeast/israel-hezbollah-lebanon-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/19/world/middleeast/israel-hezbollah-lebanon-war.html" rel="standout"></atom:link>
+      <description>Extensive Israeli attacks have blown up Hezbollah munitions and killed many fighters and leaders, but the Lebanese militia is far from incapacitated, analysts say.</description>
+      <dc:creator>Natan Odenheimer and Ben Hubbard</dc:creator>
+      <pubDate>Sat, 19 Oct 2024 09:03:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasrallah, Hassan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sinwar, Yehya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/10/17/multimedia/00hezbollah-capabilities-01-zvqj/00hezbollah-capabilities-01-zvqj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <media:description>A funeral last month for Hezbollah members who were killed in the pager attacks south of Beirut. Despite its losses, Hezbollah continues to fight.</media:description>
     </item>
     <item>
       <title>Reinventing Concrete, the Ancient Roman Way</title>
@@ -1233,41 +1264,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/10/17/multimedia/17nigeria-1-vcpb/17nigeria-1-vcpb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sani Maikatanga/Associated Press</media:credit>
       <media:description>Victims of a tanker explosion receive treatment inside an ambulance at the Aminu Kano teaching hospital in Kano, Nigeria, on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>How Israel Found and Killed Hamas Leader Yahya Sinwar in Gaza</title>
-      <link>https://www.nytimes.com/2024/10/17/world/middleeast/how-yahya-sinwar-killed.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/17/world/middleeast/how-yahya-sinwar-killed.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/17/world/middleeast/how-yahya-sinwar-killed.html" rel="standout"></atom:link>
-      <description>A unit of Israeli trainee soldiers came upon Yahya Sinwar, the leader of Hamas, while on an operation in southern Gaza, defense officials said.</description>
-      <dc:creator>Ronen Bergman and Aaron Boxerman</dc:creator>
-      <pubDate>Fri, 18 Oct 2024 12:37:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sinwar, Yehya</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/11/17/world/17mideast-crisis-firefight-promo/17mideast-crisis-firefight-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Yousef Masoud/SOPA Images, via Getty Images</media:credit>
-    </item>
-    <item>
-      <title>In Northern Gaza, Hunger Looms Over Daily Existence</title>
-      <link>https://www.nytimes.com/2024/10/17/world/middleeast/gaza-hunger-war-israel.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/17/world/middleeast/gaza-hunger-war-israel.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/17/world/middleeast/gaza-hunger-war-israel.html" rel="standout"></atom:link>
-      <description>Families say they are rationing what little food they can find while living under the constant threat of Israeli bombardment.</description>
-      <dc:creator>Abu Bakr Bashir and Raja Abdulrahim</dc:creator>
-      <pubDate>Fri, 18 Oct 2024 07:03:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Insecurity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/17/multimedia/17mideast-crisis-gaza-voices02-wkhb/17mideast-crisis-gaza-voices02-wkhb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Omar Al-Qattaa/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Palestinians receiving vegetable patties prepared by volunteers in Beit Lahia, in northern Gaza, in August.</media:description>
     </item>
   </channel>
 </rss>
