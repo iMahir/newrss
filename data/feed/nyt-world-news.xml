@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?cacheBuster=1729412088403" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 20 Oct 2024 07:46:14 +0000</lastBuildDate>
-    <pubDate>Sun, 20 Oct 2024 07:06:42 +0000</pubDate>
+    <lastBuildDate>Sun, 20 Oct 2024 08:14:48 +0000</lastBuildDate>
+    <pubDate>Sun, 20 Oct 2024 07:58:20 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -324,6 +324,30 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/05/15/multimedia/15guatemala-journo-HFO-fqzm/15guatemala-journo-HFO-fqzm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Daniele Volpe for The New York Times</media:credit>
       <media:description>José Rubén Zamora, the founder and publisher of elPeriódico, as he was escorted from prison to court last year in Guatemala City.</media:description>
+    </item>
+    <item>
+      <title>Tugged Between East and West, Moldova Makes a Pivotal Choice</title>
+      <link>https://www.nytimes.com/2024/10/20/world/europe/moldova-election-russia-eu.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/20/world/europe/moldova-election-russia-eu.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/20/world/europe/moldova-election-russia-eu.html" rel="standout"></atom:link>
+      <description>Moldovans are voting on whether to enshrine in their Constitution an “irreversible” commitment to abandon Russian influence and one day join the E.U.</description>
+      <dc:creator>Andrew Higgins</dc:creator>
+      <pubDate>Sun, 20 Oct 2024 07:58:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sandu, Maia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moldova</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/10/20/multimedia/20moldova-election-lgpc/20moldova-election-lgpc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Daniel Mihailescu/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Voting on Sunday in Chisinau, Moldova. </media:description>
     </item>
     <item>
       <title>Families of Israeli Hostages Call on Netanyahu to Reach Gaza Cease-Fire Deal</title>
@@ -1240,27 +1264,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/17/multimedia/17germany-biden-gkhw/17germany-biden-gkhw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eric Lee/The New York Times</media:credit>
       <media:description>President Biden preparing to board Air Force One, en route to Berlin, at Joint Base Andrews in Maryland on Thursday.</media:description>
-    </item>
-    <item>
-      <title>Yahya Sinwar, Leader of Hamas, Is Dead</title>
-      <link>https://www.nytimes.com/2024/10/17/world/middleeast/yahya-sinwar-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/17/world/middleeast/yahya-sinwar-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/17/world/middleeast/yahya-sinwar-dead.html" rel="standout"></atom:link>
-      <description>Mr. Sinwar climbed the ranks of the Palestinian militant group to plot the deadliest attack on Israel in its history.</description>
-      <dc:creator>Ben Hubbard</dc:creator>
-      <pubDate>Fri, 18 Oct 2024 01:29:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sinwar, Yehya</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/10/17/multimedia/00sinwar-obit-01-qhvf/00sinwar-obit-01-qhvf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Samar Abu Elouf for The New York Times</media:credit>
-      <media:description>Yahya Sinwar, the leader of Hamas, greeting the audience at the International Quds Day festival in Gaza City last year.</media:description>
     </item>
   </channel>
 </rss>
