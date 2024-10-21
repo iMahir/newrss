@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.3095397503952144" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 21 Oct 2024 04:49:03 +0000</lastBuildDate>
-    <pubDate>Mon, 21 Oct 2024 04:41:54 +0000</pubDate>
+    <lastBuildDate>Mon, 21 Oct 2024 05:14:21 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Oct 2024 04:51:41 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -317,6 +317,18 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/10/17/multimedia/17ukraine-deserter-01-cqlt/17ukraine-deserter-01-cqlt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Stanislav Yurchenko/Reuters</media:credit>
       <media:description>Serhii Hnezdilov, a Ukrainian soldier and activist, at a court hearing in Kyiv this month after his arrest on a charge of desertion. </media:description>
+    </item>
+    <item>
+      <title>Monday Briefing</title>
+      <link>https://www.nytimes.com/2024/10/21/briefing/donald-trump-israel-hezbollah-moldova-referendum.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/21/briefing/donald-trump-israel-hezbollah-moldova-referendum.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/21/briefing/donald-trump-israel-hezbollah-moldova-referendum.html" rel="standout"></atom:link>
+      <description>Israel escalates its attacks in Lebanon.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Mon, 21 Oct 2024 04:51:05 +0000</pubDate>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2024/10/20/multimedia/21ambriefing-europe-nl-trump-llmn/21ambriefing-europe-nl-trump-llmn-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>Donald Trump’s campaign turned his Georgia mug shot into a piece of promotional material, putting it on posters, T-shirts and buttons.</media:description>
     </item>
     <item>
       <title>How a TV Hit Sparked Debate About Birthrates in Africa</title>
@@ -1227,29 +1239,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/10/17/multimedia/17dc-india-ztjw/17dc-india-ztjw-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Kent Nishimura for The New York Times</media:credit>
       <media:description>Prime Minister Narendra Modi of India, right, and Prime Minister Anthony Albanese of Australia last month as President Biden spoke in Claymont, Del.</media:description>
-    </item>
-    <item>
-      <title>Hamas Leader Yahya Sinwar Was Killed After a Surprise Battlefield Encounter</title>
-      <link>https://www.nytimes.com/2024/10/17/world/middleeast/hamas-sinwar-gaza-israel.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/17/world/middleeast/hamas-sinwar-gaza-israel.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/17/world/middleeast/hamas-sinwar-gaza-israel.html" rel="standout"></atom:link>
-      <description>Although Yahya Sinwar was a major target of Israel’s military campaign in Gaza, the soldiers who killed the militant chief had not expected to run across him, Israeli officials said.</description>
-      <dc:creator>Ronen Bergman, Aaron Boxerman, Raja Abdulrahim, Patrick Kingsley and Michael Levenson</dc:creator>
-      <pubDate>Fri, 18 Oct 2024 14:37:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sinwar, Yehya</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Targeted Killings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/17/multimedia/17mideast-1-zhgq/17mideast-1-zhgq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Samar Abu Elouf for The New York Times</media:credit>
-      <media:description>Yahya Sinwar in Gaza City before the war.</media:description>
     </item>
   </channel>
 </rss>
