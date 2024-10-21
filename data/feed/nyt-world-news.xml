@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.7144344688031223" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 21 Oct 2024 10:51:12 +0000</lastBuildDate>
-    <pubDate>Mon, 21 Oct 2024 10:46:42 +0000</pubDate>
+    <lastBuildDate>Mon, 21 Oct 2024 11:09:27 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Oct 2024 11:07:25 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/10/21/world/israel-hamas-iran-lebanon" rel="standout"></atom:link>
       <description>The Israeli military said it had conducted dozens of attacks overnight on the militia’s financial arm in Lebanon. Two top U.S. diplomats were working to calm Israel’s conflicts with Hezbollah and Hamas.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 21 Oct 2024 10:46:42 +0000</pubDate>
+      <pubDate>Mon, 21 Oct 2024 11:03:37 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/21/multimedia/21mideast-crisis-promo645am/21mideast-crisis-carousel-01-jmqh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>EPA, via Shutterstock</media:credit>
     </item>
@@ -147,11 +147,12 @@
       <dc:creator>Bilal Shbair and Erika Solomon</dc:creator>
       <pubDate>Sun, 20 Oct 2024 16:58:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thomas-Greenfield, Linda</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">al-Dalou, Shaaban (2004-24)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/10/20/multimedia/20gaza-burned-01-qczj/20gaza-burned-01-qczj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Al-Dalou family, via Associated Press</media:credit>
       <media:description>A picture made available by the family of Shaaban al-Dalou, who burned alive after an Israeli strike at a hospital.</media:description>
@@ -318,13 +319,32 @@
       <media:description>The San Diego Zoo, above, received two pandas from China this summer. Carefully crafted contracts set the terms for these exchanges.</media:description>
     </item>
     <item>
+      <title>THAAD Missile Defense System Arrives in Israel, U.S. Says</title>
+      <link>https://www.nytimes.com/2024/10/21/world/middleeast/israel-thaad-missile-defense.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/21/world/middleeast/israel-thaad-missile-defense.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/21/world/middleeast/israel-thaad-missile-defense.html" rel="standout"></atom:link>
+      <description>The Terminal High Altitude Area Defense system was in place, Defense Secretary Lloyd J. Austin III said on Monday. The deployment comes as Israel prepares for retaliatory attacks against Iran.</description>
+      <dc:creator>Matthew Mpoke Bigg and Eric Schmitt</dc:creator>
+      <pubDate>Mon, 21 Oct 2024 11:02:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/21/multimedia/21mideast-crisis-thaad-system-zvkm/21mideast-crisis-thaad-system-zvkm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chang W. Lee/The New York Times</media:credit>
+      <media:description>A Terminal High Altitude Area Defense unit deployed last year in Guam during a multinational military exercise.</media:description>
+    </item>
+    <item>
       <title>King Charles III Heckled in Australia’s Parliament</title>
       <link>https://www.nytimes.com/2024/10/21/world/europe/king-charles-australia-parliament-lidia-thorpe.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/10/21/world/europe/king-charles-australia-parliament-lidia-thorpe.html</guid>
       <atom:link href="https://www.nytimes.com/2024/10/21/world/europe/king-charles-australia-parliament-lidia-thorpe.html" rel="standout"></atom:link>
       <description>King Charles, visiting the former British colony where he retains the ceremonial title of head of state, was shouted at by an Indigenous Australian senator.</description>
       <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Mon, 21 Oct 2024 10:23:56 +0000</pubDate>
+      <pubDate>Mon, 21 Oct 2024 10:55:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
@@ -1212,23 +1232,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/18/multimedia/18france-floods-01-zkgm/18france-floods-01-zkgm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jean-Philippe Ksiazek/Agence France-Presse — Getty Images</media:credit>
       <media:description>Cars partially submerged in a commercial zone in Givors, south of Lyon in central-eastern France, following heavy rainfall in the area on Thursday. </media:description>
-    </item>
-    <item>
-      <title>Why Thomas Tuchel Was the Right Choice for England. And the Wrong One, Too.</title>
-      <link>https://www.nytimes.com/2024/10/18/world/europe/thomas-tuchel-england.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/18/world/europe/thomas-tuchel-england.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/18/world/europe/thomas-tuchel-england.html" rel="standout"></atom:link>
-      <description>An outcry over the hiring of a German to lead England’s national team was predictable. But don’t dismiss every objection out of hand.</description>
-      <dc:creator>Rory Smith</dc:creator>
-      <pubDate>Fri, 18 Oct 2024 14:30:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coaches and Managers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tuchel, Thomas (1973- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">English Football Assn</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/18/multimedia/18rory-tuchel-bzfk/18rory-tuchel-bzfk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Adrian Dennis/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Is this man the right choice to be England’s manager?</media:description>
     </item>
   </channel>
 </rss>
