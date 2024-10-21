@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.469359161515323" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 21 Oct 2024 14:10:34 +0000</lastBuildDate>
-    <pubDate>Mon, 21 Oct 2024 14:06:49 +0000</pubDate>
+    <lastBuildDate>Mon, 21 Oct 2024 14:32:26 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Oct 2024 14:31:44 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/10/21/world/israel-hamas-iran-lebanon" rel="standout"></atom:link>
       <description>The Israeli military said it had conducted dozens of attacks overnight on the militia’s financial arm in Lebanon. Two top U.S. diplomats were working to calm Israel’s conflicts with Hezbollah and Hamas.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 21 Oct 2024 14:06:49 +0000</pubDate>
+      <pubDate>Mon, 21 Oct 2024 14:31:44 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/21/multimedia/21mideast-crisis-promo10am-fqwp/21mideast-crisis-promo10am-fqwp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Omar Al-Qattaa/Agence France-Presse — Getty Images</media:credit>
     </item>
@@ -159,7 +159,7 @@
       <atom:link href="https://www.nytimes.com/2024/10/21/world/europe/russia-china-brics.html" rel="standout"></atom:link>
       <description>The Russian leader hopes to use the meeting of the so-called BRICS group, which includes China and India, as a counterweight to the West.</description>
       <dc:creator>Valerie Hopkins and David Pierson</dc:creator>
-      <pubDate>Mon, 21 Oct 2024 09:45:40 +0000</pubDate>
+      <pubDate>Mon, 21 Oct 2024 14:19:54 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
@@ -280,15 +280,16 @@
       <description>The role of chancellor at the University of Oxford has been around for 800 years. This year, a particularly broad range of people have applied.</description>
       <dc:creator>Mark Landler</dc:creator>
       <pubDate>Sun, 20 Oct 2024 04:01:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Academic Freedom</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Oxford University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hague, William</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Patten, Christopher F</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Garton Ash, Timothy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Academic Freedom</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oxford (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Patten, Christopher F</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mandelson, Peter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Angiolini, Elish</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hague, William</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/20/multimedia/20uk-oxford01-photo-mtwg/20uk-oxford01-photo-mtwg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Andy Haslam for The New York Times</media:credit>
       <media:description>The Radcliffe Camera at the University of Oxford. About 26,000 alumni have registered to vote online to elect the next chancellor.</media:description>
@@ -314,6 +315,26 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/16/multimedia/00indonesia-jokowi-legacy-01-cjbq/00indonesia-jokowi-legacy-01-cjbq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ulet Ifansasti for The New York Times</media:credit>
       <media:description>President Joko Widodo of Indonesia left office on Sunday after a decade-long tenure. He remains extremely popular but has also been polarizing. </media:description>
+    </item>
+    <item>
+      <title>Moldova Referendum on Goal of E.U. Membership Passes by a Thin Margin</title>
+      <link>https://www.nytimes.com/2024/10/21/world/europe/moldova-eu-referendum-vote-result.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/21/world/europe/moldova-eu-referendum-vote-result.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/21/world/europe/moldova-eu-referendum-vote-result.html" rel="standout"></atom:link>
+      <description>A referendum that constitutionally enshrines a national objective to join the E.U. passed by a thin margin. The incumbent pro-E.U. president won the most votes in a concurrent election, but faces a runoff.</description>
+      <dc:creator>Andrew Higgins</dc:creator>
+      <pubDate>Mon, 21 Oct 2024 14:27:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sandu, Maia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moldova</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zourabichvili, Salome</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/21/multimedia/21moldova-gkcv/21moldova-gkcv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Vadim Ghirda/Associated Press</media:credit>
+      <media:description>President Maia Sandu casts her ballot in Chisinau, Moldova, on Sunday. She declared victory “in an unfair fight.” </media:description>
     </item>
     <item>
       <title>THAAD Missile Defense System Arrives in Israel, U.S. Says</title>
@@ -1205,29 +1226,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/10/28/multimedia/28xp-kidnapping-tlpg/28xp-kidnapping-tlpg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Philippine National Police Regional Office 9, via Associated Press</media:credit>
       <media:description>A police officer investigating in the area where Elliot Onil Eastman, an American living in the Philippines, was abducted on Thursday, according to the police.</media:description>
-    </item>
-    <item>
-      <title>Yes, Ambassadors Can Get Away With Murder</title>
-      <link>https://www.nytimes.com/2024/10/18/world/ambassadors-murder-india-sikh.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/18/world/ambassadors-murder-india-sikh.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/18/world/ambassadors-murder-india-sikh.html" rel="standout"></atom:link>
-      <description>Diplomatic immunity is one of the oldest and most respected rules of international law.</description>
-      <dc:creator>Amanda Taub</dc:creator>
-      <pubDate>Fri, 18 Oct 2024 15:40:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immunity from Prosecution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Immunity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nijjar, Hardeep Singh (1977-2023)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/18/multimedia/18interpreter-newsletter-photo-kcfw/18interpreter-newsletter-photo-kcfw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Darryl Dyck/The Canadian Press, via Associated Press</media:credit>
-      <media:description>A woman walking past the spot in Surrey, British Columbia, where Hardeep Singh Nijjar, a prominent Sikh cleric, was assassinated in 2023.</media:description>
     </item>
   </channel>
 </rss>
