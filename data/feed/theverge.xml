@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>The Verge -  All Posts</title>
   <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
-  <updated>2024-10-21T08:00:00-04:00</updated>
+  <updated>2024-10-21T09:12:04-04:00</updated>
   <id>https://www.theverge.com/rss/full.xml</id>
   <link type="text/html" href="https://www.theverge.com/" rel="alternate"/>
+  <entry>
+    <published>2024-10-21T09:12:04-04:00</published>
+    <updated>2024-10-21T09:12:04-04:00</updated>
+    <title>Disney’s still looking for a new CEO — but not this year, or next year</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="The Disney logo over a blue and black background with tiled circles in the style of Disney’s logo." src="https://cdn.vox-cdn.com/thumbor/rfqPyeN98MC0URQEBPXkeUZHlqE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73667466/STK157_Disney_02.0.jpg" /&gt;
+        &lt;figcaption&gt;Image: The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="ey6Wpa"&gt;Disney will announce a replacement for CEO Bob Iger in “early 2026,” according to an &lt;a href="https://www.businesswire.com/news/home/20241021972311/en/The-Walt-Disney-Company-Board-Names-James-P.-Gorman-as-Chairman-Effective-January-2-2025"&gt;update from the company&lt;/a&gt; on Monday. &lt;/p&gt;
+&lt;p id="xH3boz"&gt;The entertainment giant has been on the hunt for a new leader &lt;a href="https://www.theverge.com/2022/11/20/23470368/disney-ceo-bob-iger-in-bob-chapek-out"&gt;since Iger’s return to Disney in 2022&lt;/a&gt;. Last year &lt;a href="https://www.theverge.com/2023/7/12/23793027/disney-ceo-bob-iger-contract-2026"&gt;Iger extended his contract&lt;/a&gt; with Disney until December 31st, 2026, and, as &lt;a href="https://www.nytimes.com/2024/10/21/business/disney-ceo-succession-james-gorman-chairman.html"&gt;&lt;em&gt;The&lt;/em&gt; &lt;em&gt;New York Times&lt;/em&gt; notes&lt;/a&gt;, delayed retirement four times during his previous run as the company’s CEO before eventually handing control over to Bob Chapek in 2020.&lt;/p&gt;
+&lt;p id="CJIKwH"&gt;Even though we’re still years away from hearing who will replace Iger, &lt;a href="https://www.cnbc.com/2024/10/21/disney-ceo-succession-plan-board-chair.html"&gt;CNBC reports&lt;/a&gt; that Disney has interviewed several potential candidates in “recent weeks,” including ESPN chairman Jimmy Pitaro, Disney experiences chairman Josh D’Amaro, and Disney entertainment co-chairmen...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2024/10/21/24275676/disney-new-ceo-announcement-2026-bob-iger"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/10/21/24275676/disney-new-ceo-announcement-2026-bob-iger"/>
+    <id>https://www.theverge.com/2024/10/21/24275676/disney-new-ceo-announcement-2026-bob-iger</id>
+    <author>
+      <name>Emma Roth</name>
+    </author>
+  </entry>
   <entry>
     <published>2024-10-21T08:00:00-04:00</published>
     <updated>2024-10-21T08:00:00-04:00</updated>
@@ -235,34 +260,6 @@
     <id>https://www.theverge.com/2024/10/20/24273515/coffee-check-david-cogen-unlockr-vergecast</id>
     <author>
       <name>David Pierce</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-10-20T09:41:30-04:00</published>
-    <updated>2024-10-20T09:41:30-04:00</updated>
-    <title>The Internet Archive hackers still have access to its internal emailing tools</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="An image showing a laptop with “Error” notifications on the screen" src="https://cdn.vox-cdn.com/thumbor/dFOAwzEtAjVScsKSBlkPWD2Tmvg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73665456/akrales_220309_4977_0014.0.jpg" /&gt;
-        &lt;figcaption&gt;Photo by Amelia Holowaty Krales / The Verge&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="XLcBbG"&gt;Early this morning, I received an email from “The Internet Archive Team,” replying to a message I’d sent on October 9th. Except its author doesn’t seem to have been the digital archivists’ support team — it was apparently written by the hackers who &lt;a href="https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message"&gt;breached the site&lt;/a&gt; earlier this month and who evidently maintain some level of access to its systems.&lt;/p&gt;
-&lt;p id="AvQ3nc"&gt;I’m not alone. Users on the Internet Archive subreddit are &lt;a href="https://www.reddit.com/r/internetarchive/comments/1g7sb6b/well_thats_concerning_got_this_reply_on_an_email/"&gt;reporting&lt;/a&gt; getting the replies, as well. Here is the message I received:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p id="eRZXUe"&gt;It’s dispiriting to see that even after being made aware of the breach 2 weeks ago, IA has still not done the due diligence of rotating many of the API keys that were exposed in their gitlab secrets.&lt;/p&gt;
-&lt;p id="dJ2ZMU"&gt;As demonstrated by this message, this includes a Zendesk token...&lt;/p&gt;
-&lt;/blockquote&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2024/10/20/24274826/internet-archive-hackers-replying-zendesk-tickets"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/10/20/24274826/internet-archive-hackers-replying-zendesk-tickets"/>
-    <id>https://www.theverge.com/2024/10/20/24274826/internet-archive-hackers-replying-zendesk-tickets</id>
-    <author>
-      <name>Wes Davis</name>
     </author>
   </entry>
 </feed>
