@@ -6,7 +6,7 @@
 	<title type="text">Vox</title>
 	<subtitle type="text"></subtitle>
 
-	<updated>2024-10-23T17:59:09+00:00</updated>
+	<updated>2024-10-23T19:55:51+00:00</updated>
 
 	<link rel="alternate" type="text/html" href="https://www.vox.com" />
 	<id>https://www.vox.com/rss/index.xml</id>
@@ -14,6 +14,90 @@
 
 	<icon>https://platform.vox.com/wp-content/uploads/sites/2/2024/08/vox_logo_rss_light_mode.png?w=150&amp;h=100&amp;crop=1</icon>
 		<entry>
+			
+			<author>
+				<name>Adam Clark Estes</name>
+			</author>
+			
+			<title type="html"><![CDATA[A world without passwords is in sight]]></title>
+			<link rel="alternate" type="text/html" href="https://www.vox.com/technology/379394/fido-alliance-guidance-passkeys-death-of-the-password" />
+			<id>https://www.vox.com/?p=379394</id>
+			<updated>2024-10-23T15:55:51-04:00</updated>
+			<published>2024-10-23T16:00:00-04:00</published>
+			<category scheme="https://www.vox.com" term="Cybersecurity" /><category scheme="https://www.vox.com" term="Even Better" /><category scheme="https://www.vox.com" term="Life" /><category scheme="https://www.vox.com" term="Privacy &amp; Security" /><category scheme="https://www.vox.com" term="Technology" />
+							<summary type="html"><![CDATA[Apple thinks 249 of my passwords need attention. Some of them have been reused. Some of them have been caught up in data breaches. Some are just bad passwords. That’s why, for the past 11 years, a group called the FIDO Alliance has been working to kill passwords — or at least make us less [&#8230;]]]></summary>
+			
+							<content type="html">
+											<![CDATA[
+
+						
+<figure>
+
+<img alt="" data-caption="Passkeys are a new kind of credential that you can use to sign into web accounts without the use of a password." data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.vox.com/wp-content/uploads/sites/2/2024/10/GettyImages-828896232.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption>Passkeys are a new kind of credential that you can use to sign into web accounts without the use of a password.</figcaption>
+</figure>
+<p class="has-text-align-none">Apple thinks 249 of my passwords need attention. Some of them have been reused. Some of them have been caught up in data breaches. Some are just bad passwords.</p>
+
+<p class="has-text-align-none">That’s why, for the past 11 years, a group called the FIDO Alliance has been working to kill passwords — or at least make us less reliant on them. FIDO, short for Fast IDentity Online, wants to make signing into your accounts not only more secure but also, as the name implies, faster and easier. Since its members include Amazon, Apple, Google, Meta, and other architects of our online experience, the FIDO Alliance is in a position to accomplish this, too. </p>
+
+<p class="has-text-align-none">Whether you’ve realized it or not, FIDO’s efforts have already transformed the way you sign into everything online. You may have noticed a few years ago, for instance, that a lot more sites started requiring <a href="https://www.cisa.gov/MFA">something called multifactor authentication</a>, which adds an extra step to the login process, like texting a code to your phone so the site can verify you are you. That was FIDO’s doing. </p>
+
+<p class="has-text-align-none">But after years of making logging in more difficult but more secure, the alliance <a href="https://fidoalliance.org/fido-alliance-launches-comprehensive-web-resource-to-accelerate-passkey-adoption/">recently began a major push</a> to get platforms and people alike to adopt a technology that may just kill passwords altogether: passkeys.</p>
+
+<p class="has-text-align-none">Passkeys are a new kind of credential that you can use to sign into web accounts without the use of a password. This new authentication standard is making passwords irrelevant by introducing a new, simpler, but more secure workflow. There’s <a href="https://fidoalliance.org/get-the-passkey-icon/">a logo and everything</a>.&nbsp;</p>
+
+<p class="has-text-align-none">You can think of passkeys as two encrypted files, one on your end and one on the website’s end, that open up access to your account when one matches the other, much like a key and lock. Passkeys can’t be copied or spoofed, and they can’t be phished.&nbsp;</p>
+
+<p class="has-text-align-none">Once you’ve set up a passkey for a website, you can sign in the same way you unlock your phone: with your face, your fingerprint, or a PIN. The process is so quick and familiar, you may already be using passkeys on sites like Google and Amazon. Pretty soon, passkeys could be all you use. May your passwords rest in peace.</p>
+
+<h2 class="wp-block-heading"><strong>The password problem, briefly explained</strong></h2>
+
+<p class="has-text-align-none">It wasn’t always like this. In the early days of computing, when computers took up entire rooms and required several people to operate them, there wasn’t a need for passwords. But once people started sharing those systems, passwords became key to computing in private.</p>
+
+<p class="has-text-align-none">In the early 1960s, researchers at MIT built a giant computer called the Compatible Time-Sharing System, a pioneering machine that led to the development of things like email and file sharing. It allowed multiple people to work on their own projects at once, so Fernando Corbató, the head of the project, came up with a way for people to keep private files on the system. He made it possible for researchers to set up accounts and access them with unique strings of characters — and thus the&nbsp;password was born.</p>
+
+<p class="has-text-align-none">“Unfortunately it&#8217;s become kind of a nightmare,” Corbató <a href="https://www.wsj.com/articles/BL-DGB-35227">told the Wall Street Journal</a> in 2014.</p>
+
+<p class="has-text-align-none">It turns out passwords aren’t very private at all. The MIT researchers quickly figured out ways to steal their colleagues’ passwords <a href="https://www.wired.com/2012/01/computer-password/">and play pranks on them</a>. Fast forward a few decades, and people are using hundreds of passwords to protect their hundreds of online accounts — or sometimes it’s the same password for everything. It’s absolutely a nightmare. Passwords are easy to forget and can be difficult to reset. If a hacker steals that one password you use because it’s a hassle to keep track of a bunch, they can <a href="https://www.vox.com/recode/2020/1/28/21080122/avoid-hack-hacker-theft">log into all your accounts, steal your money, and generally wreak havoc</a>. </p>
+
+<p class="has-text-align-none">Hackers can also just steal passwords, <a href="https://www.vox.com/technology/367986/freeze-credit-equifax-experian-transunion-ssn-breach">sometimes millions of them at once</a>, in order to steal people’s identities. Phishing attacks, when a bad actor tricks someone into giving up their login credentials, are a particularly insidious way to gain access to large amounts of sensitive data. These data breaches are actually what led to the creation of FIDO in 2013, when a consortium of tech companies, banks, and governments banded together to come up with a better way to secure accounts.&nbsp;</p>
+
+<p class="has-text-align-none">The effort started out with adding layers of security on top of the basic password. Multifactor authentication became mainstream about a decade ago. This improved security, but it was also a real pain.</p>
+
+<p class="has-text-align-none">You’ve since seen even more complicated login routines. Requirements for passwords have <a href="https://www.forbes.com/sites/larsdaniel/2024/10/02/government-experts-say-complicated-passwords-are-making-you-less-safe/">gotten more complex</a> (think a dozen characters, upper- and lowercase, special characters, the works). Even once you’ve entered a paralyzingly long and complex password, you might get a push notification on another device to verify that you’re you on your laptop. You might get a magic link sent to your email. There could even be a QR code involved. All of these methods are vulnerable to phishing attempts, too. </p>
+
+<p class="has-text-align-none">“To solve the problem, you need to really get to the root of the problem,” FIDO chief executive Andrew Shikiar told me. “By addressing the password problem, you’re really addressing the data breach problem.”</p>
+
+<h2 class="wp-block-heading"><strong>The passkey solution</strong></h2>
+
+<p class="has-text-align-none">Passkeys promise to fix many of the problems passwords created. Thanks to FIDO and W3C, the consortium that manages the standards for the World Wide Web, there is now an agreed-upon workflow for passkeys to replace passwords entirely.&nbsp;</p>
+
+<p class="has-text-align-none">From the user’s point of view, the passkey process is pretty easy. You just log on the old-fashioned way, with a password or a code or whatever, and then the website or platform will ask you if you want to set up a passkey. If you do, it will generate those two files — the lock and key, if you will — that make up the passkey. It will also prompt you to unlock your phone with your face, fingerprint, PIN, or swipe pattern, depending on your preferences. The passkey will then be associated with that device and stored in the cloud or in your password manager. The next time you go to log in, that site will go to see if you’ve got the key to fit its lock. If so, unlock your device, and you’re right back in. It takes maybe two seconds.</p>
+
+<p class="has-text-align-none">Creating a passkey will not necessarily do away with your password for good. Many sites are keeping the password around as a backup, if you somehow lose track of your passkey. Plus, we’ve been using passwords for so long, it would be weird if they suddenly disappeared.</p>
+
+<p class="has-text-align-none">“People don’t want to feel like they we’re losing their password,” Shikiar said. “That&#8217;s a scary thought.”</p>
+
+<p class="has-text-align-none">Not for me. I personally couldn’t wait to switch from passwords to passkeys, once I learned about the wider rollout. So over the past week, I’ve set up as many passkeys as I can. But I did not set up 249 new passkeys to deal with all those problematic passwords. My passkey count is closer to 12.&nbsp;</p>
+
+<p class="has-text-align-none">The setup process is slightly different for each site, but once the passkey is in place, logging in is essentially a one-touch&nbsp;or one-glance process. Most of the time, I don’t even see a place to enter my password. The site just scans my fingerprint or my face, and I’m in.</p>
+
+<p class="has-text-align-none">The main challenge, for now, is that not too many companies are using passkeys, which explains FIDO’s recent push to get more companies signed up. You can set up passkeys for your Google and Amazon accounts, for instance, but not for Facebook and Instagram. WhatsApp, however, does use passkeys. It’s all a bit confusing for now. (<a href="https://passkeys.directory/">Here’s a full list</a> of major websites that support passkeys.)</p>
+
+<p class="has-text-align-none">The other issue here is that, while people can remember passwords in their heads, passkeys really need passkey managers. Because most new devices come with password managers built-in, this is actually not that big of a deal: Password managers are also passkey managers. </p>
+
+<p class="has-text-align-none">Google and Apple started making the transition to passkeys a couple years ago. If you’re using an <a href="https://developer.android.com/design/ui/mobile/guides/patterns/passkeys">Android</a> or <a href="https://support.apple.com/en-us/102195">iPhone</a>, you can use the built-in password managers on those devices to save all of your passkeys. <a href="https://support.google.com/chrome/answer/13168025?hl=en&amp;co=GENIE.Platform%3DDesktop">Google Chrome</a> also has a passkey manager, as does <a href="https://support.microsoft.com/en-us/account-billing/signing-in-with-a-passkey-09a49a86-ca47-406c-8acc-ed0e3c852c6d">Microsoft Windows</a>. Password managers, like <a href="https://1password.com/product/passkeys">1Password</a> and <a href="https://bitwarden.com/passwordless-passkeys/">Bitwarden</a>, can also handle passkeys now. If you want to switch from an iPhone to an Android device or switch password managers, you’ll have trouble migrating all of those passkeys, but FIDO <a href="https://fidoalliance.org/fido-alliance-publishes-new-specifications-to-promote-user-choice-and-enhanced-ux-for-passkeys/">is working on a solution</a>. </p>
+
+<p class="has-text-align-none">Passkeys were designed to kill passwords, but it will be a slow death. Even though passwords are sticking around for now, they’ll gradually be rendered useless as more sites and platforms rely on passkeys instead. In a sense, passwords will become internet zombies, lurking and probably occasionally causing trouble.</p>
+
+<p class="has-text-align-none">“The password will never fully die,” said Jacob Hoffman-Andrews, a senior staff technologist at the Electronic Frontier Foundation. “There will always be devices and corners of the internet where passwords hold on.” </p>
+
+<p class="has-text-align-none"><em>A version of this story was also published in the Vox Technology newsletter.&nbsp;</em><strong><em><a href="https://www.vox.com/pages/newsletters" target="_blank" rel="noreferrer noopener">Sign up here</a></em></strong><em>&nbsp;so you don’t miss the next one!</em></p>
+						]]>
+									</content>
+			
+					</entry>
+			<entry>
 			
 			<author>
 				<name>Benji Jones</name>
@@ -867,100 +951,6 @@
 
 <p class="has-text-align-none">Senior researcher: <em>Laura Bullard</em></p>
 </div>
-						]]>
-									</content>
-			
-					</entry>
-			<entry>
-			
-			<author>
-				<name>Whizy Kim</name>
-			</author>
-			
-			<title type="html"><![CDATA[The $1.3 trillion question we may never answer]]></title>
-			<link rel="alternate" type="text/html" href="https://www.vox.com/money/378108/bitcoin-satoshi-nakamoto-peter-todd-money-electric" />
-			<id>https://www.vox.com/?p=378108</id>
-			<updated>2024-10-22T13:56:59-04:00</updated>
-			<published>2024-10-22T11:10:00-04:00</published>
-			<category scheme="https://www.vox.com" term="Bitcoin" /><category scheme="https://www.vox.com" term="Business &amp; Finance" /><category scheme="https://www.vox.com" term="Crypto" /><category scheme="https://www.vox.com" term="Money" />
-							<summary type="html"><![CDATA[Despite what a new HBO documentary suggests, the identity of one of the richest people in the world is still unknown. By now, the story is so famous it’s taken on the aura of a creation myth: One day in early 2009, Satoshi Nakamoto, the pseudonym used by the inventor of bitcoin, released the world’s [&#8230;]]]></summary>
-			
-							<content type="html">
-											<![CDATA[
-
-						
-<figure>
-
-<img alt="Close-up of a statue in Budapest, Hungary, honoring the anonymous founder of bitcoin, Satoshi Nakamoto" data-caption="In 2009, someone going by the pseudonym Satoshi Nakamoto created bitcoin — the world’s first cryptocurrency. | Janos Kummer/Getty Images" data-portal-copyright="Janos Kummer/Getty Images" data-has-syndication-rights="1" src="https://platform.vox.com/wp-content/uploads/sites/2/2024/10/GettyImages-1341873866.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
-	<figcaption>In 2009, someone going by the pseudonym Satoshi Nakamoto created bitcoin — the world’s first cryptocurrency. | Janos Kummer/Getty Images</figcaption>
-</figure>
-<p class="has-text-align-none">Despite what a new HBO documentary suggests, the identity of one of the richest people in the world is still unknown.</p>
-
-<p class="has-text-align-none">By now, the story is so famous it’s taken on the aura of a creation myth: One day in early 2009, Satoshi Nakamoto, the pseudonym used by the inventor of bitcoin, released the world’s first cryptocurrency. Two years later, Nakamoto vanished seemingly forever. Since then, <a href="https://cointelegraph.com/news/7-people-who-could-be-bitcoin-creator-satoshi-nakamoto">countless</a> <a href="https://www.reddit.com/r/CryptoCurrency/comments/1b12azf/satoshi_nakamoto_was_john_nash_the_inventor_of/">theories</a> on who the <a href="https://www.wired.com/story/craig-wright-perjury-bitcoin-trial">real Nakamoto</a> is have been advanced, with no single candidate coming out on top.</p>
-
-<p class="has-text-align-none">Whether Nakamoto’s anonymity is merely an entertaining mystery, a necessity for privacy, or a worrisome concern depends on who you ask. For filmmaker Cullen Hoback, whose documentary <em>Money Electric: The Bitcoin Mystery</em> premiered on HBO last week, finding the mysterious bitcoin founder is a matter of public interest — and Hoback believes he has unmasked him as a 39-year-old Canadian bitcoin developer named Peter Todd. Since the film’s release, Todd and other prominent voices in the community have dismissed Hoback’s arguments; Todd reiterated to Vox in an email that he is not Nakamoto. According to these voices, Nakamoto remains an enigma. Many bitcoin enthusiasts prefer it that way.</p>
-
-<p class="has-text-align-none">But it’s obvious why the search has endured over the past 15 years. Bitcoin is far and away the most popular digital currency in the world, with a market cap of about $1.3 trillion at the time of writing. (For comparison, the second biggest, ethereum, has a market cap of $312 million.) For those who believe a decentralized alternative to government-issued currencies — like the US dollar — is crucial to protect individual privacy and freedom, Nakamoto is akin to Prometheus bringing the gift of fire from the gods.</p>
-
-<p class="has-text-align-none">Then there’s this mind-boggling possibility: If <a href="https://www.nasdaq.com/articles/how-much-bitcoin-does-satoshi-nakamoto-own-number-will-blow-your-mind">reports</a> that Nakamoto might hold as much as 1.1 million bitcoins are true, they could be sitting on a fortune of over $70 billion, making them one of the 25 wealthiest individuals on Earth, according to <a href="https://www.forbes.com/real-time-billionaires/#495d947a3d78">Forbes’s real-time billionaires ranking</a>. But Nakamoto doesn’t seem to have spent any of it — at least, not anything in their confirmed bitcoin wallets. </p>
-
-<p class="has-text-align-none">What does it mean for the rest of us that such an enormous treasure chest remains in the hands of an unknown entity, whose true aims and intentions can’t be determined? Who benefits if Nakamoto remains in the shadows — and who benefits if they’re revealed?</p>
-
-<h2 class="wp-block-heading has-text-align-none">What we know about the bitcoin creator</h2>
-
-<p class="has-text-align-none">The internet user Satoshi Nakamoto first appeared in 2008, when they published a paper to a cryptographic technology mailing list laying out a system that they had dubbed bitcoin. It would function as a form of digital cash that people could use to send money back and forth without involving a bank. In other words, one could reliably make and receive payments anonymously.</p>
-
-<p class="has-text-align-none">There was a clear ideological aim: In Nakamoto’s view, the ability to keep your financial record out of the surveillance and reach of powerful authorities — whether it’s large private banks or the government — is an important personal freedom. Such institutions, after all, aren’t infallible. In one illuminating forum post in 2009, <a href="https://p2pfoundation.ning.com/forum/topics/bitcoin-open-source">Nakamoto wrote</a> that “the root problem with conventional currency” was “trust.”</p>
-
-<p class="has-text-align-none">“Banks must be trusted to hold our money and transfer it electronically, but they lend it out in waves of credit bubbles with barely a fraction in reserve,” they continued. “We have to trust them with our privacy, trust them not to let identity thieves drain our accounts.” When Nakamoto created the first block that would become the bitcoin blockchain, they included a message <a href="https://www.nasdaq.com/articles/the-genesis-block:-the-first-bitcoin-block">referencing a headline</a> in the British newspaper the Times <a href="https://www.thetimes.com/article/chancellor-alistair-darling-on-brink-of-second-bailout-for-banks-n9l382mn62h">that day</a>: “Chancellor on brink of second bailout for banks.”</p>
-
-<h2 class="wp-block-heading has-text-align-none">The top suspects, and why Nakamoto’s identity is still up for debate</h2>
-
-<p class="has-text-align-none">Nakamoto’s writings indicate they’re most likely someone with a strong understanding of economics, computer science, and modern cryptography, which involves methods and technologies for keeping information secure, like <a href="https://www.vox.com/recode/22226618/what-is-signal-whatsapp-telegram-download-encrypted-messaging">encrypting a message</a> that can only be unlocked with a special key. Unsurprisingly, the commonly advanced candidates for who Nakamoto could be are self-identified “cypherpunks,” a community of mainly computer scientists who advocate for using cryptography to protect digital privacy.</p>
-
-<p class="has-text-align-none">According to Hoback, director of <em>Money Electric</em>, Peter Todd fits the bill. Todd is a libertarian pro-privacy advocate who, among other things, is a <a href="https://x.com/peterktodd/status/1646601411377999872">huge</a> <a href="https://x.com/peterktodd/status/1766100934503936511">proponent</a> <a href="https://x.com/peterktodd/status/1841832099923230804">of using cash</a> because it’s harder for governments and banks to track your spending. As a teenager, he was already communicating with older, respected cypherpunks and seemed unusually knowledgeable about bitcoin despite his youth. Todd would have been 23 years old when the bitcoin white paper was published.</p>
-
-<p class="has-text-align-none">Hoback builds his case primarily on the fact that Todd joined the message board Bitcointalk.org in 2010 right before Nakamoto stopped posting. But the crux of Hoback’s argument hinges on an interaction between Todd and Nakamoto on Bitcointalk. Nakamoto had <a href="https://bitcointalk.org/index.php?topic=2181.msg28729#msg28729">posted something technical</a> about how bitcoin transactions work; about an hour and a half later, Todd <a href="https://bitcointalk.org/index.php?topic=2181.msg28739#msg28739">replied</a> with a small disagreement. Hoback contends the reply actually reads more like someone finishing their previous thought — that Todd had signed into the wrong account to make an addendum to the original Nakamoto post. In the film, he also points to a chat log in which Todd calls himself a foremost authority on sacrificing bitcoin, which Hoback connects to the fact that Nakamoto hasn’t done anything with their coins in all these years (at least, that we know of).</p>
-
-<p class="has-text-align-none">It’s an intriguing interpretation, but not exactly a smoking gun.&nbsp;</p>
-
-<p class="has-text-align-none">Hoback, both in interviews and within <em>Money Electric</em>, portrays Todd as someone who enjoys playing games over whether he could be the bitcoin founder, laughing on camera as the filmmaker explains why he believes Todd is Nakamoto — at one point saying with a smirking grin, “Well, yeah. I’m Satoshi Nakamoto.” On X, though, Todd has <a href="https://x.com/peterktodd/status/1843789750983110697">firmly denied</a> he’s Nakamoto. In an email to Vox, Hoback wrote that Todd stopped speaking to him after filming this scene. Todd told Vox in an email that Hoback hadn’t been forthcoming about his intention to find out Nakamoto’s identity.</p>
-
-<p class="has-text-align-none">The other main person of interest in <em>Money Electric</em> is Adam Back, a British cypherpunk in his 50s whose work toward a functional digital currency was cited in Nakamoto’s original bitcoin paper. One reason Hoback finds Back suspicious is that he became more active in the bitcoin world — specifically concerned with how to make transactions <a href="https://www.wired.com/story/27-year-old-codebreaker-busted-myth-bitcoins-anonymity/">completely anonymous</a> — right after <a href="https://bitcointalk.org/index.php?topic=175996.msg1832533#msg1832533">speculation emerged</a> that Nakamoto controlled over 1 million bitcoins, more than previously thought. Unlike Todd, Back has stridently distanced himself from even joking suggestions that he could be Nakamoto.</p>
-
-<p class="has-text-align-none">Other commonly floated contenders include prominent cypherpunk figures such as Hal Finney, who died in 2014 and was the recipient of the first test bitcoin transaction that Nakamoto sent, and <a href="https://cointelegraph.com/news/nick-szabo-bitcoin-hbo-satoshi-nakamoto">Nick Szabo</a>, who came up with the concept of “smart contracts,” a crucial function of many blockchains today. One wild suggestion claims that the Japanese etymology behind Satoshi Nakamoto can roughly translate to “<a href="https://www.coindesk.com/learn/who-is-satoshi-nakamoto/">central intelligence</a>,” a sign that bitcoin was in fact invented by the CIA as some sort of trap. Another conspiracy theory — practically a meme at this point — posits that Tesla and SpaceX billionaire Elon Musk is the real Nakamoto. (He <a href="https://www.cnbc.com/2017/11/28/elon-musk-denies-he-is-bitcoin-creator-satoshi-nakamoto.html">denies</a> it.)</p>
-<img src="https://platform.vox.com/wp-content/uploads/sites/2/2024/10/GettyImages-1341873890.jpg?quality=90&#038;strip=all&#038;crop=0,10.729780130345,100,78.540439739309" alt="A gold statue with a bronze top and a hood is set atop a stone brick that reads Satoshi Nakamoto " title="A gold statue with a bronze top and a hood is set atop a stone brick that reads Satoshi Nakamoto " data-has-syndication-rights="1" data-caption="A statue honoring the anonymous Satoshi Nakamoto, the creator of bitcoin, in Budapest, Hungary. | Janos Kummer/Getty Images" data-portal-copyright="Janos Kummer/Getty Images" />
-<p class="has-text-align-none">It isn’t clear whether Nakamoto is still alive, or even whether they’re one person rather than a group of people working together. Early this year, an unknown person <a href="https://cointelegraph.com/news/crypto-community-bitcoin-transfer-satoshi-genesis-block">sent 26.9 bitcoins</a> (worth approximately $1.8 million today) to Nakamoto’s dormant wallet, firing up fresh excitement over where Nakamoto is and what they might be doing.&nbsp;</p>
-
-<h2 class="wp-block-heading has-text-align-none">How do you track down a mystery like Nakamoto? Should you even try?</h2>
-
-<p class="has-text-align-none">Since 2011, Nakamoto hasn’t emailed or posted anywhere under their username. They also haven’t used the crypto wallets associated with that name.<strong> </strong>But even if someone is determined to remain in the shadows, and has left no obvious evidence giving them away, there are bound to be some breadcrumbs. Much of the theorizing around Nakamoto depends on analyzing their style of coding and writing. Hoback, at one point in the film, nods to the fact that <a href="https://mmalmi.github.io/satoshi/#email-24">Nakamoto</a> and <a href="https://x.com/peterktodd/status/1644557915703869442">Todd</a> both used slurs that could <a href="https://x.com/CullenHoback/status/1843893419443359867">indicate immaturity</a>. Another commonly noted marker is that Nakamoto often used British English spelling (such as “favour”), and Todd is Canadian.</p>
-
-<p class="has-text-align-none">But other <a href="https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/reports/6858026.pdf">linguistic comparisons</a> of <a href="https://towardsdatascience.com/stylometric-analysis-satoshi-nakamoto-294926cdf995">commonly used</a> <a href="https://techcrunch.com/2013/12/05/who-is-the-real-satoshi-nakamoto-one-researcher-may-have-found-the-answer/?guccounter=1">words and phrases</a> have been made that inconclusively point to other candidates. On the forum, Nakamoto often uses a double space at the start of a sentence, while Todd does not. Both Back and Todd pepper in dashes to break up clauses in a single sentence — Nakamoto doesn’t. Could the stylistic differences be a cunning, intentional misdirection? No one knows. Ultimately, none of these tics add up to definitive proof.</p>
-
-<p class="has-text-align-none">Many in the bitcoin world conjecture that Nakamoto disappeared because WikiLeaks — the site where Julian Assange published many leaked documents — appeared poised to start accepting <a href="https://www.forbes.com/sites/rogerhuang/2019/04/26/how-bitcoin-and-wikileaks-saved-each-other/">donations in bitcoin</a>, which might lead to more attention on Nakamoto. In one of their <a href="http://gavinandresen.ninja/eleven-years-ago-today">last known communications</a>, Nakamoto wrote to bitcoin developer Gavin Andresen, “I wish you wouldn’t keep talking about me as a mysterious shadowy figure, the press just turns that into a pirate currency angle.” In the last known email, sent in April 2011, Nakamoto claimed they were no longer involved with bitcoin.</p>
-
-<p class="has-text-align-none">“The fact is, what makes bitcoin such an interesting system is precisely the fact that the original creator doesn&#8217;t have control over bitcoin,” Todd said, adding that their identity is irrelevant. It’s clear Nakamoto never intends to out themselves — and, indeed, they seem to argue there’s no point. Bitcoin is now out of their hands. So how much does their identity matter?</p>
-
-<p class="has-text-align-none">Hoback argues that it matters a lot due to how important bitcoin has become. “Bitcoin is already being baked into our financial system,” he told Vox, referring to its acceptance as <a href="https://www.npr.org/2021/09/07/1034838909/bitcoin-el-salvador-legal-tender-official-currency-cryptocurrency">legal tender</a> in some countries and the fact that it could now be included in <a href="https://news.bloomberglaw.com/daily-labor-report/bitcoin-funds-set-new-precedent-for-crypto-401k-ira-investing">401(k)s</a>. Nakamoto potentially controls a significant portion of the total limited supply of bitcoin; if they one day decided to come forward and start moving (and spending) the coins in their possession, such an enormous sell-off could be destabilizing for the cryptocurrency. If they spend their riches, there’s also arguably a public interest in knowing where so much money is going, and whether it has any political impact.</p>
-
-<p class="has-text-align-none">Acknowledging the possibility that Nakamoto could be multiple people, Hoback continued, “This group is making themselves super rich while saying no one should look into Satoshi. Isn’t that a little suspicious?”</p>
-
-<p class="has-text-align-none">If you believe holding the powerful to account is important, then Nakamoto’s insistence on anonymity stands against the transparency that such accountability requires. It’s no secret that many of the world’s richest people have historically cleaved to remaining as private as possible, using <a href="https://www.vox.com/money/2024/3/13/24086102/billionaires-wealthy-tax-avoidance-loopholes">elaborate financial structures</a> and <a href="https://www.vox.com/the-goods/2023/1/4/23413342/us-tax-havens-billionaires-wealthy">tax havens</a> to avoid scrutiny of <a href="https://www.vox.com/the-goods/23604105/philanthropy-mackenzie-scott-elon-musk-billionaires-charity">what their money is funding</a>.</p>
-
-<p class="has-text-align-none">Then again, there’s no proof Nakamoto has spent any of their fortune. Their known bitcoin hoard is a rough value of net worth, not yet used for anything — and we know this because all bitcoin transactions are part of a public ledger. If they started cashing in their bitcoin stockpile, that could make it easier for people to <a href="https://www.wsj.com/articles/untraceable-bitcoin-is-a-myth-11623860828">find their real-life identity</a>, which is an incentive for Nakamoto to leave that stash untouched. (It is curious, though, that in late September about <a href="https://finance.yahoo.com/news/satoshi-era-wallets-move-16m-075536741.html?guccounter=1">$13 million worth of bitcoin</a> mined in the early days of the cryptocurrency suddenly moved.)</p>
-
-<p class="has-text-align-none">Perhaps there’s a better question than whether it matters who Nakamoto is: How important is it that the inventor of bitcoin remains a mystery?</p>
-
-<p class="has-text-align-none">From the perspective of the cypherpunks, it’s crucial. There’s a financial motivation — the reveal of Nakamoto’s real identity could tank the price of bitcoin. But Nakamoto’s lasting anonymity is also an ideological resistance to government authority in an increasingly surveilled digital world. Many <a href="https://x.com/adam3us/status/1842503179130298492">key</a> <a href="https://x.com/lopp/status/1753475690174058979">figures</a> in the bitcoin community unequivocally express a desire for Nakamoto’s identity to stay a secret — according to Hoback, Todd seemed displeased that people had found Nakamoto’s million-plus bitcoin stash, and told him to leave Nakamoto alone. There’s also the potential danger someone could be in if others think they’re Nakamoto. In a comment to the <a href="https://www.newyorker.com/tech/annals-of-technology/has-bitcoins-elusive-creator-finally-been-unmasked">New Yorker</a>, Todd said Hoback had put his safety at risk by accusing him of being a multibillionaire, and that he would soon be doing “some unplanned travel.” </p>
-
-<p class="has-text-align-none">Todd isn’t wrong that prior attempts to unmask Nakamoto have disturbed people’s personal lives — take the case of Dorian Satoshi Nakamoto, a former engineer and programmer in California who was the subject of a <a href="https://www.newsweek.com/2014/03/14/face-behind-bitcoin-247957.html">Newsweek report</a> claiming he was the bitcoin god. Dorian Nakamoto has categorically denied even knowing what cryptocurrencies are, and has said the accusation and public scrutiny caused a “great deal of confusion and stress” for him and his family. In response, Hoback told Vox that other people long suspected of being Nakamoto, like Nick Szabo and Adam Back, are fine.</p>
-
-<p class="has-text-align-none">For his part, Todd noted Hoback also had a financial motivation — to sell his documentary. “I think that financial incentive is clouding his moral judgement here,” he told Vox.</p>
-
-<p class="has-text-align-none">Toward the end of the <em>Money Electric</em>, Todd says the hunt for bitcoin’s Nakamoto is yet another example of “journalists really missing the point.” The point, he elaborates, is “to make bitcoin the global currency.” But if that came to fruition — and it <a href="https://cointelegraph.com/news/bitcoin-price-ultimate-700k-portfolio-allocation">isn’t close to becoming reality</a> yet — then ironically, Hoback’s argument for hunting down the bitcoin mastermind would only become more compelling to both the general public and almost certainly to governments around the world. The surest way to protect Nakamoto’s anonymity seems to be for bitcoin to not become a widespread alternative threatening government-issued currencies — to not become too important.</p>
-
-<p class="has-text-align-none"><em><strong>Update, October 22, 11:10 am:</strong> This story, originally published October 17, has been updated with comments from Peter Todd.</em></p>
 						]]>
 									</content>
 			
