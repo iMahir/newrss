@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.7295148363880417" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 23 Oct 2024 20:36:19 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Oct 2024 20:30:15 +0000</pubDate>
+    <lastBuildDate>Wed, 23 Oct 2024 20:47:53 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Oct 2024 20:45:30 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -281,6 +281,44 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+    </item>
+    <item>
+      <title>Trudeau Urged by Fellow Party Members to Step Down</title>
+      <link>https://www.nytimes.com/2024/10/23/world/canada/trudeau-voters-liberal-party.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/23/world/canada/trudeau-voters-liberal-party.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/23/world/canada/trudeau-voters-liberal-party.html" rel="standout"></atom:link>
+      <description>Liberal Party members fear Justin Trudeau has become so unpopular among voters in Canada that it could lead to the party’s defeat in the next election. Mr. Trudeau has said he has no plans to leave.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Wed, 23 Oct 2024 20:45:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Liberal Party (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Poilievre, Pierre</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/10/23/multimedia/23canada-trudeau-qwtp/23canada-trudeau-qwtp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Justin Tang/The Canadian Press, via Associated Press</media:credit>
+      <media:description>About 20 Liberal Party members criticized Prime Minister Justin Trudeau’s leadership during a meeting, according to Canadian news outlets.</media:description>
+    </item>
+    <item>
+      <title>China May Chafe as North Korea Sends Soldiers to Fight Ukraine</title>
+      <link>https://www.nytimes.com/2024/10/23/world/asia/north-korea-ukraine-russia-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/23/world/asia/north-korea-ukraine-russia-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/23/world/asia/north-korea-ukraine-russia-china.html" rel="standout"></atom:link>
+      <description>North Korea’s decision to dispatch troops to help Russia subdue Ukraine may put another Kremlin ally, China, in a tough spot diplomatically.</description>
+      <dc:creator>David Pierson</dc:creator>
+      <pubDate>Wed, 23 Oct 2024 20:44:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/23/multimedia/23china-nkorea-hpzm/23china-nkorea-hpzm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Yan Yan/Xinhua, via Associated Press</media:credit>
+      <media:description>Kim Jong Un, left, and Chinese President Xi Jinping in 2019. China and North Korea have hailed their 75-year-old diplomatic relations as being as close as “lips and teeth.</media:description>
     </item>
     <item>
       <title>Gustavo Gutiérrez, Father of Liberation Theology, Dies at 96</title>
@@ -1140,43 +1178,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/24/multimedia/21xp-dianno-01-print1/21xp-dianno-01-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Paul Natkin/Getty Images</media:credit>
       <media:description>Paul Di’Anno in 1981. He gained popularity on the heavy metal scene in the late 1970s after he became the lead singer of Iron Maiden.</media:description>
-    </item>
-    <item>
-      <title>What Is Al-Qard al-Hasan, the Hezbollah-Linked Finance Group Targeted by Israel?</title>
-      <link>https://www.nytimes.com/2024/10/21/world/middleeast/israel-lebanon-hezbollah-bank.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/21/world/middleeast/israel-lebanon-hezbollah-bank.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/21/world/middleeast/israel-lebanon-hezbollah-bank.html" rel="standout"></atom:link>
-      <description>The de facto bank is the largest microcredit organization in a country where the traditional banking sector is in shambles.</description>
-      <dc:creator>Aryn Baker</dc:creator>
-      <pubDate>Tue, 22 Oct 2024 17:41:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/21/multimedia/21mideast-crisis-hezbollah-finance-wlvp/21mideast-crisis-hezbollah-finance-wlvp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Hassan Ammar/Associated Press</media:credit>
-      <media:description>Al-Qard al-Hassan documents scattered at the southern outskirts of Beirut on Monday after Israeli airstrikes.</media:description>
-    </item>
-    <item>
-      <title>Israel Dismantles Iranian Spy Network and Arrests Seven People, Authorities Say</title>
-      <link>https://www.nytimes.com/2024/10/21/world/middleeast/israel-iran-spying-arrests.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/21/world/middleeast/israel-iran-spying-arrests.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/21/world/middleeast/israel-iran-spying-arrests.html" rel="standout"></atom:link>
-      <description>The suspects, all Israeli citizens, conducted intelligence missions for two years under the direction of two Iranian agents, the authorities said.</description>
-      <dc:creator>Matthew Mpoke Bigg</dc:creator>
-      <pubDate>Mon, 21 Oct 2024 16:45:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shin Bet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
-      <media:content height="960" medium="image" url="https://static01.nyt.com/images/2024/10/21/multimedia/21mideast-crisis-israel-spying-mvgz/21mideast-crisis-israel-spying-mvgz-mediumSquareAt3X.jpg" width="960"></media:content>
-      <media:credit>Planet Labs PBC, via Agence France-Presse — Getty Images</media:credit>
-      <media:description>A satellite image released by Planet Labs showing the air base of Nevatim, in the Negev desert, after Iran’s attack this month.</media:description>
     </item>
   </channel>
 </rss>
