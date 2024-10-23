@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 23 Oct 2024 16:50:36 +0000</lastBuildDate>
-    <pubDate>Wed, 23 Oct 2024 16:46:52 +0000</pubDate>
+    <lastBuildDate>Wed, 23 Oct 2024 17:10:40 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Oct 2024 17:10:36 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -74,9 +74,11 @@
       <dc:creator>Ben Hubbard and Safak Timur</dc:creator>
       <pubDate>Wed, 23 Oct 2024 16:00:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ankara (Turkey)</category>
       <category domain="">Turkish Aerospace Industries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kurdistan Workers&#39; Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
       <media:content height="1333" medium="image" url="https://static01.nyt.com/images/2024/10/23/multimedia/23Turkey-bmpt/23Turkey-bmpt-mediumSquareAt3X.jpg" width="1333"></media:content>
       <media:credit>IHA, via Associated Press</media:credit>
       <media:description>Emergency rescue teams and police officers working outside of Turkish Aerospace Industries near Ankara, Turkey, on Wednesday.</media:description>
@@ -276,13 +278,35 @@
       <media:description>Flooding in Naga City, the Philippines, on Wednesday.</media:description>
     </item>
     <item>
+      <title>Manchester Arena Bombing Survivors Win Lawsuit Against Conspiracy Theorist</title>
+      <link>https://www.nytimes.com/2024/10/23/world/europe/manchester-bombing-conspiracy-theorist-lawsuit-verdict.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/23/world/europe/manchester-bombing-conspiracy-theorist-lawsuit-verdict.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/23/world/europe/manchester-bombing-conspiracy-theorist-lawsuit-verdict.html" rel="standout"></atom:link>
+      <description>A U.K. court found that a conspiracy theorist who claimed the 2017 bombing at an Ariana Grande concert was a hoax had harassed victims and abused media freedom.</description>
+      <dc:creator>Lynsey Chutel</dc:creator>
+      <pubDate>Wed, 23 Oct 2024 17:10:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Manchester Arena Bombing (May, 2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Manchester Arena (Manchester, England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abedi, Salman (d 2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Grande, Ariana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Martin Hibbert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Richard D. Hall</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2024/10/23/multimedia/23manchester-hoax-1-wlcz/23manchester-hoax-1-wlcz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sam Tobin/Reuters</media:credit>
+      <media:description>Richard Hall in July, after the trial in a harassment suit brought by Martin Hibbert following the 2017 Manchester Arena bombing.</media:description>
+    </item>
+    <item>
       <title>Gustavo Gutiérrez, Father of Liberation Theology, Dies at 96</title>
       <link>https://www.nytimes.com/2024/10/23/world/americas/gustavo-gutierrez-dead.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/10/23/world/americas/gustavo-gutierrez-dead.html</guid>
       <atom:link href="https://www.nytimes.com/2024/10/23/world/americas/gustavo-gutierrez-dead.html" rel="standout"></atom:link>
       <description>Once considered revolutionary, his notion of empathy and advocacy for the poor has become a central tenet of Catholic social teaching.</description>
       <dc:creator>Bill Friskics-Warren</dc:creator>
-      <pubDate>Wed, 23 Oct 2024 16:46:52 +0000</pubDate>
+      <pubDate>Wed, 23 Oct 2024 16:54:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gutierrez, Gustavo</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="">Liberation Theology</category>
@@ -1194,23 +1218,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/21/multimedia/21moldova-gkcv/21moldova-gkcv-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
       <media:credit>Vadim Ghirda/Associated Press</media:credit>
       <media:description>President Maia Sandu casting her ballot in Chisinau, Moldova, on Sunday. She declared victory “in an unfair fight.”</media:description>
-    </item>
-    <item>
-      <title>Vietnam Elects Luong Cuong as President, Reviving Power-Sharing Arrangement</title>
-      <link>https://www.nytimes.com/2024/10/21/world/asia/vietnam-president.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/21/world/asia/vietnam-president.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/21/world/asia/vietnam-president.html" rel="standout"></atom:link>
-      <description>The move restores a “four pillar” government structure that divides top-level duties to avoid the rise of a single strongman.</description>
-      <dc:creator>Damien Cave</dc:creator>
-      <pubDate>Mon, 21 Oct 2024 20:14:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of Vietnam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <media:content height="1193" medium="image" url="https://static01.nyt.com/images/2024/10/21/multimedia/21vietnam-hctl/21vietnam-hctl-mediumSquareAt3X.jpg" width="1193"></media:content>
-      <media:credit>Dang Anh/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Luong Cuong, Vietnam’s new president, taking the oath of office in the capital, Hanoi, on Monday.</media:description>
     </item>
   </channel>
 </rss>
