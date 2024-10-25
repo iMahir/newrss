@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 25 Oct 2024 13:47:01 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Oct 2024 13:41:55 +0000</pubDate>
+    <lastBuildDate>Fri, 25 Oct 2024 14:12:06 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Oct 2024 14:05:31 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2024/10/25/world/israel-lebanon-gaza-iran" rel="standout"></atom:link>
       <description>Gaza’s health ministry reported that dozens of people had been killed in airstrikes in a residential area of Khan Younis, where Israel has said it is targeting Hamas.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 25 Oct 2024 13:41:55 +0000</pubDate>
+      <pubDate>Fri, 25 Oct 2024 14:05:31 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/25/multimedia/25mideast-crisis-promo-9amEST-hgwt/25mideast-crisis-promo-9amEST-hgwt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Haitham Imad/EPA, via Shutterstock</media:credit>
     </item>
@@ -49,7 +49,7 @@
       <atom:link href="https://www.nytimes.com/2024/10/25/world/canada/canada-india-sikhs.html" rel="standout"></atom:link>
       <description>Tightly knit communities in Ontario and British Columbia have been rocked by violent events in the past 18 months. Now the authorities say the Indian government was behind them.</description>
       <dc:creator>Matina Stevis-Gridneff</dc:creator>
-      <pubDate>Fri, 25 Oct 2024 12:23:07 +0000</pubDate>
+      <pubDate>Fri, 25 Oct 2024 13:58:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sikhs and Sikhism</category>
@@ -69,19 +69,20 @@
       <description>Sirajuddin Haqqani has tried to remake himself from blood-soaked jihadist to pragmatic Taliban statesman. Western diplomats are shocked — and enticed.</description>
       <dc:creator>Christina Goldbaum</dc:creator>
       <pubDate>Thu, 24 Oct 2024 19:55:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Haqqani Network</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haqqani, Sirajuddin</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Akhundzada, Haibatullah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Haqqani Network</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Akhundzada, Haibatullah</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Qaeda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haqqani, Jalaluddin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haqqani, Sirajuddin</category>
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2024/09/23/multimedia/00afghan-haqqani-2-mfhv/00afghan-haqqani-2-mfhv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jim Huylebroek for The New York Times</media:credit>
       <media:description>Sirajuddin Haqqani during an interview in Kabul, Afghanistan, in March.</media:description>
@@ -114,7 +115,7 @@
       <atom:link href="https://www.nytimes.com/2024/10/24/world/middleeast/iran-israel-attack-plans.html" rel="standout"></atom:link>
       <description>Tehran has several plans for responding to a threatened retaliatory strike by Israel, depending on its severity, and might also do nothing, insiders say.</description>
       <dc:creator>Farnaz Fassihi</dc:creator>
-      <pubDate>Fri, 25 Oct 2024 01:11:06 +0000</pubDate>
+      <pubDate>Fri, 25 Oct 2024 13:47:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
@@ -168,9 +169,9 @@
       <link>https://www.nytimes.com/2024/10/25/world/africa/ivory-coast-lgbtq.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/10/25/world/africa/ivory-coast-lgbtq.html</guid>
       <atom:link href="https://www.nytimes.com/2024/10/25/world/africa/ivory-coast-lgbtq.html" rel="standout"></atom:link>
-      <description>One of West Africa’s most tolerant societies has recently seen a string of assaults on L.G.B.T.Q. people after several social media influencers exhorted their followers to “hunt” gay men.</description>
+      <description>Ivory Coast, long considered one of West Africa’s most tolerant societies, has recently seen a string of assaults on L.G.B.T.Q. people after several social media influencers exhorted their followers to “hunt” gay men.</description>
       <dc:creator>Elian Peltier</dc:creator>
-      <pubDate>Fri, 25 Oct 2024 13:30:16 +0000</pubDate>
+      <pubDate>Fri, 25 Oct 2024 13:47:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ivory Coast</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
@@ -299,14 +300,14 @@
       <atom:link href="https://www.nytimes.com/2024/10/25/world/middleeast/israel-soldiers-killed-hezbollah-lebanon.html" rel="standout"></atom:link>
       <description>As clashes with Hezbollah militants intensified, Israel’s public broadcaster reported that the soldiers had been killed when a rocket struck a building they were in.</description>
       <dc:creator>Euan Ward</dc:creator>
-      <pubDate>Fri, 25 Oct 2024 11:13:55 +0000</pubDate>
+      <pubDate>Fri, 25 Oct 2024 13:57:54 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/25/multimedia/25mideast-crisis-idf-lebanon-1-tqzv/25mideast-crisis-idf-lebanon-1-tqzv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/25/multimedia/25reporter-update-qhtk/25reporter-update-qhtk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Amir Levy/Getty Images</media:credit>
-      <media:description>Israeli soldiers in southern Lebanon in October.</media:description>
+      <media:description>Israeli soldiers carry the coffin for one of five Israeli soldiers killed while fighting in southern Lebanon.</media:description>
     </item>
     <item>
       <title>Israeli Strike Kills 3 Journalists in Southern Lebanon</title>
