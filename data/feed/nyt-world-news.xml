@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.5819730531274572" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 25 Oct 2024 03:47:58 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Oct 2024 03:32:33 +0000</pubDate>
+    <lastBuildDate>Fri, 25 Oct 2024 04:18:14 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Oct 2024 04:01:19 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -301,6 +301,48 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/24/arts/24russia-nkorea-relationship/24russia-nkorea-relationship-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Vladimir Smirnov/Sputnik, via Getty Images</media:credit>
       <media:description>President Vladimir V. Putin of Russian and Kim Jong-un, North Korea’s leader, at a state reception in Pyongyang in June, in a photo released by Russian state media.</media:description>
+    </item>
+    <item>
+      <title>In a Region of Majestic Beauty, Sunnis and Shiites Wage Bloody War</title>
+      <link>https://www.nytimes.com/2024/10/25/world/asia/pakistan-kurram-sunni-shiite.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/25/world/asia/pakistan-kurram-sunni-shiite.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/25/world/asia/pakistan-kurram-sunni-shiite.html" rel="standout"></atom:link>
+      <description>In Kurram, near the Afghan border, Pakistan has been helpless to stop the latest outbreaks of a sectarian conflict that goes back decades.</description>
+      <dc:creator>Zia ur-Rehman</dc:creator>
+      <pubDate>Fri, 25 Oct 2024 04:01:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sunni Muslims</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shiite Muslims</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tehrik-e-Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State Khorasan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2024/10/21/multimedia/00pakistan-border-1-tvlj/00pakistan-border-1-tvlj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dilawer Khan/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A funeral in the Kurram district of Pakistan in October for Sunni Muslims killed in sectarian fighting.</media:description>
+    </item>
+    <item>
+      <title>Malaria Is Surging in Ethiopia, Reversing a Decade of Progress Against the Disease</title>
+      <link>https://www.nytimes.com/2024/10/25/health/malaria-ethiopia-deaths-cases.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/25/health/malaria-ethiopia-deaths-cases.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/25/health/malaria-ethiopia-deaths-cases.html" rel="standout"></atom:link>
+      <description>Climate change, civil conflict and growing resistance to insecticides and treatments are all contributing to an alarming spread of cases.</description>
+      <dc:creator>Maya Misikir and Stephanie Nolen</dc:creator>
+      <pubDate>Fri, 25 Oct 2024 04:01:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mosquitoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Malaria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Invasive Species</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ethiopia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oromia (Ethiopia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <media:content height="1521" medium="image" url="https://static01.nyt.com/images/2024/10/23/multimedia/xx-malaria-ethiopia-01-cbgv/xx-malaria-ethiopia-01-cbgv-mediumSquareAt3X.jpg" width="1520"></media:content>
+      <media:credit>Tiksa Negeri for The New York Times</media:credit>
+      <media:description>An entomologist collecting mosquitoes for study from the Butuji River in Dire Dawa, Ethiopia, last year.</media:description>
     </item>
     <item>
       <title>Iran Prepares for War but Hopes to Avert One as It Braces for Israeli Strikes</title>
@@ -1127,41 +1169,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/23/multimedia/23nkorea-ukraine-wwk-wqpt/23nkorea-ukraine-wwk-wqpt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ahn Young-Joon/Associated Press</media:credit>
       <media:description>A television news report in Seoul on Monday showing soldiers believed to be from North Korea standing in line to receive supplies in Russia.</media:description>
-    </item>
-    <item>
-      <title>Stuffed Into Trucks, 78 Thai Protesters Died. Their Killers Are Still Free.</title>
-      <link>https://www.nytimes.com/2024/10/23/world/asia/thailand-tak-bai-massacre.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/23/world/asia/thailand-tak-bai-massacre.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/23/world/asia/thailand-tak-bai-massacre.html" rel="standout"></atom:link>
-      <description>Twenty years ago, a massacre in southern Thailand fueled an insurgency that has never stopped. If no one is prosecuted for it by Friday, no one ever will be.</description>
-      <dc:creator>Hannah Beech, Ryn Jirenuwat and Ulet Ifansasti</dc:creator>
-      <pubDate>Thu, 24 Oct 2024 03:48:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Statutes of Limitations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thaksin Shinawatra</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paetongtarn Shinawatra</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/24/multimedia/24thailand-massacre-01-ftbj-promo/24thailand-massacre-01-ftbj-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ulet Ifansasti for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Wednesday Briefing</title>
-      <link>https://www.nytimes.com/2024/10/23/world/europe/voting-election-blinken-israel-yellen.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/23/world/europe/voting-election-blinken-israel-yellen.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/23/world/europe/voting-election-blinken-israel-yellen.html" rel="standout"></atom:link>
-      <description>Early voting starts in all seven swing states.</description>
-      <dc:creator>Natasha Frost</dc:creator>
-      <pubDate>Wed, 23 Oct 2024 04:01:26 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/23/multimedia/23ambriefing-europe-nl-voting-lqzm/23ambriefing-europe-nl-voting-lqzm-mediumSquareAt3X-v4.jpg" width="1800"></media:content>
-      <media:credit>John Moore/Getty Images</media:credit>
-      <media:description>Voters lined up to cast their ballots in Stamford, Conn., on Monday.</media:description>
     </item>
   </channel>
 </rss>
