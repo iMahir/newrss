@@ -2,9 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>The Verge -  All Posts</title>
   <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
-  <updated>2024-10-25T10:38:06-04:00</updated>
+  <updated>2024-10-25T10:46:33-04:00</updated>
   <id>https://www.theverge.com/rss/full.xml</id>
   <link type="text/html" href="https://www.theverge.com/" rel="alternate"/>
+  <entry>
+    <published>2024-10-25T10:46:33-04:00</published>
+    <updated>2024-10-25T10:46:33-04:00</updated>
+    <title>Meta signs its first big AI deal for news</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Image of the Meta logo and wordmark on a blue background bordered by black scribbles made out of the Meta logo." src="https://cdn.vox-cdn.com/thumbor/7w1SqNBL_8kDn38rLNISTjOXz-A=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73677406/STK043_VRG_Illo_N_Barclay_2_Meta.0.jpg" /&gt;
+        &lt;figcaption&gt;Illustration by Nick Barclay / The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="reV7fh"&gt;Meta’s &lt;a href="https://www.theverge.com/2023/9/27/23891128/meta-ai-assistant-characters-whatsapp-instagram-connect"&gt;AI chatbot&lt;/a&gt; will soon begin citing &lt;em&gt;Reuters&lt;/em&gt; reporting while answering news-related queries. The two companies have struck what &lt;em&gt;Axios &lt;/em&gt;&lt;a href="https://www.axios.com./2024/10/25/meta-reuters-ai-news-facebook-instagram"&gt;describes&lt;/a&gt; as a “multi-year deal” that will allow Meta to use &lt;em&gt;Reuters&lt;/em&gt; content for its chatbot responses. The deal is the first of its kind for Meta, in an era of news outlets agreeing to provide their content to AI companies.&lt;/p&gt;
+&lt;p id="ew9V66"&gt;“We’re always iterating and working to improve our products, and through Meta’s partnership with Reuters, Meta AI can respond to news-related questions with summaries and links to Reuters content,” Meta spokesperson Jamie Radice said in an email. “While most people use Meta AI for creative tasks, deep dives on new topics or how-to assistance, this partnership will help ensure a...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2024/10/25/24279259/meta-reuters-ai-chatbot-deal-news-licensing-media"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/10/25/24279259/meta-reuters-ai-chatbot-deal-news-licensing-media"/>
+    <id>https://www.theverge.com/2024/10/25/24279259/meta-reuters-ai-chatbot-deal-news-licensing-media</id>
+    <author>
+      <name>Mia Sato</name>
+    </author>
+  </entry>
   <entry>
     <published>2024-10-25T10:38:06-04:00</published>
     <updated>2024-10-25T10:38:06-04:00</updated>
@@ -226,31 +250,6 @@
     <id>https://www.theverge.com/2024/10/24/24277692/scout-motors-suv-truck-ev-concept-announce-price-specs</id>
     <author>
       <name>Andrew J. Hawkins</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-10-24T18:20:24-04:00</published>
-    <updated>2024-10-24T18:20:24-04:00</updated>
-    <title>Apple Intelligence bug bounty invites researchers to test its privacy claims</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="Vector illustration of the Apple logo." src="https://cdn.vox-cdn.com/thumbor/dWPutkcPyUmQOxjinzCWz_Mo7No=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73676102/STK071_APPLE_H.0.jpg" /&gt;
-        &lt;figcaption&gt;Image: Cath Virginia / The Verge&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="8xJThY"&gt;Apple is &lt;a href="https://security.apple.com/blog/pcc-security-research"&gt;inviting investigations&lt;/a&gt; into the Private Cloud Compute (PCC) system that powers more computationally intensive Apple Intelligence requests. The company is also expanding its bug bounty program to offer payouts of up to $1,000,000 for people who discover PCC vulnerabilities. &lt;/p&gt;
-&lt;p id="nILOlX"&gt;The company has boasted about how many AI features (branded as Apple Intelligence) will run on-device without leaving your Mac, iPhone, or other Apple hardware. Still, for more difficult requests, it will send them to PCC servers that are built &lt;a href="https://security.apple.com/blog/private-cloud-compute/"&gt;using Apple Silicon&lt;/a&gt; and a new operating system.&lt;/p&gt;
-&lt;p id="AzLQFr"&gt;Many AI applications from other companies also rely on servers to complete more difficult requests. Still, users don’t have much line of sight into how secure those...&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2024/10/24/24278881/apple-intelligence-bug-bounty-security-researchers-private-cloud-compute"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/10/24/24278881/apple-intelligence-bug-bounty-security-researchers-private-cloud-compute"/>
-    <id>https://www.theverge.com/2024/10/24/24278881/apple-intelligence-bug-bounty-security-researchers-private-cloud-compute</id>
-    <author>
-      <name>Jay Peters</name>
     </author>
   </entry>
 </feed>
