@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.5819730531274572" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 25 Oct 2024 04:18:14 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Oct 2024 04:01:19 +0000</pubDate>
+    <lastBuildDate>Fri, 25 Oct 2024 04:48:51 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Oct 2024 04:27:23 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -301,6 +301,18 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/24/arts/24russia-nkorea-relationship/24russia-nkorea-relationship-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Vladimir Smirnov/Sputnik, via Getty Images</media:credit>
       <media:description>President Vladimir V. Putin of Russian and Kim Jong-un, North Korea’s leader, at a state reception in Pyongyang in June, in a photo released by Russian state media.</media:description>
+    </item>
+    <item>
+      <title>Friday Briefing: Stars Rally for Harris</title>
+      <link>https://www.nytimes.com/2024/10/25/briefing/harris-obama-gaza-talks-taliban.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/25/briefing/harris-obama-gaza-talks-taliban.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/25/briefing/harris-obama-gaza-talks-taliban.html" rel="standout"></atom:link>
+      <description>Plus, an interview with the Taliban’s most fearsome leader.</description>
+      <dc:creator>Justin Porter</dc:creator>
+      <pubDate>Fri, 25 Oct 2024 04:23:43 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/25/multimedia/25ambriefing-europe-nl-lhpt/25ambriefing-europe-nl-lhpt-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>Kamala Harris, Bruce Springsteen and Barack Obama backstage in Georgia yesterday.</media:description>
     </item>
     <item>
       <title>In a Region of Majestic Beauty, Sunnis and Shiites Wage Bloody War</title>
@@ -1144,31 +1156,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/23/multimedia/23xp-philippines-qklb/23xp-philippines-qklb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pericles Festin/Agence France-Presse — Getty Images</media:credit>
       <media:description>Flooding in Naga City, the Philippines, on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>What Is North Korea’s Role in the Russia-Ukraine War?</title>
-      <link>https://www.nytimes.com/2024/10/23/world/asia/north-korea-troops-russia-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/23/world/asia/north-korea-troops-russia-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/23/world/asia/north-korea-troops-russia-ukraine.html" rel="standout"></atom:link>
-      <description>North Korea’s supply of munitions has already been critical to the Russian war effort. Now, its troops appear to be poised to join the fight in Ukraine.</description>
-      <dc:creator>Choe Sang-Hun</dc:creator>
-      <pubDate>Thu, 24 Oct 2024 02:52:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Intelligence Service (South Korea)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Blagoveshchensk (Russia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Khabarovsk (Russia)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/23/multimedia/23nkorea-ukraine-wwk-wqpt/23nkorea-ukraine-wwk-wqpt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ahn Young-Joon/Associated Press</media:credit>
-      <media:description>A television news report in Seoul on Monday showing soldiers believed to be from North Korea standing in line to receive supplies in Russia.</media:description>
     </item>
   </channel>
 </rss>
