@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>The Verge -  All Posts</title>
   <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
-  <updated>2024-10-27T15:11:37-04:00</updated>
+  <updated>2024-10-27T19:19:36-04:00</updated>
   <id>https://www.theverge.com/rss/full.xml</id>
   <link type="text/html" href="https://www.theverge.com/" rel="alternate"/>
+  <entry>
+    <published>2024-10-27T19:19:36-04:00</published>
+    <updated>2024-10-27T19:19:36-04:00</updated>
+    <title>Hospitals use a transcription tool powered by a hallucination-prone OpenAI model</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="An illustration of a woman typing on a keyboard, her face replaced with lines of code." src="https://cdn.vox-cdn.com/thumbor/3qdPMCaGAIWhtAiD94vHeqzJBcU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73682410/STK149_AI_Chatbot_K_Radtke.0.jpg" /&gt;
+        &lt;figcaption&gt;Image: The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="R8vJBN"&gt;A few months ago, my doctor showed off an AI transcription tool he used to record and summarize his patient meetings. In my case, the summary was fine, but researchers cited by &lt;em&gt;ABC News&lt;/em&gt; have found that’s not always the case with OpenAI’s Whisper, which powers a tool many hospitals use — sometimes it just makes things up entirely.&lt;/p&gt;
+&lt;p id="oUF64X"&gt;Whisper is used by a company &lt;a href="https://www.nabla.com/"&gt;called Nabla&lt;/a&gt; for a medical transcription tool that it estimates has transcribed 7 million medical conversations, according to &lt;em&gt;ABC News&lt;/em&gt;. More than 30,000 clinicians and 40 health systems use it, the outlet writes. Nabla is reportedly aware that Whisper can hallucinate, and is “addressing the problem.”&lt;/p&gt;
+&lt;p id="KLflVf"&gt;A group of researchers from Cornell University, the University of Washington, and...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2024/10/27/24281170/open-ai-whisper-hospitals-transcription-hallucinations-studies"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/10/27/24281170/open-ai-whisper-hospitals-transcription-hallucinations-studies"/>
+    <id>https://www.theverge.com/2024/10/27/24281170/open-ai-whisper-hospitals-transcription-hallucinations-studies</id>
+    <author>
+      <name>Wes Davis</name>
+    </author>
+  </entry>
   <entry>
     <published>2024-10-27T15:11:37-04:00</published>
     <updated>2024-10-27T15:11:37-04:00</updated>
@@ -238,34 +263,6 @@
     <id>https://www.theverge.com/2024/10/26/24280200/tim-walz-aoc-twitch-madden</id>
     <author>
       <name>Jay Peters</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-10-26T12:48:35-04:00</published>
-    <updated>2024-10-26T12:48:35-04:00</updated>
-    <title>Android 16 could get iPhone-like ‘ongoing’ notifications</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="A picture of a Pixel 6 with an ongoing phone call notification, with the top portion of an iPhone 15 Pro screen above it." src="https://cdn.vox-cdn.com/thumbor/eGWUWW8lmMYx3CWeIPaByj4jScM=/185x0:2213x1352/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73679835/Android_call_status_bar.0.jpeg" /&gt;
-        &lt;figcaption&gt;&lt;em&gt;Google may be working on persistent notifications similar to its phone call status pictured here.&lt;/em&gt; | Photo: Wes Davis / &lt;em&gt;The Verge&lt;/em&gt;&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="Q7gKWh"&gt;Android 16 may come with a new “Rich Ongoing Notifications” feature that lets developers keep persistent notifications in the Android status bar, according to &lt;a href="https://www.theverge.com/2024/10/15/24268043/google-android-15-pixel"&gt;Android 15&lt;/a&gt; beta code discovered &lt;a href="https://www.androidauthority.com/android-16-rich-ongoing-notifications-3494349/"&gt;by &lt;em&gt;Android Authority&lt;/em&gt;’s Mishaal Rahman&lt;/a&gt;, who frequently dives into code to surface coming features.&lt;/p&gt;
-&lt;p id="97LpnH"&gt;Right now, the code enables adding a pill-shaped icon with custom text and background color to the Android status bar. Some mock notifications Rahman created show how it could be used for things like telling you when to expect your Uber to arrive. Android has already had a feature like this since Android 12 that lets you know how long you’ve been on a phone call, Rahman notes. &lt;/p&gt;
-&lt;figure class="e-image"&gt;
-        
-      &lt;cite&gt;Screenshot: Mishaal Rahman / &lt;em&gt;Android Authority&lt;/em&gt;&lt;/cite&gt;
-      &lt;figcaption&gt;&lt;em&gt;A...&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2024/10/26/24280157/android-16-rich-ongoing-notifications-beta-code-iphone-ios-live-activities"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/10/26/24280157/android-16-rich-ongoing-notifications-beta-code-iphone-ios-live-activities"/>
-    <id>https://www.theverge.com/2024/10/26/24280157/android-16-rich-ongoing-notifications-beta-code-iphone-ios-live-activities</id>
-    <author>
-      <name>Wes Davis</name>
     </author>
   </entry>
 </feed>
