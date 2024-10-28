@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.6907125718551681" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 28 Oct 2024 14:46:09 +0000</lastBuildDate>
-    <pubDate>Mon, 28 Oct 2024 14:30:30 +0000</pubDate>
+    <lastBuildDate>Mon, 28 Oct 2024 15:41:14 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Oct 2024 15:41:10 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,9 +21,9 @@
       <atom:link href="https://www.nytimes.com/live/2024/10/28/world/israel-gaza-iran-lebanon" rel="standout"></atom:link>
       <description>The director of the C.I.A. was in Qatar for preliminary talks with Israeli officials aimed at reviving cease-fire negotiations with Hamas.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 28 Oct 2024 14:30:30 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/28/multimedia/28mideast-promo-9am-et-qgcv/28mideast-promo-9am-et-qgcv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Violeta Santos Moura/Reuters</media:credit>
+      <pubDate>Mon, 28 Oct 2024 15:41:10 +0000</pubDate>
+      <media:content height="1202" medium="image" url="https://static01.nyt.com/images/2024/10/28/multimedia/28mideast-crisis-promo-1115am-pvtk/28mideast-crisis-promo-1115am-pvtk-mediumSquareAt3X.jpg" width="1203"></media:content>
+      <media:credit>Reuters</media:credit>
     </item>
     <item>
       <title>Israel Calls the Shots in the Mideast as U.S. Plays a Lesser Role</title>
@@ -32,7 +32,7 @@
       <atom:link href="https://www.nytimes.com/2024/10/28/world/middleeast/israel-us-mideast-conflict.html" rel="standout"></atom:link>
       <description>A once pivotal player has seen its influence become limited.</description>
       <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Mon, 28 Oct 2024 12:56:27 +0000</pubDate>
+      <pubDate>Mon, 28 Oct 2024 14:52:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
@@ -83,6 +83,25 @@
       <media:description>A tour of the graveyard of St. Nicholas Church in Pluckley, England.</media:description>
     </item>
     <item>
+      <title>‘Grate Cheese Robbery’ Scams Company Out of 22 Tons of Cheddar</title>
+      <link>https://www.nytimes.com/2024/10/28/world/europe/uk-cheese-theft-scam.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/28/world/europe/uk-cheese-theft-scam.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/28/world/europe/uk-cheese-theft-scam.html" rel="standout"></atom:link>
+      <description>Neal’s Yard, a leading cheese retailer in London, said that a shipment of 22 metric tons of rare Cheddar had disappeared in the con.</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Mon, 28 Oct 2024 15:30:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cheese</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robberies and Thefts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dairy Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Neals Yard Dairy</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/28/multimedia/28cheese-theft-01-qvwp/28cheese-theft-01-qvwp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jeremie Souteyrat for The New York Times</media:credit>
+      <media:description>A Neal’s Yard Dairy store in London. The company said that it had received a major order from what appeared to be a “legitimate wholesale distributor for a major French retailer.”</media:description>
+    </item>
+    <item>
       <title>Bullied by China at Sea, With the Broken Bones to Prove It</title>
       <link>https://www.nytimes.com/2024/10/28/world/asia/vietnam-south-china-sea.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/10/28/world/asia/vietnam-south-china-sea.html</guid>
@@ -107,7 +126,7 @@
       <atom:link href="https://www.nytimes.com/2024/10/28/world/europe/ukraine-braces-for-russians-to-assault-with-north-korean-troops.html" rel="standout"></atom:link>
       <description>Several thousand North Korean soldiers have arrived in Russia’s western Kursk region, where they are expected to support Moscow’s efforts to dislodge invading Ukrainian forces.</description>
       <dc:creator>Constant Méheut</dc:creator>
-      <pubDate>Mon, 28 Oct 2024 14:27:48 +0000</pubDate>
+      <pubDate>Mon, 28 Oct 2024 14:53:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
@@ -119,18 +138,20 @@
       <media:description>A Ukrainian army vehicle passes through the destroyed Russian border post at the Sudzha crossing in August.</media:description>
     </item>
     <item>
-      <title>Tommy Robinson, an Anti-immigrant Agitator in Britain, Gets Jail Sentence</title>
+      <title>Tommy Robinson, U.K. Anti-immigrant Agitator, Jailed for Contempt of Court</title>
       <link>https://www.nytimes.com/2024/10/28/world/europe/tommy-robinson-sentenced-uk-far-right.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/10/28/world/europe/tommy-robinson-sentenced-uk-far-right.html</guid>
       <atom:link href="https://www.nytimes.com/2024/10/28/world/europe/tommy-robinson-sentenced-uk-far-right.html" rel="standout"></atom:link>
-      <description>Mr. Robinson, the founder of the English Defence League, was sentenced to 18 months for ignoring a court order to stop making false claims about a teenage Syrian refugee.</description>
+      <description>The founder of the English Defence League was sentenced to 18 months for ignoring a court order to stop making false claims about a teenage Syrian refugee.</description>
       <dc:creator>Stephen Castle</dc:creator>
-      <pubDate>Mon, 28 Oct 2024 13:05:38 +0000</pubDate>
+      <pubDate>Mon, 28 Oct 2024 14:53:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">English Defence League</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Robinson, Tommy (1982- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/28/multimedia/28uk-robinson-mzbp/28uk-robinson-mzbp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Yui Mok/Press Association, via Associated Press</media:credit>
       <media:description>The far-right activist Tommy Robinson, whose real name is Stephen Yaxley-Lennon, outside a police station in Folkestone, England, on Friday.</media:description>
@@ -252,21 +273,49 @@
       <media:description>A billboard in Tehran showing an apocalyptic scene of what looks like Tel Aviv being destroyed by missiles.</media:description>
     </item>
     <item>
-      <title>Japan Election: Governing Party Projected to Lose Majority</title>
-      <link>https://www.nytimes.com/2024/10/26/world/asia/japan-election.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/26/world/asia/japan-election.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/26/world/asia/japan-election.html" rel="standout"></atom:link>
-      <description>The Japanese electorate appeared to punish the Liberal Democrats, leaving it unclear whether the party would be forced to expand its coalition to stay in power.</description>
-      <dc:creator>Motoko Rich, Kiuko Notoya and Hisako Ueno</dc:creator>
-      <pubDate>Sun, 27 Oct 2024 20:13:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Liberal Democratic Party (Japan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ishiba, Shigeru</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/27/multimedia/27japan-election-hpmg/27japan-election-hpmg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Richard A. Brooks/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Officials of the election administration committee count ballots for Japan’s general election in Tokyo on Sunday.</media:description>
+      <title>As Gaza Cease-Fire Talks Resume, Little Progress Is Expected Before the U.S. Election</title>
+      <link>https://www.nytimes.com/2024/10/28/world/middleeast/israel-hamas-gaza-cease-fire-talks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/28/world/middleeast/israel-hamas-gaza-cease-fire-talks.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/28/world/middleeast/israel-hamas-gaza-cease-fire-talks.html" rel="standout"></atom:link>
+      <description>Analysts said Israel was expected to wait until the outcome of the election before deciding on its stance on a cease-fire in Gaza. Hamas officials seem reluctant to compromise.</description>
+      <dc:creator>Patrick Kingsley</dc:creator>
+      <pubDate>Mon, 28 Oct 2024 15:08:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/28/multimedia/28Israel-Assess-1-fzwp/28Israel-Assess-1-fzwp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mahmoud Sameer/Reuters</media:credit>
+      <media:description>Palestinians at the site of an Israeli strike on Saturday in Gaza City.</media:description>
+    </item>
+    <item>
+      <title>One-Third of World’s Trees Face Extinction Risk, Report at COP16 Says</title>
+      <link>https://www.nytimes.com/2024/10/28/climate/trees-extinction-iucn-report-biodiversity.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/28/climate/trees-extinction-iucn-report-biodiversity.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/28/climate/trees-extinction-iucn-report-biodiversity.html" rel="standout"></atom:link>
+      <description>They play an essential role in supporting life on Earth, but many species are in decline, researchers found.</description>
+      <dc:creator>Catrin Einhorn</dc:creator>
+      <pubDate>Mon, 28 Oct 2024 15:00:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trees and Shrubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Union for Conservation of Nature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Convention on Biological Diversity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biodiversity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Logging Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cali (Colombia)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/28/multimedia/28cli-trees-lmbw/28cli-trees-lmbw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chona Kasinger for The New York Times</media:credit>
+      <media:description>A section of the Sycan Marsh Preserve, a wetland in Oregon that is home to thousands of birds and endangered fish, after a wildfire in 2021. </media:description>
     </item>
     <item>
       <title>Japan Election: Asia’s Most Stable Democracy Is Sent Into Chaos</title>
@@ -293,7 +342,7 @@
       <atom:link href="https://www.nytimes.com/2024/10/28/climate/free-electricity-britain-power-pricing-experiments.html" rel="standout"></atom:link>
       <description>A utility sends phone alerts when wind power is cheap. A builder sells “zero bill” houses. They’re among several experiments to redefine how people value electricity.</description>
       <dc:creator>Somini Sengupta and Andrew Testa</dc:creator>
-      <pubDate>Mon, 28 Oct 2024 09:03:03 +0000</pubDate>
+      <pubDate>Mon, 28 Oct 2024 15:35:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
@@ -478,6 +527,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+    </item>
+    <item>
+      <title>Japan Election: Governing Party Projected to Lose Majority</title>
+      <link>https://www.nytimes.com/2024/10/26/world/asia/japan-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/10/26/world/asia/japan-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/10/26/world/asia/japan-election.html" rel="standout"></atom:link>
+      <description>The Japanese electorate appeared to punish the Liberal Democrats, leaving it unclear whether the party would be forced to expand its coalition to stay in power.</description>
+      <dc:creator>Motoko Rich, Kiuko Notoya and Hisako Ueno</dc:creator>
+      <pubDate>Sun, 27 Oct 2024 20:13:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Liberal Democratic Party (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ishiba, Shigeru</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/27/multimedia/27japan-election-hpmg/27japan-election-hpmg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Richard A. Brooks/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Officials of the election administration committee count ballots for Japan’s general election in Tokyo on Sunday.</media:description>
     </item>
     <item>
       <title>Israel Struck Air Defenses Around Critical Iranian Energy Sites, Officials Say</title>
@@ -1193,48 +1259,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/25/multimedia/25brics-assess-01-ftvm/25brics-assess-01-ftvm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Maxim Shipenkov</media:credit>
       <media:description>President Vladimir V. Putin of Russia, center, and other BRICS summit participants in Kazan, Russia, on Thursday.</media:description>
-    </item>
-    <item>
-      <title>5 Israeli Soldiers Are Killed Amid Hezbollah Clashes in Lebanon</title>
-      <link>https://www.nytimes.com/2024/10/25/world/middleeast/israel-soldiers-killed-hezbollah-lebanon.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/25/world/middleeast/israel-soldiers-killed-hezbollah-lebanon.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/25/world/middleeast/israel-soldiers-killed-hezbollah-lebanon.html" rel="standout"></atom:link>
-      <description>As clashes with Hezbollah militants intensified, Israel’s public broadcaster reported that the soldiers had been killed when a rocket struck a building they were in.</description>
-      <dc:creator>Euan Ward</dc:creator>
-      <pubDate>Fri, 25 Oct 2024 13:57:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/25/multimedia/25reporter-update-qhtk/25reporter-update-qhtk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Amir Levy/Getty Images</media:credit>
-      <media:description>Israeli soldiers carry the coffin for one of five Israeli soldiers killed while fighting in southern Lebanon.</media:description>
-    </item>
-    <item>
-      <title>Here are the latest developments.</title>
-      <link>https://www.nytimes.com/2024/10/25/world/middleeast/here-are-the-latest-developments.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/25/world/middleeast/here-are-the-latest-developments.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/25/world/middleeast/here-are-the-latest-developments.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Patrick Kingsley, Ronen Bergman and Farnaz Fassihi</dc:creator>
-      <pubDate>Sat, 26 Oct 2024 01:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Uruguay’s 2024 Election: Candidates, Issues and Predictions</title>
-      <link>https://www.nytimes.com/2024/10/25/world/americas/uruguay-2024-election-president-candidates.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/10/25/world/americas/uruguay-2024-election-president-candidates.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/10/25/world/americas/uruguay-2024-election-president-candidates.html" rel="standout"></atom:link>
-      <description>Crime, child poverty and an aging population are top issues as voters in one of Latin America’s most stable democracies head to the polls on Sunday.</description>
-      <dc:creator>Laurence Blair</dc:creator>
-      <pubDate>Fri, 25 Oct 2024 09:05:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uruguay</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mujica, Jose</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lacalle Pou, Luis</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/23/multimedia/00uruguay-election-explainer-hjwq/00uruguay-election-explainer-hjwq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Eitan Abramovich/Agence France-Presse — Getty Images</media:credit>
-      <media:description>José Mujica, a former president of Uruguay, voting at a polling station in Montevideo, the country’s capital, during primary elections in June.</media:description>
     </item>
   </channel>
 </rss>
