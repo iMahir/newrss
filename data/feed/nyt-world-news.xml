@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?cacheBuster=1730572664430" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 02 Nov 2024 18:37:44 +0000</lastBuildDate>
-    <pubDate>Sat, 02 Nov 2024 17:53:53 +0000</pubDate>
+    <lastBuildDate>Sat, 02 Nov 2024 20:38:03 +0000</lastBuildDate>
+    <pubDate>Sat, 02 Nov 2024 20:21:49 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -35,6 +35,23 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/11/02/multimedia/02mideast-ledeall-top-sub-fjzk/02mideast-ledeall-top-sub-fjzk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arash Khamooshi for The New York Times</media:credit>
       <media:description>A sign in Tehran, Iran, reads “Another storm is coming” in Hebrew and Persian. Some Iranian officials have said their country would retaliate for Israel’s Oct. 26 strikes on Iran.</media:description>
+    </item>
+    <item>
+      <title>Israel Says Elite Naval Commandos Abducted Hezbollah Operative</title>
+      <link>https://www.nytimes.com/2024/11/02/world/middleeast/israel-naval-commandos-hezbollah.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/11/02/world/middleeast/israel-naval-commandos-hezbollah.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/11/02/world/middleeast/israel-naval-commandos-hezbollah.html" rel="standout"></atom:link>
+      <description>It appeared to be the deepest Israeli operation by sea and ground inside Lebanon during the current war.</description>
+      <dc:creator>Euan Ward, Aaron Boxerman and Maria Abi-Habib</dc:creator>
+      <pubDate>Sat, 02 Nov 2024 20:21:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/11/02/multimedia/02Lebanon-Abduction-01-cpgl/02Lebanon-Abduction-01-cpgl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ibrahim Chalhoub/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Lebanese soldiers on Saturday inspect the site where Israeli naval commandos are believed to have landed to abduct what Israel said was a Hezbollah operative in the coastal city of Batroun in northern Lebanon.</media:description>
     </item>
     <item>
       <title>German Government at Risk of Collapse After Rift on Economy</title>
@@ -263,24 +280,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/10/17/multimedia/00Ukraine-Toretsk-Photos-kbtg-promo/00Ukraine-Toretsk-Photos-kbtg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Tyler Hicks/The New York Times</media:credit>
       <media:description>A Ukrainian soldier repels a Russian attack with a rocket-propelled grenade outside Toretsk, Ukraine this month.</media:description>
-    </item>
-    <item>
-      <title>In Spanish Town Devastated by Flood, a Grim Search for Bodies</title>
-      <link>https://www.nytimes.com/2024/11/01/world/europe/spain-flood-valencia-paiporta.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/11/01/world/europe/spain-flood-valencia-paiporta.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/11/01/world/europe/spain-flood-valencia-paiporta.html" rel="standout"></atom:link>
-      <description>Rescuers in Paiporta, where more than 60 people died, were still pulling bodies from the mud. “We are alive,” a resident said. “But we have lost everything.”</description>
-      <dc:creator>Emma Bubola</dc:creator>
-      <pubDate>Fri, 01 Nov 2024 17:00:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paiporta (Spain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Valencia (Spain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drownings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/11/01/multimedia/01Spain-Floods-mwql/01Spain-Floods-mwql-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>David Ramos/Getty Images</media:credit>
-      <media:description>Residents of Paiporta, Spain, a town on the outskirts of Valencia, trying to clean a flood-ravaged street on Thursday.</media:description>
     </item>
     <item>
       <title>COP16 Talks in Colombia Adopt a Novel Way to Pay for Conservation</title>
@@ -682,6 +681,24 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/11/01/multimedia/01ambriefing-europe-nl-spain-cftv/01ambriefing-europe-nl-spain-cftv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Biel Alino/EPA, via Shutterstock</media:credit>
       <media:description>Severe rain and flooding caused devastation in Paiporta, Spain.</media:description>
+    </item>
+    <item>
+      <title>In Spanish Town Devastated by Flood, a Grim Search for Bodies</title>
+      <link>https://www.nytimes.com/2024/11/01/world/europe/spain-flood-valencia-paiporta.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/11/01/world/europe/spain-flood-valencia-paiporta.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/11/01/world/europe/spain-flood-valencia-paiporta.html" rel="standout"></atom:link>
+      <description>Rescuers in Paiporta, where more than 60 people died, were still pulling bodies from the mud. “We are alive,” a resident said. “But we have lost everything.”</description>
+      <dc:creator>Emma Bubola</dc:creator>
+      <pubDate>Fri, 01 Nov 2024 17:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paiporta (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Valencia (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drownings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/11/01/multimedia/01Spain-Floods-mwql/01Spain-Floods-mwql-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>David Ramos/Getty Images</media:credit>
+      <media:description>Residents of Paiporta, Spain, a town on the outskirts of Valencia, trying to clean a flood-ravaged street on Thursday.</media:description>
     </item>
     <item>
       <title>Mexico’s New President, Claudia Sheinbaum, Faces First Major Crisis</title>
