@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>The Verge -  All Posts</title>
   <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
-  <updated>2024-11-01T19:33:08-04:00</updated>
+  <updated>2024-11-01T22:00:13-04:00</updated>
   <id>https://www.theverge.com/rss/full.xml</id>
   <link type="text/html" href="https://www.theverge.com/" rel="alternate"/>
+  <entry>
+    <published>2024-11-01T22:00:13-04:00</published>
+    <updated>2024-11-01T22:00:13-04:00</updated>
+    <title>An Okta login bug bypassed checking passwords on some long usernames</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Illustration of a password above an open combination lock, implying a data breach." src="https://cdn.vox-cdn.com/thumbor/I5J_hv_-AQMZIl5AO4Yoz1cLcYA=/20x0:2021x1334/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73695111/STK453_PRIVACY_B_CVirginia.0.jpg" /&gt;
+        &lt;figcaption&gt;Illustration by Cath Virginia / The Verge | Photo from Getty Images&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="4iXZkt"&gt;On Friday evening, Okta posted an odd &lt;a href="https://trust.okta.com/security-advisories/okta-ad-ldap-delegated-authentication-username"&gt;update to its list of security advisories&lt;/a&gt;. The latest entry reveals that under specific circumstances, someone could’ve logged in by entering anything for a password, but only if the account’s username had over 52 characters.&lt;/p&gt;
+&lt;p id="KgGvMX"&gt;According to the &lt;a href="https://infosec.exchange/@SecureOwl/113409933398662230"&gt;note&lt;/a&gt; &lt;a href="https://x.com/kmcquade3/status/1852475962715246869"&gt;people reported receiving,&lt;/a&gt; other requirements to exploit the vulnerability included Okta checking the cache from a previous successful login, and that an organization’s authentication policy didn’t add extra conditions like requiring multi-factor authentication (MFA).&lt;/p&gt;
+&lt;p id="cD4ojS"&gt;Here are the details that are currently available:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p id="ncWLAA"&gt;On October 30, 2024, a vulnerability was internally identified in generating the cache key for AD/LDAP DelAuth. The Bcrypt algorithm was...&lt;/p&gt;
+&lt;/blockquote&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2024/11/1/24285874/okta-52-character-login-password-authentication-bypass"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/11/1/24285874/okta-52-character-login-password-authentication-bypass"/>
+    <id>https://www.theverge.com/2024/11/1/24285874/okta-52-character-login-password-authentication-bypass</id>
+    <author>
+      <name>Richard Lawler</name>
+    </author>
+  </entry>
   <entry>
     <published>2024-11-01T19:33:08-04:00</published>
     <updated>2024-11-01T19:33:08-04:00</updated>
@@ -196,7 +224,13 @@
     &lt;/figure&gt;
 
   &lt;p id="cnQTRw"&gt;Meta is introducing some big changes with &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.meta.com%2Fblog%2Fquest%2Fmeta-quest-v71-update-horizon-os-refresh-calendar-remote-desktop%2F&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F11%2F1%2F24285641%2Fmeta-quest-os-update-v71-redesign-train-mode-calendar" rel="sponsored nofollow noopener" target="_blank"&gt;its Quest v71 update&lt;/a&gt;, including a redesign of Meta Horizon OS, a calendar app, and the ability to use Travel Mode on a train. The update will start rolling out gradually next week. &lt;/p&gt;
-&lt;p id="bQPp9q"&gt;Let’s start with the redesign. Meta says that it’s “tweaking the look and feel of Horizon OS” and that new headsets will use an “improved” light theme by default. (Dark mode fans, fear not: the dark theme is still present, and if you’re already using it, Meta won’t switch you over automatically.) Meta has “also made assorted changes to the way panels look and behave, where the control bar resides, the colors of various UI elements, and so on,” according to a blog post. And the Settings menu has “a new look and layout”...&lt;/p&gt;
+&lt;p id="bQPp9q"&gt;Let’s start with the redesign. Meta says that it’s “tweaking the look and feel of Horizon OS” and the dark and light themes “have been optimized for clarity viewing and reading contrast.” Meta has “also made assorted changes to the way panels look and behave, where the control bar resides, the colors of various UI elements, and so on,” according to a blog post. And the Settings menu has “a new look and layout” and improved search. &lt;/p&gt;
+&lt;figure class="e-image"&gt;
+        
+      &lt;cite&gt;Image: Meta&lt;/cite&gt;
+      &lt;figcaption&gt;&lt;em&gt;An image of the updated settings menu.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;p id="LDL2Fq"&gt;The...&lt;/p&gt;
   &lt;p&gt;
     &lt;a href="https://www.theverge.com/2024/11/1/24285641/meta-quest-os-update-v71-redesign-train-mode-calendar"&gt;Continue reading&amp;hellip;&lt;/a&gt;
   &lt;/p&gt;
@@ -231,33 +265,6 @@
     <id>https://www.theverge.com/2024/11/1/24285571/schwinn-hurricane-compact-electric-bike</id>
     <author>
       <name>Andrew Liszewski</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-11-01T13:58:17-04:00</published>
-    <updated>2024-11-01T13:58:17-04:00</updated>
-    <title>You can now try Microsoft’s more modern Windows Hello UI</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="Microsoft’s new Windows Hello UI" src="https://cdn.vox-cdn.com/thumbor/IdeZLAhiVqSqkoo5iuSZaE1laGE=/9x0:930x614/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73694223/Hello_static_asset.0.png" /&gt;
-        &lt;figcaption&gt;Image: Microsoft&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="y4LS5b"&gt;Microsoft is modernizing how its Windows Hello authentication, which includes facial and fingerprint recognition, works in Windows 11. The revamp to the Windows Hello experience is now in beta testing with Windows Insiders, and includes visual changes, new iconography, and improvements to passkeys.&lt;/p&gt;
-&lt;p id="iK2d0L"&gt;Not only will this new UI appear on the Windows 11 login screen, but also when you’re using passkeys to sign into websites and apps. “We redesigned Windows security credential user experiences for passkey creating a cleaner experience that supports secured and quick authentication,” &lt;a href="https://blogs.windows.com/windows-insider/2024/11/01/announcing-windows-11-insider-preview-build-22635-4440-beta-channel/"&gt;explains the Windows team&lt;/a&gt;. “Users will now be able to switch between authentication options and select passkey / devices more intuitively.”&lt;/p&gt;
-&lt;figure class="e-image"&gt;
-        
-      &lt;cite&gt;Image:...&lt;/cite&gt;&lt;/figure&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2024/11/1/24285558/microsoft-windows-hello-ui-passkeys-beta-testing"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/11/1/24285558/microsoft-windows-hello-ui-passkeys-beta-testing"/>
-    <id>https://www.theverge.com/2024/11/1/24285558/microsoft-windows-hello-ui-passkeys-beta-testing</id>
-    <author>
-      <name>Tom Warren</name>
     </author>
   </entry>
 </feed>
