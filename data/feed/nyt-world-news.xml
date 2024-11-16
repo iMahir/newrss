@@ -3,34 +3,36 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.4232089009927713" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 16 Nov 2024 17:43:03 +0000</lastBuildDate>
-    <pubDate>Sat, 16 Nov 2024 17:42:27 +0000</pubDate>
+    <lastBuildDate>Sat, 16 Nov 2024 22:49:33 +0000</lastBuildDate>
+    <pubDate>Sat, 16 Nov 2024 22:05:28 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
-      <title>As Xi and Biden Meet, Trump and Uncertainty Loom Large</title>
-      <link>https://www.nytimes.com/2024/11/16/world/asia/biden-xi-china-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/11/16/world/asia/biden-xi-china-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/11/16/world/asia/biden-xi-china-trump.html" rel="standout"></atom:link>
-      <description>The two leaders will meet in Peru, where China has steadily expanded its influence in a challenge to the United States in its own region.</description>
-      <dc:creator>David Pierson and Mitra Taj</dc:creator>
-      <pubDate>Sat, 16 Nov 2024 05:01:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <title>Biden and Xi Meet as U.S.-China Relationship Faces New Uncertainty</title>
+      <link>https://www.nytimes.com/2024/11/16/world/americas/biden-xi-meeting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/11/16/world/americas/biden-xi-meeting.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/11/16/world/americas/biden-xi-meeting.html" rel="standout"></atom:link>
+      <description>Donald J. Trump has promised a more aggressive approach, after the Biden administration worked to avoid open conflict with Beijing.</description>
+      <dc:creator>Zolan Kanno-Youngs</dc:creator>
+      <pubDate>Sat, 16 Nov 2024 22:05:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Asia-Pacific Economic Cooperation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lima (Peru)</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/11/16/multimedia/16xi-biden-hbqj/16xi-biden-hbqj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Biden and Xi Jinping, China’s top leader, in California in November 2023, the last time they met in person.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/11/16/multimedia/16biden-xi-apec-wqzf/16biden-xi-apec-wqzf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Eric Lee/The New York Times</media:credit>
+      <media:description>President Biden and the Chinese leader, Xi Jinping, meeting on Saturday in Lima, Peru.</media:description>
     </item>
     <item>
       <title>Young Gazans Reach Global Audiences With Videos of Everyday Life in War</title>
@@ -57,7 +59,7 @@
       <atom:link href="https://www.nytimes.com/2024/11/16/world/europe/navalny-russia-opposition-divided.html" rel="standout"></atom:link>
       <description>Accusations of betrayal have already tarnished the movement once led by Aleksei Navalny. Now, the election of Donald J. Trump, a Putin admirer, further complicates the opposition efforts.</description>
       <dc:creator>Valerie Hopkins</dc:creator>
-      <pubDate>Sat, 16 Nov 2024 13:41:50 +0000</pubDate>
+      <pubDate>Sat, 16 Nov 2024 19:40:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Navalny, Aleksei A</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
@@ -68,6 +70,24 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/10/21/multimedia/21navalny-opposition-feud-photo1-fkqw/21navalny-opposition-feud-photo1-fkqw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Vassil Donev/EPA, via Shutterstock</media:credit>
       <media:description>Infighting and accusations between Russian opposition groups seem to be threatening the legacy of government opposition that Aleksei A. Navalny had long nurtured.</media:description>
+    </item>
+    <item>
+      <title>Vladimir Shklyarov, Star Russian Ballet Dancer, Dies at 39</title>
+      <link>https://www.nytimes.com/2024/11/16/world/europe/vladimir-shklyarov-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/11/16/world/europe/vladimir-shklyarov-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/11/16/world/europe/vladimir-shklyarov-dead.html" rel="standout"></atom:link>
+      <description>The Mariinsky Theater in St. Petersburg, which announced the death, did not say how or where he died.</description>
+      <dc:creator>Milana Mazaeva and Alan Yuhas</dc:creator>
+      <pubDate>Sat, 16 Nov 2024 21:37:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dancing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mariinsky Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Petersburg (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vladimir Shklyarov</category>
+      <media:content height="1400" medium="image" url="https://static01.nyt.com/images/2024/11/16/multimedia/16russia-ballet-cljb/16russia-ballet-cljb-mediumSquareAt3X.jpg" width="1400"></media:content>
+      <media:credit>Hiroyuki Ito for The New York Times</media:credit>
+      <media:description>Vladimir Shklyarov performing in “Etudes” at the City Center in New York in 2008.</media:description>
     </item>
     <item>
       <title>South Africa Police Try Siege Tactics on Illegal Mining, Igniting Debate</title>
@@ -87,6 +107,24 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/11/16/multimedia/16safrica-mine-01-vzpw/16safrica-mine-01-vzpw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ihsaan Haffejee/Reuters</media:credit>
       <media:description>A disused mine where hundreds of men accused of illegal mining are hiding in Stilfontein, South Africa, on Friday.</media:description>
+    </item>
+    <item>
+      <title>As Xi and Biden Meet, Trump and Uncertainty Loom Large</title>
+      <link>https://www.nytimes.com/2024/11/16/world/asia/biden-xi-china-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/11/16/world/asia/biden-xi-china-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/11/16/world/asia/biden-xi-china-trump.html" rel="standout"></atom:link>
+      <description>The two leaders will meet in Peru, where China has steadily expanded its influence in a challenge to the United States in its own region.</description>
+      <dc:creator>David Pierson and Mitra Taj</dc:creator>
+      <pubDate>Sat, 16 Nov 2024 05:01:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lima (Peru)</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/11/16/multimedia/16xi-biden-hbqj/16xi-biden-hbqj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Biden and Xi Jinping, China’s top leader, in California in November 2023, the last time they met in person.</media:description>
     </item>
     <item>
       <title>China Hit Again With Fatal Violence as at Least 8 Die in Stabbing</title>
@@ -254,53 +292,6 @@
       <media:description>Taylor Swift fans taking photos in front of the Rogers Center on the Thursday in Toronto, Canada before Ms. Swift’s sold out show.</media:description>
     </item>
     <item>
-      <title>Lebanese Fear That Wherever the Displaced Go, Israeli Bombs Will Follow</title>
-      <link>https://www.nytimes.com/2024/11/15/world/middleeast/lebanon-refugees-israel-bombing.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/11/15/world/middleeast/lebanon-refugees-israel-bombing.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/11/15/world/middleeast/lebanon-refugees-israel-bombing.html" rel="standout"></atom:link>
-      <description>Tensions among multiple sects in the country have long lurked just below the surface. As hundreds of thousands flee Israeli airstrikes in the south, those strains are worsening.</description>
-      <dc:creator>Alissa J. Rubin</dc:creator>
-      <pubDate>Fri, 15 Nov 2024 10:02:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shiite Muslims</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/11/11/multimedia/11lebanon-sectarian01-tkvj/11lebanon-sectarian01-tkvj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>David Guttenfelder for The New York Times</media:credit>
-      <media:description>The aftermath of an Israeli strike in the Christian village of Aitou, northern Lebanon, in October.</media:description>
-    </item>
-    <item>
-      <title>Gaza War Strains Europe’s Efforts at Social Cohesion</title>
-      <link>https://www.nytimes.com/2024/11/15/world/europe/israel-gaza-war-europe.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/11/15/world/europe/israel-gaza-war-europe.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/11/15/world/europe/israel-gaza-war-europe.html" rel="standout"></atom:link>
-      <description>Institutions meant to promote civility, from soccer to song, have come under severe stress from rising antisemitism and anti-immigrant politics.</description>
-      <dc:creator>Steven Erlanger</dc:creator>
-      <pubDate>Fri, 15 Nov 2024 19:56:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ajax Amsterdam (Soccer Team)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Maccabi Tel Aviv</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amsterdam (Netherlands)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Netherlands</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/11/14/multimedia/14europe-tensions-01-lghj/14europe-tensions-01-lghj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Tobias Schwarz/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Pro-Palestinian protesters opposing Israel’s participation in this year’s Eurovision Song Contest in Malmo, Sweden, in May.</media:description>
-    </item>
-    <item>
       <title>Satisfying vs. Productive</title>
       <link>https://www.nytimes.com/2024/11/16/briefing/satisfying-vs-productive.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/11/16/briefing/satisfying-vs-productive.html</guid>
@@ -358,13 +349,13 @@
       <media:description>The conference venue in Baku, Azerbaijan. The focus of this year’s U.N. climate summit is financing to help lower-income countries cope with global warming.</media:description>
     </item>
     <item>
-      <title>Super Typhoon Man-yi Brings ‘Life-Threatening’ Storm to Philippines</title>
+      <title>Typhoon Man-yi Brings ‘Life-Threatening’ Storm to Philippines</title>
       <link>https://www.nytimes.com/2024/11/16/world/asia/typhoon-man-yi-pepito-philippines.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/11/16/world/asia/typhoon-man-yi-pepito-philippines.html</guid>
       <atom:link href="https://www.nytimes.com/2024/11/16/world/asia/typhoon-man-yi-pepito-philippines.html" rel="standout"></atom:link>
-      <description>The storm made landfall late Saturday after packing winds of 161 miles per hour. Forecasters warned of a “potentially catastrophic” situation.</description>
+      <description>The storm made landfall late Saturday as a super typhoon after packing winds of 161 miles per hour. Forecasters warned of a “potentially catastrophic” situation.</description>
       <dc:creator>John Yoon and Isabella Kwai</dc:creator>
-      <pubDate>Sat, 16 Nov 2024 16:07:53 +0000</pubDate>
+      <pubDate>Sat, 16 Nov 2024 20:22:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Typhoons</category>
@@ -455,6 +446,35 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coaches and Managers</category>
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2024/11/15/multimedia/15rory-ball-jwzl/15rory-ball-jwzl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Carl Recine/Reuters</media:credit>
+    </item>
+    <item>
+      <title>Gaza War Strains Europe’s Efforts at Social Cohesion</title>
+      <link>https://www.nytimes.com/2024/11/15/world/europe/israel-gaza-war-europe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/11/15/world/europe/israel-gaza-war-europe.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/11/15/world/europe/israel-gaza-war-europe.html" rel="standout"></atom:link>
+      <description>Institutions meant to promote civility, from soccer to song, have come under severe stress from rising antisemitism and anti-immigrant politics.</description>
+      <dc:creator>Steven Erlanger</dc:creator>
+      <pubDate>Fri, 15 Nov 2024 19:56:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ajax Amsterdam (Soccer Team)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Maccabi Tel Aviv</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amsterdam (Netherlands)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Netherlands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/11/14/multimedia/14europe-tensions-01-lghj/14europe-tensions-01-lghj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tobias Schwarz/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Pro-Palestinian protesters opposing Israel’s participation in this year’s Eurovision Song Contest in Malmo, Sweden, in May.</media:description>
     </item>
     <item>
       <title>A Tiny Gladiator Tells of the Reach of Roman Empire Celebrity</title>
@@ -575,6 +595,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <media:content height="1200" medium="image" url="https://static01.nyt.com/images/2024/11/13/multimedia/00xp-message-05/00xp-message-05-mediumSquareAt3X.jpg" width="1200"></media:content>
       <media:credit>Northern Lighthouse Board</media:credit>
+    </item>
+    <item>
+      <title>Lebanese Fear That Wherever the Displaced Go, Israeli Bombs Will Follow</title>
+      <link>https://www.nytimes.com/2024/11/15/world/middleeast/lebanon-refugees-israel-bombing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/11/15/world/middleeast/lebanon-refugees-israel-bombing.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/11/15/world/middleeast/lebanon-refugees-israel-bombing.html" rel="standout"></atom:link>
+      <description>Tensions among multiple sects in the country have long lurked just below the surface. As hundreds of thousands flee Israeli airstrikes in the south, those strains are worsening.</description>
+      <dc:creator>Alissa J. Rubin</dc:creator>
+      <pubDate>Fri, 15 Nov 2024 10:02:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shiite Muslims</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/11/11/multimedia/11lebanon-sectarian01-tkvj/11lebanon-sectarian01-tkvj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>David Guttenfelder for The New York Times</media:credit>
+      <media:description>The aftermath of an Israeli strike in the Christian village of Aitou, northern Lebanon, in October.</media:description>
     </item>
     <item>
       <title>Can These Ex-Hollywood Chimps Find a Place Among the Apes?</title>
@@ -1136,47 +1174,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/05/20/multimedia/13india-bulldozer-2/13india-bulldozer-2-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Saumya Khandelwal for The New York Times</media:credit>
       <media:description>Shops were razed by the state administration after violent clashes between Hindus and Muslims in Nuh, India, last year.</media:description>
-    </item>
-    <item>
-      <title>Trump’s Input in Russia-Ukraine Peace Talks May Put Kyiv on New Timetable</title>
-      <link>https://www.nytimes.com/2024/11/13/world/europe/trump-ukraine-russia-peace.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/11/13/world/europe/trump-ukraine-russia-peace.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/11/13/world/europe/trump-ukraine-russia-peace.html" rel="standout"></atom:link>
-      <description>President-elect Donald J. Trump may accelerate the timetable for a truce. Kyiv views guarantees against renewed aggression as crucial to any settlement.</description>
-      <dc:creator>Andrew E. Kramer</dc:creator>
-      <pubDate>Wed, 13 Nov 2024 19:06:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/11/11/multimedia/11ukraine-ceasefire01a-photo-htgf/11ukraine-ceasefire01a-photo-htgf-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
-      <media:credit>Tyler Hicks/The New York Times</media:credit>
-      <media:description>A Ukrainian soldier repelling a Russian attack at a frontline position near Toretsk last month. Ukrainian forces have been losing ground in the east.</media:description>
-    </item>
-    <item>
-      <title>Israeli Court Rejects Netanyahu’s Bid to Delay Corruption Trial Testimony</title>
-      <link>https://www.nytimes.com/2024/11/13/world/middleeast/israel-netanyahu-trial.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/11/13/world/middleeast/israel-netanyahu-trial.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/11/13/world/middleeast/israel-netanyahu-trial.html" rel="standout"></atom:link>
-      <description>The court ruled that Prime Minister Benjamin Netanyahu must take the stand on Dec. 2 in a trial that has stretched out for more than four years.</description>
-      <dc:creator>Isabel Kershner</dc:creator>
-      <pubDate>Wed, 13 Nov 2024 18:05:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bribery and Kickbacks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/11/13/multimedia/13mideast-crisis-netanyahu-wqtf/13mideast-crisis-netanyahu-wqtf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Amir Cohen/Reuters</media:credit>
-      <media:description>Prime Minister Benjamin Netanyahu of Israel near Mitzpe Ramon, Israel, last month.</media:description>
     </item>
   </channel>
 </rss>
