@@ -3,17 +3,35 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.2563200212567498" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?__r__=0.14581315885507573" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 17 Nov 2024 07:42:21 +0000</lastBuildDate>
-    <pubDate>Sun, 17 Nov 2024 05:23:33 +0000</pubDate>
+    <lastBuildDate>Sun, 17 Nov 2024 08:47:55 +0000</lastBuildDate>
+    <pubDate>Sun, 17 Nov 2024 08:23:31 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
+    <item>
+      <title>‘No Use for Hatred’: A Village Seeks to Move On From a U.S. Massacre</title>
+      <link>https://www.nytimes.com/2024/11/17/world/asia/my-lai-massacre-vietman-museum.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/11/17/world/asia/my-lai-massacre-vietman-museum.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/11/17/world/asia/my-lai-massacre-vietman-museum.html" rel="standout"></atom:link>
+      <description>The hamlet of My Lai is infamous for American war crimes, but now it holds lessons in resilience and how to let go of anger.</description>
+      <dc:creator>Damien Cave</dc:creator>
+      <pubDate>Sun, 17 Nov 2024 07:55:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vietnam War</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Calley, William L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">My Lai (Vietnam)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/11/06/world/00vietnam-mylai-09/00vietnam-mylai-09-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Linh Pham for The New York Times</media:credit>
+      <media:description>“I survived because the Americans shooting everyone ran out of bullets,” said Nguyen Hong Mang, who was 14 when American soldiers came to his village.</media:description>
+    </item>
     <item>
       <title>At a Ukraine Maternity Clinic, Deaths From an Airstrike Shatter a Community</title>
       <link>https://www.nytimes.com/2024/11/17/world/europe/ukraine-clinic-missile-russia.html</link>
@@ -33,24 +51,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/11/15/multimedia/15Ukraine-clinic-lvwg-promo/15Ukraine-clinic-lvwg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>‘No Use for Hatred’: A Village Seeks to Move On From a U.S. Massacre</title>
-      <link>https://www.nytimes.com/2024/11/17/world/asia/my-lai-massacre-vietman-museum.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2024/11/17/world/asia/my-lai-massacre-vietman-museum.html</guid>
-      <atom:link href="https://www.nytimes.com/2024/11/17/world/asia/my-lai-massacre-vietman-museum.html" rel="standout"></atom:link>
-      <description>The hamlet of My Lai is infamous for American war crimes, but now it holds lessons in resilience and how to let go of anger.</description>
-      <dc:creator>Damien Cave</dc:creator>
-      <pubDate>Sun, 17 Nov 2024 05:01:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vietnam War</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Calley, William L</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">My Lai (Vietnam)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/11/06/world/00vietnam-mylai-09/00vietnam-mylai-09-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Linh Pham for The New York Times</media:credit>
-      <media:description>“I survived because the Americans shooting everyone ran out of bullets,” said Nguyen Hong Mang, who was 14 when American soldiers came to his village.</media:description>
     </item>
     <item>
       <title>Biden and Xi Meet, Delivering Messages Seemingly Intended for Trump</title>
@@ -373,13 +373,13 @@
       <media:description>The conference venue in Baku, Azerbaijan. The focus of this year’s U.N. climate summit is financing to help lower-income countries cope with global warming.</media:description>
     </item>
     <item>
-      <title>Philippines Hit by Typhoon Man-yi</title>
+      <title>Typhoon Man-yi Pounds the Philippines With Rain and High Winds</title>
       <link>https://www.nytimes.com/2024/11/16/world/asia/typhoon-man-yi-pepito-philippines.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/11/16/world/asia/typhoon-man-yi-pepito-philippines.html</guid>
       <atom:link href="https://www.nytimes.com/2024/11/16/world/asia/typhoon-man-yi-pepito-philippines.html" rel="standout"></atom:link>
-      <description>The storm made landfall late Saturday as a Category 5 storm and was later downgraded.</description>
+      <description>The storm, a Category 4, regained strength on Sunday afternoon.</description>
       <dc:creator>John Yoon and Isabella Kwai</dc:creator>
-      <pubDate>Sun, 17 Nov 2024 03:34:14 +0000</pubDate>
+      <pubDate>Sun, 17 Nov 2024 08:13:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Typhoons</category>
