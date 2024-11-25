@@ -6,7 +6,7 @@
 	<title type="text">Vox</title>
 	<subtitle type="text"></subtitle>
 
-	<updated>2024-11-25T21:45:15+00:00</updated>
+	<updated>2024-11-25T22:37:50+00:00</updated>
 
 	<link rel="alternate" type="text/html" href="https://www.vox.com" />
 	<id>https://www.vox.com/rss/index.xml</id>
@@ -16,13 +16,117 @@
 		<entry>
 			
 			<author>
+				<name>Adam Clark Estes</name>
+			</author>
+			
+			<title type="html"><![CDATA[The perils of using payment apps as your bank account]]></title>
+			<link rel="alternate" type="text/html" href="https://www.vox.com/technology/373886/cash-app-venmo-chime-account-protection-fdic" />
+			<id>https://www.vox.com/?p=373886</id>
+			<updated>2024-11-25T17:37:50-05:00</updated>
+			<published>2024-11-25T17:37:48-05:00</published>
+			<category scheme="https://www.vox.com" term="Money" /><category scheme="https://www.vox.com" term="Personal Finance" /><category scheme="https://www.vox.com" term="Technology" />
+							<summary type="html"><![CDATA[Some people collect coins or stamps. For a time, I collected debit cards. Not stolen ones! Each one of them had my name on them, right below the logo of the latest banking app I’d decided to try out: Venmo, Cash App, Chime, Varo, Current, Acorns.&#160; For the better part of a decade, I did [&#8230;]]]></summary>
+			
+							<content type="html">
+											<![CDATA[
+
+						
+<figure>
+
+<img alt="A sign for the payments app Venmo sits in front of a merry go round with swings." data-caption="Venmo is good for sending money to friends, but it’s not necessarily the safest place to do your banking. | Vivien Killilea/Getty Images" data-portal-copyright="Vivien Killilea/Getty Images" data-has-syndication-rights="1" src="https://platform.vox.com/wp-content/uploads/sites/2/2024/09/GettyImages-1392051315.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption>Venmo is good for sending money to friends, but it’s not necessarily the safest place to do your banking. | Vivien Killilea/Getty Images</figcaption>
+</figure>
+<p class="has-text-align-none">Some people collect coins or stamps. For a time, I collected debit cards. Not stolen ones! Each one of them had my name on them, right below the logo of the latest banking app I’d decided to try out: Venmo, Cash App, Chime, Varo, Current, Acorns.&nbsp;</p>
+
+<p class="has-text-align-none">For the better part of a decade, I did all my banking through these apps, enjoying their slick user experience and lack of fees. The problem with every one of them, however, is that they’re not chartered banks. If the company behind the app went bankrupt, the Federal Deposit Insurance Corporation (FDIC) would not necessarily come to my rescue.</p>
+
+<p class="has-text-align-none">This disaster scenario was a hypothetical worry when I eventually settled for Chase and its FDIC insurance. For millions of others, it became a reality earlier this year when a company called <a href="https://www.wsj.com/articles/why-the-synapse-bankruptcy-has-the-fintech-world-on-edge-f83cbe6d">collapsed and froze them out of their accounts</a>. Users of Yotta, a popular savings app with a built-in lottery, and other apps that relied on Synapse to help manage their accounts couldn’t access their money for months. Now, as hundreds of thousands of Synapse customers’ dollars <a href="https://fintechbusinessweekly.substack.com/p/sen-elizabeth-warren-calls-for-regulators">remain in limbo</a>, Sens. Elizabeth Warren (D-MA) and Chris Van Hollen (D-MD) <a href="https://www.warren.senate.gov/imo/media/doc/warren_van_hollen_letter_to_prudential_regulators_on_baas_oversight_91124.pdf">are calling for banking reforms</a>, and the FDIC is <a href="https://www.fdic.gov/news/press-releases/2024/fdic-proposes-deposit-insurance-recordkeeping-rule-banks-third-party">proposing changes</a> to its rules.</p>
+
+<p class="has-text-align-none">Still, <a href="https://www.mckinsey.com/industries/financial-services/our-insights/fintechs-a-new-paradigm-of-growth">a growing number of people</a> are embracing these financial technology, or fintech, services. More than <a href="https://www.forbes.com/sites/ronshevlin/2023/07/05/the-checking-account-war-is-over-and-the-fintechs-have-won/">a third of Gen Z and millennials</a> used a fintech app or a digital bank as their primary checking account, according to a 2023 Cornerstone Advisors study.&nbsp;</p>
+
+<p class="has-text-align-none">So some questions are worth asking: Is it a bad idea to use an app like Venmo as your main bank? Are digital banks like Chime trustworthy enough?</p>
+
+<p class="has-text-align-none">The answer to both questions is yes. Venmo is not a bank, and using it as your primary checking account comes with some risks. Some fintech companies, like Chime, are just as big as traditional banks and offer some nice perks. Again, because they’re nontraditional, there are risks.</p>
+
+<p class="has-text-align-none">“You&#8217;re not going to go back to a world where everybody works with a small bank and walks into a branch,” Shamir Karkal, co-founder of Simple, one of the first digital banks. “The future is just going to be more fintech, and I think we all just need to get better at it.”</p>
+
+<p class="has-text-align-none">To get better at all of this, it helps to know what’s going on behind the scenes.</p>
+
+<h2 class="wp-block-heading"><strong>Neobanks and money transmitters, briefly explained</strong></h2>
+
+<p class="has-text-align-none">The term fintech can refer to a lot of things, but when you’re talking about everyday services for everyday people, it typically refers to either neobanks or money transmitters. Chime is a neobank. Venmo is a money transmitter. They’re regulated in different ways, but because most of these companies issue debit cards, many people treat them like checking accounts. Fintech apps are not the same thing as FDIC-insured banks.&nbsp;</p>
+
+<p class="has-text-align-none">Neobanks are fintech companies that offer services like checking accounts in partnership with chartered banks, which are FDIC-insured. Neobanks sometimes enlist intermediaries known as banking-as-a-service, or BaaS, companies, which are not FDIC-insured. Still, you will often see the FDIC logo on neobank websites, just like you see it stuck to the glass doors of many brick-and-mortar banks. That logo instills trust, and thanks to their partnerships, neobanks can claim some FDIC protections. But because they do not have bank charters, these neobanks and BaaS companies are not directly FDIC-insured. Instead, neobank customers can be eligible for something called <a href="https://www.fdic.gov/financial-institution-employees-guide-deposit-insurance/pass-through-deposit-insurance-coverage">pass-through deposit insurance coverage</a>.</p>
+
+<p class="has-text-align-none">Pass-through insurance is a simple concept <a href="https://www.consumerfinance.gov/data-research/research-reports/issue-spotlight-analysis-of-deposit-insurance-coverage-on-funds-stored-through-payment-apps/full-report/">that’s deceivingly complex in practice</a>. Essentially, if you deposit money into an account with a neobank, like Chime, the funds get routed to a chartered bank that is FDIC-insured. Other fintech apps, however, sometimes route your money through one of those BaaS intermediaries. If the chartered bank fails, no problem: FDIC insurance kicks in, and you can recoup up to $250,000 of your deposits. If the intermediary fails or the neobank itself fails, you might be eligible for pass-through insurance — but you might not. In its explainer about when or if you’ll get your money back in these kinds of situations, the FDIC literally says, “<a href="https://www.fdic.gov/consumer-resource-center/2024-06/banking-third-party-apps">It depends</a>.”</p>
+
+<p class="has-text-align-none">“American consumers see the FDIC logo, and they interpret that as meaning: My money is safe and I will get it back,” said Jason Mikula, who runs the popular <a href="https://fintechbusinessweekly.substack.com/?utm_source=substack&amp;utm_medium=web&amp;utm_campaign=substack_profile">Fintech Business Weekly newsletter</a>. “That&#8217;s just not what FDIC does exactly.”</p>
+
+<p class="has-text-align-none">Money transmitters, also known as money services businesses, are even further removed from the perceived safety of the FDIC. Put bluntly, if you’re keeping all your money in a Venmo or Cash App account, you don’t qualify for FDIC insurance. Money transmitters are not neobanks or banks at all but rather completely <a href="https://stripe.com/resources/more/what-is-a-money-transmitter#introduction">different legal entities</a> that are regulated by individual states as well as the Department of the Treasury. There are certain protections provided by these agencies, but FDIC insurance is not one of them.</p>
+
+<p class="has-text-align-none">So when an app like <a href="https://www.withyotta.com/security">Yotta</a> or <a href="https://www.chime.com/">Chime</a> says on its website that it’s FDIC insured, it’s not a lie, but it’s not necessarily true either.&nbsp;To borrow the FDIC’s phrase, it depends — namely on how well records are kept. Poor record-keeping leads to confusion over whose money is where, and that could affect who qualifies for FDIC insurance.</p>
+
+<p class="has-text-align-none">There’s a big range in how fintech companies operate. Yotta uses multiple intermediaries between its consumer-facing app and partner banks, which led to confusion when one of them, Synapse, went bankrupt. Chime, however, has a direct relationship with its FDIC-insured partner banks, the Bancorp Bank and Stride Bank. In <a href="https://www.chime.com/newsroom/news/chime-submits-comment-to-joint-banking-regulators-request-for-information-on-bank-fintech-partnerships/">a recent letter to regulators</a> that outlined its record-keeping practices, the company wrote, “Chime members are always a customer of an FDIC-insured bank.”</p>
+
+<p class="has-text-align-none">Venmo, to its credit, admits in the fine print of its homepage that its parent company PayPal “is not a bank” and “is not FDIC insured.” To confuse you even more, however, certain PayPal services that enlist a chartered bank partner, like a PayPal Mastercard or savings account, <a href="https://www.paypal.com/us/legalhub/program-banks-tnc">might qualify for FDIC insurance</a>. Again, it depends.</p>
+
+<h2 class="wp-block-heading"><strong>The perils and perks of banking with an app</strong></h2>
+
+<p class="has-text-align-none">Fintech companies take careful steps to make banking with them feel safe. They include the FDIC logo on the website to provide customers with some peace of mind, even though the fine print on those protections is more complicated. They issue debit cards with the Visa or Mastercard logo to suggest that these cards play by the same rules as any big bank’s debit card. These logos can act as a stamp of approval, an assurance that your money is in good hands.</p>
+
+<p class="has-text-align-none">This is actually the heart of the problem, as far as is concerned. This month, she and Van Hollen <a href="https://www.warren.senate.gov/imo/media/doc/warren_van_hollen_letter_to_prudential_regulators_on_baas_oversight_91124.pdf">asked regulators</a> to ban neobanks and fintech companies from using the FDIC name and logo if they were only offering pass-through insurance. They also called for greater supervision of these companies under the Bank Service Company Act.</p>
+
+<p class="has-text-align-none">“The average consumer shouldn’t be expected to understand the intricacies of FDIC insurance in order to comfortably and safely save or invest their money,” Warren’s letter says. “Consumers must feel confident that they are dealing with a regulated and insured entity when they see the FDIC logo.”</p>
+
+<p class="has-text-align-none">That doesn’t necessarily mean that all neobanks and fintech companies are untrustworthy. In some cases, the sheer size and track record of fintech companies can instill quite a bit of trust. Chime, the largest digital bank <a href="https://www.forbes.com/sites/ronshevlin/2024/03/24/is-chime-ready-for-an-ipo-it-has-more-primary-customers-than-chase/">with roughly 22 million customers</a>, scored a $25 billion valuation in its latest round of funding and <a href="https://www.bloomberg.com/news/articles/2024-03-22/chime-financial-is-said-to-target-public-listing-in-us-in-2025?sref=qYiz2hd0">is planning to go public next year</a>. PayPal is widely <a href="https://www.pymnts.com/digital-payments/2023/60percent-of-consumers-trust-paypal-over-their-bank-with-stored-payment-credentials/">considered safe and trustworthy</a>. And don’t expect Block, the $42 billion company that owns Cash App <a href="https://squareup.com/us/en/press/square-financial-services-begins-banking-operations">as well as its own chartered bank</a>, to fail any time soon.</p>
+
+<p class="has-text-align-none">The truth is, even if there is some false sense of security, fintech apps offer certain customers features that big banks can’t or won’t. One thing that’s made Chime and many other neobanks so popular, for instance, is that they don’t charge so many fees. That’s a huge boon to young people <a href="https://www.vox.com/22367985/paypal-venmo-financial-inequality-unbanked-underbanked">as well as people without bank accounts</a>. If a fintech app is your only option, then you might not care so much about FDIC insurance.</p>
+
+<p class="has-text-align-none">“If you&#8217;re poor in America and you&#8217;re banking at Chase or Wells Fargo, you&#8217;re going to get overdraft fees, minimum balance fees,” Mikula said. “So there is a real need that [fintech] companies fulfill as a result of your establishment banks essentially not wanting to bank poor people because it&#8217;s difficult to do profitably.”&nbsp;</p>
+
+<p class="has-text-align-none">As many as 6 percent of Americans <a href="https://www.cnbc.com/2024/08/02/23percent-of-low-income-americans-are-living-without-a-bank-account.html">were living without a bank account</a> in 2023, according to Federal Reserve data. That share grows to 23 percent for those making less than $23,000 a year. The unbanked population, which disproportionately comprises Black, Hispanic, and undocumented people, is at a greater risk of falling victim to predatory lending practices, including payday loans. Some fintech companies also offer short-term loans, though they’ve been criticized <a href="https://apnews.com/article/earned-wage-access-costs-payday-loans-9679d1bd09546d12074e0f27e23f0632">for being predatory as well</a>.&nbsp;</p>
+
+<div class="wp-block-vox-media-highlight vox-media-highlight">
+<h2 class="wp-block-heading">Fraud alert</h2>
+
+
+
+<p class="has-text-align-none">Payment apps like Venmo are popular with scammers. Using a Venmo-branded debit card <a href="https://venmo.com/purchaseprotection/">comes with some purchase protection</a>. If you happen to fall for a scam, however, there’s a good chance the app will not pay you back.</p>
+
+
+
+<p class="has-text-align-none"><a href="https://help.venmo.com/hc/en-us/articles/209681208-I-accidentally-paid-a-stranger-on-Venmo">Venmo</a>, <a href="https://cash.app/help/6544-avoiding-common-scams-with-cash-app">Cash App</a>, and <a href="https://www.zellepay.com/safety-education/fraud-scams-overview">Zelle</a> are all clear about issuing refunds for payments to other individuals: They don’t do it. Or at least they can’t guarantee it. You should treat these peer-to-peer payments like cash.&nbsp;</p>
+
+
+
+<p class="has-text-align-none">Here are some tips for spotting and avoiding scams on <a href="https://help.venmo.com/hc/en-us/articles/360048404533-Common-Scams-on-Venmo">Venmo</a>, <a href="https://cash.app/help/6544-avoiding-common-scams-with-cash-app#">Cash App</a>, and <a href="https://www.zellepay.com/safety-education/fraud-scams-overview">Zelle</a>. But if you’re more of a motivated-by-fear person, read <a href="https://www.businessinsider.com/zelle-fraud-scam-swimming-pool-online-payment-apps-mobile-banking-2023-10">this story</a> about a guy who wanted a deal on a swimming pool and got “a $31,000 lesson in the downside of payment apps” instead.</p>
+</div>
+
+<p class="has-text-align-none">Still, fintech companies offer the unbanked <a href="https://www.forbes.com/councils/forbesbusinesscouncil/2021/12/17/three-barriers-unbanked-citizens-face-and-how-fintech-overcomes-them/">the ability to save money and build credit</a>. For someone who can’t open a traditional bank account, Venmo can be a lifeline, since they can add funds to their Venmo balance and then pay bills using their Venmo debit card without needing a traditional checking account. If they have access to a smartphone, getting basic banking services is simple these days.</p>
+
+<p class="has-text-align-none">As I learned firsthand when testing out many of these services over the years, it’s easy to sign up for and easy to deposit money into a fintech app. If you have a problem, however, help can be hard to find. Many fintech companies and neobanks, including Chime, lack brick-and-mortar locations, which means you can’t walk into a branch to get an issue resolved. In fact, poor customer service <a href="https://www.emarketer.com/content/neobanks-customer-service-growing-client-base">is a common complaint</a> for these companies.&nbsp;</p>
+
+<p class="has-text-align-none">That means you should always research a company before giving money to it. Read the reviews and study the fine print. Obvious red flags include hidden fee structures and reports of customers not being able to withdraw their money. You should also consider trying services out with small sums rather than your life savings. And, as always, <a href="https://consumer.ftc.gov/articles/mobile-payment-apps-how-avoid-scam-when-you-use-one">watch out for scams and frauds</a>.</p>
+
+<p class="has-text-align-none">What is true in the real world is even more true in the app world: Beware of deals that look too good to be true. Only gamble with what you’d be willing to lose.</p>
+
+<p class="has-text-align-none"><strong>Clarification, November 25, 5 pm ET: </strong>This story, originally published September 28, has been updated with additional details about how pass-through FDIC insurance works.</p>
+
+<p class="has-text-align-none"><em>A version of this story was also published in the Vox Technology newsletter.&nbsp;</em><strong><em><a href="https://www.vox.com/pages/newsletters" target="_blank" rel="noreferrer noopener">Sign up here</a></em></strong><em>&nbsp;so you don’t miss the next one!</em></p>
+						]]>
+									</content>
+			
+					</entry>
+			<entry>
+			
+			<author>
 				<name>Umair Irfan</name>
 			</author>
 			
 			<title type="html"><![CDATA[As the US yields on climate leadership, China rises to fill the void]]></title>
 			<link rel="alternate" type="text/html" href="https://www.vox.com/climate/387811/cop29-climate-change-baku-us-china-trump-biden" />
 			<id>https://www.vox.com/?p=387811</id>
-			<updated>2024-11-25T16:45:15-05:00</updated>
+			<updated>2024-11-25T17:30:57-05:00</updated>
 			<published>2024-11-25T16:45:15-05:00</published>
 			<category scheme="https://www.vox.com" term="Climate" /><category scheme="https://www.vox.com" term="Politics" />
 							<summary type="html"><![CDATA[The COP29 conference — the latest round of international climate change talks, held this year in Baku, Azerbaijan — pushed past its Friday deadline and ended over the weekend with a new commitment to raise $300 billion a year by 2035 to help developing countries cope with the effects of warming and transition to cleaner [&#8230;]]]></summary>
@@ -36,31 +140,31 @@
 <img alt="People hold up a banner that reads: “Climate finance for rapid, just, and equitable phase-out of fossil fuels”" data-caption="Activists demonstrate for climate finance for the Global South at the COP29 Climate Conference on November 21, 2024, in Baku, Azerbaijan." data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.vox.com/wp-content/uploads/sites/2/2024/11/GettyImages-2185864395.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
 	<figcaption>Activists demonstrate for climate finance for the Global South at the COP29 Climate Conference on November 21, 2024, in Baku, Azerbaijan.</figcaption>
 </figure>
-<p class="has-text-align-none">The COP29 conference — the latest round of international climate change talks, held this year in Baku, Azerbaijan — pushed past its Friday deadline and ended over the weekend with a <a href="https://cop29.az/en/media-hub/news/breakthrough-in-baku-delivers-13tn-baku-finance-goal">new commitment to raise $300 billion a year</a> by 2035 to help developing countries cope with the effects of warming and transition to cleaner energy. </p>
+<p class="has-text-align-none">The COP29 conference — the latest round of international climate change talks, held this year in Baku, Azerbaijan — pushed past its Friday deadline and ended over the weekend with a <a href="https://cop29.az/en/media-hub/news/breakthrough-in-baku-delivers-13tn-baku-finance-goal">new commitment to raise $300 billion a year</a> by 2035 to help developing countries cope with the effects of warming and transition to cleaner energy.&nbsp;</p>
 
 <p class="has-text-align-none">“In a year of geopolitical fragmentation, people doubted that Azerbaijan could deliver. They doubted that everyone could agree,” said COP29 President Mukhtar Babayev during the conference. “They were wrong on both counts.”</p>
 
-<p class="has-text-align-none">Yet despite the host country’s optimistic read on the summit’s conclusion, many delegates and activists were furious with what they saw as a meager investment.  Yes, the new commitment is triple the current climate finance agreement of $100 billion per year. But wealthy countries were already <a href="https://www.climatechangenews.com/2024/05/29/rich-nations-meet-100bn-climate-finance-goal-two-years-late/">two years behind in meeting that original goal</a>, and the new target is still far short of the firm $1.3 trillion that developing countries have <a href="https://www.reuters.com/business/sustainable-business/exclusive-african-governments-want-climate-finance-hit-13-trillion-by-2030-2021-10-06/">campaigned for years to secure</a>. </p>
+<p class="has-text-align-none">Yet despite the host country’s optimistic read on the summit’s conclusion, many delegates and activists were furious with what they saw as a meager investment.&nbsp; Yes, the new commitment is triple the current climate finance agreement of $100 billion per year. But wealthy countries were already <a href="https://www.climatechangenews.com/2024/05/29/rich-nations-meet-100bn-climate-finance-goal-two-years-late/">two years behind in meeting that original goal</a>, and the new target is still far short of the firm $1.3 trillion that developing countries have <a href="https://www.reuters.com/business/sustainable-business/exclusive-african-governments-want-climate-finance-hit-13-trillion-by-2030-2021-10-06/">campaigned for years to secure</a>.&nbsp;</p>
 
 <p class="has-text-align-none">“It is sad that after months of negotiations, they have waited till the last official day of COP to table a dismal figure, leaving no sufficient time for deliberations amongst parties, and to make it worse, the figure is shockingly too low,” said Rohey John Manjang, environment minister for the West African nation Gambia, in a statement.</p>
 
 <p class="has-text-align-none">The negotiations also once again failed to reach an accord on reducing consumption of fossil fuels that are contributing to the warming of the planet.&nbsp;</p>
 
-<p class="has-text-align-none">The climate talks echoed the <a href="https://www.vox.com/climate/24000157/cop28-climate-conference-uae-dubai-winners-losers-fossil-fuels-methane">COP28 meeting</a> last year in the United Arab Emirates in that they were again held in a country whose economy depends on oil. Azerbaijan gets <a href="https://www.climatechangenews.com/2023/12/09/oil-reliant-azerbaijan-chosen-to-host-cop29-climate-talks/">two-thirds of its revenue from oil and gas production</a>, and a COP host was once again accused of using the proceedings to <a href="https://www.bbc.com/news/articles/crmzvdn9e18o">forge fossil fuel export deals</a>. COP29 was also one of the most well-attended climate meetings, with 66,000 registrants, though it’s down from the record 80,000 attendees at last year’s talks. Like 2023, this year’s negotiations concluded near the end of what’s likely to be the <a href="https://wmo.int/news/media-centre/2024-track-be-hottest-year-record-warming-temporarily-hits-15degc">hottest year on record</a>.     </p>
+<p class="has-text-align-none">The climate talks echoed the <a href="https://www.vox.com/climate/24000157/cop28-climate-conference-uae-dubai-winners-losers-fossil-fuels-methane">COP28 meeting</a> last year in the United Arab Emirates in that they were again held in a country whose economy depends on oil. Azerbaijan gets <a href="https://www.climatechangenews.com/2023/12/09/oil-reliant-azerbaijan-chosen-to-host-cop29-climate-talks/">two-thirds of its revenue from oil and gas production</a>, and a COP host was once again accused of using the proceedings to <a href="https://www.bbc.com/news/articles/crmzvdn9e18o">forge fossil fuel export deals</a>. COP29 was also one of the most well-attended climate meetings, with 66,000 registrants, though it’s down from the record 80,000 attendees at last year’s talks. Like 2023, this year’s negotiations concluded near the end of what’s likely to be the <a href="https://wmo.int/news/media-centre/2024-track-be-hottest-year-record-warming-temporarily-hits-15degc">hottest year on record</a>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
-<p class="has-text-align-none">COP29 faced additional complications. After a plateau and <a href="https://www.vox.com/climate/24139383/climate-change-peak-greenhouse-gas-emissions-action">hopes of a decline</a>, global <a href="https://www.vox.com/climate/385183/cop29-climate-change-emissions-rising-trump-baku">greenhouse gas emissions are rising</a> again and are likely to continue climbing. To meet the target of the Paris climate agreement to limit warming this century to less than 2.7 degrees Fahrenheit (1.5 degrees Celsius) above pre-Industrial levels, humanity would have to cut emissions by <a href="https://www.ipcc.ch/2022/04/04/ipcc-ar6-wgiii-pressrelease/">more than half by 2030</a>. According to a <a href="https://www.theguardian.com/environment/article/2024/may/08/world-scientists-climate-failure-survey-global-temperature">survey of scientists</a> who contributed to the Intergovernmental Panel on Climate Change, most now think this goal is out of reach. </p>
+<p class="has-text-align-none">COP29 faced additional complications. After a plateau and <a href="https://www.vox.com/climate/24139383/climate-change-peak-greenhouse-gas-emissions-action">hopes of a decline</a>, global <a href="https://www.vox.com/climate/385183/cop29-climate-change-emissions-rising-trump-baku">greenhouse gas emissions are rising</a> again and are likely to continue climbing. To meet the target of the Paris climate agreement to limit warming this century to less than 2.7 degrees Fahrenheit (1.5 degrees Celsius) above pre-Industrial levels, humanity would have to cut emissions by <a href="https://www.ipcc.ch/2022/04/04/ipcc-ar6-wgiii-pressrelease/">more than half by 2030</a>. According to a <a href="https://www.theguardian.com/environment/article/2024/may/08/world-scientists-climate-failure-survey-global-temperature">survey of scientists</a> who contributed to the Intergovernmental Panel on Climate Change, most now think this goal is out of reach.&nbsp;</p>
 
 <p class="has-text-align-none">With the US presidential election of Donald Trump, the world’s <a href="https://www.carbonbrief.org/the-carbon-brief-profile-united-states/">second-largest greenhouse gas emitter</a> is also likely to back out of the Paris agreement altogether. Trump would be <a href="https://www.politico.com/news/2024/06/28/trump-paris-climate-treaty-withdrawal-again-00165903">fulfilling a campaign promise</a> after President Joe Biden brought the US back, following Trump’s withdrawal during his <a href="https://www.vox.com/21545960/paris-agreement-accord-exit-leaves-trump-biden-election-2020-climate-change">first term</a>. Trump also wants to <a href="https://www.vox.com/politics/386462/trump-fossil-fuels-gas-oil">expand fossil fuel production</a> and may <a href="https://www.reuters.com/business/autos-transportation/trumps-transition-team-aims-kill-biden-ev-tax-credit-2024-11-14/">cut incentives for clean technologies</a> like electric vehicles.</p>
 
-<p class="has-text-align-none">Behind all this, the urgency to address climate change has only grown. 2024 has been a year of major disasters like <a href="https://www.vox.com/climate/375996/extreme-heat-october-climate-change">heat waves</a>, <a href="https://www.vox.com/natural-disaster/374366/hurricane-helene-florida-big-bend-beryl-storms-climate">hurricanes</a>, <a href="https://www.vox.com/climate/24137250/coral-reefs-bleaching-climate-change">coral bleaching</a>, <a href="https://www.esa.int/Applications/Observing_the_Earth/Devastating_floods_in_Spain_witnessed_by_satellites">flooding</a>, and <a href="https://www.vox.com/climate/363880/park-fire-california-evacuations-housing-crisis">wildfires</a>, events whose raw ingredients are poised to become more powerful in a warming world. </p>
+<p class="has-text-align-none">Behind all this, the urgency to address climate change has only grown. 2024 has been a year of major disasters like <a href="https://www.vox.com/climate/375996/extreme-heat-october-climate-change">heat waves</a>, <a href="https://www.vox.com/natural-disaster/374366/hurricane-helene-florida-big-bend-beryl-storms-climate">hurricanes</a>, <a href="https://www.vox.com/climate/24137250/coral-reefs-bleaching-climate-change">coral bleaching</a>, <a href="https://www.esa.int/Applications/Observing_the_Earth/Devastating_floods_in_Spain_witnessed_by_satellites">flooding</a>, and <a href="https://www.vox.com/climate/363880/park-fire-california-evacuations-housing-crisis">wildfires</a>, events whose raw ingredients are poised to become more powerful in a warming world.&nbsp;</p>
 
-<p class="has-text-align-none">These disasters are already having <a href="https://www.vox.com/climate/377094/hurricane-milton-helene-home-insurance-flooding-damage">major economic effects</a>. And further changes to the climate are likely to have some of their most acute effects — <a href="https://press.un.org/en/2023/sc15199.doc.htm">rising sea levels</a>, more <a href="https://www.wfpusa.org/articles/countries-most-affected-by-climate-change/">extreme rainfall</a>, <a href="https://www.worldweatherattribution.org/climate-change-made-the-deadly-heatwaves-that-hit-millions-of-highly-vulnerable-people-across-asia-more-frequent-and-extreme/">extraordinary heat waves</a> — on the countries that contributed least to the problem. But as the US steps back, other countries like China are preparing to step up. </p>
+<p class="has-text-align-none">These disasters are already having <a href="https://www.vox.com/climate/377094/hurricane-milton-helene-home-insurance-flooding-damage">major economic effects</a>. And further changes to the climate are likely to have some of their most acute effects — <a href="https://press.un.org/en/2023/sc15199.doc.htm">rising sea levels</a>, more <a href="https://www.wfpusa.org/articles/countries-most-affected-by-climate-change/">extreme rainfall</a>, <a href="https://www.worldweatherattribution.org/climate-change-made-the-deadly-heatwaves-that-hit-millions-of-highly-vulnerable-people-across-asia-more-frequent-and-extreme/">extraordinary heat waves</a> — on the countries that contributed least to the problem. But as the US steps back, other countries like China are preparing to step up.&nbsp;</p>
 
 <h2 class="wp-block-heading">A smaller role for the US, and a bigger part for China</h2>
 
-<p class="has-text-align-none">The COP29 conference began after the US election, so the US negotiators were still part of President Joe Biden’s team, and they worked to nail down as much as they could before he leaves office in January. They highlighted how the US has made the single-largest clean energy investment in the world through the <a href="https://www.vox.com/policy-and-politics/2022/7/28/23281757/whats-in-climate-bill-inflation-reduction-act">Inflation Reduction Act</a>. </p>
+<p class="has-text-align-none">The COP29 conference began after the US election, so the US negotiators were still part of Biden’s team, and they worked to nail down as much as they could before he leaves office in January. They highlighted how the US has made the single-largest clean energy investment in the world through the <a href="https://www.vox.com/policy-and-politics/2022/7/28/23281757/whats-in-climate-bill-inflation-reduction-act">Inflation Reduction Act</a>. </p>
 
-<p class="has-text-align-none">US negotiators noted that the US is <a href="https://www.state.gov/cop-29-update-u-s-international-public-climate-finance/">contributing $11 billion</a> to the pool of international climate financing, exceeding its share of the promised $100 billion pool funded by wealthy countries. The US also emphasized its goal of <a href="https://www.utilitydive.com/news/biden-administration-plan-to-triple-us-nuclear-energy-capacity-by-2050/732807/#:~:text=In%20partnership%20with-,Biden%20administration%20sets%20plan%20to%20triple%20US%20nuclear%20energy%20capacity,the%20White%20House%20said%20Tuesday.">tripling its nuclear energy</a> compared to 2020 levels by 2050 and made progress in ratcheting down <a href="https://www.state.gov/highlights-from-the-cop-29-global-methane-pledge-ministerial/">emissions of methane</a>, a greenhouse gas that&#8217;s about <a href="https://www.epa.gov/gmi/importance-methane">30 times more potent</a> than carbon dioxide when it comes to trapping heat in the atmosphere.  </p>
+<p class="has-text-align-none">US negotiators noted that the US is <a href="https://www.state.gov/cop-29-update-u-s-international-public-climate-finance/">contributing $11 billion</a> to the pool of international climate financing, exceeding its share of the promised $100 billion pool funded by wealthy countries. The US also emphasized its goal of <a href="https://www.utilitydive.com/news/biden-administration-plan-to-triple-us-nuclear-energy-capacity-by-2050/732807/#:~:text=In%20partnership%20with-,Biden%20administration%20sets%20plan%20to%20triple%20US%20nuclear%20energy%20capacity,the%20White%20House%20said%20Tuesday.">tripling its nuclear energy</a> compared to 2020 levels by 2050 and made progress in ratcheting down <a href="https://www.state.gov/highlights-from-the-cop-29-global-methane-pledge-ministerial/">emissions of methane</a>, a greenhouse gas that&#8217;s about <a href="https://www.epa.gov/gmi/importance-methane">30 times more potent</a> than carbon dioxide when it comes to trapping heat in the atmosphere.&nbsp;&nbsp;</p>
 
 <p class="has-text-align-none">Biden himself, though, didn’t attend the talks. He was instead at the <a href="https://www.g20.org/en/">G20 summit in Brazil</a>, where he visited the Amazon rainforest and pledged an <a href="https://www.washingtonpost.com/politics/2024/11/17/president-biden-amazon-rainforest-brazil-climate-change/">additional $50 million</a> to protect it.</p>
 
@@ -70,15 +174,15 @@
 
 <p class="has-text-align-none">Biden acknowledged that his successor wants to undo many of his climate initiatives, but <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/23/statement-from-president-joe-biden-on-conclusion-of-cop29-conference-in-baku-azerbaijan/">noted in a statement</a> that many cities and states will pick up the mantle on climate change, and many aspects of the transition to cleaner energy sources are unstoppable. Solar energy’s growth <a href="https://www.vox.com/climate/372852/solar-power-energy-growth-record-us-climate-china">continues to defy forecasts</a>, <a href="https://www.irena.org/News/pressreleases/2023/Aug/Renewables-Competitiveness-Accelerates-Despite-Cost-Inflation">wind energy is competitive</a> with fossil fuels in some markets, and <a href="https://about.bnef.com/blog/electric-vehicle-sales-headed-for-record-year-but-growth-slowdown-puts-climate-targets-at-risk-according-to-bloombergnef-report/">EVs are getting more popular around the world</a>. “While some may seek to deny or delay the clean energy revolution that’s underway in America and around the world, nobody can reverse it — nobody,” Biden said.&nbsp;</p>
 
-<p class="has-text-align-none">Yet under Biden, the US has also reached <a href="https://www.vox.com/climate/372665/harris-trump-debate-energy-nationalism-climate">record high levels of oil and gas production</a> and maintained tariffs on Chinese clean energy products like solar panels and <a href="https://www.vox.com/climate/2024/3/4/24087919/biden-tariff-chinese-ev-byd-battery-detroit">electric vehicles</a>. Even with the pause on new liquefied natural gas (LNG) exports, the US is on track to <a href="https://www.vox.com/climate/24055711/lng-export-pause-biden-liquefied-natural-gas-climate-change">double LNG exports by 2030</a>.   </p>
+<p class="has-text-align-none">Yet under Biden, the US has also reached <a href="https://www.vox.com/climate/372665/harris-trump-debate-energy-nationalism-climate">record high levels of oil and gas production</a> and maintained tariffs on Chinese clean energy products like solar panels and <a href="https://www.vox.com/climate/2024/3/4/24087919/biden-tariff-chinese-ev-byd-battery-detroit">electric vehicles</a>. Even with the pause on new liquefied natural gas (LNG) exports, the US is on track to <a href="https://www.vox.com/climate/24055711/lng-export-pause-biden-liquefied-natural-gas-climate-change">double LNG exports by 2030</a>.&nbsp;&nbsp;&nbsp;</p>
 
-<p class="has-text-align-none">Trump wants to <a href="https://www.technologyreview.com/2024/11/25/1107224/how-trumps-tariffs-could-drive-up-the-cost-of-batteries-evs-and-more/">impose even more tariffs on China</a>, which would further raise the prices of imported EVs and make many of the essential components of clean energy systems, like batteries and steel, more expensive. </p>
+<p class="has-text-align-none">Trump wants to <a href="https://www.technologyreview.com/2024/11/25/1107224/how-trumps-tariffs-could-drive-up-the-cost-of-batteries-evs-and-more/">impose even more tariffs on China</a>, which would further raise the prices of imported EVs and make many of the essential components of clean energy systems, like batteries and steel, more expensive.&nbsp;</p>
 
 <p class="has-text-align-none">But as the US steps back from the international stage on climate change, China is gearing up to fill the void, emphasizing a <a href="https://global.chinadaily.com.cn/a/202411/24/WS6742e163a310f1265a1cf41a.html">willingness to work with other countries</a>. China sent nearly <a href="https://www.carbonbrief.org/analysis-which-countries-have-sent-the-most-delegates-to-cop29/">1,000 delegates to COP29</a>. It already reigns supreme in <a href="https://www.vox.com/climate/372852/solar-power-energy-growth-record-us-climate-china">solar energy</a>, <a href="https://www.reuters.com/sustainability/climate-energy/china-coal-generation-share-record-low-may-renewables-hit-new-highs-analysis-2024-07-11/">wind power</a>, <a href="https://about.bnef.com/blog/china-already-makes-as-many-batteries-as-the-entire-world-wants/">batteries</a>, and <a href="https://www.cbsnews.com/news/ev-electric-cars-charging-china-us-competition/">electric vehicles</a>, both for its domestic consumption and for exports, and it’s hungry for new customers.</p>
 
 <p class="has-text-align-none">China, the world’s largest greenhouse gas emitter, will likely see a <a href="https://www.science.org/content/article/have-china-s-carbon-emissions-peaked-answer-critical-limiting-global-warming">drop in carbon dioxide output this year</a>, but it’s not clear whether this trend will continue. Like the US, China is experiencing growing <a href="https://www.washingtonpost.com/opinions/2024/09/24/ai-power-grid-china-competition/">energy demands from its tech sector</a>, particularly from technologies like artificial intelligence.</p>
 
-<p class="has-text-align-none">The next round of climate talks is scheduled for 2025 in Belém, Brazil, where countries are supposed to come to the table with <a href="https://unfccc.int/news/building-support-for-more-ambitious-national-climate-action-plans">even more ambitious goals</a> for curbing their greenhouse gases. But setting even tougher targets doesn’t mean much if countries are breaking their existing promises and emissions continue to rise. </p>
+<p class="has-text-align-none">The next round of climate talks is scheduled for 2025 in Belém, Brazil, where countries are supposed to come to the table with <a href="https://unfccc.int/news/building-support-for-more-ambitious-national-climate-action-plans">even more ambitious goals</a> for curbing their greenhouse gases. But setting even tougher targets doesn’t mean much if countries are breaking their existing promises and emissions continue to rise.&nbsp;</p>
 
 <p class="has-text-align-none">“I had hoped for a more ambitious outcome — on both finance and mitigation — to meet the great challenge we face,” said UN Secretary-General António Guterres in a statement. “I appeal to governments to see this agreement as a foundation — and build on it.”</p>
 						]]>
@@ -731,88 +835,6 @@
 <p class="has-text-align-none">Meet the&nbsp;<a href="https://www.vox.com/future-perfect/386449/2024-future-perfect-50-progress-ai-climate-animal-welfare-innovation" target="_blank" rel="noreferrer noopener">2024 Future Perfect 50</a>! Vox’s third annual celebration of the individuals who are imagining and building a better future includes people who are fighting global poverty.</p>
 
 <p class="has-text-align-none"><em>This story was featured in the&nbsp;<a href="https://www.vox.com/pages/within-our-means-newsletter-us-poverty-politics-solutions">Within Our Means</a>&nbsp;newsletter. Sign up&nbsp;<a href="https://www.vox.com/pages/within-our-means-newsletter-us-poverty-politics-solutions">here</a>.</em></p>
-						]]>
-									</content>
-			
-					</entry>
-			<entry>
-			
-			<author>
-				<name>Kelsey Piper</name>
-			</author>
-			
-			<title type="html"><![CDATA[The case for earning lots of money — and giving lots of it away]]></title>
-			<link rel="alternate" type="text/html" href="https://www.vox.com/future-perfect/387190/earn-to-give-capitalism-effective-altruism-philanthropy-charity" />
-			<id>https://www.vox.com/?p=387190</id>
-			<updated>2024-11-22T12:47:35-05:00</updated>
-			<published>2024-11-23T08:30:00-05:00</published>
-			<category scheme="https://www.vox.com" term="Future Perfect" /><category scheme="https://www.vox.com" term="Philanthropy" /><category scheme="https://www.vox.com" term="The Vox guide to giving" />
-							<summary type="html"><![CDATA[There aren’t too many people openly calling themselves effective altruists these days. You can mostly give thanks to convicted felon Sam Bankman-Fried for having single-handedly made sure far more people hear “effective altruism” and think “cryptocurrency scams” rather than “donating lots of money to good causes.”  But there is still a great deal of work [&#8230;]]]></summary>
-			
-							<content type="html">
-											<![CDATA[
-
-						
-<figure>
-
-<img alt="A pile of hundred-dollar bills." data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.vox.com/wp-content/uploads/sites/2/2024/11/GettyImages-2164780184.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
-	<figcaption></figcaption>
-</figure>
-<p class="has-text-align-none">There aren’t too many people openly calling themselves effective altruists these days. You can mostly give thanks to convicted felon Sam Bankman-Fried for <a href="https://www.vox.com/future-perfect/23500014/effective-altruism-sam-bankman-fried-ftx-crypto">having single-handedly made sure</a> far more people hear “effective altruism” and think “cryptocurrency scams” rather than “donating lots of money to good causes.” </p>
-
-<p class="has-text-align-none">But there is still a great deal of work being done in line with the effective altruism (EA) worldview and associated principles: combating <a href="https://www.vox.com/future-perfect/2023/9/14/23868347/lead-poisoning-death-toll-world-bank-pure-earth">lead poisoning</a>, work against factory farming that’s based on efficiently finding the best <a href="https://www.vox.com/future-perfect/365147/animal-welfare-factory-farming-effective-altruism-activism">pressure points to improve animal welfare</a>, work on taking down the diseases that are still <a href="https://www.vox.com/future-perfect/369095/hepatitis-vaccine-deaths-symptoms-infections">major killers in poor countries</a>, work on reforming US <a href="https://www.vox.com/future-perfect/24131207/kidney-donation-compensation-tax-credit-end-kidney-deaths-act">kidney policy</a>, work on making sure developing <a href="https://www.vox.com/the-highlight/23447596/artificial-intelligence-agi-openai-gpt3-existential-risk-human-extinction">advanced AI</a> goes well.&nbsp;</p>
-
-<p class="has-text-align-none">A lot of people I talk to think this development — the downplaying of EA, if not EA causes — is all for the best. Did it ever really make sense to have all those things under one umbrella? Even if there is a benefit to all of these people learning from each other, collaborating closely, moving between roles, and sharing lots of ideas behind the scenes, does it make sense to advertise the umbrella rather than advertise the achievements?&nbsp;</p>
-
-<p class="has-text-align-none">(Disclosure: In August 2022, Bankman-Fried’s philanthropic family foundation, Building a Stronger Future, awarded Vox’s&nbsp;<a href="https://www.vox.com/future-perfect">Future Perfect</a>&nbsp;a&nbsp;<a href="https://www.vox.com/2020/1/7/21020439/support-future-perfect">grant</a>&nbsp;for a 2023 reporting project. That project was canceled.)</p>
-
-<p class="has-text-align-none">But a few things fall by the wayside if you stop talking about effective altruism in favor of just talking about the specific issues that the movement tended to zero in on. One of those things? The innovation called “earning to give.”</p>
-
-<p class="has-text-align-none">Earning to give is the <a href="https://80000hours.org/articles/earning-to-give/">controversial effective altruist idea</a> that one good way to make the world a better place is to take a job where you make a lot of money and donate much of that money to important, underfunded work. (To be clear, not any high-paying job would be okay, but industries like tech and finance are generally considered fine.)&nbsp;</p>
-
-<p class="has-text-align-none">It’s a sharp contrast with the more typical take that if you want to do good with your career, you should steer clear of the temptations of high-salary corporate jobs in favor of working directly at a nonprofit.&nbsp;</p>
-
-<h2 class="wp-block-heading">Earning to give is an idea worth salvaging</h2>
-
-<p class="has-text-align-none">There are obviously some problems with the naive formulation of earning to give, which would amount to “Just go work at the highest-paying job you can get and donate the money.”</p>
-
-<p class="has-text-align-none">Some jobs definitely do enough direct harm that, by working in them, you can’t possibly accomplish good just by donating your salary. From early on, effective altruists argued not about whether there’s a line — there obviously is — but where to draw it. Marketing addictive cigarettes? Probably not acceptable. Working on advanced AI systems? Well, depends on whether you think those will do social harm on net.&nbsp;</p>
-
-<p class="has-text-align-none">(And hopefully it goes without saying that founding a cryptocurrency startup for the avowed reason of&nbsp;earning a lot of money to donate to charity is at absolute best only a good idea if you are very careful not to let your attached hedge fund trade away your customers’ money. Just so we’re absolutely clear.)</p>
-
-<p class="has-text-align-none">A problem here, of course, is that people making a lot of money generally find it easy to lie to themselves about the social harm their high-paying professions may be generating. And in many cases, the way to do good in the world is to do it directly, not pay for someone else to do it —&nbsp; especially if you’re a person with rare and in-demand skills. </p>
-
-<p class="has-text-align-none">Over the years, many of the people I know who have done earning to give ended up switching to directly working on important problems. That makes sense. If you’re a skilled tech or finance person, the kind who can earn a really high salary, there’s probably a lot of crucial work that would benefit from your skills, not just your checkbook.&nbsp;</p>
-
-<p class="has-text-align-none">But I have always found something valuable and important in the case for earning to give. It goes like this: There’s a lot of important work that needs funding, and an individual family’s donations —&nbsp;my wife and I give around $50,000 a year — can make a huge difference in getting some of that important work done. Billionaire foundations will never cover all of it, and it’s better for organizations to be funded by motivated individuals than by billionaire foundations anyway. It distorts their priorities less, it’s much less politically awkward, and committed individuals can take bets that foundations can’t or won’t.</p>
-
-<p class="has-text-align-none">I also like earning to give for its unabashed friendliness to capitalism, which is a rare quality on the do-gooder left. I believe that the last century has made the world <a href="https://www.vox.com/the-highlight/23627382/progress-climate-change-poverty-global-health-doom-industrial-revolution-vaccines">much, much better</a> for the vast majority of people, and while targeted scientific innovation is a huge part of the story, another huge part of the story is the <a href="https://ourworldindata.org/economic-growth">astounding success of market economies</a>. Why did the world get better? Mostly through people doing valuable stuff, often for selfish and pecuniary reasons.&nbsp;</p>
-
-<div class="wp-block-vox-media-highlight vox-media-highlight">
-<h2 class="wp-block-heading">The Vox guide to giving</h2>
-
-
-
-<p class="has-text-align-none">The holiday season is giving season. This year, Vox is exploring every element of charitable giving — from making the case for donating 10 percent of your income, to recommending specific charities for specific causes, to explaining what you can do to make a difference beyond donations. <a href="https://www.vox.com/charitable-giving">You can find all of our giving guide stories here</a>.</p>
-</div>
-
-<h1 class="wp-block-heading"></h1>
-
-<p class="has-text-align-none">Not every big-dollar job is ethical, and I’d strongly encourage thought about what specifically you do and whether it makes the world a better place. But I generally think participating in the economy is a basically good and admirable thing to do, even though many progressives think of it as a <a href="https://www.vox.com/2019/2/4/18185383/millennials-capitalism-burned-out-malcolm-harris">morally negative one</a>. </p>
-
-<p class="has-text-align-none">And I want there to be a vision for fixing our world that proceeds from the premise that <a href="https://www.slowboring.com/p/abundance-scarcity">abundance is good</a>, that wealth is good, that “growing the pie” is good, that <a href="https://www.cfr.org/article/policymaking-all-about-trade-offs">trade-offs are real</a>, and that we will have to create new things and generate new wealth in order to make those trade-offs more bearable. These convictions have always seemed to me like a firmer foundation for fixing the world than their ideological competitors.&nbsp;</p>
-
-<h2 class="wp-block-heading">Capitalism is good, actually</h2>
-
-<p class="has-text-align-none">Just as I like earning to give for these reasons, a lot of people have always disliked earning to give for <a href="https://www.sierraclub.org/sierra/trouble-algorithmic-ethics-effective-altruism">precisely the same reasons</a>. Earning to give says that you can do a lot of moral good through active participation in our capitalist system, through trying to make a lot of money and then purchasing the things you want (research, bednets, wealth redistribution, you name it) with the money you earned. It is a capitalist ideology.&nbsp;</p>
-
-<p class="has-text-align-none">It makes a lot of sense to me that people who think of capitalism as a dirty word aren’t enthusiastic about the idea of harnessing it in the name of altruism — and that lack of enthusiasm is shared by many of my fellow travelers in the effort to make the world a better place. But if you think capitalism is a net good, like I do, I think you should be enthusiastic about the possibility of earning to give. You can see it as one among many ways to do good, but also a particular strategy that the world could use a lot more of.&nbsp;</p>
-
-<p class="has-text-align-none">And if, like my family, you’re wealthy and have high-income jobs, I’d strongly encourage you to consider making <a href="https://www.vox.com/future-perfect/23976937/charity-giving-tuesday-givewell-ten-percent">large annual donations</a>. I won’t claim it’s easy. It makes budgeting more difficult, and delays home renovations that we’d like to get done. But the money that a high-income American family can spare without giving up any essentials is <a href="https://www.givingwhatwecan.org/">enough money to accomplish an enormous amount in the world</a>.&nbsp;</p>
-
-<p class="has-text-align-none">We are the beneficiaries of the wealthiest society in human history. We live in material abundance our ancestors couldn’t have imagined. We can afford to set some of that aside and use it to get things done for the world.</p>
-
-<p class="has-text-align-none"><em>A version of this story originally appeared in the&nbsp;<a href="https://www.vox.com/future-perfect">Future Perfect</a>&nbsp;newsletter.&nbsp;<a href="https://www.vox.com/pages/future-perfect-newsletter-signup">Sign up here!</a></em></p>
 						]]>
 									</content>
 			
