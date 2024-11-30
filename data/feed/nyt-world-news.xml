@@ -3,25 +3,25 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?cacheBuster=1732990903263" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2024 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 30 Nov 2024 16:45:41 +0000</lastBuildDate>
-    <pubDate>Sat, 30 Nov 2024 16:33:52 +0000</pubDate>
+    <lastBuildDate>Sat, 30 Nov 2024 18:21:44 +0000</lastBuildDate>
+    <pubDate>Sat, 30 Nov 2024 18:20:39 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
-      <title>Rebels Seize Control Over Most of Syria’s Largest City</title>
+      <title>Rebels Seize Control Over Most of Syria’s Largest City in Aleppo</title>
       <link>https://www.nytimes.com/2024/11/30/world/middleeast/syria-aleppo-rebels-control.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/11/30/world/middleeast/syria-aleppo-rebels-control.html</guid>
       <atom:link href="https://www.nytimes.com/2024/11/30/world/middleeast/syria-aleppo-rebels-control.html" rel="standout"></atom:link>
       <description>The rapid advance on Aleppo came just four days into a surprise opposition offensive that is the most intense escalation in years in the civil war.</description>
       <dc:creator>Muhammad Haj Kadour and Raja Abdulrahim</dc:creator>
-      <pubDate>Sat, 30 Nov 2024 16:01:40 +0000</pubDate>
+      <pubDate>Sat, 30 Nov 2024 18:04:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aleppo (Syria)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
@@ -35,7 +35,7 @@
       <media:description>An opposition flag waves over a market square in central Aleppo, Syria, on Saturday.</media:description>
     </item>
     <item>
-      <title>Trudeau Goes to Mar-a-Lago to See Trump Amid Tariff Concerns</title>
+      <title>Trudeau Meets With Trump at Mar- Amid Tariff Concerns</title>
       <link>https://www.nytimes.com/2024/11/29/world/canada/trudeau-trump-mar-a-lago-tariffs.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2024/11/29/world/canada/trudeau-trump-mar-a-lago-tariffs.html</guid>
       <atom:link href="https://www.nytimes.com/2024/11/29/world/canada/trudeau-trump-mar-a-lago-tariffs.html" rel="standout"></atom:link>
@@ -167,13 +167,16 @@
       <dc:creator>Mara Hvistendahl</dc:creator>
       <pubDate>Fri, 29 Nov 2024 10:00:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pandas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Breeding of Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Abuse, Rights and Welfare</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Zoos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildlife Sanctuaries and Nature Reserves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Finances</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chengdu (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/11/21/multimedia/00panda-money-btjm/00panda-money-btjm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ariana Drehsler for The New York Times</media:credit>
       <media:description>A female panda, Xin Bao, at the San Diego Zoo in August.</media:description>
@@ -450,12 +453,13 @@
       <dc:creator>Aurelien Breeden</dc:creator>
       <pubDate>Fri, 29 Nov 2024 22:20:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Notre Dame Cathedral (Paris, France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Churches (Buildings)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restoration and Renovation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/11/29/multimedia/29notredame-sub-pqth/29notredame-sub-pqth-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Christophe Petit Tesson</media:credit>
       <media:description>President Emmanuel Macron of France during a visit to Notre-Dame Cathedral in Paris on Friday.</media:description>
@@ -467,7 +471,7 @@
       <atom:link href="https://www.nytimes.com/2024/11/29/world/middleeast/israel-lebanon-ceasefire-hezbollah.html" rel="standout"></atom:link>
       <description>The cease-fire appeared to largely be holding, but it was unclear when hundreds of thousands of Lebanese and tens of thousands of Israelis could return to their homes near the border.</description>
       <dc:creator>Liam Stack and Euan Ward</dc:creator>
-      <pubDate>Fri, 29 Nov 2024 18:47:21 +0000</pubDate>
+      <pubDate>Sat, 30 Nov 2024 18:20:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
@@ -570,20 +574,17 @@
       <description>Paul Varry was run over on a city street in what prosecutors suspect was a deliberate act of road rage, as bikers and drivers choose sides.</description>
       <dc:creator>Richard Fausset and Ségolène Le Stradic</dc:creator>
       <pubDate>Fri, 29 Nov 2024 10:02:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cycling, Road</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bicycles and Bicycling</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hit-and-Run Drivers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Parking</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Local Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hidalgo, Anne (1959- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/11/28/multimedia/00france-cycling-paris-top-gctl/00france-cycling-paris-top-gctl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dmitry Kostyukov for The New York Times</media:credit>
@@ -812,7 +813,7 @@
       <media:description>Chinmoy Krishna Das, a Hindu leader in Bangladesh, has been accused of sedition under a colonial-era law.</media:description>
     </item>
     <item>
-      <title>What a Deadly Offensive in Syria Means for a Stalled Civil War</title>
+      <title>What Rebels’ Offensive in Syria Means for a Stalled Civil War</title>
       <link>https://www.nytimes.com/article/syria-civil-war.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/article/syria-civil-war.html</guid>
       <atom:link href="https://www.nytimes.com/article/syria-civil-war.html" rel="standout"></atom:link>
@@ -908,7 +909,7 @@
       <atom:link href="https://www.nytimes.com/2024/11/28/world/middleeast/lebanon-israel-ceasefire-hezbollah.html" rel="standout"></atom:link>
       <description>Israel said it had targeted militants headed to a rocket facility, but neither Israel nor Hezbollah seemed keen to immediately return to full-scale fighting.</description>
       <dc:creator>Liam Stack, Euan Ward and Aaron Boxerman</dc:creator>
-      <pubDate>Fri, 29 Nov 2024 05:28:38 +0000</pubDate>
+      <pubDate>Sat, 30 Nov 2024 18:20:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
