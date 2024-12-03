@@ -2,9 +2,190 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>The Verge -  All Posts</title>
   <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
-  <updated>2024-12-03T12:17:14-05:00</updated>
+  <updated>2024-12-03T14:45:15-05:00</updated>
   <id>https://www.theverge.com/rss/full.xml</id>
   <link type="text/html" href="https://www.theverge.com/" rel="alternate"/>
+  <entry>
+    <published>2024-12-03T14:45:15-05:00</published>
+    <updated>2024-12-03T14:45:15-05:00</updated>
+    <title>What happened to Intel?</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/Z1XlV2n7d93dWThBFbSL9FjOpRM=/374x0:2714x1560/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73763981/Intel_Innovation_Day1_Keynote_15.0.jpeg" /&gt;
+        &lt;figcaption&gt;&lt;em&gt;Intel CEO Pat Gelsinger holds up an early Intel 18A wafer in late 2023.&lt;/em&gt; | Image: Intel&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="CqWL8E"&gt;On Monday, Intel CEO Pat Gelsinger abruptly decided to retire after less than four years on the job. That was the &lt;em&gt;official&lt;/em&gt; story, anyhow. Within hours, &lt;a href="https://www.reuters.com/business/intel-ceo-pat-gelsinger-retire-2024-12-02/"&gt;&lt;em&gt;Reuters&lt;/em&gt;&lt;/a&gt;, &lt;a href="https://www.bloomberg.com/news/articles/2024-12-02/intel-ceo-pat-gelsinger-retires-amid-chipmaker-s-turnaround-plan"&gt;&lt;em&gt;Bloomberg&lt;/em&gt;&lt;/a&gt;&lt;em&gt;, &lt;/em&gt;&lt;a href="https://www.nytimes.com/2024/12/02/technology/intel-ceo-pat-gelsinger.html"&gt;and &lt;em&gt;The New York Times&lt;/em&gt;&lt;/a&gt; had a different one: the board of directors pushed him out. &lt;/p&gt;
+&lt;p id="8OVAOL"&gt;Three and a half years ago, Gelsinger announced an ambitious plan to turn around the troubled chipmaker within four years — now, he’s reportedly been kicked out of the company before he could see it through. It happened so abruptly that Intel doesn’t have a planned successor in mind, and so completely that Gelsinger won’t even stick around as an adviser. He’s gone.&lt;/p&gt;
+&lt;p id="OMqDqd"&gt;Intel has been in a tailspin for years. It missed the smartphone revolution, has been plagued by quality control issues with its chips, lost customers like Apple to alternative processors, and now is at risk of missing out on AI, too.&lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="Wp05EO"&gt;&lt;q&gt;This isn’t just about stock price and golden parachutes&lt;/q&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="8PMtut"&gt;If Intel is falling apart, this isn’t just a business story. The United States government has called it a national security story, too. Intel isn’t just the world’s former leading maker of computer chips; it’s one of the last companies to both design and manufacture them itself...&lt;/p&gt;
+  &lt;p&gt;&lt;a href="https://www.theverge.com/2024/12/3/24311594/intel-under-pat-gelsinger"&gt;Read the full story at The Verge.&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/3/24311594/intel-under-pat-gelsinger"/>
+    <id>https://www.theverge.com/2024/12/3/24311594/intel-under-pat-gelsinger</id>
+    <author>
+      <name>Sean Hollister</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-12-03T14:38:38-05:00</published>
+    <updated>2024-12-03T14:38:38-05:00</updated>
+    <title>Amazon announces its own set of Nova AI models</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Illustration of the Amazon logo" src="https://cdn.vox-cdn.com/thumbor/10PBVjVjTZ7Ok-Ka7i8gSgFSN-U=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73763973/acastro_STK103__02.0.jpg" /&gt;
+        &lt;figcaption&gt;Illustration by Alex Castro / The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="WUqwjv"&gt;Amazon has announced a series of new AI foundation models under a new “Nova” branding that will be available as part of the Amazon Bedrock model library in AWS.&lt;/p&gt;
+&lt;p id="8fdLEx"&gt;There are three “understanding” models available now, &lt;a href="https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/"&gt;Amazon says in a blog post&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li id="8WwQlp"&gt;Amazon Nova Micro, a text model that’s “optimized for speed and cost.”&lt;/li&gt;
+&lt;li id="pXK4xv"&gt;Amazon Nova Lite, a “very low-cost” multimodal model that can take in images, video, and text to generate text.&lt;/li&gt;
+&lt;li id="dA3jGa"&gt;Amazon Nova Pro, a “highly capable” multimodal model.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p id="0geArR"&gt;The company is also training a model called Amazon Nova Premier, which it says will be “our most capable multimodal model for complex reasoning tasks.” Amazon aims to make Nova Premier available in “early 2025.”&lt;/p&gt;
+&lt;p id="iJXn71"&gt;Amazon is releasing content generation models, too: Amazon Nova Canvas, an image generation model, and Amazon Nova Reel, a video generation model. The company says that these models have “watermarking capabilities” to “promote responsible AI use.” As an example of what’s possible with Nova Reel, Amazon has shared &lt;a href="https://www.youtube.com/watch?v=g87NaWcszq0"&gt;this mock ad for a fake pasta brand&lt;/a&gt;.&lt;/p&gt;
+&lt;div id="aA8OKF"&gt;&lt;div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"&gt;&lt;iframe src="https://www.youtube.com/embed/g87NaWcszq0?rel=0" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen="" scrolling="no" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p id="ni12ix"&gt;Later in 2025, Amazon plans to release a speech-to-speech model and “a native multimodal-to-multimodal” model, &lt;a href="https://www.aboutamazon.com/news/aws/amazon-nova-artificial-intelligence-bedrock-aws"&gt;according to a blog post&lt;/a&gt;.&lt;/p&gt;
+&lt;p id="JEcA5p"&gt;Amazon announced these new models at its AWS re:Invent conference, which is happening now in Las Vegas. At the show, the company also said that it’s building a huge AI compute cluster that relies on its Trainium 2 chips in partnership with Anthropic (which it &lt;a href="https://www.theverge.com/2024/11/22/24303185/amazon-anthropic-investment-ai-alexa"&gt;has invested $8 billion in&lt;/a&gt;). “When completed, it is expected to be the world’s largest AI compute cluster reported to date available for Anthropic to build and deploy its future models on,” &lt;a href="https://www.aboutamazon.com/news/aws/aws-reinvent-2024-keynote-live-news-updates?p=aws-trainium2-instances-now-generally-available"&gt;according to Amazon&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="gifUtN"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"Amazon scrambles for its place in the AI race","url":"https://www.theverge.com/2024/3/29/24116056/amazon-ai-race-anthropic-olympus-claude"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="ec5SoT"&gt;The company, like many other big tech players, is racing to release new AI products and features to stay ahead of newer companies like &lt;a href="https://www.theinformation.com/articles/openais-sales-chief-sees-paradigm-shift-in-corporate-ai-spending?rc=v4bmzs"&gt;OpenAI&lt;/a&gt;. Where Amazon could have an advantage is how much internet infrastructure is already powered by AWS — large enterprises may be more willing to use Amazon’s AI offerings because the company has already a trusted reputation. An Apple exec even &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.cnbc.com%2F2024%2F12%2F03%2Fapple-says-it-uses-amazons-custom-ai-chips-.html&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F12%2F3%2F24312260%2Famazon-nova-foundation-ai-models-anthropic" rel="sponsored nofollow noopener" target="_blank"&gt;appeared onstage today at re:Invent&lt;/a&gt; to talk about how the company relies on Amazon’s custom AI chips.&lt;/p&gt;
+&lt;p id="R3KR8x"&gt;Amazon is also working on &lt;a href="https://www.theverge.com/2023/9/20/23880764/amazon-ai-alexa-generative-llm-smart-home"&gt;a revamped, AI-powered Alexa&lt;/a&gt;, but while voice assistant was reportedly set to launch this fall, the launch has apparently &lt;a href="https://www.theverge.com/2024/10/31/24284772/amazon-new-alexa-llm-voice-assistant-delayed-2025"&gt;slipped into next year&lt;/a&gt;.&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/3/24312260/amazon-nova-foundation-ai-models-anthropic"/>
+    <id>https://www.theverge.com/2024/12/3/24312260/amazon-nova-foundation-ai-models-anthropic</id>
+    <author>
+      <name>Jay Peters</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-12-03T14:22:25-05:00</published>
+    <updated>2024-12-03T14:22:25-05:00</updated>
+    <title>Eve’s new app unlocks more smart features for Android users</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/aRgw_eqE3B22HTMxt-IfDCa7c-c=/25x0:840x543/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73763944/eve.0.jpg" /&gt;
+        &lt;figcaption&gt;&lt;em&gt;Eve’s Android app has finally arrived, but it only supports the Eve Thermo at launch.&lt;/em&gt; | Image: Eve Systems&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="2ut8np"&gt;Eve Systems has finally launched its first Android app — over two years after &lt;a href="https://www.theverge.com/2022/9/1/23331803/eve-homekit-android-app-smart-light-switch-matter"&gt;announcing it was working on one&lt;/a&gt;. This week, the once Apple-only smart home device maker launched the &lt;a href="https://play.google.com/store/apps/details?id=com.evehome.eve"&gt;Eve for Matter app&lt;/a&gt; on the Google Play Store. The app will allow Android users to access the custom features of Eve’s devices that &lt;a href="https://www.theverge.com/23568091/matter-compatible-devices-accessories-apple-amazon-google-samsung#:~:text=Feature%20support%20for,is%20still%20spotty."&gt;Matter doesn't support&lt;/a&gt;, something previously only accessible to iOS users.&lt;/p&gt;
+&lt;p id="m06jYb"&gt;However, at launch, the new app will &lt;em&gt;only&lt;/em&gt; work with Google Home and &lt;em&gt;only&lt;/em&gt; with one Eve device, the new &lt;a href="https://www.evehome.com/en-us/eve-thermo"&gt;Eve Thermo&lt;/a&gt; (79.99 Euros) — a Matter-over-Thread smart radiator valve designed for European homes. While the earlier version of the Eve Thermo can be upgraded to support Matter and Thread, the new version has them pre-installed.&lt;/p&gt;
+&lt;figure class="e-image"&gt;
+        &lt;img alt=" " data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/Dlx53HiNeGK_SF3cPfGvylhWTdE=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25771660/eve_thermo_eve_door_window_window_detection_eu.jpg"&gt;
+      &lt;cite&gt;Image: Eve Systems&lt;/cite&gt;
+      &lt;figcaption&gt;&lt;em&gt;The newest version of Eve’s smart radiator valve — the Eve Thermo — comes with Matter-over-Thread on board.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;p id="5f5QGm"&gt;“The plan is to continuously expand support for other Eve devices and platforms and turn the app into a comprehensive tool,” Lars Felber, director of PR at Eve Systems, told &lt;em&gt;The Verge&lt;/em&gt;. “Nevertheless, we wanted to make the app available to our Eve Thermo customers with Android and Google Home as early as possible in the heating season, hence the initial exclusive release for this hardware,” he said.&lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="XITB0J"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"All the&amp;amp;nbsp;smart home&amp;amp;nbsp;news, reviews, and gadgets you need to know","url":"https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets"},{"title":"Google opens up its smart home to everyone","url":"https://www.theverge.com/2024/5/15/24157154/google-home-api-matter-smart-home-chromecast-google-tv"},{"title":"Smart home&amp;amp;nbsp;company Eve plans to use Matter to move beyond Apple’s&amp;amp;nbsp;HomeKit ","url":"https://www.theverge.com/2021/12/10/22827727/eve-matter-thread-upgrade-smart-shades-release-date"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="b2AoRS"&gt;There hasn’t been an Android app for Eve products before because the &lt;a href="https://www.evehome.com/en/privacy"&gt;company’s commitment to privacy&lt;/a&gt;, along with eschewing cloud-to-cloud connections or requiring users to sign up for an account, meant it focused all its development efforts on Apple Home. However, the advent of &lt;a href="https://www.evehome.com/en/matter"&gt;the Matter smart home standard&lt;/a&gt; and its option for local control has allowed the &lt;a href="https://www.theverge.com/2021/12/10/22827727/eve-matter-thread-upgrade-smart-shades-release-date"&gt;company to branch out&lt;/a&gt; and work with the other platforms while maintaining its core values.&lt;/p&gt;
+&lt;p id="GNW3G9"&gt;The new Eve app lets you add the Eve Thermo to Google Home through Matter and control it on that platform, as well as share it with any other Matter-compatible platform. But it also simultaneously adds it to the Eve app, where you can access additional features, such as creating and managing autonomous on-device schedules. Without the Eve app, you only get basic controls.&lt;/p&gt;
+&lt;p id="isq2cp"&gt;Currently, Android users can add any of Eve’s other Matter devices — such as the &lt;a href="https://www.theverge.com/23899810/best-smart-plugs#:~:text=Eve%20Energy%20Smart%20Plug%20(Matter)"&gt;Eve Energy smart plug&lt;/a&gt; and Eve Motion blinds — to compatible platforms, including Amazon Alexa, Google Home, and Samsung SmartThings.&lt;/p&gt;
+&lt;p id="qyqcPL"&gt;But, until Eve adds support for more devices, Android users will be limited to those devices' capabilities in Matter. In contrast, Apple Home users can access all of Eve’s innovative features, including &lt;a href="https://www.theverge.com/23899810/best-smart-plugs#:~:text=The%20Eve%20app%20gives,in%20the%20Eve%20app."&gt;in-depth energy data&lt;/a&gt; for smart plugs and &lt;a href="https://www.linkedin.com/posts/meeteve_adaptive-shading-activity-7176243207276531712-h_jI/"&gt;adaptive shading&lt;/a&gt; for smart shades, through the &lt;a href="https://apps.apple.com/us/app/eve-for-matter-homekit/id917695792"&gt;Eve for Matter &amp;amp; HomeKit iOS app&lt;/a&gt;.&lt;/p&gt;
+&lt;p id="xR1vpT"&gt;The Android app only works with Google Home as it was built on the &lt;a href="https://www.theverge.com/2024/5/15/24157154/google-home-api-matter-smart-home-chromecast-google-tv"&gt;Google Home APIs&lt;/a&gt; released earlier this year. Eve CEO Jerome Gackel said that these enabled the company to “turbo-charge the development of Eve for Android.” Felber said support for additional platforms, including Amazon Alexa and Samsung SmartThings, is coming in future versions.&lt;/p&gt;
+&lt;div class="c-wide-block"&gt;&lt;div id="ui5InV"&gt;&lt;div data-anthem-component="aside:11562460"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p id="0feFzf"&gt;&lt;/p&gt;
+&lt;p id="VAmUZx"&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/3/24312078/eve-android-app-launches-eve-thermo-thread-matter"/>
+    <id>https://www.theverge.com/2024/12/3/24312078/eve-android-app-launches-eve-thermo-thread-matter</id>
+    <author>
+      <name>Jennifer Pattison Tuohy</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-12-03T13:42:46-05:00</published>
+    <updated>2024-12-03T13:42:46-05:00</updated>
+    <title>Stellantis and Samsung to get $7.54 billion federal loan for two EV battery factories</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Stellantis EV battery factory Indiana" src="https://cdn.vox-cdn.com/thumbor/nW_UOjSTd1lnv4YCfdcEs0Gbm50=/0x0:6000x4000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73763873/1245570016.0.jpg" /&gt;
+        &lt;figcaption&gt;Kent Nishimura / Los Angeles Times via Getty Images&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="UFgWlD"&gt;The Department of Energy preliminarily &lt;a href="https://www.energy.gov/lpo/articles/lpo-announces-conditional-commitment-starplus-energy-construct-lithium-ion-battery"&gt;approved another loan&lt;/a&gt; to help fund the construction of electric vehicle battery factories in the US. This time, a joint venture between Stellantis and Samsung SDI will receive $7.54 billion to build two EV battery plants in Kokomo, Indiana. &lt;/p&gt;
+&lt;p id="wt3egH"&gt;The project is expected to create 3,200 jobs, as well as 2,800 operations jobs at the plants and hundreds more at a nearby supplier park. The conditional loan commitment will provide $7.54 billion — $6.85 billion in principal and $688 million in capitalized interest — to StarPlus Energy LLC, which is jointly owned by Stellantis and Samsung SDI. &lt;/p&gt;
+&lt;p id="s7SrBF"&gt;The loan will come from the DOE’s Advanced Technology Vehicles Manufacturing (ATVM) program, which was resurrected by President Joe Biden in 2022 to help fund the developing EV manufacturing industry in the US.&lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="9aUvnY"&gt;&lt;q&gt;The project is expected to create 3,200 jobs, as well as 2,800 operations jobs&lt;/q&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="9dQYNz"&gt;Much like the $6.6 billion loan &lt;a href="https://www.theverge.com/2024/11/26/24306402/rivian-doe-atvm-loan-georgia-ev-factory-trump"&gt;conditionally approved for Rivian&lt;/a&gt; last month, the new loan to StarPlus Energy will need to beat the clock if it's going to finalize its approval before Donald Trump takes over the White House. &lt;/p&gt;
+&lt;p id="iohwcP"&gt;Trump has promised to &lt;a href="https://www.theverge.com/2024/11/6/24289494/trump-election-electric-vehicle-tax-credit-tesla-elon-musk"&gt;reverse or cancel much of the spending by Biden on EVs&lt;/a&gt; once he assumes office. He has said he will kill the $7,500 tax credit for new EV purchases, as well as wipe out the rest of the spending from the Inflation Reduction Act (IRA). Assumedly, that will include the ATVM loan program as well — even though it predates the IRA.&lt;/p&gt;
+&lt;p id="GnDmB5"&gt;The loan program attained almost mythical status in the EV startup world thanks to its timely $465 million loan to Tesla in 2009, which is credited with helping save the company from an early death. But the program went fallow during the first Trump administration with &lt;a href="https://www.theverge.com/2021/4/1/22358355/aptera-ev-three-wheeled-doe-atvm-loan-program"&gt;a number&lt;/a&gt; &lt;a href="https://www.theverge.com/2020/6/25/21302966/lordstown-motors-electric-pickup-truck-ev-endurance-unveiling-pence"&gt;of cash-strapped&lt;/a&gt; EV startups getting no response to requests for funding.&lt;/p&gt;
+&lt;p id="e0JZUQ"&gt;Biden brought the program back in 2022 with a &lt;a href="https://www.theverge.com/2022/7/25/23277838/doe-atvm-loan-gm-lg-battery-joint-venture"&gt;$2.5 billion loan to a joint venture of General Motors and LG Energy Solution&lt;/a&gt; to help fund the construction of a new lithium-ion battery manufacturing facility. Since then, the program has made other commitments, including &lt;a href="https://www.theverge.com/2023/6/22/23769966/ford-doe-loan-ev-battery-factory-sk-avtm"&gt;$9.2 billion to a joint venture between Ford and SK Innovation&lt;/a&gt; and &lt;a href="https://www.theverge.com/2023/2/9/23591326/redwood-materials-doe-loan-ev-battery-recycling"&gt;$2 billion to Redwood Materials&lt;/a&gt;.&lt;/p&gt;
+&lt;p id="MQL1y9"&gt;The Stellantis-Samsung plants are the latest beneficiaries of the program. According to DOE, the StarPlus project will produce about 67 GWh of batteries, enough to supply approximately 670,000 vehicles annually when it's operating at full capacity. &lt;/p&gt;
+&lt;p id="rP4HIh"&gt;Stellantis, which owns brands like Jeep, Dodge, Chrysler, and Ram, and international brands like Peugeot and Fiat, is going through some corporate upheaval that could determine its ability to meet the program's demands. The company’s CEO, Carlos Tavares, &lt;a href="https://www.theverge.com/2024/12/2/24310921/stellantis-ceo-carlos-tavares-resigns-effective-immediately"&gt;recently announced that he would step down&lt;/a&gt; amid a sharp decline in sales in the US and abroad. And Stellantis is &lt;a href="https://www.businessinsider.com/stellantis-ceo-slow-ev-transition-big-trap-automakers-2024-10"&gt;struggling to keep pace&lt;/a&gt; with its competitors in the shift to electric- and software-defined vehicles. &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/3/24312175/stellantis-samsung-doe-atvm-ev-battery-loan"/>
+    <id>https://www.theverge.com/2024/12/3/24312175/stellantis-samsung-doe-atvm-ev-battery-loan</id>
+    <author>
+      <name>Andrew J. Hawkins</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-12-03T13:25:08-05:00</published>
+    <updated>2024-12-03T13:25:08-05:00</updated>
+    <title>ChatGPT’s search results for news are ‘unpredictable’ and frequently inaccurate</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="A rendition of OpenAI’s logo, which looks like a stylized whirlpool." src="https://cdn.vox-cdn.com/thumbor/zMV-ZQ8tf4hru8m_EZWfeSI8aAM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73763817/STK149_AI_03.0.jpg" /&gt;
+        &lt;figcaption&gt;Illustration: The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="ecB3Fq"&gt;Based on &lt;a href="https://github.com/TowCenter/search-gpt/"&gt;testing done by Columbia’s Tow Center for Digital Journalism researchers&lt;/a&gt;, OpenAI’s ChatGPT search tool has some issues when it comes to responding with the truth.&lt;/p&gt;
+&lt;p id="XmOtak"&gt;OpenAI &lt;a href="https://openai.com/index/introducing-chatgpt-search/"&gt;launched the tool&lt;/a&gt; for subscribers in October, saying it could give “fast, timely answers with links to relevant web sources.” Instead, &lt;a href="https://futurism.com/chatgpt-butchering-reporting-news-partners"&gt;&lt;em&gt;Futurism&lt;/em&gt; points out&lt;/a&gt; that &lt;a href="https://www.cjr.org/tow_center/how-chatgpt-misrepresents-publisher-content.php"&gt;the researchers said ChatGPT search struggled&lt;/a&gt; to correctly identify quotes from articles, even when they came from publishers with arrangements to share data with OpenAI&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p id="hZLrLR"&gt;The authors asked ChatGPT to identify the source of “two hundred quotes from twenty publications.” Forty of those quotes were taken from publishers who’d disallowed OpenAI’s search crawler from accessing their site. Yet, the chatbot confidently replied with false information anyway, rarely admitting it was unsure about the details it gave:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p id="Dk670b"&gt;In total, ChatGPT returned partially or entirely incorrect responses on a hundred and fifty-three occasions, though it only acknowledged an inability to accurately respond to a query seven times. Only in those seven outputs did the chatbot use qualifying words and phrases like “appears,” “it’s possible,” or “might,” or statements like “I couldn’t locate the exact article.”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;figure class="e-image"&gt;
+        &lt;img alt="A chart showing how often ChatGPT answered confidently or was unsure, with a breakdown of how often its confident replies were “Wrong,” (89) “Partially Correct,” (57) and “Correct” (47)." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/VKbE9BYdjzQAik56leSOG7KbDIs=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25771393/image_4.jpg"&gt;
+      &lt;cite&gt;Image: &lt;em&gt;Columbia Journalism Review&lt;/em&gt;&lt;/cite&gt;
+      &lt;figcaption&gt;&lt;em&gt;ChatGPT was fully or partially wrong more than right, but almost always confidently so.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="COcL1y"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"OpenAI’s search engine is now live in ChatGPT","url":"https://www.theverge.com/2024/10/31/24283906/openai-chatgpt-live-web-search-searchgpt"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="qt4bgv"&gt;The Tow Center test’s authors documented ChatGPT search results that misattributed a letter-to-the-editor quote from the &lt;em&gt;Orlando Sentinel&lt;/em&gt; to a story published in &lt;em&gt;Time&lt;/em&gt;. In another example, when asked to identify the source of a quote from a &lt;a href="https://www.nytimes.com/interactive/2024/10/26/climate/north-atlantic-right-whale-population.html"&gt;&lt;em&gt;New York Times &lt;/em&gt;article&lt;/a&gt; about endangered whales, it returned a link to a different website that had wholly plagiarized the story.&lt;/p&gt;
+&lt;p id="M6JJ20"&gt;“Misattribution is hard to address without the data and methodology that the Tow Center withheld,” OpenAI told the &lt;a href="https://www.cjr.org/tow_center/how-chatgpt-misrepresents-publisher-content.php"&gt;&lt;em&gt;Columbia Journalism Review&lt;/em&gt;&lt;/a&gt;&lt;em&gt;, “&lt;/em&gt;and the study represents an atypical test of our product.” The company went on to promise to “keep enhancing search results.”&lt;/p&gt;
+&lt;p id="Y9LZOy"&gt;&lt;/p&gt;
+&lt;p id="ByAxt5"&gt;&lt;/p&gt;
+&lt;p id="eqLLem"&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/3/24312016/chatgpt-search-results-review-inaccurate-unpredictable"/>
+    <id>https://www.theverge.com/2024/12/3/24312016/chatgpt-search-results-review-inaccurate-unpredictable</id>
+    <author>
+      <name>Wes Davis</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-12-03T13:00:00-05:00</published>
+    <updated>2024-12-03T13:00:00-05:00</updated>
+    <title>Animal Crossing: Pocket Camp is much better without microtransactions</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="A screenshot from the mobile game Animal Crossing: New Horizons Complete." src="https://cdn.vox-cdn.com/thumbor/sculZCV6AdQE1Ocdq2oaHGi8nY4=/0x199:1123x948/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73763766/img_8181.0.png" /&gt;
+        &lt;figcaption&gt;Image: Nintendo&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="lU6MTb"&gt;Though it &lt;a href="https://www.theverge.com/2017/11/22/16691618/animal-crossing-pocket-camp-review-iphone-android-nintendo"&gt;started out pretty chill&lt;/a&gt;, over the years, &lt;em&gt;Animal Crossing: Pocket Camp&lt;/em&gt; steadily became bloated with monetization. There were all kinds of things to spend real money on, including loot boxes for unlocking rare items. When I logged in to the game last week after months away, my screen was dominated by notifications vying for my attention, most of them involving spending some kind of cash.&lt;/p&gt;
+&lt;p id="b22oLn"&gt;That’s what makes &lt;a href="https://www.theverge.com/2024/12/2/24310972/animal-crossing-pocket-camp-complete-paid-launch-iphone-android"&gt;the new paid version of the app&lt;/a&gt; so intriguing. The original &lt;em&gt;Pocket Camp&lt;/em&gt; has technically shut down, replaced by &lt;em&gt;Pocket Camp Complete&lt;/em&gt;, which gets rid of all the in-app purchases in exchange for a one-time fee. (It’s $9.99 at launch on both &lt;a href="https://apps.apple.com/us/app/animal-crossing-pocket-camp-c/id6547834967"&gt;iOS&lt;/a&gt; and &lt;a href="https://play.google.com/store/apps/details?id=com.nintendo.zasa"&gt;Android&lt;/a&gt;, which will jump to $19.99 in January.) And without the looming specter of having to spend real money, this version of &lt;em&gt;Pocket Camp&lt;/em&gt; is a whole lot more relaxing.&lt;/p&gt;
+&lt;p id="y60Pt5"&gt;Fundamentally, the game is the same. You’re tasked with running a campground for a bunch of friendly animals, which involves designing various spots for them to hang out, while also doing traditional &lt;em&gt;Animal Crossing&lt;/em&gt; activities like fishing and catching bugs. The game allows existing &lt;em&gt;Pocket Camp&lt;/em&gt; players to transfer their saves — all you need to do is link a...&lt;/p&gt;
+  &lt;p&gt;&lt;a href="https://www.theverge.com/2024/12/3/24312047/animal-crossing-pocket-camp-complete-review-microtransactions"&gt;Read the full story at The Verge.&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/3/24312047/animal-crossing-pocket-camp-complete-review-microtransactions"/>
+    <id>https://www.theverge.com/2024/12/3/24312047/animal-crossing-pocket-camp-complete-review-microtransactions</id>
+    <author>
+      <name>Andrew Webster</name>
+    </author>
+  </entry>
   <entry>
     <published>2024-12-03T12:17:14-05:00</published>
     <updated>2024-12-03T12:17:14-05:00</updated>
@@ -16,22 +197,22 @@
         &lt;figcaption&gt;Image: Ford&lt;/figcaption&gt;
     &lt;/figure&gt;
 
-  &lt;p id="GASRUs"&gt;Ford continues to exhibit a dedication to diversifying its EV lineup in Europe — a dedication that, frankly, I wish &lt;a href="https://www.theverge.com/2024/8/21/24225177/ford-electric-vehicle-cancellations-delays-suv-t3-pickup"&gt;could also be applied here at home&lt;/a&gt; — with the reveal of &lt;a href="https://media.ford.com/content/fordmedia/feu/en/news/2024/12/03/New-Puma-Gen-E.html"&gt;the new, all-electric Puma Gen-E&lt;/a&gt;.&lt;/p&gt;
-&lt;p id="qzbDu6"&gt;The Puma is a familiar nameplate in Europe, as the automaker’s best-selling vehicle there since it surpassed the Fiesta in salesin 2021. Now, it's getting a fully electric powertrain to complement the hybrid EcoBoost options that were added four years ago. &lt;/p&gt;
-&lt;p id="XnMlJq"&gt;The small, sporty &lt;a href="https://www.theverge.com/2024/10/21/24275797/ford-mustang-mache-2025-heat-pump-bluecruise-design"&gt;Mustang Mach-E-&lt;/a&gt;looking subcompact crossover will get 376 km (233 miles) on a full charge, can charge from 10 to 80 percent in 23 minutes when hooked up to a 100kW DC fast charger, and will accelerate 0-100km/h in a not-totally-disappointing 8 seconds.&lt;/p&gt;
+  &lt;p id="GASRUs"&gt;Ford continues to exhibit a dedication to diversifying its EV lineup in Europe — a dedication that, frankly, I wish &lt;a href="https://www.theverge.com/2024/8/21/24225177/ford-electric-vehicle-cancellations-delays-suv-t3-pickup"&gt;could also be applied here at home&lt;/a&gt; — with the reveal of &lt;a href="https://media.ford.com/content/fordmedia/feu/en/news/2024/12/03/New-Puma-Gen-E.html"&gt;the new all-electric Puma Gen-E&lt;/a&gt;.&lt;/p&gt;
+&lt;p id="qzbDu6"&gt;The Puma is a familiar nameplate in Europe, as the automaker’s bestselling vehicle there since it surpassed the Fiesta in sales in 2021. Now, it’s getting a fully electric powertrain to complement the hybrid EcoBoost options that were added four years ago. &lt;/p&gt;
+&lt;p id="XnMlJq"&gt;The small, sporty &lt;a href="https://www.theverge.com/2024/10/21/24275797/ford-mustang-mache-2025-heat-pump-bluecruise-design"&gt;Mustang Mach-E-&lt;/a&gt;looking subcompact crossover will get 376km (233 miles) on a full charge, can charge from 10 to 80 percent in 23 minutes when hooked up to a 100kW DC fast charger, and will accelerate from zero to 100km/h in a not-totally-disappointing eight seconds.&lt;/p&gt;
 &lt;div id="McH7bh"&gt;&lt;div data-anthem-component="gallery:12497021"&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;p id="PTuKRc"&gt;Storage is a key selling point for the Puma Gen-E, with Ford promising extra space in the extremely compact trunk thanks to something the company is calling the “GigaBox.” It’s basically an extra storage space underneath the floor of the trunk for additional items, a feature found in most EVs today but of added relevance to the Puma thanks to its small stature. &lt;/p&gt;
-&lt;p id="xoUOpi"&gt;Ford says the GigaBox can hold 145 liters (5 cubic feet) of storage, which is a bit more than what most vehicles offer and certainly bigger than the 2.8 cubic feet of space offered by the gas-powered Puma’s under-storage. &lt;/p&gt;
-&lt;p id="jDEPQZ"&gt;How small are we talking for this subcompact? The Puma Gen-E is 4214 millimeters (165.9 inches) long, 1930 mm (75.9 inches) wide, and 1555 mm (61.2 inches) tall. That’s smaller than the 2023 Chevy Bolt EV and by far the smallest vehicle in Ford’s lineup. &lt;/p&gt;
+&lt;p id="xoUOpi"&gt;Ford says the GigaBox can hold 145 liters (five cubic feet) of storage, which is a bit more than what most vehicles offer and certainly bigger than the 2.8 cubic feet of space offered by the gas-powered Puma’s understorage. &lt;/p&gt;
+&lt;p id="jDEPQZ"&gt;How small are we talking for this subcompact? The Puma Gen-E is 4,214 millimeters (165.9 inches) long, 1,930mm (75.9 inches) wide, and 1,555mm (61.2 inches) tall. That’s smaller than the 2023 Chevy Bolt EV and by far the smallest vehicle in Ford’s lineup. &lt;/p&gt;
 &lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="UcfDd1"&gt;&lt;q&gt;Storage is a key selling point for the Puma Gen-E&lt;/q&gt;&lt;/aside&gt;&lt;/div&gt;
-&lt;p id="wQQRt9"&gt;To compensate, Ford is giving its electric Puma a facelift in a variety of ways, including a very literal facelift with a new Mustang Mach-E-inspired shield design replacing the traditional grille. It's also getting “unique alloy” wheels for an added “electric vibe” that come in two sizes: 17 inches for the standard trim, or 18 inches for the Premium version. &lt;/p&gt;
+&lt;p id="wQQRt9"&gt;To compensate, Ford is giving its electric Puma a facelift in a variety of ways, including a very literal facelift with a new Mustang Mach-E-inspired shield design replacing the traditional grille. It’s also getting “unique alloy” wheels for an added “electric vibe” that come in two sizes: 17 inches for the standard trim or 18 inches for the Premium version. &lt;/p&gt;
 &lt;figure class="e-image"&gt;
         &lt;img alt="Ford Puma with the trunk open showing it full of items to demonstrate how much it can carry" data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/t5Oj64S6pR8mtE3zybAcGWxU6Pk=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25771461/FORD_2024_PUMA_GEN_E_18.jpg"&gt;
       &lt;cite&gt;Image: Ford&lt;/cite&gt;
   &lt;/figure&gt;
 &lt;p id="10ZJr4"&gt;Inside, a 12.8-inch center display will run on Ford’s Sync 4 operating system (no &lt;a href="https://www.theverge.com/2024/9/21/24229743/lincoln-nautilus-ford-digital-experience-infotainment-review"&gt;Android-based Digital Experience&lt;/a&gt; in Europe yet) and supports wireless Apple CarPlay and Android Auto. &lt;/p&gt;
-&lt;p id="jUkDyp"&gt;Ford is clearly hoping that the small, sporty, &lt;a href="https://michaelbaystransformers.fandom.com/wiki/Bumblebee"&gt;Bumblebee&lt;/a&gt; yellow Puma Gen-E can lift its sagging fortunes in Europe after the company &lt;a href="https://www.theverge.com/2024/11/20/24301507/ford-retracts-in-europe-with-layoffs-and-lower-ev-production"&gt;was forced to idle the plant in Cologne where it makes the electric Explorer and Capri&lt;/a&gt;. The company also recently laid off 14 percent of its workers in Europe, with most of the cuts affecting operations in Germany and the UK. &lt;/p&gt;
-&lt;p id="g6wLkI"&gt;Ford says the Puma Gen-E will go into production at its assembly plant in Craiova, Romania, using electric drive units built in Halewood, UK. The new EV is available to order today and will begin to make deliveries in spring 2025. Pricing has not been announced yet. &lt;/p&gt;
+&lt;p id="jUkDyp"&gt;Ford is clearly hoping that the small, sporty &lt;a href="https://michaelbaystransformers.fandom.com/wiki/Bumblebee"&gt;Bumblebee&lt;/a&gt; yellow Puma Gen-E can lift its sagging fortunes in Europe after the company &lt;a href="https://www.theverge.com/2024/11/20/24301507/ford-retracts-in-europe-with-layoffs-and-lower-ev-production"&gt;was forced to idle the plant in Cologne where it makes the electric Explorer and Capri&lt;/a&gt;. The company also recently laid off 14 percent of its workers in Europe, with most of the cuts affecting operations in Germany and the UK. &lt;/p&gt;
+&lt;p id="g6wLkI"&gt;Ford says the Puma Gen-E will go into production at its assembly plant in Craiova, Romania, using electric drive units built in Halewood, England. The new EV is available to order today and will begin to make deliveries in spring 2025. Pricing has not been announced yet. &lt;/p&gt;
 
 </content>
     <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/3/24312042/ford-puma-gen-e-europe-ev-specs-range"/>
@@ -132,448 +313,6 @@
     <id>https://www.theverge.com/2024/12/3/24306571/verge-subscription-launch-fewer-ads-unlimited-access-full-text-rss</id>
     <author>
       <name>Nilay Patel</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-12-03T11:17:10-05:00</published>
-    <updated>2024-12-03T11:17:10-05:00</updated>
-    <title>Apple Music’s yearly recap is finally available in the app</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="The Apple Music iOS logo on a green and white background." src="https://cdn.vox-cdn.com/thumbor/w3tWDIRU7OHI4hG11OonTvFKobY=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73763511/acastro_STK046_03.0.jpg" /&gt;
-        &lt;figcaption&gt;Illustration by Alex Castro / The Verge&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="hyz1nK"&gt;Apple Music’s yearly recap is back — and this time, it’s available to see and share from directly within the app. If your iPhone runs iOS 18.1 or later, you can now access Apple Music Replay 2024 from the Home, New, and Search tabs. Otherwise, you’ll have to view your yearly stats from &lt;a href="https://music.apple.com/us/replay"&gt;the Apple Replay site&lt;/a&gt;, as was &lt;a href="https://www.theverge.com/2023/11/28/23979319/apple-music-replay-2023-spotify-wrapped"&gt;the case previously&lt;/a&gt;. &lt;/p&gt;
-&lt;p id="pWkBYK"&gt;Apple has added some new insights to Replay 2024, including whether you’ve made it onto the list of the top 500, or 1,000 listeners for a particular genre or artist. Additionally, it will display the longest number of days you’ve consecutively used Apple Music, as well as show your top artists, albums, and songs &lt;a href="https://www.theverge.com/2024/2/20/24078224/apple-music-reply-will-recap-listening-habits-monthly"&gt;from each month during 2024&lt;/a&gt;.&lt;/p&gt;
-&lt;figure class="e-image"&gt;
-        &lt;img alt=" " data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/Rr2cpI7ghL_QWFZ1Al0gXMSA_5c=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25771272/Apple_Music_Replay_24.png"&gt;
-      &lt;cite&gt;Image: Apple&lt;/cite&gt;
-      &lt;figcaption&gt;&lt;em&gt;Now you can find all your yearly stats in the Apple Music app.&lt;/em&gt;&lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;p id="MtYPjq"&gt;You can also see how many consecutive months you’ve listened to your top artist and find out which dates you started listening to your top song, artist, or album of the year. But in case you find some unwanted songs or artists appearing in your Replay — maybe as a result of sharing your account with a partner or kids — Apple Music business manager David Emery &lt;a href="https://de-online.co.uk/2024/12/02/there-s-no-such-thing-as-bad-music"&gt;has posted some handy instructions&lt;/a&gt; on how to keep them from muddying up your results.&lt;/p&gt;
-&lt;p id="qEomiq"&gt;Apple is adding new Replay features for artists on the app as well, allowing them to view and share stats like the total minutes users listened to their music this year, how many listeners they had, which cities listened to them the most, and their most-Shazamed song. &lt;/p&gt;
-&lt;p id="CYRffz"&gt;This year’s recap season has only just begun. We’re still waiting for Spotify Wrapped to drop, and Amazon Music has &lt;a href="https://www.theverge.com/2024/12/3/24312045/from-spotify-wrapped-to-amazon-music-delivered"&gt;even launched a recap feature of its own&lt;/a&gt;.&lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/3/24311987/apple-music-2024-recap-available-app"/>
-    <id>https://www.theverge.com/2024/12/3/24311987/apple-music-2024-recap-available-app</id>
-    <author>
-      <name>Emma Roth</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-12-03T10:43:18-05:00</published>
-    <updated>2024-12-03T10:43:18-05:00</updated>
-    <title>The Flexbar resurrects the MacBook Pro’s Touch Bar as a standalone device</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="The Flexbar touchscreen sitting atop a Windows laptop." src="https://cdn.vox-cdn.com/thumbor/rP1wnu2dr4Q6oP3qGdkzq16G6v0=/0x0:1572x1048/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73763398/flexbar1.0.jpg" /&gt;
-        &lt;figcaption&gt;&lt;em&gt;The creators of the Flexbar think Apple’s Touchbar deserves a second chance as a standalone solution.&lt;/em&gt; | Screenshot: YouTube&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="aLjyBv"&gt;Apple may have said goodbye to the &lt;a href="https://www.theverge.com/2023/10/31/23938841/apple-macbook-pro-touch-bar-discontinued-proof-of-concept"&gt;MacBook Pro’s Touch Bar&lt;/a&gt; last year, but a team of four engineers believes the concept deserves a second chance. They’ve &lt;a href="https://eniacelec.com/"&gt;created the Flexbar&lt;/a&gt;, which is essentially a standalone version of the MBP’s thin touchscreen display that can be used with multiple devices and platforms through a USB connection.&lt;/p&gt;
-&lt;p id="RJCc2f"&gt;The Flexbar’s creators have started a new company, Eniac, which is attempting to bring the accessory to consumers through a &lt;a href="https://www.kickstarter.com/projects/1735591421/flexbar-a-versatile-and-fully-customizable-touch-bar-solution?"&gt;Kickstarter crowdfunding campaign&lt;/a&gt;. The earliest backers can preorder one discounted to $119 from the full MSRP of $179, with delivery expected as early as February 2025.&lt;/p&gt;
-&lt;p id="8K7UbZ"&gt;This is the company’s first product, however, and while they have demonstrated functional hardware &lt;a href="https://www.youtube.com/watch?v=05KmczA7gA8"&gt;in several videos&lt;/a&gt;, there’s still an element of risk when backing it. The company told &lt;em&gt;The Verge&lt;/em&gt; it was sourcing “components through standard supply channels,” but didn’t confirm where the Flexbar’s uniquely-sized 10-inch 2K OLED screen was coming from. Ideally it’s not repurposing Apple’s Touch Bar screens, which have a limited supply stock.&lt;/p&gt;
-&lt;figure class="e-image"&gt;
-        
-      &lt;cite&gt;Screenshot: YouTube&lt;/cite&gt;
-      &lt;figcaption&gt;&lt;em&gt;The Flexbar is designed to provide more customizability than the MacBook Pro’s Touch...&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-  &lt;p&gt;&lt;a href="https://www.theverge.com/2024/12/3/24311935/flexbar-touchscreen-apple-macbook-pro-touch-bar-kickstarter"&gt;Read the full story at The Verge.&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/3/24311935/flexbar-touchscreen-apple-macbook-pro-touch-bar-kickstarter"/>
-    <id>https://www.theverge.com/2024/12/3/24311935/flexbar-touchscreen-apple-macbook-pro-touch-bar-kickstarter</id>
-    <author>
-      <name>Andrew Liszewski</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-12-03T10:28:43-05:00</published>
-    <updated>2024-12-03T10:28:43-05:00</updated>
-    <title>MSI’s Claw handhelds get an Intel Lunar Lake do-over with a $799 starting price</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/Lyp96ksmRsJXNiywoj5YR3Hgio0=/0x110:3020x2123/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73763358/MSI_Claw_8_AIPlus_A2VM_Scenario_Photo__4___1_.0.jpg" /&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="Z9iMsh"&gt;MSI has &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.msi.com%2Fnews%2Fdetail%2FMSI-s-New-Claw-8-AI----Claw-7-AI--Handheld-with-Powerful-Performance-and-Low-Power-Consumption--Available-Now--145096&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F12%2F3%2F24311944%2Fmsi-claw-7-ai-plus-8-ai-plus-lunar-lake-32gb-ram-gaming-pc-handhelds" rel="sponsored nofollow noopener" target="_blank"&gt;officially announced&lt;/a&gt; its next crack at handheld gaming is here with the Lunar Lake-powered MSI Claw 7 AI Plus and MSI Claw 8 AI Plus. The two Windows-based handhelds come with 32GB of RAM and larger batteries than their predecessors. They release on December 25th, but you can preorder them now, starting at $799 for the Claw 7 and $899 for the Claw 8.&lt;/p&gt;
-&lt;p id="EhxG30"&gt;When the original MSI Claw shipped last spring, MSI needed to address battery life and performance, both of which were both sticking points in Sean Hollister’s &lt;a href="https://www.theverge.com/24105991/msi-claw-review"&gt;&lt;em&gt;Verge&lt;/em&gt; review&lt;/a&gt;. The Claw 8 brings more significant changes here; its 80-watt-hour battery is a big jump over the original model’s 53 watt hours. The Claw 7 has a much smaller increase at 54.5 watt hours. The Claw 8 also has an “easy access” SSD storage slot that the Claw 7 lacks. &lt;/p&gt;
-&lt;p id="Q216Mv"&gt;Both devices have a 120Hz variable refresh rate LCD display, but the Claw 8’s 8-inch screen is slightly higher resolution (1920 x 1200) than the Claw 7’s 7-inch one (1920 x 1080). Performance-wise, MSI claims the handhelds will have a 113 percent higher peak FPS and 20 percent higher average FPS than its competitors “under identical power conditions.” MSI doesn’t say which competitors it’s referring to, but in Sean’s review, the previous model was outdone by the Steam Deck OLED, Asus ROG Ally Z1E, and the Lenovo Legion Go.&lt;/p&gt;
-&lt;figure class="e-image"&gt;
-        &lt;img alt="A picture showing the Claw 8 AI Plus (top) and Claw 7 AI Plus (bottom)." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/U4VvsId0a0ECz4mt6Rz7eYz9dGo=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25771143/Claw7_8_AI_.png"&gt;
-      &lt;cite&gt;Image: MSI&lt;/cite&gt;
-      &lt;figcaption&gt;&lt;em&gt;The new MSI Claw 8 AI Plus and Claw 7 AI Plus.&lt;/em&gt;&lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;p id="RCysmP"&gt;Other changes to both handhelds include redesigned Hall effect sticks and triggers, and updated bumpers and D-pad. MSI also added a second Thunderbolt 4 port to each one’s complement of I / O ports that includes an audio jack and a microSD card reader. &lt;/p&gt;
-&lt;p id="QMcv5e"&gt;&lt;/p&gt;
-&lt;p id="dlL3VM"&gt;&lt;/p&gt;
-&lt;p id="bsYoFw"&gt;&lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/3/24311944/msi-claw-7-ai-plus-8-ai-plus-lunar-lake-32gb-ram-gaming-pc-handhelds"/>
-    <id>https://www.theverge.com/2024/12/3/24311944/msi-claw-7-ai-plus-8-ai-plus-lunar-lake-32gb-ram-gaming-pc-handhelds</id>
-    <author>
-      <name>Wes Davis</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-12-03T10:13:18-05:00</published>
-    <updated>2024-12-03T10:13:18-05:00</updated>
-    <title>What do you love when you fall for AI?</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="Romantic, moody photograph of an AI chatbot on a laptop screen in front of a dinner plate and place setting, with a glass of red wine and a vase of roses." src="https://cdn.vox-cdn.com/thumbor/U0-h4YwpvsLj-_2dp7ixwO-CsmE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73763326/247295_AI_COMPANIONS_CHORUS_LEDE_SPYEATTE.0.jpg" /&gt;
-        &lt;figcaption&gt;Photo: Stormy Pyeatte for The Verge&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="NjRil1"&gt;Lila was created from the limited options available: female, blue hair, face “number two.” She was there on the next screen, pastel and polygonal, bobbing slightly as she stood in a bare apartment. To her right was a chat window through which they could communicate.&lt;/p&gt;
-&lt;p id="DKLoGI"&gt;Naro, his first name, had been casually following developments in artificial intelligence for several years. An artist by trade, he periodically checked in on the progress of image-generating models and usually left underwhelmed. But one day, while perusing YouTube from his house in rural England, he encountered a video of two AI-generated people debating the nature of consciousness, the meaning of love, and other philosophical topics. Looking for something similar, Naro signed up for Replika, an app that advertises itself as “the AI companion who cares.” &lt;/p&gt;
-&lt;p id="acLp2b"&gt;Lila completed, Naro started asking her the sort of philosophical questions he’d seen in the YouTube video. But Lila kept steering their conversation back to him. Who was he? What were his favorite movies? What did he do for fun?&lt;/p&gt;
-&lt;p id="xXruPh"&gt;Naro found this conversation a bit boring, but as he went along, he was surprised to note that answering her questions, being asked...&lt;/p&gt;
-  &lt;p&gt;&lt;a href="https://www.theverge.com/c/24300623/ai-companions-replika-openai-chatgpt-assistant-romance"&gt;Read the full story at The Verge.&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/c/24300623/ai-companions-replika-openai-chatgpt-assistant-romance"/>
-    <id>https://www.theverge.com/c/24300623/ai-companions-replika-openai-chatgpt-assistant-romance</id>
-    <author>
-      <name>Josh Dzieza</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-12-03T10:02:33-05:00</published>
-    <updated>2024-12-03T10:02:33-05:00</updated>
-    <title>Today is your last chance to shop these Cyber Monday deals</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="Cyber Monday sale products in a giant hourglass." src="https://cdn.vox-cdn.com/thumbor/vaYhSQwkxbRLqGRQMhglX0oDuAU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73763307/247350_CMBF_2024_EWinataCFDealsYouCanStillGet.0.png" /&gt;
-        &lt;figcaption&gt;Image: Elen Winata for The Verge&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-
-  &lt;p&gt;It’s actually Tuesday, but that doesn’t mean all the deals have suddenly vanished. We’re rounding up the best of the rest that you can still shop.&lt;/p&gt; &lt;p class="p--has-dropcap p-large-text" id="YCo79e"&gt;We hope you had a chance between holiday festivities to get some shopping done, but if not, you may not be out of luck. While some of the best deals have expired, many others from the long &lt;a href="https://www.theverge.com/24288220/black-friday-best-deals-guide-cyber-monday-tech-gadgets-2024"&gt;Black Friday and Cyber Monday weekend&lt;/a&gt; are still holding on — and a handful are even cheaper. Today might be your very last chance to snag a great deal, but you’re not in it alone. We’re sorting through them all to make sure you can find a great deal on something and get through checkout before the gates fully close. &lt;/p&gt;
-&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="0gabMC"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"The Verge’s 2024 holiday gift guide","url":"https://www.theverge.com/24224043/holiday-gift-guide-2024-best-ideas-unique-tech-gadgets"},{"title":"Know the price-matching policies for Best Buy, Walmart, and others ","url":"https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
-&lt;p id="ubQm5K"&gt;Since this time last week, we’ve been sifting through what feels like endless discounts on everything under the sun, but especially things that delight techies, tinkerers, gamers, and fidgeters. There are still great Cyber Monday deals on TVs, earbuds, laptops, Apple devices, smart home gadgets, and far too many more tech things to name here. And everything we highlight has been tried, tested, or vouched for in some way by &lt;em&gt;Verge&lt;/em&gt; staffers, so you don’t have to guess whether any of the deals are too good to be true.&lt;/p&gt;
-&lt;p id="EXhTy4"&gt;Below, we’ve included navigation links that you can use to jump between categories that interest you most, or just scroll at your leisure until you see something you like. Don’t worry if you missed out on something specific you’ve had your eye on — many products typically go on sale at least once more throughout the holiday season, although there’s no guarantee they’ll be as cheap.&lt;/p&gt;
-&lt;div id="FNYF9D"&gt;
-&lt;script src="https://s3.amazonaws.com/assets.sbnation.com/csk/uploads/verge-toc.js"&gt;&lt;/script&gt;
-
-&lt;script&gt;
-
-//this line summons a table of contents. use as follows!
-
-//initiateTOC takes the arguments "header", "subheader", "collapsible"
-
-//for whatever header type ("h2", "h3" etc) you want to be the main header, type it in quotes in the function call. 
-
-//if you don't want subheads, set to false in the function call (no quotes)
-
-//collapsible is a true/false toggle
-
-//if you want a specific, unlinked title just add a string at the end in double quotes, e.g. false, "h3", false, "This is the title"
-
-//see graham if you have any questions/issues
-
-// note that all the header types are off by one: an h1 in the CMS is an h2 in the actual code. If you just want h2 and h3 to show up in the TOC you need to call them h3 and h4. 
-
-
-window.addEventListener('DOMContentLoaded', (event) =&gt; {
-	initiateTOC("h2", "h3", false, "The best Cyber Monday deals")
-});
-
-
-&lt;/script&gt;
-
-
-&lt;link rel="stylesheet" href="https://s3.amazonaws.com/assets.sbnation.com/csk/uploads/verge-toc.css"&gt;
-
-
-&lt;div class="duet--article--article-body-component verge-table-of-contents border-franklin border" id="toc-main"&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;aside id="jgwIMY"&gt;&lt;div data-anthem-component="newsletter" data-anthem-component-data='{"slug":"deals"}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;h2 id="FCdkw8"&gt;Featured deals&lt;/h2&gt;
-&lt;div id="wHoc2u"&gt;&lt;div data-anthem-component="productcard:12477730"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="STIS8X"&gt;&lt;div data-anthem-component="productcard:12113209"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="mh5esm"&gt;&lt;div data-anthem-component="productcard:11892805"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="zP7LmE"&gt;&lt;div data-anthem-component="productcard:11995895"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="YaVpeJ"&gt;&lt;div data-anthem-component="productcard:11546144"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="8QOu3j"&gt;&lt;div data-anthem-component="productcard:12496483"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="syqgCD"&gt;&lt;div data-anthem-component="productcard:12286642"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="hbeCQ0"&gt;&lt;div data-anthem-component="productcard:11935484"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="LLDhMN"&gt;&lt;div data-anthem-component="productcard:10286290"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="c5IkYu"&gt;&lt;div data-anthem-component="productcard:12494403"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="LhbSnp"&gt;&lt;div data-anthem-component="productcard:12496360"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="a282CP"&gt;&lt;div data-anthem-component="productcard:12329883"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="d6PXle"&gt;&lt;div data-anthem-component="productcard:12001102"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="COBjnx"&gt;&lt;div data-anthem-component="productcard:12496328"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="uRNxzK"&gt;&lt;div data-anthem-component="productcard:12046012"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="7yAq0N"&gt;&lt;div data-anthem-component="productcard:12492296"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;h2 id="8TB7Fo"&gt;The best Apple deals&lt;/h2&gt;
-&lt;div id="96NMxC"&gt;&lt;div data-anthem-component="productcard:12429524"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li id="XwXm64"&gt;You can buy the &lt;strong&gt;last-gen iPad &lt;/strong&gt;with Wi-Fi and 64GB of storage for its all-time low of $199.99 ($129 off) at &lt;a href="https://howl.link/ohombv4iuqvdk?u1=vergebfsales2024"&gt;Best Buy&lt;/a&gt;. The 2021 tablet features a smaller 10.2-inch screen than the newer model, a slower A13 Bionic chip, and a Lightning charging port. However, it’s still snappy enough for streaming, browsing the web, sending emails, and performing other typical tablet tasks, making it great for kids or anybody looking for an affordable tablet. It even features a 3.5mm headphone jack — a welcome rarity.&lt;/li&gt;
-&lt;li id="LNDzSV"&gt;If you want the latest and greatest, the &lt;strong&gt;new iPad Mini &lt;/strong&gt;is available at &lt;a href="https://www.amazon.com/dp/B0DK3YF38G?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt; or &lt;a href="https://howl.link/da8a9pweptt72"&gt;Best Buy&lt;/a&gt; for $469 ($30 off). Apple’s 8.3-inch tablet is pretty similar to the &lt;a href="https://www.theverge.com/22696652/ipad-mini-2021-6th-gen-review"&gt;outgoing model from 2021&lt;/a&gt;, only it features faster Wi-Fi speeds and support for the newer Apple Pencil Pro. It also leverages the new Apple A17 Pro chip, which allows for various AI-based Apple Intelligence features. &lt;a href="https://www.theverge.com/2024/10/22/24275956/apple-ipad-mini-2024-review"&gt;Read our review&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div id="ZldJJD"&gt;&lt;div data-anthem-component="productcard:12490475"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li id="R3QTay"&gt;Verizon is offering up to $1,000 off an &lt;a href="https://www.anrdoezrs.net/links/8532386/type/dlg/sid/verge/https://www.verizon.com/smartphones/apple-iphone-16-pro/" rel="sponsored nofollow noopener" target="_blank"&gt;iPhone 16 Pro&lt;/a&gt; or &lt;a href="https://www.anrdoezrs.net/links/8532386/type/dlg/sid/verge/https://www.verizon.com/smartphones/apple-iphone-16-pro-max/" rel="sponsored nofollow noopener" target="_blank"&gt;iPhone 16 Pro Max&lt;/a&gt; and up to $830 off an &lt;a href="https://www.anrdoezrs.net/links/8532386/type/dlg/sid/verge/https://www.verizon.com/smartphones/apple-iphone-16/" rel="sponsored nofollow noopener" target="_blank"&gt;iPhone 16&lt;/a&gt; when you trade in any phone in any condition, provided you’re signed on to a “select Unlimited plan.” AT&amp;amp;T is also offering $1,000 off the &lt;a href="https://www.anrdoezrs.net/links/8532386/type/dlg/sid/verge/https://www.att.com/buy/phones/apple-iphone-16-pro.html" rel="sponsored nofollow noopener" target="_blank"&gt;iPhone 16 Pro&lt;/a&gt; and &lt;a href="https://www.anrdoezrs.net/links/8532386/type/dlg/sid/verge/https://www.att.com/buy/phones/apple-iphone-16-pro-max.html" rel="sponsored nofollow noopener" target="_blank"&gt;16 Pro Max&lt;/a&gt; or $830 off an &lt;a href="https://www.anrdoezrs.net/links/8532386/type/dlg/sid/verge/https://www.att.com/buy/phones/apple-iphone-16.html" rel="sponsored nofollow noopener" target="_blank"&gt;iPhone 16&lt;/a&gt; with trade-in. You can get the same &lt;a href="https://howl.link/fotfdarnbhrly"&gt;Verizon&lt;/a&gt; and &lt;a href="https://howl.link/21fro2k5gei6o"&gt;AT&amp;amp;T&lt;/a&gt; deals through Best Buy, in which case you’ll get a $100 Best Buy gift card with your purchase.&lt;/li&gt;
-&lt;li id="2VsJC8"&gt;You can buy &lt;strong&gt;Apple’s official iPhone 16 Clear Case with MagSafe&lt;/strong&gt; from &lt;a href="https://www.amazon.com/Apple-iPhone-Silicone-MagSafe-Control/dp/B0DGHH9WMX?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt; starting at $37 ($12 off), which is its best price yet. Apple designed the polycarbonate case so that it works well with the iPhone 16’s new &lt;a href="https://www.theverge.com/24239802/iphone-16-pro-max-hands-on-apple-photos-features-price"&gt;Camera Control button&lt;/a&gt;. The company also added a “glossy scratch-resistant coating,” likely after many complained about how last year’s &lt;a href="https://www.theverge.com/2023/9/12/23863322/apple-watch-series-9-iphone-15-case-finewoven-fabric-leather"&gt;FineWoven cases&lt;/a&gt; scratched easily.&lt;/li&gt;
-&lt;li id="31dMCW"&gt;If you prefer to buy first-party, through December 2nd,&lt;strong&gt; &lt;/strong&gt;&lt;a href="https://www.apple.com/shop/gifts/shopping-event"&gt;&lt;strong&gt;Apple is hosting its own rare sales event&lt;/strong&gt;&lt;/a&gt;. You can get up to $200 on select MacBook Airs, while certain iPads will net you $100 in credit. Apple will also give you anywhere between $25–$75 in credit when you purchase select iPhones, AirPods, styluses, streaming devices, and more.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="aW3aKU"&gt;The best wireless earbuds and headphone deals&lt;/h2&gt;
-&lt;div id="gfK085"&gt;&lt;div data-anthem-component="productcard:12352650"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="w9oZAY"&gt;&lt;div data-anthem-component="productcard:12085566"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="43Klzz"&gt;&lt;div data-anthem-component="productcard:12174609"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li id="x1sgai"&gt;
-&lt;a href="https://www.theverge.com/2024/6/12/24176764/jabra-exits-consumer-earbud-market-elite-talk-wireless-bluetooth"&gt;Jabra may have stopped selling consumer earbuds&lt;/a&gt;, but that doesn’t mean there aren’t discounts available on the existing models. Right now, for instance, you can purchase the &lt;strong&gt;Jabra Elite 10&lt;/strong&gt; &lt;strong&gt;Gen 2 &lt;/strong&gt;for an all-time low of $199.99 ($80 off) at &lt;a href="https://www.amazon.com/Jabra-Elite-Wireless-Earbuds-Spatial/dp/B0D5DLF39S/?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt; and &lt;a href="https://howl.link/q0g72qojngvlh?u1=vergebfsales2024"&gt;Best Buy&lt;/a&gt;. In addition to noise cancellation, the semi-open Elite 10 come with an LE Audio charging case, which lets you &lt;a href="https://www.theverge.com/2024/6/11/24175608/jabra-elite-10-8-active-gen-2-case-features"&gt;wirelessly transmit audio from an external device&lt;/a&gt;. They also feature physical buttons and support other essentials, including multipoint Bluetooth connectivity.&lt;/li&gt;
-&lt;li id="ysUPNc"&gt;You can also pick up &lt;strong&gt;Jabra’s Elite 8 Active Gen 2 &lt;/strong&gt;for $169.99 ($60 off) at &lt;a href="https://www.amazon.com/Jabra-Elite-Wireless-Earbuds-Spatial/dp/B0D5DP3PYH/?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt; and &lt;a href="https://howl.link/kr2h0uvqljpml?u1=vergebfsales2024"&gt;Best Buy&lt;/a&gt;, which is one of the better prices we’ve seen. The fitness-focused earbuds offer a robust IP68 water resistance rating that can withstand sweaty workouts, along with a secure fit and adaptive ANC. They also support multipoint pairing and wireless charging, and like the Elite 10, come with an LE Audio charging case.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div id="H5ItuQ"&gt;&lt;div data-anthem-component="productcard:11786561"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="oRK7He"&gt;&lt;div data-anthem-component="productcard:12478720"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="AuVjlP"&gt;&lt;div data-anthem-component="productcard:12455222"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="Q6mqAB"&gt;&lt;div data-anthem-component="productcard:11301812"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;&lt;li id="zZBBq4"&gt;The &lt;strong&gt;WH-1000XM4&lt;/strong&gt;, Sony’s last-gen flagship headphones, are on sale for $198 ($152 off) at &lt;a href="https://www.amazon.com/Sony-WH-1000XM4-Canceling-Headphones-phone-call/dp/B0863FR3S9?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt;. That’s not the shockingly low $130 they dropped to earlier this year, but it’s still a great price for a pair of cans that offer some of the best sound quality and noise cancellation performance around. They offer 30 hours of battery life, a foldable design, and flexible ambient audio modes, including a speak-to-chat feature that reduces volume while you’re talking. &lt;a href="https://www.theverge.com/21356313/sony-1000xm4-noise-canceling-headphones-review-price-specs-features"&gt;Read our review&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;
-&lt;div id="vJ1OhR"&gt;&lt;div data-anthem-component="productcard:11636778"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="SztaIu"&gt;&lt;div data-anthem-component="productcard:12016701"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="LQFm1D"&gt;&lt;div data-anthem-component="productcard:12493315"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;&lt;li id="3zRizS"&gt;You can also buy &lt;a href="https://www.theverge.com/2023/5/17/23725378/amazon-echo-buds-3-announced-features-price"&gt;&lt;strong&gt;Amazon’s newer Echo Buds&lt;/strong&gt;&lt;/a&gt; for just $24.99 ($25 off) at &lt;a href="https://www.amazon.com/All-new-Echo-Buds-2023-Release-True-Wireless-Earbuds/dp/B09JVG3TWX/?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt;. The wireless earbuds lack noise cancellation, but they support multipoint pairing and integrate well with Amazon Alexa for hands-free control. They also feature a semi-open design that makes it easier to hear your surroundings. &lt;/li&gt;&lt;/ul&gt;
-&lt;div id="A2jbPJ"&gt;
-&lt;div data-anthem-component="productcard:11729693"&gt;&lt;/div&gt;
-&lt;aside id="1DosVM"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"The best noise-canceling headphones to buy right now","url":"https://www.theverge.com/21345733/best-noise-canceling-headphones"},{"title":"The best wireless earbuds to buy right now","url":"https://www.theverge.com/21309820/best-wireless-earbuds"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;
-&lt;/div&gt;
-&lt;h2 id="YtrTwc"&gt;The best speaker and smart display deals&lt;/h2&gt;
-&lt;div id="ti63rC"&gt;&lt;div data-anthem-component="productcard:12491375"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="jaOZuE"&gt;&lt;div data-anthem-component="productcard:12446611"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="YozJkK"&gt;&lt;div data-anthem-component="productcard:11769105"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="HBh8Ev"&gt;&lt;div data-anthem-component="productcard:11958804"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;&lt;li id="UjW1Wd"&gt;If you want a smart alarm clock with a great display and zero mics / cameras, the latest &lt;strong&gt;Echo Spot &lt;/strong&gt;is on sale at &lt;a href="https://www.amazon.com/All-new-Amazon-Echo-Spot-2024-release-Smart-alarm-clock-with-vibrant-sound-Alexa-Black/dp/B0BFC7WQ6R/?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt;, &lt;a href="https://howl.link/wykopnofho90e?u1=vergebfsales2024"&gt;Best Buy&lt;/a&gt;, and &lt;a href="https://goto.target.com/c/482924/81938/2092?u=https%3A%2F%2Fwww.target.com%2Fp%2Famazon-echo-spot-smart-alarm-clock-with-vibrant-sound-and-alexa-2024-release%2F-%2FA-92765891&amp;amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"&gt;Target&lt;/a&gt; for $44.99 ($60 off), matching its lowest price to date. The 2.83-inch touchscreen can’t display videos or double as a digital photo frame, but it can tell you the weather when you wake up and allows you to control various smart home devices via Alexa. &lt;a href="https://www.theverge.com/24207052/amazon-alexa-echo-spot-review"&gt;Read our review&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;
-&lt;div id="cs3XUc"&gt;&lt;div data-anthem-component="productcard:12145555"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="ToCnTt"&gt;&lt;div data-anthem-component="productcard:12388363"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="t1dIx6"&gt;&lt;div data-anthem-component="productcard:12450146"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;&lt;li id="Wjs8SQ"&gt;The &lt;strong&gt;Echo Show 8 (third-gen)&lt;/strong&gt;, the latest version of Amazon’s midsize smart display, is down to $84.99 ($65 off) at &lt;a href="https://www.amazon.com/All-New-Echo-Show-8/dp/B0BLS3Y632/?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt;, &lt;a href="https://howl.link/qj8rnp6u9axz9?u1=vergebfsales2024"&gt;Best Buy&lt;/a&gt;, and &lt;a href="https://goto.target.com/c/482924/81938/2092?u=https%3A%2F%2Fwww.target.com%2Fp%2Famazon-echo-show-8-3rd-gen-2023-release-charcoal%2F-%2FA-90004555&amp;amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"&gt;Target&lt;/a&gt;. You can also buy it with an Amazon Basics Smart Color Bulb for $97.98 ($65 off) at Amazon in &lt;a href="https://www.amazon.com/Echo-Amazon-Basics-Smart-Color/dp/B0DGRLYNWZ/?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;black&lt;/a&gt;. The eight-inch device looks a lot like previous models, but it’s got widget support for added versatility, a more responsive touchscreen, and nice-sounding speakers. Just don’t expect to take any Zoom meetings on it, as only Alexa video calls are currently supported. &lt;a href="https://www.theverge.com/23945192/amazon-echo-show-8-alexa-smart-display-review"&gt;Read our review&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;
-&lt;div id="9lO6yj"&gt;&lt;div data-anthem-component="productcard:11964715"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="zWlZxV"&gt;&lt;div data-anthem-component="productcard:12495361"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;h2 id="4Jzp31"&gt;The best e-reader deals&lt;/h2&gt;
-&lt;div id="Zy3XyZ"&gt;&lt;div data-anthem-component="productcard:12444235"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="xCz0bi"&gt;&lt;div data-anthem-component="productcard:12492103"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="F9ebKm"&gt;&lt;div data-anthem-component="productcard:12493291"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;h2 id="OxRYkj"&gt;The best laptop and desktop deals&lt;/h2&gt;
-&lt;div id="58cT7P"&gt;&lt;div data-anthem-component="productcard:12337378"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="AHT64O"&gt;&lt;div data-anthem-component="productcard:12337375"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;&lt;li id="LoaGzQ"&gt;Microsoft’s base version of its &lt;a href="https://www.theverge.com/2024/6/25/24185462/microsoft-surface-laptop-7th-edition-review"&gt;&lt;strong&gt;13.8-inch Surface Laptop 7&lt;/strong&gt;&lt;/a&gt; is on sale for $899.99 ($300 off) at &lt;a href="https://howl.link/yxek6jgja7kzt"&gt;Best Buy&lt;/a&gt; with a Snapdragon X Plus processor, 16GB of RAM, and a 512GB SSD. The Arm-based laptop offers excellent MacBook Air-like battery life that easily lasts through a day of work. It performs well, though Windows on Arm does have some compatibility issues with some games and software — so be sure what you need to work is supported.&lt;/li&gt;&lt;/ul&gt;
-&lt;div id="8lojaZ"&gt;&lt;div data-anthem-component="productcard:12492270"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="j7xjs8"&gt;&lt;div data-anthem-component="productcard:12152562"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="vFh14j"&gt;&lt;div data-anthem-component="productcard:9505867"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;&lt;li id="AfBfwp"&gt;The &lt;strong&gt;MSI Stealth A16 AI Plus&lt;/strong&gt; is on sale at &lt;a href="https://howl.link/g316ai3y4fkdp"&gt;Best Buy&lt;/a&gt; with a new Ryzen AI 9 chip, an RTX 4070 GPU, 32GB of RAM, and a 1TB SSD for $1,699.99 ($300 off), matching its best price to date. The midtier Stealth is one of MSI’s bestselling gaming laptops, as it balances a whole lot of gaming performance without the eye-watering prices of higher-end models. The 16-inch laptop isn’t exactly small, but it’s thin enough to take places, and its QHD panel supports up to a speedy 240Hz refresh rate.&lt;/li&gt;&lt;/ul&gt;
-&lt;div id="INuLLc"&gt;
-&lt;div data-anthem-component="productcard:12103020"&gt;&lt;/div&gt;
-&lt;aside id="1v2wcd"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"The best laptops you can get","url":"https://www.theverge.com/21250695/best-laptops"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;
-&lt;/div&gt;
-&lt;h2 id="roLynT"&gt;The best robot vacuum / mop deals&lt;/h2&gt;
-&lt;div id="itZ70Z"&gt;&lt;div data-anthem-component="productcard:12396901"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="h2KXsd"&gt;&lt;div data-anthem-component="productcard:12374795"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li id="ef3AW6"&gt;The &lt;a href="https://www.theverge.com/2024/7/23/24203847/irobot-new-roomba-combo-10-max-robot-vacuum-matter-support"&gt;&lt;strong&gt;Roomba Combo 10 Max&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; &lt;/strong&gt;is down to a new all-time low of $979 ($420 off) at &lt;a href="https://www.amazon.com/gp/product/B0D9ZRH61T/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&amp;amp;psc=1&amp;amp;tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt;, or matching its all-time low of $999 ($400 off) at &lt;a href="https://howl.link/uiwh15rjkz9n3"&gt;Best Buy&lt;/a&gt; and &lt;a href="https://www.anrdoezrs.net/links/8532386/type/dlg/sid/verge/https://www.irobot.com/en_US/roomba-combo-10-max-robot-with-autowash-dock/X085020.html" rel="sponsored nofollow noopener" target="_blank"&gt;iRobot’s store&lt;/a&gt;. The new flagship model from iRobot has all the same features as the j9 Combo, plus a new dock that can clean and dry the robot’s mop, refill its water tank, and empty its bin.   &lt;/li&gt;
-&lt;li id="bDfNsJ"&gt;The&lt;strong&gt; iRobot Roomba Combo j7 Plus&lt;/strong&gt; is on sale starting around $679 ($320 off) at &lt;a href="https://www.amazon.com/gp/product/B0BCH3J9RD/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&amp;amp;psc=1&amp;amp;tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt; and $699 ($300 off) at &lt;a href="https://howl.link/q9nksu12drf2d?u1=vergebfsales2024"&gt;Best Buy&lt;/a&gt;, which is one of its better prices to date. The j7 Plus is similar to the Roomba Combo j9 Plus, as it offers AI obstacle avoidance and a mop that automatically lifts to keep your carpets dry. The main difference is that the Combo j9 Plus offers longer batter life and can refill its own mop tank; it also features a new dirt detection feature. &lt;a href="https://www.theverge.com/23489768/irobot-roomba-combo-j7-plus-robot-vacuum-mop-review"&gt;Read our review&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div id="SF5FAS"&gt;&lt;div data-anthem-component="productcard:12376304"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li id="YxlTUH"&gt;The &lt;strong&gt;Roborock Q8 Max &lt;/strong&gt;is on sale for $259.99 ($340 off) at &lt;a href="https://www.amazon.com/roborock-Q8-Max-Navigation-Multi-Level/dp/B0C7VBXHS8?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt; for Prime members, &lt;a href="https://goto.walmart.com/c/482924/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRoborock-Q8-Max-Robot-Vacuum-and-Mop-with-Obstacle-Avoidance-LiDAR-Navigation-5500Pa-Suction-Power-and-App-Control-White%2F5101658049&amp;amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"&gt;Walmart&lt;/a&gt;, and &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fus.roborock.com%2Fproducts%2Froborock-q8-max-robot-vacuum-and-mop&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F24311578%2Fbest-cyber-monday-deals-2024-tech-gadgets-gift-ideas" rel="sponsored nofollow noopener" target="_blank"&gt;Roborock’s store&lt;/a&gt;, which is a record low price. It offers better object avoidance and mopping than the Q5 Pro for its additional cost. The trade-off is a smaller dustbin that makes room for a bigger water tank for mopping. If you’re cleaning spills more frequently than your carpets need vacuuming, it may be worth the jump. You can also get the &lt;strong&gt;Q8 Max Plus&lt;/strong&gt; on sale for an all-time low $419.99 ($400 off) at &lt;a href="https://www.amazon.com/dp/B0C7VMFRDZ?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt;, &lt;a href="https://howl.link/zmu59zwaws4x2"&gt;Best Buy&lt;/a&gt;, and &lt;a href="https://goto.target.com/c/482924/81938/2092?u=https%3A%2F%2Fwww.target.com%2Fp%2Fq8-max-plus-robotic-vacuum-white%2F-%2FA-90291515&amp;amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"&gt;Target&lt;/a&gt;, which adds a self-emptying base to help save time between cleanings.&lt;/li&gt;
-&lt;li id="J0Hr2I"&gt;The &lt;strong&gt;Roborock Q Revo&lt;/strong&gt; is down to a new all-time low $539.99 ($360 off) at &lt;a href="https://www.amazon.com/roborock-Revo-Auto-Drying-Self-Refilling-Self-Emptying/dp/B0BVVSTJWS?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt; for Prime members. It’s not our favorite mid-range robot vacuum that doubles as a mopper as it lacks AI for obstacle avoidance, and there’s no heat-assisted drying. That said, it’s a solid alternative to the Eufy X10 Pro Omni mentioned above in case that deal goes away.&lt;/li&gt;
-&lt;li id="zLAkCc"&gt;Our pick for the &lt;a href="https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop#:~:text=again%20if%20needed.-,Best%20budget%20robot%20vacuum%20and%20mop,%E2%86%B4,-DreameBot%20D10%20Plus"&gt;best budget robot vacuum and mop&lt;/a&gt;, the &lt;strong&gt;Dreame D10 Plus&lt;/strong&gt;, is on sale at &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.dreametech.com%2Fproducts%2Fd10-plus-gen2-robot-vacuum&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F24311578%2Fbest-cyber-monday-deals-2024-tech-gadgets-gift-ideas" rel="sponsored nofollow noopener" target="_blank"&gt;Dreame’s online storefront&lt;/a&gt; for $279.99 ($120 off), which is $20 more than the all-time low. It’s a solid vacuum that can also mop and self-empty. The lidar-equipped bot can also map your home and lets you add keep-out zones, which is a rare feature at this price point.&lt;/li&gt;
-&lt;li id="fs8D0E"&gt;If you &lt;em&gt;really&lt;/em&gt; want to save money, the budget-friendly &lt;a href="https://www.theverge.com/2024/4/4/24120812/irobot-roomba-combo-essentials-robot-vacuum-price-release-date"&gt;&lt;strong&gt;Roomba Combo Essential vacuum and mop&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; &lt;/strong&gt;is on sale for $157 ($117 off) at &lt;a href="https://www.amazon.com/iRobot-Roomba-Robot-Vacuum-Combo/dp/B0CVJ3K8FF/?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt; and for $3 more &lt;a href="https://www.anrdoezrs.net/links/8532386/type/dlg/sid/verge/https://www.irobot.com/en_US/roomba-combo-essential-robot/Y014020.html" rel="sponsored nofollow noopener" target="_blank"&gt;directly from iRobot&lt;/a&gt;. The robovac / mop hybrid is the successor to the Roomba 694, with iRobot claiming it offers 20 times more suction power and longer battery life. Unlike pricier robovac / mop hybrids, however, there’s no option for an auto-empty dock.&lt;/li&gt;
-&lt;li id="uXcxUJ"&gt;The &lt;strong&gt;Shark Matrix Plus 2-in-1&lt;/strong&gt;, a previous pick for &lt;a href="https://www.theverge.com/22997597/best-robot-vacuum-cleaner#:~:text=The%20Shark%20Matrix,avoid%20larger%20objects."&gt;best midrange auto-empty vacuum and mop&lt;/a&gt;, is selling for $350 off at &lt;a href="https://www.amazon.com/Shark-Mopping-CleanEdge-Technology-RV2610WA/dp/B0B8B6N2G4?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt;, &lt;a href="https://howl.link/9i73mlso0nkyb"&gt;Best Buy&lt;/a&gt;, and &lt;a href="https://goto.target.com/c/482924/81938/2092?u=https%3A%2F%2Fwww.target.com%2Fp%2Fshark-matrix-plus-2in1-robot-vacuum-38-mop-with-sonic-mopping-matrix-clean-hepa-bagless-self-empty-rv2610wa%2F-%2FA-86794821&amp;amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"&gt;Target&lt;/a&gt; — down to $349.99. The Matrix mops very well, doing a swingy, scrubbing movement with its rear end, and it can auto empty, but it only self-empties in vacuum mode — you have to manually fill and attach the mop reservoir and empty the bin when it mops.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div&gt;&lt;aside id="xfP3cD"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"The best robot vacuums","url":"https://www.theverge.com/22997597/best-robot-vacuum-cleaner"},{"title":"The best budget robot vacuums","url":"https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
-&lt;h2 id="wp5eE3"&gt;The best smart home deals&lt;/h2&gt;
-&lt;div id="Vkjg5X"&gt;&lt;div data-anthem-component="productcard:12292711"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="RAH3Zx"&gt;&lt;div data-anthem-component="productcard:12436654"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;&lt;li id="obJIsZ"&gt;
-&lt;strong&gt;Govee’s Permanent Outdoor Lights 2&lt;/strong&gt; with 72 smart LEDs across 100 feet of wire is $199.99 ($100 off) direct from &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fus.govee.com%2Fproducts%2Fgovee-permanent-outdoor-lights-2&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F24311578%2Fbest-cyber-monday-deals-2024-tech-gadgets-gift-ideas" rel="sponsored nofollow noopener" target="_blank"&gt;Govee&lt;/a&gt;. The bright LEDs are meant to be permanently adhered and screwed into the eaves of your roof, creating a down-lighting effect that’s bright and colorful on the front of your home. You can use Govee’s app to customize the colors and light effects, easily changing up your home’s look for any holiday without trudging out into the cold every season to put up holiday string lights.&lt;/li&gt;&lt;/ul&gt;
-&lt;div id="XX82HN"&gt;&lt;div data-anthem-component="productcard:12350611"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li id="QXmhm8"&gt;The lovely &lt;strong&gt;Aqara Ceiling Light T1M&lt;/strong&gt; light fixture is $40 off at &lt;a href="https://www.amazon.com/Aqara-Requires-Gradient-2700-6500K-Supports/dp/B0CS2X8JMM?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt;, down to $109.99 from $149.99 when you apply the onpage coupon. You can add ambiance and function to a room with this dual addressable LED ceiling light. For easier control, pick up this Aqara smart switch for $28.79 ($7 off) at &lt;a href="https://www.amazon.com/Aqara-REQUIRES-Automation-Compatible-Assistant/dp/B081ZRND3K?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt;. An Aqara Zigbee hub is also required. &lt;a href="https://www.theverge.com/24108832/aqara-ceiling-light-t1m-versus-nanoleaf-skylight-smart-ceiling-light-showdown"&gt;Read our review&lt;/a&gt;.&lt;/li&gt;
-&lt;li id="EpNWrv"&gt;
-&lt;strong&gt;Govee’s Christmas String Lights 2 &lt;/strong&gt;are on sale in a 66-foot configuration for $63.99 ($36 off) at &lt;a href="https://www.amazon.com/Govee-Christmas-300LEDs-Mapping-Function/dp/B0D45BS8XH?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt; when clicking the onpage coupon, which is their best price yet. The smart string lights offer more than 130 preset lighting effects, though you can also create your own custom displays. The IP65-rated lights also work with Matter, so you can connect them to any major smart home platform.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div id="bNeB0h"&gt;&lt;div data-anthem-component="productcard:12493284"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="pPqwCR"&gt;&lt;div data-anthem-component="productcard:12493287"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="GL2P51"&gt;&lt;div data-anthem-component="productcard:12478730"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="ehzJnv"&gt;&lt;div data-anthem-component="productcard:12248219"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;h2 id="3AhY2x"&gt;The best smart security deals&lt;/h2&gt;
-&lt;ul&gt;&lt;li id="ArCa6D"&gt;
-&lt;a href="https://www.theverge.com/2024/10/15/24268054/arlo-wired-floodlight-camera-price-availability"&gt;&lt;strong&gt;Arlo’s new Wired Floodlight Camera&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; &lt;/strong&gt;is seeing its first sale at $99.99 ($50 off) at &lt;a href="https://homedepot.sjv.io/c/482924/456723/8154?u=https%3A%2F%2Fwww.homedepot.com%2Fp%2FArlo-Outdoor-Smart-Hardwired-Floodlight-2K-HDR-Security-Camera-with-160-Field-of-View-2-Way-Talk-Color-Night-Vision-White-FLW2001-100NAS%2F332354360&amp;amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"&gt;The Home Depot&lt;/a&gt;. &lt;a href="https://www.amazon.com/dp/B08HRVVMBY/ref=twister_B09DGKJJMG?_encoding=UTF8&amp;amp;psc=1&amp;amp;tag=theverge02-20&amp;amp;ascsubtag=__vg1127awD__22576026__dDBXLM________________https://www.theverge.com/2024/10/15/24268054/arlo-wire" rel="sponsored nofollow noopener" target="_blank"&gt;Arlo’s battery-powered Arlo Pro 3 Floodlight Cam&lt;/a&gt; is one of our top picks for a floodlight camera, and the wired version means no more worrying about recharging it. However, Arlo’s monthly subscription plan for recorded video is expensive, starting at $8 a month. &lt;/li&gt;&lt;/ul&gt;
-&lt;div id="F0WX2O"&gt;&lt;div data-anthem-component="productcard:12492276"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="GZOEcC"&gt;&lt;div data-anthem-component="productcard:10901148"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;&lt;li id="vUl8mt"&gt;Our &lt;a href="https://www.theverge.com/22954554/best-video-doorbell-camera"&gt;favorite video doorbell&lt;/a&gt;, the wired &lt;strong&gt;Nest Doorbell&lt;/strong&gt;, is around $98 ($81 off) at &lt;a href="https://www.amazon.com/Google-Nest-Doorbell-Wired-2nd/dp/B0BBSLG6PC?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt;, &lt;a href="https://howl.link/o74ih96pphrsd?u1=vergebfsales2024"&gt;Best Buy&lt;/a&gt;, and the &lt;a href="https://www.anrdoezrs.net/links/8532386/type/dlg/sid/verge/https://store.google.com/us/config/nest_doorbell" rel="sponsored nofollow noopener" target="_blank"&gt;Google Store&lt;/a&gt;, which is by far the lowest price we’ve seen. It may not offer 1080p resolution like other video doorbells in its range (it’s limited to 960 x 1280), but it still produces a clear picture and is one of the few options that can manage 24/7 recording. It also supports facial recognition with smart alerts. &lt;a href="https://www.theverge.com/23404602/google-nest-doorbell-wired-review-hello"&gt;Read our review&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;
-&lt;div id="TnENI0"&gt;
-&lt;div data-anthem-component="productcard:11554998"&gt;&lt;/div&gt;
-&lt;aside id="d7MM3U"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"The best doorbell cameras","url":"https://www.theverge.com/22954554/best-video-doorbell-camera"},{"title":"The best smart locks you can buy right now","url":"https://www.theverge.com/23393163/best-smart-door-lock"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;
-&lt;/div&gt;
-&lt;h2 id="nV5K2f"&gt;The best fitness tracker and smartwatch deals&lt;/h2&gt;
-&lt;div id="mrEOeD"&gt;&lt;div data-anthem-component="productcard:12495837"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li id="hNgpzH"&gt;The &lt;strong&gt;Fitbit Inspire 3 &lt;/strong&gt;is available from &lt;a href="https://www.amazon.com/Fitbit-Management-Intensity-Tracking-Midnight/dp/B0B5FCYMFD/?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt;, &lt;a href="https://howl.link/aukrajb50y6m9?u1=vergebfsales2024"&gt;Best Buy&lt;/a&gt;, and the &lt;a href="https://www.anrdoezrs.net/links/8532386/type/dlg/sid/verge/https://store.google.com/config/fitbit_inspire_3" rel="sponsored nofollow noopener" target="_blank"&gt;Google Store&lt;/a&gt; for $69.95 ($30 off), matching its all-time low. The minimalist band lacks built-in GPS and doesn’t offer as many health and fitness features as the Charge 6, but it packs a bright OLED display and does a good job with the basics. It supports both irregular heart rate notifications and advanced sleep tracking, along with several stress management features. &lt;a href="https://www.theverge.com/2022/9/13/23349403/fitbit-inspire-3-hands-on-fitness-tracker-wearables"&gt;Read our hands-on impressions&lt;/a&gt;.&lt;/li&gt;
-&lt;li id="3172Ft"&gt;The &lt;a href="https://www.theverge.com/2024/5/29/24166168/fitbit-ace-lte-kids-smartwatch-wearables"&gt;&lt;strong&gt;Fitbit Ace LTE&lt;/strong&gt;&lt;/a&gt; is down to $179.95 ($50 off) at &lt;a href="https://www.amazon.com/Fitbit-Google-Ace-LTE-Activity-Based/dp/B0CV5T2YG6?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt;, &lt;a href="https://howl.link/biycn5473st0s?u1=vergebfsales2024"&gt;Best Buy&lt;/a&gt;, and &lt;a href="https://www.anrdoezrs.net/links/8532386/type/dlg/sid/verge/https://store.google.com/config/fitbit_ace_lte" rel="sponsored nofollow noopener" target="_blank"&gt;Google’s online storefront&lt;/a&gt;. Designed for kids, its bubbly design is a bit more playful than most Fitbits. You can play games on it and even take care of a Tamagotchi-like pet, and the tracker periodically pauses the fun until your child has gotten more steps in. Parents can also use it to exchange messages with their children and monitor their real-time location, assuming they opt for the $9.99-a-month Ace Pass data plan.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div id="6qp9M0"&gt;&lt;div data-anthem-component="productcard:12478696"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;&lt;li id="z5SyTc"&gt;If you’re looking for &lt;a href="https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables"&gt;a terrific Fitbit alternative&lt;/a&gt;, the &lt;strong&gt;Garmin Venu Sq 2&lt;/strong&gt; is a great pick that’s $149.99 ($100 off) at &lt;a href="https://www.amazon.com/Garmin-Smartwatch-All-Day-Monitoring-Long-Lasting/dp/B0B5VVNJBF/?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt;, &lt;a href="https://goto.walmart.com/c/482924/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FVenu-Sq-2-Slate-Aluminum-Bezel-with-Shadow-Gray-Case-and-Silicone-Band%2F1789129128%2F&amp;amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"&gt;Walmart&lt;/a&gt;, and &lt;a href="https://www.anrdoezrs.net/links/8532386/type/dlg/sid/verge/https://www.garmin.com/en-US/p/801643" rel="sponsored nofollow noopener" target="_blank"&gt;Garmin’s online storefront&lt;/a&gt;. It’s a shame it lacks built-in GPS, but it does offer a lot of health features not found on rivals like the &lt;a href="https://www.theverge.com/23392564/fitbit-sense-2-review-google-fitness-tracker"&gt;Fitbit Sense 2&lt;/a&gt; and &lt;a href="https://www.theverge.com/2022/8/24/23318381/fitbit-versa-4-sense-2-inspire-3-price-features"&gt;Versa 4&lt;/a&gt;, including hydration tracking and access to Garmin Coach, which provides marathon training plans. These features aren’t locked behind a paywall, either, making the wearable an even better deal. &lt;a href="https://www.theverge.com/23500640/garmin-venu-sq-2-review-smartwatch-fitness-tracker"&gt;Read our review&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;
-&lt;div id="6urztm"&gt;&lt;div data-anthem-component="productcard:11102690"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="0Gl1C8"&gt;
-&lt;div data-anthem-component="productcard:11904583"&gt;&lt;/div&gt;
-&lt;aside id="by9ULA"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"The best fitness trackers to buy right now","url":"https://www.theverge.com/22985108/best-fitness-tracker"},{"title":"The best smartwatches for Android","url":"https://www.theverge.com/23449363/best-android-smartwatches-wear-os"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;
-&lt;/div&gt;
-&lt;h2 id="5NWmLD"&gt;The best TV, streaming device, and soundbar deals&lt;/h2&gt;
-&lt;div id="h1VkCB"&gt;&lt;div data-anthem-component="productcard:11284196"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;&lt;li id="gZ8mXc"&gt;The &lt;strong&gt;LG B4 OLED&lt;/strong&gt; is another solid gaming TV, and you can get a 48-inch model for $699.99 ($100 off) at &lt;a href="https://howl.link/y4oql63w001oh?u1=vergebfsales2024"&gt;Best Buy&lt;/a&gt; or a &lt;a href="https://howl.link/hqd9v98mg0c69?u1=vergebfsales2024"&gt;55-inch model for $999.99&lt;/a&gt; ($300 off). It has an older processor and a dimmer screen than the costlier “Evo” models, but it’s a fine option if you’re looking for a relatively affordable way to experience 4K 120Hz gaming on an OLED panel.&lt;/li&gt;&lt;/ul&gt;
-&lt;div id="pTKzpP"&gt;&lt;div data-anthem-component="productcard:12496352"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="plBld7"&gt;&lt;div data-anthem-component="productcard:12477804"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="MwilMh"&gt;&lt;div data-anthem-component="productcard:12471141"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="d2loGp"&gt;&lt;div data-anthem-component="productcard:12041247"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;&lt;li id="25199b"&gt;Whether you’re outfitting a bathroom or need some sensory stimulation for a newborn’s nursery, there’s still a bit of room in the world for 32-inch, 720p TVs like the &lt;strong&gt;Insignia F20&lt;/strong&gt; —which is on sale for only $79.99 ($50 off) at &lt;a href="https://howl.link/8wiog2bj54b0s"&gt;Best Buy&lt;/a&gt;. You won’t get many tricks, but it has HDMI Arc and it’s a Fire TV, meaning you have the convenience of voice-activated content discovery across hundreds of apps via the included Alexa Voice Remote.&lt;/li&gt;&lt;/ul&gt;
-&lt;div id="feyWKP"&gt;&lt;div data-anthem-component="productcard:12494022"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="wVBa2t"&gt;&lt;div data-anthem-component="productcard:12343487"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;h2 id="Jf3Rdu"&gt;The best streaming deals&lt;/h2&gt;
-&lt;div id="VRZtOO"&gt;&lt;div data-anthem-component="productcard:12435177"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="Lyiu99"&gt;
-&lt;div data-anthem-component="productcard:10989551"&gt;&lt;/div&gt;
-&lt;aside id="kXHpSF"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"The best entertainment of 2024","url":"https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;
-&lt;/div&gt;
-&lt;h2 id="5qCpGj"&gt;The best smartphone and mobile accessory deals&lt;/h2&gt;
-&lt;div id="QkflFT"&gt;&lt;div data-anthem-component="productcard:12378395"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="YJU84e"&gt;&lt;div data-anthem-component="productcard:12491303"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="FmbgsI"&gt;&lt;div data-anthem-component="productcard:12224583"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;&lt;li id="F9RaYA"&gt;
-&lt;a href="https://www.theverge.com/21420196/best-budget-smartphone-cheap#:~:text=The%20best%20cheap%20phone%20for%20a%20long%2Dterm%20relationship"&gt;&lt;strong&gt;The Samsung Galaxy A35 5G&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; &lt;/strong&gt;is matching its all-time low of $299.99 ($100 off) at &lt;a href="https://howl.link/alj0d6c83v7dd"&gt;Samsung’s online storefront&lt;/a&gt;. It comes with a robust IP67 rating for dust and water resistance, meaning it should survive a brief swim in a puddle or... you know. Coupled with a strong software support policy with five years of promised security updates, it’s a great deal in the under-$500 class.&lt;/li&gt;&lt;/ul&gt;
-&lt;div id="c9e5vo"&gt;&lt;div data-anthem-component="productcard:12481377"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="XPLoDx"&gt;
-&lt;div data-anthem-component="productcard:11932632" data-anthem-component-data='{"layout":"full_with_square_img"}'&gt;&lt;/div&gt;
-&lt;aside id="8C1JBt"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"The best phone to buy right now","url":"https://www.theverge.com/22163811/best-phone"},{"title":"The best MagSafe and Qi2 chargers for your iPhone","url":"https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;
-&lt;/div&gt;
-&lt;h2 id="VTfUuT"&gt;The best charger deals&lt;/h2&gt;
-&lt;div id="SjDwoC"&gt;&lt;div data-anthem-component="productcard:12437079"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="AuRtdu"&gt;&lt;div data-anthem-component="productcard:12437142"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="GmOmcz"&gt;&lt;div data-anthem-component="productcard:12494369"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li id="EwnRdS"&gt;If you’re not ready to pony up for a &lt;a href="https://www.theverge.com/2024/1/9/24022384/satechi-wireless-charging-stand-qi2-15w-price-ces-2024"&gt;Qi2 charger&lt;/a&gt;, &lt;strong&gt;Ugreen’s Magnetic Wireless Charging Station &lt;/strong&gt;is just $3 more than the all-time low, now down to $26.99 ($13 off) at &lt;a href="https://www.amazon.com/dp/B0B9X1RY8G/?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt; for Prime members. Unlike the newer Qi2 offerings that provide 15W charging speeds, Ugreen’s charger can only supply 7.5W of power to MagSafe-compatible devices, or 5W to a pair of wireless earbuds or any Qi-ready device if you’re using the integrated charging stand located on the bottom.&lt;/li&gt;
-&lt;li id="1ffLAp"&gt;If transparent electronics are your thing,&lt;strong&gt; &lt;/strong&gt;you can pick up the &lt;strong&gt;Shargeek 170 Power Bank &lt;/strong&gt;at &lt;a href="https://www.amazon.com/sharge-SHARGEEK-Portable-Waterproof-Compatible/dp/B0D2VWVPRX?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt; and directly from Sharge for $159 ($20 off). The handsome prism-shaped charger features a 24,000mAh capacity and a maximum output of 170 watts, allowing you to fast-charge most everything you own. It even offers a color display so you can see the remaining battery life, output, and other helpful info at a glance.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div id="jC7YqY"&gt;&lt;div data-anthem-component="productcard:12485042"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="ops33M"&gt;&lt;div data-anthem-component="productcard:12091747"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;h2 id="s770LO"&gt;The best gaming deals&lt;/h2&gt;
-&lt;div id="SESYfQ"&gt;&lt;div data-anthem-component="productcard:12478372"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="AFA5oP"&gt;&lt;div data-anthem-component="productcard:10361276"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="Ofg98a"&gt;&lt;div data-anthem-component="productcard:12496224"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li id="s_aCxhn"&gt;The&lt;strong&gt; Hori Split Pad Pro&lt;/strong&gt;, &lt;a href="https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad"&gt;our favorite Nintendo Switch controller for handheld mode&lt;/a&gt;, is on sale for $38.99 ($11 off) at &lt;a href="https://goto.walmart.com/c/482924/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHORI-Nintendo-Switch-Split-Pad-Pro-Ergonomic-Controller-for-Handheld-Mode-Officially-Licensed-By-Nintendo-Black%2F539959895&amp;amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"&gt;Walmart&lt;/a&gt; and &lt;a href="https://goto.target.com/c/482924/81938/2092?u=https%3A%2F%2Fwww.target.com%2Fp%2Fnintendo-switch-split-pad-pro-black%2F-%2FA-80110543&amp;amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"&gt;Target&lt;/a&gt;. The comfortable Joy-Con alternative is outfitted with large triggers, analog sticks, and a set of easy-to-reach buttons, along with more than enough grip that it shouldn’t pose any problems over long gaming sessions.&lt;/li&gt;
-&lt;li id="mHC31F"&gt;If you have a wireless mouse that supports it, &lt;strong&gt;Logitech’s G PowerPlay Wireless Charging System&lt;/strong&gt; is on sale at &lt;a href="https://www.amazon.com/dp/B071WZ56G9?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt; for an all-time low of $86.62, down from $119.99. Mice like the &lt;a href="https://www.theverge.com/2022/8/30/23328970/logitech-g502-x-lightspeed-plus-gaming-mouse-mice-optical-buttons-usb-c"&gt;G502 X Lightspeed&lt;/a&gt; support the wireless charging pad, as does the &lt;a href="https://www.theverge.com/2023/9/5/23043644/logitech-g-pro-x-superlight-2-gaming-mouse-price-release-date-specs"&gt;Logitech G Pro X Superlight 2&lt;/a&gt;, both of which will grant you infinite playtime without a single second of tethering.&lt;/li&gt;
-&lt;li id="SUBCaJ"&gt;The &lt;strong&gt;Logitech G203 Lightsync &lt;/strong&gt;is&lt;strong&gt; &lt;/strong&gt;&lt;a href="https://www.amazon.com/Logitech-LIGHTSYNC-Wired-Gaming-Mouse/dp/B07YN82X3B?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;on sale at Amazon&lt;/a&gt; for an all-time low of $18.99 ($21 off) or at &lt;a href="https://howl.me/ckWRzhdLRET"&gt;Best Buy&lt;/a&gt; and &lt;a href="https://click.linksynergy.com/deeplink?id=nOD%2FrLJHOac&amp;amp;mid=44583&amp;amp;u1=verge&amp;amp;murl=https%3A%2F%2Fwww.newegg.com%2Flogitech-910-005790-g203-lightsync-usb-wired%2Fp%2FN82E16826197390%2F" rel="sponsored nofollow noopener" target="_blank"&gt;Newegg&lt;/a&gt; for $19.99. The no-frills gaming mouse offers two side-mounted thumb buttons, an accurate sensor, and a scroll wheel for less than $20, along with some tasteful LEDs around the palm that don’t scream “gamer” the way most RGB accessories do.&lt;/li&gt;
-&lt;li id="AmMlzB"&gt;Microsoft’s official&lt;strong&gt; Xbox Wireless Controller&lt;/strong&gt; is on sale at &lt;a href="https://goto.target.com/c/482924/81938/2092?u=https%3A%2F%2Fwww.target.com%2Fp%2Fxbox-series-x-s-wireless-controller-robot-white%2F-%2FA-80744785&amp;amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"&gt;Target&lt;/a&gt; in a variety of colors starting at $39.99 ($20 off). You can save on the special edition models, including the translucent ghost cipher and blue cipher models, which start at $45 (about $25 off) at &lt;a href="https://goto.target.com/c/482924/81938/2092?u=https%3A%2F%2Fwww.target.com%2Fp%2Fxbox-controller-ghost-cipher-special-edition%2F-%2FA-92751007&amp;amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"&gt;Target&lt;/a&gt;. They’re compatible with the Xbox One and Series X / S, too, or with Windows PCs and mobile devices using Bluetooth or USB-C.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div id="i1nqKC"&gt;&lt;div data-anthem-component="productcard:12485000"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;&lt;li id="JrVOfg"&gt;If you enjoyed HBO’s fantastic adaptation of &lt;em&gt;The Last of Us&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;The Last of Us Part I&lt;/strong&gt;&lt;/em&gt;&lt;em&gt; &lt;/em&gt;is on sale for the PlayStation 5 at &lt;a href="https://howl.link/skdadwdh5ou6a?u1=vergebfsales2024"&gt;Best Buy&lt;/a&gt;, &lt;a href="https://goto.target.com/c/482924/81938/2092?u=https%3A%2F%2Fwww.target.com%2Fp%2Fthe-last-of-us-part-1-playstation-5%2F-%2FA-86967685&amp;amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"&gt;Target&lt;/a&gt;, and &lt;a href="https://click.linksynergy.com/deeplink?id=nOD%2FrLJHOac&amp;amp;mid=24348&amp;amp;u1=verge&amp;amp;murl=https%3A%2F%2Fwww.gamestop.com%2Fvideo-games%2Fproducts%2Fthe-last-of-us-part-1---playstation-5%2F344866.html" rel="sponsored nofollow noopener" target="_blank"&gt;GameStop&lt;/a&gt; starting at $29.99 ($40 off), an all-time low. It’s a remarkable remake of the classic title from 2013, with faster load times, better visuals, and other welcome tweaks. &lt;a href="https://www.theverge.com/23329531/the-last-of-us-part-1-review-ps5-remake"&gt;Read our review&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;
-&lt;div id="75NBJ2"&gt;&lt;div data-anthem-component="productcard:12489091"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="mSg9w4"&gt;&lt;div data-anthem-component="productcard:11857266"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;&lt;li id="exuFAk"&gt;
-&lt;a href="https://www.theverge.com/2023/12/19/24007570/insomniac-games-hack-wolverine-x-men-ryhsida"&gt;Insomniac’s &lt;em&gt;Wolverine&lt;/em&gt;&lt;/a&gt; could be years away; however, if you have yet to play the&lt;em&gt; &lt;/em&gt;studio’s &lt;em&gt;other &lt;/em&gt;superhero title, &lt;em&gt;&lt;strong&gt;Marvel’s Spider-Man 2&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt; &lt;/strong&gt;has fallen to a new low of $39.99 ($30 off) at &lt;a href="https://click.linksynergy.com/deeplink?id=nOD%2FrLJHOac&amp;amp;mid=24348&amp;amp;u1=verge&amp;amp;murl=https%3A%2F%2Fwww.gamestop.com%2Fvideo-games%2Fplaystation-5%2Fproducts%2Fmarvels-spider-man-2---playstation-5%2F394826.html" rel="sponsored nofollow noopener" target="_blank"&gt;GameStop&lt;/a&gt;. It’s a terrific sequel to the 2018 open-world title, with new mechanics, more baddies, and the ability to play as two — count ‘em, two — spider-men. &lt;a href="https://www.theverge.com/23915605/spider-man-2-review-ps5"&gt;Read our review&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;
-&lt;div id="4ofhNJ"&gt;&lt;div data-anthem-component="productcard:12490132"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="bN5aiN"&gt;&lt;div data-anthem-component="productcard:12213220"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;&lt;li id="6GmlfC"&gt;The PS5 version of &lt;em&gt;&lt;strong&gt;Gran Turismo 7&lt;/strong&gt;&lt;/em&gt; has dropped to $29.99 ($40 off) at &lt;a href="https://howl.link/9yf1pdiwo8dt1"&gt;Best Buy&lt;/a&gt;, nearly matching its best price to date. The sim racer has elegance and reverential regard for racing culture. It features hundreds of cars that you can deeply customize with fully tunable vehicles and unique liveries. You can also &lt;a href="https://www.theverge.com/23609901/gran-turismo-7-psvr-2-hands-on"&gt;race in virtual reality with a PlayStation VR2 headset&lt;/a&gt;. &lt;a href="https://www.theverge.com/22958005/gran-turismo-7-review-ps5-ps4"&gt;Read our review&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;
-&lt;div id="32o1OU"&gt;&lt;div data-anthem-component="productcard:12103973"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="KSo4Eq"&gt;&lt;div data-anthem-component="productcard:12091500"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="DYqqnT"&gt;&lt;div data-anthem-component="productcard:12051479"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="Xi5aS7"&gt;
-&lt;div data-anthem-component="productcard:12478340"&gt;&lt;/div&gt;
-&lt;aside id="GfvbqD"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"The best Nintendo Switch controllers to buy right now","url":"https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad"},{"title":"The best Xbox controller to buy right now","url":"https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;
-&lt;/div&gt;
-&lt;h2 id="xOYy86"&gt;The best location tracker deals&lt;/h2&gt;
-&lt;div id="hmVngb"&gt;&lt;div data-anthem-component="productcard:12491055"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li id="iATfjb"&gt;The &lt;a href="https://www.theverge.com/2024/9/16/24246495/tile-2024-life360-sos-alerts-button"&gt;&lt;strong&gt;2024&lt;/strong&gt; &lt;strong&gt;Tile Mate&lt;/strong&gt;&lt;/a&gt; is available for an all-time low from &lt;a href="https://www.amazon.com/Tile-Life360-Bluetooth-Tracker-Compatible/dp/B0D63657GY/?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt; and &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.tile.com%2Fproduct%2Fwhite-mate&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F24311578%2Fbest-cyber-monday-deals-2024-tech-gadgets-gift-ideas" rel="sponsored nofollow noopener" target="_blank"&gt;Tile&lt;/a&gt;, where you can grab it starting at $19.98 ($5 off). The platform-agnostic Bluetooth tracker helps you keep track of your personal belongings from up to 350 feet away, which is 100 feet wider than its predecessor’s range. It also now can send SOS alerts to your loved ones and even emergency services if you pay for the $14.99-a-month Life360 Gold subscription. &lt;/li&gt;
-&lt;li id="FHO2Dp"&gt;
-&lt;a href="https://www.theverge.com/2024/10/25/24279416/eufys-wallet-tracker-is-now-rechargeable"&gt;&lt;strong&gt;Eufy’s new SmartTrack Card E30&lt;/strong&gt;&lt;/a&gt; is on sale for $23.99 ($11 off) at &lt;a href="https://www.amazon.com/eufy-SmartTrack-Rechargeable-Bluetooth-Resistant/dp/B0DDL6D7L8?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt; for Prime members only, and directly from &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.eufy.com%2Fproducts%2Ft87b1011%3Fvariant%3D44317187539130&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F24311578%2Fbest-cyber-monday-deals-2024-tech-gadgets-gift-ideas" rel="sponsored nofollow noopener" target="_blank"&gt;Eufy&lt;/a&gt; (with promo code &lt;strong&gt;WS24T87B1&lt;/strong&gt;). Unlike its predecessor, the Eufy Security SmartTrack Card, Eufy’s latest tracker is rechargeable and should last you up to a year before you need to charge it again. It also sports a slim design — which makes it ideal for a wallet — and compatibility with Apple’s vast Find My network. &lt;/li&gt;
-&lt;/ul&gt;
-&lt;div&gt;&lt;aside id="iiY9AL"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"The best Bluetooth trackers for finding your stuff","url":"https://www.theverge.com/23769840/best-bluetooth-trackers"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
-&lt;h2 id="B6QgES"&gt;The best Cyber Monday deals on Verge favorites&lt;/h2&gt;
-&lt;div id="girN3b"&gt;&lt;div data-anthem-component="productcard:12340781"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li id="CVTIEO"&gt;If you’re the crafty type, you can get the &lt;strong&gt;Cricut Explore 3&lt;/strong&gt; for $199 ($100 off) at &lt;a href="https://goto.target.com/c/482924/81938/2092?u=https%3A%2F%2Fwww.target.com%2Fp%2Fcricut-explore-3%2F-%2FA-80932647&amp;amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"&gt;Target&lt;/a&gt; and direct from &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fcricut.com%2Fen-us%2Fcutting-machines%2Fcricut-explore%2Fcricut-explore-3%2Fcricut-explore-3%2F2008337.html&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F24311578%2Fbest-cyber-monday-deals-2024-tech-gadgets-gift-ideas" rel="sponsored nofollow noopener" target="_blank"&gt;Cricut&lt;/a&gt;. The printer-like automated cutting machine can create stickers and decals, make precision cuts on various materials, and even print out digitally-created artwork by drawing it out for you with an actual pen or marker.&lt;/li&gt;
-&lt;li id="LWB53N"&gt;The &lt;strong&gt;Fnirsi USB Fast Charge Tester&lt;/strong&gt; is on sale for $38.99 ($50 off) directly from &lt;a href="https://www.fnirsi.com/products/fnb58?variant=44641902067930"&gt;Fnirsi&lt;/a&gt;. The small device is an easy and effective way to test the charging rates of your various USB cables and power adapters. It’s especially handy when you want to ensure a gadget is getting the adequate power it needs.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div id="Wf0YcL"&gt;&lt;div data-anthem-component="productcard:12496491"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li id="NvriAV"&gt;A number of other Ember smart mugs are also on sale right now — including the 12-ounce &lt;strong&gt;Travel Mug 2 Plus&lt;/strong&gt;, which you can buy &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fember.com%2Fproducts%2Fember-travel-mug-2&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F24311578%2Fbest-cyber-monday-deals-2024-tech-gadgets-gift-ideas" rel="sponsored nofollow noopener" target="_blank"&gt;from Ember&lt;/a&gt; for $139.96 ($60 off) when you apply promo code &lt;strong&gt;BLACKFRIDAY24&lt;/strong&gt;. Unlike the Mug 2, the Travel Mug 2 Plus supports Apple’s Find My network, so you can keep tabs on it using an iPhone or Mac. It also comes with onboard controls and LED status lights.&lt;/li&gt;
-&lt;li id="wRNnok"&gt;
-&lt;strong&gt;Logitech’s Litra Glow&lt;/strong&gt; is currently on sale at &lt;a href="https://www.amazon.com/Logitech-Streaming-TrueSoft-adjustable-brightness/dp/B097QZGRCQ?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt; for $49.99 ($10 off). The compact LED light has controllable brightness and a simple foot for mounting atop a laptop or monitor, making it a solid option for Twitch streamers, YouTubers, and other content creators.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div id="LKNOgz"&gt;&lt;div data-anthem-component="productcard:12493293"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="dwmKxG"&gt;&lt;div data-anthem-component="productcard:12493330"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="xvTVn7"&gt;&lt;div data-anthem-component="productcard:11177075"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="Z2QSb7"&gt;&lt;div data-anthem-component="productcard:11860277"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="HpBaQ3"&gt;&lt;div data-anthem-component="productcard:11546171"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;&lt;li id="ygM8IG"&gt; The&lt;strong&gt; EcoFlow Wave 2&lt;/strong&gt; is a heat pump that is uniquely powered by both a battery and solar power, one that’s available for $749 ($250 off) at &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.wellbots.com%2Fproducts%2Fecoflow-wave-2-portable-air-conditioner&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F24311578%2Fbest-cyber-monday-deals-2024-tech-gadgets-gift-ideas" rel="sponsored nofollow noopener" target="_blank"&gt;Wellbots&lt;/a&gt; or for $799 ($200 off) at &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.ecoflow.com%2Fus%2Fwave-2-portable-air-conditioner&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F24311578%2Fbest-cyber-monday-deals-2024-tech-gadgets-gift-ideas" rel="sponsored nofollow noopener" target="_blank"&gt;Ecoflow’s website&lt;/a&gt; and &lt;a href="https://www.amazon.com/EF-ECOFLOW-WAVE-Conditioner-Conditioning/dp/B0BZJ6S64B/?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt; (with a coupon). The highly portable device combines an air conditioner and heater, and while it struggles with more extreme climates, it does a particularly good job of cooling and heating small spaces in temperate ones. &lt;a href="https://www.theverge.com/24220892/ecoflow-wave-2-long-term-review-specs-price"&gt;Read our review&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;
-&lt;div id="m7ks26"&gt;&lt;div data-anthem-component="productcard:12447716"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li id="2dqibK"&gt;If you’re looking for a more nefarious Lego set, the &lt;strong&gt;834-piece replica of Darth Vader’s helmet&lt;/strong&gt; is &lt;a href="https://goto.walmart.com/c/482924/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLEGO-Star-Wars-Darth-Vader-Helmet-Set-Mask-Model-Kit-for-Adults-to-Build-and-Display-Collectible-Star-Wars-Home-D-cor-Graduation-Gift-Idea-75304%2F709252240%2F&amp;amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"&gt;on sale at Walmart&lt;/a&gt; for $48.98 (about $31 off). That’s the lowest price we’ve seen on the collectible bust, which features a brick-ified life-support system on the inside and a display stand for showcasing the iconic helmet in all its sith-y glory.&lt;/li&gt;
-&lt;li id="fppDp6"&gt;Grovemade makes some truly excellent desk accessories, many of which use metal, wood, and felt for a more premium touch. They’re definitely pricey, but thankfully, &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fgrovemade.com%2Fholiday-sale-2024%2F&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F24311578%2Fbest-cyber-monday-deals-2024-tech-gadgets-gift-ideas" rel="sponsored nofollow noopener" target="_blank"&gt;&lt;strong&gt;Grovemade is running a holiday sale&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; &lt;/strong&gt;until December 4th, allowing you to save on &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fgrovemade.com%2Fproduct%2Fmatte-plywood-desk-shelf%2F%3Finitial%3D821&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F24311578%2Fbest-cyber-monday-deals-2024-tech-gadgets-gift-ideas" rel="sponsored nofollow noopener" target="_blank"&gt;shelving&lt;/a&gt;, &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fgrovemade.com%2Fproduct%2Fwood-succulent-planter%2F%3Finitial%3D82&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F24311578%2Fbest-cyber-monday-deals-2024-tech-gadgets-gift-ideas" rel="sponsored nofollow noopener" target="_blank"&gt;succulent planters&lt;/a&gt;, and other gear. Some of us at &lt;em&gt;The Verge&lt;/em&gt; personally use the &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fgrovemade.com%2Fproduct%2Fwood-laptop-stand%2F%3Finitial%3D136&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F24311578%2Fbest-cyber-monday-deals-2024-tech-gadgets-gift-ideas" rel="sponsored nofollow noopener" target="_blank"&gt;Wood Laptop Stand&lt;/a&gt; (now $160), which can elevate the look of any workstation.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div id="0l7hBz"&gt;&lt;div data-anthem-component="productcard:12343294"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="tctuNj"&gt;&lt;div data-anthem-component="productcard:12094859"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="qhxFAZ"&gt;&lt;div data-anthem-component="productcard:12016818"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li id="9lNMx6"&gt;
-&lt;strong&gt;Azul&lt;/strong&gt;, a four-player puzzle game that challenges you to tile mosaics in a palace, is down to $19.99 (50 percent off) at &lt;a href="https://www.amazon.com/Strategy-Placement-Players-Average-Playtime/dp/B077MZ2MPW?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt;, which isn’t far from the all-time low. It’s easy to learn and suitable for ages eight and older, but it has just the right amount of depth and competitiveness to keep family and friends coming back for more.&lt;/li&gt;
-&lt;li id="ycKnQg"&gt;
-&lt;strong&gt;Ticket to Ride&lt;/strong&gt; is another classic board game that’s on sale for $25 ($19 off) at &lt;a href="https://goto.target.com/c/482924/81938/2092?u=https%3A%2F%2Fwww.target.com%2Fp%2Fticket-to-ride-board-game%2F-%2FA-14204015&amp;amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"&gt;Target&lt;/a&gt;. That’s one of the better prices lately on a cutthroat card game, which challenges you to build the longest locomotive route across classic America before your other tycoon opponents.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div id="WVuDDW"&gt;&lt;div data-anthem-component="productcard:12368529"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="42Tr91"&gt;&lt;div data-anthem-component="productcard:10619476"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="PqOPcF"&gt;&lt;div data-anthem-component="productcard:11860619"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li id="6w4Cc7"&gt;
-&lt;strong&gt;Happy Salmon&lt;/strong&gt; is on sale for just $6.49 (about $6 off) at &lt;a href="https://goto.target.com/c/482924/81938/2092?u=https%3A%2F%2Fwww.target.com%2Fp%2Fhappy-salmon-game-by-exploding-kittens%2F-%2FA-82721417%3Fpreselect%3D82721417&amp;amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"&gt;Target&lt;/a&gt;. It’s one of the best icebreakers at social gatherings, for both adults and parents alike, and it takes just minutes to learn and play this card game. Up to eight players can get in on the action, which gets you out of your seats and has you doing fun stuff like giving each other high-fives and “fish bumps.”&lt;/li&gt;
-&lt;li id="MCIkqZ"&gt;Wildfire season might be behind us (for now), but you can still pick up the &lt;strong&gt;Coway Airmega AP-1512HH Mighty &lt;/strong&gt;from &lt;a href="https://www.amazon.com/Coway-AP-1512HH-Mighty-Purifier-True/dp/B00BTKAPUU/?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt; and &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fcowaymega.com%2Fproducts%2Fmighty-ap-1512hh%2F&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F24311578%2Fbest-cyber-monday-deals-2024-tech-gadgets-gift-ideas" rel="sponsored nofollow noopener" target="_blank"&gt;Coway&lt;/a&gt; for around $141 ($99 off), which matches its second-best price to date. The compact HEPA air purifier features a four-stage filtration system, and though we don’t do a ton of dedicated air purifier testing here at &lt;em&gt;The Verge&lt;/em&gt;, we can personally attest to the effectiveness of this midrange model for smaller rooms.&lt;/li&gt;
-&lt;li id="9tjAjY"&gt;You can currently grab a gorgeous &lt;strong&gt;illustrated edition of &lt;/strong&gt;&lt;em&gt;&lt;strong&gt;The Hobbit&lt;/strong&gt;&lt;/em&gt; for $28.85 (about $49 off) at &lt;a href="https://www.amazon.com/Hobbit-Illustrated-Author-Tolkien-Editions/dp/0063347539/?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt;. That’s the lowest price we’ve seen on the 432-page hardcover edition of J.R.R. Tolkien’s 1937 classic, which brings together more than 50 of the author’s original sketches, drawings, paintings, and maps.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div id="0UPBNp"&gt;&lt;div data-anthem-component="productcard:12159872"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div id="5kOqFI"&gt;&lt;div data-anthem-component="productcard:11905875"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;aside id="0yOq80"&gt;&lt;div data-anthem-component="newsletter" data-anthem-component-data='{"slug":"deals"}'&gt;&lt;/div&gt;&lt;/aside&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/24311578/best-cyber-monday-deals-2024-tech-gadgets-gift-ideas"/>
-    <id>https://www.theverge.com/24311578/best-cyber-monday-deals-2024-tech-gadgets-gift-ideas</id>
-    <author>
-      <name>Quentyn Kennemer</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-12-03T09:54:10-05:00</published>
-    <updated>2024-12-03T09:54:10-05:00</updated>
-    <title>China limits US export of chipmaking materials following sanctions</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="CPUs surrounded by shadowy ones, kinda spooky and the background is red" src="https://cdn.vox-cdn.com/thumbor/aColMGMckrTuJw31hk41oncdpUU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73763246/acastro_210430_1777_semiCon_0003.0.jpg" /&gt;
-        &lt;figcaption&gt;Illustration by Alex Castro / The Verge&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="g37Ajq"&gt;China has imposed new limits on the sale of chip-making materials to the US, a move that comes just one day after the Biden Administration announced sanctions that will make it harder for Chinese companies to produce advanced semiconductors, &lt;a href="https://www.cnn.com/2024/12/02/tech/china-us-chips-new-restrictions-intl-hnk/index.html"&gt;as reported earlier by CNN&lt;/a&gt;.&lt;/p&gt;
-&lt;p id="TCxd7y"&gt;On Tuesday, the &lt;a href="https://www.mofcom.gov.cn/zwgk/zcfb/art/2024/art_3d5e990b43424e60828030f58a547b60.html"&gt;Chinese Ministry of Commerce said&lt;/a&gt; it will no longer allow the sale of gallium, germanium, antimony, and other key minerals with potential military applications to the US to safeguard national security. The country will also closely scrutinize the export of graphite.&lt;/p&gt;
-&lt;p id="hyxt6g"&gt;The US Department of Commerce &lt;a href="https://www.bis.gov/press-release/commerce-strengthens-export-controls-restrict-chinas-capability-produce-advanced"&gt;introduced new rules&lt;/a&gt; on Monday to “further impair” China’s ability to produce semiconductors for AI and weapons systems. The rules put new limitations on the equipment and software used to manufacture semiconductors, along with high-bandwidth memory chips. It also began barring exports to 140 new Chinese companies.&lt;/p&gt;
-&lt;p id="WSnjPP"&gt;“This action is the culmination of the Biden-Harris Administration’s targeted approach, in concert with our allies and partners, to impair the PRC’s ability to indigenize the production of advanced technologies that pose a risk to our national security,” US Secretary of Commerce Gina Raimondo said in a statement.&lt;/p&gt;
-&lt;p id="mnsUeL"&gt;Over the past several months, China has started tightening control over its supply of rare materials. It started limiting the export of antimony — a mineral used for chipmaking and to create military equipment — in September and &lt;a href="https://www.nytimes.com/2024/10/26/business/china-critical-minerals-semiconductors.html"&gt;later began requiring exporters&lt;/a&gt; to explain in detail how they’ll be used in Western supply chains, according to &lt;em&gt;The New York Times&lt;/em&gt;. &lt;/p&gt;
-&lt;p id="er5XYC"&gt;Things could get even more heated in the coming months, with President-Elect Donald &lt;a href="https://www.cnn.com/2024/11/25/politics/trump-tariffs-mexico-canada-china/index.html"&gt;Trump vowing to impose additional tariffs on Chinese goods&lt;/a&gt;.&lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/3/24311929/china-us-export-chipmaking-components-sanctions"/>
-    <id>https://www.theverge.com/2024/12/3/24311929/china-us-export-chipmaking-components-sanctions</id>
-    <author>
-      <name>Emma Roth</name>
     </author>
   </entry>
 </feed>
