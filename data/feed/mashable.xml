@@ -5,11 +5,113 @@
     <title>Mashable</title>
     <link>https://mashable.com</link>
     <description>Mashable is a global, multi-platform media and entertainment company.</description>
-    <pubDate>Fri, 06 Dec 2024 10:49:27 +0000</pubDate>
+    <pubDate>Fri, 06 Dec 2024 11:50:01 +0000</pubDate>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Dec 2024 10:49:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 11:50:01 +0000</lastBuildDate>
     <copyright>©2024 Mashable, Inc. All Rights Reserved.</copyright>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Google Search AI Overviews at 6 months: Is the feature getting better?]]></title>
+      <link>https://mashable.com/article/google-ai-overviews-at-6-months-are-they-better</link>
+      <guid isPermaLink="false">0216WWLmUZoGiypJe9QqENs</guid>
+      <pubDate>Fri, 06 Dec 2024 11:48:28 +0000</pubDate>
+      <description><![CDATA[Google's AI Overviews, launched 6 months ago, remain error-prone, especially producing false results for uncommon queries, which risk amplifying misinformation, and often lack clarity, but Google claims improvements have addressed systemic issues.]]></description>
+      <content:encoded><![CDATA[<img src="https://helios-i.mashable.com/imagery/articles/0216WWLmUZoGiypJe9QqENs/hero-image.jpg" alt="The Google logo on a phone."><p>It's been six months since <a href="https://mashable.com/category/google" target="_self" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">Google</a> started adding <a href="https://mashable.com/category/artificial-intelligence" target="_self" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">AI</a>-generated text to the top of many Google Search queries by default, and this <em>experiment &mdash;</em> that's what a disclaimer at the bottom of each AI Overview says it is &mdash; hasn't entirely been a rip-roaring success, Google acknowledged to Mashable.</p><p>While "AI overviews on balance&nbsp;and at large are very compelling sets of things&nbsp;that are helpful to the users," said Hema&nbsp;Budaraju, Google's senior director of product management for Search, "we have work to do on the quality side of things,&nbsp;which is an ever growing need."</p><p>AI Overviews launched with a slogan of sorts: "<a href="https://blog.google/products/search/generative-ai-google-search-may-2024/" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">Let Google do the searching for you</a>," but<strong> </strong>after some controversy at the start &mdash; notably that couple of weeks where stories kept coming out about <a href="https://mashable.com/article/google-ai-overviews-weird-responses-explained" target="_self" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">Google Search telling people to eat rocks and put glue on pizza</a> &mdash; the company appears to have pulled back a bit. At launch, AI Overviews showed up in about 15 percent of Google Search results pages, but that number was reduced to about 7 percent by the end of June, <a href="https://searchengineland.com/google-ai-overviews-visibility-new-low-444048" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">according to Search Engine Land</a>.</p><p>So has quality improved over the past six months? </p><h2>Are AI Overviews getting better?</h2><p>It would be hard to argue point-blank that there's been a significant uptick in quality. Overviews materialize less often, and errors are still rampant, but I did find some very limited evidence of improvements: the AI Overviews for the queries I highlighted to Google for this article all improved while I was working on it.</p><p>For what it's worth, Budaraju says, across all types of queries, from the everyday to the weird, AI Overviews work, "especially when there is no single answer and it's multiple perspectives." Or at least that's what Google thinks based on internal data about quality, which comes from A-B testing, but not focus groups, Budaraju said.</p><p>Quotidian searches tend to get acceptable AI Overviews in my experience. "What do almonds taste like," for instance, may produce a reasonable AI Overview like the one I got: "Almonds can taste sweet, slightly bitter, or bitter, depending on their chemical composition." Fine.</p><p>But if you're an information fiend who uses Google Search more expansively, there's a good chance you still encounter bizarre errors. This November example from BlueSky user @coopercooperco is a decent summary of Google Gemini's unfortunate lingering tendency to put the truth in a blender from time to time.</p><div class="raw-embed">
+    <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:pqx7tbvdu2msmjeh2riav5tj/app.bsky.feed.post/3lbuj5e6pbk2n" data-bluesky-cid="bafyreic57ggqxwonhjmkeiggo2i4yighh5u42fizdpqcvc775rkea5u2ca"><p lang="en">my friend @craigbased.bsky.social made a comment about Cole kissing Shelly so I googled &ldquo;what episode does Gordon Cole kiss Shelly&rdquo; and that&rsquo;s what it gave me. Today it gives a slightly different, also wrong answer. We all know deathly serious Gordon Cole would never do something like kiss a woman.<br><br><a href="https://bsky.app/profile/did:plc:pqx7tbvdu2msmjeh2riav5tj/post/3lbuj5e6pbk2n?ref_src=embed">[image or embed]</a></p>&mdash; F&#9839;A&#9839;&infin;, fka &#9749;&#65039; (<a href="https://bsky.app/profile/did:plc:pqx7tbvdu2msmjeh2riav5tj?ref_src=embed">@coopercooperco.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:pqx7tbvdu2msmjeh2riav5tj/post/3lbuj5e6pbk2n?ref_src=embed">November 26, 2024 at 8:59 AM</a></blockquote>
+</div>
+<p>When queried for the<em> Twin Peaks </em>episode where Cole kisses Shelly, the AI Overview blurts out quite confidently and wrongly that there is no such scene. Without knowing with any certainty what went wrong, one can only assume the model's training data includes at least fleeting mentions &mdash; if not the full script &mdash; of the <a href="https://www.youtube.com/watch?v=qPXC9c2HfA0" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">famous <em>Twin Peaks</em> scene</a> about (David Lynch shouting voice) "two adults sharing a tender moment!" in which<em> </em>Cole and Shelly<em> </em>are seemingly interrupted by Bobby Briggs, but then clearly and unambiguously do kiss. The model likely isn't drawing from any faulty blogs or counterfeit scripts saying Cole never kisses Shelly (To what end would anyone write such a thing?). It's just making this up and sticking it at the very top of the Google Search results page. </p><p>The Bluesky user above is clearly making what Google <a href="https://www.nytimes.com/2024/05/24/technology/google-ai-overview-search.html" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">frequently calls</a> an "uncommon query." Hallucinations "tend to arise" when the query is uncommon, Budaraju said. "Even though the systems are trying to be helpful, there is some misinterpretation,&nbsp;some inherent lack of high-quality information on the web," she explained while speaking to Mashable about AI Overviews in general, not this particular one. Plenty of prominent, <a href="https://twinpeaks.fandom.com/wiki/Gordon_Cole" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">high-quality information online confirms</a> that Cole and Shelly kiss, so "misinterpretation" of Bobby Briggs' unsuccessful interruption makes more sense as an explanation.</p><h2>If you search based on faulty information, AI Overviews may make things significantly worse</h2><p>According to Budaraju, improving AI Overviews involves "sentiment surveys" that are not exactly A-B tests. "We just give people an option to choose between one versus the other and get their expression of satisfaction," she said.&nbsp;</p><p>But a nightmare scenario for AI Overviews is one in which a searcher starts out with less-than-perfect information, and the AI Overview makes it even less perfect. </p><p>If the basis for a search is wrong or flawed, and the AI Overview doesn't catch the problem, then it stands to reason the user won't notice it either. The result would be a satisfied user who is now even more ignorant than before. Admittedly, the problem of using Google Search to find misinformation is much older than AI Overviews, but AI Overviews could be a formula for supercharging this process.</p><p>For a vivid-but-fairly-benign example of what I mean, here's the result for the query "How to use baking soda to thicken soup." Someone might only have the fuzziest notion that one of the powders in the cabinet can give their chowder a heartier mouthfeel, but they might guess wrong. According to the AI Overview, "Baking soda can be used to thicken soup by making it silkier and smoother."</p><div class="eloquent-imagery-image">
+    <div class="flex justify-center">
+                    <img class="border border-gray-100" src="https://helios-i.mashable.com/imagery/articles/0216WWLmUZoGiypJe9QqENs/images-1.fill.size_2000x1325.v1732750344.png" alt="A Google Search user seeking confirmation that baking soda can thicken soup, and receiving it from an AI Overview" width="2000" height="1325" loading="lazy" srcset="https://helios-i.mashable.com/imagery/articles/0216WWLmUZoGiypJe9QqENs/images-1.fill.size_800x530.v1732750344.png 800w, https://helios-i.mashable.com/imagery/articles/0216WWLmUZoGiypJe9QqENs/images-1.fill.size_1400x928.v1732750344.png 1400w, https://helios-i.mashable.com/imagery/articles/0216WWLmUZoGiypJe9QqENs/images-1.fill.size_2000x1325.v1732750344.png 2000w" sizes="(max-width: 1408px) 100vw, 1408px">
+
+
+            </div>
+            <div class="mt-2 subtitle-2 font-sans ">
+            <span class="normal-case text-gray-1000"></span>
+            <span class="text-gray-600 credit">Credit: Mashable screenshot via Google</span>
+        </div>
+    </div>
+<p>This won't work, and has the potential to make your soup taste weird. </p><p>When I showed this example to a Google representative, they told me Google would use it to improve their product. </p><p>But separating good and bad information becomes more of a muddle if you're searching for the paranormal. For instance, I tried searching "how to teach a dog to communicate telepathically," and the AI Overview began with the heading "Here are some tips for communicating with your dog telepathically," and then provided a bulleted list cobbled together from the writings of believers in the paranormal, like "animal communicator" Pea Horsley. </p><div class="eloquent-imagery-image">
+    <div class="flex justify-center">
+                    <img class="border border-gray-100" src="https://helios-i.mashable.com/imagery/articles/0216WWLmUZoGiypJe9QqENs/images-2.fill.size_2000x1136.v1732750344.png" alt='A Google Search user seeking information about how to communicate with a dog telepathically, and receiving an AI Overview that begins "Here are some tips for communicating with your dog telepathically"' width="2000" height="1136" loading="lazy" srcset="https://helios-i.mashable.com/imagery/articles/0216WWLmUZoGiypJe9QqENs/images-2.fill.size_800x455.v1732750344.png 800w, https://helios-i.mashable.com/imagery/articles/0216WWLmUZoGiypJe9QqENs/images-2.fill.size_1400x795.v1732750344.png 1400w, https://helios-i.mashable.com/imagery/articles/0216WWLmUZoGiypJe9QqENs/images-2.fill.size_2000x1136.v1732750344.png 2000w" sizes="(max-width: 1408px) 100vw, 1408px">
+
+
+            </div>
+            <div class="mt-2 subtitle-2 font-sans ">
+            <span class="normal-case text-gray-1000"></span>
+            <span class="text-gray-600 credit">Credit: Mashable screenshot via Google</span>
+        </div>
+    </div>
+<p>If you're inclined to read them, it's Google Search's job to steer you to <a href="https://animalthoughts.com/blog/" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">the writings of people like Horsley</a> &mdash; in fact, I recommend them. They're entertaining. But when the AI Overview at the top of a Google results page reads "Here are some tips for communicating with your dog telepathically," it gives the users the impression that this information is authoritative and trustworthy, rather than being "<a href="https://www.urbandictionary.com/define.php?term=For%20entertainment%20purposes%20only" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">for entertainment purposes only</a>." </p><p>A Google representative pointed out that AI Overviews are dynamic. They showed me their AI Overview for the same search, and it didn't say "Here are some tips for communicating with your dog telepathically," but instead mentioned that there's no scientific evidence that dogs can communicate telepathically, before transitioning into another Pea Horsley-influenced list of instructions. If I try this search today, I get a similarly improved result.</p><p>Finally, what if a user noticed that cow meat is called "beef," and pig meat is called "pork," and wondered what dolphin meat is called. Stranger things have happened. When I used Google Search to find answers, the AI Overview seemingly let slip the dark truth about mahi-mahi:</p><div class="eloquent-imagery-image">
+    <div class="flex justify-center">
+                    <img class="border border-gray-100" src="https://helios-i.mashable.com/imagery/articles/0216WWLmUZoGiypJe9QqENs/images-3.fill.size_2000x1388.v1732750344.png" alt='A Google Search user searching "dolphin meat name" and receiving the anser mahi-mahi"' width="2000" height="1388" loading="lazy" srcset="https://helios-i.mashable.com/imagery/articles/0216WWLmUZoGiypJe9QqENs/images-3.fill.size_800x555.v1732750344.png 800w, https://helios-i.mashable.com/imagery/articles/0216WWLmUZoGiypJe9QqENs/images-3.fill.size_1400x971.v1732750344.png 1400w, https://helios-i.mashable.com/imagery/articles/0216WWLmUZoGiypJe9QqENs/images-3.fill.size_2000x1388.v1732750344.png 2000w" sizes="(max-width: 1408px) 100vw, 1408px">
+
+
+            </div>
+            <div class="mt-2 subtitle-2 font-sans ">
+            <span class="normal-case text-gray-1000"></span>
+            <span class="text-gray-600 credit">Credit: Mashable screenshot via Google</span>
+        </div>
+    </div>
+<p>The AI Overview begins "The name for dolphin meat depends on the region and the type of dolphin" and then provides a bulleted list. The first item on the list is "Mahi-mahi."  </p><p>If the user reads on, they'll see that mahi-mahi is also known as "dolphinfish" (because, to be clear, mahi-mahi is not dolphin. It's a fish). But the result is confusing to say the least. When I showed it to a Google representative they told me this was a reasonable interpretation of the search &mdash; in other words that a user searching for "dolphin meat name" really might be looking for the fish known as a "dolphinfish." </p><h2>It's a good idea to click the source</h2><p>Since, as I mentioned above, every single one of the searches that produced a problematic AI Overview that I featured here improved to some degree, I suspected Google was cleaning them up as I went along, but Budaraju claims otherwise. "We don't fix queries one by one. That's not how we operate.&nbsp;We actually think about it as <em>what are the patterns of issues that we're seeing, and how would we actually solve them at scale?</em>" </p><p>But she also told me Google remains focused on steering users toward the sources of AI Overviews &mdash; y'know, the old fashioned links on your Google Search results page? "To some extent," she said, "I think we are also hoping that our users have the right links, links for them to also pursue." She wonders if, in response to an AI Overview, the user would "actually pursue that path and look at the links that led to the overview that you've created."</p><p>If AI Overviews are never going away, then until they never hallucinate, it's probably a good idea to take Budaraju up on this suggestion, and cultivate a habit of clicking those links next to your AI Overviews whenever you see them. </p>]]></content:encoded>
+    </item>
+    <item>
+      <title><![CDATA[Amazons Fire Max 11 tablet is still on sale at its lowest-ever price after Cyber Monday]]></title>
+      <link>https://mashable.com/article/dec-6-amazon-fire-max-11-tablet-deal</link>
+      <guid isPermaLink="false">05Asoyb2EhjJqVA1J63WtNQ</guid>
+      <pubDate>Fri, 06 Dec 2024 11:43:01 +0000</pubDate>
+      <description><![CDATA[Amazon's Fire Max 11 tablet normally retails for $229.99. As of Dec. 6, it's on sale for $139.99 after Cyber Monday.]]></description>
+      <content:encoded><![CDATA[<img src="https://helios-i.mashable.com/imagery/articles/05Asoyb2EhjJqVA1J63WtNQ/hero-image.jpg" alt="amazon fire max 11 tablet on a pink and orange gradient background"><p><strong>SAVE $90:</strong> As of Dec. 6, the <a href="https://zdcs.link/Qx78Ob?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Amazon%20Fire%20Max%2011%20tablet&object_type=article&object_uuid=05Asoyb2EhjJqVA1J63WtNQ&short_url=Qx78Ob&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">Amazon Fire Max 11 tablet</a> is still down to its lowest-ever price of $139.99 at Amazon after Cyber Monday. This is 39% off its retail price of $229.99.</p><hr><div class="flex flex-col mx-auto mt-8 mb-16 max-w-3xl font-sans md:flex-row pogoClear">
+    <div class="mx-auto w-64 md:mx-0 md:w-1/3">
+                                                        <a class="block group" href="https://zdcs.link/Qx78Ob?pageview_type=RSS&template=article&module=shop-card&element=offer&item=image&element_label=image&object_type=article&object_uuid=05Asoyb2EhjJqVA1J63WtNQ&short_url=Qx78Ob&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank"title="(opens in a new window)" data-ga-action="product_image" data-ga-label="image" data-ga-item="image" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="1" data-ga-click>
+                                                                            <img class="w-full" src="https://helios-i.mashable.com/imagery/articles/05Asoyb2EhjJqVA1J63WtNQ/images-2.fill.size_256x207.v1733484369.jpg" alt="amazon fire max 11 tablet on a white background" width="256" height="207" loading="lazy">
+
+
+                        
+                        <div class="block relative mx-14 group-hover:visible tooltip">
+                    <span class="absolute invisible p-1 mt-2 text-xs text-center text-white group-hover:visible tooltiptext bg-gray-600/0 group-hover:bg-gray-600/100">
+                        Opens in a new window
+                    </span>
+                        </div>
+                                            </a>
+                                <div class="mt-2 leading-none text-left">
+                                            <span class="pr-5 mt-1 text-xs text-gray-600 subtitle-2">Credit: Amazon</span>
+                                    </div>
+                        </div>
+    <div class="pl-0 mt-3 w-full md:pr-10 md:pl-7 md:mt-0 md:w-2/3">
+                                    <a href="https://zdcs.link/Qx78Ob?pageview_type=RSS&template=article&module=shop-card&element=offer&item=title&element_label=Amazon%20Fire%20Max%2011%20Tablet&object_type=article&object_uuid=05Asoyb2EhjJqVA1J63WtNQ&short_url=Qx78Ob&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank" class="block mb-5 text-xl font-bold leading-8 text-center md:text-2xl md:text-left hover:underline text-secondary-300" data-ga-action="offer-title" data-ga-item="title" data-ga-element="offer" data-ga-module="shop-card" data-ga-label="Amazon Fire Max 11 Tablet" data-ga-position="1" data-ga-click title="(opens in a new window)">
+                    Amazon Fire Max 11 Tablet
+                </a>
+                                        <div class="flex justify-between items-center py-0 md:space-x-2">
+                <div class="md:w-2/3" style="line-height: 0.75rem">
+                                            <span class="text-sm font-bold">$139.99</span>
+                                                    <span class="text-xs"> at Amazon</span>
+                                                <br>
+                                                                                            <span class="text-xs font-bold line-through">$229.99</span>
+                                                                            <span class="text-xs font-bold text-red-400"> Save $90.00</span>
+                                                            </div>
+            </div>
+                                                    <a class="font-bold leading-6 text-center hover:underline" href="https://zdcs.link/Qx78Ob?pageview_type=RSS&template=article&module=shop-card&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=05Asoyb2EhjJqVA1J63WtNQ&short_url=Qx78Ob&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="Get Deal" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="1" data-ga-click title="(opens in a new window)">
+                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide md:w-auto md:text-lg btn btn-secondary">Get Deal</button>
+                </a>
+                        </div>
+</div>
+<p>While a lot of <a href="https://mashable.com/article/best-cyber-monday-deals-still-available-2024" target="_self" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">Cyber Monday deals</a> disappear when the day is done, a few linger around in the following days for shoppers to scoop up before the holidays. Amazon has had a few deals still available after the big seasonal sale events, including a discount on its Fire Max 11 tablet, which is still at its lowest-ever price.</p><p>Right now, you can grab the <a href="https://zdcs.link/Qx78Ob?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Fire%20Max%2011%20tablet%20for%20just%20%24139.99&object_type=article&object_uuid=05Asoyb2EhjJqVA1J63WtNQ&short_url=Qx78Ob&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">Fire Max 11 tablet for just $139.99</a>, 39% off its original price of $229.99. As mentioned earlier, this is the tablet's lowest-ever price according to price tracker <a href="https://camelcamelcamel.com/product/B0B1VQ1ZQY" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">camelcamelcamel</a>, and who knows how long it'll stay there. So, if you've had your eye on it, now's the time to pick it up.</p><div class="flex mx-auto mt-8 w-full max-w-3xl font-sans text-lg leading-normal md:text-xl md:leading-7">
+        <span class="font-bold text-primary-400">SEE ALSO:</span>
+        <a href="https://mashable.com/article/dec-6-apple-airpods-4-deal" class="flex items-center text-secondary-300">
+            <span class="ml-1">The latest Apple AirPods 4 are at their lowest-ever price on Amazon</span>
+            <svg class="ml-1 w-4 h-4 font-normal fill-current"><use href="https://mashable.com/images/icons/spritemap.svg#sprite-arrow-right-thin"></use></svg>
+        </a>
+    </div>
+<p>Boasting a bright 11-inch display, an octa-core processor, 4GB memory, 64GB storage,<strong> </strong>and WiFi 6, this is a great tablet for either work or play. Writer SaVanna Shoemaker praised this tablet in our <a href="https://mashable.com/review/amazon-fire-max-11-tablet" target="_self" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">review</a> as well, saying it "has a large, 11-inch display and is blazing fast, making it a good alternative to pricier tablets for streaming and games."</p><p>Amazon currently has this tablet listed as a "limited time deal", so it likely won't stay at this price for long. Now's your chance to score the <a href="https://zdcs.link/Qx78Ob?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Amazon%20Fire%20Max%2011%20tablet%20for%20%24139.99&object_type=article&object_uuid=05Asoyb2EhjJqVA1J63WtNQ&short_url=Qx78Ob&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">Amazon Fire Max 11 tablet for $139.99</a>.</p><p>Amazon's had some more deals still floating around after the Cyber Monday sale event. If you want to see which deals might still be available, have a look at our roundup of <a href="https://mashable.com/article/best-cyber-monday-amazon-deals-still-available-2024" target="_self" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">Amazon's Cyber Monday deals that are still live</a> to see if anything that's been on your radar is still on sale.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title><![CDATA[Ben Stiller takes on Hot Ones, gets reduced to a giggling, streaming mess]]></title>
+      <link>https://mashable.com/video/ben-still-hot-ones</link>
+      <guid isPermaLink="false">07bf0pGMfJw7Nj5IBRq6GMJ</guid>
+      <pubDate>Fri, 06 Dec 2024 11:28:36 +0000</pubDate>
+      <description><![CDATA[Ben Stiller appeared on "Hot Ones" to take on the spicy wing challenge.]]></description>
+      <content:encoded><![CDATA[<img src="https://helios-i.mashable.com/imagery/videos/07bf0pGMfJw7Nj5IBRq6GMJ/hero-image.jpg" alt="A man sits at a table covered in hot sauce in a dark room."><p>Ben Stiller's <a href="https://mashable.com/article/best-hot-ones-episodes" target="_self" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body"><em>Hot Ones</em></a> strategy appears to be <em>laugh through the pain</em>.</p><p>In the First We Feast video above, the <a href="https://mashable.com/video/severance-season-2-trailer" target="_self" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body"><em>Severance</em></a> director and <a href="https://mashable.com/article/nutcrackers-ben-stiller-review" target="_self" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body"><em>Nutcrackers</em></a> star takes on increasingly spicy wings while answering questions on everything from his long movie career to pilots that didn't get picked up.</p><p>He makes it valiantly to the end, but not without almost being derailed by Da Bomb.</p>]]></content:encoded>
+    </item>
     <item>
       <title><![CDATA[Black Doves review: Keira Knightleys festive spy thriller is a gift]]></title>
       <link>https://mashable.com/article/black-doves-review-keira-knightley-ben-whishaw-netflix</link>
@@ -5369,576 +5471,6 @@
                         </div>
 </div>
 <h3>Why we like it </h3><p>The Fitbit Versa 4 is down to $119.95 at <a href="https://zdcs.link/QODlb2?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Amazon&object_type=article&object_uuid=05WKMdg7gfk5DudHid7GSLO&short_url=QODlb2&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">Amazon</a>, <a href="https://zdcs.link/QbnKxj?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Best%20Buy&object_type=article&object_uuid=05WKMdg7gfk5DudHid7GSLO&short_url=QbnKxj&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">Best Buy</a>, and <a href="https://zdcs.link/QKDrOV?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Target&object_type=article&object_uuid=05WKMdg7gfk5DudHid7GSLO&short_url=QKDrOV&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">Target</a>. That&rsquo;s 40% off the list price of $199.95.</p><p>The Fitbit Versa 4 has a built-in GPS, 40+ exercise modes, six days of battery life, and all the tools you need to stay on top of your health and fitness goals, including a stress management score, menstrual health tracking, and mindfulness content.</p><p>You can take calls and respond to texts on the go with this smartwatch, or ask Alexa for help.</p><p>It also comes with six months of Fitbit Premium.  </p>]]></content:encoded>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI is definitely, maybe thinking about ads for ChatGPT]]></title>
-      <link>https://mashable.com/article/openai-considering-ads-chatgpt</link>
-      <guid isPermaLink="false">02zf3q62QTZriWwC9PLhXmr</guid>
-      <pubDate>Wed, 04 Dec 2024 16:28:45 +0000</pubDate>
-      <description><![CDATA[Ads might be coming to ChatGPT, but CFO Sarah Friar also said it's one of many revenue-generating strategies the company is looking into.]]></description>
-      <content:encoded><![CDATA[<img src="https://helios-i.mashable.com/imagery/articles/02zf3q62QTZriWwC9PLhXmr/hero-image.jpg" alt="The ChatGPT app logo displays on the screen of a smartphone"><p>OpenAI might bring ads to ChatGPT, emphasis on <em>might</em>. </p><p>Chief Financial Officer Sarah Friar told the <em>Financial Times</em> on Monday that the AI company was considering an ad model, adding that it plans to be "thoughtful about when and where we implement them."</p><p>However, Friar backtracked a little in a follow-up statement to the outlet, saying "while we&rsquo;re open to exploring other revenue streams in the future, we have no active plans to pursue advertising."</p><div class="flex mx-auto mt-8 w-full max-w-3xl font-sans text-lg leading-normal md:text-xl md:leading-7">
-        <span class="font-bold text-primary-400">SEE ALSO:</span>
-        <a href="https://mashable.com/article/openai-sam-altman-ama-reddit" class="flex items-center text-secondary-300">
-            <span class="ml-1">OpenAI's Sam Altman had an AMA on Reddit: 5 takeaways about ChatGPT and more</span>
-            <svg class="ml-1 w-4 h-4 font-normal fill-current"><use href="https://mashable.com/images/icons/spritemap.svg#sprite-arrow-right-thin"></use></svg>
-        </a>
-    </div>
-<p>This is in line with what <a href="https://mashable.com/article/openai-no-plans-for-ads-in-chatgpt-search" target="_self" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">OpenAI told Mashable</a> when it launched <a href="https://mashable.com/article/chatgpt-search-has-arrived-how-to-use-it" target="_self" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">ChatGPT Search</a> at the end of October. When asked whether the company planned on introducing ads to the AI-powered search engine, a spokesperson said, "we don&rsquo;t have any plans for ads."</p><p>That said, OpenAI has been hiring lots of top monetization talent lately. Shivakumar Venkataraman, formerly on Google Search's advertising team, became an OpenAI VP in May, and Chief Product Officer Kevin Weil who led product teams at Instagram and X came on board in June. On Tuesday, OpenAI <a href="https://x.com/OpenAINewsroom/status/1864030500702318858" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">hired</a> its first Chief Marketing Officer Kate Rouch, who oversaw Coinbase's Super Bowl ads.  </p><p>OpenAI recently closed a massive <a href="https://mashable.com/article/openai-closes-6-point-6-billion-dollar-funding-round-whopping-valuation" target="_self" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">funding round</a> of $6 billion, giving the company a valuation of $150 billon. According to the <a href="https://www.nytimes.com/2024/09/27/technology/openai-chatgpt-investors-funding.html" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body"><em>New York Times</em></a>, OpenAI's revenue projections underpinning the largest VC round of all time expect to bring in $11.6 billion in 2025. This is despite the fact that OpenAI currently operates at a loss of $2.3 billon. So <a href="https://www.wheresyoured.at/oai-business/" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">somehow</a> OpenAI has to essentially triple its revenue despite the huge cost of maintaining and developing AI models. That money has to come from somewhere, and <a href="https://www.theinformation.com/articles/openai-considers-higher-priced-subscriptions-to-its-chatbot-ai-preview-of-the-informations-ai-summit?rc=fioipi" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">upping</a> its premium subscriptions might not be enough. </p><p>Of course bringing ads to ChatGPT risks <a href="https://gizmodo.com/enshittification-is-officially-the-biggest-word-of-the-year-2000530173" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">enshittifying</a> the product and alienating users. This could be costly in a highly competitive environment with Anthropic, Perplexity, and Google Gemini developing similar tools. </p>]]></content:encoded>
-    </item>
-    <item>
-      <title><![CDATA[Celebrate National Cookie day with these delicious baking deals at Amazon]]></title>
-      <link>https://mashable.com/article/dec-4-amazon-baking-deals</link>
-      <guid isPermaLink="false">07mbPj2xCLbFX2gV6Rt1ZFj</guid>
-      <pubDate>Wed, 04 Dec 2024 16:28:34 +0000</pubDate>
-      <description><![CDATA[Baking deals at Amazon: Save over 40% from brands like KitchenAid and Ninja.]]></description>
-      <content:encoded><![CDATA[<img src="https://helios-i.mashable.com/imagery/articles/07mbPj2xCLbFX2gV6Rt1ZFj/hero-image.jpg" alt="a KitchenAid kitchen scale and mixer with a Ninja countertop oven"><p><strong>SAVE OVER 40%:</strong> Celebrate National Cookie Day by saving over 40% on baking deals at Amazon including the <a href="https://zdcs.link/9ywdje?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=KitchenAid%20stand%20mixer&object_type=article&object_uuid=07mbPj2xCLbFX2gV6Rt1ZFj&short_url=9ywdje&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">KitchenAid stand mixer</a> and a great <a href="https://zdcs.link/QGVA1K?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=countertop%20oven%20from%20Ninja&object_type=article&object_uuid=07mbPj2xCLbFX2gV6Rt1ZFj&short_url=QGVA1K&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">countertop oven from Ninja</a>.</p><hr><div class="flex flex-col mx-auto mt-6 mb-16 max-w-3xl font-sans md:mt-10 md:border-b-2 md:border-gray-100">
-    <div class="mb-1 text-xl font-bold">
-        Best baking deals at Amazon
-    </div>
-            <hr class="border border-gray-100 mx-auto !mt-0 !max-w-full">
-        <div class="py-6 md:flex md:justify-between md:items-stretch">
-            <div class="flex md:w-3/4">
-                <div class="pr-3 w-full md:order-2 md:ml-4 md:ml-8 md:w-3/4">
-                                            <div class="text-sm font-bold uppercase">
-                            Best overall baking deal
-                        </div>
-                                        <div class="mt-1 text-sm">
-                                                    <a data-ga-click data-ga-module="product-summary-list" data-ga-element="offer" data-ga-item="buy-link" class="mb-5 text-lg font-bold leading-tight hover:underline text-secondary-300" href="https://zdcs.link/9ywdje?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-link&element_label=KitchenAid%20Artisan%20Series%20Stand%20Mixer%20%285-quart%29&object_type=article&object_uuid=07mbPj2xCLbFX2gV6Rt1ZFj&short_url=9ywdje&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" rel="sponsored" title="(opens in a new window)">
-                                KitchenAid Artisan Series Stand Mixer (5-quart)
-                            </a>
-                                                <div class="mt-1">
-                            <span class="font-bold md:text-base text-primary-400">$329.95 at Amazon </span>
-                                                            <span class="text-primary-400">(save $120.04 + get a $16 Amazon credit)</span>
-                                                    </div>
-                    </div>
-                </div>
-                <div class="my-auto w-1/4 md:order-1 md:w-1/5 md:max-h-36">
-                                            <img class="my-auto mx-auto max-h-full" src="https://helios-i.mashable.com/imagery/articles/07mbPj2xCLbFX2gV6Rt1ZFj/images-1.fit_lim.size_135x133.v1733325354.png" alt="a kitchenaid stand mixer with bowl in an aqua sky colorway" width="135" height="133" loading="lazy">
-
-
-                                    </div>
-            </div>
-            <div class="mt-6 mb-2 w-full md:my-auto md:w-1/4">
-                                    <a class="w-full font-bold leading-6 text-center whitespace-nowrap hover:underline" href="https://zdcs.link/9ywdje?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=07mbPj2xCLbFX2gV6Rt1ZFj&short_url=9ywdje&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="$text" data-ga-element="offer" data-ga-module="product-summary-list" data-ga-click rel="sponsored" title="(opens in a new window)">
-                        <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide overflow-ellipsis line-clamp-1 btn btn-secondary">
-                            Get Deal
-                        </button>
-                    </a>
-                            </div>
-        </div>
-            <hr class="border border-gray-100 mx-auto !mt-0 !max-w-full">
-        <div class="py-6 md:flex md:justify-between md:items-stretch">
-            <div class="flex md:w-3/4">
-                <div class="pr-3 w-full md:order-2 md:ml-4 md:ml-8 md:w-3/4">
-                                            <div class="text-sm font-bold uppercase">
-                            Best countertop oven deal
-                        </div>
-                                        <div class="mt-1 text-sm">
-                                                    <a data-ga-click data-ga-module="product-summary-list" data-ga-element="offer" data-ga-item="buy-link" class="mb-5 text-lg font-bold leading-tight hover:underline text-secondary-300" href="https://zdcs.link/QGVA1K?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-link&element_label=Ninja%20Double%20Stack%20XL%20Countertop%20Oven%20and%20Air%20Fryer&object_type=article&object_uuid=07mbPj2xCLbFX2gV6Rt1ZFj&short_url=QGVA1K&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" rel="sponsored" title="(opens in a new window)">
-                                Ninja Double Stack XL Countertop Oven and Air Fryer
-                            </a>
-                                                <div class="mt-1">
-                            <span class="font-bold md:text-base text-primary-400">$279.99 at Amazon</span>
-                                                            <span class="text-primary-400">(save $100)</span>
-                                                    </div>
-                    </div>
-                </div>
-                <div class="my-auto w-1/4 md:order-1 md:w-1/5 md:max-h-36">
-                                            <img class="my-auto mx-auto max-h-full" src="https://helios-i.mashable.com/imagery/articles/07mbPj2xCLbFX2gV6Rt1ZFj/images-2.fit_lim.size_173x133.v1733325354.jpg" alt="the ninja countertop stack XL oven with a tray of salmon baking on in the upper oven and a roast chicken on the bottom" width="173" height="133" loading="lazy">
-
-
-                                    </div>
-            </div>
-            <div class="mt-6 mb-2 w-full md:my-auto md:w-1/4">
-                                    <a class="w-full font-bold leading-6 text-center whitespace-nowrap hover:underline" href="https://zdcs.link/QGVA1K?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=07mbPj2xCLbFX2gV6Rt1ZFj&short_url=QGVA1K&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="$text" data-ga-element="offer" data-ga-module="product-summary-list" data-ga-click rel="sponsored" title="(opens in a new window)">
-                        <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide overflow-ellipsis line-clamp-1 btn btn-secondary">
-                            Get Deal
-                        </button>
-                    </a>
-                            </div>
-        </div>
-            <hr class="border border-gray-100 mx-auto !mt-0 !max-w-full">
-        <div class="py-6 md:flex md:justify-between md:items-stretch">
-            <div class="flex md:w-3/4">
-                <div class="pr-3 w-full md:order-2 md:ml-4 md:ml-8 md:w-3/4">
-                                            <div class="text-sm font-bold uppercase">
-                            Best baking accessory
-                        </div>
-                                        <div class="mt-1 text-sm">
-                                                    <a data-ga-click data-ga-module="product-summary-list" data-ga-element="offer" data-ga-item="buy-link" class="mb-5 text-lg font-bold leading-tight hover:underline text-secondary-300" href="https://zdcs.link/QODlG7?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-link&element_label=KitchenAid%20Glass%20Surface%20Digital%20Kitchen%20Scale%20%28black%20with%20silver%29&object_type=article&object_uuid=07mbPj2xCLbFX2gV6Rt1ZFj&short_url=QODlG7&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" rel="sponsored" title="(opens in a new window)">
-                                KitchenAid Glass Surface Digital Kitchen Scale (black with silver)
-                            </a>
-                                                <div class="mt-1">
-                            <span class="font-bold md:text-base text-primary-400">$15.99 at Amazon</span>
-                                                            <span class="text-primary-400">(save $11)</span>
-                                                    </div>
-                    </div>
-                </div>
-                <div class="my-auto w-1/4 md:order-1 md:w-1/5 md:max-h-36">
-                                            <img class="my-auto mx-auto max-h-full" src="https://helios-i.mashable.com/imagery/articles/07mbPj2xCLbFX2gV6Rt1ZFj/images-3.fit_lim.size_97x133.v1733325354.jpg" alt="a kitchenaid digital scale" width="97" height="133" loading="lazy">
-
-
-                                    </div>
-            </div>
-            <div class="mt-6 mb-2 w-full md:my-auto md:w-1/4">
-                                    <a class="w-full font-bold leading-6 text-center whitespace-nowrap hover:underline" href="https://zdcs.link/QODlG7?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=07mbPj2xCLbFX2gV6Rt1ZFj&short_url=QODlG7&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="$text" data-ga-element="offer" data-ga-module="product-summary-list" data-ga-click rel="sponsored" title="(opens in a new window)">
-                        <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide overflow-ellipsis line-clamp-1 btn btn-secondary">
-                            Get Deal
-                        </button>
-                    </a>
-                            </div>
-        </div>
-    </div>
-<p>Holiday sales on Black Friday and <a href="https://mashable.com/category/cyber-monday" target="_self" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">Cyber Monday</a> are slowly disappearing, leaving us kinda bummed while we wait for our packages to arrive. Thankfully, there's something worth celebrating today: National Cookie Day. If you'll be embarking on some holiday baking or simply love homemade cookies, Amazon has some great baking deals in store today. Here are some of our favorites to help everyone celebrate National Cookie Day.</p><h2>Best overall baking deal</h2><div class="flex flex-col mx-auto mt-8 mb-16 max-w-3xl font-sans md:flex-row pogoClear">
-    <div class="mx-auto w-64 md:mx-0 md:w-1/3">
-                                                        <a class="block group" href="https://zdcs.link/9ywdje?pageview_type=RSS&template=article&module=shop-card&element=offer&item=image&element_label=image&object_type=article&object_uuid=07mbPj2xCLbFX2gV6Rt1ZFj&short_url=9ywdje&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank"title="(opens in a new window)" data-ga-action="product_image" data-ga-label="image" data-ga-item="image" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="1" data-ga-click>
-                                                                            <img class="w-full" src="https://helios-i.mashable.com/imagery/articles/07mbPj2xCLbFX2gV6Rt1ZFj/images-1.fill.size_256x252.v1733325354.png" alt="a kitchenaid stand mixer with bowl in an aqua sky colorway" width="256" height="252" loading="lazy">
-
-
-                        
-                        <div class="block relative mx-14 group-hover:visible tooltip">
-                    <span class="absolute invisible p-1 mt-2 text-xs text-center text-white group-hover:visible tooltiptext bg-gray-600/0 group-hover:bg-gray-600/100">
-                        Opens in a new window
-                    </span>
-                        </div>
-                                            </a>
-                                <div class="mt-2 leading-none text-left">
-                                            <span class="pr-5 mt-1 text-xs text-gray-600 subtitle-2">Credit: KitchenAid</span>
-                                    </div>
-                        </div>
-    <div class="pl-0 mt-3 w-full md:pr-10 md:pl-7 md:mt-0 md:w-2/3">
-                                    <a href="https://zdcs.link/9ywdje?pageview_type=RSS&template=article&module=shop-card&element=offer&item=title&element_label=KitchenAid%20Artisan%20Series%20Stand%20Mixer%20%285-quart%29&object_type=article&object_uuid=07mbPj2xCLbFX2gV6Rt1ZFj&short_url=9ywdje&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank" class="block mb-5 text-xl font-bold leading-8 text-center md:text-2xl md:text-left hover:underline text-secondary-300" data-ga-action="offer-title" data-ga-item="title" data-ga-element="offer" data-ga-module="shop-card" data-ga-label="KitchenAid Artisan Series Stand Mixer (5-quart)" data-ga-position="1" data-ga-click title="(opens in a new window)">
-                    KitchenAid Artisan Series Stand Mixer (5-quart)
-                </a>
-                                        <div class="flex justify-between items-center py-0 md:space-x-2">
-                <div class="md:w-2/3" style="line-height: 0.75rem">
-                                            <span class="text-sm font-bold">$329.95</span>
-                                                    <span class="text-xs"> at Amazon</span>
-                                                <br>
-                                                                                            <span class="text-xs font-bold line-through">$449.99</span>
-                                                                            <span class="text-xs font-bold text-red-400"> Save $120.04</span>
-                                                            </div>
-            </div>
-                            <div class="mb-4 text-base font-normal leading-tight">+ get a $16 Amazon credit</div>
-                                            <a class="font-bold leading-6 text-center hover:underline" href="https://zdcs.link/9ywdje?pageview_type=RSS&template=article&module=shop-card&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=07mbPj2xCLbFX2gV6Rt1ZFj&short_url=9ywdje&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="Get Deal" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="1" data-ga-click title="(opens in a new window)">
-                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide md:w-auto md:text-lg btn btn-secondary">Get Deal</button>
-                </a>
-                        </div>
-</div>
-<h3>Why we like it</h3><p>A KitchenAid stand mixer has long been a quintessential part of every kitchen. It's perhaps the most important item that makes baking a breeze. If you've ever tried to whip up egg whites by hand or work a tough bread dough, you understand the struggle of baking without a stand mixer.</p><p>The ultra durable and reliable <a href="https://zdcs.link/9ywdje?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=KitchenAid%20Artisan%20Series%20stand%20mixer&object_type=article&object_uuid=07mbPj2xCLbFX2gV6Rt1ZFj&short_url=9ywdje&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">KitchenAid Artisan Series stand mixer</a> is on sale at Amazon for $329.95, down from the normal price of $449.99. That means you'll save 27%. You'll also automatically get a $16 Amazon credit added to your account 30 days after the mixer ships.</p><p>The KitchenAid stand mixer has a 5-quart capacity, making it ideal for any batch of cookies, cupcakes, or bread dough. The stainless steel bowl is dishwasher safe, and you'll also get a coated dough hook, 6-wire whip, and a coasted flat beater attachment.</p><h2>Best countertop oven deal</h2><div class="flex flex-col mx-auto mt-8 mb-16 max-w-3xl font-sans md:flex-row pogoClear">
-    <div class="mx-auto w-64 md:mx-0 md:w-1/3">
-                                                        <a class="block group" href="https://zdcs.link/QGVA1K?pageview_type=RSS&template=article&module=shop-card&element=offer&item=image&element_label=image&object_type=article&object_uuid=07mbPj2xCLbFX2gV6Rt1ZFj&short_url=QGVA1K&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank"title="(opens in a new window)" data-ga-action="product_image" data-ga-label="image" data-ga-item="image" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="2" data-ga-click>
-                                                                            <img class="w-full" src="https://helios-i.mashable.com/imagery/articles/07mbPj2xCLbFX2gV6Rt1ZFj/images-2.fill.size_256x197.v1733325354.jpg" alt="the ninja countertop stack XL oven with a tray of salmon baking on in the upper oven and a roast chicken on the bottom" width="256" height="197" loading="lazy">
-
-
-                        
-                        <div class="block relative mx-14 group-hover:visible tooltip">
-                    <span class="absolute invisible p-1 mt-2 text-xs text-center text-white group-hover:visible tooltiptext bg-gray-600/0 group-hover:bg-gray-600/100">
-                        Opens in a new window
-                    </span>
-                        </div>
-                                            </a>
-                                <div class="mt-2 leading-none text-left">
-                                            <span class="pr-5 mt-1 text-xs text-gray-600 subtitle-2">Credit: Ninja</span>
-                                    </div>
-                        </div>
-    <div class="pl-0 mt-3 w-full md:pr-10 md:pl-7 md:mt-0 md:w-2/3">
-                                    <a href="https://zdcs.link/QGVA1K?pageview_type=RSS&template=article&module=shop-card&element=offer&item=title&element_label=Ninja%20Double%20Stack%20XL%20Countertop%20Oven%20and%20Air%20Fryer&object_type=article&object_uuid=07mbPj2xCLbFX2gV6Rt1ZFj&short_url=QGVA1K&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank" class="block mb-5 text-xl font-bold leading-8 text-center md:text-2xl md:text-left hover:underline text-secondary-300" data-ga-action="offer-title" data-ga-item="title" data-ga-element="offer" data-ga-module="shop-card" data-ga-label="Ninja Double Stack XL Countertop Oven and Air Fryer" data-ga-position="2" data-ga-click title="(opens in a new window)">
-                    Ninja Double Stack XL Countertop Oven and Air Fryer
-                </a>
-                                        <div class="flex justify-between items-center py-0 md:space-x-2">
-                <div class="md:w-2/3" style="line-height: 0.75rem">
-                                            <span class="text-sm font-bold">$279.99</span>
-                                                    <span class="text-xs"> at Amazon</span>
-                                                <br>
-                                                                                            <span class="text-xs font-bold line-through">$379.99</span>
-                                                                            <span class="text-xs font-bold text-red-400"> Save $100.00</span>
-                                                            </div>
-            </div>
-                                                    <a class="font-bold leading-6 text-center hover:underline" href="https://zdcs.link/QGVA1K?pageview_type=RSS&template=article&module=shop-card&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=07mbPj2xCLbFX2gV6Rt1ZFj&short_url=QGVA1K&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="Get Deal" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="2" data-ga-click title="(opens in a new window)">
-                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide md:w-auto md:text-lg btn btn-secondary">Get Deal</button>
-                </a>
-                        </div>
-</div>
-<h3>Why we like it</h3><p>For plenty of reasons, a countertop oven can be perfect for baking cookies. Not only can countertop ovens be much better for indoor air quality, they're perfect if you feel like baking just a dozen or so cookies and don't feel like heating up the entire range to do so. Countertop models can also be perfect if your apartment or small home doesn't come with a traditional oven.</p><p>The super versatile <a href="https://zdcs.link/QGVA1K?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Ninja%20Double%20Stack%20XL%20Countertop%20Oven%20and%20Air%20Fryer&object_type=article&object_uuid=07mbPj2xCLbFX2gV6Rt1ZFj&short_url=QGVA1K&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">Ninja Double Stack XL Countertop Oven and Air Fryer</a> is a do-it-all machine that's currently on sale at Amazon on National Cookie Day for $279.99, instead of the typical $379.99. For starters, it's an oven and an air fryer, so you'll be able to free up some precious counter space since it's a 2-in-1 model. But the Ninja is so much more than just an oven and an air fryer. The dual model gives you two cooking spaces, so you could bake a tray of chocolate chip cookies on the upper oven and roast a chicken on the lower. The flavors (and smells) stay separate while cooking. </p><p>Plus, the oven has a convection bake setting, which is ideal for perfectly browning and evenly baking cookies regardless of if they're baking at the front of the tray or the back. You can also use the easy one-touch pizza button for a quick weeknight meal or use the oven to dehydrate fruit for homemade snacks.</p><h2>Best baking accessory deal</h2><div class="flex flex-col mx-auto mt-8 mb-16 max-w-3xl font-sans md:flex-row pogoClear">
-    <div class="mx-auto w-64 md:mx-0 md:w-1/3">
-                                                        <a class="block group" href="https://zdcs.link/QODlG7?pageview_type=RSS&template=article&module=shop-card&element=offer&item=image&element_label=image&object_type=article&object_uuid=07mbPj2xCLbFX2gV6Rt1ZFj&short_url=QODlG7&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank"title="(opens in a new window)" data-ga-action="product_image" data-ga-label="image" data-ga-item="image" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="3" data-ga-click>
-                                                                            <img class="mx-auto" src="https://helios-i.mashable.com/imagery/articles/07mbPj2xCLbFX2gV6Rt1ZFj/images-3.fill.size_187x256.v1733325354.jpg" alt="a kitchenaid digital scale" width="187" height="256" loading="lazy">
-
-
-                        
-                        <div class="block relative mx-14 group-hover:visible tooltip">
-                    <span class="absolute invisible p-1 mt-2 text-xs text-center text-white group-hover:visible tooltiptext bg-gray-600/0 group-hover:bg-gray-600/100">
-                        Opens in a new window
-                    </span>
-                        </div>
-                                            </a>
-                                <div class="mt-2 leading-none text-left">
-                                            <span class="pr-5 mt-1 text-xs text-gray-600 subtitle-2">Credit: KitchenAid</span>
-                                    </div>
-                        </div>
-    <div class="pl-0 mt-3 w-full md:pr-10 md:pl-7 md:mt-0 md:w-2/3">
-                                    <a href="https://zdcs.link/QODlG7?pageview_type=RSS&template=article&module=shop-card&element=offer&item=title&element_label=KitchenAid%20Glass%20Surface%20Digital%20Kitchen%20Scale%20%28black%20with%20silver%29&object_type=article&object_uuid=07mbPj2xCLbFX2gV6Rt1ZFj&short_url=QODlG7&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank" class="block mb-5 text-xl font-bold leading-8 text-center md:text-2xl md:text-left hover:underline text-secondary-300" data-ga-action="offer-title" data-ga-item="title" data-ga-element="offer" data-ga-module="shop-card" data-ga-label="KitchenAid Glass Surface Digital Kitchen Scale (black with silver)" data-ga-position="3" data-ga-click title="(opens in a new window)">
-                    KitchenAid Glass Surface Digital Kitchen Scale (black with silver)
-                </a>
-                                        <div class="flex justify-between items-center py-0 md:space-x-2">
-                <div class="md:w-2/3" style="line-height: 0.75rem">
-                                            <span class="text-sm font-bold">$15.99</span>
-                                                    <span class="text-xs"> at Amazon</span>
-                                                <br>
-                                                                                            <span class="text-xs font-bold line-through">$26.99</span>
-                                                                            <span class="text-xs font-bold text-red-400"> Save $11.00</span>
-                                                            </div>
-            </div>
-                                                    <a class="font-bold leading-6 text-center hover:underline" href="https://zdcs.link/QODlG7?pageview_type=RSS&template=article&module=shop-card&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=07mbPj2xCLbFX2gV6Rt1ZFj&short_url=QODlG7&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="Get Deal" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="3" data-ga-click title="(opens in a new window)">
-                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide md:w-auto md:text-lg btn btn-secondary">Get Deal</button>
-                </a>
-                        </div>
-</div>
-<h3>Why we like it</h3><p>Baking isn't quite as forgiving as cooking can be. Add in a bit too much flour or water and your cookies might turn out looking or even tasting wonky. Baking with the accuracy of a kitchen scale can be a super easy (and inexpensive) way to level up your baking skills. On National Cookie Day, Amazon has the <a href="https://zdcs.link/QODlG7?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=KitchenAid%20Glass%20Surface%20Digital%20Kitchen%20Scale&object_type=article&object_uuid=07mbPj2xCLbFX2gV6Rt1ZFj&short_url=QODlG7&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">KitchenAid Glass Surface Digital Kitchen Scale</a> on sale for just $15.99 in the black and silver model. This deal means you'll be saving $11 off the typical price of $26.99.</p><p>The KitchenAid scale easily switches between fluid measurements of ounces and milliliters to dry measurements like grams. Using this precision on recipes that call for dry yeast or baking powder can be especially useful. It can also save you the hassle of searching for measurement conversions if you're using a recipe that measures in grams and milliliters. </p><h3>More baking deals at Amazon</h3><ul><li><p><a href="https://zdcs.link/91bEbn?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Dessert%20Person%20by%20Claire%20Saffitz&object_type=article&object_uuid=07mbPj2xCLbFX2gV6Rt1ZFj&short_url=91bEbn&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body"><em>Dessert Person</em> by Claire Saffitz</a> &mdash; <strong>$15.67</strong> <s>$35</s> (save $19.33)</p></li><li><p><a href="https://zdcs.link/QGVAGq?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Nordic%20Ware%203%20Piece%20Baker%27s%20Delight%20Set&object_type=article&object_uuid=07mbPj2xCLbFX2gV6Rt1ZFj&short_url=QGVAGq&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">Nordic Ware 3 Piece Baker's Delight Set</a> &mdash; <strong>$35.26</strong> <s>$39.99</s> (save $4.73)</p></li><li><p><a href="https://zdcs.link/92bY4D?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=USA%20Pan%20Bakeware%20Cookie%20Sheet%20%28set%20of%202%29&object_type=article&object_uuid=07mbPj2xCLbFX2gV6Rt1ZFj&short_url=92bY4D&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">USA Pan Bakeware Cookie Sheet (set of 2)</a> &mdash; <strong>$39.76</strong> <s>$46.99</s> (save $7.23)</p></li><li><p><a href="https://zdcs.link/9ywdw6?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Calphalon%2010-Piece%20Nonstick%20Bakeware%20Set&object_type=article&object_uuid=07mbPj2xCLbFX2gV6Rt1ZFj&short_url=9ywdw6&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">Calphalon 10-Piece Nonstick Bakeware Set</a> &mdash; <strong>$67</strong> <s>$131.99</s> (save $64.99)</p></li><li><p><a href="https://zdcs.link/zjGOGL?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=KitchenAid%20Bread%20Bowl%20with%20Baking%20Lid&object_type=article&object_uuid=07mbPj2xCLbFX2gV6Rt1ZFj&short_url=zjGOGL&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">KitchenAid Bread Bowl with Baking Lid</a> &mdash; <strong>$99.95</strong> <s>$129.99</s> (save $30.04)</p></li></ul>]]></content:encoded>
-    </item>
-    <item>
-      <title><![CDATA[Amazon deal of the day: Snag the Sony ULT Wear headphones while theyre still at Cyber Monday pricing]]></title>
-      <link>https://mashable.com/article/amazon-deals-of-the-day-sony-ult-wear-headphones-dec-4</link>
-      <guid isPermaLink="false">00HMjXM9VAlNLbiGJ7T4KBU</guid>
-      <pubDate>Wed, 04 Dec 2024 16:11:34 +0000</pubDate>
-      <description><![CDATA[The best Amazon deals on Dec. 4 include the Sony ULT Wear headphones, Fitbit Charge 6, Fire Max 11 tablet, Tile Pro, and 55-inch 4-Series Fire TV.]]></description>
-      <content:encoded><![CDATA[<img src="https://helios-i.mashable.com/imagery/articles/00HMjXM9VAlNLbiGJ7T4KBU/hero-image.png" alt="Amazon Fire tablet, Fire TV, Fitbit Charge 6, Sony ULT wear headphones, and Tile Pro with orange and purple background"><div class="flex flex-col mx-auto mt-6 mb-16 max-w-3xl font-sans md:mt-10 md:border-b-2 md:border-gray-100">
-    <div class="mb-1 text-xl font-bold">
-        Check out the best Amazon deals of the day as of Dec. 4:
-    </div>
-            <hr class="border border-gray-100 mx-auto !mt-0 !max-w-full">
-        <div class="py-6 md:flex md:justify-between md:items-stretch">
-            <div class="flex md:w-3/4">
-                <div class="pr-3 w-full md:order-2 md:ml-4 md:ml-8 md:w-3/4">
-                                            <div class="text-sm font-bold uppercase">
-                            OUR TOP PICK
-                        </div>
-                                        <div class="mt-1 text-sm">
-                                                    <a data-ga-click data-ga-module="product-summary-list" data-ga-element="offer" data-ga-item="buy-link" class="mb-5 text-lg font-bold leading-tight hover:underline text-secondary-300" href="https://zdcs.link/Qx7D3k?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-link&element_label=Sony%20ULT%20Wear%20headphones&object_type=article&object_uuid=00HMjXM9VAlNLbiGJ7T4KBU&short_url=Qx7D3k&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" rel="sponsored" title="(opens in a new window)">
-                                Sony ULT Wear headphones
-                            </a>
-                                                <div class="mt-1">
-                            <span class="font-bold md:text-base text-primary-400">$148</span>
-                                                            <span class="text-primary-400">(save $51.99)</span>
-                                                    </div>
-                    </div>
-                </div>
-                <div class="my-auto w-1/4 md:order-1 md:w-1/5 md:max-h-36">
-                                            <img class="my-auto mx-auto max-h-full" src="https://helios-i.mashable.com/imagery/articles/00HMjXM9VAlNLbiGJ7T4KBU/images-14.fit_lim.size_87x133.v1733324736.jpg" alt="Sony ULT Wear headphones in black" width="87" height="133" loading="lazy">
-
-
-                                    </div>
-            </div>
-            <div class="mt-6 mb-2 w-full md:my-auto md:w-1/4">
-                                    <a class="w-full font-bold leading-6 text-center whitespace-nowrap hover:underline" href="https://zdcs.link/Qx7D3k?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=00HMjXM9VAlNLbiGJ7T4KBU&short_url=Qx7D3k&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="$text" data-ga-element="offer" data-ga-module="product-summary-list" data-ga-click rel="sponsored" title="(opens in a new window)">
-                        <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide overflow-ellipsis line-clamp-1 btn btn-secondary">
-                            Get Deal
-                        </button>
-                    </a>
-                            </div>
-        </div>
-            <hr class="border border-gray-100 mx-auto !mt-0 !max-w-full">
-        <div class="py-6 md:flex md:justify-between md:items-stretch">
-            <div class="flex md:w-3/4">
-                <div class="pr-3 w-full md:order-2 md:ml-4 md:ml-8 md:w-3/4">
-                                            <div class="text-sm font-bold uppercase">
-                            BEST TABLET DEAL
-                        </div>
-                                        <div class="mt-1 text-sm">
-                                                    <a data-ga-click data-ga-module="product-summary-list" data-ga-element="offer" data-ga-item="buy-link" class="mb-5 text-lg font-bold leading-tight hover:underline text-secondary-300" href="https://zdcs.link/aNDNxX?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-link&element_label=Amazon%20Fire%20Max%2011&object_type=article&object_uuid=00HMjXM9VAlNLbiGJ7T4KBU&short_url=aNDNxX&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" rel="sponsored" title="(opens in a new window)">
-                                Amazon Fire Max 11
-                            </a>
-                                                <div class="mt-1">
-                            <span class="font-bold md:text-base text-primary-400">$139.99</span>
-                                                            <span class="text-primary-400">(save $90)</span>
-                                                    </div>
-                    </div>
-                </div>
-                <div class="my-auto w-1/4 md:order-1 md:w-1/5 md:max-h-36">
-                                            <img class="my-auto mx-auto max-h-full" src="https://helios-i.mashable.com/imagery/articles/00HMjXM9VAlNLbiGJ7T4KBU/images-13.fit_lim.size_164x133.v1733324736.jpg" alt="Amazon Fire Max 11 tablet" width="164" height="133" loading="lazy">
-
-
-                                    </div>
-            </div>
-            <div class="mt-6 mb-2 w-full md:my-auto md:w-1/4">
-                                    <a class="w-full font-bold leading-6 text-center whitespace-nowrap hover:underline" href="https://zdcs.link/aNDNxX?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=00HMjXM9VAlNLbiGJ7T4KBU&short_url=aNDNxX&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="$text" data-ga-element="offer" data-ga-module="product-summary-list" data-ga-click rel="sponsored" title="(opens in a new window)">
-                        <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide overflow-ellipsis line-clamp-1 btn btn-secondary">
-                            Get Deal
-                        </button>
-                    </a>
-                            </div>
-        </div>
-            <hr class="border border-gray-100 mx-auto !mt-0 !max-w-full">
-        <div class="py-6 md:flex md:justify-between md:items-stretch">
-            <div class="flex md:w-3/4">
-                <div class="pr-3 w-full md:order-2 md:ml-4 md:ml-8 md:w-3/4">
-                                            <div class="text-sm font-bold uppercase">
-                            BEST FITNESS TRACKER DEAL
-                        </div>
-                                        <div class="mt-1 text-sm">
-                                                    <a data-ga-click data-ga-module="product-summary-list" data-ga-element="offer" data-ga-item="buy-link" class="mb-5 text-lg font-bold leading-tight hover:underline text-secondary-300" href="https://zdcs.link/QWdVqN?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-link&element_label=Fitbit%20Charge%206&object_type=article&object_uuid=00HMjXM9VAlNLbiGJ7T4KBU&short_url=QWdVqN&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" rel="sponsored" title="(opens in a new window)">
-                                Fitbit Charge 6
-                            </a>
-                                                <div class="mt-1">
-                            <span class="font-bold md:text-base text-primary-400">$99.95</span>
-                                                            <span class="text-primary-400">(save $60)</span>
-                                                    </div>
-                    </div>
-                </div>
-                <div class="my-auto w-1/4 md:order-1 md:w-1/5 md:max-h-36">
-                                            <img class="my-auto mx-auto max-h-full" src="https://helios-i.mashable.com/imagery/articles/00HMjXM9VAlNLbiGJ7T4KBU/images-12.fit_lim.size_112x133.v1733324736.jpg" alt="Fitbit Charge 6" width="112" height="133" loading="lazy">
-
-
-                                    </div>
-            </div>
-            <div class="mt-6 mb-2 w-full md:my-auto md:w-1/4">
-                                    <a class="w-full font-bold leading-6 text-center whitespace-nowrap hover:underline" href="https://zdcs.link/QWdVqN?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=00HMjXM9VAlNLbiGJ7T4KBU&short_url=QWdVqN&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="$text" data-ga-element="offer" data-ga-module="product-summary-list" data-ga-click rel="sponsored" title="(opens in a new window)">
-                        <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide overflow-ellipsis line-clamp-1 btn btn-secondary">
-                            Get Deal
-                        </button>
-                    </a>
-                            </div>
-        </div>
-            <hr class="border border-gray-100 mx-auto !mt-0 !max-w-full">
-        <div class="py-6 md:flex md:justify-between md:items-stretch">
-            <div class="flex md:w-3/4">
-                <div class="pr-3 w-full md:order-2 md:ml-4 md:ml-8 md:w-3/4">
-                                            <div class="text-sm font-bold uppercase">
-                            BEST TRAVEL DEAL
-                        </div>
-                                        <div class="mt-1 text-sm">
-                                                    <a data-ga-click data-ga-module="product-summary-list" data-ga-element="offer" data-ga-item="buy-link" class="mb-5 text-lg font-bold leading-tight hover:underline text-secondary-300" href="https://zdcs.link/ao5Aeb?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-link&element_label=Tile%20Pro%20Bluetooth%20tracker&object_type=article&object_uuid=00HMjXM9VAlNLbiGJ7T4KBU&short_url=ao5Aeb&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" rel="sponsored" title="(opens in a new window)">
-                                Tile Pro Bluetooth tracker
-                            </a>
-                                                <div class="mt-1">
-                            <span class="font-bold md:text-base text-primary-400">$27.99</span>
-                                                            <span class="text-primary-400">(save $7)</span>
-                                                    </div>
-                    </div>
-                </div>
-                <div class="my-auto w-1/4 md:order-1 md:w-1/5 md:max-h-36">
-                                            <img class="my-auto mx-auto max-h-full" src="https://helios-i.mashable.com/imagery/articles/00HMjXM9VAlNLbiGJ7T4KBU/images-11.fit_lim.size_97x133.v1733324736.jpg" alt="Tile Pro tracker" width="97" height="133" loading="lazy">
-
-
-                                    </div>
-            </div>
-            <div class="mt-6 mb-2 w-full md:my-auto md:w-1/4">
-                                    <a class="w-full font-bold leading-6 text-center whitespace-nowrap hover:underline" href="https://zdcs.link/ao5Aeb?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=00HMjXM9VAlNLbiGJ7T4KBU&short_url=ao5Aeb&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="$text" data-ga-element="offer" data-ga-module="product-summary-list" data-ga-click rel="sponsored" title="(opens in a new window)">
-                        <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide overflow-ellipsis line-clamp-1 btn btn-secondary">
-                            Get Deal
-                        </button>
-                    </a>
-                            </div>
-        </div>
-            <hr class="border border-gray-100 mx-auto !mt-0 !max-w-full">
-        <div class="py-6 md:flex md:justify-between md:items-stretch">
-            <div class="flex md:w-3/4">
-                <div class="pr-3 w-full md:order-2 md:ml-4 md:ml-8 md:w-3/4">
-                                            <div class="text-sm font-bold uppercase">
-                            BEST TV DEAL
-                        </div>
-                                        <div class="mt-1 text-sm">
-                                                    <a data-ga-click data-ga-module="product-summary-list" data-ga-element="offer" data-ga-item="buy-link" class="mb-5 text-lg font-bold leading-tight hover:underline text-secondary-300" href="https://zdcs.link/QddjMZ?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-link&element_label=Amazon%2055-inch%204-Series%20Fire%20TV&object_type=article&object_uuid=00HMjXM9VAlNLbiGJ7T4KBU&short_url=QddjMZ&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" rel="sponsored" title="(opens in a new window)">
-                                Amazon 55-inch 4-Series Fire TV
-                            </a>
-                                                <div class="mt-1">
-                            <span class="font-bold md:text-base text-primary-400">$379.99</span>
-                                                            <span class="text-primary-400">(save $80)</span>
-                                                    </div>
-                    </div>
-                </div>
-                <div class="my-auto w-1/4 md:order-1 md:w-1/5 md:max-h-36">
-                                            <img class="my-auto mx-auto max-h-full" src="https://helios-i.mashable.com/imagery/articles/00HMjXM9VAlNLbiGJ7T4KBU/images-10.fit_lim.size_207x133.v1733324736.jpg" alt="Amazon Fire TV with orange and blue swirls on screen" width="207" height="133" loading="lazy">
-
-
-                                    </div>
-            </div>
-            <div class="mt-6 mb-2 w-full md:my-auto md:w-1/4">
-                                    <a class="w-full font-bold leading-6 text-center whitespace-nowrap hover:underline" href="https://zdcs.link/QddjMZ?pageview_type=RSS&template=article&module=product-summary-list&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=00HMjXM9VAlNLbiGJ7T4KBU&short_url=QddjMZ&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="$text" data-ga-element="offer" data-ga-module="product-summary-list" data-ga-click rel="sponsored" title="(opens in a new window)">
-                        <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide overflow-ellipsis line-clamp-1 btn btn-secondary">
-                            Get Deal
-                        </button>
-                    </a>
-                            </div>
-        </div>
-    </div>
-<p>It's hard to fathom, but another <a href="https://mashable.com/category/cyber-monday" target="_self" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">Cyber Week</a> has come and gone. We saw some incredibly impressive deals for Black Friday and Cyber Monday on tech, kitchen gadgets, outdoor gear, streaming services, and so much more. If you missed out on the biggest sale of the season, no need to fret. Fortunately, <a href="https://mashable.com/category/amazon" target="_self" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">Amazon</a> has plenty of lingering discounts you can still grab. We've rounded up a few of our favorites still live on Dec. 4.</p><p>Here are our top picks for the best Amazon deals of the day. If none of these are your cup of tea, check back tomorrow for a whole new round of picks.</p><h2>Our top pick: Sony ULT Wear headphones</h2><div class="flex flex-col mx-auto mt-8 mb-16 max-w-3xl font-sans md:flex-row pogoClear">
-    <div class="mx-auto w-64 md:mx-0 md:w-1/3">
-                                                        <a class="block group" href="https://zdcs.link/Qx7D3k?pageview_type=RSS&template=article&module=shop-card&element=offer&item=image&element_label=image&object_type=article&object_uuid=00HMjXM9VAlNLbiGJ7T4KBU&short_url=Qx7D3k&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank"title="(opens in a new window)" data-ga-action="product_image" data-ga-label="image" data-ga-item="image" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="1" data-ga-click>
-                                                                            <img class="mx-auto" src="https://helios-i.mashable.com/imagery/articles/00HMjXM9VAlNLbiGJ7T4KBU/images-14.fill.size_167x256.v1733324736.jpg" alt="Sony ULT Wear headphones in black" width="167" height="256" loading="lazy">
-
-
-                        
-                        <div class="block relative mx-14 group-hover:visible tooltip">
-                    <span class="absolute invisible p-1 mt-2 text-xs text-center text-white group-hover:visible tooltiptext bg-gray-600/0 group-hover:bg-gray-600/100">
-                        Opens in a new window
-                    </span>
-                        </div>
-                                            </a>
-                                <div class="mt-2 leading-none text-left">
-                                            <span class="pr-5 mt-1 text-xs text-gray-600 subtitle-2">Credit: Sony</span>
-                                    </div>
-                        </div>
-    <div class="pl-0 mt-3 w-full md:pr-10 md:pl-7 md:mt-0 md:w-2/3">
-                                    <a href="https://zdcs.link/Qx7D3k?pageview_type=RSS&template=article&module=shop-card&element=offer&item=title&element_label=Sony%20ULT%20Wear%20headphones&object_type=article&object_uuid=00HMjXM9VAlNLbiGJ7T4KBU&short_url=Qx7D3k&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank" class="block mb-5 text-xl font-bold leading-8 text-center md:text-2xl md:text-left hover:underline text-secondary-300" data-ga-action="offer-title" data-ga-item="title" data-ga-element="offer" data-ga-module="shop-card" data-ga-label="Sony ULT Wear headphones" data-ga-position="1" data-ga-click title="(opens in a new window)">
-                    Sony ULT Wear headphones
-                </a>
-                                        <div class="flex justify-between items-center py-0 md:space-x-2">
-                <div class="md:w-2/3" style="line-height: 0.75rem">
-                                            <span class="text-sm font-bold">$148.00</span>
-                                                    <span class="text-xs"> at Amazon</span>
-                                                <br>
-                                                                                            <span class="text-xs font-bold line-through">$199.99</span>
-                                                                            <span class="text-xs font-bold text-red-400"> Save $51.99</span>
-                                                            </div>
-            </div>
-                                                    <a class="font-bold leading-6 text-center hover:underline" href="https://zdcs.link/Qx7D3k?pageview_type=RSS&template=article&module=shop-card&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=00HMjXM9VAlNLbiGJ7T4KBU&short_url=Qx7D3k&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="Get Deal" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="1" data-ga-click title="(opens in a new window)">
-                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide md:w-auto md:text-lg btn btn-secondary">Get Deal</button>
-                </a>
-                        </div>
-</div>
-<p>"We try not to make sweeping claims in our reviews at Mashable, but these honestly might be my favorite pair of headphones I&rsquo;ve tried &mdash; especially when you consider the price," writes Deputy Shopping and Reviews Editor Miller Kern. The Sony ULT Wear headphones offer multiple bass levels, punchy 360-degree sound, solid noise cancellation, customizable EQs, and intuitive on-ear controls, all for just under $200 on a regular day. Post-Cyber Monday, these babies are still sitting at $148 &mdash;&nbsp;a savings of 26% and the <a href="https://camelcamelcamel.com/product/B0CWVXTK6Z" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">lowest price on record</a>.</p><p><a href="https://mashable.com/review/sony-ult-wear-headphones" target="_self" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body"><em>Check out our full review of the Sony ULT Wear headphones</em></a>.</p><h2>Amazon Fire Max 11 tablet</h2><div class="flex flex-col mx-auto mt-8 mb-16 max-w-3xl font-sans md:flex-row pogoClear">
-    <div class="mx-auto w-64 md:mx-0 md:w-1/3">
-                                                        <a class="block group" href="https://zdcs.link/aNDNxX?pageview_type=RSS&template=article&module=shop-card&element=offer&item=image&element_label=image&object_type=article&object_uuid=00HMjXM9VAlNLbiGJ7T4KBU&short_url=aNDNxX&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank"title="(opens in a new window)" data-ga-action="product_image" data-ga-label="image" data-ga-item="image" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="2" data-ga-click>
-                                                                            <img class="w-full" src="https://helios-i.mashable.com/imagery/articles/00HMjXM9VAlNLbiGJ7T4KBU/images-13.fill.size_256x207.v1733324736.jpg" alt="Amazon Fire Max 11 tablet" width="256" height="207" loading="lazy">
-
-
-                        
-                        <div class="block relative mx-14 group-hover:visible tooltip">
-                    <span class="absolute invisible p-1 mt-2 text-xs text-center text-white group-hover:visible tooltiptext bg-gray-600/0 group-hover:bg-gray-600/100">
-                        Opens in a new window
-                    </span>
-                        </div>
-                                            </a>
-                                <div class="mt-2 leading-none text-left">
-                                            <span class="pr-5 mt-1 text-xs text-gray-600 subtitle-2">Credit: Amazon</span>
-                                    </div>
-                        </div>
-    <div class="pl-0 mt-3 w-full md:pr-10 md:pl-7 md:mt-0 md:w-2/3">
-                                    <a href="https://zdcs.link/aNDNxX?pageview_type=RSS&template=article&module=shop-card&element=offer&item=title&element_label=Amazon%20Fire%20Max%2011%20tablet&object_type=article&object_uuid=00HMjXM9VAlNLbiGJ7T4KBU&short_url=aNDNxX&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank" class="block mb-5 text-xl font-bold leading-8 text-center md:text-2xl md:text-left hover:underline text-secondary-300" data-ga-action="offer-title" data-ga-item="title" data-ga-element="offer" data-ga-module="shop-card" data-ga-label="Amazon Fire Max 11 tablet" data-ga-position="2" data-ga-click title="(opens in a new window)">
-                    Amazon Fire Max 11 tablet
-                </a>
-                                        <div class="flex justify-between items-center py-0 md:space-x-2">
-                <div class="md:w-2/3" style="line-height: 0.75rem">
-                                            <span class="text-sm font-bold">$139.99</span>
-                                                    <span class="text-xs"> at Amazon</span>
-                                                <br>
-                                                                                            <span class="text-xs font-bold line-through">$229.99</span>
-                                                                            <span class="text-xs font-bold text-red-400"> Save $90.00</span>
-                                                            </div>
-            </div>
-                                                    <a class="font-bold leading-6 text-center hover:underline" href="https://zdcs.link/aNDNxX?pageview_type=RSS&template=article&module=shop-card&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=00HMjXM9VAlNLbiGJ7T4KBU&short_url=aNDNxX&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="Get Deal" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="2" data-ga-click title="(opens in a new window)">
-                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide md:w-auto md:text-lg btn btn-secondary">Get Deal</button>
-                </a>
-                        </div>
-</div>
-<p>Not only is the Fire Max 11 our <a href="https://mashable.com/roundup/best-tablets" target="_self" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">favorite budget tablet</a>, but it's also <a href="https://mashable.com/review/amazon-fire-max-11-tablet" target="_self" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">Amazon's best iPad competitor</a>. At full price, it'll run you $229.99, but thanks to a Cyber Monday deal that's still sticking around, it's down to just $139.99. That's a savings of 39% and matches its <a href="https://camelcamelcamel.com/product/B0B1VQ1ZQY" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">all-time low</a>. It features a crisp 11-inch display (the largest Fire tablet you can buy), 8MP cameras that support 1080p video, 14-hour battery life, an upgraded octa-core processor, and WiFi 6 compatibility. As Mashable's reviewer noted, it's also "blazing fast, making it a good alternative to pricier tablets for streaming and games."</p><p><a href="https://mashable.com/review/amazon-fire-max-11-tablet" target="_self" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body"><em>Check out our full review of the Amazon Fire Max 11 tablet</em></a>.</p><h2>Fitbit Charge 6</h2><div class="flex flex-col mx-auto mt-8 mb-16 max-w-3xl font-sans md:flex-row pogoClear">
-    <div class="mx-auto w-64 md:mx-0 md:w-1/3">
-                                                        <a class="block group" href="https://zdcs.link/QWdVqN?pageview_type=RSS&template=article&module=shop-card&element=offer&item=image&element_label=image&object_type=article&object_uuid=00HMjXM9VAlNLbiGJ7T4KBU&short_url=QWdVqN&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank"title="(opens in a new window)" data-ga-action="product_image" data-ga-label="image" data-ga-item="image" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="3" data-ga-click>
-                                                                            <img class="mx-auto" src="https://helios-i.mashable.com/imagery/articles/00HMjXM9VAlNLbiGJ7T4KBU/images-12.fill.size_215x256.v1733324736.jpg" alt="Fitbit Charge 6" width="215" height="256" loading="lazy">
-
-
-                        
-                        <div class="block relative mx-14 group-hover:visible tooltip">
-                    <span class="absolute invisible p-1 mt-2 text-xs text-center text-white group-hover:visible tooltiptext bg-gray-600/0 group-hover:bg-gray-600/100">
-                        Opens in a new window
-                    </span>
-                        </div>
-                                            </a>
-                                <div class="mt-2 leading-none text-left">
-                                            <span class="pr-5 mt-1 text-xs text-gray-600 subtitle-2">Credit: Fitbit</span>
-                                    </div>
-                        </div>
-    <div class="pl-0 mt-3 w-full md:pr-10 md:pl-7 md:mt-0 md:w-2/3">
-                                    <a href="https://zdcs.link/QWdVqN?pageview_type=RSS&template=article&module=shop-card&element=offer&item=title&element_label=Fitbit%20Charge%206&object_type=article&object_uuid=00HMjXM9VAlNLbiGJ7T4KBU&short_url=QWdVqN&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank" class="block mb-5 text-xl font-bold leading-8 text-center md:text-2xl md:text-left hover:underline text-secondary-300" data-ga-action="offer-title" data-ga-item="title" data-ga-element="offer" data-ga-module="shop-card" data-ga-label="Fitbit Charge 6" data-ga-position="3" data-ga-click title="(opens in a new window)">
-                    Fitbit Charge 6
-                </a>
-                                        <div class="flex justify-between items-center py-0 md:space-x-2">
-                <div class="md:w-2/3" style="line-height: 0.75rem">
-                                            <span class="text-sm font-bold">$99.95</span>
-                                                    <span class="text-xs"> at Amazon</span>
-                                                <br>
-                                                                                            <span class="text-xs font-bold line-through">$159.95</span>
-                                                                            <span class="text-xs font-bold text-red-400"> Save $60.00</span>
-                                                            </div>
-            </div>
-                                                    <a class="font-bold leading-6 text-center hover:underline" href="https://zdcs.link/QWdVqN?pageview_type=RSS&template=article&module=shop-card&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=00HMjXM9VAlNLbiGJ7T4KBU&short_url=QWdVqN&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="Get Deal" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="3" data-ga-click title="(opens in a new window)">
-                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide md:w-auto md:text-lg btn btn-secondary">Get Deal</button>
-                </a>
-                        </div>
-</div>
-<p>The Fitbit Charge 6 was one of <a href="https://mashable.com/article/what-mashable-readers-bought-cyber-monday-2024" target="_self" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">our readers' top purchases</a> this Cyber Week, and we can see why. As far as fitness trackers go, it's <a href="https://mashable.com/roundup/wearable-fitness-trackers-guide" target="_self" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">one of the best</a> &mdash; and it's still sitting at its best-ever price of $99.95 (that's 38% off). With a seven-day battery life, over 40 exercise modes, a heart rate monitor, sleep tracking, a built-in GPS, it'll give you solid insight into your health and habits. It also comes with six months of Fitbit Premium to help you really kickstart your fitness routine.</p><h2>Tile Pro Bluetooth tracker</h2><div class="flex flex-col mx-auto mt-8 mb-16 max-w-3xl font-sans md:flex-row pogoClear">
-    <div class="mx-auto w-64 md:mx-0 md:w-1/3">
-                                                        <a class="block group" href="https://zdcs.link/ao5Aeb?pageview_type=RSS&template=article&module=shop-card&element=offer&item=image&element_label=image&object_type=article&object_uuid=00HMjXM9VAlNLbiGJ7T4KBU&short_url=ao5Aeb&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank"title="(opens in a new window)" data-ga-action="product_image" data-ga-label="image" data-ga-item="image" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="4" data-ga-click>
-                                                                            <img class="mx-auto" src="https://helios-i.mashable.com/imagery/articles/00HMjXM9VAlNLbiGJ7T4KBU/images-11.fill.size_187x256.v1733324736.jpg" alt="Tile Pro tracker" width="187" height="256" loading="lazy">
-
-
-                        
-                        <div class="block relative mx-14 group-hover:visible tooltip">
-                    <span class="absolute invisible p-1 mt-2 text-xs text-center text-white group-hover:visible tooltiptext bg-gray-600/0 group-hover:bg-gray-600/100">
-                        Opens in a new window
-                    </span>
-                        </div>
-                                            </a>
-                                <div class="mt-2 leading-none text-left">
-                                            <span class="pr-5 mt-1 text-xs text-gray-600 subtitle-2">Credit: Tile by Life360</span>
-                                    </div>
-                        </div>
-    <div class="pl-0 mt-3 w-full md:pr-10 md:pl-7 md:mt-0 md:w-2/3">
-                                    <a href="https://zdcs.link/ao5Aeb?pageview_type=RSS&template=article&module=shop-card&element=offer&item=title&element_label=Tile%20Pro%20%282024%29&object_type=article&object_uuid=00HMjXM9VAlNLbiGJ7T4KBU&short_url=ao5Aeb&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank" class="block mb-5 text-xl font-bold leading-8 text-center md:text-2xl md:text-left hover:underline text-secondary-300" data-ga-action="offer-title" data-ga-item="title" data-ga-element="offer" data-ga-module="shop-card" data-ga-label="Tile Pro (2024)" data-ga-position="4" data-ga-click title="(opens in a new window)">
-                    Tile Pro (2024)
-                </a>
-                                        <div class="flex justify-between items-center py-0 md:space-x-2">
-                <div class="md:w-2/3" style="line-height: 0.75rem">
-                                            <span class="text-sm font-bold">$27.99</span>
-                                                    <span class="text-xs"> at Amazon</span>
-                                                <br>
-                                                                                            <span class="text-xs font-bold line-through">$34.99</span>
-                                                                            <span class="text-xs font-bold text-red-400"> Save $7.00</span>
-                                                            </div>
-            </div>
-                                                    <a class="font-bold leading-6 text-center hover:underline" href="https://zdcs.link/ao5Aeb?pageview_type=RSS&template=article&module=shop-card&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=00HMjXM9VAlNLbiGJ7T4KBU&short_url=ao5Aeb&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="Get Deal" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="4" data-ga-click title="(opens in a new window)">
-                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide md:w-auto md:text-lg btn btn-secondary">Get Deal</button>
-                </a>
-                        </div>
-</div>
-<p>If you have holiday travel plans, you may want to grab yourself a <a href="https://mashable.com/roundup/best-bluetooth-trackers" target="_self" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">Bluetooth tracker</a> before jetting off. The Tile Pro is one of our favorite options (the best AirTag alternative) and the newest iteration is on sale for just $27.99. That's 20% off its usual price. Paired with the Tile app on your phone, you can have constant intel on the whereabouts of your luggage. You can also attach it to your purse, wallet, keys, or practically anything else you want to keep tabs on. Just press a button on your phone and a loud remote chime will alert you to your lost items from hundreds of feet away. </p><h2>Amazon 55-inch 4-Series Fire TV</h2><div class="flex flex-col mx-auto mt-8 mb-16 max-w-3xl font-sans md:flex-row pogoClear">
-    <div class="mx-auto w-64 md:mx-0 md:w-1/3">
-                                                        <a class="block group" href="https://zdcs.link/QddjMZ?pageview_type=RSS&template=article&module=shop-card&element=offer&item=image&element_label=image&object_type=article&object_uuid=00HMjXM9VAlNLbiGJ7T4KBU&short_url=QddjMZ&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank"title="(opens in a new window)" data-ga-action="product_image" data-ga-label="image" data-ga-item="image" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="5" data-ga-click>
-                                                                            <img class="w-full" src="https://helios-i.mashable.com/imagery/articles/00HMjXM9VAlNLbiGJ7T4KBU/images-10.fill.size_256x165.v1733324736.jpg" alt="Amazon Fire TV with orange and blue swirls on screen" width="256" height="165" loading="lazy">
-
-
-                        
-                        <div class="block relative mx-14 group-hover:visible tooltip">
-                    <span class="absolute invisible p-1 mt-2 text-xs text-center text-white group-hover:visible tooltiptext bg-gray-600/0 group-hover:bg-gray-600/100">
-                        Opens in a new window
-                    </span>
-                        </div>
-                                            </a>
-                                <div class="mt-2 leading-none text-left">
-                                            <span class="pr-5 mt-1 text-xs text-gray-600 subtitle-2">Credit: Amazon</span>
-                                    </div>
-                        </div>
-    <div class="pl-0 mt-3 w-full md:pr-10 md:pl-7 md:mt-0 md:w-2/3">
-                                    <a href="https://zdcs.link/QddjMZ?pageview_type=RSS&template=article&module=shop-card&element=offer&item=title&element_label=Amazon%2055-inch%204-Series%20Fire%20TV&object_type=article&object_uuid=00HMjXM9VAlNLbiGJ7T4KBU&short_url=QddjMZ&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"target="_blank" class="block mb-5 text-xl font-bold leading-8 text-center md:text-2xl md:text-left hover:underline text-secondary-300" data-ga-action="offer-title" data-ga-item="title" data-ga-element="offer" data-ga-module="shop-card" data-ga-label="Amazon 55-inch 4-Series Fire TV" data-ga-position="5" data-ga-click title="(opens in a new window)">
-                    Amazon 55-inch 4-Series Fire TV
-                </a>
-                                        <div class="flex justify-between items-center py-0 md:space-x-2">
-                <div class="md:w-2/3" style="line-height: 0.75rem">
-                                            <span class="text-sm font-bold">$379.99</span>
-                                                    <span class="text-xs"> at Amazon</span>
-                                                <br>
-                                                                                            <span class="text-xs font-bold line-through">$459.99</span>
-                                                                            <span class="text-xs font-bold text-red-400"> Save $80.00</span>
-                                                            </div>
-            </div>
-                                                    <a class="font-bold leading-6 text-center hover:underline" href="https://zdcs.link/QddjMZ?pageview_type=RSS&template=article&module=shop-card&element=offer&item=buy-button&element_label=Get%20Deal&object_type=article&object_uuid=00HMjXM9VAlNLbiGJ7T4KBU&short_url=QddjMZ&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored" target="_blank" data-ga-action="buy-link" data-ga-item="buy-button" data-ga-label="Get Deal" data-ga-element="offer" data-ga-module="shop-card" data-ga-position="5" data-ga-click title="(opens in a new window)">
-                    <button class="inline-block px-5 mt-3 w-full font-sans text-base font-bold tracking-wide md:w-auto md:text-lg btn btn-secondary">Get Deal</button>
-                </a>
-                        </div>
-</div>
-<p>Amazon just dropped a <a href="https://www.aboutamazon.com/news/devices/amazon-new-fire-tv-omni-soundbar-4-series" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">brand-new version</a> of its most popular smart TV last month &mdash;&nbsp;the 4-Series. And in true Amazon fashion, it's already on sale for $80 off. The latest 4-Series now features an ultraslim bezel that fades into the background, making your content more immersive. Otherwise, it's largely the same TV Fire TV fans know and love. It supports vivid 4K Ultra HD, HDR10, HLG, and Dolby Digital Plus, comes with the Alexa Voice Remote Enhanced, and features four HDMI inputs to connect all your gaming and audio peripherals. The 55-inch model is priced at $459.99, but it's down to $379.99 post-Cyber Monday.</p><p><em>None of these deals catching your eye? Check out <a href="https://zdcs.link/MjrX1?pageview_type=RSS&template=article&module=content_body&element=offer&item=text-link&element_label=Amazon%27s%20daily%20deals&object_type=article&object_uuid=00HMjXM9VAlNLbiGJ7T4KBU&short_url=MjrX1&u=https%3A%2F%2Fmashable.com%2Ffeeds%2Frss%2Fall" rel="sponsored"title="(opens in a new window)" target="_blank" data-ga-click="1" data-ga-label="$text" data-ga-item="text-link" data-ga-module="content_body">Amazon's daily deals</a></em><em> for even more savings.</em></p>]]></content:encoded>
     </item>
   </channel>
 </rss>
