@@ -6,7 +6,7 @@
 	<title type="text">Vox</title>
 	<subtitle type="text"></subtitle>
 
-	<updated>2024-12-05T22:19:04+00:00</updated>
+	<updated>2024-12-06T15:02:51+00:00</updated>
 
 	<link rel="alternate" type="text/html" href="https://www.vox.com" />
 	<id>https://www.vox.com/rss/index.xml</id>
@@ -14,6 +14,182 @@
 
 	<icon>https://platform.vox.com/wp-content/uploads/sites/2/2024/08/vox_logo_rss_light_mode.png?w=150&amp;h=100&amp;crop=1</icon>
 		<entry>
+			
+			<author>
+				<name>Kelsey Piper</name>
+			</author>
+			
+			<title type="html"><![CDATA[Is AI progress slowing down?]]></title>
+			<link rel="alternate" type="text/html" href="https://www.vox.com/future-perfect/389997/artificial-intelligence-openai-google-microsoft-chatgpt-progress-scaling" />
+			<id>https://www.vox.com/?p=389997</id>
+			<updated>2024-12-05T17:29:51-05:00</updated>
+			<published>2024-12-06T08:30:00-05:00</published>
+			<category scheme="https://www.vox.com" term="Artificial Intelligence" /><category scheme="https://www.vox.com" term="Big Tech" /><category scheme="https://www.vox.com" term="Economy" /><category scheme="https://www.vox.com" term="Future Perfect" /><category scheme="https://www.vox.com" term="Google" /><category scheme="https://www.vox.com" term="Innovation" /><category scheme="https://www.vox.com" term="Money" /><category scheme="https://www.vox.com" term="Technology" />
+							<summary type="html"><![CDATA[Last month, tech outlet The Information reported that OpenAI and its competitors are switching strategies as the rate of improvement of AI has dramatically slowed. For a long time, you’ve been able to make AI systems dramatically better across a wide range of tasks just by making them bigger.&#160; Why does this matter? All kinds [&#8230;]]]></summary>
+			
+							<content type="html">
+											<![CDATA[
+
+						
+<figure>
+
+<img alt="Sam Altman" data-caption="Sam Altman speaks onstage during the New York Times Dealbook Summit 2024 at Jazz at Lincoln Center on December 4, 2024, in New York City." data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.vox.com/wp-content/uploads/sites/2/2024/12/gettyimages-2188228027.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption>Sam Altman speaks onstage during the New York Times Dealbook Summit 2024 at Jazz at Lincoln Center on December 4, 2024, in New York City.</figcaption>
+</figure>
+<p class="has-text-align-none">Last month, tech outlet The Information reported that OpenAI and its competitors are <a href="https://www.theinformation.com/articles/openai-shifts-strategy-as-rate-of-gpt-ai-improvements-slows">switching strategies</a> as the rate of improvement of AI has dramatically slowed. For a long time, you’ve been able to make AI systems dramatically better across a wide range of tasks <a href="https://www.exponentialview.co/p/can-scaling-scale">just by making them bigger</a>.&nbsp;</p>
+
+<p class="has-text-align-none">Why does this matter? All kinds of problems that were once believed to require elaborate custom solutions turned out to crumble in the face of greater scale. We have applications <a href="https://www.vox.com/future-perfect/371827/openai-chatgpt-artificial-intelligence-ai-risk-strawberry">like OpenAI’s ChatGPT</a> because of scaling laws. If that’s <a href="https://techcrunch.com/2024/11/20/ai-scaling-laws-are-showing-diminishing-returns-forcing-ai-labs-to-change-course/?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAACT9C_iOekAAHWG61JMkVWygOTOAI-R82xK3DvF8LHfcrUGezGbEBO52NXE6CHYX89QZxwNQVsF10T2ahz2z7waLkRDZ9pNn0_ctuoi5jNSF36J3UII0YaWle_6cz_tc-KjRVK2I1AA2lkxp-TGJQsX6RM55kxaPBjNj-Sr6u-u0">no longer true</a>, then the future of AI development will look a lot different — and potentially a lot less optimistic — than the past.</p>
+
+<p class="has-text-align-none">This reporting was greeted with a <a href="https://garymarcus.substack.com/p/a-new-ai-scaling-law-shell-game">chorus</a> of “I told you so” from AI skeptics. (I’m not inclined to give them too much credit, as many of them have definitely predicted 20 of the last two AI slowdowns.) But getting a sense of how AI researchers felt about it was harder. </p>
+
+<p class="has-text-align-none">Over the last few weeks, I pressed some AI researchers in academia and industry on whether they thought The Information’s story captured a real dynamic — and if so, how it would change the future of AI going forward.</p>
+
+<p class="has-text-align-none">The overall answer I’ve heard is that we should probably expect the impact of AI to grow, not shrink, over the next few years, regardless of whether naive scaling is indeed slowing down. That’s effectively because when it comes to AI, we already have an enormous amount of impact that’s just waiting to happen.&nbsp;</p>
+
+<p class="has-text-align-none">There are powerful systems already available that can do a lot of commercially valuable work — it’s just that no one has quite figured out many of the commercially valuable applications, let alone put them into practice. </p>
+
+<p class="has-text-align-none">It <a href="https://www.perplexity.ai/search/how-long-did-it-take-the-inter-NQD6wXJ0R0O_urbmRkp8YQ">took decades</a> from the internet’s birth to transform the world, and it might take decades for AI also (Maybe — many people on the cutting edge of this world are <a href="https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/#:~:text=By%202030%2C%20AI%20will%20be,human%20capabilities%20in%20other%20ways.">still very insistent</a> that in only a few years, our world will be unrecognizable.)&nbsp;</p>
+
+<p class="has-text-align-none">The bottom line: If greater scale no longer gives us greater returns, that’s a big deal with serious implications for how the AI revolution will play out, but it’s not a reason to declare the AI revolution canceled.</p>
+
+<h2 class="wp-block-heading">Most people kind of hate AI while kind of underrating it</h2>
+
+<p class="has-text-align-none">Here’s something those in the artificial intelligence bubble may not realize: AI is not a popular new technology, and it’s actually getting <a href="https://www.pewresearch.org/short-reads/2023/11/21/what-the-data-says-about-americans-views-of-artificial-intelligence/">less popular over time</a>. </p>
+
+<p class="has-text-align-none">I’ve written that I think it <a href="https://www.vox.com/future-perfect/2023/6/14/23760648/artificial-intelligence-ai-safety-progress-risks-existential-catastrophic-openai">poses extreme risks</a>, and many Americans <a href="https://www.pewresearch.org/short-reads/2023/11/21/what-the-data-says-about-americans-views-of-artificial-intelligence/">agree with me</a>, but also many people dislike it in a <a href="https://www.nytimes.com/2024/06/11/style/ai-search-slop.html">much more mundane way</a>.&nbsp;</p>
+
+<p class="has-text-align-none">Its most visible consequences so far are unpleasant and frustrating. Google Image results are full of <a href="https://www.creativebloq.com/ai/googles-ai-slop-invasion-feels-like-the-beginning-of-the-end">awful low-quality AI slop</a> instead of the cool and varied artwork that used to appear. Teachers <a href="https://theweek.com/education/1025698/artificial-intelligence-goes-to-school">can’t really assign</a> take-home essays anymore because AI-written work is so widespread, while for their part many students have been wrongly accused of using AI when they didn’t because AI detection tools are <a href="https://mitsloanedtech.mit.edu/ai/teach/ai-detectors-dont-work/">actually terrible</a>. Artists and writers <a href="https://futurism.com/the-byte/openai-exec-ai-creative-jobs-shouldnt-exist">are furious</a> about the use of our work to train models that will then take our jobs.</p>
+
+<p class="has-text-align-none">A lot of this frustration is very justified. But I think there’s an unfortunate tendency to conflate “AI sucks” with the idea that “AI isn’t that useful.” The question “what is AI good for?” is a popular one, even though in fact the answer is that AI is <a href="https://www.forbes.com/sites/bernardmarr/2023/05/10/15-amazing-real-world-applications-of-ai-everyone-should-know-about/">already good for an enormous number of things</a> and new applications are being developed at a breathtaking pace.</p>
+
+<p class="has-text-align-none">I think at times our frustration with AI slop and with the carelessness with which AI has been developed and deployed can spill over into underrating AI as a whole. A lot of people <a href="https://www.platformer.news/openai-google-scaling-laws-anthropic-ai/">eagerly pounced</a> on the news that OpenAI and competitors are struggling to make the next generation of models even better, and took it as proof that the AI wave was all hype and will be followed by bitter disappointment.</p>
+
+<p class="has-text-align-none">Two weeks later, OpenAI <a href="https://www.inc.com/ben-sherry/openais-next-generation-models-could-reportedly-cost-2000.html">announced</a> the latest generation models, and sure enough they’re better than ever. (One caveat: It’s hard to say how much of the improvement comes from scale as opposed to from the many other possible sources of improvement, so this doesn’t mean that the initial Information reporting was wrong). </p>
+
+<h2 class="wp-block-heading">Don’t let AI fool you</h2>
+
+<p class="has-text-align-none">It’s fine to dislike AI. But it’s a bad idea to underrate it. And it’s a bad habit to take each hiccup, setback, limitation, or engineering challenge as reason to expect the AI transformation of our world to come to a halt — or even to slow down. </p>
+
+<p class="has-text-align-none">Instead, I think the better way to think about this is that, at this point, an AI-driven transformation of our world is definitely going to happen. Even if larger models than those which exist today are never trained, existing technology is sufficient for large-scale disruptive changes. And reasonably often when a limitation crops up, it’s prematurely declared totally intractable … and then solved in short order. </p>
+
+<p class="has-text-align-none">After a few go-rounds of this particular dynamic, I’d like to see if we can cut it off at the pass. Yes, various technological challenges and limitations are real, and they prompt strategic changes at the large AI labs and shape how progress will play out in the future. No, the latest such challenge doesn’t mean that the AI wave is over.&nbsp;</p>
+
+<p class="has-text-align-none">AI is here to stay, and the response to it has to mature past wishing it would go away.</p>
+
+<p class="has-text-align-none"><em>A version of this story originally appeared in the&nbsp;<a href="https://www.vox.com/future-perfect">Future Perfect</a>&nbsp;newsletter.&nbsp;<a href="https://www.vox.com/pages/future-perfect-newsletter-signup">Sign up here!</a></em></p>
+						]]>
+									</content>
+			
+					</entry>
+			<entry>
+			
+			<author>
+				<name>Constance Grady</name>
+			</author>
+			
+			<title type="html"><![CDATA[The best books of 2024]]></title>
+			<link rel="alternate" type="text/html" href="https://www.vox.com/culture/389984/best-books-2024-martyr-kaveh-akbar-small-rain-garth-greenwell" />
+			<id>https://www.vox.com/?p=389984</id>
+			<updated>2024-12-06T10:02:51-05:00</updated>
+			<published>2024-12-06T07:30:00-05:00</published>
+			<category scheme="https://www.vox.com" term="Books" /><category scheme="https://www.vox.com" term="Culture" />
+							<summary type="html"><![CDATA[The second half of an election year can be a fraught one for books. Publishers tend to front-load their most interesting titles away from the election to try to keep them from being swallowed up by politics come the fall. After an election, books can feel too trivial and unserious to deserve our focus. The [&#8230;]]]></summary>
+			
+							<content type="html">
+											<![CDATA[
+
+						
+<figure>
+
+<img alt="Eight book covers on a black background, each with a colorful trail of book-shaped rectangles behind it." data-caption="" data-portal-copyright="Paige Vickers/Vox" data-has-syndication-rights="1" src="https://platform.vox.com/wp-content/uploads/sites/2/2024/12/Vox_BestBooks_ConstanceGrady_2024.png?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none">The second half of an election year can be a fraught one for books. Publishers tend to front-load their most interesting titles away from the election to try to keep them from being swallowed up by politics come the fall. After an election, books can feel too trivial and unserious to deserve our focus.</p>
+
+<p class="has-text-align-none">The books I took the most from in the second half of 2024 are the ones that fought against that impulse, that insisted on their own importance. They were works that took their subjects and their language seriously, that demanded my focus and rewarded it with something bigger and more beautiful than I could come to on my own. I hope, in these strange and confusing months, that they can do the same for you.</p>
+
+<p class="has-text-align-none">I’ve already chronicled <a href="https://www.vox.com/culture/359682/best-books-ministry-of-time-kaliane-bradley-great-expectations-vinson-cunningham">the best books of the first half of the year here</a>. (One of the below is actually from this January, but I didn’t get to it until now and it was so good that I didn’t want to keep it from you.) A number of them I first recommended in my monthly book recommendation newsletter Next Page. If you’d like to learn about the best books I’m reading early, <a href="https://www.vox.com/pages/next-page-newsletter-book-recommendations">subscribe here</a>.</p>
+
+<h3 class="wp-block-heading"><a href="https://go.skimresources.com?id=1025X1701643&amp;xs=1&amp;url=https%3A%2F%2Fbookshop.org%2Fp%2Fbooks%2Fmartyr-kaveh-akbar%2F20032523%3Fean%3D9780593537619"><em>Martyr!</em></a> by Kaveh Akbar</h3>
+
+<p class="has-text-align-none"><em>Martyr!</em>, the debut novel from poet Kaveh Akbar, is word-drunk and elegiac, an enormous pleasure to read. Just look at that exclamation point in the title: its ironic knowingness, its outrage, its euphoria. This is a book whose author has weighed every punctuation mark just that carefully.</p>
+
+<p class="has-text-align-none">The inciting incident of <em>Martyr!</em> is a true one. In 1988, <a href="https://www.nytimes.com/1988/07/04/world/downing-flight-655-us-downs-iran-airliner-mistaken-for-f-14-290-reported-dead.html">the US military shot an Iranian passenger plane out of the sky</a>, mistakenly believing it to be a fighter jet. Akbar takes as his premise the idea of a man whose mother died on that flight, instantly “turned into dust” when the missile hit the plane: “clean in a way, if you didn’t think about it too much.”</p>
+
+<p class="has-text-align-none">The motherless boy grows up to become Cyrus, a poet and a recovering addict searching aimlessly for purpose. What Cyrus cares about most is poetry, but he feels that language, rule-bound and limited, will never be able to touch his depression, “get rid of the big ball of rot inside me.” He tells his AA sponsor he wants to die, then tries to channel the impulse into a literary project about martyrs. Cyrus’s mother died because of an error the US never apologized for (“Actuarial,” Cyrus fumes, “not even tragic”), but a martyr can make their death bear meaning. Perhaps by studying them, Cyrus can give meaning to his own life.</p>
+
+<p class="has-text-align-none"><em>Martyr!</em> is a messy book. Akbar has a poet’s unease with plot, and the coincidences that power his narrative forward never manage to feel elegant. Still, the dreams and poetry and warmth that lace the novel make a triumphant case: for life, and for art, and for beauty, which matter even when they shouldn’t.&nbsp;</p>
+
+<h3 class="wp-block-heading"><a href="https://go.skimresources.com?id=1025X1701643&amp;xs=1&amp;url=https%3A%2F%2Fbookshop.org%2Fp%2Fbooks%2Fq-a-voyage-around-the-queen-craig-brown%2F21068754%3Fean%3D9780374610920"><em>Q: A Voyage Around the Queen</em></a> by Craig Brown</h3>
+
+<p class="has-text-align-none">The reign of Queen Elizabeth II was so long that contemplating it can feel, sometimes, <a href="https://www.vox.com/culture/2022/9/8/22846451/queen-elizabeth-ii-death-96-obituary-reign-monarchy">like contemplating eternity</a>. She came to the English throne in 1952, anointed by God, still expected to hand-pick her prime ministers and decide when to dissolve Parliament. At her death in 2022, Elizabeth was queen of a cosmopolitan liberal democracy with almost no real political powers left to her, but her remarkably strong aura of stateliness remained unshaken despite decades of familial royal scandal.&nbsp;</p>
+
+<figure class="wp-block-pullquote"><blockquote><p>The reign of Queen Elizabeth II was so long that contemplating it can feel, sometimes, like contemplating eternity.</p></blockquote></figure>
+
+<p class="has-text-align-none">In <em>Q</em>, Craig Brown makes Elizabeth the still, behatted center of a kaleidoscopically turning world, ever stoic and unchanging as the world powers forward without her. Brown’s trademark move is to write biographies in fragments, assembling them out of bits and pieces of other sources; he likes to go to the London Library and check the indexes of every memoir and biography in the place for mentions of his subjects. He’s got a chapter on every person who ever called Elizabeth “radiant” (including Sylvia Plath), all the surreal dreams people have about her (English novelist Kingsley Amis dreamed of trying to elope with her), all the inane things people have said in a panic when they have to make small talk with her (the author found himself expounding on the German playwright Bertolt Brecht).&nbsp;</p>
+
+<p class="has-text-align-none">Brown’s key insight is that Elizabeth was so determinedly unreadable that she became a mirror to her subjects, a figure on whom they so fervently projected their fears and aspirations&nbsp;that she ended up showing them themselves. What to make of a woman whose coronation was marked by active combat troops in Kenya firing shells filled with red, white, and blue smoke into battle? Or whose death inspired a supermarket chain to turn down the volume of the beeps on its cash registers? What, except: what strange impulses we find in our strange human selves.&nbsp;</p>
+
+<h3 class="wp-block-heading"><a href="https://go.skimresources.com?id=1025X1701643&amp;xs=1&amp;url=https%3A%2F%2Fbookshop.org%2Fp%2Fbooks%2Fsmall-rain-garth-greenwell%2F21127652%3Fean%3D9780374279547"><em>Small Rain</em></a> by Garth Greenwell</h3>
+
+<p class="has-text-align-none">Garth Greenwell is a hedonist of language. In previous books, his sentences have hummed the pleasures of the body, of sex and of conversation and poetry. In <em>Small Rain</em>, Greenwell begins with pain — five days of it, so intense, the narrator tells us, it felt as though “someone had plunged a hand into my gut and grabbed hold and yanked.” Yet even here, in this novel about illness and suffering, Greenwell cannot abandon his palpable joy at sensory pleasures, at beauty.</p>
+
+<p class="has-text-align-none">Greenwell’s narrator brings himself reluctantly to a hospital, still in the grip of early Covid in spring of 2020, after those five days of pain don’t seem to be abating. There, he occupies himself charting the power dynamics of the hospital staff and sending his partner out to bring him books of poetry. In the dream space of the hospital bed, where days follow the rhythms of tests and doctors’ rounds and meals, there are long stretches of unmarked time with which the narrator can do nothing but think. “The point was to perceive reality,” he thinks of poetry, “to see things that are only visible at a different speed, a different pitch of attention, the value of poems is tuning us to a different frequency of existence.”</p>
+
+<h3 class="wp-block-heading"><a href="https://go.skimresources.com?id=1025X1701643&amp;xs=1&amp;url=https%3A%2F%2Fbookshop.org%2Fp%2Fbooks%2Fthe-bright-sword-a-novel-of-king-arthur-lev-grossman%2F20856403%3Fean%3D9780735224049"><em>The Bright Sword</em></a> by Lev Grossman</h3>
+
+<p class="has-text-align-none">What to do about America in this moment when we are far past whatever we might imagine to be her golden age? So many of our old national myths have gone threadbare and shabby, increasingly revealed to be too flawed to sustain us now, or riddled with hidden cruelties, or always only beautiful lies. What stories can we tell about ourselves and each other now if we want to learn to move forward?</p>
+
+<p class="has-text-align-none">One of the metaphors we sometimes turn to in these moments is King Arthur’s Camelot, which provided a romantic lens for <a href="https://www.vulture.com/2016/12/jackie-life-camelot-interview-theodore-white.html">processing the assassination of John F. Kennedy in 1963</a>. In Lev Grossman’s Arthurian novel <em>The Bright Sword</em>, Camelot feels like a match for our own post-Trumpian moment. It’s a Camelot after the death of King Arthur. All the higher powers and supernatural figures who used to take an interest in Camelot’s fate have turned their backs. All the quests are over. The only people left alive are the ones who never quite fit into the stories to begin with, the ones who were too poor or too queer or too feminine or too Black to become legends. How, Grossman’s characters seem to ask, are we supposed to figure out what to do next in this kind of story?</p>
+
+<p class="has-text-align-none">The answers, when they come, are radiant, and they feel surprisingly true.</p>
+
+<h3 class="wp-block-heading"><a href="https://go.skimresources.com?id=1025X1701643&amp;xs=1&amp;url=https%3A%2F%2Fbookshop.org%2Fp%2Fbooks%2Fcreation-lake-rachel-kushner%2F21003229%3Fean%3D9781982116521"><em>Creation Lake</em></a> by Rachel Kushner</h3>
+
+<p class="has-text-align-none">Rachel Kushner’s cool-voiced ecothriller <em>Creation Lake</em> got a fascinatingly polarized reception when it came out this fall. Brandon Taylor at the London Review of Books <a href="https://www.lrb.co.uk/the-paper/v46/n17/brandon-taylor/use-your-human-mind">said it was so bad he “wanted to weep”</a>; Dwight Garner at the New York Times <a href="https://www.nytimes.com/2024/09/02/books/review/creation-lake-rachel-kushner.html">said that after the opening paragraphs</a>, he knew he was “in the hands of a major writer, one who processes experience on a deep level.” Me, I think <em>Creation Lake</em> is a rich, messy, frustrating piece of work. It doesn’t always land, but when it does? Oh boy.</p>
+
+<p class="has-text-align-none"><em>Creation Lake</em> tells the story of an American spy we know only by her alias, Sadie Smith. A Berkeley dropout, she’s been hired to infiltrate a group of radical environmentalists in rural France to see if they’re planning a terrorist action. Sadie goes about her job efficiently, but she doesn’t particularly care about the group, whose members she considers boring and hypocritical, or about the environment. Kushner handles the espionage part of the plot with an almost hostile disregard for such classic thriller elements as suspense or intrigue, but the whole book comes to life when we get to the part of the story Sadie (and, apparently, Kushner) actually cares about.</p>
+
+<figure class="wp-block-pullquote"><blockquote><p><em>Creation Lake</em> is a rich, messy, frustrating piece of work. It doesn’t always land, but when it does? Oh boy.</p></blockquote></figure>
+
+<p class="has-text-align-none">The environmentalists correspond with Bruno Lacomb, an esoteric philosopher who long ago renounced the excesses of human civilization to go live in a cave and think about Neanderthals. Periodically he emerges to use his daughter’s computer and write to his environmentalist friends, and Sadie, having hacked into their inbox, is entranced by his emails. Reading them, she winds across vast stretches of time, encountering alien and disenfranchised figures: the gentle and depressed Neanderthals of prehistory, whom Sadie imagines as 1950s greasers with Joan Crawford faces; the persecuted <a href="https://en.wikipedia.org/wiki/Cagot">Cagot</a> of medieval Europe, who Bruno provocatively suggests might have been descendants of Neanderthals; Bruno himself, a Jew who grew up in occupied France in World War II.&nbsp;</p>
+
+<p class="has-text-align-none">Sadie, who is so cynical in her interactions with the people she manipulates and uses, seems to long for Bruno’s letters to cohere into a grand unified theory that will tell her there is something worthwhile about being human, no matter how destructive human civilization may have been. She searches his emails for redemption —&nbsp;and he doesn’t, in the end, disappoint her.</p>
+
+<h3 class="wp-block-heading"><a href="https://go.skimresources.com?id=1025X1701643&amp;xs=1&amp;url=https%3A%2F%2Fbookshop.org%2Fp%2Fbooks%2Fwomen-s-hotel-daniel-m-lavery%2F21024970%3Fean%3D9780063343535"><em>Women’s Hotel</em></a> by Daniel Lavery</h3>
+
+<p class="has-text-align-none">The women’s hotel was an institution of the first half of the 20th century: a place for ambitious young women and virtuous spinsters who were modern enough to try to make something of themselves in a big city, but modest enough (either of character or of means) to want to do it in a chaperoned facility, for a reasonable fee.&nbsp;</p>
+
+<p class="has-text-align-none">In the midcentury, however, everything changed. The women’s hotel, writes Daniel Lavery in his exceptionally charming new novel, found itself “made obsolete by the credit card, by hippies and the New Age movement, by lesbianism and feminism, by the increase in affordable apartment stock and the increased acceptance of premarital cohabitation.”&nbsp;</p>
+
+<p class="has-text-align-none">Lavery’s story takes place in the 1960s, in the dying days of the women’s hotel. New York’s Biedermeier hotel, where his focus lies, was always a second-rate facility, but now, its profits are so low that it has had to stop serving breakfast, a move the penny-pinching residents take as a deep affront. (“We’re all used to breakfast now,” one laments. “It’s like smoking. You can’t just ask people to give it up once they’ve made a habit of it.”)</p>
+
+<p class="has-text-align-none">Lavery tracks the foibles of the Biedermeier’s band of misfits with a light touch. His characters were driven to its dubious comforts by family estrangement, addiction, poverty, and ambition above their means; dark subject matter, yet he writes their story with a tender affection. This novel is sweet, thoughtful, and very, very funny.</p>
+
+<h3 class="wp-block-heading"><a href="https://go.skimresources.com?id=1025X1701643&amp;xs=1&amp;url=https%3A%2F%2Fbookshop.org%2Fp%2Fbooks%2Fintermezzo-sally-rooney%2F16011779%3Fean%3D9780374602635"><em>Intermezzo</em></a> by Sally Rooney</h3>
+
+<p class="has-text-align-none">All book critics have to spend a lot of time making our way through mediocre books where the prose starts off feeling solid enough but begins to fall apart in your hands as you read on. There is so much relief, under those circumstances, in turning to a Sally Rooney novel: taking the weight of her elegant, deeply felt sentences; feeling how much control she has over the words she’s using; how strongly she believes that they should be as beautiful as she can make them. At last, the chance to relax in the presence of someone who knows what she’s doing.&nbsp;</p>
+
+<figure class="wp-block-pullquote"><blockquote><p>Beauty is where God is, which means it’s all connected to what right and wrong are, too.&nbsp;</p></blockquote></figure>
+
+<p class="has-text-align-none">In <a href="https://www.vox.com/culture/373108/sally-rooney-intermezzo-review-new-book-author"><em>Intermezzo</em></a>, Rooney shifts her usual focus on romantic couples to spotlight the relationship between brothers Peter and Ivan. Peter is a lawyer in his 30s, charming, fastidious, and depressed. Ivan is an aging chess prodigy in his 20s, awkward and perhaps autistic, trying to evolve away from adolescent flirtations with incel forums and still wearing braces on his teeth. We meet them in the aftermath of their father’s funeral, semi-estranged, each ignoring the other to focus on their own fascinating love lives. They ignore each other, they try to make up, they fight, they hurt each other as badly as they possibly can.&nbsp;</p>
+
+<p class="has-text-align-none">What elegance. What bliss. What beauty. Which is, as Ivan thinks, maybe the most important thing, anyway: Beauty is where God is, which means it’s all connected to what right and wrong are, too.&nbsp;</p>
+
+<h3 class="wp-block-heading"><a href="https://go.skimresources.com?id=1025X1701643&amp;xs=1&amp;url=https%3A%2F%2Fbookshop.org%2Fp%2Fbooks%2Fthe-empusium-a-health-resort-horror-story-olga-tokarczuk%2F21003143%3Fean%3D9780593712948"><em>The Empusium: A Health Resort Horror Story</em></a> by Olga Tokarczuk, translated by Antonia Lloyd-Jones</h3>
+
+<p class="has-text-align-none">When young Mieczysław Wojnicz arrives at the mountain resort of Görbersdorf, Poland, in 1913, he’s looking forward to a brief, healthful, and relaxing sojourn. Wojnicz is consumptive, and, like the hero of <a href="https://campuspress.yale.edu/modernismlab/the-magic-mountain/">Thomas Mann’s <em>The Magic Mountain</em></a> before him, he has put his faith in the pure mountain air to cure him.&nbsp;</p>
+
+<p class="has-text-align-none">On Wojnicz’s first day at the sanatorium, however, he arrives at his boarding house to find the dead body of his landlord’s wife stretched out on the dining room table. She’s killed herself, the landlord reports without emotion to the shaken Wojnicz.&nbsp;</p>
+
+<p class="has-text-align-none">In the wake of his disturbing discovery, Wojnicz tries to focus on the concrete rituals of sanatorium life: the cold showers and long hikes, the simple food and hard drinking, the long debates with his fellow patients about history and philosophy. Yet there’s something violent and misogynistic lurking behind these everyday habits. All of the women he meets around town seem despondent. The philosophical debates always seem to hinge on the inferiority of women. On those long mountain hikes, he keeps coming across eerily anatomical glory holes built into the earth itself.&nbsp;</p>
+
+<p class="has-text-align-none">Wojnicz doesn’t quite know what to make of all these horrors. But Olga Tokarczuk, the Polish novelist who won the Nobel Prize for Literature in 2018, is playing a long game. One hint is in the title: Empusa is a Greek shapeshifter who feeds on men. Perhaps the dead woman on the table will be avenged in the end.</p>
+						]]>
+									</content>
+			
+					</entry>
+			<entry>
 			
 			<author>
 				<name>Eric Levitz</name>
@@ -127,76 +303,6 @@
 <p class="has-text-align-none">So Sharon Block at Harvard has this “<a href="https://clje.law.harvard.edu/clean-slate/">Clean Slate For Worker Power</a>” that contains a whole lot of ideas for how to pull people into democratic work organizations of various kinds, even if they&#8217;re not in a union. I&#8217;m doing some reporting right now on wage and workers&#8217; boards and how they might be a step towards <a href="https://www.vox.com/policy-and-politics/2019/9/2/20838782/unions-for-all-seiu-sectoral-bargaining-labor-unions">sectoral bargaining</a>.</p>
 
 <p class="has-text-align-none">But my interest in all of this is driven by a faith that, if we talk about labor policy in the terms of democracy, that that&#8217;s a kind of message that could resonate with the people that Democrats have been struggling to reach. And it grounds the kind of rhetoric we saw in this campaign about the importance of democracy in the actual material interests of working-class people.</p>
-						]]>
-									</content>
-			
-					</entry>
-			<entry>
-			
-			<author>
-				<name>Keren Landman, MD</name>
-			</author>
-			
-			<title type="html"><![CDATA[Wait, should I bother using antibacterial soap?]]></title>
-			<link rel="alternate" type="text/html" href="https://www.vox.com/health/388483/soap-handwashing-antibiotics-sanitizer" />
-			<id>https://www.vox.com/?p=388483</id>
-			<updated>2024-12-03T12:13:29-05:00</updated>
-			<published>2024-12-06T06:00:00-05:00</published>
-			<category scheme="https://www.vox.com" term="Health" /><category scheme="https://www.vox.com" term="Life" /><category scheme="https://www.vox.com" term="Public Health" /><category scheme="https://www.vox.com" term="Science" /><category scheme="https://www.vox.com" term="Science of Everyday Life" />
-							<summary type="html"><![CDATA[A Vox reader asks: Why is some soap labeled antibiotic? Is there a soap that is friendly to germs, viruses, etc.? I thought the whole idea was to get rid of germs and viruses. There really are too many varieties of soap out there. Too many brands, too many fragrances and colors, too many claims [&#8230;]]]></summary>
-			
-							<content type="html">
-											<![CDATA[
-
-						
-<figure>
-
-<img alt="A man washes his hands with soap." data-caption="Antibiotic soap may not actually be better at keeping your hands clean." data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.vox.com/wp-content/uploads/sites/2/2024/11/GettyImages-1224685940.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
-	<figcaption>Antibiotic soap may not actually be better at keeping your hands clean.</figcaption>
-</figure>
-<p class="has-text-align-none"><em>A Vox reader asks: Why is some soap labeled antibiotic? Is there a soap that is friendly to germs, viruses, etc.? I thought the whole idea was to get rid of germs and viruses.</em></p>
-
-<hr class="wp-block-separator has-alpha-channel-opacity" />
-
-<p class="has-text-align-none">There really are too many varieties of soap out there. Too many brands, too many fragrances and colors, too many claims about their <a href="https://www.softsoap.com/en-us/products/hand-soap/soothing-clean">hand-softening</a>, <a href="https://www.tuesdayinlove.com/products/nourishing-hand-soap">nail-beautifying</a>, <a href="https://myscenttheory.com/collections/foaming-hand-soap">nostalgia-enhancing</a> qualities to keep it all straight. And that’s before you even consider whether a product actually gets rid of disease-causing microbes. If this seems like too much, you&#8217;re not wrong; the market is overwhelming.</p>
-
-<p class="has-text-align-none">You may be surprised to learn that most “plain” soap doesn’t actually kill germs. Here’s what it actually does: When combined with water, it surrounds germs in slippery globs that make them literally slide off your hands and down the drain. Not lethal to microbes, but still a pretty efficient way to clean them off your hands.</p>
-
-<p class="has-text-align-none">Soap labeled as antimicrobial does more damage to microbes than just whisking them away — it does actually murder them by breaking up the outer layers of bacterial or viral cells and causing them to spill out their guts. These soaps contain additional ingredients that are particularly effective at slicing up the fatty compounds in germs’ outer walls, exposing the tiny organ-like structures on their insides and rendering them dead. </p>
-
-<p class="has-text-align-none">When it comes to getting rid of germs, it might seem that deadlier is better… right? Not necessarily. Antimicrobial soaps are indeed better at lowering the amount of germs on a person’s hands than plain soap — but in most situations, the risks aren’t worth that benefit. </p>
-
-<p class="has-text-align-none">One concern consumer safety experts at the Food and Drug Administration have had is that people who used <a href="https://www.federalregister.gov/documents/2016/09/06/2016-21337/safety-and-effectiveness-of-consumer-antiseptics-topical-antimicrobial-drug-products-for">certain antimicrobial soaps</a> too often — specifically, soaps that contain any of <a href="https://www.federalregister.gov/documents/2016/09/06/2016-21337/safety-and-effectiveness-of-consumer-antiseptics-topical-antimicrobial-drug-products-for">nearly two dozen antiseptics</a> historically used in consumer cleaning and handwashing products — might absorb some of those germ-killing ingredients into their bloodstreams. These chemicals tend to do the same thing to skin that they do to germs: break up the outer layers, <a href="https://wwwnc.cdc.gov/eid/article/7/2/70-0225_article">causing damage</a> and irritation. </p>
-
-<p class="has-text-align-none">The FDA was worried specifically about triclosan and triclocarban, the most widely used of these antiseptics. Animal studies suggested they could be <a href="https://www.federalregister.gov/documents/2016/09/06/2016-21337/safety-and-effectiveness-of-consumer-antiseptics-topical-antimicrobial-drug-products-for">absorbed from the skin</a> into the blood, where they could go on to have hormone-like effects on the thyroid and on sex hormones. For other antiseptics, there was no good data proving they <em>didn’t </em>have these effects. The body of evidence raised questions about what might happen if a very zealous person took regular baths in a readily available antimicrobial soap.</p>
-
-<p class="has-text-align-none">The FDA also worried using antimicrobial soaps too frequently could create more microscopic superbugs that are harder to kill with common antibiotics. This isn’t just a theoretical concern: In <a href="https://pubmed.ncbi.nlm.nih.gov/18694904/">one study</a>, people who used a triclosan-containing antibacterial soap at home were more likely to have skin bacteria resistant both to the germ-killing ingredients in the soaps <em>and </em>to common oral antibiotics. Not great!</p>
-
-<p class="has-text-align-none">The risks of antimicrobial soap so dramatically outweighed their benefits that in 2016, the <a href="https://www.fda.gov/news-events/press-announcements/fda-issues-final-rule-safety-and-effectiveness-antibacterial-soaps">FDA banned most germ-killing ingredients</a> from consumer products. </p>
-
-<h2 class="wp-block-heading has-text-align-none"><strong>Why is some hand soap labeled antibiotic, but others aren&#8217;t?&nbsp;&nbsp;</strong></h2>
-
-<p class="has-text-align-none">While they were conducting their review of antibiotic soaps, the FDA found that a handful of antimicrobials <em>were</em> actually safe enough to use at home: benzalkonium chloride, benzethonium chloride, and chloroxylenol. That doesn’t mean they have an advantage over plain soap in preventing infections — <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7252025/">they don’t</a>. It just gives manufacturers permission to market them to you. You can still find these in soaps labeled “antimicrobial” or “antibacterial” on store shelves today.&nbsp;</p>
-
-<p class="has-text-align-none">Manufacturers aren’t allowed to use those words to describe soap that doesn’t contain these ingredients, so most soaps don’t.</p>
-
-<h2 class="wp-block-heading has-text-align-none"><strong>Why haven&#8217;t germs evolved to resist plain hand soap?</strong></h2>
-
-<p class="has-text-align-none">The key is in the killing, or lack thereof.&nbsp;</p>
-
-<p class="has-text-align-none">Germs often develop immunity by chance: They mutate pretty often as they reproduce, and occasionally, those mutations will give a handful of germ babies a survival advantage.&nbsp;</p>
-
-<p class="has-text-align-none">As an example, let’s say your bacteria-eliminating weapon of choice is a blowtorch. Given the frequency of bacterial mutation, five out of 100 bacteria living happily on a tiny section of your skin might have a mutation that makes them resistant to blowtorching. So if you try to clean that skin by blowtorching those bugs, you’ll end up with five living, blowtorch-resistant germs — each of which now has more space and resources to procreate and zero competition. Those elite germs will fill that space with their progeny, and the next time you want to clear that spot of bacteria, a blowtorch won’t cut it: Every member of this new, stronger bacterial population is already blowtorch-resistant.</p>
-
-<p class="has-text-align-none">Using a strategy that removes germs without killing them doesn’t create the same environment for those lucky mutants to thrive, so they stay small in number. That’s one of the major reasons why using plain soap is better for most situations than antimicrobial soap.</p>
-
-<h2 class="wp-block-heading has-text-align-none"><strong>Is there anything better than soap?</strong></h2>
-
-<p class="has-text-align-none">You didn’t ask about alcohol, but I’ll tell you this: Unless you have visibly dirty hands, or have norovirus or certain kinds of infectious diarrhea, alcohol-based sanitizers are a better choice than any soap.&nbsp;</p>
-
-<p class="has-text-align-none">They don’t get absorbed into the bloodstream through the skin. (Just don’t inhale them!) They also kill bacteria and many viruses more reliably than even antibacterial soaps, in large part because we apply them in the same concentration every time we use them. (Soap gets diluted by water, so it’s harder to be sure people are getting the same ratio of soap to skin.) That means superbug evolution isn’t a concern with these products.</p>
-
-<p class="has-text-align-none">Alcohol-based hand sanitizer is so much better than soap that the Centers for Disease Control and Prevention actually <a href="https://www.cdc.gov/clean-hands/hcp/clinical-safety/index.html#:~:text=Spores%20are%20an%20inactive%20form,care%20of%20patients%20with%20CDI.">recommends sanitizer over antibacterial soap</a> in most health care settings. One exception is before surgery: Because antibacterial soaps are still the best at removing bacteria from the skin just below the surface, surgeons still have to scrub with germ-killing soap and water before gloving and gowning up for surgery.</p>
 						]]>
 									</content>
 			
@@ -812,106 +918,6 @@
 <p class="has-text-align-none">The truth is, experts say they do often use expired over-the-counter medications in nonemergency situations at home — if they have a kid with a cold, for instance. However, it’s not something they can recommend to others; there simply needs to be more rigorous testing of medications before they can give that kind of broadly applicable advice. </p>
 
 <p class="has-text-align-none">Although drugs may have longer shelf lives than their packaging says, it shouldn’t be on consumers to guess which ones might still be effective. Instead, manufacturers should be studying each newly licensed drug to determine its actual expiration date by storing quantities of it and testing its stability on an annual basis, says Holzgrabe. Tighter regulation of the pharmaceutical industry would help, she says: “The law has to be changed so that we do not throw away so many drugs which are still okay.”</p>
-						]]>
-									</content>
-			
-					</entry>
-			<entry>
-			
-			<author>
-				<name>Anna North</name>
-			</author>
-			
-			<title type="html"><![CDATA[The most vulnerable target of post-election hate? America’s kids.]]></title>
-			<link rel="alternate" type="text/html" href="https://www.vox.com/life/389469/kids-bullying-harassment-trump-racist-texts" />
-			<id>https://www.vox.com/?p=389469</id>
-			<updated>2024-12-04T12:21:00-05:00</updated>
-			<published>2024-12-05T07:45:00-05:00</published>
-			<category scheme="https://www.vox.com" term="Education" /><category scheme="https://www.vox.com" term="Life" /><category scheme="https://www.vox.com" term="Policy" /><category scheme="https://www.vox.com" term="Politics" />
-							<summary type="html"><![CDATA[This story originally appeared in&#160;Kids Today, Vox’s newsletter about kids, for everyone.&#160;Sign up here for future editions. The day after the presidential election, LaToya Bufford’s 16-year-old daughter got a text saying she had been “selected to pick cotton at the nearest plantation.” The text came from a number Bufford’s daughter didn’t recognize, but it addressed [&#8230;]]]></summary>
-			
-							<content type="html">
-											<![CDATA[
-
-						
-<figure>
-
-<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.vox.com/wp-content/uploads/sites/2/2024/12/GettyImages-471076106.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
-	<figcaption></figcaption>
-</figure>
-<p class="has-text-align-none"><em>This story originally appeared in&nbsp;</em><strong><em><a href="https://www.vox.com/family/369020/kids-children-generation-alpha-gen-school" target="_blank" rel="noreferrer noopener">Kids Today</a></em></strong><em>, Vox’s newsletter about kids, for everyone.&nbsp;</em><strong><em><a href="https://www.vox.com/pages/kids-today-newsletter-policy-childhood-policy-culture" target="_blank" rel="noreferrer noopener">Sign up here for future editions</a></em></strong><em>.</em></p>
-
-<p class="has-text-align-none">The day after the presidential election, LaToya Bufford’s 16-year-old daughter got a text saying she had been “selected to pick cotton at the nearest plantation.” The text came from a number Bufford’s daughter didn’t recognize, but it addressed her by her full name. The teenager told her mom that some of her friends had gotten the message, too, but only those who, like her, are Black.</p>
-
-<p class="has-text-align-none">Bufford said her daughter didn’t have much visible reaction to the text. But Bufford herself was left frightened and on high alert.&nbsp;</p>
-
-<p class="has-text-align-none">“I was just shocked and so angry,” Bufford, who lives in Sacramento, California, told me. “If this could happen to my 16-year-old child,” she said, “I’m just scared about what could also happen.”</p>
-
-<p class="has-text-align-none">Bufford’s daughter was one of the middle school, high school, and college students in <a href="https://www.cnn.com/2024/11/07/us/racist-text-messages-post-election/index.html">more than 20 states</a> who received similar racist texts in the days following the election. The attacks have continued and broadened in the weeks since, with Latino and LGBTQ+ recipients getting messages threatening them with deportation or being sent to “reeducation camps,” <a href="https://www.washingtonpost.com/nation/2024/11/18/election-texts-fbi-investigation/">according to the FBI</a>. Some messages purported to be from “the Trump administration,” though the Trump campaign <a href="https://www.washingtonpost.com/nation/2024/11/18/election-texts-fbi-investigation/">has said</a> it had nothing to do with the messages. The FBI is <a href="https://www.washingtonpost.com/nation/2024/11/18/election-texts-fbi-investigation/">still investigating</a> the wave of harassment, leaving kids and families wondering who got their names and phone numbers and sent them terrifying, personalized messages.&nbsp;</p>
-
-<p class="has-text-align-none">Meanwhile, other children across the country encountered hate speech and harassment at school immediately following the election, from a racist note left in a <a href="https://www.edweek.org/leadership/school-leaders-confront-racist-texts-harmful-rhetoric-after-divisive-election/2024/11">Wyoming high school bathroom</a> to a spate of anti-immigrant and other discriminatory incidents in a <a href="https://www.wcax.com/2024/11/12/vt-school-district-reports-uptick-post-election-harassment-complaints/">Vermont district</a>.&nbsp;</p>
-
-<p class="has-text-align-none">There’s not much comprehensive data yet on how many kids have been harassed in the wake of last month’s election, but experts and school officials say the incidents documented so far, like the texts Bufford’s daughter and others received, reflect a continuation of a disturbing pattern.&nbsp;</p>
-
-<p class="has-text-align-none">After the 2016 election, Donald Trump’s xenophobic rhetoric about immigrants and other groups <a href="https://www.buzzfeednews.com/article/albertsamaha/kids-are-quoting-trump-to-bully-their-classmates">made its way to high school</a>, middle school, and even elementary school campuses, and children began shouting <a href="https://www.vox.com/policy-and-politics/2018/3/13/17107034/trump-border-wall-mexico">“build the wall”</a> and threatening their classmates with deportation. News reports between 2016 and 2020 document more than 300 incidents of students or school staff using Trump’s words or name to harass children, <a href="https://www.washingtonpost.com/graphics/2020/local/school-bullying-trump-words/">according to a 2020 Washington Post analysis</a>.</p>
-
-<p class="has-text-align-none">I <a href="https://www.nytimes.com/column/this-week-in-hate">reported on hate crimes and harassment</a> in 2016 and 2017. Schools, unfortunately, were a big part of the story, with swastikas and racist slogans defacing the places where children, one parent reminded me, are <a href="https://www.nytimes.com/2017/01/25/opinion/a-high-school-defaced-with-trump-and-swastikas.html">supposed to be safe</a>.</p>
-
-<p class="has-text-align-none">Kids, especially teenagers, don’t always open up to adults about how harassment makes them feel. But hate speech can cut deep, particularly when the target is a child whose brain and sense of self are <a href="https://developingchild.harvard.edu/resources/racism-and-ecd/">still developing</a>. Kids can <a href="https://www.washingtonpost.com/graphics/2020/local/school-bullying-trump-words/">experience physical symptoms</a> like stomach pain and headaches; others can have <a href="https://www.buzzfeednews.com/article/albertsamaha/school-is-starting-soon-will-the-trump-inspired-bullying">panic attacks</a> or insomnia.&nbsp;</p>
-
-<p class="has-text-align-none">Harassment can also deprive young people of their legal right to an education, making them too afraid to stay in class or even to come to school at all, said Erin Maguire, director of equity and inclusion for Vermont’s Essex Westford School District, which experienced a steep increase in harassment reports the week of the election.</p>
-
-<p class="has-text-align-none">While complaints there have leveled off, some experts remain concerned about the impact a second Trump administration could have on kids across the country. Kids continued lobbing Trump-inspired insults at their peers throughout his first term, according to the <a href="https://www.washingtonpost.com/graphics/2020/local/school-bullying-trump-words/">Washington Post analysis</a>.</p>
-
-<p class="has-text-align-none">Schools can make a big difference in supporting students who have been targeted and creating environments free from discrimination, experts say. But they may face an uphill battle in an administration that’s already broadcast its <a href="https://www.axios.com/2024/11/15/trump-dei-cabinet-nominees">opposition to equity and inclusion initiatives</a>, as well as its intent to <a href="https://www.vox.com/education/384779/department-of-education-trump-musk-betsy-devos">dismantle government education agencies</a> that enforce civil rights.&nbsp;</p>
-
-<p class="has-text-align-none">Now some parents are left preparing their children on their own for what they see as a new reality.&nbsp;</p>
-
-<p class="has-text-align-none">“There’s always been hate and racism in this country, but now people are feeling like they can come out from behind closed doors and show that hate,” Bufford said.</p>
-
-<h2 class="wp-block-heading">Hate speech at schools spiked after the election</h2>
-
-<p class="has-text-align-none">Since the 1990s, hate crimes have tended to increase during election cycles because public dialogue becomes increasingly heated and divisive, said Nadia Aziz, senior program director of the fighting hate and bias program at the Leadership Conference on Civil and Human Rights, a 75-year-old coalition of rights organizations. But the first Trump candidacy “empowered white nationalists” in a new way, she said. Since 2015, reported hate crimes have nearly doubled, <a href="https://civilrights.org/edfund/resource/2024-the-state-of-hate-updated/">according to a report</a> released by the Leadership Conference Education Fund earlier this year.&nbsp;</p>
-
-<p class="has-text-align-none">Kids and schools have not been insulated from these larger trends. In Essex Westford, a majority-white district of about 3,800 students near Burlington, Vermont, reports of harassment <a href="https://www.wcax.com/2024/11/12/vt-school-district-reports-uptick-post-election-harassment-complaints/">jumped from the usual two or three</a> a week to 12 the week of the election. Some of the incidents, which spanned age groups from elementary to high school, specifically referenced Trump’s proposed policies around <a href="https://www.vox.com/politics/380582/mass-deportations-trump-history-alien-enemies">immigration</a> and <a href="https://www.nbcnews.com/nbc-out/out-politics-and-policy/transgender-people-prepare-donald-trump-second-term-rcna180906">gender identity</a>, Maguire said.&nbsp;</p>
-
-<p class="has-text-align-none">At Arapaho Charter High, a small Wyoming school whose students are almost all Native American, a note written on a paper towel and hung on a bathroom mirror read “I hate” followed by a racial slur and a swastika, said Katie Law, the school’s principal. A few days later, a student used the same slur in class. “It was disheartening to see that it continued,” Law said.</p>
-
-<p class="has-text-align-none">The texts aimed at Latino Americans were also mostly sent to young people, Juan Proaño, CEO of the League of United Latin American Citizens, a civil rights group, <a href="https://www.washingtonpost.com/nation/2024/11/18/election-texts-fbi-investigation/">told the Washington Post</a>. “Our expectation is that we’re going to see more of this as we get closer to Jan. 20,” he said.</p>
-
-<p class="has-text-align-none">Bufford, meanwhile, has had a conversation with all her children about “looking out for their backs,” she said. “We live in a very diverse neighborhood,” she said. “But you can never be too careful, especially now.”</p>
-
-<h2 class="wp-block-heading">How to help kids who have been harassed</h2>
-
-<p class="has-text-align-none">Families shouldn’t be on their own to protect kids from hate speech; political leaders have an important role to play, experts say. “Any message that public officials send can trickle down to children,” Aziz said. “The more public officials that denounce hateful things,” she said, “the more examples our children have to look up to.”</p>
-
-<p class="has-text-align-none">Educators, too, “are looked to across communities to really offer a way forward,” said Liz King, senior program director for education equity at the Leadership Conference. “It is meaningfully important when they get up and say, ‘This is awful.’”&nbsp;</p>
-
-<p class="has-text-align-none">School leaders can also counter hate speech and discrimination by using curricula that are inclusive of all students, King said. The <a href="https://www.ed.gov/about/ed-offices/ocr">Department of Education’s Office for Civil Rights</a> also offers resources for preventing and responding to discrimination in schools.</p>
-
-<p class="has-text-align-none">Trump has pledged to <a href="https://www.vox.com/education/384779/department-of-education-trump-musk-betsy-devos">eliminate that department</a>, but the laws that protect kids’ right to an education aren’t changing, King said. “These laws are not going anywhere, and so each of us has a responsibility to ensure that this administration meaningfully protects all of us from discrimination and enforces our civil rights laws.”</p>
-
-<p class="has-text-align-none">“Schools need to find ways to hold all students in a way that helps them feel safe and supported,” Maguire said. “It&#8217;s our job to figure that out.”</p>
-
-<p class="has-text-align-none"></p>
-
-<h2 class="wp-block-heading">What I’m reading</h2>
-
-<p class="has-text-align-none">Schools and districts are <a href="https://apnews.com/article/immigration-school-deportation-9747be35d2eb109693930f114f148b94">preparing for what might happen</a> if Trump is able to follow through on his promise to enact <a href="https://www.vox.com/politics/380582/mass-deportations-trump-history-alien-enemies">mass deportations</a>. Leaders are worried that even the threat of such a policy could make kids too afraid to come to school.</p>
-
-<p class="has-text-align-none"><a href="https://www.vox.com/life/369953/skibidi-tweens-gen-alpha-brainrot-ipad-kids">“Brain rot”</a> is the Oxford University Press <a href="https://www.nytimes.com/2024/12/01/arts/brain-rot-oxford-word.html">word of the year</a>.</p>
-
-<p class="has-text-align-none">The 2021 <a href="https://www.vox.com/future-perfect/2023/9/21/23882353/child-poverty-expanded-child-tax-credit-census-welfare-inflation-economy-data">expanded child tax credit</a> lifted families out of poverty — and then it ended. Now, a <a href="https://www.npr.org/sections/shots-health-news/2024/12/02/nx-s1-5193032/federal-expanded-child-tax-credit-pandemic-child-poverty-kids-rx-basic-income-flint-michigan">program in Michigan</a> is experimenting with its own version, giving parents $1,500 during pregnancy and $500 a month for a baby’s first year.&nbsp;</p>
-
-<p class="has-text-align-none">My older kid and I are revisiting the <a href="https://www.scholastic.com/site/branches/the-notebook-of-doom.html">Notebook of Doom series</a>, an old favorite in which three resourceful kids face off against unusual monsters like “balloon goons,” which are basically evil versions of <a href="https://en.wikipedia.org/wiki/Tube_man">these guys</a>.</p>
-
-<h2 class="wp-block-heading">From my inbox</h2>
-
-<p class="has-text-align-none">A couple of weeks ago, I wrote about why <a href="https://www.vox.com/culture/386286/kids-reading-literacy-crisis-books">kids aren’t reading for fun</a> as much as they used to, and why that has experts worried. Several of you wrote in with tips for getting kids excited about books. “I advise parents that when they go to the library, don’t get one book, get a basket of books,” wrote one reader. “Keep the receipt on the refrigerator, because it can get expensive if returned late.” (I can confirm this from experience.)&nbsp;</p>
-
-<p class="has-text-align-none">“Do not nag your children to read,” she continued. “Put the basket near the breakfast table, or near the couch, with the only rule being ‘no phones, no screens.’ If the child doesn’t pick up a book, say nothing. Just get a new basket of books the next week.”</p>
-
-<p class="has-text-align-none">I’ll be doing an edition on kids’ podcasts soon. Do the kids in your life have favorite podcasts? Let me know at anna.north@vox.com.</p>
 						]]>
 									</content>
 			
