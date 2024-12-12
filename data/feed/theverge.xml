@@ -2,9 +2,247 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>The Verge -  All Posts</title>
   <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
-  <updated>2024-12-12T13:30:30-05:00</updated>
+  <updated>2024-12-12T16:39:41-05:00</updated>
   <id>https://www.theverge.com/rss/full.xml</id>
   <link type="text/html" href="https://www.theverge.com/" rel="alternate"/>
+  <entry>
+    <published>2024-12-12T16:39:41-05:00</published>
+    <updated>2024-12-12T16:39:41-05:00</updated>
+    <title>Google says its breakthrough quantum chip can’t break modern cryptography</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="An image showing Google’s quantum computing chip" src="https://cdn.vox-cdn.com/thumbor/4COpc39QVHmImHdvqYfPcqdbSeA=/255x0:2313x1372/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73783370/google_willow_chip.0.png" /&gt;
+        &lt;figcaption&gt;Image: Google&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="sLOk7p"&gt;Experts believe that one day, quantum computers could make today’s systems of encryption utterly obsolete. But Google tells &lt;em&gt;The Verge&lt;/em&gt; &lt;a href="https://www.theverge.com/2024/12/9/24317382/google-willow-quantum-computing-chip-breakthrough"&gt;its new “breakthrough” Willow chip&lt;/a&gt; is nowhere near ready for that. &lt;/p&gt;
+&lt;p id="jzERDh"&gt;“The Willow chip is not capable of breaking modern cryptography,” Google Quantum AI director and COO Charina Chou tells &lt;em&gt;The Verge&lt;/em&gt;. &lt;/p&gt;
+&lt;p id="3tjqg7"&gt;A so-called “cryptanalytically relevant quantum computer,” or CRQC, could “jeopardize civilian and military communications, undermine supervisory and control systems for critical infrastructure, and defeat security protocols for most Internet-based financial transactions,” the White House &lt;a href="https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/04/national-security-memorandum-on-promoting-united-states-leadership-in-quantum-computing-while-mitigating-risks-to-vulnerable-cryptographic-systems/"&gt;warned in 2022&lt;/a&gt;, ordering that US agencies must transition to new systems to mitigate that risk by 2035.&lt;/p&gt;
+&lt;p id="ohvVkZ"&gt;But Willow is not a CRQC, according to Google. While the company does claim it can solve a computing challenge in five minutes that would take the world’s fastest supercomputer ten septillion years, Google has only produced 105 physical qubits worth of that computing power and suggests it would need millions to literally crack the codes.&lt;/p&gt;
+&lt;p id="mIc3sD"&gt;“Estimates are we’re at least 10 years out from breaking RSA, and that around 4 million physical qubits would be required to do this,” Chou writes. She says Willow doesn’t change the timeline at all. &lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="7V4uLT"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"Google is working to safeguard Chrome from quantum computers","url":"https://www.theverge.com/2016/7/7/12120280/google-chrome-canary-quantum-computing-encryption-new-hope"},{"title":"Apple is already defending iMessage against tomorrow’s quantum computing attacks","url":"https://www.theverge.com/2024/2/21/24079081/apple-imessage-pq3-post-quantum-cryptography"},{"title":"After NSA leaks, businesses seek security in quantum physics","url":"https://www.theverge.com/2013/10/15/4839072/after-nsa-leaks-businesses-seek-security-in-quantum-physics"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="vEApDY"&gt;And though Chinese researchers have &lt;a href="https://www.infosecurity-magazine.com/news/experts-play-down-chinese-quantum/"&gt;repeatedly&lt;/a&gt; &lt;a href="https://www.forbes.com/sites/arthurherman/2023/01/10/did-china-break-the-quantum-barrier/"&gt;claimed&lt;/a&gt; to discover new ways to break RSA encryption with a much smaller quantum computers, ones with just a few hundreds or thousands of qubits, security experts have &lt;a href="https://www.schneier.com/blog/archives/2023/01/breaking-rsa-with-a-quantum-computer.html"&gt;repeatedly&lt;/a&gt; been &lt;a href="https://www.infosecurity-magazine.com/news/experts-play-down-chinese-quantum/"&gt;skeptical&lt;/a&gt;.&lt;/p&gt;
+&lt;p id="PfAyEL"&gt;Google is &lt;a href="https://www.theverge.com/2016/7/7/12120280/google-chrome-canary-quantum-computing-encryption-new-hope"&gt;one&lt;/a&gt; of the many companies preparing to defend against the potential threat of broken encryption with post-quantum cryptography, or PQC, ever since the Edward Snowden leaks revealed that spy agencies like the &lt;a href="https://www.theverge.com/2014/1/2/5267430/nsa-reportedly-secretly-funding-code-breaking-quantum-computer-research"&gt;NSA were quietly funding code-breaking quantum computer research&lt;/a&gt;. &lt;/p&gt;
+&lt;p id="z84wW0"&gt;A few years back, we wrote about how the National Institute of Standards and Technology &lt;a href="https://www.theverge.com/22523067/nist-challenge-quantum-safe-cryptography-computer-lattice"&gt;created a competition to develop quantum-safe cryptography standards&lt;/a&gt; back in 2016. This August, &lt;a href="https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards"&gt;NIST released three finalized algorithms&lt;/a&gt; and its standards for integrating them into products and systems, and plans to select one or two more by the end of the year as it continues to test more.&lt;/p&gt;
+&lt;p id="QZUK0n"&gt;The RAND Corporation, a think tank famous for advising on US national security in the past, suggested in a 2023 editorial that the moment an RSA-breaking quantum computer exists, it’ll trigger a worldwide rush to defend against it: &lt;/p&gt;
+&lt;p id="lRJCqT"&gt;“As soon as the existence of the CRQC becomes public knowledge — or is even considered plausible — and the threat becomes concrete, most vulnerable organizations will immediately move to upgrade all their communications systems to post-quantum cryptography.”&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24319879/google-willow-cant-break-rsa-cryptography"/>
+    <id>https://www.theverge.com/2024/12/12/24319879/google-willow-cant-break-rsa-cryptography</id>
+    <author>
+      <name>Sean Hollister</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-12-12T16:23:47-05:00</published>
+    <updated>2024-12-12T16:23:47-05:00</updated>
+    <title>Adobe now has a tool to get rid of ugly window reflections in photos</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="A photo of a dog through a window with a bright reflection next to a version of the tool with the reflection removed." src="https://cdn.vox-cdn.com/thumbor/tOkjUca4gxoomxm_s_LU9hjBMnE=/1x0:1000x666/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73783324/reflection_removal_1.0.jpg" /&gt;
+        &lt;figcaption&gt;&lt;em&gt;Adobe’s Reflection Removal tool is now available as a technology preview inside Camera Raw.&lt;/em&gt; | Image: Adobe&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="lIFa5U"&gt;&lt;a href="https://www.theverge.com/2023/10/11/23912614/adobe-max-sneaks-generative-ai-audio-3d-tech-preview"&gt;Adobe’s Project See Through&lt;/a&gt;, a tool that is capable of eliminating distracting reflections in photos taken through windows, is now available as a technology preview and is now called &lt;a href="https://blog.adobe.com/en/publish/2024/12/12/removing-window-reflections-adobe-camera-raw"&gt;the Reflection Removal tool&lt;/a&gt;. Originally revealed as a “Sneak” during the Adobe’s annual Max conference last year, you can use the tool through Adobe Camera Raw in preview with a Lightroom release “coming soon,” according to Adobe.&lt;/p&gt;
+&lt;p id="sKwdM9"&gt;The best way to ensure a photo isn’t marred with reflections is to avoid shooting through a window, but Adobe’s new tool will increase the chances that the beautiful mountain vista you captured during a flight will actually be worth sharing. The tool works by distinguishing the two scenes that make up an image with a reflection, which are often distinguished by different content, white balances (indoor scenes tend to look warmer than outdoor ones), and their sharpness.&lt;/p&gt;
+&lt;figure class="e-image"&gt;
+        &lt;img alt="Three photos that were used as training data for the Reflection Removal AI model." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/5A0CMznbpDnfWAyLu2_79tt87qI=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25787552/reflection_removal_2.jpg"&gt;
+      &lt;cite&gt;Image: Adobe&lt;/cite&gt;
+      &lt;figcaption&gt;&lt;em&gt;An example of the artificial reflections Adobe created for training data by merging thousands of photos together.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;p id="ZvsxvU"&gt;The AI model the Reflection Removal tool uses was trained on a database of thousands of photographs without reflections that were paired and merged to create millions of images with simulated reflections. Through a reinforcement process, the model learned how to extract the original photos from a single combined image, which are both available in the new tool. The results are often impressive, but Adobe points out that “if a reflection is so strong or complex that a person looking at the photograph struggles to figure out what is what, then our model might struggle as well.”&lt;/p&gt;
+&lt;p id="rYmR5Y"&gt;To access the new tool, which currently only works with RAW images (support for JPEGs and HEICs is planned) you need to open the Camera Raw tool and then the Technology Previews section of its Preferences Panel where you can enable the New AI Settings and Features Panel before restarting Adobe Photoshop or Adobe Bridge.&lt;/p&gt;
+&lt;figure class="e-image"&gt;
+        &lt;img alt="An example of the output from Adobe’s new Reflection Removal tool." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/lNwFQlxmQVORVcv6jxISuYFWMtM=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25787566/reflection_removal_3.jpg"&gt;
+      &lt;cite&gt;Image: Adobe&lt;/cite&gt;
+      &lt;figcaption&gt;&lt;em&gt;The original photo (left) next to a version with reflections removed (center) and the reflected image itself isolated (right).&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;p id="QKRrf8"&gt;With a RAW file imported, you’ll find a Reflections option in the Distraction Removal section of the Remove panel. After a few seconds of processing a reflection-free version of the image will be presented (hopefully!) along with a slider set to 100. Dragging the slider down to zero will restore the reflections, while dragging it to -100 will reveal only the reflected image.&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24319849/adobe-lightroom-camera-raw-reflection-removal"/>
+    <id>https://www.theverge.com/2024/12/12/24319849/adobe-lightroom-camera-raw-reflection-removal</id>
+    <author>
+      <name>Andrew Liszewski</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-12-12T15:50:04-05:00</published>
+    <updated>2024-12-12T15:50:04-05:00</updated>
+    <title>Verizon is using 5G network slicing to offer better video calling — for a price</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="5G logo on an illustrated blue and green background." src="https://cdn.vox-cdn.com/thumbor/2RftwgfmAI2YLCoiYPF-lHCs6J8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73783250/STK142_5G.0.jpg" /&gt;
+        &lt;figcaption&gt;Remember your old friend 5G? | Image: The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="6PHIRi"&gt;Verizon is making good on one of the many unfulfilled promises of 5G with &lt;a href="https://www.anrdoezrs.net/links/8532386/type/dlg/sid/verge/https://www.verizon.com/about/news/enhanced-video-calling" rel="sponsored nofollow noopener" target="_blank"&gt;a new service called Enhanced Video Calling&lt;/a&gt;. &lt;/p&gt;
+&lt;p id="a7Gg4E"&gt;According to &lt;a href="https://www.anrdoezrs.net/links/8532386/type/dlg/sid/verge/https://www.verizon.com/support/enhanced-video-calling-metro-areas/" rel="sponsored nofollow noopener" target="_blank"&gt;the company’s website&lt;/a&gt;, it delivers “optimized video and sound quality on calling apps,” even in times of congestion. That may not sound exciting on its own. But under the hood, Verizon is using network slicing to boost video call performance, which is a new technology only possible on a standalone 5G network.&lt;/p&gt;
+&lt;p id="kfIULU"&gt;Unlike &lt;a href="https://www.theverge.com/2023/8/28/23846049/banana-surgery-5g-video-viral"&gt;remote robot banana surgery&lt;/a&gt;, network slicing is a real benefit of 5G technology that we can reasonably expect to see in more places in the next few years. Slicing lets network operators provide the right resources for certain kinds of demanding activities where a strong connection is critical. Right now, that means boosting performance for video calls, but in the future it could mean being able to prioritize the data needed to safely guide an autonomous vehicle through an intersection.&lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="nmhW9R"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"The race to 5G is over — now it’s time to pay the bill","url":"https://www.theverge.com/23991136/5g-network-att-verizon-tmobile-cost-competition"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="eoXrsz"&gt;The catch is that you need a standalone 5G network to pull this off, and much of the US’ 5G networks still operate on 4G cores. T-Mobile has been able to move quicker on this thanks to &lt;a href="https://www.theverge.com/2019/7/26/6646158/t-mobile-sprint-merger-justice-department-approves-26-billion-fcc"&gt;its Sprint acquisition&lt;/a&gt;, and it rolled out its first feature based on slicing this fall with a service that &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.t-mobile.com%2Fnews%2Fbusiness%2Ft-priority-network-slice-for-first-responders&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F12%2F12%2F24319785%2Fverizon-5g-sa-network-slicing-enhanced-video-calling" rel="sponsored nofollow noopener" target="_blank"&gt;gives priority to first responders&lt;/a&gt;. Verizon has been testing slicing &lt;a href="https://www.anrdoezrs.net/links/8532386/type/dlg/sid/verge/https://www.verizon.com/about/news/verizon-major-step-network-slicing-capabilities" rel="sponsored nofollow noopener" target="_blank"&gt;for the past year or so&lt;/a&gt;, but this is its first rollout of a consumer feature based on the technology.&lt;/p&gt;
+&lt;p id="TSsFQo"&gt;In order to try Enhanced Video Calling out for yourself, you have to meet a specific set of requirements. It’s available in &lt;a href="https://www.anrdoezrs.net/links/8532386/type/dlg/sid/verge/https://www.verizon.com/support/enhanced-video-calling-metro-areas/" rel="sponsored nofollow noopener" target="_blank"&gt;“more than 150 metro areas” right now&lt;/a&gt;, with more to be added in 2025. But you also need to be on Verizon’s priciest plan, Unlimited Ultimate, which costs $90 per month for one line with autopay. And you’ll need an iPhone 14 or newer running iOS 18.2. Samsung Galaxy S23 and newer and Pixel 9 phones will be compatible too, but support for Android video calling apps on Android is arriving in 2025.&lt;/p&gt;
+&lt;p id="qeuJot"&gt;If you meet the above prerequisites, you should see a setting in iOS that reads “Enhance 5G” if you go to &lt;strong&gt;Settings &amp;gt; Cellular&lt;/strong&gt;, &lt;a href="https://support.apple.com/guide/deployment/support-for-5g-network-slicing-dep0f666c6f9/web"&gt;according to Apple’s documentation&lt;/a&gt;. &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24319785/verizon-5g-sa-network-slicing-enhanced-video-calling"/>
+    <id>https://www.theverge.com/2024/12/12/24319785/verizon-5g-sa-network-slicing-enhanced-video-calling</id>
+    <author>
+      <name>Allison Johnson</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-12-12T15:37:25-05:00</published>
+    <updated>2024-12-12T15:37:25-05:00</updated>
+    <title>Toyota’s next EV is this small Urban Cruiser SUV for Europe</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="white compact suv on a yellow platform" src="https://cdn.vox-cdn.com/thumbor/Rwdbe8_CfW6AMM8aOfxTl8HCyvw=/0x0:6446x4297/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73783226/urbancruiserhero_4.0.jpg" /&gt;
+        &lt;figcaption&gt;&lt;em&gt;Toyota’s Urban Cruiser is a compact electric SUV coming to Europe.&lt;/em&gt; | Image: Toyota&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="B4aH4l"&gt;Toyota &lt;a href="https://media.toyota.co.uk/world-premiere-of-the-all-new-toyota-urban-cruiser/"&gt;revealed its latest all-electric vehicle today&lt;/a&gt; as the Urban Cruiser compact SUV. The EV, which will be fully revealed at the Brussels Motor Show next month, is intended for the European market, first coming to the UK in the third quarter of 2025. &lt;/p&gt;
+&lt;p id="xPrnOI"&gt;Toyota says the wheelbase is only about 5 inches longer than the European-only Yaris Cross, making it another fun-sized electric EV slated for the continent like the recently revealed &lt;a href="https://www.theverge.com/2024/12/3/24312042/ford-puma-gen-e-europe-ev-specs-range"&gt;Ford Puma Gen-E&lt;/a&gt; or &lt;a href="https://www.theverge.com/2024/6/27/24187409/hyundai-inster-small-ev-compact-price-specs-us"&gt;Hyundai Inster&lt;/a&gt;.&lt;/p&gt;
+&lt;p id="9ylhPK"&gt;The Urban Cruiser has clear design inspiration from &lt;a href="https://www.theverge.com/2023/12/5/23988111/toyota-ev-concept-urban-suv-sport-crossover"&gt;last year's Urban SUV concept&lt;/a&gt;. It also shares its new EV platform built in conjunction with Suzuki, which announced &lt;a href="https://www.theverge.com/2024/11/5/24289169/suzuki-e-vitara-ev-electric-suv-toyota-launch"&gt;its made-in-India E Vitara SUV last month&lt;/a&gt;. Toyota’s other EV, &lt;a href="https://www.theverge.com/23180408/toyota-bz4x-electric-suv-review-specs-price"&gt;the bZ4X&lt;/a&gt;, also shares its EV platform with another automaker, Subaru, which has the &lt;a href="https://www.theverge.com/2022/4/26/23042924/subaru-solterra-pricing-starting-ev-tax-incentives"&gt;Solterra EV&lt;/a&gt;.&lt;/p&gt;
+&lt;figure class="e-image"&gt;
+        &lt;img alt="urban cruiser interior with CarPlay on the screen" data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/bUf8ppQpMT2AAl4jSabeSN9QuzA=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25787499/urbancruiserint_004.jpg"&gt;
+      &lt;cite&gt;Image: Toyota&lt;/cite&gt;
+      &lt;figcaption&gt;&lt;em&gt;Toyota Urban Cruiser features a side-by-side 10.25-inch cluster screen and a 10.1-inch infotainment system.&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;p id="8DUJ2y"&gt;Toyota’s Urban Cruiser has nearly match-for-match specs as the E Vitara, including a relatively small 49 kWh battery with an FWD drivetrain and a 61 kWh battery with an option for AWD. &lt;/p&gt;
+&lt;p id="JR45LX"&gt;Toyota says power output can get as high as 135kW in the AWD version (with 40kW on the rear axel for “stable and secure performance on loose and slippery surfaces”) and up to 300 Nm of torque. While the official range is not announced, it’ll likely match the E Vitara’s expected 248 miles on a single charge.&lt;/p&gt;
+&lt;div id="CEZ4HY"&gt;&lt;div data-anthem-component="gallery:12505170"&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p id="hAXHLP"&gt;Additionally, the Urban Cruiser has downhill assist and trail modes for added control, and the FWD model includes a snow mode. All models come with a heat pump and include the ability to manually start preconditioning the battery to prepare for a DC fast charging session.&lt;/p&gt;
+&lt;p id="mIFvJM"&gt;Toyota has been slower in building and adopting EVs than other legacy manufacturers. The automaker has been focused on its outstanding hybrid technology as well as hydrogen vehicles. &lt;/p&gt;
+&lt;p id="yoROb4"&gt;But the automaker isn’t done with EVs — it’s planning to have 15 EVs, including six models on a next-gen shared platform by 2026, and it just invested &lt;a href="https://www.theverge.com/2024/12/12/24319893/toyota-sinks-more-money-into-its-kentucky-plant-where-its-making-a-new-three-row-ev"&gt;nearly another $1 billion in Kentucky&lt;/a&gt; for a paint facility to prepare for &lt;a href="https://www.theverge.com/2024/2/7/24063943/toyota-ev-investment-kentucky-factory-three-row-suv"&gt;a three-row electric SUV&lt;/a&gt; for the US.&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24319827/toyota-urban-cruiser-suzuki-evitara-suv-ev-europe"/>
+    <id>https://www.theverge.com/2024/12/12/24319827/toyota-urban-cruiser-suzuki-evitara-suv-ev-europe</id>
+    <author>
+      <name>Umar Shakir</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-12-12T15:33:58-05:00</published>
+    <updated>2024-12-12T15:33:58-05:00</updated>
+    <title>Amazon’s Prime Video pushes ‘AI Topics’ instead of the old algorithms</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="A photo showing AI topics on Prime Video" src="https://cdn.vox-cdn.com/thumbor/7Ky-uvBHL7Cc-CSicRb58DKASPY=/103x0:1218x743/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73783220/amazon_ai_topics.0.jpeg" /&gt;
+        &lt;figcaption&gt;Image: Amazon&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="wHY76K"&gt;Amazon is &lt;a href="https://www.aboutamazon.com/news/entertainment/prime-video-what-to-watch-artificial-intelligence-topics"&gt;testing a new Prime Video feature&lt;/a&gt; that recommends groups of content using AI rather than traditional algorithms. If you’re part of the test, you’ll see new “AI Topics” tailored to your interests, like “mind-bending sci-fi,” “fantasy quests,” or “thrilling character journeys.”&lt;/p&gt;
+&lt;p id="iNlNdZ"&gt;Each category will have shows, movies, and linear channels that match these AI-generated labels. You can also continue refining recommendations further by selecting topics related to the category you’re looking at, which Amazon says allows you to “discover more content without hitting a dead end.”&lt;/p&gt;
+&lt;figure class="e-image"&gt;
+        &lt;img alt=" " data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/x-HlMigp7jl4o51PsQWFab6ey3g=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25787479/prime_video_ai_topics_21.jpeg"&gt;
+      &lt;cite&gt;Image: Amazon&lt;/cite&gt;
+  &lt;/figure&gt;
+&lt;p id="1HztGh"&gt;Streaming services like Netflix have long used machine learning algorithms to spit out recommendations based on viewing history. But with this announcement, it seems like Prime Video is putting an extra AI spin on things — which isn’t very surprising given the hype surrounding the tech and Amazon’s own efforts to portray itself &lt;a href="https://www.theverge.com/2023/8/3/23819442/amazon-generative-ai-ceo"&gt;as an AI leader&lt;/a&gt;. For now, Amazon says AI Topics are rolling out to “select” living room devices in the US, such as the Fire TV.&lt;/p&gt;
+&lt;p id="VZ7pVp"&gt;Last month, &lt;a href="https://www.theverge.com/2024/11/4/24287955/amazon-prime-video-ai-x-ray-recaps"&gt;Prime Video also rolled out AI recaps&lt;/a&gt; you can use to summarize TV seasons, entire episodes, and even portions of episodes.&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24319824/amazon-prime-video-ai-topics-old-algorithms"/>
+    <id>https://www.theverge.com/2024/12/12/24319824/amazon-prime-video-ai-topics-old-algorithms</id>
+    <author>
+      <name>Emma Roth</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-12-12T14:24:58-05:00</published>
+    <updated>2024-12-12T14:24:58-05:00</updated>
+    <title>Meta makes $1 million donation to Trump’s inauguration</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Photo collage of Mark Zuckerberg." src="https://cdn.vox-cdn.com/thumbor/BxqNpCLCR3HPrjpb6PXktfwiALk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73783081/STK169_Zuckerberg_C_CVirginia.0.jpg" /&gt;
+        &lt;figcaption&gt;The Verge | Photo by Tom Williams via Getty Images&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="8kOeNE"&gt;Meta has donated $1 million to president-elect Donald Trump’s inauguration fund, &lt;a href="https://www.wsj.com/tech/mark-zuckerbergs-meta-donates-1-million-to-trumps-inaugural-fund-32a999c1"&gt;&lt;em&gt;The Wall Street Journal&lt;/em&gt; reports&lt;/a&gt;. Zuckerberg’s team reportedly told Trump’s inaugural committee about Meta’s planned donation before Zuckerberg and Trump &lt;a href="https://www.theverge.com/2024/11/27/24307943/mark-zuckerberg-donald-trump-dinner-mar-a-lago"&gt;dined together at Mar-a-Lago in November&lt;/a&gt;. &lt;/p&gt;
+&lt;p id="yBuvXA"&gt;Before the dinner, Zuckerberg showed off Meta’s Ray-Ban smart glasses and gifted a pair to Trump, according to the Journal. Zuckerberg’s advisers also met with incoming White House officials, including incoming White House chief of staff Susie Wiles. &lt;/p&gt;
+&lt;p id="38TLYB"&gt;The donation marks a significant shift for Zuckerberg, who has until recently shied away from politics. Zuckerberg &lt;a href="https://www.theverge.com/2024/11/6/24289649/big-tech-leaders-donald-trump-presidential-election"&gt;called Trump to congratulate him&lt;/a&gt; on his election victory. But he didn’t publicly endorse a candidate in 2020 — and as Meta spokespeople have repeatedly emphasized, he also didn’t endorse anyone in 2024, despite Trump’s claims that Zuckerberg called him to say there’s “no way” he could vote for a Democrat after the attempt on Trump’s life at a Pennsylvania rally. (Zuckerberg also &lt;a href="https://www.theverge.com/2024/7/19/24201879/mark-zuckerberg-trump-rally-shooting-fist-pump-badass"&gt;called Trump’s reaction to the shooting “badass.”&lt;/a&gt;) Still, Zuckerberg has made increasingly unsubtle overtures to Trump, who has threatened the Facebook founder over the years.&lt;/p&gt;
+&lt;p id="DULchD"&gt;The dinner — and the donation — are signs that the notoriously rocky relationship between Zuckerberg and Trump is starting to soften. Trump has had it out for Zuckerberg since Facebook banned his account in the wake of the January 6th riots, and at one point &lt;a href="https://www.politico.com/news/2024/08/28/trump-zuckerberg-election-book-00176639"&gt;said Zuckerberg should be jailed&lt;/a&gt; due to Facebook’s alleged interference in the 2020 election.&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24319768/meta-1-million-donation-trump-inauguration"/>
+    <id>https://www.theverge.com/2024/12/12/24319768/meta-1-million-donation-trump-inauguration</id>
+    <author>
+      <name>Gaby Del Valle</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-12-12T14:07:30-05:00</published>
+    <updated>2024-12-12T14:07:30-05:00</updated>
+    <title>Xbox Game Pass Ultimate subscriptions are up to 50 percent off right now</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Illustration of Xbox logos on phones and tablets" src="https://cdn.vox-cdn.com/thumbor/1OCDs08s1GF806uUoYnHDqq-5v0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73783068/acastro_210429_1777_0001.0.jpg" /&gt;
+        &lt;figcaption&gt;Illustration by Alex Castro / The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="aXeVgq"&gt;If you’ve been contemplating signing up for Xbox Game Pass Ultimate so you can play &lt;a href="https://www.theverge.com/2024/12/5/24314376/indiana-jones-and-the-great-circle-review-bethesda-machinegames-xbox"&gt;&lt;em&gt;Indiana Jones and the Great Circle&lt;/em&gt;&lt;/a&gt;, you might want to head on over to Woot. Now until 1:59AM ET on December 13th, the retailer is offering a three-month subscription to &lt;strong&gt;Xbox Game Pass Ultimate&lt;/strong&gt; for &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fxbox-game-pass-ultimate-digital-code-2%2F&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F12%2F12%2F24319164%2Fxbox-game-pass-ultimate-elgato-stream-deck-neo-deal-sale" rel="sponsored nofollow noopener" target="_blank"&gt;$28.99 (about $31 off)&lt;/a&gt; with promo code &lt;strong&gt;GAMEPASS&lt;/strong&gt;. Only customers making their first purchase on Woot are eligible, though; everyone else will have to pay $33.99 to redeem the digital code.&lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="n1KrGT"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"Microsoft&amp;amp;nbsp;wants to make the&amp;amp;nbsp;Xbox&amp;amp;nbsp;app the home of PC gaming","url":"https://www.theverge.com/2024/12/11/24318799/microsoft-xbox-app-new-games-homescreen"},{"title":"The Verge’s 2024 holiday gift guide","url":"https://www.theverge.com/24224043/holiday-gift-guide-2024-best-ideas-unique-tech-gadgets"},{"title":"Xbox tests streaming your Xbox games to your Xbox","url":"https://www.theverge.com/2024/12/11/24318876/xbox-tests-streaming-games-console"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="xOOEbm"&gt;Woot’s current promo is a terrific deal considering a month of Xbox Game Pass Ultimate will normally run you $19.99. After you finish playing the new &lt;em&gt;Indiana Jones &lt;/em&gt;game, you can play dozens of other downloadable titles for both Xbox and PC, including new releases like &lt;a href="https://www.theverge.com/2024/10/30/24284080/call-of-duty-black-ops-6-had-a-big-weekend"&gt;&lt;em&gt;Call of Duty: Black Ops 6&lt;/em&gt;&lt;/a&gt; and older titles like &lt;a href="https://www.theverge.com/23697355/star-wars-jedi-survivor-review-ps5-xbox-pc"&gt;&lt;em&gt;Star Wars Jedi: Survivor&lt;/em&gt;&lt;/a&gt;, &lt;a href="https://www.theverge.com/23852390/starfield-review-xbox-pc"&gt;&lt;em&gt;Starfield&lt;/em&gt;&lt;/a&gt;, &lt;a href="https://www.theverge.com/23747068/diablo-iv-review-blizzard-class-customization"&gt;&lt;em&gt;Diablo IV&lt;/em&gt;&lt;/a&gt;, &lt;a href="https://www.theverge.com/2021/12/6/22820011/halo-infinite-campaign-review-xbox-series-x"&gt;&lt;em&gt;Halo Infinite&lt;/em&gt;&lt;/a&gt;, and &lt;a href="https://www.theverge.com/23589879/hi-fi-rush-making-of-interview-xbox"&gt;&lt;em&gt;Hi-Fi Rush&lt;/em&gt;&lt;/a&gt;. Subscribers &lt;a href="https://www.theverge.com/2024/11/20/24300547/xbox-cloud-gaming-game-library-streaming"&gt;can even stream select non-Game Pass titles&lt;/a&gt; they own via their TV, smartphone, tablet, and PC through a web browser. This includes &lt;a href="https://www.theverge.com/2023/8/17/23834516/baldurs-gate-3-choices-narrative-perfectionism"&gt;&lt;em&gt;Baldur’s Gate 3&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Hogwarts Legacy, &lt;/em&gt;&lt;a href="https://www.theverge.com/24082252/balatro-review-poker-roguelike-videogame"&gt;&lt;em&gt;Balatro&lt;/em&gt;&lt;/a&gt;, and more.&lt;/p&gt;
+&lt;p id="rDFmln"&gt;In addition to granting access to a wide range of games — including EA Play titles — an Xbox Game Pass Ultimate subscription lets you take advantage of exclusive deals, online multiplayer, and other perks, some of which aren’t available on the cheaper Game Pass tiers.&lt;/p&gt;
+&lt;div id="nopsvG"&gt;&lt;div data-anthem-component="productcard:11289044"&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id="SWk2pc"&gt;Other deals and discounts of note&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li id="B7wPbr"&gt;
+&lt;a href="https://www.theverge.com/2024/4/18/24132766/elgato-neo-family-devices-stream-deck"&gt;&lt;strong&gt;Elgato’s Stream Deck Neo&lt;/strong&gt;&lt;/a&gt; is on sale for an all-time low of $79.99 ($20 off) at &lt;a href="https://www.amazon.com/Elgato-Stream-Deck-Neo-Customizable/dp/B0CVY4566H/?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt;, &lt;a href="https://goto.target.com/c/482924/81938/2092?u=https%3A%2F%2Fwww.target.com%2Fp%2Felgato-stream-deck-neo%2F-%2FA-90490152&amp;amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"&gt;Target&lt;/a&gt;, and &lt;a href="https://howl.link/ryzlnzj497k87"&gt;Best Buy&lt;/a&gt;. The excellent macro controller comes with&lt;strong&gt; &lt;/strong&gt;eight LCD buttons, which you can program to easily control your smart lights, pause Slack notifications, and perform a variety of other shortcuts with the press of a button. It also comes with some other handy conveniences, including a tiny info display that shows the time and a pair of capacitive buttons that let you quickly cycle through multiple pages of macros.&lt;/li&gt;
+&lt;li id="tTAn6b"&gt;The &lt;a href="https://www.theverge.com/2024/5/7/24151265/walmart-onn-4k-pro-google-tv-available"&gt;&lt;strong&gt;Onn Google TV 4K Pro&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; &lt;/strong&gt;is selling for $39 (about $11 off) at &lt;a href="https://goto.walmart.com/c/482924/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2Fonn-Google-TV-4K-Pro-Streaming-Device-New-2024-4K-UHD-resolution-Dolby-Vision-Dolby-ATMOS-Hands-Free-Voice-Control-Smart-Hub%2F5193222892%2F&amp;amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"&gt;Walmart&lt;/a&gt; right now. The streaming device is a higher-end version of the excellent &lt;a href="https://www.theverge.com/23738980/walmart-onn-google-tv-4k-streaming-box-review"&gt;Onn Google TV 4K Streaming Box&lt;/a&gt;. It delivers even more value in some ways, though, as it functions as a smart speaker that’s compatible with Google Assistant. The 4K streaming device also adds support for Dolby Vision and Atmos, as well as Wi-Fi 6, while retaining built-in Chromecast support.&lt;/li&gt;
+&lt;li id="JtURxR"&gt;
+&lt;a href="https://www.amazon.com/Ring-Video-Doorbell-Pro-Chime/dp/B08KHZ1VMN?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon is selling&lt;/a&gt; the &lt;strong&gt;Ring Wired Doorbell Pro&lt;/strong&gt; (formerly known as the &lt;a href="https://www.theverge.com/22359973/ring-video-doorbell-pro-2-review"&gt;&lt;strong&gt;Ring Video Doorbell Pro 2&lt;/strong&gt;&lt;/a&gt;) with a Chime Pro for $199.99 (about $90 off), which is $10 shy of the bundle’s best price to date. The wired Pro is one of &lt;a href="https://www.theverge.com/22954554/best-video-doorbell-camera"&gt;our favorite video doorbells&lt;/a&gt;, one that works with Amazon Alexa and integrates well with Ring Alarm and other Ring cameras. It offers top-notch video quality and a square aspect ratio, though many features — including person alerts and the ability to save and share clips — require a premium Ring subscription plan. The Chime Pro, meanwhile, doubles as a speaker for notifications and a Wi-Fi extender, so the doorbell receives a strong signal.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;aside id="1Rvd4y"&gt;&lt;div data-anthem-component="newsletter" data-anthem-component-data='{"slug":"deals"}'&gt;&lt;/div&gt;&lt;/aside&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24319164/xbox-game-pass-ultimate-elgato-stream-deck-neo-deal-sale"/>
+    <id>https://www.theverge.com/2024/12/12/24319164/xbox-game-pass-ultimate-elgato-stream-deck-neo-deal-sale</id>
+    <author>
+      <name>Sheena Vasani</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-12-12T14:03:51-05:00</published>
+    <updated>2024-12-12T14:03:51-05:00</updated>
+    <title>Threads follows Bluesky’s starter packs with curated collections of people to follow</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="An image showing the Threads logo" src="https://cdn.vox-cdn.com/thumbor/bcl9lG1nOnNvPMIIUTG7qq-1Nbg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73783060/STK156_Instagram_threads_1.0.jpg" /&gt;
+        &lt;figcaption&gt;Illustration: The Verge&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="TwQkRY"&gt;Meta’s Threads is getting another feature seemingly inspired by Bluesky: curated groups of accounts that you can follow all at once. They basically sound like Meta’s take on Bluesky’s handy starter packs.&lt;/p&gt;
+&lt;p id="5UW7D7"&gt;Instagram boss Adam Mosseri &lt;a href="https://www.threads.net/@mosseri/post/DDfPItEv7T8?xmt=AQGz-j7922-ea6JlhP7H_IlfXAyrA2UZXYsWYbM3ENBBxw"&gt;announced Thursday&lt;/a&gt; that Meta is starting to test the feature, and he said that you’ll see the collections “when signing up for Threads and within the For You feed.” A “handful” of “Threads community leaders” curated and shared the current collections.&lt;/p&gt;
+&lt;p id="CLPG9N"&gt;People will be able to find collections built around topics like “basketball, style and fashion, food, books, pop culture, and more,” Meta spokesperson Alec Booker tells The Verge. “We’ll iterate on this feature based on learnings from the test, and hope to expand the functionality to more people soon.”&lt;/p&gt;
+&lt;figure class="e-image"&gt;
+        &lt;img alt="Screenshots showing Threads’ new curated collections of accounts to follow." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/K7IRebsqf0VPYZGgDhn1UqIE8Kw=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25787335/Suggested_Profiles_For_You.png"&gt;
+      &lt;cite&gt;Image: Meta&lt;/cite&gt;
+  &lt;/figure&gt;
+&lt;figure class="e-image"&gt;
+        &lt;img alt="Screenshots showing Threads’ new curated collections of accounts to follow." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/u0lFDwrDvy5sNM77gd0f70ixGlw=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25787340/Suggested_Profiles_Sign_Up.png"&gt;
+      &lt;cite&gt;Image: Meta&lt;/cite&gt;
+  &lt;/figure&gt;
+&lt;p id="mRtEhL"&gt;Meta has upped the pace of Threads feature updates after users really started flocking to Bluesky last month — Threads introduced its own take on &lt;a href="https://www.theverge.com/2024/11/20/24301587/threads-custom-feeds-rolling-out"&gt;custom feeds&lt;/a&gt; just five days after &lt;a href="https://www.theverge.com/2024/11/15/24297313/threads-custom-feeds-test"&gt;announcing the feature in testing&lt;/a&gt;, for example.&lt;/p&gt;
+&lt;p id="oLw1Ar"&gt;While I personally think Bluesky is the &lt;a href="https://www.theverge.com/2024/11/23/24303502/bluesky-next-twitter-threads-x"&gt;heir apparent to Twitter&lt;/a&gt;, Threads is still significantly larger. Meta saw 35 million Threads signups &lt;a href="https://www.theverge.com/2024/11/26/24306591/threads-35-million-signups-november-growth"&gt;in November&lt;/a&gt;, but Bluesky user growth has seemingly slowed to a crawl: as I write this, Bluesky is &lt;a href="https://bsky-users.theo.io"&gt;on the cusp&lt;/a&gt; of surpassing 25 million users, a five million user jump from &lt;a href="https://www.theverge.com/2024/11/19/24301008/bluesky-now-has-more-than-20-million-users"&gt;nearly a month ago&lt;/a&gt;.&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24319783/threads-curated-collections-bluesky-starter-packs"/>
+    <id>https://www.theverge.com/2024/12/12/24319783/threads-curated-collections-bluesky-starter-packs</id>
+    <author>
+      <name>Jay Peters</name>
+    </author>
+  </entry>
   <entry>
     <published>2024-12-12T13:30:30-05:00</published>
     <updated>2024-12-12T13:30:30-05:00</updated>
@@ -58,228 +296,6 @@
     <id>https://www.theverge.com/2024/12/12/24319697/gemini-ai-summarize-google-drive-folders</id>
     <author>
       <name>Emma Roth</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-12-12T13:01:21-05:00</published>
-    <updated>2024-12-12T13:01:21-05:00</updated>
-    <title>The extremely online life of the American teenager</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="Photo illustration of pixels coming out of a locker." src="https://cdn.vox-cdn.com/thumbor/G5K1ujVVetyHaLzUcbdLk-smdTA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73782957/STK419_DEEPFAKE_CVIRGINIA_J.0.jpg" /&gt;
-        &lt;figcaption&gt;Cath Virginia / The Verge | Photos from Getty Images&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="1NQhQx"&gt;Nearly half of US teens are “almost constantly” online, though the platforms they spend their time on vary significantly, according to &lt;a href="https://www.pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024/"&gt;a new Pew survey&lt;/a&gt;.&lt;/p&gt;
-&lt;p id="kpf6D9"&gt;Despite some variety in their overall online habits, virtually all teenagers use YouTube. Of the 1,391 teenagers polled by the Pew Research Center, 90 percent said they use the site, a slight decrease from 95 percent in 2022. And 73 percent of them go on YouTube every day, making it by far the most popular platform for teenage users. The second-most popular app is TikTok, which 63 percent of teens say they use. &lt;/p&gt;
-&lt;figure class="e-image"&gt;
-        &lt;img alt="A Pew Research Center graph tited “YouTube, TikTok, Instagram and Snapchat top the list for teens”" data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/hmDQfTXm1Tq3NWEwwt8Dg5dDEP8=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25787153/PI_2024.12.12_teens_social_media_tech_0_01.jpg"&gt;
-      &lt;cite&gt;Pew Research Center&lt;/cite&gt;
-      &lt;figcaption&gt;Almost all teenagers polled by Pew use YouTube, but very few are on Threads.&lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="KLCxXe"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"TikTok teens’ latest passion is enterprise software","url":"https://www.theverge.com/2021/1/5/22215782/tiktok-notion-enterprise-software-teen-studyblr"},{"title":"The teens making friends with AI chatbots","url":"https://www.theverge.com/2024/5/4/24144763/ai-chatbot-friends-character-teens"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
-&lt;p id="PzY0Lk"&gt;But there’s a gender divide, especially among teenagers who say they “almost constantly” use either app: 19 percent of girls say they use TikTok that often, while the same share of boys are constantly on YouTube.&lt;/p&gt;
-&lt;p id="JG7VtK"&gt;And even this extremely online demographic isn’t using all websites equally. Just 6 percent of teenagers polled said they use Threads, Meta’s microblogging app, and only 32 percent use Facebook — down from 71 percent a decade ago. The only Meta product a majority of teenagers use is Instagram, whose popularity has increased since 2014. &lt;/p&gt;
-&lt;p id="SY2oFW"&gt;There seems to be a preference for image- and video-based platforms among the teenagers polled: X and Reddit were also much less popular, with 17 percent and 14 percent of teens saying they use them, respectively. And teens’ X usage has declined significantly over the past decade: a decade ago, when it was still called Twitter, 33 percent of US teens used it. But teens’ use of some image-based apps — including Snapchat — is on the decline as well. In fact, the only app that has experienced a rise in popularity is WhatsApp, which is now used by 23 percent of teenagers.&lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24319692/half-of-us-teens-almost-constantly-online-pew-research-poll"/>
-    <id>https://www.theverge.com/2024/12/12/24319692/half-of-us-teens-almost-constantly-online-pew-research-poll</id>
-    <author>
-      <name>Gaby Del Valle</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-12-12T13:00:00-05:00</published>
-    <updated>2024-12-12T13:00:00-05:00</updated>
-    <title>Microsoft’s Recall AI is creepy, clever, and compelling</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="A timeline with buttons for yesterday, today, and now, with apps like Teams and Excel at the bottom." src="https://cdn.vox-cdn.com/thumbor/2nz6iLE-Am7OFQ8Oiu9INg0NDeM=/144x0:1698x1036/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73782941/Gen_AI_feature3_VP5_1842x1036.0.jpg" /&gt;
-        &lt;figcaption&gt;Image: Microsoft&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="JZbVCt"&gt;I honestly thought I’d hate Microsoft’s controversial Recall feature and immediately disable it, but after using it for the past couple of weeks, I’ve been both creeped out and impressed with what it’s capable of.&lt;/p&gt;
-&lt;p id="9QAfHB"&gt;Recall, a Windows 11 feature that takes snapshots of mostly everything you see on your screen, quickly became a controversy earlier this year after Microsoft announced it. Privacy advocates immediately started warning about potential issues with Recall without even using it, and security researchers found big holes in a prerelease version of the feature. Microsoft delayed Recall multiple times to give the company more time to address the security issues, and it’s now in testing for Windows Insiders ahead of a broader rollout next year.&lt;/p&gt;
-&lt;p id="2AXcyS"&gt;The first thing I noticed about Recall is that the initial setup experience is very clunky and feels unfinished. You launch the app, and it redirects you to Windows Update, where AI models will start downloading and installing. Once you’ve installed a trio of these, it looks like the install process is complete — but then Windows Update will find another component of Recall to install. After fiddling around for 10 minutes, Recall will...&lt;/p&gt;
-  &lt;p&gt;&lt;a href="https://www.theverge.com/2024/12/12/24319609/microsoft-recall-hands-on-notepad"&gt;Read the full story at The Verge.&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24319609/microsoft-recall-hands-on-notepad"/>
-    <id>https://www.theverge.com/2024/12/12/24319609/microsoft-recall-hands-on-notepad</id>
-    <author>
-      <name>Tom Warren</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-12-12T12:38:20-05:00</published>
-    <updated>2024-12-12T12:38:20-05:00</updated>
-    <title>Apple gets into AI: all the news on iOS 18, macOS Sequoia, and more</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="Image of the Apple logo surrounded by gray, pink, and green outlines" src="https://cdn.vox-cdn.com/thumbor/KfWeKom2KbBmYe3DQryTNPfWG-Q=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73590176/VRG_Illo_N_Barclay_5_apple.0.jpg" /&gt;
-        &lt;figcaption&gt;Illustration by Nick Barclay / The Verge&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p&gt;iOS 18 introduces more customization and the first rollout of Apple Intelligence.&lt;/p&gt; &lt;p id="V3Bqbg"&gt;Apple has released &lt;a href="https://www.theverge.com/2024/9/16/24246090/ios-18-iphone-launch-rcs-homepage-customization-features"&gt;iOS 18&lt;/a&gt; — plus iPadOS 18, &lt;a href="https://www.theverge.com/2024/9/16/24246290/apple-macos-sequoia-launch-availability"&gt;macOS Sequoia&lt;/a&gt;, &lt;a href="https://www.theverge.com/2024/9/16/24246171/apple-watchos-11-watch-sleep-apnea-smartwatch-launch"&gt;watchOS 11&lt;/a&gt;, and other new updates — bringing several key updates to how the company’s devices operate and setting the stage for generative AI features.&lt;/p&gt;
-&lt;p id="J6LPbj"&gt;The most discussed feature of iOS 18 is the Apple Intelligence suite. With the release of iOS 18.2 on December 11th, features &lt;a href="https://www.theverge.com/2024/12/12/24318840/ios-18-2-apple-intelligence-chatgpt-genmoji-image-playground"&gt;that are available now&lt;/a&gt; include generating images in Image Playground, creating custom “Genmoji” emoji, and ChatGPT integration. Other features of Apple Intelligence, including writing tools such as the ability to rewrite your text in different styles, trickled out to customers &lt;a href="https://www.theverge.com/2024/10/28/24272995/apple-intelligence-now-available-ios-18-1-mac-ipad"&gt;starting in October.&lt;/a&gt;&lt;/p&gt;
-&lt;p id="VSBHSc"&gt;There are major non-AI changes to consider too, like the ability to &lt;a href="https://www.theverge.com/2024/10/23/24277926/apple-iphone-default-messaging-apps-ios-18-2"&gt;change your default apps&lt;/a&gt; or &lt;a href="https://www.theverge.com/24275178/apple-airpods-pro-hearing-aid-test-protection-preview"&gt;test your hearing with AirPods&lt;/a&gt;.&lt;/p&gt;
-&lt;p id="DhFXOH"&gt;Meanwhille, iPadOS 18 now &lt;a href="https://www.theverge.com/2024/6/10/24140821/apple-ipados-18-features-updates-apps-wwdc-2024"&gt;has a calculator app&lt;/a&gt; and can solve math equations in notes, watchOS is &lt;a href="https://www.theverge.com/2024/9/16/24246150/apple-watch-sleep-apnea-detection-fda-approval"&gt;keeping an eye out for sleep apnea&lt;/a&gt;, and now your iPhone can even message Androids with RCS.&lt;/p&gt;
-&lt;p id="JiJMuf"&gt;&lt;em&gt;Read on for all the news about Apple’s latest set of operating system updates.&lt;/em&gt;&lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16"/>
-    <id>https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16</id>
-    <author>
-      <name>Andrew Liszewski</name>
-      <name>Allison Johnson</name>
-      <name>Emma Roth</name>
-      <name>Wes Davis</name>
-      <name>Richard Lawler</name>
-      <name>Jay Peters</name>
-      <name>David Pierce</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-12-12T12:30:46-05:00</published>
-    <updated>2024-12-12T12:30:46-05:00</updated>
-    <title>Supernote’s new E Ink tablet is upgradeable and repairable</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="A person holding the Supernote A5 X2 Manta writes on the screen using a stylus." src="https://cdn.vox-cdn.com/thumbor/X-0WAR8-KLmUyNYlJNlcCqJ3ohM=/0x0:1080x720/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73782879/supernote1.0.jpg" /&gt;
-        &lt;figcaption&gt;&lt;em&gt;The Supernote A5 X2 Manta is more expensive than the Remarkable 2, but will potentially last longer with upgradeable components.&lt;/em&gt; | Image: Supernote&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="u25Drw"&gt;Supernote has announced its new &lt;a href="https://supernote.com/pages/supernote-manta?"&gt;A5 X2 Manta E Ink tablet&lt;/a&gt; that could be a potential alternative to the &lt;a href="https://www.theverge.com/21403489/remarkable-2-e-ink-paper-tablet-review"&gt;reMarkable 2&lt;/a&gt; for those wanting a larger screen and a device that can be easily upgraded and repaired. It’s &lt;a href="https://supernote.com/products/supernote-a5-x2-manta?variant=45959389348076"&gt;available now for $459&lt;/a&gt;, something of a jump from the $379 &lt;a href="https://www.theverge.com/21403489/remarkable-2-e-ink-paper-tablet-review"&gt;reMarkable 2&lt;/a&gt;. The latter also includes a stylus, while the Supernote A5 X2 requires you to provide your own — or &lt;a href="https://supernote.com/collections/pens"&gt;spend at least another $59&lt;/a&gt; to buy one of the company’s pens (which, according to Supernote, don’t need charging and are fitted with ceramic tips that won’t wear down).&lt;/p&gt;
-&lt;p id="2uNbtI"&gt;On the other hand, the new tablet is very fixable. A panel on the back of the Supernote A5 X2 can be removed without tools, giving quick access to some of the tablet’s internal components. This includes its 3,600mAh battery, which can be replaced when it loses capacity or stops charging, and the A5 X2’s motherboard, potentially allowing for performance improvements or new features down the road without having to replace the entire device. There’s also a microSD slot that can use a memory card to expand the A5 X2’s storage from 32GB up to 2TB.&lt;/p&gt;
-&lt;figure class="e-image"&gt;
-        &lt;img alt="The Supernote A5 X2 Manta atop a couple of paper notebooks with its rear panel removed." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/9_iGE-YL4AWVaNF76H9AhHjJmek=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25787018/supernote3.jpg"&gt;
-      &lt;cite&gt;Image: Supernote&lt;/cite&gt;
-      &lt;figcaption&gt;&lt;em&gt;You don’t even need to reach for a screwdriver to open the A5 X2’s back panel.&lt;/em&gt;&lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;p id="wYQCWh"&gt;The 10.7-inch 300 ppi E Ink screen on the Supernote A5 X2 is larger and has more resolution than the reMarkable 2’s 10.3-inch 266 ppi panel, but like the four-year-old reMarkable, the A5 X2 skips screen lighting for what the company calls an improved writing experience and a “true paper look in natural light.” That could be a tough sell when alternatives like the &lt;a href="https://www.theverge.com/2024/10/16/24271627/amazon-kindle-scribe-2024-notebook-specs"&gt;Amazon Kindle Scribe&lt;/a&gt; and the &lt;a href="https://www.theverge.com/23769068/best-ebook-readers"&gt;Kobo Elipsa 2E&lt;/a&gt; can be easily used in the dark. Even reMarkable &lt;a href="https://www.theverge.com/2024/9/4/24234815/the-remarkable-paper-pro-is-as-outrageous-as-it-is-luxurious"&gt;now offers an E Ink tablet&lt;/a&gt; with an illuminated screen.&lt;/p&gt;
-&lt;p id="v3a1pt"&gt;Powered by a 1.8GHz RK3566 quad-core processor, the Supernote A5 X2 runs a custom Android 11-based OS called Chauvet that supports features like two-finger gestures and offline handwriting recognition that can convert your notes to editable text. The tablet also has Bluetooth and Wi-Fi, allowing documents to be synced through cloud-based services like Dropbox or Google Drive, or to be transferred directly to other devices wirelessly using an accompanying mobile app. For extra security, you can even plug a flash drive into the A5 X2’s USB-C charging port and transfer files manually.&lt;/p&gt;
-&lt;figure class="e-image"&gt;
-        &lt;img alt="The Supernote A5 X2 Manta on a desk being used to sketch an architectural design." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/mDTeqxqGeR01LyCbxHfGOw80JhY=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25787060/supernote2.jpg"&gt;
-      &lt;cite&gt;Image: Supernote&lt;/cite&gt;
-      &lt;figcaption&gt;&lt;em&gt;A loop for holding a stylus to the side of the tablet can be removed for those wanting a cleaner look.&lt;/em&gt;&lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;p id="UGSzIB"&gt;Other features include touch-sensitive strips on the bezels on either side of the screen that can be used to scroll long document and a fabric loop for storing a stylus that can also be removed entirely.&lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24319575/supernote-a5-x2-manta-tablet-e-ink-electronic-paper-upgradeable-repairable"/>
-    <id>https://www.theverge.com/2024/12/12/24319575/supernote-a5-x2-manta-tablet-e-ink-electronic-paper-upgradeable-repairable</id>
-    <author>
-      <name>Andrew Liszewski</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-12-12T12:21:19-05:00</published>
-    <updated>2024-12-12T12:21:19-05:00</updated>
-    <title>Epic’s holiday sale includes 16 free games this year</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="An illustration of Epic Games’ logo." src="https://cdn.vox-cdn.com/thumbor/pu55c9vZ2QKn7ltATcW74fg01Bs=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73782833/acastro_STK108__02.0.jpg" /&gt;
-        &lt;figcaption&gt;Illustration by Alex Castro / The Verge&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="JDV8Ic"&gt;Epic Games’ annual holiday sale is now live, and like previous years, the company is also going to be offering a bunch of free games you can claim during the sale. Over the course of this sale, the store will have 16 free games, &lt;a href="https://store.epicgames.com/en-US/news/epic-games-store-holiday-sale-2024-buyers-guide"&gt;according to a blog post&lt;/a&gt;.&lt;/p&gt;
-&lt;p id="v08E28"&gt;Epic isn’t spilling the beans about &lt;em&gt;which&lt;/em&gt; games will be on offer, teasing only that you’ll be able to claim “some absolutely amazing titles.” But in pervious years, Epic has given away big games like &lt;a href="https://www.theverge.com/2023/12/13/23999921/epic-games-store-holiday-sale-2023-free-games"&gt;&lt;em&gt;Destiny 2: Legacy Collection&lt;/em&gt;&lt;/a&gt;&lt;em&gt; &lt;/em&gt;and &lt;a href="https://www.theverge.com/2021/12/26/22854581/control-free-epic-games-store"&gt;&lt;em&gt;Control&lt;/em&gt;&lt;/a&gt;, so fingers crossed that Epic has some good holiday surprises up its sleeve.&lt;/p&gt;
-&lt;p id="biAjtT"&gt;For paid deals, there are some good games to sift through, like 35 percent off &lt;a href="https://store.epicgames.com/en-US/p/dragon-age-the-veilguard"&gt;&lt;em&gt;Dragon Age: The Veilguard&lt;/em&gt;&lt;/a&gt;&lt;em&gt; &lt;/em&gt;and &lt;em&gt;Star Wars: Outlaws&lt;/em&gt;. During the holiday sale, Epic is also giving users 10 percent back on their purchases as part of the Epic Rewards program, which is a boost from the usual 5 percent.&lt;/p&gt;
-&lt;p id="SS5Dte"&gt;&lt;a href="https://store.epicgames.com/en-US/"&gt;The sale&lt;/a&gt; ends at 11AM ET on January 9th, 2025.&lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24319675/epic-games-holiday-sale-16-free-games"/>
-    <id>https://www.theverge.com/2024/12/12/24319675/epic-games-holiday-sale-16-free-games</id>
-    <author>
-      <name>Jay Peters</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-12-12T11:46:18-05:00</published>
-    <updated>2024-12-12T11:46:18-05:00</updated>
-    <title>Biden administration raises tariffs on solar materials from China </title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="A worker wearing a mask, a white garb and gloves grasps a slab of material in a factory." src="https://cdn.vox-cdn.com/thumbor/BG-xKa_FQhySW6vbNj-WNnR_PYg=/0x3:3373x2252/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73782734/2161788194.0.jpg" /&gt;
-        &lt;figcaption&gt;A worker handles wafers at the GCL Technology production plant in Xuzhou, Jiangsu Province, China, on Tuesday, July 2, 2024. GCL Technology is one of the world’s largest makers of polysilicon, a key material in solar panels. | Photo: Getty Images&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="PyRUpE"&gt;Tariffs on solar wafers, polysilicon, and certain tungsten products from China are going to rise dramatically come January 1st, 2025, the Biden administration announced Wednesday. That means higher price tags on key materials needed to make solar panels at a time when solar is the &lt;a href="https://emp.lbl.gov/sites/default/files/2024-04/Queued%20Up%202024%20Edition_1.pdf"&gt;fastest growing source&lt;/a&gt; of electricity in the US. &lt;/p&gt;
-&lt;p id="iz3Jsh"&gt;Polysilicon is used to make solar wafers, which are the semiconductors in solar panels. Tungsten — the same material in old-school incandescent lightbulbs — has many uses in electronics because of its high melting point. The metal is also part of supply chains for the aerospace, automotive, defense, medical, and oil and gas industries.&lt;/p&gt;
-&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="WMMSN2"&gt;&lt;q&gt;That means higher price tags on key materials needed to make solar panels at a time when solar is the fastest growing source of electricity in the US&lt;/q&gt;&lt;/aside&gt;&lt;/div&gt;
-&lt;p id="4aXLjy"&gt;It’s the latest instance of the Biden administration hiking up tariffs on goods from China — which dominates solar manufacturing — as part of its plan to build up domestic supply chains for clean energy. &lt;/p&gt;
-&lt;p id="uKwvsm"&gt;Solar products from the Xinjiang region in particular also face &lt;a href="https://www.business-humanrights.org/en/latest-news/china-solar-companies-linked-to-forced-labour-allegations/"&gt;accusations of forced labor and human rights abuses&lt;/a&gt;. The Office of the US Trade Representative (USTR) also said that the decision to raise tariffs follows an investigation into &lt;a href="https://ustr.gov/sites/default/files/05.14.2024%20Four%20Year%20Review%20of%20China%20Tech%20Transfer%20Section%20301%20(Final).pdf"&gt;cyber theft and economic espionage&lt;/a&gt; by China.&lt;/p&gt;
-&lt;p id="X0rmDV"&gt;“The tariff increases announced today will further blunt the harmful policies and practices by the People’s Republic of China,” ambassador Katherine Tai said in a &lt;a href="https://ustr.gov/about-us/policy-offices/press-office/press-releases/2024/december/ustr-increases-tariffs-under-section-301-tungsten-products-wafers-and-polysilicon-concluding"&gt;statement&lt;/a&gt;. “These actions will complement the domestic investments made under the Biden-Harris Administration to promote a clean energy economy, while increasing the resilience of critical supply chains.”&lt;/p&gt;
-&lt;p id="zziJ1A"&gt;Starting next year, tariffs on polysilicon and solar wafers will &lt;a href="https://apnews.com/article/china-us-tariffs-tungsten-solar-a9653d4b14051d78314c2bd8111510e7"&gt;double&lt;/a&gt; from 25 to 50 percent. Tariffs on certain tungsten products will go &lt;a href="https://apnews.com/article/china-us-tariffs-tungsten-solar-a9653d4b14051d78314c2bd8111510e7"&gt;from zero&lt;/a&gt; to 25 percent. Chinese companies &lt;a href="https://cen.acs.org/energy/solar-power/US-solar-polysilicon-supply-problem/100/i33"&gt;produce more than 75 percent of the world’s polysilicon&lt;/a&gt;. Considering all the &lt;a href="https://www.iea.org/reports/solar-pv-global-supply-chains/executive-summary"&gt;manufacturing stages for solar panels&lt;/a&gt;, which includes polysilicon and wafers, China holds &lt;a href="https://www.woodmac.com/press-releases/china-dominance-on-global-solar-supply-chain/"&gt;more than 80 percent&lt;/a&gt; of global capacity.&lt;/p&gt;
-&lt;p id="m7plug"&gt;American manufacturers welcomed the changes. “These trade measures will begin to counter the pervasive Chinese government subsidies in solar manufacturing. It is a step in the right direction,” Mike Carr, executive director of the Solar Energy Manufacturers for America (SEMA) Coalition, said in an emailed statement. &lt;/p&gt;
-&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="LdhoQk"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"What does Trump’s election mean for EVs, Tesla, and Elon Musk? ","url":"https://www.theverge.com/2024/11/6/24289494/trump-election-electric-vehicle-tax-credit-tesla-elon-musk"},{"title":"What a second Trump presidency means for tech ","url":"https://www.theverge.com/2024/11/8/24291333/second-trump-tech-policy-antitrust-ai-crypto"},{"title":"US to raise tariffs on EVs, batteries, solar cells, and computer chips from China ","url":"https://www.theverge.com/2024/5/14/24156249/us-biden-china-tariffs-ev-solar-battery-semiconductor-critical-minerals"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
-&lt;p id="KyVtcs"&gt;To be sure, Chinese policies aimed at boosting solar manufacturing have led to economies of scale that have &lt;a href="https://www.iea.org/reports/solar-pv-global-supply-chains/executive-summary"&gt;allowed prices for solar panels to plummet around the world&lt;/a&gt;. Chinese companies also make much &lt;a href="https://www.theverge.com/2024/5/10/24153830/biden-china-ev-tariff-quadruple-trade"&gt;more affordable electric vehicles&lt;/a&gt; than US manufacturers. EVs from China have been similarly subject to &lt;a href="https://www.theverge.com/2024/5/14/24156249/us-biden-china-tariffs-ev-solar-battery-semiconductor-critical-minerals"&gt;soaring tariffs during the Biden administration&lt;/a&gt; to 100 percent from 25 percent this year. In May, Biden also &lt;a href="https://www.whitehouse.gov/briefing-room/statements-releases/2024/05/14/fact-sheet-president-biden-takes-action-to-protect-american-workers-and-businesses-from-chinas-unfair-trade-practices/"&gt;announced&lt;/a&gt; that tariffs on battery parts and lithium-ion batteries would rise to 25 percent from 7.5 percent. In addition, he increased the tarifff rate on solar cells from 25 percent to 50 percent. And by 2025, the rate on semiconductors from China will double to 50 percent.&lt;/p&gt;
-&lt;p id="7JBWEY"&gt;President-elect Donald Trump has said he plans to &lt;a href="https://nrf.com/research/estimated-impacts-proposed-tariffs-imports-apparel-toys-furniture-household-appliances"&gt;hike tariffs&lt;/a&gt; on imported goods from China even more than his predecessor, which is expected to increase prices on everything from &lt;a href="https://www.theverge.com/2024/11/6/24289494/trump-election-electric-vehicle-tax-credit-tesla-elon-musk"&gt;cars&lt;/a&gt; to &lt;a href="https://www.theverge.com/2024/11/8/24291333/second-trump-tech-policy-antitrust-ai-crypto"&gt;electronics&lt;/a&gt;.&lt;/p&gt;
-&lt;p id="cPdgcD"&gt;&lt;/p&gt;
-&lt;p id="WDVGQL"&gt;&lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24319521/china-tariffs-solar-energy-wafer-polysilicon-tungsten"/>
-    <id>https://www.theverge.com/2024/12/12/24319521/china-tariffs-solar-energy-wafer-polysilicon-tungsten</id>
-    <author>
-      <name>Justine Calma</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-12-12T11:35:23-05:00</published>
-    <updated>2024-12-12T11:35:23-05:00</updated>
-    <title>YouTube quietly made some of its web embeds worse, including ours</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="The YouTube logo on a black background" src="https://cdn.vox-cdn.com/thumbor/dxW-vEA6eR6CRvRhLNSmNnbu2Ek=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73782716/acastro_180322_1777_youtube_0001.0.jpg" /&gt;
-        &lt;figcaption&gt;Illustration by Alex Castro / The Verge&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="PCh2X3"&gt;For about a year, I’ve gotten notes from readers asking why our YouTube embeds are broken in one very specific way: you can no longer click the title to open the video on YouTube.com or in the YouTube app. This used to work just fine, but now you can’t.&lt;/p&gt;
-&lt;p id="Uq47lY"&gt;This bothers us, too, and it’s doubly frustrating because everyone assumes that &lt;em&gt;we’ve&lt;/em&gt; chosen to disable links, which makes a certain kind of sense — after all, why on earth wouldn’t YouTube want people to click over to its app?&lt;/p&gt;
-&lt;p id="N24Sv2"&gt;The short answer is money. Somewhat straightforwardly, YouTube has chosen to degrade the user experience of the embedded player publishers like Vox Media use, and the only way to get that link back is by using a slightly different player that pays us less and YouTube more.&lt;/p&gt;
-&lt;p id="pppz32"&gt;I know this because I’ve spent months chasing down the mystery of the broken links, and after tons of back and forth between Vox Media’s teams and YouTube, and even me pushing this up to YouTube CEO Neal Mohan, they’re not going to change it.&lt;/p&gt;
-&lt;p id="MR6JxW"&gt;Here’s the really long version: like everyone, we publish our videos on YouTube. But YouTube isn’t the same for everyone. Publishers like Vox Media can use something called the YouTube Player for Publishers, or PfP, which &lt;a href="https://blog.google/outreach-initiatives/google-news-initiative/digital-news-initiative-introducing/"&gt;has been around since 2016&lt;/a&gt; and basically competes with the wacky custom video players you see on so many other sites. It allows publishers to sell their own ads at higher rates while still having the videos live in the YouTube ecosystem, which is a nice win-win and not something anyone had to think about until earlier this year. (I didn’t even really know about it until this links kerfuffle — if you &lt;a href="https://www.theverge.com/2024/12/10/24317808/future-of-media-verge-subscription-podcasts-vergecast"&gt;listen to &lt;em&gt;The Vergecast&lt;/em&gt;&lt;/a&gt; this week, you know our newsroom is firewalled from the business side of our company.)&lt;/p&gt;
-&lt;p id="GWtjLm"&gt;But around the beginning of this year, YouTube decided to change PfP and remove all of its branding from the publisher player. And “branding,” according to YouTube, includes that title link back to YouTube. If publishers want that link back to YouTube, they have to use the standard YouTube player — and give up their ad revenue and control to YouTube. That’s why so many YouTube players around the web — not just ours — don’t have links that work, even though they otherwise look and behave just like YouTube’s standard player.&lt;/p&gt;
-&lt;p id="R3VQVP"&gt;Here’s what YouTube spokesperson Mariana De Felice told me about it: “News publishers can choose between the standard YouTube embedded player or a version designed specifically for them, which gives greater control over the ads experience, but removes YouTube branding and links back to YouTube. This version provides publishers greater control over the ads running on their videos, but YouTube doesn’t have visibility into which ads are served. In order to protect our advertisers and partners, we’ve removed our branding and links back to YouTube from the player.”&lt;/p&gt;
-&lt;p id="TjbT8F"&gt;I am a real brat and have complained about this for months now — it had all worked fine since 2016! — but that’s the situation. Our choices are basically leaving things alone, making less money to have the link work, or switching to some other player on the site in protest, which would also not have a link back to YouTube but would at least let us pretend there’s market competition in video players. &lt;/p&gt;
-&lt;p id="GZzu6Y"&gt;Ultimately our business side will make the call, but that’s why the link is broken — a tiny example of the modern platform internet that tells a huge story about how everything else works.&lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24318124/youtube-player-cant-click-title-sigh"/>
-    <id>https://www.theverge.com/2024/12/12/24318124/youtube-player-cant-click-title-sigh</id>
-    <author>
-      <name>Nilay Patel</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-12-12T11:32:03-05:00</published>
-    <updated>2024-12-12T11:32:03-05:00</updated>
-    <title>How to choose which Apple Watch to buy</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="Various models of Apple Watch on a graphic background." src="https://cdn.vox-cdn.com/thumbor/VP4_qF_XzWaJKVsKsOmHxZKZaeg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/70781237/247277_Buying_Guide_Apple_Watch_CVirginia.6.jpg" /&gt;
-        &lt;figcaption&gt;Image: Cath Virginia. / The Verge&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-
-  &lt;p&gt;Between the Apple Watch Series 10, the Ultra 2, and the second-gen SE, there are more options than ever. We’ll help you sort through them.&lt;/p&gt;
-  &lt;p&gt;&lt;a href="https://www.theverge.com/23037217/best-apple-watch-series-se-ultra"&gt;Read the full story at The Verge.&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/23037217/best-apple-watch-series-se-ultra"/>
-    <id>https://www.theverge.com/23037217/best-apple-watch-series-se-ultra</id>
-    <author>
-      <name>Victoria Song</name>
     </author>
   </entry>
 </feed>
