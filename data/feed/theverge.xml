@@ -2,300 +2,267 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>The Verge -  All Posts</title>
   <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
-  <updated>2024-12-12T16:39:41-05:00</updated>
+  <updated>2024-12-12T22:53:17-05:00</updated>
   <id>https://www.theverge.com/rss/full.xml</id>
   <link type="text/html" href="https://www.theverge.com/" rel="alternate"/>
   <entry>
-    <published>2024-12-12T16:39:41-05:00</published>
-    <updated>2024-12-12T16:39:41-05:00</updated>
-    <title>Google says its breakthrough quantum chip can’t break modern cryptography</title>
+    <published>2024-12-12T22:53:17-05:00</published>
+    <updated>2024-12-12T22:53:17-05:00</updated>
+    <title>Okami is getting a sequel</title>
     <content type="html">  
 
     &lt;figure&gt;
-      &lt;img alt="An image showing Google’s quantum computing chip" src="https://cdn.vox-cdn.com/thumbor/4COpc39QVHmImHdvqYfPcqdbSeA=/255x0:2313x1372/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73783370/google_willow_chip.0.png" /&gt;
-        &lt;figcaption&gt;Image: Google&lt;/figcaption&gt;
+      &lt;img alt="The logo for an Okami sequel." src="https://cdn.vox-cdn.com/thumbor/SH2zYbLZoGas6zTpRx873F6V9iA=/254x0:1871x1078/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73783875/Screenshot_2024_12_12_at_10.51.05_PM.0.png" /&gt;
+        &lt;figcaption&gt;Image: Capcom&lt;/figcaption&gt;
     &lt;/figure&gt;
 
-  &lt;p id="sLOk7p"&gt;Experts believe that one day, quantum computers could make today’s systems of encryption utterly obsolete. But Google tells &lt;em&gt;The Verge&lt;/em&gt; &lt;a href="https://www.theverge.com/2024/12/9/24317382/google-willow-quantum-computing-chip-breakthrough"&gt;its new “breakthrough” Willow chip&lt;/a&gt; is nowhere near ready for that. &lt;/p&gt;
-&lt;p id="jzERDh"&gt;“The Willow chip is not capable of breaking modern cryptography,” Google Quantum AI director and COO Charina Chou tells &lt;em&gt;The Verge&lt;/em&gt;. &lt;/p&gt;
-&lt;p id="3tjqg7"&gt;A so-called “cryptanalytically relevant quantum computer,” or CRQC, could “jeopardize civilian and military communications, undermine supervisory and control systems for critical infrastructure, and defeat security protocols for most Internet-based financial transactions,” the White House &lt;a href="https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/04/national-security-memorandum-on-promoting-united-states-leadership-in-quantum-computing-while-mitigating-risks-to-vulnerable-cryptographic-systems/"&gt;warned in 2022&lt;/a&gt;, ordering that US agencies must transition to new systems to mitigate that risk by 2035.&lt;/p&gt;
-&lt;p id="ohvVkZ"&gt;But Willow is not a CRQC, according to Google. While the company does claim it can solve a computing challenge in five minutes that would take the world’s fastest supercomputer ten septillion years, Google has only produced 105 physical qubits worth of that computing power and suggests it would need millions to literally crack the codes.&lt;/p&gt;
-&lt;p id="mIc3sD"&gt;“Estimates are we’re at least 10 years out from breaking RSA, and that around 4 million physical qubits would be required to do this,” Chou writes. She says Willow doesn’t change the timeline at all. &lt;/p&gt;
-&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="7V4uLT"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"Google is working to safeguard Chrome from quantum computers","url":"https://www.theverge.com/2016/7/7/12120280/google-chrome-canary-quantum-computing-encryption-new-hope"},{"title":"Apple is already defending iMessage against tomorrow’s quantum computing attacks","url":"https://www.theverge.com/2024/2/21/24079081/apple-imessage-pq3-post-quantum-cryptography"},{"title":"After NSA leaks, businesses seek security in quantum physics","url":"https://www.theverge.com/2013/10/15/4839072/after-nsa-leaks-businesses-seek-security-in-quantum-physics"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
-&lt;p id="vEApDY"&gt;And though Chinese researchers have &lt;a href="https://www.infosecurity-magazine.com/news/experts-play-down-chinese-quantum/"&gt;repeatedly&lt;/a&gt; &lt;a href="https://www.forbes.com/sites/arthurherman/2023/01/10/did-china-break-the-quantum-barrier/"&gt;claimed&lt;/a&gt; to discover new ways to break RSA encryption with a much smaller quantum computers, ones with just a few hundreds or thousands of qubits, security experts have &lt;a href="https://www.schneier.com/blog/archives/2023/01/breaking-rsa-with-a-quantum-computer.html"&gt;repeatedly&lt;/a&gt; been &lt;a href="https://www.infosecurity-magazine.com/news/experts-play-down-chinese-quantum/"&gt;skeptical&lt;/a&gt;.&lt;/p&gt;
-&lt;p id="PfAyEL"&gt;Google is &lt;a href="https://www.theverge.com/2016/7/7/12120280/google-chrome-canary-quantum-computing-encryption-new-hope"&gt;one&lt;/a&gt; of the many companies preparing to defend against the potential threat of broken encryption with post-quantum cryptography, or PQC, ever since the Edward Snowden leaks revealed that spy agencies like the &lt;a href="https://www.theverge.com/2014/1/2/5267430/nsa-reportedly-secretly-funding-code-breaking-quantum-computer-research"&gt;NSA were quietly funding code-breaking quantum computer research&lt;/a&gt;. &lt;/p&gt;
-&lt;p id="z84wW0"&gt;A few years back, we wrote about how the National Institute of Standards and Technology &lt;a href="https://www.theverge.com/22523067/nist-challenge-quantum-safe-cryptography-computer-lattice"&gt;created a competition to develop quantum-safe cryptography standards&lt;/a&gt; back in 2016. This August, &lt;a href="https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards"&gt;NIST released three finalized algorithms&lt;/a&gt; and its standards for integrating them into products and systems, and plans to select one or two more by the end of the year.&lt;/p&gt;
-&lt;p id="QZUK0n"&gt;The RAND Corporation, a think tank famous for advising on US national security in the past, &lt;a href="https://www.rand.org/pubs/commentary/2023/09/when-a-quantum-computer-is-able-to-break-our-encryption.html"&gt;suggested in a 2023 editorial&lt;/a&gt; that the moment an RSA-breaking quantum computer exists, it’ll trigger a worldwide rush to defend against it: &lt;/p&gt;
-&lt;p id="lRJCqT"&gt;“As soon as the existence of the CRQC becomes public knowledge — or is even considered plausible — and the threat becomes concrete, most vulnerable organizations will immediately move to upgrade all their communications systems to post-quantum cryptography.”&lt;/p&gt;
+  &lt;p id="kqhiwT"&gt;Capcom had quite the surprise in store at The Game Awards. The developer announced a sequel to &lt;em&gt;Okami&lt;/em&gt;, a beautiful and beloved action-adventure game that originally launched back in 2006.&lt;/p&gt;
+&lt;p id="DrPo9K"&gt;The sequel — which doesn’t currently have a name — was revealed in dramatic fashion with a musical performance. Original director &lt;a href="https://www.theverge.com/2023/10/12/23914228/hideki-kamiya-bayonetta-platinum-games-retiring-youtube"&gt;Hideki Kamiya&lt;/a&gt; is returning for the game, which will be developed by his new studio Clovers. It’s still very early though; during the reveal TGA host Geoff Keighley said that “production is about to begin.” Capcom, meanwhile, says only that “a new adventure in the same vein as &lt;em&gt;Okami&lt;/em&gt; has been set in motion.”&lt;/p&gt;
+&lt;p id="qXmO2l"&gt;Not only has it been quite some time since &lt;em&gt;Okami&lt;/em&gt; debuted, its announcement also comes at a time when Capcom seems intent on doubling down on its biggest franchises. Right now that means a lot of &lt;em&gt;Monster Hunter&lt;/em&gt; and &lt;em&gt;Resident Evil&lt;/em&gt;. Up next is &lt;a href="https://www.theverge.com/24167998/monster-hunter-wilds-date-trailer"&gt;&lt;em&gt;Monster Hunter Wilds&lt;/em&gt;&lt;/a&gt;, which is launching next year, as well as the mobile spinoff &lt;a href="https://www.theverge.com/2024/11/12/24294524/monster-hunter-outlanders-mobile-game"&gt;&lt;em&gt;Monster Hunter Outlanders&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p id="zJRngv"&gt;However, Okami isn’t the only Capcom franchise being revived: &lt;a href="https://www.theverge.com/2024/12/12/24320142/onimusha-is-back-and-very-bloody"&gt;the company also revealed a new entry in the action franchise &lt;em&gt;Onimusha&lt;/em&gt;&lt;/a&gt;, which is launching in 2026. Here’s &lt;a href="https://www.youtube.com/watch?v=KOiJGLZDnFw"&gt;the very bloody debut trailer &lt;/a&gt;for that.&lt;/p&gt;
 
 </content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24319879/google-willow-cant-break-rsa-cryptography"/>
-    <id>https://www.theverge.com/2024/12/12/24319879/google-willow-cant-break-rsa-cryptography</id>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24320133/okami-2-announce-game-awards"/>
+    <id>https://www.theverge.com/2024/12/12/24320133/okami-2-announce-game-awards</id>
+    <author>
+      <name>Andrew Webster</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-12-12T21:01:49-05:00</published>
+    <updated>2024-12-12T21:01:49-05:00</updated>
+    <title>Borderlands 4’s first trailer is all out war</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="The logo for the video game Borderlands 4." src="https://cdn.vox-cdn.com/thumbor/GqECg5hypLONkJHX9vLwKDLEghI=/200x0:2360x1440/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73783787/borderlands4.0.jpeg" /&gt;
+        &lt;figcaption&gt;Image: Gearbox Software&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="2REkJR"&gt;We already knew it was in the works, and now we have an idea of how it will look and play. At the Game Awards, Gearbox Software revealed the first proper trailer for &lt;em&gt;Borderlands 4&lt;/em&gt;, which is due out in 2025. The trailer starts with a cinematic depicting a large-scale conflict of some sort, before getting into the actual gameplay — which is as colorful and violent as you’d expect from the franchise. The game is playable solo or co-op with up to three other players, and Gearbox says that there are “billions” of weapons to use.&lt;/p&gt;
+&lt;p id="ZpNn3m"&gt;Here’s the basic set-up:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p id="1SeAw7"&gt;Break free from the oppressive Timekeeper, a ruthless dictator who dominates the masses from on high. Now a world-altering catastrophe threatens his perfect Order, unleashing mayhem across the planet. Ignite a resistance and blast your way through mechanical monstrosities, bloodthirsty bandits, and vicious beasts. Amass an arsenal of death-dealing firepower to wreak havoc as you tear your way across Kairos. &lt;/p&gt;&lt;/blockquote&gt;
+&lt;p id="yAOHiB"&gt;&lt;em&gt;Borderlands 4&lt;/em&gt; was first announced this summer, and will be the first new entry in the looter shooter series since &lt;a href="https://www.theverge.com/2019/8/14/20803683/borderlands-3-preview-gearbox-interview-social-media-streamers-vlogging"&gt;&lt;em&gt;Borderlands 3&lt;/em&gt; in 2019&lt;/a&gt;. It also follows the franchise’s debut on the big screen, as the &lt;em&gt;Borderlands&lt;/em&gt; movie hit theaters in August to &lt;a href="https://www.theverge.com/2024/8/30/24232389/borderlands-movie-review-interview-video-on-demand"&gt;less than critical acclaim&lt;/a&gt;. The game is also in development during an interesting time for Gearbox; in March &lt;a href="https://www.theverge.com/2024/3/28/24114402/embracer-selling-gearbox-borderlands-developer-take-two"&gt;the studio was sold to Take-Two&lt;/a&gt; by &lt;a href="https://www.theverge.com/2024/5/23/24163110/embracer-laid-off-more-employees-than-riot-games-entire-workforce"&gt;beleaguered publisher Embracer&lt;/a&gt;.&lt;/p&gt;
+&lt;p id="zvdqcJ"&gt;While &lt;em&gt;Borderlands 4&lt;/em&gt; doesn’t have a specific release date yet, it’s coming to PS5, Xbox, and PC next year.&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/24319512/borderlands-4-trailer-tga-2024"/>
+    <id>https://www.theverge.com/24319512/borderlands-4-trailer-tga-2024</id>
+    <author>
+      <name>Andrew Webster</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-12-12T20:54:26-05:00</published>
+    <updated>2024-12-12T20:54:26-05:00</updated>
+    <title>Split Fiction is the next co-op game from Hazelight Studios</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="A screenshot from the video game Split Fiction." src="https://cdn.vox-cdn.com/thumbor/Era7CPtpmaE3crTVnWvRj40GT7k=/238x0:1561x882/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73783771/Screenshot_2024_12_12_at_8.43.20_PM.0.png" /&gt;
+        &lt;figcaption&gt;Image: EA&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="vQFJFx"&gt;Josef Fares is back and so &lt;a href="https://www.theverge.com/2021/12/10/22826987/josef-fares-hazelight-studios-it-takes-two-game-of-the-year"&gt;is his penchant for cursing&lt;/a&gt;. The director of Hazelight Studios has returned to The Game Awards to debut his next game: &lt;em&gt;Split Fiction&lt;/em&gt;.&lt;/p&gt;
+&lt;p id="kx4c8G"&gt;&lt;em&gt;Split Fiction&lt;/em&gt; is a game that feels very much in Hazelight’s wheelhouse. Like &lt;a href="https://www.theverge.com/22352157/it-takes-two-interview-developer-josef-fares-hazelight-studio-co-op"&gt;&lt;em&gt;It Takes Two&lt;/em&gt;&lt;/a&gt; and &lt;a href="https://www.theverge.com/2018/3/22/17151056/a-way-out-coop-multiplayer-review-ps4-xbox-one"&gt;&lt;em&gt;A Way Out&lt;/em&gt;&lt;/a&gt; before it, &lt;em&gt;Split Fiction&lt;/em&gt; is a two-person split-screen co-op game. In it, two game developers have been trapped in a world they created and must play together to escape.&lt;/p&gt;
+&lt;p id="1hvYQ6"&gt;It’s been a quiet but massively successful handful of years for Hazelight Studios. In 2021, it took home Game of the Year for &lt;em&gt;It Takes Two &lt;/em&gt;in which two players must work together to overcome the myriad dangers of their home (and their failing marriage) &lt;em&gt;Honey, I Shrunk The Kids&lt;/em&gt;-style.&lt;/p&gt;
+&lt;p id="9Wb0xa"&gt;Earlier this year, the studio announced that &lt;a href="https://x.com/HazelightGames/status/1846588233573937193"&gt;&lt;em&gt;It Takes Two&lt;/em&gt; sold 20 million copies&lt;/a&gt;. &lt;a href="https://www.polygon.com/analysis/489856/it-takes-two-sales-20-million"&gt;&lt;em&gt;Polygon &lt;/em&gt;did a deep dive into the game’s sales numbers&lt;/a&gt;, determining that it sold at an astonishingly consistent and enviable clip of half a million copies per month since its release in March 2021. A truly remarkable feat given the game had very little marketing outside its initial release window &lt;em&gt;and &lt;/em&gt;at a time when most consumers’ multiplayer tastes were wrapped up in “forever games” like &lt;em&gt;Call of Duty: Warzone &lt;/em&gt;and&lt;em&gt; Fortnite. &lt;/em&gt;With bona fides like that, it’s safe to say folks will be looking at &lt;em&gt;Split Fiction, &lt;/em&gt;launching March 6th on PlayStation, Xbox, and PC, with great interest.&lt;/p&gt;
+&lt;p id="LhDioH"&gt;&lt;/p&gt;
+&lt;p id="GjNWMw"&gt;&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/24319677/split-fiction-hazelight-studios-trailer-date-josef-fares"/>
+    <id>https://www.theverge.com/24319677/split-fiction-hazelight-studios-trailer-date-josef-fares</id>
+    <author>
+      <name>Ash Parrish</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-12-12T20:44:49-05:00</published>
+    <updated>2024-12-12T20:44:49-05:00</updated>
+    <title>FromSoftware debuts a new Elden Ring game</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="The logo for Elden Ring Nightreign." src="https://cdn.vox-cdn.com/thumbor/Ki-mLb0HjJoCXuho6h93Y8RlngY=/246x0:1752x1004/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73783768/Screenshot_2024_12_12_at_8.28.44_PM.0.png" /&gt;
+        &lt;figcaption&gt;Image: Bandai Namco&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="ehi7n6"&gt;FromSoftware, the studio that &lt;a href="https://www.gamesradar.com/games/action-rpg/elden-ring-director-hidetaka-miyazaki-says-fromsoftware-isnt-really-considering-elden-ring-2-right-now-but-hes-still-not-ruling-out-more-of-the-lands-between-in-the-future/"&gt;&lt;em&gt;just this month&lt;/em&gt;&lt;/a&gt; said it was “not really considering developments such as an &lt;em&gt;Elden Ring 2,&lt;/em&gt;” has revealed a game that looks a lot like it could be &lt;em&gt;Elden Ring 2&lt;/em&gt;.&lt;/p&gt;
+&lt;p id="qDG6dP"&gt;&lt;em&gt;Elden Ring Nightreign&lt;/em&gt; is the next entry in the &lt;em&gt;Elden Ring&lt;/em&gt; series. The trailer, debuting during this year’s The Game Awards, didn’t share much narrative details, but from &lt;a href="https://www.bandainamcoent.com/news/elden-ring-nightreign-announcement"&gt;the game’s official announcement&lt;/a&gt;, it doesn’t seem like game director Hidetaka Miyzaki told a fib. &lt;em&gt;Nightreign&lt;/em&gt; goes in a completely different gameplay direction from the base game and the &lt;a href="https://www.theverge.com/24180536/shadow-of-the-erdtree-review-elden-ring-dlc"&gt;&lt;em&gt;Shadows of the Erdtree&lt;/em&gt;&lt;/a&gt; DLC. Described as an action survival game, &lt;em&gt;Nightreign&lt;/em&gt; is a standalone co-op multiplayer game lets up to three players work together to survive a single day in a parallel universe to the Lands Between. &lt;/p&gt;
+&lt;p id="1dWS0x"&gt;Players, called Nightfarers, will have up to eight different characters to choose from each with unique abilities and ultimate attacks. Each day, they have to fight through a battery of monsters to ultimately face off against a tough boss. &lt;/p&gt;
+&lt;p id="2xXjIx"&gt;While we don’t yet know when this takes place in Lands Between chronology, the trailer did show off a ton of gameplay. It appears to be similar to &lt;em&gt;Elden Ring&lt;/em&gt; but with a greater emphasis on aggressive, &lt;a href="https://www.theverge.com/2024/2/21/24079145/while-you-were-studying-the-erdtree-i-studied-the-blade"&gt;flippy-dippy martial arts moves&lt;/a&gt; rather than the slower, more thoughtful combat in &lt;em&gt;Elden Ring&lt;/em&gt; and &lt;em&gt;Erdtree&lt;/em&gt;. The announcement also mentioned a constantly changing map that shrinks with each day along with abilities and gear players can use to customize their characters upon death. Taken all together, it sounds like FromSoftware put a little &lt;em&gt;Hades&lt;/em&gt; chocolate in the &lt;em&gt;Elden Ring &lt;/em&gt;peanut butter with a dash of &lt;em&gt;Fortnite&lt;/em&gt; co-op and &lt;em&gt;Overwatch&lt;/em&gt; hero classes for flavor.&lt;/p&gt;
+&lt;p id="tnYsl1"&gt;FromSoftware has, so far, only confirmed Xbox, PlayStation, and PC platforms and, surprisingly, a release date. &lt;em&gt;Elden Ring Nightreign&lt;/em&gt; will launch sometime next year.&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24320097/elden-ring-sequel-nightreign-the-game-awards-trailer"/>
+    <id>https://www.theverge.com/2024/12/12/24320097/elden-ring-sequel-nightreign-the-game-awards-trailer</id>
+    <author>
+      <name>Ash Parrish</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-12-12T20:25:12-05:00</published>
+    <updated>2024-12-12T20:25:12-05:00</updated>
+    <title>Here’s your very first look at The Witcher 4</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="A screenshot from the video game The Witcher 4." src="https://cdn.vox-cdn.com/thumbor/R9RLS0JLgIiPOd0DFYb6xvjKecQ=/241x0:1876x1090/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73783757/Screenshot_2024_12_12_at_8.18.04_PM.0.png" /&gt;
+        &lt;figcaption&gt;Image: CD Projekt Red&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="COWD09"&gt;The &lt;a href="https://www.theverge.com/24319637/the-game-awards-2024-trailers-annoucements"&gt;2024 edition of The Game Awards&lt;/a&gt; started with a bang — the very first look at the next &lt;em&gt;Witcher&lt;/em&gt; game. It’s called &lt;em&gt;The Witcher 4&lt;/em&gt; and was revealed via a lengthy cinematic trailer that starred Ciri in place of Geralt, who led the original trilogy. &lt;/p&gt;
+&lt;p id="M0QV1C"&gt;There aren’t many details yet, but CD Projekt Red says that in the new game, “Ciri takes center stage as the protagonist, embarking on her own journey to become a professional monster slayer.” It will be a single-player, open-world RPG. The studio says that “the cinematic trailer is pre-rendered in a custom build of Unreal Engine 5 on an unannounced NVIDIA GeForce RTX GPU.”&lt;/p&gt;
+&lt;p id="p7kvcz"&gt;It doesn’t sound like the trailer will necessarily be representative of the final game, however. Here’s how CD Projekt Red explains it:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p id="PUgbk5"&gt;In the nearly six-minute trailer, viewers were introduced to Ciri, the adopted daughter of Geralt of Rivia, as she takes on a witcher contract in a remote village that has been terrorized for generations by a fearsome monster demanding human sacrifices. Framed as a short, self-contained &lt;em&gt;Witcher&lt;/em&gt; story, the trailer showcases Ciri’s new abilities and tools, including a chain and advanced magic powers.&lt;/p&gt;
+&lt;p id="67qsq6"&gt;At the heart of the trailer is Ciri’s perspective as an outsider to the village. As the villagers say goodbye to one of their own — a young girl they are preparing for a traditional ritual sacrifice — Ciri chooses to intervene. Aiming to slay the beast and save the girl at the same time, Ciri finds herself at odds with the prejudices and superstitions of the people she tries to protect, leading her to confront a painful witcher lesson: that monsters come in all forms.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p id="HLD4h6"&gt;We’ve known for some time that &lt;a href="https://www.theverge.com/2022/10/4/23387206/cyberpunk-witcher-new-games-cd-projekt-red-cdpr-franchise-hadar-multiplayer"&gt;CD Projekt Red was working on a follow up&lt;/a&gt; to &lt;a href="https://www.theverge.com/2022/12/12/23505545/the-witcher-3-next-gen-update-ps5-xbox-pc-hands-on"&gt;&lt;em&gt;The Witcher 3: Wild Hunt&lt;/em&gt;&lt;/a&gt;, which is meant to kick off a new saga for the fantasy franchise. In November &lt;a href="https://www.theverge.com/2024/11/26/24306590/the-witcher-keeps-on-witching"&gt;the studio revealed&lt;/a&gt; that the game, previously codenamed “Polaris,” was in the “full-scale production phase” of development.” It’s &lt;a href="https://www.theverge.com/2022/10/26/23424463/witcher-remake-cd-projekt-red-unreal-engine-5"&gt;being built using Unreal Engine 5&lt;/a&gt;, which the studio shifted to following the troubled launch of &lt;em&gt;Cyberpunk 2077&lt;/em&gt;. &lt;/p&gt;
+&lt;p id="4MGS9q"&gt;No word yet on platforms or release timing.&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24320092/the-witcher-4-trailer-game-awards-2024"/>
+    <id>https://www.theverge.com/2024/12/12/24320092/the-witcher-4-trailer-game-awards-2024</id>
+    <author>
+      <name>Andrew Webster</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-12-12T20:01:44-05:00</published>
+    <updated>2024-12-12T20:01:44-05:00</updated>
+    <title>Elon Musk is mad at the SEC again</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Photo collage of Elon Musk." src="https://cdn.vox-cdn.com/thumbor/8yMxC9Xy-Sq2xu9lMzwvRxVr8Y8=/20x0:2021x1334/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73783736/STK022_ELON_MUSK_CVIRGINIA_B.0.jpg" /&gt;
+        &lt;figcaption&gt;Illustration: Cath Virginia / The Verge; Photo: Getty Images&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="0FpFJc"&gt;The Securities and Exchange Commission is preparing “numerous counts” against Elon Musk, according to a letter from his lawyer that &lt;a href="https://x.com/elonmusk/status/1867357433493872874"&gt;Musk posted to X&lt;/a&gt;.  It has also “reopened an investigation into Neuralink.”&lt;/p&gt;
+&lt;p id="xsfEIg"&gt;The letter is short on specifics — such as what the charges may be, and how many Musk companies are affected. Instead, Musk’s lawyer, Alex Spiro, complains that “the Commission Staff issued a settlement demand that required Mr. Musk agree within 48 hours to either accept a monetary payment or face charges on numerous accounts.” Even this is somewhat unclear; presumably, Spiro means that Musk would &lt;em&gt;pay&lt;/em&gt; a penalty rather than accept money from the SEC.&lt;/p&gt;
+&lt;div id="v8JDGo"&gt;
+&lt;blockquote class="twitter-tweet" data-dnt="true" align="center"&gt;
+&lt;p lang="en" dir="ltr"&gt;Oh Gary, how could you do this to me?   &lt;a href="https://t.co/OoooQI77ZS"&gt;pic.twitter.com/OoooQI77ZS&lt;/a&gt;&lt;/p&gt;— Elon Musk (@elonmusk) &lt;a href="https://twitter.com/elonmusk/status/1867357433493872874?ref_src=twsrc%5Etfw"&gt;December 12, 2024&lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+&lt;/div&gt;
+&lt;p id="WAK4Bw"&gt;Musk has a long and storied history with the SEC, which &lt;a href="https://www.theverge.com/2018/12/14/18139544/elon-musk-60-minutes-tesla-sec-investigation-fine"&gt;he has said he does not respect.&lt;/a&gt; In 2018, Musk &lt;a href="https://www.theverge.com/2018/8/7/17661178/tesla-elon-musk-private-420-share-considering"&gt;briefly pretended he’d take Tesla private&lt;/a&gt; before admitting two weeks later &lt;a href="https://www.theverge.com/2018/8/24/17780714/elon-musk-tesla-staying-public"&gt;Tesla would stay public&lt;/a&gt;. The &lt;a href="https://www.theverge.com/2018/9/27/17911428/sec-lawsuit-elon-musk-tesla-funding-tweet"&gt;SEC then sued him over a tweet&lt;/a&gt; saying he had “funding secured” to take Tesla private. Musk reached a &lt;a href="https://www.theverge.com/2018/9/29/17918252/elon-musk-tesla-sec-securities-fraud-lawsuit-settlement-fine-penalty"&gt;settlement with the agency, &lt;/a&gt;paying $20 million, stepping down as chair of Tesla’s board and agreeing to a “Twitter sitter,” or a lawyer who’d supervise his tweets. Musk then &lt;a href="https://www.theverge.com/2019/3/18/18271914/sec-elon-musk-contempt-twitter-court-fraud"&gt;reneged on the Twitter sitter thing&lt;/a&gt;. That particular kerfuffle went all the way to the Supreme Court, which declined to hear the case; &lt;a href="https://www.theverge.com/2024/4/29/24144317/elon-musk-supreme-court-twitter-sitter-sec-tesla"&gt;Musk was stuck with his Twitter sitter.&lt;/a&gt;&lt;/p&gt;
+&lt;p id="33713N"&gt;The letter characterizes this history as “more than six years of harassment.”&lt;/p&gt;
+&lt;p id="Hjzm40"&gt;More recently, &lt;a href="https://www.reuters.com/technology/us-sec-intends-seek-sanctions-against-elon-musk-twitter-probe-2024-09-20/"&gt;the SEC sought to sanction Musk&lt;/a&gt; for no-showing on them in a separate investigation over his Twitter takeover. A judge declined to sanction him because he reimbursed the SEC for the &lt;a href="https://www.bloomberg.com/news/articles/2024-11-23/musk-ducks-sanction-for-choosing-rocket-launch-over-sec-meeting?sref=M8H6LjUF"&gt;airfare of the lawyers he stood up&lt;/a&gt;.&lt;/p&gt;
+&lt;p id="0T5Lrf"&gt;It is unclear from Spiro’s letter whether the charges the SEC is pursuing have to do with the Twitter matter or something else. &lt;a href="https://www.theverge.com/2024/5/8/24151881/tesla-justice-investigation-securities-wire-fraud-self-driving"&gt;&lt;em&gt;Reuters&lt;/em&gt; previously reported&lt;/a&gt; that the Department of Justice was probing whether Tesla’s self-driving claims were actually securities fraud. In 2023, &lt;em&gt;Reuter&lt;/em&gt;s reported that &lt;a href="https://www.reuters.com/technology/us-lawmakers-ask-sec-scrutinize-musk-comments-neuralink-2023-11-22/"&gt;lawmakers had asked the SEC&lt;/a&gt; to probe Neuralink over Musk’s comments about the safety of the company’s brain device.&lt;/p&gt;
+&lt;p id="VYk8UI"&gt;Musk also asked his AI, Grok, to draw a picture of SEC chair Gary Gensler. The &lt;a href="https://x.com/elonmusk/status/1867357990140944434"&gt;image depicted a snail&lt;/a&gt; in a business suit, seemingly a reference to Gary the Snail from &lt;em&gt;Spongebob Squarepants&lt;/em&gt;, a television show for children.&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24320060/elon-musk-sec-alex-spiro-tesla-neuralink-twitter"/>
+    <id>https://www.theverge.com/2024/12/12/24320060/elon-musk-sec-alex-spiro-tesla-neuralink-twitter</id>
+    <author>
+      <name>Elizabeth Lopatto</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2024-12-12T20:00:00-05:00</published>
+    <updated>2024-12-12T20:00:00-05:00</updated>
+    <title>Nvidia will host its first full LAN party in over a decade, and you’re invited</title>
+    <content type="html">  
+
+    &lt;figure&gt;
+      &lt;img alt="Gamevasion” trade fair in Hanover" src="https://cdn.vox-cdn.com/thumbor/nYQnqL6D0985FdgRU32qVigIDG4=/0x0:3804x2536/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73783715/2187892738.0.jpg" /&gt;
+        &lt;figcaption&gt;&lt;em&gt;Not a photo of an Nvidia LAN, since I can’t find my old photos of them!&lt;/em&gt; | Photo by Julian Stratenschulte/picture alliance via Getty Images&lt;/figcaption&gt;
+    &lt;/figure&gt;
+
+  &lt;p id="HK0pDn"&gt;It’s been 13 years since Nvidia hosted &lt;a href="https://www.youtube.com/@NVIDIA/search?query=geforce%20lan%206"&gt;its last LAN party&lt;/a&gt;, inviting hundreds of people to physically haul their gaming PCs onto a decommissioned aircraft carrier and jack them in for networked gaming bliss. Now, the GeForce LAN is finally coming back — and you’re theoretically invited, should you manage to reserve one of the 400 available spaces &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.nvidia.com%2Fen-us%2Fgeforce%2Fgeforce-lan-50%2F&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F12%2F12%2F24320009%2Fnvidia-lan-party-comeback-2025" rel="sponsored nofollow noopener" target="_blank"&gt;right here&lt;/a&gt; on December 16th at 6AM PT / 9AM ET.&lt;/p&gt;
+&lt;p id="Dflv9k"&gt;&lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.nvidia.com%2Fen-us%2Fgeforce%2Fgeforce-lan-50%2F&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F12%2F12%2F24320009%2Fnvidia-lan-party-comeback-2025" rel="sponsored nofollow noopener" target="_blank"&gt;The GeForce LAN 50&lt;/a&gt; will run January 4th through January 6th, 2025 in Las Vegas, Nevada, with satellite events in Berlin, Taipei, and Beijing, and it promises to be a “online &amp;amp; in-person 50 hour gaming marathon” with contests, tournaments, raffles, and swag. &lt;/p&gt;
+&lt;p id="IAbJNY"&gt;It’ll kick off 4:30PM PT on January 4th, and you’ll need to provide a fully refundable $125 deposit to sign up. Nvidia tells me those 400 slots are for everyday gamers, and do not count the influencers who may also show up.&lt;/p&gt;
+&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="CgXGjk"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"This house is made for LAN gaming parties","url":"https://www.theverge.com/2024/11/18/24299455/house-lan-gaming-parties-software-engineer-kenton-varda"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="Vtcjqp"&gt;If you can’t or don’t want to make it, Nvidia says it’ll offer one small set of rewards online — if you stream &lt;em&gt;Diablo IV&lt;/em&gt;, &lt;em&gt;The Elder Scrolls Online&lt;/em&gt;, &lt;em&gt;Fallout 76&lt;/em&gt;, &lt;em&gt;The Finals&lt;/em&gt;, or&lt;em&gt; WoW&lt;/em&gt; from its GeForce Now cloud gaming service “continuously for 50 minutes,” there’ll be some kind of in-game reward. Nvidia will also be offering prizes in a marketing celebration &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.nvidia.com%2Fen-us%2Fgeforce%2Fgeforce-greats%2F&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F12%2F12%2F24320009%2Fnvidia-lan-party-comeback-2025" rel="sponsored nofollow noopener" target="_blank"&gt;it’s calling “GeForce Greats”.&lt;/a&gt;&lt;/p&gt;
+&lt;p id="jSQkUJ"&gt;The LAN party is happening right before &lt;a href="https://www.theverge.com/2024/10/7/24264418/nvidia-ces-2025-keynote-rtx-5090-rumors"&gt;Nvidia’s CES 2025 keynote in Las Vegas&lt;/a&gt;, where we’re expecting the company to announce the &lt;a href="https://www.theverge.com/2024/10/9/24266052/nvidia-rtx-5070-ces-rumor-specs"&gt;RTX 5090, RTX 5080, and possibly the RTX 5070&lt;/a&gt; as well, and the fact that this is the “GeForce LAN 50” is probably a tease for those 50-series cards — the last LAN that Nvidia hosted was the “GeForce LAN 6,” not “GeForce LAN 49” or anything like that. &lt;/p&gt;
+&lt;p id="WlEQCg"&gt;Starting in 2004, the GPU company began to host major LAN parties almost every year until it stopped in 2011. Here’s one of my minor claims to nerd fame: I helped set &lt;a href="https://www.techpowerup.com/69990/lan-party-at-nvision-08-sets-world-record"&gt;a Guinness World Record for the largest, longest LAN party&lt;/a&gt; at one in 2008.&lt;/p&gt;
+&lt;figure class="e-image"&gt;
+        &lt;img alt=" " data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/WbkPkq_VTF32dOaMYlj0UQ36dZE=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25787830/guinness_world_record_sean_hollister_nvision_08_gareth.jpg"&gt;
+      &lt;cite&gt;Image: Sean Hollister&lt;/cite&gt;
+      &lt;figcaption&gt;&lt;em&gt;Record scratch, freeze frame, yep that’s me (on the left)...&lt;/em&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;p id="AoiC44"&gt;That Nvidia LAN wasn’t held on an aircraft carrier, but rather the San Jose Convention Center, as part an event that Nvidia called “NVISION 08.” The company never held another NVISION, but it rebooted its event the very next year, at the very same location, as the GPU Technology Conference (GTC). &lt;a href="https://nvidia.custhelp.com/app/answers/detail/a_id/19/~/getting-nvidia-to-sponsor-a-lan-party%2Fevent"&gt;There was a time&lt;/a&gt; Nvidia would sponsor third-party LANs as well. &lt;/p&gt;
+&lt;p id="PoP1FF"&gt;Apparently Nvidia CEO Jensen Huang has a soft spot for LANs, making &lt;a href="https://www.reddit.com/r/nvidia/comments/18e879x/mr_jensen_huang_came_to_a_nvidia_lan_party_in/"&gt;a surprise visit to a small one&lt;/a&gt; in Vietnam last year. While gamers have largely moved online for multiplayer games, the LAN party subculture has been getting a bit of nostalgic attention as of late — there’s &lt;a href="https://www.amazon.com/LAN-Party-Inside-Multiplayer-Revolution/dp/0500026955?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;even a coffee table book now&lt;/a&gt; documenting the era.&lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24320009/nvidia-lan-party-comeback-2025"/>
+    <id>https://www.theverge.com/2024/12/12/24320009/nvidia-lan-party-comeback-2025</id>
     <author>
       <name>Sean Hollister</name>
     </author>
   </entry>
   <entry>
-    <published>2024-12-12T16:23:47-05:00</published>
-    <updated>2024-12-12T16:23:47-05:00</updated>
-    <title>Adobe now has a tool to get rid of ugly window reflections in photos</title>
+    <published>2024-12-12T19:52:56-05:00</published>
+    <updated>2024-12-12T19:52:56-05:00</updated>
+    <title>The best Fitbits for your fitness and health</title>
     <content type="html">  
 
     &lt;figure&gt;
-      &lt;img alt="A photo of a dog through a window with a bright reflection next to a version of the tool with the reflection removed." src="https://cdn.vox-cdn.com/thumbor/tOkjUca4gxoomxm_s_LU9hjBMnE=/1x0:1000x666/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73783324/reflection_removal_1.0.jpg" /&gt;
-        &lt;figcaption&gt;&lt;em&gt;Adobe’s Reflection Removal tool is now available as a technology preview inside Camera Raw.&lt;/em&gt; | Image: Adobe&lt;/figcaption&gt;
+      &lt;img alt="The Fitbit Versa, Fitbit Luxe, Fitbit Charge 5, and Fitbit Ace 3 fitness trackers, on an orange and red background." src="https://cdn.vox-cdn.com/thumbor/K4Ledp2jUIqmx56Fsnn5s_8lgtA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/70640445/VRG_ILLO_5090_The_best_Fitbit_for_your_fitness_and_health.0.jpg" /&gt;
+        &lt;figcaption&gt;&lt;em&gt;Fitbit makes an array of fitness trackers, from basic fitness bands to full-fledged smartwatches, though the best Fitbit smartwatch isn’t technically a Fitbit.&lt;/em&gt; | Photo illustration by William Joel / The Verge&lt;/figcaption&gt;
     &lt;/figure&gt;
 
-  &lt;p id="lIFa5U"&gt;&lt;a href="https://www.theverge.com/2023/10/11/23912614/adobe-max-sneaks-generative-ai-audio-3d-tech-preview"&gt;Adobe’s Project See Through&lt;/a&gt;, a tool that is capable of eliminating distracting reflections in photos taken through windows, is now available as a technology preview and is now called &lt;a href="https://blog.adobe.com/en/publish/2024/12/12/removing-window-reflections-adobe-camera-raw"&gt;the Reflection Removal tool&lt;/a&gt;. Originally revealed as a “Sneak” during the Adobe’s annual Max conference last year, you can use the tool through Adobe Camera Raw in preview with a Lightroom release “coming soon,” according to Adobe.&lt;/p&gt;
-&lt;p id="sKwdM9"&gt;The best way to ensure a photo isn’t marred with reflections is to avoid shooting through a window, but Adobe’s new tool will increase the chances that the beautiful mountain vista you captured during a flight will actually be worth sharing. The tool works by distinguishing the two scenes that make up an image with a reflection, which are often distinguished by different content, white balances (indoor scenes tend to look warmer than outdoor ones), and their sharpness.&lt;/p&gt;
-&lt;figure class="e-image"&gt;
-        &lt;img alt="Three photos that were used as training data for the Reflection Removal AI model." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/5A0CMznbpDnfWAyLu2_79tt87qI=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25787552/reflection_removal_2.jpg"&gt;
-      &lt;cite&gt;Image: Adobe&lt;/cite&gt;
-      &lt;figcaption&gt;&lt;em&gt;An example of the artificial reflections Adobe created for training data by merging thousands of photos together.&lt;/em&gt;&lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;p id="ZvsxvU"&gt;The AI model the Reflection Removal tool uses was trained on a database of thousands of photographs without reflections that were paired and merged to create millions of images with simulated reflections. Through a reinforcement process, the model learned how to extract the original photos from a single combined image, which are both available in the new tool. The results are often impressive, but Adobe points out that “if a reflection is so strong or complex that a person looking at the photograph struggles to figure out what is what, then our model might struggle as well.”&lt;/p&gt;
-&lt;p id="rYmR5Y"&gt;To access the new tool, which currently only works with RAW images (support for JPEGs and HEICs is planned) you need to open the Camera Raw tool and then the Technology Previews section of its Preferences Panel where you can enable the New AI Settings and Features Panel before restarting Adobe Photoshop or Adobe Bridge.&lt;/p&gt;
-&lt;figure class="e-image"&gt;
-        &lt;img alt="An example of the output from Adobe’s new Reflection Removal tool." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/lNwFQlxmQVORVcv6jxISuYFWMtM=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25787566/reflection_removal_3.jpg"&gt;
-      &lt;cite&gt;Image: Adobe&lt;/cite&gt;
-      &lt;figcaption&gt;&lt;em&gt;The original photo (left) next to a version with reflections removed (center) and the reflected image itself isolated (right).&lt;/em&gt;&lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;p id="QKRrf8"&gt;With a RAW file imported, you’ll find a Reflections option in the Distraction Removal section of the Remove panel. After a few seconds of processing a reflection-free version of the image will be presented (hopefully!) along with a slider set to 100. Dragging the slider down to zero will restore the reflections, while dragging it to -100 will reveal only the reflected image.&lt;/p&gt;
+
+  &lt;p&gt;Whether you want a basic fitness tracker or a smartwatch, there’s a Fitbit for everyone — though the best Fitbit smartwatch isn’t technically a Fitbit.&lt;/p&gt;
+  &lt;p&gt;&lt;a href="https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker"&gt;Read the full story at The Verge.&lt;/a&gt;&lt;/p&gt;
 
 </content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24319849/adobe-lightroom-camera-raw-reflection-removal"/>
-    <id>https://www.theverge.com/2024/12/12/24319849/adobe-lightroom-camera-raw-reflection-removal</id>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker"/>
+    <id>https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker</id>
     <author>
-      <name>Andrew Liszewski</name>
+      <name>Victoria Song</name>
     </author>
   </entry>
   <entry>
-    <published>2024-12-12T15:50:04-05:00</published>
-    <updated>2024-12-12T15:50:04-05:00</updated>
-    <title>Verizon is using 5G network slicing to offer better video calling — for a price</title>
+    <published>2024-12-12T19:22:57-05:00</published>
+    <updated>2024-12-12T19:22:57-05:00</updated>
+    <title>The best robot vacuums </title>
     <content type="html">  
 
     &lt;figure&gt;
-      &lt;img alt="5G logo on an illustrated blue and green background." src="https://cdn.vox-cdn.com/thumbor/2RftwgfmAI2YLCoiYPF-lHCs6J8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73783250/STK142_5G.0.jpg" /&gt;
-        &lt;figcaption&gt;Remember your old friend 5G? | Image: The Verge&lt;/figcaption&gt;
+      &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/-QIaz1XovoAhIWqxr6yhdXW0qmA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/70693925/Robot_Vacuums_Best_2024.8.jpg" /&gt;
+        &lt;figcaption&gt;Image: The Verge&lt;/figcaption&gt;
     &lt;/figure&gt;
 
-  &lt;p id="6PHIRi"&gt;Verizon is making good on one of the many unfulfilled promises of 5G with &lt;a href="https://www.anrdoezrs.net/links/8532386/type/dlg/sid/verge/https://www.verizon.com/about/news/enhanced-video-calling" rel="sponsored nofollow noopener" target="_blank"&gt;a new service called Enhanced Video Calling&lt;/a&gt;. &lt;/p&gt;
-&lt;p id="a7Gg4E"&gt;According to &lt;a href="https://www.anrdoezrs.net/links/8532386/type/dlg/sid/verge/https://www.verizon.com/support/enhanced-video-calling-metro-areas/" rel="sponsored nofollow noopener" target="_blank"&gt;the company’s website&lt;/a&gt;, it delivers “optimized video and sound quality on calling apps,” even in times of congestion. That may not sound exciting on its own. But under the hood, Verizon is using network slicing to boost video call performance, which is a new technology only possible on a standalone 5G network.&lt;/p&gt;
-&lt;p id="kfIULU"&gt;Unlike &lt;a href="https://www.theverge.com/2023/8/28/23846049/banana-surgery-5g-video-viral"&gt;remote robot banana surgery&lt;/a&gt;, network slicing is a real benefit of 5G technology that we can reasonably expect to see in more places in the next few years. Slicing lets network operators provide the right resources for certain kinds of demanding activities where a strong connection is critical. Right now, that means boosting performance for video calls, but in the future it could mean being able to prioritize the data needed to safely guide an autonomous vehicle through an intersection.&lt;/p&gt;
-&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="nmhW9R"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"The race to 5G is over — now it’s time to pay the bill","url":"https://www.theverge.com/23991136/5g-network-att-verizon-tmobile-cost-competition"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
-&lt;p id="eoXrsz"&gt;The catch is that you need a standalone 5G network to pull this off, and much of the US’ 5G networks still operate on 4G cores. T-Mobile has been able to move quicker on this thanks to &lt;a href="https://www.theverge.com/2019/7/26/6646158/t-mobile-sprint-merger-justice-department-approves-26-billion-fcc"&gt;its Sprint acquisition&lt;/a&gt;, and it rolled out its first feature based on slicing this fall with a service that &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.t-mobile.com%2Fnews%2Fbusiness%2Ft-priority-network-slice-for-first-responders&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F12%2F12%2F24319785%2Fverizon-5g-sa-network-slicing-enhanced-video-calling" rel="sponsored nofollow noopener" target="_blank"&gt;gives priority to first responders&lt;/a&gt;. Verizon has been testing slicing &lt;a href="https://www.anrdoezrs.net/links/8532386/type/dlg/sid/verge/https://www.verizon.com/about/news/verizon-major-step-network-slicing-capabilities" rel="sponsored nofollow noopener" target="_blank"&gt;for the past year or so&lt;/a&gt;, but this is its first rollout of a consumer feature based on the technology.&lt;/p&gt;
-&lt;p id="TSsFQo"&gt;In order to try Enhanced Video Calling out for yourself, you have to meet a specific set of requirements. It’s available in &lt;a href="https://www.anrdoezrs.net/links/8532386/type/dlg/sid/verge/https://www.verizon.com/support/enhanced-video-calling-metro-areas/" rel="sponsored nofollow noopener" target="_blank"&gt;“more than 150 metro areas” right now&lt;/a&gt;, with more to be added in 2025. But you also need to be on Verizon’s priciest plan, Unlimited Ultimate, which costs $90 per month for one line with autopay. And you’ll need an iPhone 14 or newer running iOS 18.2. Samsung Galaxy S23 and newer and Pixel 9 phones will be compatible too, but support for Android video calling apps on Android is arriving in 2025.&lt;/p&gt;
-&lt;p id="qeuJot"&gt;If you meet the above prerequisites, you should see a setting in iOS that reads “Enhance 5G” if you go to &lt;strong&gt;Settings &amp;gt; Cellular&lt;/strong&gt;, &lt;a href="https://support.apple.com/guide/deployment/support-for-5g-network-slicing-dep0f666c6f9/web"&gt;according to Apple’s documentation&lt;/a&gt;. &lt;/p&gt;
+
+  &lt;p&gt;Floor-sweeping robots are only getting better, with new mopping skills, better navigation chops, and more automation, meaning less work for you. We picked the best bots you can buy right now.&lt;/p&gt;
+  &lt;p&gt;&lt;a href="https://www.theverge.com/22997597/best-robot-vacuum-cleaner"&gt;Read the full story at The Verge.&lt;/a&gt;&lt;/p&gt;
 
 </content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24319785/verizon-5g-sa-network-slicing-enhanced-video-calling"/>
-    <id>https://www.theverge.com/2024/12/12/24319785/verizon-5g-sa-network-slicing-enhanced-video-calling</id>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/22997597/best-robot-vacuum-cleaner"/>
+    <id>https://www.theverge.com/22997597/best-robot-vacuum-cleaner</id>
     <author>
-      <name>Allison Johnson</name>
+      <name>Jennifer Pattison Tuohy</name>
     </author>
   </entry>
   <entry>
-    <published>2024-12-12T15:37:25-05:00</published>
-    <updated>2024-12-12T15:37:25-05:00</updated>
-    <title>Toyota’s next EV is this small Urban Cruiser SUV for Europe</title>
+    <published>2024-12-12T19:07:55-05:00</published>
+    <updated>2024-12-12T19:07:55-05:00</updated>
+    <title>The Game Awards 2024: all of the biggest trailers and announcements </title>
     <content type="html">  
 
     &lt;figure&gt;
-      &lt;img alt="white compact suv on a yellow platform" src="https://cdn.vox-cdn.com/thumbor/Rwdbe8_CfW6AMM8aOfxTl8HCyvw=/0x0:6446x4297/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73783226/urbancruiserhero_4.0.jpg" /&gt;
-        &lt;figcaption&gt;&lt;em&gt;Toyota’s Urban Cruiser is a compact electric SUV coming to Europe.&lt;/em&gt; | Image: Toyota&lt;/figcaption&gt;
+      &lt;img alt="Graphic of The Game Awards trophy, a winged woman stretching her wings behind her head against a black and gold background." src="https://cdn.vox-cdn.com/thumbor/i7azJIhdO47GmZ7OmfApWf7Iyr0=/200x0:2360x1440/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73783618/gamawards.0.png" /&gt;
+        &lt;figcaption&gt;Image: The Game Awards&lt;/figcaption&gt;
     &lt;/figure&gt;
 
-  &lt;p id="B4aH4l"&gt;Toyota &lt;a href="https://media.toyota.co.uk/world-premiere-of-the-all-new-toyota-urban-cruiser/"&gt;revealed its latest all-electric vehicle today&lt;/a&gt; as the Urban Cruiser compact SUV. The EV, which will be fully revealed at the Brussels Motor Show next month, is intended for the European market, first coming to the UK in the third quarter of 2025. &lt;/p&gt;
-&lt;p id="xPrnOI"&gt;Toyota says the wheelbase is only about 5 inches longer than the European-only Yaris Cross, making it another fun-sized electric EV slated for the continent like the recently revealed &lt;a href="https://www.theverge.com/2024/12/3/24312042/ford-puma-gen-e-europe-ev-specs-range"&gt;Ford Puma Gen-E&lt;/a&gt; or &lt;a href="https://www.theverge.com/2024/6/27/24187409/hyundai-inster-small-ev-compact-price-specs-us"&gt;Hyundai Inster&lt;/a&gt;.&lt;/p&gt;
-&lt;p id="9ylhPK"&gt;The Urban Cruiser has clear design inspiration from &lt;a href="https://www.theverge.com/2023/12/5/23988111/toyota-ev-concept-urban-suv-sport-crossover"&gt;last year's Urban SUV concept&lt;/a&gt;. It also shares its new EV platform built in conjunction with Suzuki, which announced &lt;a href="https://www.theverge.com/2024/11/5/24289169/suzuki-e-vitara-ev-electric-suv-toyota-launch"&gt;its made-in-India E Vitara SUV last month&lt;/a&gt;. Toyota’s other EV, &lt;a href="https://www.theverge.com/23180408/toyota-bz4x-electric-suv-review-specs-price"&gt;the bZ4X&lt;/a&gt;, also shares its EV platform with another automaker, Subaru, which has the &lt;a href="https://www.theverge.com/2022/4/26/23042924/subaru-solterra-pricing-starting-ev-tax-incentives"&gt;Solterra EV&lt;/a&gt;.&lt;/p&gt;
-&lt;figure class="e-image"&gt;
-        &lt;img alt="urban cruiser interior with CarPlay on the screen" data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/bUf8ppQpMT2AAl4jSabeSN9QuzA=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25787499/urbancruiserint_004.jpg"&gt;
-      &lt;cite&gt;Image: Toyota&lt;/cite&gt;
-      &lt;figcaption&gt;&lt;em&gt;Toyota Urban Cruiser features a side-by-side 10.25-inch cluster screen and a 10.1-inch infotainment system.&lt;/em&gt;&lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;p id="8DUJ2y"&gt;Toyota’s Urban Cruiser has nearly match-for-match specs as the E Vitara, including a relatively small 49 kWh battery with an FWD drivetrain and a 61 kWh battery with an option for AWD. &lt;/p&gt;
-&lt;p id="JR45LX"&gt;Toyota says power output can get as high as 135kW in the AWD version (with 40kW on the rear axel for “stable and secure performance on loose and slippery surfaces”) and up to 300 Nm of torque. While the official range is not announced, it’ll likely match the E Vitara’s expected 248 miles on a single charge.&lt;/p&gt;
-&lt;div id="CEZ4HY"&gt;&lt;div data-anthem-component="gallery:12505170"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p id="hAXHLP"&gt;Additionally, the Urban Cruiser has downhill assist and trail modes for added control, and the FWD model includes a snow mode. All models come with a heat pump and include the ability to manually start preconditioning the battery to prepare for a DC fast charging session.&lt;/p&gt;
-&lt;p id="mIFvJM"&gt;Toyota has been slower in building and adopting EVs than other legacy manufacturers. The automaker has been focused on its outstanding hybrid technology as well as hydrogen vehicles. &lt;/p&gt;
-&lt;p id="yoROb4"&gt;But the automaker isn’t done with EVs — it’s planning to have 15 EVs, including six models on a next-gen shared platform by 2026, and it just invested &lt;a href="https://www.theverge.com/2024/12/12/24319893/toyota-sinks-more-money-into-its-kentucky-plant-where-its-making-a-new-three-row-ev"&gt;nearly another $1 billion in Kentucky&lt;/a&gt; for a paint facility to prepare for &lt;a href="https://www.theverge.com/2024/2/7/24063943/toyota-ev-investment-kentucky-factory-three-row-suv"&gt;a three-row electric SUV&lt;/a&gt; for the US.&lt;/p&gt;
+  &lt;p&gt;Geoff Keighley’s enormous and expensive video game commercial show celebrates its tenth anniversary this year.&lt;/p&gt; &lt;p id="Tw0mGo"&gt;It’s that time of the year. The Game Awards 2024 starts December 12th at 7:30 PM ET / 4:30 PM PT on Twitch and YouTube. This year marks the awards’ tenth anniversary so expect some big surprises to celebrate the occasion. We already know &lt;a href="https://www.theverge.com/2024/8/20/24224587/borderlands-4-2025-gearbox-studios"&gt;&lt;em&gt;Borderlands 4&lt;/em&gt;&lt;/a&gt; will make an appearance &lt;a href="https://x.com/geoffkeighley/status/1866536140876009476"&gt;as well as the next game from Hazelight Studios&lt;/a&gt;, the developers behind Game of the Year 2021&lt;em&gt; It Takes Two&lt;/em&gt;.&lt;/p&gt;
+&lt;p id="GEKHxR"&gt;Keighley’s BFF Hideo Kojima will probably show up to show off more of &lt;a href="https://www.theverge.com/2022/12/8/23498369/death-stranding-2-kojima-game-awards-ps5"&gt;&lt;em&gt;Death Stranding 2&lt;/em&gt;&lt;/a&gt; or maybe even his &lt;a href="https://www.theverge.com/2023/12/7/23993035/hideo-kojima-od-xbox"&gt;new game / movie hybrid project &lt;em&gt;OD&lt;/em&gt;&lt;/a&gt;. And with 2025 mere weeks away, the &lt;em&gt;GTA VI &lt;/em&gt;hype season will officially start, likely with a new, potentially record busting trailer. Here are all the news, trailers, and surprises for this years Game Awards.&lt;/p&gt;
+&lt;p id="jHP8Le"&gt;As for me, the only thing I’m excited about for TGAs 2024 is the possibility of Flute Guy and&lt;em&gt; &lt;/em&gt;&lt;a href="https://www.theverge.com/24268103/metaphor-refantazio-review-atlus-xbox-persona"&gt;&lt;em&gt;Metaphor: ReFantanzio&lt;/em&gt;&lt;/a&gt; Monk Guy &lt;a href="https://www.theverge.com/2024/11/18/24299700/flute-guy-japanese-monk-chant-guy-musical-nirvana"&gt;sharing the same stage&lt;/a&gt;.&lt;/p&gt;
+&lt;div id="H5TP4a"&gt;&lt;div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"&gt;&lt;iframe src="https://www.youtube.com/embed/LfnUQ-qKsdQ?rel=0" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen="" scrolling="no" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share;"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
 
 </content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24319827/toyota-urban-cruiser-suzuki-evitara-suv-ev-europe"/>
-    <id>https://www.theverge.com/2024/12/12/24319827/toyota-urban-cruiser-suzuki-evitara-suv-ev-europe</id>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/24319637/the-game-awards-2024-trailers-annoucements"/>
+    <id>https://www.theverge.com/24319637/the-game-awards-2024-trailers-annoucements</id>
     <author>
-      <name>Umar Shakir</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-12-12T15:33:58-05:00</published>
-    <updated>2024-12-12T15:33:58-05:00</updated>
-    <title>Amazon’s Prime Video pushes ‘AI Topics’ instead of the old algorithms</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="A photo showing AI topics on Prime Video" src="https://cdn.vox-cdn.com/thumbor/7Ky-uvBHL7Cc-CSicRb58DKASPY=/103x0:1218x743/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73783220/amazon_ai_topics.0.jpeg" /&gt;
-        &lt;figcaption&gt;Image: Amazon&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="wHY76K"&gt;Amazon is &lt;a href="https://www.aboutamazon.com/news/entertainment/prime-video-what-to-watch-artificial-intelligence-topics"&gt;testing a new Prime Video feature&lt;/a&gt; that recommends groups of content using AI rather than traditional algorithms. If you’re part of the test, you’ll see new “AI Topics” tailored to your interests, like “mind-bending sci-fi,” “fantasy quests,” or “thrilling character journeys.”&lt;/p&gt;
-&lt;p id="iNlNdZ"&gt;Each category will have shows, movies, and linear channels that match these AI-generated labels. You can also continue refining recommendations further by selecting topics related to the category you’re looking at, which Amazon says allows you to “discover more content without hitting a dead end.”&lt;/p&gt;
-&lt;figure class="e-image"&gt;
-        &lt;img alt=" " data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/x-HlMigp7jl4o51PsQWFab6ey3g=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25787479/prime_video_ai_topics_21.jpeg"&gt;
-      &lt;cite&gt;Image: Amazon&lt;/cite&gt;
-  &lt;/figure&gt;
-&lt;p id="1HztGh"&gt;Streaming services like Netflix have long used machine learning algorithms to spit out recommendations based on viewing history. But with this announcement, it seems like Prime Video is putting an extra AI spin on things — which isn’t very surprising given the hype surrounding the tech and Amazon’s own efforts to portray itself &lt;a href="https://www.theverge.com/2023/8/3/23819442/amazon-generative-ai-ceo"&gt;as an AI leader&lt;/a&gt;. For now, Amazon says AI Topics are rolling out to “select” living room devices in the US, such as the Fire TV.&lt;/p&gt;
-&lt;p id="VZ7pVp"&gt;Last month, &lt;a href="https://www.theverge.com/2024/11/4/24287955/amazon-prime-video-ai-x-ray-recaps"&gt;Prime Video also rolled out AI recaps&lt;/a&gt; you can use to summarize TV seasons, entire episodes, and even portions of episodes.&lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24319824/amazon-prime-video-ai-topics-old-algorithms"/>
-    <id>https://www.theverge.com/2024/12/12/24319824/amazon-prime-video-ai-topics-old-algorithms</id>
-    <author>
-      <name>Emma Roth</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-12-12T14:24:58-05:00</published>
-    <updated>2024-12-12T14:24:58-05:00</updated>
-    <title>Meta makes $1 million donation to Trump’s inauguration</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="Photo collage of Mark Zuckerberg." src="https://cdn.vox-cdn.com/thumbor/BxqNpCLCR3HPrjpb6PXktfwiALk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73783081/STK169_Zuckerberg_C_CVirginia.0.jpg" /&gt;
-        &lt;figcaption&gt;The Verge | Photo by Tom Williams via Getty Images&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="8kOeNE"&gt;Meta has donated $1 million to president-elect Donald Trump’s inauguration fund, &lt;a href="https://www.wsj.com/tech/mark-zuckerbergs-meta-donates-1-million-to-trumps-inaugural-fund-32a999c1"&gt;&lt;em&gt;The Wall Street Journal&lt;/em&gt; reports&lt;/a&gt;. Zuckerberg’s team reportedly told Trump’s inaugural committee about Meta’s planned donation before Zuckerberg and Trump &lt;a href="https://www.theverge.com/2024/11/27/24307943/mark-zuckerberg-donald-trump-dinner-mar-a-lago"&gt;dined together at Mar-a-Lago in November&lt;/a&gt;. &lt;/p&gt;
-&lt;p id="yBuvXA"&gt;Before the dinner, Zuckerberg showed off Meta’s Ray-Ban smart glasses and gifted a pair to Trump, according to the Journal. Zuckerberg’s advisers also met with incoming White House officials, including incoming White House chief of staff Susie Wiles. &lt;/p&gt;
-&lt;p id="38TLYB"&gt;The donation marks a significant shift for Zuckerberg, who has until recently shied away from politics. Zuckerberg &lt;a href="https://www.theverge.com/2024/11/6/24289649/big-tech-leaders-donald-trump-presidential-election"&gt;called Trump to congratulate him&lt;/a&gt; on his election victory. But he didn’t publicly endorse a candidate in 2020 — and as Meta spokespeople have repeatedly emphasized, he also didn’t endorse anyone in 2024, despite Trump’s claims that Zuckerberg called him to say there’s “no way” he could vote for a Democrat after the attempt on Trump’s life at a Pennsylvania rally. (Zuckerberg also &lt;a href="https://www.theverge.com/2024/7/19/24201879/mark-zuckerberg-trump-rally-shooting-fist-pump-badass"&gt;called Trump’s reaction to the shooting “badass.”&lt;/a&gt;) Still, Zuckerberg has made increasingly unsubtle overtures to Trump, who has threatened the Facebook founder over the years.&lt;/p&gt;
-&lt;p id="DULchD"&gt;The dinner — and the donation — are signs that the notoriously rocky relationship between Zuckerberg and Trump is starting to soften. Trump has had it out for Zuckerberg since Facebook banned his account in the wake of the January 6th riots, and at one point &lt;a href="https://www.politico.com/news/2024/08/28/trump-zuckerberg-election-book-00176639"&gt;said Zuckerberg should be jailed&lt;/a&gt; due to Facebook’s alleged interference in the 2020 election.&lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24319768/meta-1-million-donation-trump-inauguration"/>
-    <id>https://www.theverge.com/2024/12/12/24319768/meta-1-million-donation-trump-inauguration</id>
-    <author>
-      <name>Gaby Del Valle</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-12-12T14:07:30-05:00</published>
-    <updated>2024-12-12T14:07:30-05:00</updated>
-    <title>Xbox Game Pass Ultimate subscriptions are up to 50 percent off right now</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="Illustration of Xbox logos on phones and tablets" src="https://cdn.vox-cdn.com/thumbor/1OCDs08s1GF806uUoYnHDqq-5v0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73783068/acastro_210429_1777_0001.0.jpg" /&gt;
-        &lt;figcaption&gt;Illustration by Alex Castro / The Verge&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="aXeVgq"&gt;If you’ve been contemplating signing up for Xbox Game Pass Ultimate so you can play &lt;a href="https://www.theverge.com/2024/12/5/24314376/indiana-jones-and-the-great-circle-review-bethesda-machinegames-xbox"&gt;&lt;em&gt;Indiana Jones and the Great Circle&lt;/em&gt;&lt;/a&gt;, you might want to head on over to Woot. Now until 1:59AM ET on December 13th, the retailer is offering a three-month subscription to &lt;strong&gt;Xbox Game Pass Ultimate&lt;/strong&gt; for &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Felectronics.woot.com%2Foffers%2Fxbox-game-pass-ultimate-digital-code-2%2F&amp;amp;referrer=theverge.com&amp;amp;sref=https%3A%2F%2Fwww.theverge.com%2F2024%2F12%2F12%2F24319164%2Fxbox-game-pass-ultimate-elgato-stream-deck-neo-deal-sale" rel="sponsored nofollow noopener" target="_blank"&gt;$28.99 (about $31 off)&lt;/a&gt; with promo code &lt;strong&gt;GAMEPASS&lt;/strong&gt;. Only customers making their first purchase on Woot are eligible, though; everyone else will have to pay $33.99 to redeem the digital code.&lt;/p&gt;
-&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="n1KrGT"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"Microsoft&amp;amp;nbsp;wants to make the&amp;amp;nbsp;Xbox&amp;amp;nbsp;app the home of PC gaming","url":"https://www.theverge.com/2024/12/11/24318799/microsoft-xbox-app-new-games-homescreen"},{"title":"The Verge’s 2024 holiday gift guide","url":"https://www.theverge.com/24224043/holiday-gift-guide-2024-best-ideas-unique-tech-gadgets"},{"title":"Xbox tests streaming your Xbox games to your Xbox","url":"https://www.theverge.com/2024/12/11/24318876/xbox-tests-streaming-games-console"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
-&lt;p id="xOOEbm"&gt;Woot’s current promo is a terrific deal considering a month of Xbox Game Pass Ultimate will normally run you $19.99. After you finish playing the new &lt;em&gt;Indiana Jones &lt;/em&gt;game, you can play dozens of other downloadable titles for both Xbox and PC, including new releases like &lt;a href="https://www.theverge.com/2024/10/30/24284080/call-of-duty-black-ops-6-had-a-big-weekend"&gt;&lt;em&gt;Call of Duty: Black Ops 6&lt;/em&gt;&lt;/a&gt; and older titles like &lt;a href="https://www.theverge.com/23697355/star-wars-jedi-survivor-review-ps5-xbox-pc"&gt;&lt;em&gt;Star Wars Jedi: Survivor&lt;/em&gt;&lt;/a&gt;, &lt;a href="https://www.theverge.com/23852390/starfield-review-xbox-pc"&gt;&lt;em&gt;Starfield&lt;/em&gt;&lt;/a&gt;, &lt;a href="https://www.theverge.com/23747068/diablo-iv-review-blizzard-class-customization"&gt;&lt;em&gt;Diablo IV&lt;/em&gt;&lt;/a&gt;, &lt;a href="https://www.theverge.com/2021/12/6/22820011/halo-infinite-campaign-review-xbox-series-x"&gt;&lt;em&gt;Halo Infinite&lt;/em&gt;&lt;/a&gt;, and &lt;a href="https://www.theverge.com/23589879/hi-fi-rush-making-of-interview-xbox"&gt;&lt;em&gt;Hi-Fi Rush&lt;/em&gt;&lt;/a&gt;. Subscribers &lt;a href="https://www.theverge.com/2024/11/20/24300547/xbox-cloud-gaming-game-library-streaming"&gt;can even stream select non-Game Pass titles&lt;/a&gt; they own via their TV, smartphone, tablet, and PC through a web browser. This includes &lt;a href="https://www.theverge.com/2023/8/17/23834516/baldurs-gate-3-choices-narrative-perfectionism"&gt;&lt;em&gt;Baldur’s Gate 3&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Hogwarts Legacy, &lt;/em&gt;&lt;a href="https://www.theverge.com/24082252/balatro-review-poker-roguelike-videogame"&gt;&lt;em&gt;Balatro&lt;/em&gt;&lt;/a&gt;, and more.&lt;/p&gt;
-&lt;p id="rDFmln"&gt;In addition to granting access to a wide range of games — including EA Play titles — an Xbox Game Pass Ultimate subscription lets you take advantage of exclusive deals, online multiplayer, and other perks, some of which aren’t available on the cheaper Game Pass tiers.&lt;/p&gt;
-&lt;div id="nopsvG"&gt;&lt;div data-anthem-component="productcard:11289044"&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;h2 id="SWk2pc"&gt;Other deals and discounts of note&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li id="B7wPbr"&gt;
-&lt;a href="https://www.theverge.com/2024/4/18/24132766/elgato-neo-family-devices-stream-deck"&gt;&lt;strong&gt;Elgato’s Stream Deck Neo&lt;/strong&gt;&lt;/a&gt; is on sale for an all-time low of $79.99 ($20 off) at &lt;a href="https://www.amazon.com/Elgato-Stream-Deck-Neo-Customizable/dp/B0CVY4566H/?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon&lt;/a&gt;, &lt;a href="https://goto.target.com/c/482924/81938/2092?u=https%3A%2F%2Fwww.target.com%2Fp%2Felgato-stream-deck-neo%2F-%2FA-90490152&amp;amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"&gt;Target&lt;/a&gt;, and &lt;a href="https://howl.link/ryzlnzj497k87"&gt;Best Buy&lt;/a&gt;. The excellent macro controller comes with&lt;strong&gt; &lt;/strong&gt;eight LCD buttons, which you can program to easily control your smart lights, pause Slack notifications, and perform a variety of other shortcuts with the press of a button. It also comes with some other handy conveniences, including a tiny info display that shows the time and a pair of capacitive buttons that let you quickly cycle through multiple pages of macros.&lt;/li&gt;
-&lt;li id="tTAn6b"&gt;The &lt;a href="https://www.theverge.com/2024/5/7/24151265/walmart-onn-4k-pro-google-tv-available"&gt;&lt;strong&gt;Onn Google TV 4K Pro&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; &lt;/strong&gt;is selling for $39 (about $11 off) at &lt;a href="https://goto.walmart.com/c/482924/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2Fonn-Google-TV-4K-Pro-Streaming-Device-New-2024-4K-UHD-resolution-Dolby-Vision-Dolby-ATMOS-Hands-Free-Voice-Control-Smart-Hub%2F5193222892%2F&amp;amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank"&gt;Walmart&lt;/a&gt; right now. The streaming device is a higher-end version of the excellent &lt;a href="https://www.theverge.com/23738980/walmart-onn-google-tv-4k-streaming-box-review"&gt;Onn Google TV 4K Streaming Box&lt;/a&gt;. It delivers even more value in some ways, though, as it functions as a smart speaker that’s compatible with Google Assistant. The 4K streaming device also adds support for Dolby Vision and Atmos, as well as Wi-Fi 6, while retaining built-in Chromecast support.&lt;/li&gt;
-&lt;li id="JtURxR"&gt;
-&lt;a href="https://www.amazon.com/Ring-Video-Doorbell-Pro-Chime/dp/B08KHZ1VMN?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank"&gt;Amazon is selling&lt;/a&gt; the &lt;strong&gt;Ring Wired Doorbell Pro&lt;/strong&gt; (formerly known as the &lt;a href="https://www.theverge.com/22359973/ring-video-doorbell-pro-2-review"&gt;&lt;strong&gt;Ring Video Doorbell Pro 2&lt;/strong&gt;&lt;/a&gt;) with a Chime Pro for $199.99 (about $90 off), which is $10 shy of the bundle’s best price to date. The wired Pro is one of &lt;a href="https://www.theverge.com/22954554/best-video-doorbell-camera"&gt;our favorite video doorbells&lt;/a&gt;, one that works with Amazon Alexa and integrates well with Ring Alarm and other Ring cameras. It offers top-notch video quality and a square aspect ratio, though many features — including person alerts and the ability to save and share clips — require a premium Ring subscription plan. The Chime Pro, meanwhile, doubles as a speaker for notifications and a Wi-Fi extender, so the doorbell receives a strong signal.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;aside id="1Rvd4y"&gt;&lt;div data-anthem-component="newsletter" data-anthem-component-data='{"slug":"deals"}'&gt;&lt;/div&gt;&lt;/aside&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24319164/xbox-game-pass-ultimate-elgato-stream-deck-neo-deal-sale"/>
-    <id>https://www.theverge.com/2024/12/12/24319164/xbox-game-pass-ultimate-elgato-stream-deck-neo-deal-sale</id>
-    <author>
-      <name>Sheena Vasani</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-12-12T14:03:51-05:00</published>
-    <updated>2024-12-12T14:03:51-05:00</updated>
-    <title>Threads follows Bluesky’s starter packs with curated collections of people to follow</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="An image showing the Threads logo" src="https://cdn.vox-cdn.com/thumbor/bcl9lG1nOnNvPMIIUTG7qq-1Nbg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73783060/STK156_Instagram_threads_1.0.jpg" /&gt;
-        &lt;figcaption&gt;Illustration: The Verge&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="TwQkRY"&gt;Meta’s Threads is getting another feature seemingly inspired by Bluesky: curated groups of accounts that you can follow all at once. They basically sound like Meta’s take on Bluesky’s handy starter packs.&lt;/p&gt;
-&lt;p id="5UW7D7"&gt;Instagram boss Adam Mosseri &lt;a href="https://www.threads.net/@mosseri/post/DDfPItEv7T8?xmt=AQGz-j7922-ea6JlhP7H_IlfXAyrA2UZXYsWYbM3ENBBxw"&gt;announced Thursday&lt;/a&gt; that Meta is starting to test the feature, and he said that you’ll see the collections “when signing up for Threads and within the For You feed.” A “handful” of “Threads community leaders” curated and shared the current collections.&lt;/p&gt;
-&lt;p id="CLPG9N"&gt;People will be able to find collections built around topics like “basketball, style and fashion, food, books, pop culture, and more,” Meta spokesperson Alec Booker tells The Verge. “We’ll iterate on this feature based on learnings from the test, and hope to expand the functionality to more people soon.”&lt;/p&gt;
-&lt;figure class="e-image"&gt;
-        &lt;img alt="Screenshots showing Threads’ new curated collections of accounts to follow." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/K7IRebsqf0VPYZGgDhn1UqIE8Kw=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25787335/Suggested_Profiles_For_You.png"&gt;
-      &lt;cite&gt;Image: Meta&lt;/cite&gt;
-  &lt;/figure&gt;
-&lt;figure class="e-image"&gt;
-        &lt;img alt="Screenshots showing Threads’ new curated collections of accounts to follow." data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/u0lFDwrDvy5sNM77gd0f70ixGlw=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25787340/Suggested_Profiles_Sign_Up.png"&gt;
-      &lt;cite&gt;Image: Meta&lt;/cite&gt;
-  &lt;/figure&gt;
-&lt;p id="mRtEhL"&gt;Meta has upped the pace of Threads feature updates after users really started flocking to Bluesky last month — Threads introduced its own take on &lt;a href="https://www.theverge.com/2024/11/20/24301587/threads-custom-feeds-rolling-out"&gt;custom feeds&lt;/a&gt; just five days after &lt;a href="https://www.theverge.com/2024/11/15/24297313/threads-custom-feeds-test"&gt;announcing the feature in testing&lt;/a&gt;, for example.&lt;/p&gt;
-&lt;p id="oLw1Ar"&gt;While I personally think Bluesky is the &lt;a href="https://www.theverge.com/2024/11/23/24303502/bluesky-next-twitter-threads-x"&gt;heir apparent to Twitter&lt;/a&gt;, Threads is still significantly larger. Meta saw 35 million Threads signups &lt;a href="https://www.theverge.com/2024/11/26/24306591/threads-35-million-signups-november-growth"&gt;in November&lt;/a&gt;, but Bluesky user growth has seemingly slowed to a crawl: as I write this, Bluesky is &lt;a href="https://bsky-users.theo.io"&gt;on the cusp&lt;/a&gt; of surpassing 25 million users, a five million user jump from &lt;a href="https://www.theverge.com/2024/11/19/24301008/bluesky-now-has-more-than-20-million-users"&gt;nearly a month ago&lt;/a&gt;.&lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24319783/threads-curated-collections-bluesky-starter-packs"/>
-    <id>https://www.theverge.com/2024/12/12/24319783/threads-curated-collections-bluesky-starter-packs</id>
-    <author>
+      <name>Andrew Webster</name>
+      <name>Ash Parrish</name>
       <name>Jay Peters</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-12-12T13:30:30-05:00</published>
-    <updated>2024-12-12T13:30:30-05:00</updated>
-    <title>Mike Flanagan is writing a Clayface movie for DC Studios</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="A humanoid man made of dripping clay looking lovingly at his severed lower half, which is also made of dripping clay and has a face." src="https://cdn.vox-cdn.com/thumbor/C3OI0L4-D_w_bdrl0m69L2qI3v4=/244x0:2637x1595/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73783006/Screenshot_2024_12_12_at_1.08.03_PM.0.png" /&gt;
-        &lt;figcaption&gt;Max&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="dkWzpo"&gt;The DC Comics character Clayface has been getting plenty of play on &lt;a href="https://www.theverge.com/2024/12/11/24318912/harley-quinn-is-moving-to-metropolis"&gt;Max’s &lt;em&gt;Harley Quinn &lt;/em&gt;series&lt;/a&gt;, where he’s voiced by Alan Tudyk. But it’s looking like the shape-shifting villain’s next act will take him to the big screen.&lt;/p&gt;
-&lt;p id="iYKrYe"&gt;&lt;a href="https://variety.com/2024/film/news/clayface-movie-dc-studios-mike-flanagan-1236246625/"&gt;&lt;em&gt;Variety&lt;/em&gt;&lt;/a&gt; reports that &lt;em&gt;The Haunting of Hill House &lt;/em&gt;creator Mike Flanagan has signed on to write a new Clayface feature for DC Studios that will be produced by Matt Reeves and Lynn Harris’ company 6th &amp;amp; Idaho. Currently, there are no details about who will direct the project, but Warner Bros. Discovery reportedly intends for it to begin filming some time next year.&lt;/p&gt;
-&lt;p id="PmifUr"&gt;WBD fast-tracking a movie about one of Batman’s goopier rogues might sound odd at first blush, but it makes quite a bit of sense coming after DC Studios co-CEO James Gunn’s reveal of his plan to build a new cinematic universe. Gunn explained last year that DC Studios is “going to have characters move into animation [and] out of animation; usually having the same actor play their voice as who plays them in live-action.” &lt;/p&gt;
-&lt;p id="wHdMcv"&gt;We’ve already seen a bit of that borne out in &lt;em&gt;Creature Commandos&lt;/em&gt; where Viola Davis has reprised her role as Amanda Waller and Frank Grillo is voicing Rick Flagg Sr. ahead of portraying the same role in &lt;a href="https://www.theverge.com/2024/11/11/24293526/and-just-like-that-hbo-is-ready-to-send-in-the-clown"&gt;&lt;em&gt;Peacemaker&lt;/em&gt;’s upcoming second season&lt;/a&gt;. Though Clayface hasn’t appeared in &lt;em&gt;Creature Commandos &lt;/em&gt;just yet, the character (who will once again by voiced by Tudyk) is set to become part of the show some time some time this season.&lt;/p&gt;
-&lt;p id="qCcCzy"&gt;Because Tudyk also voices &lt;em&gt;Creature Commandos&lt;/em&gt;’ Doctor Phosphorous and Will Magnus, it’s not clear yet whether WBD intends for him to portray Clayface is the new feature. But that might not wind up being an issue given how &lt;em&gt;Creature Commandos &lt;/em&gt;kinda feels like a show designed to kill off and cycle through DC’s weirder characters.&lt;/p&gt;
-&lt;p id="MQCIRs"&gt;&lt;/p&gt;
-&lt;p id="SE1i8p"&gt;&lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24319754/dc-studios-clayface-mike-flanagan-james-gunn-matt-reeves"/>
-    <id>https://www.theverge.com/2024/12/12/24319754/dc-studios-clayface-mike-flanagan-james-gunn-matt-reeves</id>
-    <author>
-      <name>Charles Pulliam-Moore</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2024-12-12T13:07:35-05:00</published>
-    <updated>2024-12-12T13:07:35-05:00</updated>
-    <title>Gemini AI can now summarize what’s in your Google Drive folders</title>
-    <content type="html">  
-
-    &lt;figure&gt;
-      &lt;img alt="An image showing the Google Drive logo on a blue background" src="https://cdn.vox-cdn.com/thumbor/Wn8t47xjU3y_zc7inwS5pMH3K90=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73782967/acastro_STK459_02.0.jpg" /&gt;
-        &lt;figcaption&gt;Illustration by Alex Castro / The Verge&lt;/figcaption&gt;
-    &lt;/figure&gt;
-
-  &lt;p id="b1ZKPc"&gt;Gemini’s integration into Google Drive is getting a little more useful. In addition to summarizing documents or answering questions about a project, the AI assistant can now &lt;a href="https://workspaceupdates.googleblog.com/2024/06/gemini-in-side-panel-of-google-docs-sheets-slides-drive.html"&gt;generate summaries of everything inside a folder&lt;/a&gt;.&lt;/p&gt;
-&lt;p id="DH0e8Z"&gt;With the feature, you can open a folder and select the new “Summarize this folder” button at the top of the page. Gemini will then give you a breakdown of the folder’s contents. As noted by Google, you can use Gemini to find specific files inside a folder, or ask questions about it, like “What is the theme of this folder?”&lt;/p&gt;
-&lt;p id="a4cNU8"&gt;You can also drag and drop a folder into the Gemini sidebar, as well as right-click on a folder and choose “Ask Gemini.”&lt;/p&gt;
-&lt;figure class="e-image"&gt;
-        &lt;img alt=" " data-mask-text="false" src="https://cdn.vox-cdn.com/thumbor/tAtHvpUo5LLDK02maq-PqJrVeiM=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/25787138/gemini_folder_summaries.gif"&gt;
-      &lt;cite&gt;GIF: Google&lt;/cite&gt;
-  &lt;/figure&gt;
-&lt;div class="c-float-left c-float-hang"&gt;&lt;aside id="sVZpeT"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"Google launched Gemini 2.0, its new AI model for practically everything","url":"https://www.theverge.com/2024/12/11/24318444/google-gemini-2-0-flash-ai-model"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;/div&gt;
-&lt;p id="F9IKgr"&gt;For now, Google says Gemini can only provide information about text documents, PDFs, spreadsheets, and presentations. However, &lt;a href="https://9to5google.com/2024/12/12/gemini-summarizes-entire-folders-google-drive/"&gt;when &lt;em&gt;9to5Google&lt;/em&gt; tested the tool&lt;/a&gt;, it found that Gemini could identify images in a folder, too. &lt;/p&gt;
-&lt;p id="ngpRKl"&gt;Google &lt;a href="https://www.theverge.com/2024/5/14/24155310/google-gemini-ai-sidebar-gmail-docs-slides-io"&gt;first brought Gemini&lt;/a&gt; to the sidebar in Drive, Docs, Sheets, and Slides &lt;a href="https://workspaceupdates.googleblog.com/2024/06/gemini-in-side-panel-of-google-docs-sheets-slides-drive.html"&gt;in June&lt;/a&gt;. Gemini’s folder summary feature is rolling out now to Google One AI Premium subscribers, along with Gemini Business, Enterprise, Education, and Education Premium users.&lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2024/12/12/24319697/gemini-ai-summarize-google-drive-folders"/>
-    <id>https://www.theverge.com/2024/12/12/24319697/gemini-ai-summarize-google-drive-folders</id>
-    <author>
-      <name>Emma Roth</name>
+      <name>Sean Hollister</name>
     </author>
   </entry>
 </feed>
