@@ -22,7 +22,7 @@ export const resolveArticle = async (feed: Feed) => {
     let i = 0;
     for (const chunk of chunks) {
 
-        const browser = await launch({ headless: true });
+        const browser = await launch({ headless: true, args: ['--no-sandbox', '--disable-setuid-sandbox'] });
 
         let pages = [];
         for (let i = 0; i < chunkSize; i++) {
