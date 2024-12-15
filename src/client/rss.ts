@@ -50,9 +50,14 @@ export const jsonToRss = async (feed: Feed) => {
 
 export interface FeedData {
     title: string;
+    newTitle?: string;
     link: string;
     pubDate: string;
     summary?: string | null;
+    significance?: {
+        type: string;
+        score: number;
+    }[] | null;
 }
 
 export interface Feed {
@@ -90,6 +95,7 @@ export const rssHandler = async () => {
         }
     });
 
+
     let updatedFeed = newFeedData.map((feed: Feed) => {
         const existingFeed = existingFeedData.find((existingFeed: Feed) => existingFeed.name === feed.name);
         const updatedFeed = {
@@ -125,7 +131,7 @@ export const rssHandler = async () => {
         feed.data = feed.data.slice(0, 30);
         return feed;
     });
-    
+
 
     for (let i = 0; i < updatedFeed.length; i++) {
 
@@ -149,9 +155,9 @@ export const rssHandler = async () => {
             const hasSummary = self.find((t) => t.title === item.title && t.summary !== undefined);
             return hasSummary ? self.findIndex((t) => t.title === item.title) === index : true;
         });
-       
-        targetFeed.data.sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
 
+        targetFeed.data.sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
+        targetFeed.data = targetFeed.data.slice(0, 30);
 
         writeData(`data/json/${targetFeed.name}.json`, targetFeed.data, { isJSON: true });
 
@@ -159,7 +165,5 @@ export const rssHandler = async () => {
         writeData(`data/rss/${targetFeed.name}.xml`, rssFeed);
 
     }
-
-
 
 }
