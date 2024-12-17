@@ -160,6 +160,13 @@ Conclusion: Use a <p> tag for a brief conclusion or takeaway from the article.
     try {
         gptResponse = JSON.parse(JSON.stringify(gptResponse))
 
+        if (!gptResponse?.summary![0]) return {
+            title: article.title,
+            newTitle: null,
+            summary: null,
+            significance: null
+        }
+
         const response = {
             title: article.title,
             newTitle: gptResponse.newTitle,
