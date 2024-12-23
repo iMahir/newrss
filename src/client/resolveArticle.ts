@@ -1,9 +1,10 @@
-import { launch } from "puppeteer";
+import StealthPlugin from "puppeteer-extra-plugin-stealth";
+import Puppeteer from "puppeteer-extra";
+Puppeteer.use(StealthPlugin());
 import { Feed, FeedData } from "./rss";
 import { gptPollinations } from "./gpt/pollinations";
 import { Readability } from "@mozilla/readability";
 import { JSDOM, VirtualConsole } from "jsdom";
-import { writeData } from "../config";
 
 export const resolveArticle = async (feed: Feed) => {
 
@@ -23,7 +24,7 @@ export const resolveArticle = async (feed: Feed) => {
     let i = 0;
     for (const chunk of chunks) {
 
-        const browser = await launch({ headless: true, args: ['--no-sandbox', '--disable-setuid-sandbox'] });
+        const browser = await Puppeteer.launch({ headless: true, args: ['--no-sandbox', '--disable-setuid-sandbox'] });
 
         let pages = [];
         for (let i = 0; i < chunkSize; i++) {
@@ -79,17 +80,19 @@ export const resolveArticle = async (feed: Feed) => {
 
 const generateArticleSummary = async (content: string) => {
 
+    let response = {
+        title: null,
+        newTitle: null,
+        summary: null,
+        significance: null
+    }
+
     const virtualConsole = new VirtualConsole()
     const doc = new JSDOM(content, { virtualConsole });
 
     const reader = new Readability(doc.window.document);
     const article = reader.parse();
-    if (!article) return {
-        title: null,
-        newTitle: null,
-        summary: null,
-        significance: null
-    };
+    if (!article) return response;
 
     const truncatedArticle = truncateStringToTokenCount(article.content, 3500);
 
@@ -160,14 +163,13 @@ Conclusion: Use a <p> tag for a brief conclusion or takeaway from the article.
     try {
         gptResponse = JSON.parse(JSON.stringify(gptResponse))
 
-        if (!gptResponse?.summary![0]) return {
-            title: article.title,
-            newTitle: null,
-            summary: null,
-            significance: null
-        }
+        response.title = article.title as any;
 
-        const response = {
+        if (!gptResponse) return response;
+        if (!gptResponse?.summary) return response;
+
+
+        const newResponse = {
             title: article.title,
             newTitle: gptResponse.newTitle,
             summary: gptResponse.summary,
@@ -227,7 +229,7 @@ Conclusion: Use a <p> tag for a brief conclusion or takeaway from the article.
             ]
         }
 
-        return response;
+        return newResponse;
     } catch (e) {
         console.error(`Error parsing GPT response: ${e}`);
 

@@ -77,7 +77,6 @@ export const rssHandler = async () => {
         }
     }));
 
-
     const existingFeedData: Feed[] = subscribedFeeds.map((feed: any) => {
         return {
             name: feed.name,
