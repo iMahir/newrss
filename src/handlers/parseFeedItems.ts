@@ -26,6 +26,8 @@ export const parseFeedItems = async (feeds: PreRssJson[]) => {
             args: [
                 '--disable-features=SameSiteByDefaultCookies', // Allow third-party cookies
                 '--disable-features=CookiesWithoutSameSiteMustBeSecure', // Allow insecure cookies
+                '--no-sandbox',
+                '--disable-setuid-sandbox'
             ]
         }
     });
