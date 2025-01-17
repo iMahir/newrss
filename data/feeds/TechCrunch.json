@@ -4,6 +4,123 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Google begins requiring JavaScript for Google Search",
+      "link": "https://techcrunch.com/2025/01/17/google-begins-requiring-javascript-for-google-search/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Google mandates users to enable JavaScript to use Google Search to enhance security and performance.\n- The requirement aims to protect against bots and spam, improving search result quality.\n- Approximately 95% of websites use JavaScript, but the change could hinder accessibility for some users.\n- Users disabling JavaScript represent less than 0.1% of searches, translating to millions of users without JS.\n- The new policy could disrupt third-party tools that analyze Google Search trends and rankings.",
+      "keywords": [
+        "Google Search",
+        "JavaScript",
+        "web accessibility",
+        "security",
+        "search trends"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-17T17:32:48.000Z"
+    },
+    {
+      "title": "Treasury sanctions Salt Typhoon hacking group behind breaches of major US telecom firms",
+      "link": "https://techcrunch.com/2025/01/17/treasury-sanctions-salt-typhoon-hacking-group-behind-breaches-of-major-us-telecom-firms/",
+      "author": "Carly Page",
+      "thumbnail": null,
+      "summary": "- The U.S. government imposed sanctions on a China-based cybersecurity firm, Sichuan Juxinhe Network Technology, linked to the Salt Typhoon hacking group.\n- Salt Typhoon is responsible for the largest telecom hack in U.S. history, affecting major companies like AT&T and Verizon.\n- The group gained access to sensitive communications of U.S. officials and law enforcement data.\n- OFAC also sanctioned Yin Kecheng, linked to a recent hack of the U.S. Treasury, which involved remote access to employee workstations using a stolen private key.",
+      "keywords": [
+        "cybersecurity",
+        "hack",
+        "U.S. Treasury",
+        "Salt Typhoon",
+        "sanctions",
+        "telecom breach",
+        "China"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-17T17:10:38.000Z"
+    },
+    {
+      "title": "Malware stole internal PowerSchool passwords from engineer’s hacked computer",
+      "link": "https://techcrunch.com/2025/01/17/malware-stole-internal-powerschool-passwords-from-engineers-hacked-computer/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- A cyberattack at PowerSchool, discovered on December 28, threatens data of millions of students and teachers.\n- Credentials were stolen from a PowerSchool engineer's computer by LummaC2 infostealing malware before the cyberattack.\n- The engineer's device was hacked in January 2024, with logs indicating stolen passwords for various internal systems.\n- PowerSchool stated the compromised account used for a breach lacked multi-factor authentication, a security feature now implemented.\n- The breach exposed sensitive personal information including Social Security numbers and medical data of students.\n- Affected school districts are assessing the extent of personal data theft, relying on shared efforts to search log files for evidence.",
+      "keywords": [
+        "PowerSchool",
+        "cyberattack",
+        "data breach",
+        "malware",
+        "infostealer",
+        "credentials",
+        "sensitive data",
+        "education technology"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-17T17:05:43.000Z"
+    },
+    {
+      "title": "Bumble founder Whitney Wolfe Herd to reclaim CEO position in March",
+      "link": "https://techcrunch.com/2025/01/17/bumble-founder-whitney-wolfe-herd-to-reclaim-ceo-position-in-march/",
+      "author": "Lauren Forristal",
+      "thumbnail": null,
+      "summary": "- Bumble announces Whitney Wolfe Herd will return as CEO in March 2025 after stepping down in 2023.\n- Wolfe Herd succeeds Lidiane Jones, who is leaving for personal reasons and will assist in the transition.\n- The company is facing sluggish growth, with Q3 2024 revenue declining to $274 million despite an increase in paying users to 4.3 million.\n- Bumble expects forthcoming Q4 report to exceed previous revenue forecasts of $256 million to $262 million and adjusted EBITDA of $70 million to $73 million.",
+      "keywords": [
+        "Bumble",
+        "Whitney Wolfe Herd",
+        "CEO",
+        "Lidiane Jones",
+        "leadership transition",
+        "business news",
+        "tech industry",
+        "revenue",
+        "investor confidence"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-17T16:40:50.000Z"
+    },
+    {
+      "title": "Instagram Reels adds new features as TikTok is banned in the U.S.",
+      "link": "https://techcrunch.com/2025/01/17/instagram-reels-adds-new-features-as-tiktok-is-banned-in-the-us/",
+      "author": "Sarah Perez",
+      "thumbnail": null,
+      "summary": "- Instagram announced an update to Reels coinciding with the U.S. TikTok ban effective January 19.\n- New features include seeing content liked by friends and a reply bar for direct responses.\n- Meta aims to capture TikTok users, especially creators who may struggle to monetize on alternative platforms.",
+      "keywords": [
+        "Instagram",
+        "Reels",
+        "TikTok",
+        "U.S. ban",
+        "social media",
+        "Meta",
+        "video features",
+        "content discovery"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-17T16:21:06.000Z"
+    },
+    {
       "title": "Instagram Reels rolls out new features for U.S. users as TikTok gets banned",
       "link": "https://techcrunch.com/2025/01/17/instagram-reels-rolls-out-new-features-for-u-s-users-as-tiktok-gets-banned/",
       "author": "Sarah Perez",
@@ -26,6 +143,29 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-01-17T16:21:06.000Z"
+    },
+    {
+      "title": "Trump Comments on TikTok Ban",
+      "link": "https://techcrunch.com/2025/01/17/trump-comments-on-tiktok-ban/",
+      "author": "Sarah Perez",
+      "thumbnail": null,
+      "summary": "- Supreme Court upheld the law banning TikTok in the U.S. as of January 19.\n- Donald Trump had a \"very good\" phone call with Xi Jinping discussing TikTok.\n- Trump indicated he would make a decision on TikTok in the \"not too distant\" future after reviewing the situation.\n- Supreme Court's decision to uphold the TikTok ban means it will be shut down unless sold.\n- Uncertainty remains whether TikTok will cease operations entirely or continue for existing users.",
+      "keywords": [
+        "Trump",
+        "TikTok",
+        "ban",
+        "Supreme Court",
+        "Xi Jinping",
+        "decision",
+        "social media"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-17T16:02:11.000Z"
     },
     {
       "title": "Trump spoke to China’s President Xi about TikTok just ahead of Supreme Court ruling",
