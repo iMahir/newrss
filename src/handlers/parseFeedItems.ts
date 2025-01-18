@@ -22,7 +22,7 @@ export const parseFeedItems = async (feeds: PreRssJson[]) => {
         retryLimit: 0,
         puppeteer,
         puppeteerOptions: {
-            headless: true,
+            headless: false,
             args: [
                 '--disable-features=SameSiteByDefaultCookies', // Allow third-party cookies
                 '--disable-features=CookiesWithoutSameSiteMustBeSecure', // Allow insecure cookies

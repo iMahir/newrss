@@ -5,8 +5,6 @@ import { parseFeedItems } from "./handlers/parseFeedItems";
 import { parseUniqueFeeds } from "./handlers/parseUniqueFeeds";
 import { rssHandler } from "./handlers/rssHandler";
 import { saveFeeds } from "./handlers/saveFeeds";
-// import { writeData } from "./utils/fs";
-// import { feedsLogger } from "./utils/rss/feedsLogger";
 
 (async () => {
 
@@ -14,15 +12,15 @@ import { saveFeeds } from "./handlers/saveFeeds";
 
     const uniqueFeeds = getUniqueFeeds(newFeeds);
 
-    let parsedUniqueFeeds = parseUniqueFeeds(uniqueFeeds);
+    const parsedUniqueFeeds = parseUniqueFeeds(uniqueFeeds);
 
     //! only keep first 2 items for testing
-    
-    // parsedUniqueFeeds = parsedUniqueFeeds.map((feed) => {
-    //     feed.items = feed.items.slice(0, 2);
-    //     return feed;
-    // });
-    
+    /*
+    parsedUniqueFeeds = parsedUniqueFeeds.map((feed) => {
+        feed.items = feed.items.slice(0, 2);
+        return feed;
+    });
+    */
 
     await parseFeedItems(parsedUniqueFeeds);
 
@@ -31,9 +29,5 @@ import { saveFeeds } from "./handlers/saveFeeds";
     await saveFeeds(feeds);
 
     rssHandler(feeds);
-
-
-
-
 
 })();

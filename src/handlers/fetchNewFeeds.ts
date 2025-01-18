@@ -7,7 +7,13 @@ export const fetchNewFeeds = async (): Promise<PreRssJson[]> => {
 
     const newFeeds = await Promise.all(feeds.map(async (feed: { name: string; rss: string }) => {
         try {
-            const rss = await rssToJson(feed);
+            let rss = await rssToJson(feed);
+
+            // Only keep items from the last four weeks
+            const twoWeeksAgo = new Date();
+            twoWeeksAgo.setDate(twoWeeksAgo.getDate() - (7 * 4));
+            rss.items = rss.items.filter((item) => new Date(item.pubDate) > twoWeeksAgo);
+
             return rss;
         } catch (e) {
             console.error(e);

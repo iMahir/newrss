@@ -2,17 +2,16 @@ import axios from 'axios';
 import Bottleneck from 'bottleneck';
 import { PostRssJson, PreRssJson } from "../utils/rss/types";
 
+
 interface GptInput {
     prompts: { role: string, content: string }[];
     model?: string;
 }
 
-// Configure Bottleneck for rate limiting
 const limiter = new Bottleneck({
-    maxConcurrent: 20, // Max number of concurrent requests
-    minTime: 200, // Minimum time (ms) between requests (5 requests per second)
+    maxConcurrent: 5,
+    minTime: 500,
 });
-
 
 const rateLimitedAxios = limiter.wrap(
     async (config: { url: string, data?: any, config?: any }) => {
@@ -21,6 +20,7 @@ const rateLimitedAxios = limiter.wrap(
 );
 
 export const handleFeeds = async (parsedFeeds: PreRssJson[]): Promise<PostRssJson[]> => {
+
     const feeds = await Promise.all(parsedFeeds.map(async (feed) => {
         const processedItems = await Promise.all(feed.items.map(async (item) => {
             const postRssJsonItem = await generatePostRssJson(item);
@@ -95,6 +95,8 @@ const generatePostRssJson = async (preRssJsonItem: PreRssJson['items'][0], retry
         }
     ]
 
+    console.log(`Summarizing: ${preRssJsonItem.link}`);
+
     const gptResponse = await gpt({
         prompts: prompts.map(prompt => ({ role: prompt.role, content: optimizeStringForGpt(prompt.content) })),
         model: retry ? "searchgpt" : (preRssJsonItem.content ? "openai" : "searchgpt")
@@ -114,6 +116,8 @@ const generatePostRssJson = async (preRssJsonItem: PreRssJson['items'][0], retry
     if (!gptResponse) return postRssJsonItem;
     if (gptResponse === false && !retry) return await generatePostRssJson(preRssJsonItem, true);
     if (gptResponse === false && retry) return postRssJsonItem;
+
+    if (gptResponse.summary) console.log(`Summarized: ${preRssJsonItem.link}`);
 
     return {
         ...postRssJsonItem,

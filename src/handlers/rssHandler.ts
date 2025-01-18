@@ -10,14 +10,11 @@ interface GptInput {
     model?: string;
 }
 
-// Configure Bottleneck for rate limiting
 const limiter = new Bottleneck({
-    maxConcurrent: 20, // Max number of concurrent requests
-    minTime: 200, // Minimum time (ms) between requests (5 requests per second)
+    maxConcurrent: 5,
+    minTime: 500,
 });
 
-
-// Wrap Axios with Bottleneck
 const rateLimitedAxios = limiter.wrap(
     async (config: { url: string, data?: any, config?: any }) => {
         return axios.post(config.url, config.data, config.config);
@@ -48,72 +45,82 @@ export const rssHandler = async (rssFeeds: PostRssJson[]) => {
         .sort((a, b) => new Date(a.pubDate).getTime() - new Date(b.pubDate).getTime());
 
     allItems.forEach((rssItem) => {
-        const existingItem = storedRssData.find((data) => data.sources.some((source) => source.link === rssItem.link));
+        const existingItem = storedRssData.find((data) => data.sources.find((source) => source.link === rssItem.link));
 
         if (!existingItem) {
-            allItems.forEach((rssItem) => {
-                const matchedRssData = storedRssData.find((data) => matchKeywords(data.keywords, rssItem.keywords));
+            const matchedRssData = storedRssData.find((data) => matchKeywords(data.keywords, rssItem.keywords));
 
-                if (matchedRssData && !matchedRssData.sources.some((source) => source.link === rssItem.link)) {
-                    matchedRssData.sources.push({
+            if (matchedRssData && !matchedRssData.sources.some((source) => source.link === rssItem.link)) {
+                matchedRssData.sources.push({
+                    title: rssItem.title,
+                    link: rssItem.link
+                });
+
+                matchedRssData.keywords = [...new Set([...matchedRssData.keywords, ...rssItem.keywords])].map((keyword) => keyword.toLowerCase());
+
+                matchedRssData.title = rssItem.title + " + " + matchedRssData.title;
+
+                const thumbnails = rssItem.thumbnail ? [rssItem.thumbnail] : [];
+                matchedRssData.thumbnails = [...new Set([...matchedRssData.thumbnails, ...thumbnails])];
+
+                matchedRssData.lastUpdated = new Date().toISOString();
+
+                if (matchedRssData.scores && rssItem.scores) {
+                    matchedRssData.scores.impact = (matchedRssData.scores.impact + rssItem.scores.impact) / 2;
+                    matchedRssData.scores.novelty = (matchedRssData.scores.novelty + rssItem.scores.novelty) / 2;
+                    matchedRssData.scores.longTermSignificance = (matchedRssData.scores.longTermSignificance + rssItem.scores.longTermSignificance) / 2;
+
+                    // round scores to 2 decimal places
+                    matchedRssData.scores.impact = Math.round(matchedRssData.scores.impact * 100) / 100;
+                    matchedRssData.scores.novelty = Math.round(matchedRssData.scores.novelty * 100) / 100;
+                    matchedRssData.scores.longTermSignificance = Math.round(matchedRssData.scores.longTermSignificance * 100) / 100;
+                }
+
+                matchedRssData.summary += "\n\n" + rssItem.summary;
+
+                matchedRssData.hasBeenUpdated = true;
+
+            } else {
+                storedRssData.push({
+                    title: rssItem.title,
+                    id: generateId(rssItem.title + Date.now().toString()),
+                    summary: rssItem.summary,
+                    thumbnails: rssItem.thumbnail ? [rssItem.thumbnail] : [],
+                    scores: rssItem.scores,
+                    keywords: rssItem.keywords,
+                    sources: [{
                         title: rssItem.title,
                         link: rssItem.link
-                    });
-
-                    matchedRssData.keywords = [...new Set([...matchedRssData.keywords, ...rssItem.keywords])];
-
-                    matchedRssData.title = rssItem.title + " + " + matchedRssData.title;
-
-                    const thumbnails = rssItem.thumbnail ? [rssItem.thumbnail] : [];
-                    matchedRssData.thumbnails = [...new Set([...matchedRssData.thumbnails, ...thumbnails])];
-
-                    matchedRssData.lastEdited = new Date().toISOString();
-
-                    if (matchedRssData.scores && rssItem.scores) {
-                        matchedRssData.scores.impact = (matchedRssData.scores.impact + rssItem.scores.impact) / 2;
-                        matchedRssData.scores.novelty = (matchedRssData.scores.novelty + rssItem.scores.novelty) / 2;
-                        matchedRssData.scores.longTermSignificance = (matchedRssData.scores.longTermSignificance + rssItem.scores.longTermSignificance) / 2;
-                    }
-
-                    matchedRssData.summary += "\n\n" + rssItem.summary;
-
-                    matchedRssData.hasBeenUpdated = true;
-
-                } else {
-                    storedRssData.push({
-                        title: rssItem.title,
-                        id: rssItem.link,
-                        summary: rssItem.summary,
-                        thumbnails: rssItem.thumbnail ? [rssItem.thumbnail] : [],
-                        scores: rssItem.scores,
-                        keywords: rssItem.keywords,
-                        sources: [{
-                            title: rssItem.title,
-                            link: rssItem.link
-                        }],
-                        lastEdited: new Date().toISOString(),
-                        hasBeenUpdated: false
-                    });
-                }
-            });
+                    }],
+                    lastUpdated: new Date().toISOString(),
+                    hasBeenUpdated: false
+                });
+            }
         }
     });
 
     await Promise.all(storedRssData.map(async (rssData) => {
-        if (rssData.hasBeenUpdated) {
+        if (rssData.hasBeenUpdated === true) {
+            console.log(`Parsing: ${rssData.title}`);
+
             const parsedItem = await parseItem(rssData);
             if (parsedItem.title && parsedItem.summary) {
                 rssData.title = parsedItem.title;
                 rssData.summary = parsedItem.summary;
+                if (rssData.keywords?.length > 3) rssData.keywords = parsedItem.keywords;
+
+                console.log(`Parsed: ${rssData.title}`);
             } else {
                 storedRssData.splice(storedRssData.indexOf(rssData), 1);
             }
         }
+
+        delete rssData.hasBeenUpdated;
     }));
 
     storedRssData = storedRssData.filter((rssData) => rssData.summary !== null);
-    storedRssData = storedRssData.filter((rssData) => new Date().getTime() - new Date(rssData.lastEdited).getTime() <= 1000 * 60 * 60 * 24 * 7 * 2);
-    storedRssData = storedRssData.sort((a, b) => new Date(b.lastEdited).getTime() - new Date(a.lastEdited).getTime());
+    storedRssData = storedRssData.filter((rssData) => new Date().getTime() - new Date(rssData.lastUpdated).getTime() <= 1000 * 60 * 60 * 24 * 7 * 2);
+    storedRssData = storedRssData.sort((a, b) => new Date(b.lastUpdated).getTime() - new Date(a.lastUpdated).getTime());
 
     writeData("./data/rss.json", storedRssData, { isJSON: true });
 };
@@ -132,7 +139,15 @@ async function parseItem(rssData: RssData) {
             role: "user",
             content: JSON.stringify({
                 title: "An easy to read and interpret title for the article as a string.",
-                summary: "Merge the summaries into one."
+                summary: [
+                    "Summarize the summary of the news article into concise bullet points in Markdown format, focusing only on key details without any introductory or concluding text.",
+                    "Ensure to include essential facts, specifications, dates, and outcomes where applicable.",
+                    "You may use hyperlinks wherever necessary.",
+                    "Output Format: [Key point 1]\n[Key point 2]\n[Key point 3] ....(more points if required)",
+                    "(Do not include any other text outside the bullet points.) ",
+                    "(Only respond with markdown as a string without any code block delimiters.)"
+                ].join("\n"),
+                keywords: "A list of keywords that best describe the article, as an array of strings. Keep it limited to important, best keywords.",
             })
         },
         {
@@ -153,7 +168,8 @@ async function parseItem(rssData: RssData) {
 
     return {
         title: gptResponse?.title ?? null,
-        summary: gptResponse?.summary ?? null
+        summary: gptResponse?.summary ?? null,
+        keywords: gptResponse?.keywords ?? null
     };
 }
 
@@ -168,6 +184,32 @@ function matchKeywords(keywords1: string[], keywords2: string[]): boolean {
     return matchingKeywordCount >= 3;
 }
 
+function generateId(input: string): string {
+    const cyrb64 = (str: string, seed = 0) => {
+        let h1 = 0xdeadbeef ^ seed, h2 = 0x41c6ce57 ^ seed;
+        for (let i = 0, ch; i < str.length; i++) {
+            ch = str.charCodeAt(i);
+            h1 = Math.imul(h1 ^ ch, 2654435761);
+            h2 = Math.imul(h2 ^ ch, 1597334677);
+        }
+        h1 = Math.imul(h1 ^ (h1 >>> 16), 2246822507);
+        h1 ^= Math.imul(h2 ^ (h2 >>> 13), 3266489909);
+        h2 = Math.imul(h2 ^ (h2 >>> 16), 2246822507);
+        h2 ^= Math.imul(h1 ^ (h1 >>> 13), 3266489909);
+        // For a single 53-bit numeric return value we could return
+        // 4294967296 * (2097151 & h2) + (h1 >>> 0);
+        // but we instead return the full 64-bit value:
+        return [h2 >>> 0, h1 >>> 0];
+    };
+
+    const cyrb64Hash = (str: string, seed = 0) => {
+        const [h2, h1] = cyrb64(str, seed);
+        return h2.toString(36).padStart(7, '0') + h1.toString(36).padStart(7, '0');
+    }
+
+    return cyrb64Hash(input);
+}
+
 interface RssData {
     title: string;
     id: string;
@@ -179,6 +221,6 @@ interface RssData {
         title: string;
         link: string;
     }[];
-    lastEdited: string;
-    hasBeenUpdated: boolean;
+    lastUpdated: string;
+    hasBeenUpdated?: boolean;
 }
