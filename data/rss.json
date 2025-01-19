@@ -1,5 +1,109 @@
 [
   {
+    "title": "TikTok and Marvel Snap Banned in the US Due to New Legislation",
+    "id": "0ep9m8l0mk68hn",
+    "summary": "- Marvel Snap, linked to ByteDance, has been banned alongside TikTok due to new U.S. laws.\n- Players lost access to the game on January 19, 2025, with announcements of an ongoing effort to restore it.\n- Second Dinner, the game's developer, expressed surprise over the ban and ensured players that they are working to resolve the issue.\n- The app has disappeared from iOS and Android platforms, while some PC players report issues logging in.\n- Other apps from ByteDance also faced similar bans, expanding the impact beyond just Marvel Snap.\n\n- TikTok has been banned in the U.S. due to a federal law, and users started receiving notifications around 10:30 p.m. Eastern on Saturday.\n- The app is no longer available in the Apple and Google Play stores, with TikTok stating, \"Sorry, TikTok isn’t available right now.\"\n- TikTok is hopeful for a resolution with President-elect Trump indicating he will work towards reinstating it, urging users to stay tuned.\n- The law requiring TikTok’s owner ByteDance to sell the app or face a ban was passed by bipartisan majorities in Congress and signed by President Biden last April.\n- TikTok indicated it could go dark if no definitive statement was made by the Biden administration, which responded by calling TikTok’s actions a stunt.\n- Trump has suggested he may delay the ban and negotiate terms possibly involving a sale or partnership, creating uncertainty around TikTok’s long-term future.",
+    "thumbnails": [
+      "https://techcrunch.com/wp-content/uploads/2025/01/Screenshot-2025-01-18-at-8.44.16PM.png?w=680"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8.5,
+      "novelty": 6,
+      "longTermSignificance": 7.5
+    },
+    "keywords": [
+      "marvel snap",
+      "bytedance",
+      "tiktok",
+      "game ban",
+      "second dinner",
+      "u.s. law",
+      "app store removal",
+      "pc players issues",
+      "ban",
+      "trump",
+      "biden",
+      "social media",
+      "chinese surveillance",
+      "short-form video app"
+    ],
+    "sources": [
+      {
+        "title": "Marvel Snap is banned, just like TikTok",
+        "link": "https://www.theverge.com/2025/1/19/24347034/marvel-snap-banned-tiktok-bytedance"
+      },
+      {
+        "title": "TikTok goes dark in the US",
+        "link": "https://techcrunch.com/2025/01/19/tiktok-goes-dark-in-the-u-s/"
+      }
+    ],
+    "lastUpdated": "2025-01-19T17:09:01.407Z"
+  },
+  {
+    "title": "Trump Proposes Delay of TikTok Ban with Joint Venture Plan",
+    "id": "1nybbr300i4dwz",
+    "summary": "- President-elect Donald Trump proposes a joint venture for TikTok, aiming for the US to own 50% of the app.\n- Trump intends to issue an executive order to delay the TikTok ban to protect national security.\n- Republican lawmakers express skepticism about halting the TikTok ban without a legitimate sale to eliminate foreign ownership.\n- TikTok went dark in the US on Saturday but may return soon.\n- Bipartisan legislation requires ByteDance to sell TikTok or face a ban.\n- The Supreme Court upheld the law before Trump’s inauguration.\n- TikTok indicated a need for clarity before continuing operations; Trump aims to resume the app's functionality before the order is issued.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "trump",
+      "tiktok",
+      "ban",
+      "joint venture",
+      "national security",
+      "bytedance",
+      "china",
+      "executive order",
+      "inauguration",
+      "congress"
+    ],
+    "sources": [
+      {
+        "title": "Trump says he’ll delay TikTok ban, but the platform must be sold",
+        "link": "https://www.theverge.com/2025/1/19/24347202/trump-tiktok-ban-delay-us-acquisition"
+      },
+      {
+        "title": "Trump says he will delay TikTok ban, suggests a joint venture with US ownership",
+        "link": "https://techcrunch.com/2025/01/19/trump-says-he-will-delay-tiktok-ban-suggests-a-joint-venture-with-us-ownership/"
+      }
+    ],
+    "lastUpdated": "2025-01-19T17:09:01.406Z"
+  },
+  {
+    "title": "The TikTok shutdown is locking out non-US users, too",
+    "id": "07eaqsx06j4nz4",
+    "summary": "- TikTok's US shutdown affects non-US users, with complaints of access issues from users in other countries.\n- Some users on Reddit identified that using a VPN routing through the US caused access problems, while others claimed issues despite not using a VPN.\n- Users from various countries including Canada, Germany, Australia, Greece, and Poland report being locked out, raising questions about TikTok's response to account creation locations and region settings.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 6,
+      "impact": 7,
+      "novelty": 5,
+      "longTermSignificance": 4
+    },
+    "keywords": [
+      "TikTok",
+      "shutdown",
+      "users",
+      "VPN",
+      "access issues",
+      "international",
+      "social media"
+    ],
+    "sources": [
+      {
+        "title": "The TikTok shutdown is locking out non-US users, too",
+        "link": "https://www.theverge.com/2025/1/19/24347155/tiktok-ban-app-unavailable-outside-us-region-vpn"
+      }
+    ],
+    "lastUpdated": "2025-01-19T17:09:01.406Z"
+  },
+  {
     "title": "Employees of Failed Startups Face Increased Risk of Data Theft via Old Google Logins",
     "id": "16w1uog0yl84sn",
     "summary": "- Security researcher Dylan Ayrey highlighted the risk of stolen personal data for employees of failed startups due to a Google OAuth vulnerability.\n- Malicious hackers can acquire defunct domains and use them to access cloud software tied to former employees, potentially gaining access to sensitive information such as Social Security numbers.\n- Ayrey tested the vulnerability by purchasing a failed startup's domain and accessing various software platforms including ChatGPT, Slack, and an HR system with sensitive data.\n- Google initially dismissed the issue but later reopened the bug report and acknowledged the risk after Ayrey's talk at ShmooCon, awarding him a $1,337 bounty.",
@@ -24,34 +128,6 @@
       {
         "title": "Employees of Failed Startups Face Increased Risk of Data Theft via Old Google Logins",
         "link": "https://techcrunch.com/2025/01/19/employees-of-failed-startups-are-at-special-risk-of-stolen-personal-data-through-old-google-logins/"
-      }
-    ],
-    "lastUpdated": "2025-01-19T16:10:45.018Z"
-  },
-  {
-    "title": "Trump says he’ll delay TikTok ban, but the platform must be sold",
-    "id": "1nybbr300i4dwz",
-    "summary": "- President-elect Donald Trump proposes a joint venture for TikTok, aiming for the US to own 50% of the app.\n- Trump intends to issue an executive order to delay the TikTok ban to protect national security.\n- Republican lawmakers express skepticism about halting the TikTok ban without a legitimate sale to eliminate foreign ownership.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "Trump",
-      "TikTok",
-      "ban",
-      "joint venture",
-      "national security",
-      "ByteDance",
-      "China"
-    ],
-    "sources": [
-      {
-        "title": "Trump says he’ll delay TikTok ban, but the platform must be sold",
-        "link": "https://www.theverge.com/2025/1/19/24347202/trump-tiktok-ban-delay-us-acquisition"
       }
     ],
     "lastUpdated": "2025-01-19T16:10:45.018Z"
@@ -1093,35 +1169,6 @@
       {
         "title": "OpenAI prepares to roll out o3 mini AI model",
         "link": "https://www.techinasia.com/news/openai-prepares-roll-o3-mini-ai-model"
-      }
-    ],
-    "lastUpdated": "2025-01-19T08:30:16.099Z"
-  },
-  {
-    "title": "Marvel Snap is banned, just like TikTok",
-    "id": "0ep9m8l0mk68hn",
-    "summary": "- Marvel Snap, linked to ByteDance, has been banned alongside TikTok due to new U.S. laws.\n- Players lost access to the game on January 19, 2025, with announcements of an ongoing effort to restore it.\n- Second Dinner, the game's developer, expressed surprise over the ban and ensured players that they are working to resolve the issue.\n- The app has disappeared from iOS and Android platforms, while some PC players report issues logging in.\n- Other apps from ByteDance also faced similar bans, expanding the impact beyond just Marvel Snap.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "Marvel Snap",
-      "ByteDance",
-      "TikTok",
-      "game ban",
-      "Second Dinner",
-      "U.S. law",
-      "app store removal",
-      "PC players issues"
-    ],
-    "sources": [
-      {
-        "title": "Marvel Snap is banned, just like TikTok",
-        "link": "https://www.theverge.com/2025/1/19/24347034/marvel-snap-banned-tiktok-bytedance"
       }
     ],
     "lastUpdated": "2025-01-19T08:30:16.099Z"
