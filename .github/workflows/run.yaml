@@ -6,6 +6,10 @@ on:
       - src/**
       - .github/workflows/run.yml
 
+    branches:
+      - main
+      - v3
+
   schedule:
     - cron: "0 * * * *"
 
