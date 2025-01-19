@@ -4,6 +4,30 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Employees of Failed Startups Face Increased Risk of Data Theft via Old Google Logins",
+      "link": "https://techcrunch.com/2025/01/19/employees-of-failed-startups-are-at-special-risk-of-stolen-personal-data-through-old-google-logins/",
+      "author": "Dylan Ayrey",
+      "thumbnail": null,
+      "summary": "- Security researcher Dylan Ayrey highlighted the risk of stolen personal data for employees of failed startups due to a Google OAuth vulnerability.\n- Malicious hackers can acquire defunct domains and use them to access cloud software tied to former employees, potentially gaining access to sensitive information such as Social Security numbers.\n- Ayrey tested the vulnerability by purchasing a failed startup's domain and accessing various software platforms including ChatGPT, Slack, and an HR system with sensitive data.\n- Google initially dismissed the issue but later reopened the bug report and acknowledged the risk after Ayrey's talk at ShmooCon, awarding him a $1,337 bounty.",
+      "keywords": [
+        "data theft",
+        "Google OAuth",
+        "failed startups",
+        "security vulnerabilities",
+        "Dylan Ayrey",
+        "cloud software",
+        "personal data security",
+        "bug bounty"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-19T16:00:00.000Z"
+    },
+    {
       "title": "AI isn’t very good at history, new paper finds",
       "link": "https://techcrunch.com/2025/01/19/ai-isnt-very-good-at-history-new-paper-finds/",
       "author": "Charles Rollet",

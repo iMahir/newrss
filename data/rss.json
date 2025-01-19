@@ -1,5 +1,62 @@
 [
   {
+    "title": "Employees of Failed Startups Face Increased Risk of Data Theft via Old Google Logins",
+    "id": "16w1uog0yl84sn",
+    "summary": "- Security researcher Dylan Ayrey highlighted the risk of stolen personal data for employees of failed startups due to a Google OAuth vulnerability.\n- Malicious hackers can acquire defunct domains and use them to access cloud software tied to former employees, potentially gaining access to sensitive information such as Social Security numbers.\n- Ayrey tested the vulnerability by purchasing a failed startup's domain and accessing various software platforms including ChatGPT, Slack, and an HR system with sensitive data.\n- Google initially dismissed the issue but later reopened the bug report and acknowledged the risk after Ayrey's talk at ShmooCon, awarding him a $1,337 bounty.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "data theft",
+      "Google OAuth",
+      "failed startups",
+      "security vulnerabilities",
+      "Dylan Ayrey",
+      "cloud software",
+      "personal data security",
+      "bug bounty"
+    ],
+    "sources": [
+      {
+        "title": "Employees of Failed Startups Face Increased Risk of Data Theft via Old Google Logins",
+        "link": "https://techcrunch.com/2025/01/19/employees-of-failed-startups-are-at-special-risk-of-stolen-personal-data-through-old-google-logins/"
+      }
+    ],
+    "lastUpdated": "2025-01-19T16:10:45.018Z"
+  },
+  {
+    "title": "Trump says he’ll delay TikTok ban, but the platform must be sold",
+    "id": "1nybbr300i4dwz",
+    "summary": "- President-elect Donald Trump proposes a joint venture for TikTok, aiming for the US to own 50% of the app.\n- Trump intends to issue an executive order to delay the TikTok ban to protect national security.\n- Republican lawmakers express skepticism about halting the TikTok ban without a legitimate sale to eliminate foreign ownership.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "Trump",
+      "TikTok",
+      "ban",
+      "joint venture",
+      "national security",
+      "ByteDance",
+      "China"
+    ],
+    "sources": [
+      {
+        "title": "Trump says he’ll delay TikTok ban, but the platform must be sold",
+        "link": "https://www.theverge.com/2025/1/19/24347202/trump-tiktok-ban-delay-us-acquisition"
+      }
+    ],
+    "lastUpdated": "2025-01-19T16:10:45.018Z"
+  },
+  {
     "title": "AI isn’t very good at history, new paper finds",
     "id": "0i97fn80kc695w",
     "summary": "- A new paper reveals that AI struggles with high-level history exams, specifically tested on GPT-4, Meta’s Llama, and Google’s Gemini.\n- The benchmark, Hist-LLM, uses the Seshat Global History Databank for accuracy assessment, with GPT-4 Turbo scoring only 46%.\n- Researchers note LLMs lack depth in historical understanding and are biased towards more prominent historical data, affecting their performance on nuanced questions.",
