@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "AI isn’t very good at history, new paper finds",
+      "link": "https://techcrunch.com/2025/01/19/ai-isnt-very-good-at-history-new-paper-finds/",
+      "author": "Charles Rollet",
+      "thumbnail": null,
+      "summary": "- A new paper reveals that AI struggles with high-level history exams, specifically tested on GPT-4, Meta’s Llama, and Google’s Gemini.\n- The benchmark, Hist-LLM, uses the Seshat Global History Databank for accuracy assessment, with GPT-4 Turbo scoring only 46%.\n- Researchers note LLMs lack depth in historical understanding and are biased towards more prominent historical data, affecting their performance on nuanced questions.",
+      "keywords": [
+        "AI",
+        "history",
+        "large language models",
+        "benchmark",
+        "Seshat Global History Databank",
+        "GPT-4",
+        "historians"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-01-19T15:01:00.000Z"
+    },
+    {
       "title": "Apple lists all apps it removed alongside TikTok in the U.S.",
       "link": "https://techcrunch.com/2025/01/18/apple-lists-all-apps-it-removed-alongside-tiktok-in-the-u-s/",
       "author": "Ivan Mehta",
