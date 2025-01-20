@@ -4,6 +4,57 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "DeepSeek claims its reasoning model beats OpenAI’s o1 on certain benchmarks",
+      "link": "https://techcrunch.com/2025/01/20/deepseek-claims-its-reasoning-model-beats-openais-o1-on-certain-benchmarks/",
+      "author": "Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/Screenshot-2025-01-20-at-11.31.39AM.png?w=680",
+      "summary": "- DeepSeek has released its reasoning model DeepSeek-R1, claiming it performs as well as OpenAI’s o1 on certain benchmarks.\n- R1 is available on [Hugging Face](https://huggingface.co/deepseek-ai/DeepSeek-R1) under an MIT license, allowing commercial use.\n- DeepSeek claims R1 surpasses o1 on benchmarks AIME, MATH-500, and SWE-bench Verified.\n- The model has 671 billion parameters but distilled versions range from 1.5 billion to 70 billion parameters.\n- R1 is available via DeepSeek’s API, priced 90%-95% cheaper than OpenAI’s similar offerings.\n- It has limitations due to being a Chinese model, consequently avoiding politically sensitive topics.\n- The release follows the Biden administration's proposed export restrictions on AI technologies to China.",
+      "keywords": [
+        "DeepSeek",
+        "AI",
+        "OpenAI",
+        "reasoning model",
+        "benchmark",
+        "Hugging Face",
+        "DeepSeek-R1",
+        "parameters",
+        "export restrictions",
+        "Chinese AI"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-20T17:44:13.000Z"
+    },
+    {
+      "title": "RedNote, Flip, Clapper and Likee claim the top of the App Store as TikTok comes back online",
+      "link": "https://techcrunch.com/2025/01/20/rednote-flip-clapper-and-likee-claim-the-top-of-the-app-store-as-tiktok-comes-back-online/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/us-app-store-top-charts-01-20-25.jpg?w=680",
+      "summary": "- TikTok has resumed services after a day-long ban, but competitors like RedNote (Xiaohongshu), Clapper, and Flip have surged in popularity.\n- RedNote retained the No. 1 spot in the U.S. App Store, adding 700,000 new users amid TikTok's outage.\n- Despite TikTok being back, it remains unavailable for download on app stores due to legalities, reflecting a shift towards alternative apps.\n- Clapper and Likee are ranked 4th and 2nd respectively in the App Store, with significant increases in downloads post-TikTok ban.\n- The app Flip, which focuses on social commerce, also saw significant growth, securing the 10th spot on the U.S. App Store.\n- VPN apps experienced a spike in downloads as users attempted to bypass the TikTok ban, although their efforts were largely unsuccessful.",
+      "keywords": [
+        "RedNote",
+        "TikTok",
+        "App Store",
+        "Clapper",
+        "Flip",
+        "Likee",
+        "Chinese competitors",
+        "user growth",
+        "VPN apps"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-01-20T17:38:10.000Z"
+    },
+    {
       "title": "Meta confirms it will keep fact-checkers outside the U.S. ‘for now’",
       "link": "https://techcrunch.com/2025/01/20/meta-confirms-it-will-keep-fact-checkers-outside-the-u-s-for-now/",
       "author": null,
