@@ -4,6 +4,30 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "HPE investigating security breach after hacker claims theft of sensitive data",
+      "link": "https://techcrunch.com/2025/01/21/hpe-investigating-security-breach-after-hacker-claims-theft-of-sensitive-data/",
+      "author": "Carly Page",
+      "thumbnail": null,
+      "summary": "- HPE is investigating a data breach after the hacker IntelBroker claimed to have stolen sensitive information.\n- The hacker claims the data includes product source code, private GitHub repositories, and access keys to HPE services.\n- HPE activated cyber response protocols immediately after becoming aware of the claims on January 16.",
+      "keywords": [
+        "Hewlett-Packard Enterprise",
+        "data breach",
+        "cybersecurity",
+        "IntelBroker",
+        "sensitive information",
+        "hacker",
+        "GitHub",
+        "APIs"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-21T11:21:22.000Z"
+    },
+    {
       "title": "MoneyHash, which provides single access to payment services in MENA, banks $5.2M",
       "link": "https://techcrunch.com/2025/01/21/moneyhash-provides-single-access-to-payment-services-in-mena/",
       "author": null,
@@ -1152,30 +1176,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-01-17T19:19:05.000Z"
-    },
-    {
-      "title": "TikTok CEO responds to Trump, thanks him for trying to solve US ban",
-      "link": "https://techcrunch.com/2025/01/17/tiktok-ceo-responds-to-trump-thanks-him-for-trying-to-solve-us-ban/",
-      "author": "Shou Zi Chew",
-      "thumbnail": null,
-      "summary": "- TikTok CEO Shou Zi Chew responded to comments from Donald Trump about the Supreme Court ruling on the TikTok ban in the U.S.  \n- Chew expressed gratitude to Trump for his commitment to finding a solution that keeps TikTok available in the U.S., calling it a stand for the First Amendment.  \n- Currently uncertain if TikTok will disable the app in the U.S. or wait for negotiations with the Trump administration for a resolution.",
-      "keywords": [
-        "TikTok",
-        "Shou Zi Chew",
-        "Trump",
-        "US ban",
-        "Supreme Court ruling",
-        "social media",
-        "First Amendment",
-        "censorship"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-17T18:54:45.000Z"
     }
   ]
 }
