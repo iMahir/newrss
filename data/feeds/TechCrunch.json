@@ -4,6 +4,58 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Perplexity launches Sonar, an API for AI search",
+      "link": "https://techcrunch.com/2025/01/21/perplexity-launches-sonar-an-api-for-ai-search/",
+      "author": "Maxwell Zeff",
+      "thumbnail": null,
+      "summary": "- Perplexity launched an API service called Sonar, enabling integration of generative AI search tools into applications.\n- Sonar features real-time internet connections for more factual and authoritative answers, with two tiers: base Sonar and Sonar Pro.\n- Sonar is the cheapest AI search API available, with pricing options for developers based on searches and token usage.\n- Zoom is already implementing Sonar for real-time AI assistance in video calls, enhancing user experience without interruption.\n- Sonar Pro claims to outperform major competitors like Google and OpenAI on factual correctness benchmarks.\n- Perplexity recently raised $73.6 million, highlighting a growth strategy amid increasing competition in the AI space.",
+      "keywords": [
+        "Perplexity",
+        "Sonar",
+        "API",
+        "AI search",
+        "Zoom",
+        "generative AI",
+        "technology",
+        "software",
+        "startup"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-21T20:39:09.000Z"
+    },
+    {
+      "title": "Trump targets EV charging funding programs Tesla benefits from",
+      "link": "https://techcrunch.com/2025/01/21/trump-targets-ev-charging-funding-programs-tesla-benefits-from/",
+      "author": "Sean O'Kane",
+      "thumbnail": null,
+      "summary": "- President Trump aims to halt funding from two programs benefiting Tesla, impacting EV charging infrastructure financing.\n- His executive order directs agencies to pause disbursement from the Inflation Reduction Act and Bipartisan Infrastructure Law.\n- The order affects EV charging funds, specifically the NEVI Formula Program and the CFI grant program.\n- Tesla previously received significant funding to enhance its charging network, including a recent $100 million award for electric truck charging.\n- Trump’s move may legally challenge existing contracts but hints at potential delays in funding, creating barriers for EV infrastructure growth.",
+      "keywords": [
+        "Trump",
+        "Tesla",
+        "EV charging",
+        "funding",
+        "infrastructure",
+        "Bipartisan Infrastructure Law",
+        "Inflation Reduction Act",
+        "NEVI",
+        "CFI",
+        "sustainable energy",
+        "Elon Musk"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-21T20:15:59.000Z"
+    },
+    {
       "title": "Govtech giant Conduent won’t rule out cyberattack as outage drags on",
       "link": "https://techcrunch.com/2025/01/21/govtech-giant-conduent-wont-rule-out-cyberattack-as-outage-drags-on/",
       "author": "Zack Whittaker",
@@ -1125,53 +1177,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-01-19T15:01:00.000Z"
-    },
-    {
-      "title": "Apple lists all apps it removed alongside TikTok in the U.S.",
-      "link": "https://techcrunch.com/2025/01/18/apple-lists-all-apps-it-removed-alongside-tiktok-in-the-u-s/",
-      "author": "Ivan Mehta",
-      "thumbnail": null,
-      "summary": "- Apple issued a statement listing apps removed due to the TikTok shutdown.\n- Affected apps include TikTok, CapCut, Lemon8, and Marvel Snap.\n- The removal is due to the Protecting Americans from Foreign Adversary Controlled Applications Act, effective January 19, 2025.\n- Users in the U.S. won’t receive updates or be able to download these apps.\n- The Supreme Court upheld the law that prompted the app removals.",
-      "keywords": [
-        "Apple",
-        "TikTok",
-        "app removal",
-        "ByteDance",
-        "CapCut",
-        "Lemon8",
-        "Supreme Court",
-        "Protecting Americans from Foreign Adversary Controlled Applications Act"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-19T07:56:08.000Z"
-    },
-    {
-      "title": "TikTok goes dark in the US",
-      "link": "https://techcrunch.com/2025/01/18/tiktok-goes-dark-in-the-u-s/",
-      "author": "Kyle Wiggers, Anthony Ha",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/Screenshot-2025-01-18-at-8.44.16PM.png?w=680",
-      "summary": "- TikTok has been banned in the U.S. following a federal law, rendering it inaccessible for millions of Americans.\n- The ban was enacted around 10:30 p.m. Eastern, and the app was also removed from Apple and Google Play stores.\n- TikTok suggests the ban may be temporary and has expressed hope for a resolution with President-elect Donald Trump once he takes office.\n- The ban stems from bipartisan legislation requiring TikTok's owner, ByteDance, to sell the app amid concerns over Chinese surveillance.\n- The Supreme Court upheld the law before the ban was enacted, leaving its implementation to the next administration.\n- Alternative Chinese-owned apps like RedNote and Lemon8 have gained popularity as users search for alternatives.",
-      "keywords": [
-        "TikTok",
-        "ban",
-        "US",
-        "ByteDance",
-        "Trump",
-        "surveillance",
-        "alternative apps"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-19T03:46:57.000Z"
     }
   ]
 }
