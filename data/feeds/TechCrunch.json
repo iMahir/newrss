@@ -4,6 +4,51 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Forum software NodeBB joins the fediverse",
+      "link": "https://techcrunch.com/2025/01/21/forum-software-nodebb-joins-the-fediverse/",
+      "author": "Sarah Perez",
+      "thumbnail": null,
+      "summary": "- NodeBB, a major forum software provider, joins the [fediverse](https://techcrunch.com/2024/06/25/welcome-to-the-fediverse-your-guide-to-mastodon-threads-bluesky-and-more/).\n- The fediverse includes decentralized apps like [Mastodon](https://techcrunch.com/2023/07/24/what-is-mastodon/), [Pixelfed](https://techcrunch.com/2025/01/14/decentralized-instagram-alternative-pixelfed-launches-mobile-apps/), and [PeerTube](https://techcrunch.com/2023/10/11/wordpress-com-blogs-can-now-be-followed-on-mastodon-and-other-federated-platforms/).\n- NodeBB co-founder Julian Lam had the idea in mid-2023 to connect NodeBB forums to each other, leading to the decision to adopt the [ActivityPub](https://techcrunch.com/2024/06/25/all-threads-users-can-now-share-to-the-open-social-web-aka-the-fediverse/) protocol for decentralization.\n- Funding from the [NLNet Foundation](https://nlnet.nl/commonsfund/) helped expedite the implementation of ActivityPub in NodeBB.\n- New forums created with NodeBB will be federated automatically; existing forums can interact with other ActivityPub-powered software.\n- The federation feature is built into NodeBB's core as of version 4.0, not just as an add-on, differing from [Discourse](https://meta.discourse.org/t/activitypub-plugin/266794).\n- NodeBB does not track usage numbers but had 4,582 downloads last week, indicating a steady interest.",
+      "keywords": [
+        "NodeBB",
+        "fediverse",
+        "ActivityPub",
+        "forums",
+        "decentralized",
+        "social networking",
+        "open source"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-21T16:57:43.000Z"
+    },
+    {
+      "title": "Samsung Unpacked 2025: Here’s how to watch and what we expect",
+      "link": "https://techcrunch.com/2025/01/21/samsung-unpacked-2025-heres-how-to-watch-and-what-we-expect/",
+      "author": "Brian Heater",
+      "thumbnail": null,
+      "summary": "- The Samsung Unpacked event is scheduled for Wednesday at 10 a.m. PT.\n- The event will be streamed on Samsung’s website and their YouTube channel.\n- Preorders come with a $50 Samsung store credit for reservations ahead of the event.\n- The Galaxy S25 line will be announced, including models S25, S25+, and S25 Ultra.\n- Rumors suggest a slimmer design and the inclusion of the Snapdragon 8 Elite chip.\n- AI features will be highlighted, aiming to differentiate from Google’s offerings.",
+      "keywords": [
+        "Samsung",
+        "Unpacked 2025",
+        "Galaxy S25",
+        "event",
+        "AI features",
+        "snapdragon 8 elite"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-21T16:33:07.000Z"
+    },
+    {
       "title": "Meta will soon let you link your WhatsApp account with Instagram and Facebook",
       "link": "https://techcrunch.com/2025/01/21/meta-will-soon-let-you-link-your-whatsapp-account-with-instagram-and-facebook/",
       "author": "Aisha Malik",
@@ -1130,51 +1175,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-18T12:00:00.000Z"
-    },
-    {
-      "title": "EV startup Canoo files for bankruptcy and ceases operations",
-      "link": "https://techcrunch.com/2025/01/17/ev-startup-canoo-files-for-bankruptcy-and-ceases-operations/",
-      "author": "Sean O'Kane",
-      "thumbnail": null,
-      "summary": "- Canoo, a seven-year-old electric vehicle startup, has filed for bankruptcy and will cease operations immediately.\n- The company is undergoing a Chapter 7 bankruptcy process in the Delaware Bankruptcy Court, owing over $164 million and claiming around $126 million in assets.\n- Canoo struggled to secure funding, including from the U.S. Department of Energy, and faced multiple executive departures in 2024, leading to layoffs and idled operations in Oklahoma.\n- Canoo has been one of several EV startups to go bankrupt after merging with a SPAC, following companies like Electric Last Mile Solutions and Lordstown Motors.\n- The startup, which once aimed to sell electric vans to notable clients like Walmart, failed to deliver substantial product volumes after going public in 2020.",
-      "keywords": [
-        "Canoo",
-        "bankruptcy",
-        "electric vehicle",
-        "startup",
-        "SPAC",
-        "operations cease"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-01-18T01:41:27.000Z"
-    },
-    {
-      "title": "Amazon suspends US drone deliveries following crash at testing facility",
-      "link": "https://techcrunch.com/2025/01/17/amazon-suspends-u-s-drone-deliveries-following-crash-at-testing-facility/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/04/download.webp?w=1024",
-      "summary": "- Amazon has paused testing of its delivery drones after two models crashed at a testing facility in Pendleton, Oregon, during rainy weather in December 2024.\n- The incidents included a prior collision in September due to simultaneous test launches caused by a propeller failure test.\n- Drone deliveries are suspended in Texas and Arizona pending a software update; similar programs have faced multiple setbacks, including the departure of key executives and the cessation of operations in California.",
-      "keywords": [
-        "Amazon",
-        "drone delivery",
-        "Prime Air",
-        "drone crash",
-        "suspension of operations",
-        "testing facility",
-        "software update"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-17T23:48:37.000Z"
     }
   ]
 }
