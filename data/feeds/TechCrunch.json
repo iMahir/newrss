@@ -4,6 +4,79 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Amperesand targets data centers as the next big customer for its solid-state transformers",
+      "link": "https://techcrunch.com/2025/01/21/amperesand-targets-data-centers-as-the-next-big-customer-for-its-solid-state-transformers/",
+      "author": "Tim De Chant",
+      "thumbnail": null,
+      "summary": "- Data centers are projected to consume up to 12% of U.S. electricity by 2028, increasing from 90 gigawatts globally in 2023 to over 185 gigawatts.\n- Amperesand develops solid-state transformers using silicon carbide, which are more efficient at voltage regulation and can integrate multiple power sources.\n- The company is raising a Series A round after a $12.5 million seed round and plans to open an office in the U.S. to tap local talent.",
+      "keywords": [
+        "Amperesand",
+        "solid-state transformers",
+        "data centers",
+        "electricity consumption",
+        "silicon carbide",
+        "renewable energy",
+        "tech companies"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-21T22:00:00.000Z"
+    },
+    {
+      "title": "Startup founders flooded inauguration parties hopeful for dealmaking",
+      "link": "https://techcrunch.com/2025/01/21/startup-founders-flooded-inauguration-parties-hopeful-for-dealmaking/",
+      "author": "Margaux Maccoll",
+      "thumbnail": null,
+      "summary": "- Tech founders attended various inauguration parties in Washington, D.C., seeking connections with the new administration.\n- Isaiah Taylor, founder of Valar Atomics, networked by sending proposals to DC insiders, expressing a desire for nuclear regulation changes.\n- Founders enjoyed celebrity appearances and events, such as Snoop Dogg at a crypto party and others hosted by conservative groups.\n- Tyler Sweatt of Second Front Systems noted frustrations with government bureaucracy but felt optimistic about alignment between startups and the new administration.\n- Many founders expressed hopes that the Trump administration could enhance government efficiency and technology integration.\n- James Layfield of Samplify.ai aims to offer government services for free to improve efficiency under the new government guidelines.\n- Rabi Alam of Counter Health is exploring opportunities with DOGE to enhance healthcare operations amid the political atmosphere.",
+      "keywords": [
+        "inauguration",
+        "startups",
+        "politics",
+        "DC",
+        "TechCrunch",
+        "Elon Musk",
+        "deal-making",
+        "government",
+        "crypto",
+        "DOGE"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-01-21T21:53:39.000Z"
+    },
+    {
+      "title": "Meta is building Oakley smart glasses for athletes: report",
+      "link": "https://techcrunch.com/2025/01/21/meta-is-building-oakley-smart-glasses-for-athletes-report/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173597965.jpg?w=1024",
+      "summary": "- Meta's Reality Labs is developing AI smart glasses branded by Oakley, aimed at athletes.\n- The glasses will use a design based on Oakley's Sphaera model and feature a camera positioned at the center of the frame.\n- Meta aims to leverage Oakley's popularity among athletes like cyclists, runners, and rowers to boost the appeal of smart glasses.\n- In addition to these glasses, Meta is working on camera-equipped earbuds, a smartwatch, and a $1,000 pair of smart glasses with a projected AR display.",
+      "keywords": [
+        "Meta",
+        "Oakley",
+        "smart glasses",
+        "athletes",
+        "AI",
+        "AR",
+        "Reality Labs",
+        "wearable technology"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-21T21:21:53.000Z"
+    },
+    {
       "title": "Perplexity launches Sonar, an API for AI search",
       "link": "https://techcrunch.com/2025/01/21/perplexity-launches-sonar-an-api-for-ai-search/",
       "author": "Maxwell Zeff",
@@ -1105,78 +1178,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-01-19T16:28:10.000Z"
-    },
-    {
-      "title": "Trump says he will delay TikTok ban, suggests a joint venture with US ownership",
-      "link": "https://techcrunch.com/2025/01/19/trump-says-he-will-delay-tiktok-ban-suggests-a-joint-venture-with-us-ownership/",
-      "author": "Anthony Ha",
-      "thumbnail": null,
-      "summary": "- TikTok went dark in the US on Saturday but may return soon.\n- President-elect Trump announced plans to issue an executive order to delay the TikTok ban for a potential deal to protect national security.\n- Trump proposed a joint venture that would give the US 50% ownership.\n- Bipartisan legislation requires ByteDance to sell TikTok or face a ban.\n- The Supreme Court upheld the law before Trump’s inauguration.\n- TikTok indicated a need for clarity before continuing operations; Trump aims to resume the app's functionality before the order is issued.",
-      "keywords": [
-        "Trump",
-        "TikTok",
-        "ban",
-        "joint venture",
-        "ByteDance",
-        "national security",
-        "executive order",
-        "inauguration",
-        "Congress"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-01-19T16:19:05.000Z"
-    },
-    {
-      "title": "Employees of Failed Startups Face Increased Risk of Data Theft via Old Google Logins",
-      "link": "https://techcrunch.com/2025/01/19/employees-of-failed-startups-are-at-special-risk-of-stolen-personal-data-through-old-google-logins/",
-      "author": "Dylan Ayrey",
-      "thumbnail": null,
-      "summary": "- Security researcher Dylan Ayrey highlighted the risk of stolen personal data for employees of failed startups due to a Google OAuth vulnerability.\n- Malicious hackers can acquire defunct domains and use them to access cloud software tied to former employees, potentially gaining access to sensitive information such as Social Security numbers.\n- Ayrey tested the vulnerability by purchasing a failed startup's domain and accessing various software platforms including ChatGPT, Slack, and an HR system with sensitive data.\n- Google initially dismissed the issue but later reopened the bug report and acknowledged the risk after Ayrey's talk at ShmooCon, awarding him a $1,337 bounty.",
-      "keywords": [
-        "data theft",
-        "Google OAuth",
-        "failed startups",
-        "security vulnerabilities",
-        "Dylan Ayrey",
-        "cloud software",
-        "personal data security",
-        "bug bounty"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-19T16:00:00.000Z"
-    },
-    {
-      "title": "AI isn’t very good at history, new paper finds",
-      "link": "https://techcrunch.com/2025/01/19/ai-isnt-very-good-at-history-new-paper-finds/",
-      "author": "Charles Rollet",
-      "thumbnail": null,
-      "summary": "- A new paper reveals that AI struggles with high-level history exams, specifically tested on GPT-4, Meta’s Llama, and Google’s Gemini.\n- The benchmark, Hist-LLM, uses the Seshat Global History Databank for accuracy assessment, with GPT-4 Turbo scoring only 46%.\n- Researchers note LLMs lack depth in historical understanding and are biased towards more prominent historical data, affecting their performance on nuanced questions.",
-      "keywords": [
-        "AI",
-        "history",
-        "large language models",
-        "benchmark",
-        "Seshat Global History Databank",
-        "GPT-4",
-        "historians"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-01-19T15:01:00.000Z"
     }
   ]
 }
