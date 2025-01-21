@@ -4,6 +4,52 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Govtech giant Conduent won’t rule out cyberattack as outage drags on",
+      "link": "https://techcrunch.com/2025/01/21/govtech-giant-conduent-wont-rule-out-cyberattack-as-outage-drags-on/",
+      "author": "Zack Whittaker",
+      "thumbnail": null,
+      "summary": "- Conduent is experiencing a prolonged service interruption affecting multiple U.S. states, disrupting access to benefits and payments.\n- Sources indicate a potential cyberattack as the cause; Conduent has not provided further details.\n- Affected states include Wisconsin, with issues related to child support payments, restored by January 19.\n- Oklahoma Human Services reported disruptions but claimed no security outages at Conduent.\n- Conduent previously faced a ransomware attack in June 2020, attributed to the Maze gang.",
+      "keywords": [
+        "Conduent",
+        "cyberattack",
+        "service interruption",
+        "U.S. states",
+        "Wisconsin",
+        "Oklahoma Human Services",
+        "ransomware attack"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-01-21T20:06:40.000Z"
+    },
+    {
+      "title": "Spotify’s educational audio courses could be coming to US",
+      "link": "https://techcrunch.com/2025/01/21/spotify-educational-audio-courses-could-be-coming-to-us/",
+      "author": "Sarah Perez",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/spotify-courses.jpeg?w=123",
+      "summary": "- Spotify is expanding its service to include educational courses in addition to music, podcasts, and audiobooks.\n- The feature is currently being piloted in the U.K. with indications it may arrive in the U.S. soon.\n- Early adopter Chris Messina discovered the courses can be accessed in the U.S., although the category pages were empty, indicating ongoing development.\n- Courses cover topics like AI, web3, and more, appealing to a technical audience.\n- Spotify aims to diversify its revenue by monetizing educational content, similar to its efforts with podcasts and audiobooks.",
+      "keywords": [
+        "Spotify",
+        "educational courses",
+        "streaming service",
+        "AI",
+        "web3",
+        "podcasts",
+        "revenue"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-21T18:39:11.000Z"
+    },
+    {
       "title": "Spotify introduces educational audio courses, starting in the UK",
       "link": "https://techcrunch.com/2025/01/21/spotify-introduces-educational-audio-courses-starting-in-the-uk/",
       "author": "Sarah Perez",
@@ -1126,53 +1172,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-19T03:46:57.000Z"
-    },
-    {
-      "title": "Perplexity AI submits bid to merge with TikTok",
-      "link": "https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/",
-      "author": "Anthony Ha",
-      "thumbnail": null,
-      "summary": "- Perplexity AI has submitted a bid to merge with TikTok US amid a potential ban of the app in the US.\n- The bid aims to create a new entity that combines Perplexity, TikTok US, and new equity partners, allowing investors in ByteDance to retain their equity.\n- A law requiring ByteDance to sell TikTok or face a ban is set to take effect on January 19, the last day of President Biden's term.\n- President-elect Trump may grant TikTok a 90-day extension to avoid the ban, while TikTok states it could 'go dark' without assurances from the Biden administration.\n- Despite interest from multiple buyers, ByteDance maintains it does not intend to sell TikTok, viewing the merger proposal as a potential workaround.",
-      "keywords": [
-        "Perplexity AI",
-        "TikTok",
-        "merger",
-        "ByteDance",
-        "US ban",
-        "digital media",
-        "corporate acquisition"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-18T21:20:36.000Z"
-    },
-    {
-      "title": "FTC says partnerships like Microsoft-OpenAI raise antitrust concerns",
-      "link": "https://techcrunch.com/2025/01/18/ftc-says-partnerships-like-microsoft-openai-raise-antitrust-concerns/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
-      "summary": "- The FTC issued a report on January 18, 2025, highlighting competitive issues in big tech partnerships with generative AI developers, specifically mentioning Microsoft-OpenAI and Amazon-Google with Anthropic.\n- FTC Chair Lina Khan stated these partnerships could create lock-in effects, deprive startups of AI inputs, and disclose sensitive information, undermining fair competition.\n- The report raises concerns about cloud service providers' influence on AI development, access to computing resources, increased switching costs, and unfair access to sensitive information.",
-      "keywords": [
-        "FTC",
-        "antitrust",
-        "Microsoft",
-        "OpenAI",
-        "generative AI",
-        "partnerships",
-        "big tech",
-        "competition"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-18T20:48:56.000Z"
     }
   ]
 }
