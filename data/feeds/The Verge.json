@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Nvidia’s triple-fan GPU cooler was one step along the way to a slimmer RTX 5090",
+      "link": "https://www.theverge.com/2025/1/22/24349781/nvidia-quad-slot-titan-ada-4090-gpu-cooler-prototype-real",
+      "author": "Umar Shakir",
+      "thumbnail": null,
+      "summary": "- Nvidia showcases the design evolution of its graphics cards, highlighting the new RTX 5090.\n- A leaked prototype named “Titan ADA” features a large four-slot design and a triple-fan cooling system.\n- The new RTX 5090 uses a modular four-part design for a more compact cooler, fitting into two slots instead of three, improving efficiency.",
+      "keywords": [
+        "Nvidia",
+        "RTX 5090",
+        "GPU cooler",
+        "graphics cards",
+        "triple-fan",
+        "Titan ADA",
+        "prototype"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-22T22:26:42.000Z"
+    },
+    {
       "title": "Canon Sets New Record with 410-Megapixel 35mm Camera Sensor",
       "link": "https://www.theverge.com/2025/1/22/24349792/canon-cmos-sensor-410-megapixels-35-millimeter-full-frame-photography",
       "author": "Andrew Liszewski",
@@ -1144,27 +1167,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-01-21T20:50:33.000Z"
-    },
-    {
-      "title": "Apple Intelligence is enabled by default in iOS 18.3",
-      "link": "https://www.theverge.com/2025/1/21/24348850/apple-intelligence-ai-default-setting-ios-18-3",
-      "author": "Emma Roth",
-      "thumbnail": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2700x1800/2400x1600/filters:focal(1350x900:1351x901):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25626295/247263_iphone_16_pro_AKrales_0799.jpg",
-      "summary": "[Apple Intelligence will be switched on by default in iOS 18.3, iPadOS 18.3, and macOS 15.3.](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-18_3-release-notes#New-Features)\n[Only devices supporting Apple Intelligence, like iPhone 15 Pro or Macs with M1 chip, will have this feature enabled.](https://9to5mac.com/2025/01/21/ios-18-3-automatically-enables-apple-intelligence-requires-opt-out-to-disable/)\n[Users can disable Apple Intelligence by navigating to the settings after the update.](https://www.theverge.com/2025/1/21/24348850/apple-intelligence-ai-default-setting-ios-18-3)",
-      "keywords": [
-        "Apple",
-        "iOS 18.3",
-        "Apple Intelligence",
-        "AI features",
-        "macOS 15.3"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-21T20:48:43.000Z"
     }
   ]
 }
