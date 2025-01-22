@@ -4,6 +4,30 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "The Internet is (once again) awash with IoT botnets delivering record DDoSes",
+      "link": "https://arstechnica.com/security/2025/01/the-internet-is-once-again-awash-with-iot-botnets-delivering-record-ddoses/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- 2025 is witnessing a surge in IoT-driven DDoS attacks, infecting thousands of devices like routers and webcams.\n- Cloudflare reported a DDoS attack reaching 5.6 terabits per second, setting a new record, with 13,000 IoT devices involved.\n- Qualys has identified the Murdoc Botnet exploiting vulnerabilities to install Mirai variants on specific cameras and routers, with compromised devices rapidly increasing.\n- Trend Micro revealed an IoT botnet using Mirai and Bashlite variants attacking mainly in Japan since late 2024.\n- Infoblox reported another botnet with 13,000 MikroTik routers, primarily sending malicious spam emails.",
+      "keywords": [
+        "IoT",
+        "botnet",
+        "DDoS",
+        "Mirai",
+        "cybersecurity",
+        "security vulnerabilities",
+        "2025",
+        "Malware"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-22T15:10:58.000Z"
+    },
+    {
       "title": "Cutting-edge Chinese “reasoning” model rivals OpenAI o1—and it’s free to download",
       "link": "https://arstechnica.com/ai/2025/01/china-is-catching-up-with-americas-best-reasoning-ai-models/",
       "author": null,
