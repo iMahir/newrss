@@ -4,6 +4,53 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Trump says he’s open to Musk or Ellison buying TikTok",
+      "link": "https://www.theverge.com/2025/1/21/24349011/trump-elon-musk-larry-ellison-oracle-tiktok-ban",
+      "author": "Lauren Feiner",
+      "thumbnail": null,
+      "summary": "- President Trump expressed openness to Elon Musk or Larry Ellison buying TikTok.\n- Trump suggested a deal where the buyer gives half of the ownership to the U.S. for regulatory approval.\n- Legal experts are skeptical about the feasibility of operating TikTok under U.S. law without violating the First Amendment.\n- Trump signed an executive order delaying enforcement of a forced divestiture bill for 75 days, but offers limited legal protection for companies like Oracle.\n- Current offers for TikTok include bids from Project Liberty and content creator MrBeast.",
+      "keywords": [
+        "Trump",
+        "Musk",
+        "Ellison",
+        "TikTok",
+        "Oracle",
+        "ByteDance",
+        "divestiture",
+        "First Amendment",
+        "MrBeast"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-01-21T23:44:24.000Z"
+    },
+    {
+      "title": "Microsoft Allows OpenAI Access to Competitors' Compute Power",
+      "link": "https://www.theverge.com/2025/1/21/24349006/microsoft-openai-compute-partnership",
+      "author": "Kylie Robison",
+      "thumbnail": null,
+      "summary": "- Microsoft and OpenAI announced a revised partnership allowing OpenAI to access competitors' computing resources.\n- The new agreement modifies previous exclusivity, with Microsoft retaining a right of first refusal.\n- Microsoft's exclusive rights to OpenAI's tech for products like Copilot remain in place, and OpenAI's API stays exclusive to Azure.\n- This change comes after OpenAI expressed concerns over computing capacity lagging behind its needs.\n- The companies have faced challenges, including relationship strains following leadership changes at OpenAI.",
+      "keywords": [
+        "Microsoft",
+        "OpenAI",
+        "AI computing",
+        "partnership",
+        "cloud infrastructure",
+        "technology"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-21T23:29:47.000Z"
+    },
+    {
       "title": "OpenAI and Softbank are starting a $500 billion AI data center company",
       "link": "https://www.theverge.com/2025/1/21/24348816/openai-softbank-ai-data-center-stargate-project",
       "author": "Richard Lawler",
@@ -1129,52 +1176,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-19T19:54:32.000Z"
-    },
-    {
-      "title": "TikTok isn’t back in the App Store yet",
-      "link": "https://www.theverge.com/2025/1/19/24347340/tiktok-ban-app-store-google-play",
-      "author": "Emma Roth",
-      "thumbnail": null,
-      "summary": "- TikTok announced on Sunday that it’s in the process of restoring service but remains unavailable on the App Store and Google Play.\n- Users searching TikTok on the App Store see a message indicating the app isn't available in their region, while Google Play states downloads are paused due to US legal requirements.\n- TikTok has returned for some users in the US, attributing restoration to President Trump’s efforts, with no further comments from involved companies.",
-      "keywords": [
-        "TikTok",
-        "App Store",
-        "Google Play",
-        "US legal requirements",
-        "ByteDance",
-        "Trump",
-        "restoration of service"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-19T19:24:04.000Z"
-    },
-    {
-      "title": "TikTok is coming back online in the US",
-      "link": "https://www.theverge.com/2025/1/19/24347280/tiktok-ban-shutdown-ends",
-      "author": "Wes Davis",
-      "thumbnail": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1334/2400x1600/filters:focal(1020x667:1021x668):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25829976/STK051_TIKTOKBAN_B_CVirginia_B.jpg",
-      "summary": "- TikTok has announced it is \"in the process of restoring service\" in the US after a brief shutdown.\n- The service interruption lasted about half a day, aligning with a federal ban on the app.\n- Company thanks President Trump for providing clarity to service providers, allowing TikTok to operate for over 170 million Americans and support over 7 million small businesses.\n- Users can access TikTok via mobile and desktop web but the app is not available on iOS and Android app stores, which show messages regarding its unavailability.\n- The original shutdown was due to the impending federal ban, though there's been a shift in enforcement strategy under the Biden administration.",
-      "keywords": [
-        "TikTok",
-        "US",
-        "service restoration",
-        "Trump",
-        "app availability",
-        "social media ban",
-        "federal policy"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-19T17:32:48.000Z"
     }
   ]
 }
