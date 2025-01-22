@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Here’s the tech that could turn millions of Zigbee light bulbs into motion sensors with a single update",
+      "link": "https://www.theverge.com/2025/1/22/24348688/zigbee-ambient-sensing-philips-hue-ivani-sensify",
+      "author": "Jennifer Pattison Tuohy",
+      "thumbnail": null,
+      "summary": "- New ambient sensing technology called [Sensify](https://www.ivani.com/tech-bytes-news/zigbee-and-wireless-network-sensing) can turn mains-powered Zigbee devices into motion sensors.\n- Sensify requires just a firmware update, potentially affecting tens of millions of devices already in homes.\n- Philips Hue could be among the first to utilize this technology, as speculations have been ongoing regarding Zigbee sensing capabilities.\n- Sensify works by detecting disturbances in radio frequencies, needing at least three devices for effective motion detection.\n- The technology aims to enhance smart home automation, offering advantages in cost and scalability without needing extra hardware.",
+      "keywords": [
+        "Zigbee",
+        "motion sensors",
+        "smart home",
+        "Ambient sensing",
+        "Sensify",
+        "Philips Hue",
+        "Ivani"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 8,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-01-22T13:00:00.000Z"
+    },
+    {
       "title": "Google will let you control your Chromebook with your face",
       "link": "https://www.theverge.com/2025/1/22/24348966/google-chromeos-face-control-chromebooks-classroom-features-laptops",
       "author": "Antonio G. Di Benedetto",
@@ -1151,29 +1174,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-01-20T10:58:47.000Z"
-    },
-    {
-      "title": "Trump touts his plan to save TikTok during his victory rally",
-      "link": "https://www.theverge.com/2025/1/19/24347463/trump-plan-to-save-tiktok-from-ban",
-      "author": "Lauren Feiner",
-      "thumbnail": null,
-      "summary": "- At a victory rally, Trump proposed a plan to create a joint venture with the US to save TikTok from being banned.\n- The plan suggests the US government would own 50% of TikTok, raising First Amendment issues regarding content moderation.\n- Trump credited TikTok for helping him win over young voters and emphasized the need to keep jobs in the US instead of giving business to China.",
-      "keywords": [
-        "Trump",
-        "TikTok",
-        "joint venture",
-        "social media",
-        "youth vote",
-        "ByteDance",
-        "First Amendment"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-19T23:36:17.000Z"
     }
   ]
 }
