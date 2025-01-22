@@ -4,6 +4,27 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Researchers develop a way to power wearables through human skin",
+      "link": "https://techcrunch.com/2025/01/22/researchers-develop-a-way-to-power-wearables-through-human-skin/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Carnegie Mellon researchers have introduced a technology called [Power-Over-Skin](https://www.cs.cmu.edu/news/2025/power-over-skin) that allows electrical currents to travel through human skin to power devices.\n- This technology aims to support battery-free devices, including blood sugar monitors, pacemakers, and consumer wearables like smart glasses and fitness trackers.\n- The technology is currently in early stages, demonstrated with low-power electronics like LED earrings.",
+      "keywords": [
+        "wearables",
+        "human skin",
+        "battery-free devices",
+        "Power-Over-Skin",
+        "Carnegie Mellon"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 8,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-01-22T20:40:24.000Z"
+    },
+    {
       "title": "Samsung Unpacked: Samsung’s Galaxy S25 will support Content Credentials to identify AI-generated images",
       "link": "https://techcrunch.com/2025/01/22/samsung-unpacked-samsungs-galaxy-s25-will-support-content-credentials-to-identify-ai-generated-images/",
       "author": "Brian Heater",
@@ -1151,31 +1172,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-01-21T21:21:53.000Z"
-    },
-    {
-      "title": "Perplexity launches Sonar, an API for AI search",
-      "link": "https://techcrunch.com/2025/01/21/perplexity-launches-sonar-an-api-for-ai-search/",
-      "author": "Maxwell Zeff",
-      "thumbnail": null,
-      "summary": "- Perplexity launched an API service called Sonar, enabling integration of generative AI search tools into applications.\n- Sonar features real-time internet connections for more factual and authoritative answers, with two tiers: base Sonar and Sonar Pro.\n- Sonar is the cheapest AI search API available, with pricing options for developers based on searches and token usage.\n- Zoom is already implementing Sonar for real-time AI assistance in video calls, enhancing user experience without interruption.\n- Sonar Pro claims to outperform major competitors like Google and OpenAI on factual correctness benchmarks.\n- Perplexity recently raised $73.6 million, highlighting a growth strategy amid increasing competition in the AI space.",
-      "keywords": [
-        "Perplexity",
-        "Sonar",
-        "API",
-        "AI search",
-        "Zoom",
-        "generative AI",
-        "technology",
-        "software",
-        "startup"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-21T20:39:09.000Z"
     }
   ]
 }
