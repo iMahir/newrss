@@ -4,6 +4,52 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Here’s what Bambu will — and won’t — promise after its controversial 3D printer update",
+      "link": "https://www.theverge.com/2025/1/21/24349031/bambu-3d-printer-update-authentication-filament-subscription-lock-answers",
+      "author": "Sean Hollister",
+      "thumbnail": null,
+      "summary": "- Bambu Lab's recent firmware update introduces a new proprietary authentication mechanism, restricting third-party software access.\n- Users can still print via SD card or Bambu's cloud service, but remote control via third-party slicers requires a new app, Bambu Connect.\n- Bambu has committed to never requiring a subscription to control current printers or to restrict third-party filament usage.\n- A Developer Mode will be introduced, allowing local access without the new authentication, albeit with potential limitations.\n- Concerns arise about Bambu’s security, especially after hackers extracted sensitive data from their new app.\n- Bambu has been criticized for censorship and misleading statements about third-party collaborations.",
+      "keywords": [
+        "3D printing",
+        "Bambu Lab",
+        "firmware update",
+        "authentication",
+        "third-party access",
+        "Developer Mode",
+        "printer security"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-01-22T01:22:39.000Z"
+    },
+    {
+      "title": "Trump pardons Silk Road operator Ross Ulbricht",
+      "link": "https://www.theverge.com/2025/1/21/24349080/trump-pardon-silk-road-dark-web-drug-marketplace-ross-ulbricht",
+      "author": "Sarah Jeong",
+      "thumbnail": null,
+      "summary": "- On Tuesday, President Donald Trump issued a pardon to Ross Ulbricht, operator of the Silk Road marketplace.\n- Ulbricht had been serving a life sentence since 2015 for multiple charges including narcotics distribution.\n- The Silk Road was known for illicit trade including drugs and forged documents and was an early commercial use of Bitcoin.\n- Supporters argue Ulbricht's sentence was excessively harsh compared to similar offenders who received lighter sentences.\n- The judge considered deaths linked to drug purchases through the Silk Road in sentencing Ulbricht.\n- Ulbricht maintained his innocence, and evidence against him included files from his laptop seized by law enforcement.",
+      "keywords": [
+        "Trump",
+        "Ross Ulbricht",
+        "Silk Road",
+        "pardon",
+        "dark web",
+        "Bitcoin",
+        "drug marketplace"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-22T01:17:14.000Z"
+    },
+    {
       "title": "Trump says he’s open to Musk or Ellison buying TikTok",
       "link": "https://www.theverge.com/2025/1/21/24349011/trump-elon-musk-larry-ellison-oracle-tiktok-ban",
       "author": "Lauren Feiner",
@@ -1129,53 +1175,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-01-19T21:17:18.000Z"
-    },
-    {
-      "title": "TikTok’s service providers still risk billions in penalties for bringing it back online",
-      "link": "https://www.theverge.com/2025/1/19/24347325/tiktok-service-providers-penalties-apple-google-orcale-trump",
-      "author": "Lauren Feiner",
-      "thumbnail": null,
-      "summary": "- President-elect Trump cannot extend TikTok's ban deadline without risking penalties for service providers.\n- TikTok is banned until sold to a non-Chinese company; potential fines could reach $850 billion for providers like Apple and Google.\n- Trump's assurances to companies may not protect them from legal repercussions; Supreme Court enforcement could occur up to five years later.",
-      "keywords": [
-        "TikTok",
-        "Trump",
-        "penalties",
-        "service providers",
-        "ban",
-        "legal issues",
-        "Akamai",
-        "Oracle",
-        "ByteDance"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-19T20:54:08.000Z"
-    },
-    {
-      "title": "Instagram announces a blatant CapCut clone",
-      "link": "https://www.theverge.com/2025/1/19/24347358/instagram-edits-capcut-video-app-tiktok-ban",
-      "author": "Wes Davis",
-      "thumbnail": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1200x630/2400x1600/filters:focal(619x306:620x307):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25838280/edits_insta_app.png",
-      "summary": "- Instagram has launched a new video editing app called Edits, which aims to compete with CapCut.\n- The app will be available for preorder on the iOS App Store and launches on March 13, 2025.\n- Edits will provide tools like a live insights dashboard, green screens, and collaboration features for creators.",
-      "keywords": [
-        "Instagram",
-        "Edits",
-        "video editing",
-        "CapCut",
-        "TikTok",
-        "social media"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-19T19:54:32.000Z"
     }
   ]
 }
