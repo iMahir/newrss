@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Adobe Premiere Pro now lets you find video clips by describing them",
+      "link": "https://www.theverge.com/2025/1/22/24349299/adobe-premiere-pro-after-effects-media-intelligence-search",
+      "author": "Jess Weatherbed",
+      "thumbnail": null,
+      "summary": "- Premiere Pro updates include AI-powered visual recognition for searching video clips by descriptions.\n- Users can search with terms like “a person skating with a lens flare.”\n- Media intelligence AI recognizes objects, locations, camera angles, and metadata but does not detect audio or specific people.\n- New translation feature supports 17 languages with multiple caption tracks for editing.\n- Launched in the beta version for Creative Cloud or Premiere Pro subscribers.\n- After Effects now supports HDR monitoring and an updated caching system for better performance.\n- Canon’s C80 and C400 cameras supported for Frame.io’s Camera to Cloud integration, which needs a firmware update.",
+      "keywords": [
+        "Adobe Premiere Pro",
+        "AI recognition",
+        "video editing",
+        "media intelligence",
+        "translation feature",
+        "After Effects",
+        "HDR monitoring",
+        "Frame.io"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-22T14:00:00.000Z"
+    },
+    {
       "title": "Here’s the tech that could turn millions of Zigbee light bulbs into motion sensors with a single update",
       "link": "https://www.theverge.com/2025/1/22/24348688/zigbee-ambient-sensing-philips-hue-ivani-sensify",
       "author": "Jennifer Pattison Tuohy",
@@ -1150,30 +1174,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-20T11:59:39.000Z"
-    },
-    {
-      "title": "Oppo’s next foldable is about as thin as USB-C allows",
-      "link": "https://www.theverge.com/2025/1/20/24347690/oppo-find-n5-oneplus-open-2-thinnest-usb-c-ipx9",
-      "author": "Dominic Preston",
-      "thumbnail": null,
-      "summary": "- Oppo's upcoming Find N5 foldable is as thin as its USB-C port when unfolded.\n- Expected rebranding as OnePlus Open 2 for the US market.\n- Product manager Zhou Yibao shared images on Weibo highlighting its thickness, claiming it's the thinnest foldable yet, estimated at around 4mm.\n- The Find N5's thickness is compared to two Chinese yuan coins and a stack of four ID cards.\n- IPX9-rated for water resistance; tested against high-temperature, high-pressure jets.\n- Previous model, Find N3, was rebranded as OnePlus Open in the West, and similar marketing is anticipated for the Find N5.",
-      "keywords": [
-        "Oppo",
-        "Find N5",
-        "foldable phone",
-        "USB-C",
-        "OnePlus Open 2",
-        "water resistance",
-        "IPX9",
-        "technology"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 8,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-20T10:58:47.000Z"
     }
   ]
 }
