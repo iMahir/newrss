@@ -4,6 +4,102 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Coval evaluates AI voice and chat agents like self-driving cars",
+      "link": "https://techcrunch.com/2025/01/23/coval-evaluates-ai-voice-and-chat-agents-like-self-driving-cars/",
+      "author": "Brooke Hopkins",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/Coval_Screenshot_SentimentAnalysis-1.png?w=680",
+      "summary": "- Coval, founded by Brooke Hopkins, evaluates AI voice and chat agents similarly to self-driving cars.\n- The startup runs thousands of simulations to test agent performance for various tasks, providing metrics and customization options for companies.\n- In October 2024, Coval launched its product after strong demand and raised $3.3 million in a seed round led by MaC Venture Capital.",
+      "keywords": [
+        "Coval",
+        "AI agents",
+        "self-driving cars",
+        "Brooke Hopkins",
+        "startup",
+        "venture capital",
+        "simulation",
+        "tech industry"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-23T15:01:49.000Z"
+    },
+    {
+      "title": "Method is helping fintech companies like SoFi build repayment functionality into their apps",
+      "link": "https://techcrunch.com/2025/01/23/method-is-helping-fintech-companies-like-sofi-build-repayment-functionality-into-their-apps/",
+      "author": "Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/62826b55217ee3bdec81f9a5_illustration-152.png?w=680",
+      "summary": "- Method simplifies debt and repayment integration for fintech apps, aiming to overcome challenges such as screen-scraping APIs.\n- Founded by Jose Bethancourt, Marco del Carmen, and Mit Shah, who previously faced connectivity issues while building GradJoy.\n- Utilizes consumer credit access protections to aggregate debts and execute payments on behalf of users via simple API integration.\n- Supports 30 million account connections for 4 million users and has facilitated over $500 million in repayments.\n- Competes with vendors like Plaid and Spinwheel but aims to reduce friction by not requiring users to re-enter financial credentials.\n- Recently raised $41.5 million in Series B funding to continue product development and expansion efforts.",
+      "keywords": [
+        "fintech",
+        "repayment",
+        "debt management",
+        "Method",
+        "API",
+        "financial technology",
+        "credit",
+        "SoFi",
+        "funding"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-23T15:00:00.000Z"
+    },
+    {
+      "title": "Hugging Face claims its new AI models are the smallest of their kind",
+      "link": "https://techcrunch.com/2025/01/23/hugging-face-claims-its-new-ai-models-are-the-smallest-of-their-kind/",
+      "author": "Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/smoller_vlm_benchmarks.png?w=680",
+      "summary": "- Hugging Face has released two new AI models: SmolVLM-256M and SmolVLM-500M.\n- The models are designed for constrained devices and ideal for processing large datasets cheaply.\n- SmolVLM-256M has 256 million parameters and SmolVLM-500M has 500 million parameters.\n- Both models can describe images, analyze text, and answer questions about scanned documents.\n- Trained using 50 datasets and Docmatix captions, developed by Hugging Face's M4 team.\n- They outperform the larger Idefics 80B model on certain benchmarks.\n- Available for download under an Apache 2.0 license, implying unrestricted use.\n- Small models may exhibit flaws in complex reasoning tasks as per a study by Google DeepMind and others.",
+      "keywords": [
+        "AI models",
+        "Hugging Face",
+        "machine learning",
+        "image analysis",
+        "text processing",
+        "SmolVLM",
+        "ML benchmarks",
+        "multimodal AI"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-23T14:57:40.000Z"
+    },
+    {
+      "title": "Snap launches a new way to reward AR creators, rolls out student pricing for Spectacles",
+      "link": "https://techcrunch.com/2025/01/23/snap-launches-a-new-way-to-reward-ar-creators-rolls-out-student-pricing-for-spectacles/",
+      "author": "Aisha Malik",
+      "thumbnail": null,
+      "summary": "- Snap introduces a new \"Challenge Tags\" rewards program for AR developers to win cash prizes for their Lenses submissions.\n- The first challenge, themed \"humor\", runs until January 31, with prizes totaling $4,250.\n- Educational pricing for Spectacles includes a student discount, with subscriptions available at $49.50/month, down from $99.\n- Eligible students, teachers, and staff across several countries can access the discounted Spectacles.",
+      "keywords": [
+        "Snap",
+        "AR developers",
+        "Challenge Tags",
+        "Spectacles",
+        "student discount",
+        "educational pricing",
+        "augmented reality"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-23T14:53:51.000Z"
+    },
+    {
       "title": "Fundraise Up claims its AI can boost nonprofit donations",
       "link": "https://techcrunch.com/2025/01/23/fundraise-up-claims-its-ai-can-boost-nonprofit-donations/",
       "author": "Kyle Wiggers",
@@ -1079,98 +1175,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-01-22T16:33:40.000Z"
-    },
-    {
-      "title": "YouTube launches speed controls and high-quality audio tests for Premium users",
-      "link": "https://techcrunch.com/2025/01/22/youtube-premium/",
-      "author": "Ivan Mehta",
-      "thumbnail": null,
-      "summary": "- YouTube introduces new experimental features for Premium users, including high-quality audio at up to 256kbps.\n- Mobile users can now play videos at a speed of up to 4x and utilize picture-in-picture mode for Shorts.\n- Smart downloads for Shorts are being added to iOS, automatically downloading videos based on a good connection.\n- The 'Jump Ahead' feature is now available on the web, allowing users to skip to engaging parts of videos based on AI analysis.",
-      "keywords": [
-        "YouTube",
-        "Premium",
-        "high-quality audio",
-        "playback speed",
-        "picture-in-picture",
-        "smart downloads",
-        "Jump Ahead"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-01-22T16:00:00.000Z"
-    },
-    {
-      "title": "TechCrunch Disrupt 2025 tickets now on sale: Lowest rates ever",
-      "link": "https://techcrunch.com/2025/01/22/techcrunch-disrupt-2025-tickets-now-on-sale-lowest-rates-ever/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- TechCrunch Disrupt 2025 tickets are on sale with the lowest rates of the year available until January 31.\n- The event will take place from October 27–29 at Moscone West in San Francisco, featuring over 250 sessions and 200 discussions.\n- Attendees can register for 2-for-1 passes and super early bird rates, saving up to $1,100 before February 28.",
-      "keywords": [
-        "TechCrunch",
-        "Disrupt 2025",
-        "tickets",
-        "event",
-        "technology",
-        "venture capital",
-        "AI",
-        "networking"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-22T16:00:00.000Z"
-    },
-    {
-      "title": "Anthropic reportedly secures an additional $1B from Google",
-      "link": "https://techcrunch.com/2025/01/22/anthropic-reportedly-secures-an-additional-1b-from-google/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/06/YouTube-Thumb-Text-2-3.png?w=1024",
-      "summary": "- Anthropic raised approximately $1 billion from Google, increasing Google's total investment to roughly $3 billion.\n- Google had previously invested $2 billion in Anthropic in late 2024.\n- Anthropic plans to launch new AI models and features, including two-way voice chat and web access for its chatbot Claude, in 2025.\n- The company's ambitious plans include introducing a new AI system called the “Virtual Collaborator.”\n- Anthropic has raised a total of $14.7 billion to date.",
-      "keywords": [
-        "Anthropic",
-        "Google",
-        "AI investment",
-        "Dario Amodei",
-        "Virtual Collaborator",
-        "Claude",
-        "AI models",
-        "technology funding"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-22T15:45:11.000Z"
-    },
-    {
-      "title": "Conduent confirms outage was due to a cybersecurity incident",
-      "link": "https://techcrunch.com/2025/01/22/conduent-confirms-outage-was-due-to-a-cybersecurity-incident/",
-      "author": "Sean Collins",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/Conduent-Getty.jpg?w=1024",
-      "summary": "- U.S. government contractor Conduent confirmed outage caused by a cybersecurity incident.\n- Outage affected access to support payments for some U.S. residents.\n- Conduent spokesperson stated incident was contained and services restored; details on data exfiltration were not disclosed.",
-      "keywords": [
-        "Conduent",
-        "cybersecurity",
-        "outage",
-        "U.S. government contractor",
-        "tech services"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-01-22T15:33:55.000Z"
     }
   ]
 }
