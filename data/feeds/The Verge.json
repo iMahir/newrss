@@ -4,6 +4,95 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Google’s mobile search results are dropping the ‘breadcrumbs’ from URLs",
+      "link": "https://www.theverge.com/2025/1/23/24350305/google-mobile-search-result-url-breadcrumb-seo",
+      "author": "Umar Shakir",
+      "thumbnail": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1200x719/2400x1438/filters:focal(600x360:601x361):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25843826/google_bradcrumb.jpg",
+      "summary": "- Google changes display of URLs in mobile search results by removing breadcrumbs.\n- Previously, breadcrumbs indicated webpage hierarchy on mobile; now only the domain will be shown.\n- This change aims to improve usability on smaller screens, where breadcrumbs can get cut off.\n- Desktop search results will still display breadcrumbs as before.\n- Web developers can still influence how content appears in search results using structured data guidelines.",
+      "keywords": [
+        "Google",
+        "mobile search",
+        "breadcrumbs",
+        "SEO",
+        "URL structure"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-23T17:06:14.000Z"
+    },
+    {
+      "title": "Google is giving IT more control over your Chrome extensions",
+      "link": "https://www.theverge.com/2025/1/23/24350178/google-chrome-extensions-admin-enterprise-controls",
+      "author": "Jess Weatherbed",
+      "thumbnail": null,
+      "summary": "- Google launches new features for IT to manage Chrome extensions better.\n- A curated Chrome Web Store experience allows pre-approved extensions for Enterprise workspaces.\n- Companies can promote vetted add-ons and customize the Chrome Web Store UI.\n- The initiative aims to prevent installation of harmful browser extensions following recent phishing campaigns.\n- Future updates will include remote removal of extensions and custom messages for compliance on extension pages.",
+      "keywords": [
+        "Google",
+        "Chrome",
+        "IT administration",
+        "cybersecurity",
+        "browser extensions",
+        "Enterprise",
+        "phishing"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-23T17:00:00.000Z"
+    },
+    {
+      "title": "Dasung’s new portable E Ink monitor has a 60Hz refresh rate",
+      "link": "https://www.theverge.com/2025/1/23/24350334/dasung-paperlike-103-display-monitor-screen-e-ink-60hz",
+      "author": "Andrew Liszewski",
+      "thumbnail": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1692x1128/2400x1600/filters:focal(846x564:847x565):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25843770/dasung1.jpg",
+      "summary": "- Dasung has launched the Paperlike 103, its first E Ink monitor with a 60Hz refresh rate.\n- The monitor has a 10.3-inch display with a resolution of 1,872 x 1,404 pixels and 227ppi.\n- Priced at around $274 (1,999 yuan), it is currently available through Jing Dong but not globally yet.\n- Offers features like less eye strain, low power consumption, and smooth document scrolling and video playback.\n- Made of aluminum alloy, 5mm thick, and connects via USB-C for power and data.\n- Six physical buttons allow users to adjust settings like brightness and color temperature for user comfort.",
+      "keywords": [
+        "E Ink",
+        "monitor",
+        "Dasung",
+        "Paperlike 103",
+        "60Hz refresh rate",
+        "portable display",
+        "USB-C"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-01-23T16:25:53.000Z"
+    },
+    {
+      "title": "CNN is building a new streaming service nearly three years after killing its last one",
+      "link": "https://www.theverge.com/2025/1/23/24350287/cnn-new-streaming-service-killing-last-one",
+      "author": "Emma Roth",
+      "thumbnail": null,
+      "summary": "- CNN is working on a new streaming service, similar to the previously shut down CNN Plus.\n- The service aims to allow viewers to stream news programming on various devices.\n- An internal memo indicates there is high demand for this service globally.\n- CNN will also announce a lifestyle-oriented digital product and shift majorly to digital video.\n- The company plans to lay off approximately 200 employees, about six percent of its workforce, but does not expect overall headcount to decline significantly due to a $70 million investment from Warner Bros. Discovery.\n- This initiative reflects the broader industry trend of linear TV networks moving towards streaming services.",
+      "keywords": [
+        "CNN",
+        "streaming service",
+        "digital video",
+        "news programming",
+        "CNN Plus",
+        "Warner Bros. Discovery"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-23T16:16:32.000Z"
+    },
+    {
       "title": "Matter will be better in 2025 — say the people who make it",
       "link": "https://www.theverge.com/24349390/matter-csa-thread-group-wifi-alliance-interview-2025",
       "author": "Jennifer Pattison Tuohy",
@@ -1076,101 +1165,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-01-22T15:43:25.000Z"
-    },
-    {
-      "title": "Plex starts testing its big redesign on Apple TV",
-      "link": "https://www.theverge.com/2025/1/22/24349408/plex-new-app-design-apple-tv-preview",
-      "author": "Chris Welch",
-      "thumbnail": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2048x1152/2400x1350/filters:focal(1024x576:1025x577):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25842061/Rentals_Gladiator_scaled.jpg",
-      "summary": "- Plex has expanded its app redesign preview to include tvOS after a mobile launch in November.\n- Users can opt into the preview, while the regular app remains available.\n- The new experience highlights live TV and on-demand rentals but allows customization.\n- Users can now view and comment on reviews, enhancing social interaction on the platform.\n- HEVC hardware encoding becomes available to Plex Plus customers for better video quality.",
-      "keywords": [
-        "Plex",
-        "Apple TV",
-        "App Redesign",
-        "Streaming",
-        "HEVC Encoding",
-        "Social Features"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-22T15:07:09.000Z"
-    },
-    {
-      "title": "Silo’s season 2 finale was excellent, but the show is running out of time",
-      "link": "https://www.theverge.com/24349341/silo-season-2-finale-review",
-      "author": "Andrew Webster",
-      "thumbnail": null,
-      "summary": "- The season 2 finale of *Silo* was highly praised for its dramatic twists and storytelling.\n- Season 2 explored two main threads: Juliette's journey outside her silo and rising tensions within Silo 18.\n- The finale teased a look at the world before the silos and hinted at a larger narrative.\n- The show, based on Hugh Howey's trilogy, is under time pressure with only two seasons left to cover complex storylines from the remaining books.\n- There are concerns about pacing and whether the show can effectively tell the entire story within the remaining episodes.",
-      "keywords": [
-        "Silo",
-        "Apple TV Plus",
-        "season finale",
-        "postapocalyptic",
-        "Hugh Howey",
-        "Wool",
-        "Shift",
-        "Dust"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-22T15:00:00.000Z"
-    },
-    {
-      "title": "Sega is the next game company asking you to make an account",
-      "link": "https://www.theverge.com/2025/1/22/24349351/sega-account-game-bonuses-news-promotions-events",
-      "author": "Wes Davis",
-      "thumbnail": null,
-      "summary": "- Sega launched a new cross-platform game-linking service called [Sega Accounts](https://sega-account.com/auth/content/notice/01JJ1QNG67ZW54BR35EAZRAJ7Y).\n- The service promises bonuses for specific games and additional features in the future.\n- Players can link accounts from Nintendo, PlayStation, Xbox, and Steam, with Epic Games support arriving soon.\n- A bonus DLC for a new costume in *Like a Dragon: Pirate Yakuza in Hawaii*, releasing on February 20th, can be obtained by creating an account.\n- Sega is considering future service integrations, possibly including a subscription service similar to Game Pass or PlayStation Plus.",
-      "keywords": [
-        "Sega",
-        "video games",
-        "accounts",
-        "game-linking",
-        "DLC",
-        "cross-platform",
-        "subscription service"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-01-22T14:59:33.000Z"
-    },
-    {
-      "title": "Trump’s First 100 Days and Its Impact on the Tech Industry",
-      "link": "https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news",
-      "author": "Nilay Patel",
-      "thumbnail": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25646628/STK485_STK414_AI_SAFETY_D.jpg",
-      "summary": "- Trump has indicated that ByteDance will be forced to sell TikTok or face shutdown again.\n- He pardoned Ross Ulbricht, who ran the Silk Road, after serving a life sentence.\n- OpenAI and Softbank announced a $500 billion AI data center initiative called The Stargate Project.\n- A federal website on reproductive rights was taken offline following Trump's inauguration.\n- Trump rescinded Biden-era executive orders on AI safety and electric vehicle policies.\n- Brendan Carr was officially appointed chair of the FCC, influencing tech and media regulations.\n- Trump signed an order delaying TikTok's requirement to spin off from ByteDance by 75 days.",
-      "keywords": [
-        "Trump",
-        "technology",
-        "TikTok",
-        "Silk Road",
-        "AI",
-        "OpenAI",
-        "FCC",
-        "executive orders",
-        "reproductive rights",
-        "electric vehicles"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-22T14:30:00.000Z"
     }
   ]
 }
