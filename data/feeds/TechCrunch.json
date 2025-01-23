@@ -4,6 +4,31 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "African fintech Moniepoint gets Visa backing, plans to work on contactless payments",
+      "link": "https://techcrunch.com/2025/01/23/african-fintech-moniepoint-gets-visa-backing/",
+      "author": "Tage Kene-Okafor",
+      "thumbnail": null,
+      "summary": "- Visa invests over $10 million in Moniepoint to drive financial inclusion for SMEs in Africa.\n- Moniepoint's Series C funding exceeds $120 million with $110 million previously announced.\n- The fintech processes over 1 billion transactions monthly, with total payment volumes reaching $22 billion.\n- Plans to introduce contactless payments and expand transaction capabilities in Nigeria and beyond.\n- Visa aims to digitize payments for SMEs and increase its share in Nigeria’s card market.",
+      "keywords": [
+        "Moniepoint",
+        "Visa",
+        "fintech",
+        "Africa",
+        "contactless payments",
+        "SMEs",
+        "investment",
+        "digital payments",
+        "Nigeria"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-23T12:01:26.000Z"
+    },
+    {
       "title": "OpenAI may preview its agent tool for users on the $200 per month Pro plan",
       "link": "https://techcrunch.com/2025/01/23/openais-agent-tool-will-be-available-to-users-paying-200-per-month-for-pro/",
       "author": "Romain Dillet",
@@ -1136,28 +1161,6 @@
         "impact": 8,
         "novelty": 6,
         "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-22T14:00:00.000Z"
-    },
-    {
-      "title": "Postman launches an AI agent builder on top of its API platform",
-      "link": "https://techcrunch.com/2025/01/22/postman-launches-an-ai-agent-builder-on-top-of-its-api-platform/",
-      "author": "Frederic Lardinois",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/GIF-Animation.gif",
-      "summary": "- Postman announces an AI agent builder that integrates large language models with its API platform.\n- The platform includes a visual editor targeted at non-developers for building and testing AI agents.\n- Postman aims to enhance API interaction for various user types, as API connections are crucial for AI functionality.\n- The new service allows users to create AI agents that interact with APIs from an extensive API hub contributed by over 18,000 companies.\n- Features will include tools for testing and evaluation of AI prompts across supported models like OpenAI and Google's Gemini.\n- The focus is currently on back-end operations, with future plans to evolve interaction modalities.",
-      "keywords": [
-        "Postman",
-        "AI agent builder",
-        "API platform",
-        "large language models",
-        "no-code development",
-        "developer experience"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
       },
       "pubDate": "2025-01-22T14:00:00.000Z"
     }
