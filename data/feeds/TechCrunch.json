@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "JetBrains launches Junie, a new AI coding agent for its IDEs",
+      "link": "https://techcrunch.com/2025/01/23/jetbrains-launches-junie-a-new-ai-coding-agent-for-its-ides/",
+      "author": "Frederic Lardinois",
+      "thumbnail": null,
+      "summary": "- JetBrains launched a new AI coding agent named [Junie](https://www.jetbrains.com/junie/) for its IDEs.\n- Junie is designed to handle routine development tasks and understand existing projects for feature extensions.\n- It scored 53.6% on the SWEBench Verified benchmark of 500 developer tasks, which is considered promising, though lower than top competitors.\n- The service is tightly integrated with JetBrains IDEs, maintains human control, and aims to improve code quality.\n- Currently in an early access program, Junie is available only on Linux and Mac for IntelliJ IDEA Ultimate and PyCharm Professional, with WebStorm support coming soon.",
+      "keywords": [
+        "JetBrains",
+        "Junie",
+        "AI coding agent",
+        "IDE",
+        "software development",
+        "automation",
+        "programming tools"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-23T22:10:03.000Z"
+    },
+    {
       "0": "{",
       "1": "\"",
       "2": "t",
@@ -1887,30 +1910,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-01-22T22:18:56.000Z"
-    },
-    {
-      "title": "Scale AI is facing a third worker lawsuit in about a month",
-      "link": "https://techcrunch.com/2025/01/22/scale-ai-is-facing-a-third-worker-lawsuit-in-about-a-month/",
-      "author": "Charles Rollet",
-      "thumbnail": null,
-      "summary": "- Scale AI is facing its third lawsuit regarding labor practices, specifically over psychological trauma from reviewing disturbing content.\n- The latest class action complaint was filed on January 17, 2025, in California concerning psychological harms allegedly suffered by six workers.\n- Plaintiffs claim they were misled about job expectations and faced retaliation when seeking mental health help, leading to severe mental health issues such as PTSD.\n- Previous lawsuits included allegations of wage violations and misclassification as contractors.\n- Scale AI's spokesperson claims the company complies with laws and has safeguards in place to protect workers.",
-      "keywords": [
-        "Scale AI",
-        "lawsuit",
-        "labor practices",
-        "psychological trauma",
-        "contractors",
-        "AI training",
-        "wage violation",
-        "misclassification"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-22T22:00:00.000Z"
     }
   ]
 }
