@@ -4,6 +4,72 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Anthropic’s new Citations feature aims to reduce AI errors",
+      "link": "https://techcrunch.com/2025/01/23/anthropics-new-citations-feature-aims-to-reduce-ai-errors/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Anthropic introduced a new feature called Citations to enhance its AI models' accuracy by referencing source documents.\n- Citations is available in Anthropic’s API and Google’s Vertex AI platform.\n- The feature helps in document summarization, Q&A, and customer support by providing detailed references.\n- Currently, Citations is limited to Claude 3.5 Sonnet and Claude 3.5 Haiku models, and may incur charges based on document length.",
+      "keywords": [
+        "Anthropic",
+        "Citations",
+        "AI features",
+        "Claude",
+        "machine learning",
+        "document referencing",
+        "Google Vertex AI"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-23T20:53:35.000Z"
+    },
+    {
+      "title": "Fitbit fined $12M over Ionic smartwatch burns",
+      "link": "https://techcrunch.com/2025/01/23/fitbit-fined-12m-over-ionic-smartwatch-burns/",
+      "author": "Brian Heater",
+      "thumbnail": null,
+      "summary": "- Fitbit has been fined $12.25 million over burn hazards related to its Ionic smartwatch.\n- The issue first arose in 2018 and continued through 2020, leading to a recall in March 2022.\n- A total of 115 reports of overheating batteries were made, with 78 individuals suffering burns, including two third-degree burns.\n- Fitbit failed to report the hazard immediately to the CPSC, despite having evidence of potential risks.\n- The settlement requires Fitbit to submit annual reports and maintain compliance protocols with the Consumer Product Safety Act.",
+      "keywords": [
+        "Fitbit",
+        "Ionic smartwatch",
+        "burn hazard",
+        "CPSC",
+        "penalty",
+        "consumer safety"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-23T20:38:52.000Z"
+    },
+    {
+      "title": "Threads rolls out a post scheduler, ‘markup’ feature, and more",
+      "link": "https://techcrunch.com/2025/01/23/threads-rolls-out-a-post-scheduler-markup-feature-and-more/",
+      "author": "Sarah Perez",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/474176875_573854108884305_7124548775465031603_n.jpg?w=680",
+      "summary": "- Instagram Threads introduces a post scheduler and enhanced metrics in its Insights dashboard.\n- Users can now track views, follower demographics, interactions, and more over a specified time period.\n- A new 'markup' feature allows users to draw on reshared posts with creative tools like a highlighter or arrow, aiming to differentiate Threads from competitors.",
+      "keywords": [
+        "Threads",
+        "Instagram",
+        "post scheduler",
+        "markup feature",
+        "social media tools"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-01-23T20:23:18.000Z"
+    },
+    {
       "title": "Tom Brady’s Autograph merges with digital fitness company Future",
       "link": "https://techcrunch.com/2025/01/23/tom-bradys-autograph-merges-with-digital-fitness-company-future/",
       "author": "Dominic-Madori Davis",
@@ -1109,73 +1175,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-22T21:37:17.000Z"
-    },
-    {
-      "title": "AngelList, CoinList partner to help crypto startups raise and manage funds",
-      "link": "https://techcrunch.com/2025/01/22/angellist-coinlist-partner-to-help-crypto-startups-raise-and-manage-funds/",
-      "author": "Mary Ann Azevedo",
-      "thumbnail": null,
-      "summary": "- AngelList and CoinList are launching Crypto SPVs (Special Purpose Vehicles) and RUVs (Roll-Up Vehicles) to assist crypto startups in raising capital.\n- Users can fund Crypto SPVs in stablecoins with a current $0 fee; USDC is emphasized for easier transactions for crypto investors.\n- This initiative allows investors to receive tokens instead of cash, aligning with the crypto ethos of ownership and stakeholder participation.\n- Crypto Roll-Up Vehicles help startups manage investments and compliance efficiently by simplifying documentation processes with multiple angel investors.",
-      "keywords": [
-        "AngelList",
-        "CoinList",
-        "crypto startups",
-        "fundraising",
-        "investment vehicles",
-        "stablecoins",
-        "USDC",
-        "Roll-Up Vehicles",
-        "special purpose vehicles"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-22T21:25:22.000Z"
-    },
-    {
-      "title": "Samsung teased an extra-thin S25 model at Unpacked",
-      "link": "https://techcrunch.com/2025/01/22/samsung-unpacked-samsung-teased-an-extra-thin-s25-model-at-unpacked/",
-      "author": "Brian Heater",
-      "thumbnail": null,
-      "summary": "- Samsung revealed an extra-thin version of its S25 flagship, called the Galaxy S25 Edge, at the recent Unpacked event.\n- The S25 Edge is expected to be thinner than the standard S25, with early rumors suggesting a thickness of 6.4 mm.\n- Detailed specifications like pricing and availability were not disclosed, and the S25 Edge may affect preorders for the S25, set to release on February 7.",
-      "keywords": [
-        "Samsung",
-        "Galaxy S25",
-        "Unpacked",
-        "smartphones",
-        "technology"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-22T21:25:11.000Z"
-    },
-    {
-      "title": "Researchers develop a way to power wearables through human skin",
-      "link": "https://techcrunch.com/2025/01/22/researchers-develop-a-way-to-power-wearables-through-human-skin/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Carnegie Mellon researchers have introduced a technology called [Power-Over-Skin](https://www.cs.cmu.edu/news/2025/power-over-skin) that allows electrical currents to travel through human skin to power devices.\n- This technology aims to support battery-free devices, including blood sugar monitors, pacemakers, and consumer wearables like smart glasses and fitness trackers.\n- The technology is currently in early stages, demonstrated with low-power electronics like LED earrings.",
-      "keywords": [
-        "wearables",
-        "human skin",
-        "battery-free devices",
-        "Power-Over-Skin",
-        "Carnegie Mellon"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 8,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-01-22T20:40:24.000Z"
     }
   ]
 }
