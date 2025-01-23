@@ -1,5 +1,101 @@
 [
   {
+    "title": "OpenAI Introduces Operator AI Agent with Extended Data Retention Policy",
+    "id": "1lb97mg04wa9cd",
+    "summary": "* OpenAI announced a research preview of [Operator](https://openai.com/index/computer-using-agent/), an AI agent that can browse the web and perform tasks.\n* Powered by the Computer-Using Agent (CUA), Operator combines GPT-4o’s vision and reasoning capabilities.\n* Trained to interact with user interfaces, Operator can complete tasks and adaptively self-correct.\n* Available only to OpenAI “Pro” tier subscribers for $200 a month, with plans to expand access to other subscription tiers.\n* Working with companies like [DoorDash](https://techcrunch.com/2025/01/23/openai-launches-operator-an-ai-agent-that-performs-tasks-autonomously/) and [Instacart](https://techcrunch.com/2025/01/23/openai-launches-operator-an-ai-agent-that-performs-tasks-autonomously/) to ensure compliance with terms of service agreements.\n* OpenAI may store chats and screenshots from its Operator AI tool for up to 90 days, even after deletion by users.\n* The retention policy aims to prevent misuse and enhance fraud monitoring.\n* Operator can autonomously perform tasks like booking travel and shopping, releasing in a paid research preview.\n* Users are advised that screenshots may be accessed by authorized personnel for abuse investigations and legal matters.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 7,
+      "novelty": 6.5,
+      "longTermSignificance": 7.5
+    },
+    "keywords": [
+      "openai",
+      "ai agent",
+      "operator",
+      "computer-using agent",
+      "cua",
+      "gpt-4o",
+      "automation",
+      "web tasks",
+      "ai tools",
+      "data retention",
+      "privacy concerns",
+      "chatgpt"
+    ],
+    "sources": [
+      {
+        "title": "OpenAI’s new Operator is a step into AI’s agentic future",
+        "link": "https://www.fastcompany.com/91266338/openais-new-operator-is-a-step-into-ais-agentic-future?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
+      },
+      {
+        "title": "OpenAI says it may store deleted Operator data for up to 90 days",
+        "link": "https://techcrunch.com/2025/01/23/openai-says-it-may-store-deleted-operator-data-for-up-to-90-days/"
+      }
+    ],
+    "lastUpdated": "2025-01-23T22:10:31.564Z"
+  },
+  {
+    "title": "Here are the best AirPods deals you can get right now",
+    "id": "1yyjzvg129z08f",
+    "summary": "- Discounts available on Apple’s AirPods lineup including AirPods Max, AirPods 4, and AirPods Pro.\n- The new AirPods 4 feature better sound, clear voice calls, and comfortable design, priced at $129 (standard) and $179 (noise-canceling).\n- Active Noise Cancellation version of AirPods 4 currently discounted to $168.99 at Amazon.\n- AirPods Pro (second-gen) now available for $199, improved sound quality and noise cancellation.\n- AirPods Max launched with USB-C charging, currently on sale for $529 at Amazon and $399.99 for the first-gen at Best Buy.",
+    "thumbnails": [
+      "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x2400/filters:focal(941x645:942x646):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25623449/DSCF0031.jpg"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 5
+    },
+    "keywords": [
+      "AirPods",
+      "Apple",
+      "deals",
+      "discounts",
+      "AirPods 4",
+      "AirPods Pro",
+      "AirPods Max"
+    ],
+    "sources": [
+      {
+        "title": "Here are the best AirPods deals you can get right now",
+        "link": "https://www.theverge.com/21302051/best-apple-airpods-deals"
+      }
+    ],
+    "lastUpdated": "2025-01-23T22:10:31.563Z"
+  },
+  {
+    "title": "Everyone wants MrBeast on their TikTok bid, but he hasn’t committed yet",
+    "id": "0buvjhc0wehgum",
+    "summary": "- MrBeast (Jimmy Donaldson) is in discussions regarding multiple bids for TikTok’s U.S. operations.\n- CEO Jesse Tinsley claims MrBeast is part of an all-cash bid he is leading, but MrBeast has not made any exclusive commitments.\n- Frank McCourt leads a $20 billion bid and asserts MrBeast's involvement, but no official agreement has been made.\n- MrBeast has earned $85 million in 2024 and his celebrity status appeals to multiple bidders looking to enhance their proposals.\n- Other potential bidders include Perplexity and Oracle, but MrBeast has not publicly confirmed his decision yet.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "MrBeast",
+      "TikTok",
+      "bids",
+      "business",
+      "celebrity",
+      "investment",
+      "Jesse Tinsley",
+      "Frank McCourt"
+    ],
+    "sources": [
+      {
+        "title": "Everyone wants MrBeast on their TikTok bid, but he hasn’t committed yet",
+        "link": "https://techcrunch.com/2025/01/23/everyone-wants-mrbeast-on-their-tiktok-bid-but-he-hasnt-committed-yet/"
+      }
+    ],
+    "lastUpdated": "2025-01-23T22:10:31.563Z"
+  },
+  {
     "title": "Bill Gates’ nuclear energy startup inks new data center deal",
     "id": "0itrk711b12o19",
     "summary": "- TerraPower, founded by Bill Gates, has partnered with Sabey Data Centers to deploy nuclear energy in data centers.\n- The collaboration aims to explore new nuclear power plants in Texas and the Rocky Mountain region.\n- TerraPower's Natrium reactor design is the only advanced nuclear technology with a pending construction permit application in the U.S.\n- The company expects its demonstration project in Wyoming to be operational by 2030.\n- Tech companies are increasingly turning to nuclear energy to meet the power demands of AI data centers, with notable developments from Microsoft, Google, and Amazon.",
@@ -541,36 +637,6 @@
       {
         "title": "Subaru Security Vulnerability Exposed Millions of Cars to Tracking Risks",
         "link": "https://www.fastcompany.com/91266251/subaru-security-vulnerability-exposed-millions-of-cars-to-tracking-risks?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
-      }
-    ],
-    "lastUpdated": "2025-01-23T20:12:31.942Z"
-  },
-  {
-    "title": "OpenAI’s new Operator is a step into AI’s agentic future",
-    "id": "1lb97mg04wa9cd",
-    "summary": "* OpenAI announced a research preview of [Operator](https://openai.com/index/computer-using-agent/), an AI agent that can browse the web and perform tasks.\n* Powered by the Computer-Using Agent (CUA), Operator combines GPT-4o’s vision and reasoning capabilities.\n* Trained to interact with user interfaces, Operator can complete tasks and adaptively self-correct.\n* Available only to OpenAI “Pro” tier subscribers for $200 a month, with plans to expand access to other subscription tiers.\n* Working with companies like [DoorDash](https://techcrunch.com/2025/01/23/openai-launches-operator-an-ai-agent-that-performs-tasks-autonomously/) and [Instacart](https://techcrunch.com/2025/01/23/openai-launches-operator-an-ai-agent-that-performs-tasks-autonomously/) to ensure compliance with terms of service agreements.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 8,
-      "longTermSignificance": 9
-    },
-    "keywords": [
-      "OpenAI",
-      "AI agent",
-      "Operator",
-      "Computer-Using Agent",
-      "CUA",
-      "GPT-4o",
-      "automation",
-      "web tasks",
-      "AI tools"
-    ],
-    "sources": [
-      {
-        "title": "OpenAI’s new Operator is a step into AI’s agentic future",
-        "link": "https://www.fastcompany.com/91266338/openais-new-operator-is-a-step-into-ais-agentic-future?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
       }
     ],
     "lastUpdated": "2025-01-23T20:12:31.942Z"
