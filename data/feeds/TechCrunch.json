@@ -4,6 +4,79 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Android 16’s first beta version brings iOS-style live notifications",
+      "link": "https://techcrunch.com/2025/01/23/android-16s-first-beta-version-brings-ios-style-live-notifications/",
+      "author": "Ivan Mehta",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/Screenshot-2025-01-23-at-5.26.34PM.jpg?w=680",
+      "summary": "- Google released the first public beta for Android 16 on Thursday, following two developer beta versions last year.\n- New features include live updates on the lock screen, an Advanced Professional Video (APV) codec for high-quality video, and tools for responsive app design.\n- The live updates feature allows developers to push real-time updates, similar to Apple’s Live Activities.\n- APV codec offers lossless quality and supports high bitrates for 2K, 4K, and 8K footage, enhancing video recording and editing.\n- Android 16 introduces new accessibility features such as mandatory field indicators in APIs.\n- Google aims to expedite the Android update cycle, targeting a final release in Q2 2025.",
+      "keywords": [
+        "Android 16",
+        "Google",
+        "iOS",
+        "live notifications",
+        "video codec",
+        "APV",
+        "updates",
+        "accessibility"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-23T19:00:00.000Z"
+    },
+    {
+      "title": "Substack introduces a $20M funding guarantee to entice creators to migrate to its platform",
+      "link": "https://techcrunch.com/2025/01/23/substack-introduces-a-20m-funding-guarantee-to-entice-creators-to-migrate-to-its-platform/",
+      "author": "Lauren Forristal",
+      "thumbnail": null,
+      "summary": "- Substack launched its Creator Accelerator Fund, providing a $20 million funding guarantee for creators transitioning to its platform.\n- The fund ensures creators retain all existing revenue during the move, addressing concerns about income stability.\n- Unlike other platforms that charge fees, Substack takes a 10% cut of revenue and offers assistance with migration and business strategies.",
+      "keywords": [
+        "Substack",
+        "Creator Accelerator Fund",
+        "funding guarantee",
+        "creators",
+        "platform migration",
+        "revenue",
+        "newsletter",
+        "financial stability"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-23T18:59:00.000Z"
+    },
+    {
+      "title": "X sees a jump in consumer spending on mobile, despite decline in daily active users",
+      "link": "https://techcrunch.com/2025/01/23/x-sees-a-jump-in-consumer-spending-on-mobile-despite-decline-in-daily-active-users/",
+      "author": "Sarah Perez",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/page-1.png?w=680",
+      "summary": "- X's in-app revenue grew 76.3% year-over-year, reaching $13.4 million from January 1-20, 2025.\n- Daily active users decreased by approximately 13% from January 2024 to January 2025.\n- Competing apps Bluesky and Instagram Threads saw user growth of over 495% and 170%, respectively.\n- The growth in consumer spending may be attributed to features like the xAI Grok chatbot, launched in late 2024.\n- In the U.S., consumer spending on the X app also increased by 61.4% year-over-year, from $4.4 million to $7.1 million.",
+      "keywords": [
+        "consumer spending",
+        "mobile apps",
+        "daily active users",
+        "X app",
+        "in-app purchases",
+        "revenue growth",
+        "Bluesky",
+        "Threads",
+        "Grok AI"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-23T18:43:22.000Z"
+    },
+    {
       "title": "Canoo Craters and Trump Comes for EVs",
       "link": "https://techcrunch.com/2025/01/23/canoo-craters-and-trump-comes-for-evs/",
       "author": null,
@@ -1105,75 +1178,6 @@
         "impact": 9,
         "novelty": 7,
         "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-22T18:00:00.000Z"
-    },
-    {
-      "title": "Samsung Unpacked: The Samsung Galaxy S25’s side button fires up Google Gemini",
-      "link": "https://techcrunch.com/2025/01/22/samsung-unpacked-the-samsung-galaxy-s25s-side-button-fires-up-google-gemini/",
-      "author": "Brian Heater",
-      "thumbnail": null,
-      "summary": "- Samsung announced new features for the Galaxy S25, including easier access to Google Gemini via the side button.\n- The update follows the struggle with Samsung's Bixby and the replacement of Google Home by Gemini on Android.\n- The Galaxy S25 features improved AI capabilities powered by the Snapdragon 8 Elite chip and offers cross-app functionality with Google apps.\n- Preorders for the Galaxy S25 line start now, with shipping set for February 7, 2025.",
-      "keywords": [
-        "Samsung",
-        "Galaxy S25",
-        "Google Gemini",
-        "mobile AI",
-        "smart assistant",
-        "Bixby",
-        "Snapdragon 8 Elite",
-        "preorder",
-        "February 7, 2025"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-22T18:00:00.000Z"
-    },
-    {
-      "title": "Samsung Unpacked: Google makes Circle to Search more helpful",
-      "link": "https://techcrunch.com/2025/01/22/samsung-unpacked-google-makes-circle-to-search-more-helpful/",
-      "author": "Aisha Malik",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/Circle-to-Search-AI-Overview-GIF.gif?w=383",
-      "summary": "- Google announced updates to Circle to Search at [Samsung Unpacked 2025](https://techcrunch.com/storyline/samsung-unpacked-2025-live-updates-galaxy-s25-new-ai-features-and-more/).\n- Circle to Search allows users to search information using gestures like circling and highlighting.\n- New AI Overviews expand to visual results without needing additional text.\n- Users can circle items, such as artwork, for AI-generated information and links.\n- Functionality is rolling out on all Android devices.",
-      "keywords": [
-        "Samsung Unpacked 2025",
-        "Google",
-        "Circle to Search",
-        "AI Overviews",
-        "Android updates",
-        "gesture-based search"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-22T18:00:00.000Z"
-    },
-    {
-      "title": "Samsung Unpacked 2025: Samsung Galaxy S25 line compared",
-      "link": "https://techcrunch.com/2025/01/22/samsung-unpacked-2025-samsung-galaxy-s25-line-compared/",
-      "author": "Brian Heater",
-      "thumbnail": null,
-      "summary": "- Samsung announced the Galaxy S25, S25+, and S25 Ultra during Samsung Unpacked 2025 on January 22, 2025.\n- The devices focus on AI enhancements, utilizing Google's Gemini platform.\n- Preorders for all models began immediately, with shipping set for February 7, 2025.\n- Galaxy S25 features: 6.2-inch FHD+, Qualcomm Snapdragon 8 Elite, 4,000 mAh battery, starting at $800.\n- Galaxy S25+ features: 6.7-inch QHD+, Qualcomm Snapdragon 8 Elite, 4,900 mAh battery, starting at $1,000.\n- Galaxy S25 Ultra features: 6.9-inch QHD+, 200MP rear camera, 5,000 mAh battery, starting at $1,300.",
-      "keywords": [
-        "Samsung",
-        "Galaxy S25",
-        "Unpacked 2025",
-        "smartphones",
-        "AI features",
-        "technology"
-      ],
-      "scores": {
-        "scale": 9,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
       },
       "pubDate": "2025-01-22T18:00:00.000Z"
     }
