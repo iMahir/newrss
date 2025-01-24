@@ -4,6 +4,31 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "AI companies upped their federal lobbying spend in 2024 amid regulatory uncertainty",
+      "link": "https://techcrunch.com/2025/01/24/ai-companies-upped-their-federal-lobbying-spend-in-2024-amid-regulatory-uncertainty/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Companies significantly increased lobbying expenditures on AI issues at the federal level in 2024, with 648 companies involved compared to 458 in 2023, a 141% increase.\n- Key legislation supported includes the CREATE AI Act and the Advancement and Reliability Act.\n- OpenAI's lobbying expenses rose to $1.76 million in 2024 from $260,000 in 2023, while Anthropic increased its spending from $280,000 to $720,000.\n- Major legislative activity included over 90 AI-related bills considered by Congress and more than 700 proposed laws at the state level.\n- High-profile developments included California protecting voice artists and the veto of significant regulation by Governor Newsom.\n- The federal regulatory environment is uncertain, especially with actions taken by President Trump to curtail AI regulations.",
+      "keywords": [
+        "AI",
+        "lobbying",
+        "regulation",
+        "federal",
+        "2024",
+        "OpenAI",
+        "Anthropic",
+        "legislation",
+        "technology"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-01-24T21:03:13.000Z"
+    },
+    {
       "title": "ElevenLabs has raised a new round at $3B+ valuation led by ICONIQ Growth, sources say",
       "link": "https://techcrunch.com/2025/01/24/elevenlabs-has-raised-a-new-round-at-3b-valuation-led-by-iconiq-growth-sources-say/",
       "author": "Ingrid Lunden, Marina Temkin",
@@ -1885,29 +1910,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-23T18:05:00.000Z"
-    },
-    {
-      "title": "OpenAI launches Operator, an AI agent that performs tasks autonomously",
-      "link": "https://techcrunch.com/2025/01/23/openai-launches-operator-an-ai-agent-that-performs-tasks-autonomously/",
-      "author": "Maxwell Zeff",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/Home-screen-Travel.png?w=680",
-      "summary": "- OpenAI announced the launch of Operator, a general-purpose AI agent, during its first research preview.\n- Operator can control a web browser to automate tasks like booking travel and making reservations, starting with U.S. users on ChatGPT’s $200 Pro plan.\n- The AI agent is powered by a new model called the computer-using agent (CUA) and can interact with websites like a human, needing user confirmation for sensitive actions.",
-      "keywords": [
-        "OpenAI",
-        "AI agent",
-        "automation",
-        "ChatGPT",
-        "Operator",
-        "technology",
-        "artificial intelligence"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 9,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-23T18:00:00.000Z"
     }
   ]
 }
