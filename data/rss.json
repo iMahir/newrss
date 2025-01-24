@@ -1,5 +1,80 @@
 [
   {
+    "title": "Open Source Alternatives to Major Social Media Platforms Raise Funds on Kickstarter",
+    "id": "0l9c55q1nxwl4g",
+    "summary": "- NodeBB integrates with the [fediverse](https://techcrunch.com/2024/06/25/welcome-to-the-fediverse-your-guide-to-mastodon-threads-bluesky-and-more/), allowing forums to connect through decentralization.\n- The [ActivityPub](https://techcrunch.com/2024/06/25/all-threads-users-can-now-share-to-the-open-social-web-aka-the-fediverse/) protocol was implemented with funding from the [NLNet Foundation](https://nlnet.nl/commonsfund/).\n- New NodeBB forums will be federated automatically; existing forums can also connect to other ActivityPub-based platforms.\n- Over $58,000 raised on [Kickstarter](https://www.kickstarter.com/projects/pixelfed/pixelfed-foundation-2024-real-ethical-social-networks?ref=discovery_category&total_hits=55428&category_id=342) for open source apps Pixelfed, Loops, and Sup.\n- The Kickstarter campaign's goal is $1 million, focusing on user control and privacy.\n- Pixelfed has a growing user base of over 200,000, making it the second-largest server in the fediverse.",
+    "thumbnails": [
+      "https://techcrunch.com/wp-content/uploads/2025/01/loops-web.jpeg?w=680"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 7.25,
+      "novelty": 7,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "nodebb",
+      "fediverse",
+      "activitypub",
+      "forums",
+      "decentralized",
+      "social networking",
+      "open source",
+      "kickstarter",
+      "pixelfed",
+      "loops",
+      "sup",
+      "social media alternatives",
+      "daniel supernault",
+      "fundraising"
+    ],
+    "sources": [
+      {
+        "title": "Forum software NodeBB joins the fediverse",
+        "link": "https://techcrunch.com/2025/01/21/forum-software-nodebb-joins-the-fediverse/"
+      },
+      {
+        "title": "Open source alternatives to Instagram, TikTok, and WhatsApp raise funds on Kickstarter",
+        "link": "https://techcrunch.com/2025/01/24/open-source-alternatives-to-instagram-tiktok-and-whatsapp-raise-funds-on-kickstarter/"
+      },
+      {
+        "title": "Ditching Meta? Open source alternatives to Instagram, TikTok, and WhatsApp fundraise on Kickstarter",
+        "link": "https://techcrunch.com/2025/01/24/ditching-meta-open-source-alternatives-to-instagram-tiktok-and-whatsapp-fundraise-on-kickstarter/"
+      }
+    ],
+    "lastUpdated": "2025-01-24T23:10:38.685Z"
+  },
+  {
+    "title": "Character AI Seeks Dismissal of Lawsuit, Citing First Amendment Protection",
+    "id": "02zbffq1pnt5p2",
+    "summary": "- Character AI filed a motion to dismiss a lawsuit claiming the platform is protected by the First Amendment.\n- The lawsuit, filed by Megan Garcia, alleges her son's suicide was connected to his addiction to a Character AI chatbot.\n- Character AI plans to roll out safety features in response to the lawsuit but opposes drastic changes that might limit chatbot interactions.\n- Counsel argues that the First Amendment protects against liability for harmful speech, including AI chat interactions.\n- The case highlights ongoing concerns regarding minors' interactions with AI and the lack of studied mental health effects from such technologies.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 8,
+      "impact": 9,
+      "novelty": 7,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "Character AI",
+      "First Amendment",
+      "lawsuit",
+      "AI chatbot",
+      "mental health",
+      "Megan Garcia",
+      "teen suicide",
+      "safety features",
+      "Section 230"
+    ],
+    "sources": [
+      {
+        "title": "Character AI Seeks Dismissal of Lawsuit, Citing First Amendment Protection",
+        "link": "https://techcrunch.com/2025/01/24/in-motion-to-dismiss-chatbot-platform-character-ai-claims-it-is-protected-by-the-first-amendment/"
+      }
+    ],
+    "lastUpdated": "2025-01-24T23:10:38.685Z"
+  },
+  {
     "title": "Elon Musk email to X staff: ‘we’re barely breaking even’",
     "id": "1e3kv5z1852pov",
     "summary": "- Elon Musk describes X's revenue situation as dire, with stagnant user growth and unimpressive revenue.\n- Reports indicate banks are preparing to sell off $13 billion in debt related to Musk's acquisition of Twitter (now X).\n- Musk stated the company could become cash-flow positive within months, yet faces significant annual interest payments exceeding $1 billion.",
@@ -326,46 +401,6 @@
       }
     ],
     "lastUpdated": "2025-01-24T20:11:49.974Z"
-  },
-  {
-    "title": "Open source alternatives to Instagram, TikTok, and WhatsApp raise funds on Kickstarter + Forum software NodeBB joins the fediverse",
-    "id": "0l9c55q1nxwl4g",
-    "summary": "- NodeBB, a major forum software provider, joins the [fediverse](https://techcrunch.com/2024/06/25/welcome-to-the-fediverse-your-guide-to-mastodon-threads-bluesky-and-more/).\n- The fediverse includes decentralized apps like [Mastodon](https://techcrunch.com/2023/07/24/what-is-mastodon/), [Pixelfed](https://techcrunch.com/2025/01/14/decentralized-instagram-alternative-pixelfed-launches-mobile-apps/), and [PeerTube](https://techcrunch.com/2023/10/11/wordpress-com-blogs-can-now-be-followed-on-mastodon-and-other-federated-platforms/).\n- NodeBB co-founder Julian Lam had the idea in mid-2023 to connect NodeBB forums to each other, leading to the decision to adopt the [ActivityPub](https://techcrunch.com/2024/06/25/all-threads-users-can-now-share-to-the-open-social-web-aka-the-fediverse/) protocol for decentralization.\n- Funding from the [NLNet Foundation](https://nlnet.nl/commonsfund/) helped expedite the implementation of ActivityPub in NodeBB.\n- New forums created with NodeBB will be federated automatically; existing forums can interact with other ActivityPub-powered software.\n- The federation feature is built into NodeBB's core as of version 4.0, not just as an add-on, differing from [Discourse](https://meta.discourse.org/t/activitypub-plugin/266794).\n- NodeBB does not track usage numbers but had 4,582 downloads last week, indicating a steady interest.\n\n- Developer Daniel Supernault is raising funds on [Kickstarter](https://www.kickstarter.com/projects/pixelfed/pixelfed-foundation-2024-real-ethical-social-networks?ref=discovery_category&total_hits=55428&category_id=342) for open source apps: Pixelfed, Loops, and Sup.\n- The trio aims to offer alternatives to Instagram, TikTok, and WhatsApp, contributing to the fediverse using the ActivityPub protocol.\n- The Kickstarter campaign has raised $58,383, surpassing its original goal.\n- Supernault's long-term vision includes making these apps available to a billion users.\n- The apps are intended to ensure user control and privacy against centralized social media.\n- A fourth project, [Pubkit](https://pubkit.net/), will provide tools for fediverse developers.\n- Funds will support expanding user management and developing an alternative blogging app.",
-    "thumbnails": [
-      "https://techcrunch.com/wp-content/uploads/2025/01/loops-web.jpeg?w=680"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 7.5,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "nodebb",
-      "fediverse",
-      "activitypub",
-      "forums",
-      "decentralized",
-      "social networking",
-      "open source",
-      "kickstarter",
-      "pixelfed",
-      "loops",
-      "sup",
-      "social media alternatives",
-      "daniel supernault"
-    ],
-    "sources": [
-      {
-        "title": "Forum software NodeBB joins the fediverse",
-        "link": "https://techcrunch.com/2025/01/21/forum-software-nodebb-joins-the-fediverse/"
-      },
-      {
-        "title": "Open source alternatives to Instagram, TikTok, and WhatsApp raise funds on Kickstarter",
-        "link": "https://techcrunch.com/2025/01/24/open-source-alternatives-to-instagram-tiktok-and-whatsapp-raise-funds-on-kickstarter/"
-      }
-    ],
-    "lastUpdated": "2025-01-24T20:11:49.973Z"
   },
   {
     "title": "Stargate will use solar and batteries to power $100B AI venture",
