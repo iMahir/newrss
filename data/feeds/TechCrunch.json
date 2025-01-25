@@ -4,6 +4,54 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Retro Biosciences, backed by Sam Altman, is raising $1 billion to extend human lifespan",
+      "link": "https://techcrunch.com/2025/01/24/retro-biosciences-backed-by-sam-altman-is-raising-1-billion-to-extend-human-lifespan/",
+      "author": "Not given",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2188228027_e26224.jpg?w=1024",
+      "summary": "- OpenAI CEO Sam Altman supports Retro Biosciences, a biotech startup aiming to extend the human lifespan by 10 years.\n- The company is raising a $1 billion Series A round, having previously received $180 million in seed funding from Altman.\n- Retro Biosciences plans to launch drug trials targeting diseases like Alzheimer’s and has collaborated with OpenAI to convert regular cells into stem cells.\n- CEO Joe Betts-LaCroix aims to discover and develop drugs within the 2020s, joining other billionaire-backed ventures in longevity research.",
+      "keywords": [
+        "Retro Biosciences",
+        "Sam Altman",
+        "human lifespan",
+        "biotech startup",
+        "Alzheimer's",
+        "longevity",
+        "stem cells",
+        "investment"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-24T23:24:26.000Z"
+    },
+    {
+      "title": "UnitedHealth confirms 190 million Americans affected by Change Healthcare data breach",
+      "link": "https://techcrunch.com/2025/01/24/unitedhealth-confirms-190-million-americans-affected-by-change-healthcare-data-breach/",
+      "author": "Zack Whittaker",
+      "thumbnail": null,
+      "summary": "- UnitedHealth confirmed that a ransomware attack on Change Healthcare affected around **190 million people** in America, nearly double earlier estimates.\n- The February 2024 cyberattack is noted as the largest breach of medical data in U.S. history, causing extensive outages across the healthcare system.\n- Data stolen includes personal identifiers and medical information, with **ALPHV ransomware gang** responsible for the breach using stolen credentials that lacked multi-factor authentication.",
+      "keywords": [
+        "UnitedHealth",
+        "Change Healthcare",
+        "data breach",
+        "ransomware",
+        "cybersecurity",
+        "healthcare",
+        "medical data",
+        "ALPHV"
+      ],
+      "scores": {
+        "scale": 10,
+        "impact": 10,
+        "novelty": 8,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-01-24T23:16:13.000Z"
+    },
+    {
       "title": "Character AI Seeks Dismissal of Lawsuit, Citing First Amendment Protection",
       "link": "https://techcrunch.com/2025/01/24/in-motion-to-dismiss-chatbot-platform-character-ai-claims-it-is-protected-by-the-first-amendment/",
       "author": "Kyle Wiggers",
@@ -1861,54 +1909,6 @@
         "longTermSignificance": 9
       },
       "pubDate": "2025-01-23T19:15:22.000Z"
-    },
-    {
-      "title": "Android 16’s first beta version brings iOS-style live notifications",
-      "link": "https://techcrunch.com/2025/01/23/android-16s-first-beta-version-brings-ios-style-live-notifications/",
-      "author": "Ivan Mehta",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/Screenshot-2025-01-23-at-5.26.34PM.jpg?w=680",
-      "summary": "- Google released the first public beta for Android 16 on Thursday, following two developer beta versions last year.\n- New features include live updates on the lock screen, an Advanced Professional Video (APV) codec for high-quality video, and tools for responsive app design.\n- The live updates feature allows developers to push real-time updates, similar to Apple’s Live Activities.\n- APV codec offers lossless quality and supports high bitrates for 2K, 4K, and 8K footage, enhancing video recording and editing.\n- Android 16 introduces new accessibility features such as mandatory field indicators in APIs.\n- Google aims to expedite the Android update cycle, targeting a final release in Q2 2025.",
-      "keywords": [
-        "Android 16",
-        "Google",
-        "iOS",
-        "live notifications",
-        "video codec",
-        "APV",
-        "updates",
-        "accessibility"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-23T19:00:00.000Z"
-    },
-    {
-      "title": "Substack introduces a $20M funding guarantee to entice creators to migrate to its platform",
-      "link": "https://techcrunch.com/2025/01/23/substack-introduces-a-20m-funding-guarantee-to-entice-creators-to-migrate-to-its-platform/",
-      "author": "Lauren Forristal",
-      "thumbnail": null,
-      "summary": "- Substack launched its Creator Accelerator Fund, providing a $20 million funding guarantee for creators transitioning to its platform.\n- The fund ensures creators retain all existing revenue during the move, addressing concerns about income stability.\n- Unlike other platforms that charge fees, Substack takes a 10% cut of revenue and offers assistance with migration and business strategies.",
-      "keywords": [
-        "Substack",
-        "Creator Accelerator Fund",
-        "funding guarantee",
-        "creators",
-        "platform migration",
-        "revenue",
-        "newsletter",
-        "financial stability"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-23T18:59:00.000Z"
     }
   ]
 }
