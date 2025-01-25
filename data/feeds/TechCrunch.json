@@ -4,6 +4,52 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "OpenAI wants to take over your browser",
+      "link": "https://techcrunch.com/2025/01/25/openai-wants-to-take-over-your-browser/",
+      "author": "Cody Corrall",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2021/12/mrbeast-squid-game-remake-1.jpg?w=680",
+      "summary": "- OpenAI launched a research preview of Operator, an AI agent that can perform tasks like booking accommodations and making reservations.\n- Operator will first be available to U.S. users on ChatGPT’s $200 per month Pro subscription plan.\n- Elon Musk and Sam Altman are publicly disputing the funding for the Stargate project, which targets data centers for AI workloads.\n- Security vulnerabilities in Subaru's web portal allowed hackers to remotely unlock and track cars, which have now been fixed by Subaru.",
+      "keywords": [
+        "OpenAI",
+        "AI agent",
+        "Operator",
+        "Elon Musk",
+        "Sam Altman",
+        "Stargate",
+        "Subaru",
+        "cybersecurity"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-25T18:05:00.000Z"
+    },
+    {
+      "title": "Paul McCartney calls on UK government to protect artists from AI",
+      "link": "https://techcrunch.com/2025/01/25/paul-mccartney-calls-on-uk-government-to-protect-artists-from-ai/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1350490035.jpg?w=1024",
+      "summary": "- Paul McCartney urges the UK government to modify copyright laws to protect artists from AI exploitation.\n- He argues that proposed changes would allow tech companies to use online content without artists' consent.\n- McCartney acknowledges the benefits of AI but warns about the financial risks for artists if their work is not protected.\n- Emphasizes that emerging artists should benefit economically from their creations rather than tech companies.",
+      "keywords": [
+        "Paul McCartney",
+        "AI",
+        "copyright",
+        "UK government",
+        "artists' rights",
+        "music industry"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-25T17:18:47.000Z"
+    },
+    {
       "title": "Wall Street banks plan sale of X debt at a discount",
       "link": "https://techcrunch.com/2025/01/24/wall-street-banks-plan-sale-of-x-debt-at-a-discount/",
       "author": null,
@@ -1863,52 +1909,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-01-23T19:57:00.000Z"
-    },
-    {
-      "title": "Bedrock Energy wants geothermal to make data centers cooler and offices more comfortable",
-      "link": "https://techcrunch.com/2025/01/23/bedrock-energy-wants-geothermal-to-make-data-centers-cooler-and-offices-more-comfortable/",
-      "author": "Tim De Chant",
-      "thumbnail": null,
-      "summary": "- Bedrock Energy is utilizing geothermal energy for cooling and heating, drilling deeper than typical geothermal wells.\n- The company aims for more space-efficient installations, achieving depths of 800 to 1,200 feet.\n- Two installations completed last year in Texas and Utah; expects profitability on a project basis in the next year.\n- Exploring geothermal cooling for data centers, facing challenges due to continual heat generation from servers.\n- Geothermal cooling is more efficient than traditional methods, offering stable electricity usage for large consumers.",
-      "keywords": [
-        "geothermal energy",
-        "data centers",
-        "cooling",
-        "sustainability",
-        "Bedrock Energy",
-        "energy efficiency",
-        "installation",
-        "commercial buildings"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-23T19:41:43.000Z"
-    },
-    {
-      "title": "Epic brings third-party titles to its mobile game store",
-      "link": "https://techcrunch.com/2025/01/23/epic-brings-third-party-titles-to-its-mobile-game-store/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Epic Games is adding third-party games to its mobile app store and covering associated iOS fees.\n- A free games program will launch, rolling out new free games each month.\n- The games will be available on Android worldwide and in the EU on iOS.\n- Epic's mobile store launched in August with its own titles like Fortnite and Rocket League, and is now expanding to include outside developers' games.\n- CEO Tim Sweeney states that Epic has invested over $1 billion in its digital storefront.",
-      "keywords": [
-        "Epic Games",
-        "mobile game store",
-        "third-party titles",
-        "iOS",
-        "free games program",
-        "Tim Sweeney"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-23T19:30:31.000Z"
     }
   ]
 }
