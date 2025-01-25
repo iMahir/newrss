@@ -4,6 +4,31 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Razer Laptop Cooling Pad review: are you a fan?",
+      "link": "https://www.theverge.com/24350342/razer-laptop-cooling-pad-review-hyperboost-synapse-rgb",
+      "author": "Jonathan Hilburg",
+      "thumbnail": null,
+      "summary": "- Razer's $150 Laptop Cooling Pad claims to lower CPU and GPU temperatures by up to 18% and works with any laptop size.\n- It features a 'Hyperboost' mode for compatible Razer models, allowing increased performance by reallocating power to the CPU and GPU.\n- Users experienced improved 1080p gaming performance with notable frame rate increases in titles like Cyberpunk 2077 and Shadow of the Tomb Raider.\n- The cooling pad produces noise levels around 62 decibels, comparable to a vacuum cleaner.\n- Razer's cooling pad is large and requires external power, taking up more desk space than just a laptop.\n- Despite its effectiveness on Razer laptops, performance improvements on competing laptops were not significant when tested.",
+      "keywords": [
+        "Razer",
+        "Laptop Cooling Pad",
+        "Hyperboost",
+        "gaming",
+        "performance",
+        "cooling",
+        "RGB",
+        "CPU",
+        "GPU"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-01-25T13:00:00.000Z"
+    },
+    {
       "title": "The AI spending frenzy is just getting started",
       "link": "https://www.theverge.com/2025/1/24/24351418/project-stargate-openai-spending-meta-microsoft",
       "author": "Alex Heath",
@@ -1140,30 +1165,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-23T16:16:32.000Z"
-    },
-    {
-      "title": "Matter will be better in 2025 — say the people who make it",
-      "link": "https://www.theverge.com/24349390/matter-csa-thread-group-wifi-alliance-interview-2025",
-      "author": "Jennifer Pattison Tuohy",
-      "thumbnail": null,
-      "summary": "- Matter aims to provide reliable smart home device connectivity but faces challenges like slow adoption and interoperability issues.\n- The Connectivity Standards Alliance (CSA) emphasizes 2025 as a crucial year to address these reliability and performance problems.\n- Key organizations behind Matter (CSA, Thread Group, Wi-Fi Alliance) are collaborating to enhance the standard and improve user experience.\n- Solutions being explored include embedding software in home routers and enhancing communication between Matter and Thread devices.\n- The expectation is that Matter will become easier to use and more effective within the next 12 months, aiming for robust interoperability across ecosystems.",
-      "keywords": [
-        "Matter",
-        "smart home",
-        "connectivity",
-        "internet of things",
-        "Thread",
-        "Wi-Fi",
-        "interoperability",
-        "standard"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-23T16:00:00.000Z"
     }
   ]
 }
