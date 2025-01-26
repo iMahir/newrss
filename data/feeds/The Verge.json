@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Netflix won the streaming wars, and we’re all about to pay for it",
+      "link": "https://www.theverge.com/2025/1/26/24351302/netflix-price-increase-streaming-wars",
+      "author": "David Pierce",
+      "thumbnail": null,
+      "summary": "- Netflix has increased its standard monthly price from $7.99 to $17.99 over 13 years, with a recent $2.50 hike announced during a quarterly earnings report.\n- The platform has become an essential part of mainstream culture, with hit originals and cultural events boosting its standing.\n- Netflix's pricing strategy capitalizes on their dominant market position, leading to increased prices while maintaining subscriber engagement. co-CEO Greg Peters indicated they currently earn only 6% of potential revenue in their markets.\n- Netflix is promoting its ad-supported plan, as it generates more revenue from this model than purely subscription fees, with about 55% of new subscribers opting for ads.\n- The company is exploring live sports and video game content, expanding its dominance in the entertainment sector while competitors struggle with lower subscriber numbers and other issues.",
+      "keywords": [
+        "Netflix",
+        "streaming wars",
+        "price increase",
+        "entertainment",
+        "ad-supported plan",
+        "cultural events",
+        "video games"
+      ],
+      "scores": {
+        "scale": 9,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-01-26T14:00:00.000Z"
+    },
+    {
       "title": "The 2025 Android upgrade cycle has begun",
       "link": "https://www.theverge.com/2025/1/26/24351363/samsung-s25-nvidia-5090-perplexity-openai-installer",
       "author": "David Pierce",
@@ -1144,32 +1167,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-23T19:17:18.000Z"
-    },
-    {
-      "title": "Android 16’s first public beta adds Google’s more limited take on live lockscreen notifications",
-      "link": "https://www.theverge.com/2025/1/23/24350182/android-16-first-public-beta-google-live-updates",
-      "author": "Dominic Preston",
-      "thumbnail": null,
-      "summary": "• Android 16’s first public beta rolls out today, featuring dynamic lockscreen notifications for ride-sharing and food delivery.\n• Live Updates allow real-time updates for ongoing activities, similar to Apple’s Live Activities from iOS 16.\n• Unlike competitors, Android 16’s implementation is limited to tracking progress for specific app types.\n• Apps will now be forced to be resizable for full-screen use on tablets and foldables, with games exempt for now.\n• Other new features include support for the Advanced Professional Video codec, camera scene detection for night mode, and vertical text rendering.\n• The beta is available for Google Pixel phones from Pixel 6 onwards and the Pixel Tablet, with a full release expected in Q2 2025.",
-      "keywords": [
-        "Android 16",
-        "public beta",
-        "live notifications",
-        "Google",
-        "Pixel",
-        "Samsung",
-        "features",
-        "app resizability",
-        "Advanced Professional Video",
-        "Gemini Extensions"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-23T19:00:00.000Z"
     }
   ]
 }
