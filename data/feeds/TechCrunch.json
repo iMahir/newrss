@@ -4,6 +4,31 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "DeepSeek gets Silicon Valley talking",
+      "link": "https://techcrunch.com/2025/01/26/deepseek-gets-silicon-valley-talking/",
+      "author": "Anthony Ha",
+      "thumbnail": null,
+      "summary": "- Chinese AI company DeepSeek released an open version of its reasoning model R1, sparking discussions in the tech community.\n- R1 matches or beats OpenAI's o1 model on certain benchmarks, with training costs reportedly only $5.6 million.\n- DeepSeek's success was achieved despite U.S. sanctions on advanced chips for Chinese companies, raising concerns about its implications for American AI firms.\n- Industry reactions include support from venture capitalists and skepticism from others who question the authenticity of the company's claims.\n- DeepSeek's AI assistant has become the top free app in the Apple App Store, surpassing ChatGPT as of Sunday.",
+      "keywords": [
+        "DeepSeek",
+        "AI",
+        "technology",
+        "Silicon Valley",
+        "OpenAI",
+        "reasoning model",
+        "U.S. sanctions",
+        "innovation",
+        "market impact"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-26T20:49:37.000Z"
+    },
+    {
       "title": "Why Reid Hoffman feels optimistic about our AI future",
       "link": "https://techcrunch.com/2025/01/26/why-reid-hoffman-feels-optimistic-about-our-ai-future/",
       "author": "Reid Hoffman, Greg Beato",
@@ -1891,29 +1916,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-23T21:51:49.000Z"
-    },
-    {
-      "title": "Anthropic’s new Citations feature aims to reduce AI errors",
-      "link": "https://techcrunch.com/2025/01/23/anthropics-new-citations-feature-aims-to-reduce-ai-errors/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- Anthropic introduced a new feature called Citations to enhance its AI models' accuracy by referencing source documents.\n- Citations is available in Anthropic’s API and Google’s Vertex AI platform.\n- The feature helps in document summarization, Q&A, and customer support by providing detailed references.\n- Currently, Citations is limited to Claude 3.5 Sonnet and Claude 3.5 Haiku models, and may incur charges based on document length.",
-      "keywords": [
-        "Anthropic",
-        "Citations",
-        "AI features",
-        "Claude",
-        "machine learning",
-        "document referencing",
-        "Google Vertex AI"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-23T20:53:35.000Z"
     }
   ]
 }
