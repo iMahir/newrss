@@ -4,6 +4,50 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "The 2025 Android upgrade cycle has begun",
+      "link": "https://www.theverge.com/2025/1/26/24351363/samsung-s25-nvidia-5090-perplexity-openai-installer",
+      "author": "David Pierce",
+      "thumbnail": null,
+      "summary": "- The Samsung Galaxy S25 lineup is highlighted as Samsung's most interesting phones this year.\n- The S25 Edge is appreciated for its features, though the entire lineup is considered somewhat boring compared to past years.\n- New technologies discussed include the Nvidia GeForce RTX 5090, known for its high price and gaming performance.\n- The Android 16 public beta introduces some features including live notifications and forced app resizing for foldable phones.\n- Other notable mentions are new projects and apps in the Android ecosystem that enhance user experience and foster creativity.",
+      "keywords": [
+        "Android",
+        "Samsung Galaxy S25",
+        "Nvidia RTX 5090",
+        "Android 16",
+        "technology updates"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-01-26T13:00:00.000Z"
+    },
+    {
+      "title": "Live AI on Meta’s smart glasses is a solution looking for a problem",
+      "link": "https://www.theverge.com/2025/1/26/24351264/live-ai-ray-ban-meta-smart-glasses-wearables",
+      "author": "Victoria Song",
+      "thumbnail": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25012305/236834_Ray_Ban_Meta_Smart_Glasses_AKrales_0934.jpg",
+      "summary": "- Meta’s new Ray-Ban smart glasses feature Live AI, which can respond to queries about the user's environment.\n- The feature lacks practical usefulness and often provides obvious or irrelevant answers.\n- Users may struggle to remember to use Live AI over traditional search methods, leading to frustration.\n- Live AI’s limitations include difficulties in recognizing when users are talking to it versus others, and a battery that lasts only 30 minutes.",
+      "keywords": [
+        "Meta",
+        "AI",
+        "smart glasses",
+        "Live AI",
+        "Ray-Ban",
+        "technology",
+        "wearables"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 4,
+        "novelty": 6,
+        "longTermSignificance": 3
+      },
+      "pubDate": "2025-01-26T13:00:00.000Z"
+    },
+    {
       "title": "What Handheld PCs Should Do to Fight the Nintendo Switch 2",
       "link": "https://www.theverge.com/24351383/handheld-pcs-challenge-switch-2-editorial",
       "author": "Sean Hollister",
@@ -1126,53 +1170,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-23T19:00:00.000Z"
-    },
-    {
-      "title": "Doom: The Dark Ages looks metal as hell and launches in May",
-      "link": "https://www.theverge.com/2025/1/23/24349379/doom-the-dark-ages-release-date-trailer-xbox-pc-ps5",
-      "author": "Andrew Webster",
-      "thumbnail": null,
-      "summary": "- Doom: The Dark Ages launches on May 15th, 2025.\n- Set in a medieval fantasy realm before Doom Eternal and the 2016 reboot.\n- Focus on melee combat with new weapons like a spiked mace and iron flail.\n- Players will use a cybernetic dragon mount and a skyscraper-sized mech suit.\n- Includes gameplay sliders for accessibility and customizable difficulty options.\n- Available on PS5, Xbox, and PC.",
-      "keywords": [
-        "Doom",
-        "The Dark Ages",
-        "video game",
-        "id Software",
-        "release date",
-        "melee combat",
-        "accessibility",
-        "PS5",
-        "Xbox",
-        "PC"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-23T18:48:41.000Z"
-    },
-    {
-      "title": "Ninja Gaiden 4 is coming to Xbox",
-      "link": "https://www.theverge.com/2025/1/23/24350352/ninja-gaiden-4-xbox",
-      "author": "Andrew Webster",
-      "thumbnail": null,
-      "summary": "- Microsoft announced Ninja Gaiden 4 during the Xbox Developer Direct event.\n- Co-developed by Team Ninja and Platinum Games, known for Bayonetta and Nier: Automata.\n- No release date announced, but the game will be available on Xbox Game Pass.\n- The franchise began in the late '80s, with a notable entry in 2004 that set a new standard.\n- The new game aims for faster gameplay while continuing the dark action style of the original.",
-      "keywords": [
-        "Ninja Gaiden 4",
-        "Xbox",
-        "Game Pass",
-        "Team Ninja",
-        "Platinum Games"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-23T18:11:03.000Z"
     }
   ]
 }
