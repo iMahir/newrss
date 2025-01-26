@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Retro Remake opens preorders for its PS One FPGA clone",
+      "link": "https://www.theverge.com/2025/1/26/24352254/superstation-one-preorder-retro-remake-ps1-fpga",
+      "author": "Wes Davis",
+      "thumbnail": null,
+      "summary": "- Retro Remake’s Taki Udon announced that preorders for the SuperStation One have opened.\n- The Founders Edition at $149.99 sold out, but standard editions are available for $179.99.\n- The SuperStation One is a custom FPGA machine that plays games from various consoles, not just PS1, and has compatibility with original PlayStation peripherals.\n- It features a 64GB Micro SD card, multiple ports (USB-A, HDMI, etc.), and is available in black, gray, and translucent blue.\n- An expansion slot is included for the upcoming SuperDock accessory, which adds additional storage and ports.",
+      "keywords": [
+        "SuperStation One",
+        "FPGA",
+        "Retro Remake",
+        "PS One",
+        "console clone",
+        "video gaming",
+        "preorders",
+        "gaming systems"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 8,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-01-26T16:23:58.000Z"
+    },
+    {
       "title": "Netflix won the streaming wars, and we’re all about to pay for it",
       "link": "https://www.theverge.com/2025/1/26/24351302/netflix-price-increase-streaming-wars",
       "author": "David Pierce",
@@ -1144,29 +1168,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-23T19:19:53.000Z"
-    },
-    {
-      "title": "Google’s Identity Check for Android keeps phone thieves out of your digital accounts",
-      "link": "https://www.theverge.com/2025/1/23/24350457/google-android-identity-check-pixel-phone-thieves-digital-accounts",
-      "author": "Jay Peters",
-      "thumbnail": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1141x1080/2400x2272/filters:focal(571x540:572x541):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25844021/Identity_Check___Android_Theft_Protection.png",
-      "summary": "- Google launches Identity Check for Pixel devices with Android 15 to enhance account security against phone theft.\n- The feature requires biometric authentication to access sensitive settings when not at trusted locations.\n- Protects settings such as changing PIN, disabling theft protection, and accessing Find My Device.\n- Originally launched in beta in late 2024 as part of December Pixel Drop, expanding to Samsung Galaxy devices and others later.",
-      "keywords": [
-        "Google",
-        "Android",
-        "Identity Check",
-        "security",
-        "Pixel devices",
-        "theft protection",
-        "biometric authentication"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-23T19:17:18.000Z"
     }
   ]
 }
