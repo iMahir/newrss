@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Oracle and Microsoft are reportedly in talks to take over TikTok",
+      "link": "https://www.theverge.com/2025/1/25/24351973/oracle-microsoft-tiktok-takeover-deal",
+      "author": "Wes Davis",
+      "thumbnail": null,
+      "summary": "- Oracle and Microsoft are negotiating to take over TikTok’s global operations.\n- The deal would allow ByteDance to keep a minority stake, with Oracle overseeing data and algorithm management.\n- This agreement aims to reduce Chinese ownership of TikTok.\n- Microsoft’s role in the talks remains unclear; it previously participated in a 2020 bid along with Walmart, which is not involved this time.\n- News follows a recent executive order from President Trump providing TikTok a 75-day reprieve from enforcement actions regarding its operations in the U.S.",
+      "keywords": [
+        "Oracle",
+        "Microsoft",
+        "TikTok",
+        "ByteDance",
+        "acquisition",
+        "global operations",
+        "data management",
+        "executive order"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-25T23:09:28.000Z"
+    },
+    {
       "title": "Fubo’s cheapest streaming plan is now $85 per month",
       "link": "https://www.theverge.com/2025/1/25/24351922/fubo-tv-essential-pro-elite-plan-price-increase",
       "author": "Wes Davis",
@@ -1146,29 +1170,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-01-23T18:08:10.000Z"
-    },
-    {
-      "title": "OpenAI’s new Operator AI agent can do things on the web for you",
-      "link": "https://www.theverge.com/2025/1/23/24350395/openai-chatgpt-operator-agent-control-computer",
-      "author": "Jay Peters",
-      "thumbnail": null,
-      "summary": "- OpenAI releases a research preview of a new AI agent called Operator.\n- Operator can browse the web, interact with web pages, and perform tasks.\n- It is available first to US subscribers of the $200 per month ChatGPT Pro tier.\n- The agent uses a Computer-Using Agent model combining vision and reinforcement learning for interaction.\n- Operator can self-correct, requests user control when needed, and is designed to block harmful requests.\n- OpenAI collaborates with various companies to address real-world needs while respecting norms.\n- Current limitations include challenges with complex interfaces like slideshows and calendars.",
-      "keywords": [
-        "OpenAI",
-        "Operator AI",
-        "artificial intelligence",
-        "web browser agent",
-        "ChatGPT",
-        "machine learning",
-        "user interaction"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 8,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-23T18:00:00.000Z"
     }
   ]
 }
