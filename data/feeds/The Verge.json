@@ -4,6 +4,28 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "iOS 18.3 is out with tweaks to AI notification summaries",
+      "link": "https://www.theverge.com/2025/1/27/24353079/ios-18-3-launch-notification-summaries-apple-intelligence-default",
+      "author": "Emma Roth",
+      "thumbnail": null,
+      "summary": "- iOS 18.3 introduces changes to AI notification summaries by disabling them for news and entertainment apps temporarily.\n- This change follows feedback from the BBC regarding incorrect summaries.\n- Apple will notify users when the feature is available again.\n- Devices supporting Apple Intelligence will have it switched on by default with this update.\n- Additional features include using Visual Intelligence for Calendar events and identifying plants and animals.\n- Notification summaries will now appear in italicized text and new settings will allow management from the lock screen.\n- Users can download the update via Settings > General > Software Update.",
+      "keywords": [
+        "iOS 18.3",
+        "notification summaries",
+        "Apple Intelligence",
+        "Visual Intelligence",
+        "software update",
+        "AI notifications"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-27T18:44:25.000Z"
+    },
+    {
       "title": "Meta AI will use its ‘memory’ to provide better recommendations",
       "link": "https://www.theverge.com/2025/1/27/24352992/meta-ai-memory-personalization",
       "author": "Emma Roth",
@@ -1144,29 +1166,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-01-24T10:21:30.000Z"
-    },
-    {
-      "title": "Sony’s next flagship noise-canceling headphones might be close to launch",
-      "link": "https://www.theverge.com/2025/1/24/24350907/sony-wh-1000xm6-noise-canceling-headphones-fcc-filing-detachable-earpads",
-      "author": "Dominic Preston",
-      "thumbnail": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1913x1076/2400x1350/filters:focal(957x538:958x539):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25844935/sony_wh_1000xm6_fcc_diagram.jpg",
-      "summary": "- Sony’s WH-1000XM6 headphones may soon launch, as suggested by an FCC filing.\n- The filing indicates a redesign with a new hinge and detachable earpads.\n- The headphones are expected to feature Bluetooth 5.3.\n- The model number YY2984 suggests continuity with the previous models, and some details may change before release.\n- An official reveal is anticipated by July 22, 2025, potentially aligning with a spring release date similar to previous models.",
-      "keywords": [
-        "Sony",
-        "headphones",
-        "noise-canceling",
-        "WH-1000XM6",
-        "FCC filing",
-        "Bluetooth 5.3",
-        "detachable earpads"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-24T10:01:42.000Z"
     }
   ]
 }
