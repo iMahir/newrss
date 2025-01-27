@@ -4,6 +4,75 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Bluesky adds video to user profiles",
+      "link": "https://techcrunch.com/2025/01/27/bluesky-adds-video-to-user-profiles/",
+      "author": "Sarah Perez",
+      "thumbnail": null,
+      "summary": "- Social network Bluesky introduces a new video tab for user profiles to showcase uploaded videos.\n- This follows the recent addition of a TikTok-like video feed, enhancing the platform's video capabilities.\n- The videos can be original or sourced from other platforms, including TikTok, and could generate potential revenue for Bluesky.\n- Some users express concerns about the platform becoming a TikTok rival and request options to disable the video tab.\n- Development interest is growing, with creators working on various video-centric apps for Bluesky.\n- The change was made in the Bluesky 1.97 update, which also included user blocking features and other improvements.",
+      "keywords": [
+        "Bluesky",
+        "video profiles",
+        "social media",
+        "TikTok alternative",
+        "user engagement",
+        "Mark Cuban",
+        "app development",
+        "video content"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-27T18:07:45.000Z"
+    },
+    {
+      "title": "AI startup DeepSeek pauses signups amid cyber incident",
+      "link": "https://techcrunch.com/2025/01/27/ai-startup-deepseek-pauses-signups-amid-cyber-incident/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- DeepSeek pauses new user registrations due to a cyberattack.\n- Existing users can still access their accounts without issues.\n- This follows recent excitement about its open-source R1 model that claims to outperform OpenAI's o1 on multiple benchmarks.\n- DeepSeek's app achieved 2.6 million downloads, with 1 million occurring last Friday.",
+      "keywords": [
+        "DeepSeek",
+        "AI startup",
+        "cyberattack",
+        "user registrations",
+        "R1 model"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-01-27T18:05:49.000Z"
+    },
+    {
+      "title": "Viral AI company DeepSeek releases new image model family",
+      "link": "https://techcrunch.com/2025/01/27/viral-ai-company-deepseek-releases-new-image-model-family/",
+      "author": "Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/janus_pro_teaser2.png?w=680",
+      "summary": "- DeepSeek launches new multimodal AI models under the name Janus Pro, claiming superior performance to OpenAI’s DALL-E 3.\n- The models are available for download on [Hugging Face](https://huggingface.co/organizations/deepseek-ai/activity/all) and range from 1 billion to 7 billion parameters, designed for both analyzing and creating images.\n- Janus Pro models excel at generating small images (up to 384 x 384 resolution) and compete well against existing models like PixArt-alpha and Stability AI's Stable Diffusion XL.",
+      "keywords": [
+        "DeepSeek",
+        "AI models",
+        "Janus Pro",
+        "OpenAI",
+        "DALL-E 3",
+        "multimodal AI",
+        "artificial intelligence",
+        "Hugging Face"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-27T17:39:39.000Z"
+    },
+    {
       "title": "Grok 3 seemingly went live for some users",
       "link": "https://techcrunch.com/2025/01/27/grok-3-seemingly-went-live-for-some-users/",
       "author": "Kyle Wiggers",
@@ -1114,74 +1183,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-24T11:56:52.000Z"
-    },
-    {
-      "title": "Apple expands its in-app purchase tools to cover creator experiences, large content catalogs and more",
-      "link": "https://techcrunch.com/2025/01/24/apple-expands-its-in-app-purchase-tools-to-cover-creator-experiences-large-content-catalogs-and-more/",
-      "author": "Ivan Mehta",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/App-Store-commerce-api.jpg?w=680",
-      "summary": "- Apple announced the launch of the Advanced Commerce API for in-app purchases, including subscriptions and content add-ons.\n- The company will maintain its existing commission structure despite the introduction of new purchase formats.\n- Three use cases for the API include apps with large libraries of one-time purchases, creator-led content, and subscription add-ons.\n- The initiative comes after pressure from the EU and to improve support for developer platforms like Patreon.",
-      "keywords": [
-        "Apple",
-        "in-app purchases",
-        "Advanced Commerce API",
-        "subscriptions",
-        "creator content",
-        "Patreon",
-        "App Store"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-24T11:53:13.000Z"
-    },
-    {
-      "title": "Apple introduces a new API to support more in-app purchase formats",
-      "link": "https://techcrunch.com/2025/01/24/apple-introduces-a-new-api-to-support-more-in-app-purchase-formats/",
-      "author": "Ivan Mehta",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/App-Store-commerce-api.jpg?w=680",
-      "summary": "- Apple announced the Advanced Commerce API to support various in-app purchase formats including subscriptions and content add-ons.\n- The new API is aimed at helping developers with large content catalogs and creator-led experiences.\n- The eligibility for the program includes one-time purchases, creator-led content subscriptions, and purchasing add-ons within subscription services.\n- Apple is responding to demands for creator payment processing systems, particularly in light of external pressures from the EU and other entities regarding payment systems.",
-      "keywords": [
-        "Apple",
-        "API",
-        "in-app purchases",
-        "subscriptions",
-        "content add-ons",
-        "App Store"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-24T11:53:13.000Z"
-    },
-    {
-      "title": "US indicts five individuals in crackdown on North Korea’s illicit IT workforce",
-      "link": "https://techcrunch.com/2025/01/24/us-indicts-five-individuals-in-crackdown-on-north-koreas-illicit-it-workforce/",
-      "author": "Carly Page",
-      "thumbnail": null,
-      "summary": "- U.S. authorities indicted five individuals for involvement in a North Korean IT worker scheme that allowed remote employment with U.S. companies.\n- Indicted individuals include two North Koreans, a Mexican national, and two U.S. nationals, with several arrests made.\n- The scheme operated from April 2018 to August 2024, affecting at least 64 American organizations and generating $866,255 in revenue, primarily laundered through a Chinese bank account.",
-      "keywords": [
-        "North Korea",
-        "IT workforce",
-        "indictment",
-        "cybersecurity",
-        "fraud",
-        "remote work",
-        "cybercrime"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-24T09:17:38.000Z"
     }
   ]
 }
