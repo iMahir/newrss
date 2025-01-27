@@ -4,6 +4,30 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Mistral’s origin story has an insuretech founder at its heart",
+      "link": "https://techcrunch.com/2025/01/27/alans-founder-role-in-mistrals-origin-story/",
+      "author": "Romain Dillet",
+      "thumbnail": null,
+      "summary": "- Mistral, a French AI startup, is valued at $6 billion and is a major player in foundation models in Europe.\n- Jean-Charles Samuelian-Werve, CEO of Alan, is a co-founding advisor at Mistral, instrumental in its growth and funding.\n- Samuelian-Werve foresaw the AI boom and shifted focus from a non-profit to co-founding Mistral; Alan continues to invest in AI services.",
+      "keywords": [
+        "Mistral",
+        "insuretech",
+        "AI",
+        "Jean-Charles Samuelian-Werve",
+        "Alan",
+        "foundation models",
+        "statup",
+        "health insurance"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-27T12:23:39.000Z"
+    },
+    {
       "title": "DeepSeek ‘punctures’ tech spending plans, and what analysts are saying",
       "link": "https://techcrunch.com/2025/01/27/deepseek-punctures-tech-spending-plans-and-what-analysts-are-saying/",
       "author": "Manish Singh",
@@ -1151,29 +1175,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-01-23T23:29:25.000Z"
-    },
-    {
-      "title": "JetBrains launches Junie, a new AI coding agent for its IDEs",
-      "link": "https://techcrunch.com/2025/01/23/jetbrains-launches-junie-a-new-ai-coding-agent-for-its-ides/",
-      "author": "Frederic Lardinois",
-      "thumbnail": null,
-      "summary": "- JetBrains launched a new AI coding agent named [Junie](https://www.jetbrains.com/junie/) for its IDEs.\n- Junie is designed to handle routine development tasks and understand existing projects for feature extensions.\n- It scored 53.6% on the SWEBench Verified benchmark of 500 developer tasks, which is considered promising, though lower than top competitors.\n- The service is tightly integrated with JetBrains IDEs, maintains human control, and aims to improve code quality.\n- Currently in an early access program, Junie is available only on Linux and Mac for IntelliJ IDEA Ultimate and PyCharm Professional, with WebStorm support coming soon.",
-      "keywords": [
-        "JetBrains",
-        "Junie",
-        "AI coding agent",
-        "IDE",
-        "software development",
-        "automation",
-        "programming tools"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-23T22:10:03.000Z"
     }
   ]
 }

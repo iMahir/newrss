@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "China’s DeepSeek AI is hitting Nvidia where it hurts",
+      "link": "https://www.theverge.com/2025/1/27/24352801/deepseek-ai-chatbot-chatgpt-ios-app-store",
+      "author": "Jess Weatherbed",
+      "thumbnail": null,
+      "summary": "- DeepSeek's chatbot has become the most downloaded free app on Apple's App Store, surpassing ChatGPT.\n- The DeepSeek AI assistant uses open-source models, reported to be cheaper and more efficient than leading models like OpenAI’s.\n- The app's downloads surged after the release of the R1 reasoning model on January 20, which competes with OpenAI's benchmarks.\n- DeepSeek's V3 model was developed for less than $6 million using only 2,000 Nvidia chips, compared to over 16,000 for other models.\n- Nvidia shares fell over 12% as investors reevaluate the profitability of existing AI investments amidst DeepSeek's rise.",
+      "keywords": [
+        "DeepSeek",
+        "AI",
+        "Nvidia",
+        "chatbot",
+        "App Store",
+        "open-source",
+        "R1 reasoning model"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-27T12:49:01.000Z"
+    },
+    {
       "title": "iPhone SE 4 appears in new photos and video, notch and all",
       "link": "https://www.theverge.com/2025/1/27/24352767/iphone-se-4-leak-photos-videos-dummy-notch-dynamic-island-camera",
       "author": "Dominic Preston",
@@ -1144,31 +1167,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-23T19:39:41.000Z"
-    },
-    {
-      "title": "Everything we saw at Xbox’s Developer Direct 2025",
-      "link": "https://www.theverge.com/2025/1/23/24350382/xbox-developer-direct-january-2025-doom-ninja-gaiden-trailers",
-      "author": "Ash Parrish",
-      "thumbnail": null,
-      "summary": "- Xbox’s Developer Direct showcased upcoming games including Ninja Gaiden 4 and South of Midnight.\n- **Ninja Gaiden 4** revealed, featuring new character Yakumo and launching in fall 2025. \n- **South of Midnight** stars Hazel, releasing on April 8, 2025, with notable southern gothic themes.\n- **Clair Obscur: Expedition 33**, a turn-based RPG by Sandfall Interactive, due on April 24, 2025, has a unique narrative.\n- **Doom: The Dark Ages**, a prequel to Doom (2016), will focus on narrative elements and mechs, releasing on May 15, 2025.",
-      "keywords": [
-        "Xbox",
-        "Developer Direct",
-        "Ninja Gaiden 4",
-        "South of Midnight",
-        "Doom: The Dark Ages",
-        "Clair Obscur: Expedition 33",
-        "video games",
-        "gaming news",
-        "2025 releases"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-01-23T19:37:33.000Z"
     }
   ]
 }
