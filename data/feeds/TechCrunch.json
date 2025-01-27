@@ -4,6 +4,27 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "TalkTalk investigating data breach after hacker claims theft of customer data",
+      "link": "https://techcrunch.com/2025/01/27/talktalk-investigating-data-breach-after-hacker-claims-theft-of-customer-data/",
+      "author": "Carly Page",
+      "thumbnail": null,
+      "summary": "- TalkTalk is investigating a data breach involving stolen personal information of millions of customers.\n- A hacker, using the alias ‘b0nd’, claims to have stolen data of over 18.8 million current and former subscribers, including names, email addresses, and subscriber PINs.\n- TalkTalk disputes the hacker's claim, stating the number is significantly overstated, with approximately 2.4 million actual customers.\n- The breach is linked to unexpected access of a third-party supplier’s system, though no financial data was compromised.\n- TalkTalk previously faced a £400,000 fine for a 2015 breach where hackers accessed data of 157,000 customers, including financial details.",
+      "keywords": [
+        "data breach",
+        "TalkTalk",
+        "cybersecurity",
+        "customer data",
+        "hacker"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-27T09:38:53.000Z"
+    },
+    {
       "title": "Perplexity submits a new bid for TikTok",
       "link": "https://techcrunch.com/2025/01/26/perplexity-submits-a-new-bid-for-tiktok/",
       "author": null,
@@ -1892,28 +1913,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-01-23T22:01:35.000Z"
-    },
-    {
-      "title": "OpenAI says it may store deleted Operator data for up to 90 days",
-      "link": "https://techcrunch.com/2025/01/23/openai-says-it-may-store-deleted-operator-data-for-up-to-90-days/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "\n- OpenAI may store chats and screenshots from its Operator AI tool for up to 90 days, even after deletion by users.\n- Operator’s data retention period is 60 days longer than the 30 days for ChatGPT.\n- The retention policy aims to prevent misuse and enhance fraud monitoring.\n- Operator can perform tasks autonomously like booking travel and shopping, releasing in a paid research preview.\n- Users are advised that screenshots may be accessed by authorized personnel for abuse investigations and legal matters.",
-      "keywords": [
-        "OpenAI",
-        "Operator",
-        "data retention",
-        "AI agent",
-        "privacy concerns",
-        "ChatGPT"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-23T22:00:29.000Z"
     }
   ]
 }
