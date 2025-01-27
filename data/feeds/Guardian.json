@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "‘Serious concerns’ about DWP’s use of AI to read correspondence from benefit claimants",
+      "link": "https://www.theguardian.com/society/2025/jan/27/dwp-ai-whitemail-benefit-claimants-applicants",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- The DWP receives 25,000 letters and emails daily from over 20 million benefit claimants in the UK.\n- They are using an AI named \"white mail\" to prioritize urgent cases, reducing human processing time from weeks to a day.\n- Serious concerns have been raised regarding the transparency and handling of sensitive personal data by the AI.\n- Critics argue that benefit claimants are not informed about the AI's use, raising ethical implications.\n- There are calls for more transparency, performance data, audits, and safeguards to protect vulnerable claimants.",
+      "keywords": [
+        "DWP",
+        "AI",
+        "benefit claimants",
+        "data protection",
+        "white mail",
+        "transparency",
+        "sensitive data"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-01-27T05:00:11.000Z"
+    },
+    {
       "title": "Gov.uk app could lead to ‘mandatory ID scheme’, claim privacy groups",
       "link": "https://www.theguardian.com/technology/2025/jan/26/govuk-app-wallet-could-lead-to-mandatory-id-scheme-claim-privacy-groups",
       "author": null,
@@ -1143,28 +1166,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-01-19T14:00:06.000Z"
-    },
-    {
-      "title": "Should I be worried about my obsessive TikTok use? My ‘For You’ page doesn’t think so",
-      "link": "https://www.theguardian.com/technology/2025/jan/19/should-i-be-worried-about-my-obsessive-tiktok-use-my-for-you-page-doesnt-think-so",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Users express gratitude for TikTok's ultra-targeted content averaging heartfelt messages amid fears of a US ban.\n- Social media posts highlight personal transformations influenced by TikTok, from relationship advice to self-discovery.\n- The article discusses the paradox of enjoying personalized content while questioning privacy and corporate data use.",
-      "keywords": [
-        "TikTok",
-        "For You page",
-        "US TikTok ban",
-        "social media",
-        "data privacy",
-        "personal transformation"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-01-19T13:00:02.000Z"
     }
   ]
 }
