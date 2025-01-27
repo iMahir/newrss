@@ -4,6 +4,27 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Slack’s Monday morning notification mess",
+      "link": "https://www.theverge.com/2025/1/27/24352892/slack-outage-notifications-messages-threads",
+      "author": "Jess Weatherbed",
+      "thumbnail": null,
+      "summary": "- Some Slack users are experiencing issues with missing notifications or difficulty finding messages this morning.\n- Slack confirmed the problem, logging an incident report at 7:52 AM ET, and is investigating the issue affecting thread notifications.\n- As of 10:10 AM ET, Slack stated that while other notifications should work, threads may not be loading correctly, and some users are facing issues adding members to group chats.",
+      "keywords": [
+        "Slack",
+        "notifications",
+        "incident report",
+        "user issues",
+        "status update"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 3
+      },
+      "pubDate": "2025-01-27T15:16:29.000Z"
+    },
+    {
       "title": "How Ciena keeps the internet online, with CEO Gary Smith",
       "link": "https://www.theverge.com/24351247/ciena-fiber-optic-internet-subsea-cables-wdm-ai-hyperscale-data-decoder-podcast-interview",
       "author": "Nilay Patel",
@@ -1149,28 +1170,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-23T20:27:49.000Z"
-    },
-    {
-      "title": "Perplexity now has a mobile assistant on Android",
-      "link": "https://www.theverge.com/2025/1/23/24350488/perplexity-ai-mobile-assistant-android",
-      "author": "Emma Roth",
-      "thumbnail": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1317x1077/2400x1963/filters:focal(659x539:660x540):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25844086/perplexity_pokemon_2.png",
-      "summary": "- Perplexity launches an AI mobile assistant for Android that can perform tasks like answering questions, writing emails, and setting reminders.\n- The assistant features multimodal capabilities, allowing it to interact with content on the screen and use the phone’s camera.\n- Initial functionality includes support for platforms like Spotify, YouTube, Uber, email, and messaging, with plans to add more features.\n- Currently not available on iPhone; future availability depends on Apple's permissions.",
-      "keywords": [
-        "Perplexity",
-        "mobile assistant",
-        "AI",
-        "Android",
-        "multimodal",
-        "technology"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 8,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-01-23T19:41:01.000Z"
     }
   ]
 }
