@@ -4,6 +4,79 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Smartwatch pioneer and Kickstarter darling Pebble is returning in a new form",
+      "link": "https://techcrunch.com/2025/01/27/smartwatch-pioneer-and-kickstarter-darling-pebble-is-returning-in-a-new-form/",
+      "author": "Brian Heater",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2015/08/eric-migicovsky.jpg?w=660",
+      "summary": "- After filing for insolvency in 2016 and being sold to Fitbit, Pebble creator Eric Migicovsky announces a revival of the brand.\n- Migicovsky plans to create a new smartwatch, leveraging the open-sourced PebbleOS from Google to support further development.\n- The new smartwatch aims to feature an always-on e-paper screen, long battery life, and a hackable design, emphasizing user-centric features over flashy technology.\n- Initial production will be self-funded, as Migicovsky does not plan to seek venture capital or use Kickstarter again.\n- The Pebble brand still has an active community, indicating continued interest despite competition from major players like Apple.",
+      "keywords": [
+        "Pebble",
+        "smartwatch",
+        "Eric Migicovsky",
+        "open-source",
+        "WearOS",
+        "Google",
+        "Kickstarter",
+        "crowdfunding"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 8,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-01-27T20:04:07.000Z"
+    },
+    {
+      "title": "DeepSeek displaces ChatGPT as the App Store’s top app",
+      "link": "https://techcrunch.com/2025/01/27/deepseek-displaces-chatgpt-as-the-app-stores-top-app/",
+      "author": "Maxwell Zeff",
+      "thumbnail": null,
+      "summary": "- DeepSeek, from a Chinese AI lab, became the No. 1 app in global app stores, surpassing ChatGPT.\n- As of January 26, DeepSeek was the No. 1 free app on iOS in the U.S. and in 51 other countries.\n- The app doubled its downloads from 1 million to 2.6 million within a few days, primarily driven by its new AI models.\n- It ranked in the Top 10 for free apps in 111 countries on the App Store and 18 countries on Google Play.\n- Daily active users rose over 110% from January 24 to 25 compared to the previous week.\n- Despite most downloads occurring in China, the U.S. accounts for 15% of its downloads.\n- DeepSeek's rise questions the stability of dominant consumer AI apps like ChatGPT and Gemini.\n- Apple’s algorithm may influence app rankings based on install velocity, not just total downloads.\n- The tech industry is analyzing DeepSeek's training techniques and facing pressure as a result.\n- DeepSeek experienced “large-scale malicious” attacks, limiting registration for users outside of China.",
+      "keywords": [
+        "DeepSeek",
+        "ChatGPT",
+        "AI",
+        "app store",
+        "downloads",
+        "technology",
+        "competition",
+        "Nvidia",
+        "malicious attacks"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-01-27T19:34:36.000Z"
+    },
+    {
+      "title": "How DeepSeek’s efficient AI could stall the nuclear renaissance",
+      "link": "https://techcrunch.com/2025/01/27/how-deepseeks-efficient-ai-could-stall-the-nuclear-renaissance/",
+      "author": "Tim De Chant",
+      "thumbnail": null,
+      "summary": "- DeepSeek has released its R1 model, competing with AI leaders despite using fewer GPUs.\n- The efficiency of DeepSeek raises questions about the necessity of high hardware expenditures in AI.\n- The rise in power demand from AI could shift energy demands away from new nuclear projects, which have been on the rise due to advances in technology.\n- Major tech companies like Google, Amazon, and Microsoft are investing heavily in nuclear and renewable energy to meet anticipated energy needs.\n- Analysts are skeptical about whether DeepSeek’s efficiency can be sustained without advanced GPUs, suggesting trends in the AI field are shifting toward improved model efficiency instead.",
+      "keywords": [
+        "DeepSeek",
+        "AI",
+        "nuclear energy",
+        "renewable energy",
+        "data centers",
+        "energy demand",
+        "Nvidia",
+        "hardware efficiency"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-27T19:12:54.000Z"
+    },
+    {
       "title": "OpenAI-backed 1X acquires Kind Humanoid",
       "link": "https://techcrunch.com/2025/01/27/openai-backed-1x-acquires-kind-humanoid/",
       "author": "Brian Heater",
@@ -1110,76 +1183,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-01-24T14:47:41.000Z"
-    },
-    {
-      "title": "Google commits to combatting fake reviews in the UK after 5-year probe",
-      "link": "https://techcrunch.com/2025/01/24/google-commits-to-combatting-fake-reviews-in-the-uk-after-5-year-probe/",
-      "author": "Paul Sawers",
-      "thumbnail": null,
-      "summary": "- The U.K.’s Competition and Markets Authority (CMA) has reached an agreement with Google to combat fake online reviews.\n- This investigation, initiated in May 2020, concluded with Google agreeing to implement strict measures to identify and remove fake reviews.\n- Google will report to the CMA over a three-year period to provide updates on their progress in combating fake content.",
-      "keywords": [
-        "Google",
-        "fake reviews",
-        "UK",
-        "CMA",
-        "online reviews",
-        "antitrust",
-        "regulation",
-        "Amazon"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-24T14:14:41.000Z"
-    },
-    {
-      "title": "Allara lands $26M to expand women’s hormone telehealth",
-      "link": "https://techcrunch.com/2025/01/24/allara-lands-26m-to-expand-womens-hormone-telehealth/",
-      "author": "Marina Temkin",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2023/10/RACHEL_SOLO_207-e1697582915309.jpg?w=680",
-      "summary": "- Allara has successfully raised $26 million in Series B funding, led by Index Ventures and GV.\n- The company focuses on telehealth for women with hormone conditions, notably PCOS, endometriosis, and hypothyroidism.\n- Allara has teamed up with major health insurance providers to cover its services, expanding to 10 states and planning nationwide coverage with the new funding.",
-      "keywords": [
-        "Allara",
-        "telehealth",
-        "hormone conditions",
-        "funding",
-        "women's health",
-        "PCOS",
-        "Series B"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-24T14:00:00.000Z"
-    },
-    {
-      "title": "Foyer unlocks $6.2M to help people save up to buy homes",
-      "link": "https://techcrunch.com/2025/01/24/foyer-unlocks-6-2m-to-help-people-save-up-to-buy-homes/",
-      "author": "Dominic-Madori Davis",
-      "thumbnail": null,
-      "summary": "- Foyer is a platform that assists users in saving for home down payments, akin to a '401k for homeownership'.\n- Recently secured $6.2 million in a seed funding round led by Alpaca VC and Hometeam Ventures, along with participation from Accion Venture Lab and Clocktower Ventures.\n- Foyer aims to improve financial wellness for aspiring homebuyers through personalized savings goals, real estate connections, and rewards for home purchases.",
-      "keywords": [
-        "Foyer",
-        "homeownership",
-        "savings platform",
-        "down payments",
-        "seed funding",
-        "real estate",
-        "financial wellness"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-24T14:00:00.000Z"
     }
   ]
 }
