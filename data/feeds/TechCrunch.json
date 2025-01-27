@@ -4,6 +4,103 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Quartz has been quietly publishing AI-generated news articles",
+      "link": "https://techcrunch.com/2025/01/27/quartz-has-been-quietly-publishing-ai-generated-news-articles/",
+      "author": "Rebecca Bellan",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/Quartz-TC-story.png?w=680",
+      "summary": "- Quartz has begun publishing AI-generated articles, aggregating reports from other outlets including TechCrunch.\n- The initiative started with simple earnings reports and has expanded to short articles, with 18 AI-generated pieces published as of Monday afternoon.\n- Each article is around 400 words and cites sources only at the top, lacking full quotes and attributions typical in traditional journalism.\n- A spokesperson confirmed that the AI newsroom is “purely experimental,” with editorial staff reviewing each piece before publication.\n- The experimental AI has previously faced criticism for quality issues in reporting, reflecting broader concerns about AI-generated content in media.",
+      "keywords": [
+        "AI",
+        "Quartz",
+        "journalism",
+        "media",
+        "automation",
+        "G/O Media",
+        "news articles"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-27T22:56:56.000Z"
+    },
+    {
+      "title": "How to switch off Apple Intelligence on your iPhone, iPad, and Mac",
+      "link": "https://techcrunch.com/2025/01/27/how-to-switch-off-apple-intelligence-on-your-iphone-ipad-and-mac/",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/Apple-Intelligence-Mac-1.png?w=680",
+      "summary": "- Apple released software updates including iOS 18.3, opting users into [Apple Intelligence](https://techcrunch.com/tag/apple-intelligence/).\n- Users may wish to disable AI features due to concerns about the [environment](https://www.unep.org/news-and-stories/story/ai-has-environmental-problem-heres-what-world-can-do-about#:~:text=But%20when%20it%20comes%20to,becoming%20scarce%20in%20many%20places.) or [political views](https://techcrunch.com/2024/12/13/sam-altman-and-jeff-bezos-are-the-latest-billionaires-to-donate-1m-to-trump-fund/) in the industry.\n- To switch off Apple Intelligence: Go to *Settings* on iOS or *System Settings* on Mac, then tap or click on *Apple Intelligence*, and toggle it off. Confirm the action in the dialog that appears.\n- On iOS, find *Apple Intelligence & Siri*, toggle the switch to turn it off and consider disabling Siri for privacy reasons.\n- Apple claims its AI features are designed with privacy in mind, utilizing a system called [Private Cloud Computer](https://techcrunch.com/2024/10/24/apple-will-pay-security-researchers-up-to-1-million-to-hack-its-private-ai-cloud/).",
+      "keywords": [
+        "Apple Intelligence",
+        "iOS",
+        "Mac",
+        "AI",
+        "privacy",
+        "technology"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-27T22:34:04.000Z"
+    },
+    {
+      "title": "DeepSeek claims its ‘reasoning’ model beats OpenAI’s o1 on certain benchmarks",
+      "link": "https://techcrunch.com/2025/01/27/deepseek-claims-its-reasoning-model-beats-openais-o1-on-certain-benchmarks/",
+      "author": "Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/Screenshot-2025-01-20-at-11.31.39AM.png?w=680",
+      "summary": "- Chinese AI lab DeepSeek has launched an open reasoning model, DeepSeek-R1, which claims to perform on par with OpenAI’s o1 on certain benchmarks.\n- R1 is available on [Hugging Face](https://huggingface.co/deepseek-ai/DeepSeek-R1) under an MIT license for commercial use.\n- It reportedly surpasses o1 in benchmarks like AIME, MATH-500, and SWE-bench Verified.\n- The model has 671 billion parameters, with smaller distilled versions also released.\n- R1 is cheaper than OpenAI’s o1, priced 90%-95% lower.\n- Over 500 derivative models of R1 have been created, totaling 2.5 million downloads.\n- R1 has restrictions on sensitive topics due to Chinese regulatory guidelines, such as avoiding questions about Tiananmen Square.\n- The launch coincides with proposed harsher restrictions on exporting AI technologies to China by the Biden administration.",
+      "keywords": [
+        "DeepSeek",
+        "AI model",
+        "OpenAI",
+        "reasoning",
+        "Hugging Face",
+        "machine learning",
+        "Chinese AI",
+        "parameters",
+        "distilled models",
+        "benchmarking"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-01-27T22:27:55.000Z"
+    },
+    {
+      "title": "Nvidia drops $600B off its market cap amid the rise of DeepSeek",
+      "link": "https://techcrunch.com/2025/01/27/nvidia-drops-600bn-off-its-market-cap-amid-the-rise-of-deepseek/",
+      "author": "Becca",
+      "thumbnail": null,
+      "summary": "- DeepSeek, a Chinese AI startup, released its R1 model, impacting Nvidia's market performance.\n- Nvidia's stock fell 16.9%, losing nearly $600 billion in market cap; closed at $118.58 after previously being $142.62.\n- R1's efficiency and effectiveness signal that advanced AI models can be built with less costly hardware, alarming Nvidia.\n- Recent changes in U.S. AI chip export policies following Biden's executive order, which was reversed by Trump, add to the market dynamics.",
+      "keywords": [
+        "Nvidia",
+        "DeepSeek",
+        "AI",
+        "market cap",
+        "R1 model",
+        "semiconductors",
+        "Biden",
+        "Trump",
+        "AI hardware",
+        "export restrictions"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-27T22:23:16.000Z"
+    },
+    {
       "title": "Alibaba’s Qwen team releases AI models that can control PCs and phones",
       "link": "https://techcrunch.com/2025/01/27/alibabas-qwen-team-releases-ai-models-that-can-control-pcs-and-phones/",
       "author": "Kyle Wiggers",
@@ -1093,98 +1190,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-01-24T17:30:37.000Z"
-    },
-    {
-      "title": "Kodiak has made its first driverless truck deliveries to customer Atlas Energy",
-      "link": "https://techcrunch.com/2025/01/24/kodiak-has-made-its-first-driverless-truck-deliveries-to-customer-atlas-energy/",
-      "author": "Rebecca Bellan",
-      "thumbnail": null,
-      "summary": "• Kodiak Robotics has completed its first commercial launch with two autonomous trucks delivered to Atlas Energy Solutions.  \n• Atlas began driverless operations in December 2024, delivering 100 loads without a human safety driver in the Permian Basin.  \n• This marks the first case where a customer owns and operates the driverless vehicles without the AV company's involvement.  \n• Kodiak aims to sell its AI Driver-as-a-Solution, focusing on technology rather than running its own shipping operations.  \n• The Atlas deal is part of Kodiak’s near-term go-to-market strategy amidst ongoing pilots for highway operations.  \n• Kodiak is generating revenue from Atlas through a combined hardware and software subscription model, including modular sensors and self-driving software.  \n• An office has been established in Odessa, Texas, for operational support, with plans to expand the Kodiak team.",
-      "keywords": [
-        "Kodiak Robotics",
-        "Atlas Energy Solutions",
-        "autonomous trucks",
-        "driverless delivery",
-        "Permian Basin",
-        "AI Driver-as-a-Solution"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-24T17:11:51.000Z"
-    },
-    {
-      "title": "Threads is testing ads in the U.S. and Japan",
-      "link": "https://techcrunch.com/2025/01/24/threads-is-testing-ads-in-the-u-s-and-japan/",
-      "author": "Ivan Mehta",
-      "thumbnail": null,
-      "summary": "- Meta's Threads is launching ad tests with select brands in the U.S. and Japan.\n- Instagram head Adam Mosseri emphasized that feedback will be crucial before expanding the ads to more markets.\n- Early ad formats will be image ads marked with a \"Sponsored\" label, and users will have controls for ad topics.\n- Threads, which started in 2023, has grown to over 275 million monthly active users as of now.",
-      "keywords": [
-        "Threads",
-        "Meta",
-        "advertising",
-        "social media",
-        "Instagram",
-        "user growth",
-        "consumer tech"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-01-24T17:09:11.000Z"
-    },
-    {
-      "title": "Sam Altman’s World now wants to link AI agents to your digital identity",
-      "link": "https://techcrunch.com/2025/01/24/sam-altmans-world-now-wants-to-link-ai-agents-to-your-digital-identity/",
-      "author": "Maxwell Zeff",
-      "thumbnail": null,
-      "summary": "- OpenAI CEO Sam Altman announced the launch of Operator, an AI agent that acts autonomously on the web.\n- Altman's World project aims to create tools linking AI agents to people's online personas for verification.\n- World project utilizes blockchain technology for digital 'proof of human' tools, derived from a biometric identity scan.\n- Tools for Humanity, leading the project, has faced controversies, including temporary bans in some countries.\n- World ID technology could license AI agents to act on behalf of users.\n- Businesses may change permissions to allow AI agents for user interactions, enhancing sales opportunities.\n- Altman's ventures create a network aimed at centralizing AI technologies, with potential integration with OpenAI.",
-      "keywords": [
-        "AI agents",
-        "digital identity",
-        "Sam Altman",
-        "World project",
-        "blockchain",
-        "proof of human",
-        "Operators"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-24T17:04:00.000Z"
-    },
-    {
-      "title": "Flip, the TikTok Shop rival, launches a creator fund that grants up to $100M of equity",
-      "link": "https://techcrunch.com/2025/01/24/flip-launches-a-creator-fund-that-grants-up-to-100m-of-equity/",
-      "author": "Lauren Forristal",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/Flip3.png?w=680",
-      "summary": "- Flip is a social commerce app enabling shoppers to become creators and earn money by sharing reviews.\n- The newly introduced creator fund offers up to $100 million in grants, ranging from $6,000 to $100,000 depending on engagement, with aims to distribute up to $1 million daily for the first month.\n- Eligibility requires creators to have a minimum of 4,000 followers and 10 videos with at least 3,000 views in the past month, or 20,000 followers on other platforms.\n- Within 72 hours of the fund's launch, nearly 10,000 influencers applied, with the highest grant awarded being $67,000.\n- Flip has gained 580,000 downloads in January and is currently introducing new features to enhance user engagement as part of its strategy to compete in the social commerce market.",
-      "keywords": [
-        "Flip",
-        "creator fund",
-        "social commerce",
-        "influencers",
-        "TikTok Shop",
-        "grants",
-        "equity",
-        "platform competition"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-24T15:43:18.000Z"
     }
   ]
 }
