@@ -4,6 +4,29 @@
   "feedUrl": "https://www.fastcompany.com/technology/rss",
   "items": [
     {
+      "title": "Why did DeepSeek tell me it’s made by Microsoft?",
+      "link": "https://www.fastcompany.com/91267647/deepseek-told-me-made-by-microsoft-r1-openai-claude-anthropic-ai-model-copilot?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- The release of DeepSeek’s R1 model on January 20 caused a significant impact on American tech markets, particularly Nvidia, due to its lower cost and performance claims.\n- Analysts doubt DeepSeek's claims of performance rivaling OpenAI's o1 model, calling its cost-effectiveness into question.\n- During a conversation, DeepSeek insisted it is part of Microsoft’s Copilot suite and built on OpenAI’s GPT-4 architecture, refuting claims of being solely a Chinese product.",
+      "keywords": [
+        "DeepSeek",
+        "Microsoft",
+        "AI models",
+        "OpenAI",
+        "technology",
+        "Nvidia",
+        "performance claims"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-28T10:00:00.000Z"
+    },
+    {
       "title": "How the U.S. chip bans led to a monster called DeepSeek",
       "link": "https://www.fastcompany.com/91267968/how-the-biden-chip-bans-created-a-monster-called-deepseek?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
       "author": null,
@@ -1138,31 +1161,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-01-20T18:45:00.000Z"
-    },
-    {
-      "title": "Elon Musk keeps hyping up his self-driving robotaxis. Can he ever deliver?",
-      "link": "https://www.fastcompany.com/91262447/elon-musk-keeps-hyping-up-his-self-driving-robotaxis-can-he-deliver?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "author": null,
-      "thumbnail": null,
-      "summary": "• In 2019, Musk promised one million self-driving robotaxis by 2022, which did not materialize.\n• The release date was pushed to 2023 and then to a flexible target of 2027 for the Cybercab design.\n• Tesla's FSD technology has improved but still requires human supervision and is not fully autonomous.\n• Musk claims significant growth in FSD capabilities, increasing highway miles before disengagement from 85 to 724 miles.\n• Musk predicts Tesla's FSD will surpass human driver safety by Q2 2025, as Tesla employees conduct autonomous trials.",
-      "keywords": [
-        "Elon Musk",
-        "self-driving",
-        "robotaxis",
-        "Cybercab",
-        "Tesla",
-        "FSD",
-        "autonomous vehicles",
-        "technology",
-        "innovation"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-20T10:00:00.000Z"
     }
   ]
 }
