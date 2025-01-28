@@ -4,6 +4,79 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "Chinese AI chatbot DeepSeek censors itself in realtime, users report",
+      "link": "https://www.theguardian.com/technology/2025/jan/28/chinese-ai-chatbot-deepseek-censors-itself-in-realtime-users-report",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Users report that DeepSeek, a Chinese AI chatbot, censors itself in real time while responding to queries.\n- The chatbot begins by generating thoughtful responses but abruptly removes sensitive content, reflecting self-censorship under Chinese governance.\n- A user experienced this firsthand while discussing free speech in China, noting that the chatbot quickly shifted from insightful commentary to refusing to engage with the topic.",
+      "keywords": [
+        "DeepSeek",
+        "AI chatbot",
+        "censorship",
+        "China",
+        "free speech",
+        "real-time",
+        "technology"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-01-28T19:31:09.000Z"
+    },
+    {
+      "title": "What will Washington do about Chinese startup DeepSeek and its AI chatbot?",
+      "link": "https://www.theguardian.com/technology/2025/jan/28/deepseek-ai-us-response",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- The White House is investigating national security concerns surrounding DeepSeek, a Chinese AI startup.\n- DeepSeek’s AI assistant app is gaining popularity in the US and UK, recently recovering from a cyberattack that limited registrations.\n- The tech sector's stock market saw a decline of $1 trillion in reaction to DeepSeek’s rise, significantly affecting Nvidia’s market cap.\n- DeepSeek’s app reportedly censors sensitive political topics, raising concerns about user data privacy potentially being shared with the Chinese government.\n- Washington is reconsidering its approach to Chinese tech apps amid ongoing TikTok negotiations, with Trump emphasizing the need for US competitiveness.\n- Sam Altman of OpenAI acknowledged DeepSeek’s R1 model as impressive, indicating a shift in the perception of AI innovation globally.",
+      "keywords": [
+        "DeepSeek",
+        "AI",
+        "China",
+        "national security",
+        "cyberattack",
+        "stock market",
+        "privacy",
+        "data collection",
+        "Nvidia",
+        "competition"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-28T19:30:48.000Z"
+    },
+    {
+      "title": "Former OpenAI safety researcher brands pace of AI development ‘terrifying’",
+      "link": "https://www.theguardian.com/technology/2025/jan/28/former-openai-safety-researcher-brands-pace-of-ai-development-terrifying",
+      "author": "Steven Adler",
+      "thumbnail": null,
+      "summary": "- Steven Adler, a former safety researcher at [OpenAI](https://www.theguardian.com/technology/openai), expresses concern about the rapid pace of AI development, calling it a \"very risky gamble.\"\n- Adler fears the race for artificial general intelligence (AGI) could have catastrophic consequences, highlighting doubts about the future of humanity.\n- He notes that no research lab currently has a solution for AI alignment, raising alarms about the industry’s speed compromising safety regulations.",
+      "keywords": [
+        "AI development",
+        "AGI",
+        "OpenAI",
+        "Steven Adler",
+        "artificial intelligence",
+        "safety regulations",
+        "humanity",
+        "AI alignment"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-28T19:06:33.000Z"
+    },
+    {
       "title": "Tech billionaires lost almost $100bn in stock market selloff sparked by DeepSeek",
       "link": "https://www.theguardian.com/technology/2025/jan/28/deepseek-selloff",
       "author": null,
@@ -1100,77 +1173,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-22T18:00:19.000Z"
-    },
-    {
-      "title": "The Nintendo Switch 2 reveal was exciting – but will it entice you to upgrade?",
-      "link": "https://www.theguardian.com/games/2025/jan/22/pushing-buttons-nintendo-switch-2-keza-macdonald",
-      "author": null,
-      "thumbnail": "https://i.guim.co.uk/img/media/a03cde5e80fdc4ea3f1feb6fb54e2c984a998d7e/286_0_4363_2618/master/4363.jpg?width=620&dpr=1&s=none&crop=none",
-      "summary": "- Nintendo announced the Switch 2 following leaks; no details about its appearance yet.\n- Scheduled reveal event in April is expected to provide more information.\n- The Switch 2 will be more powerful and feature-rich but maintains the same form factor as the original Switch.\n- Other hybrid consoles like Steam Deck and PlayStation Portal have emerged since the original Switch.\n- Nintendo may not need to rely heavily on hardware sales due to its expanding influence through games and media.\n- Financially, Nintendo holds significant cash reserves, allowing for long-term planning and innovation in gaming.\n- Actual game content will be crucial for the Switch 2's success, only a new Mario Kart appears confirmed so far.\n- A range of nostalgic and innovative titles are hoped for in future announcements, including potential revivals of franchises like Star Fox and F-Zero.",
-      "keywords": [
-        "Nintendo",
-        "Switch 2",
-        "gaming",
-        "console",
-        "announcements",
-        "tech",
-        "video games"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-22T15:00:06.000Z"
-    },
-    {
-      "title": "Competition watchdog role for ex-boss of Amazon UK ‘a slap in face’, say unions",
-      "link": "https://www.theguardian.com/technology/2025/jan/22/doug-gurr-amazon-uk-ex-boss-appointment-competition-and-markets-authority-cma",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Doug Gurr, former Amazon UK boss, appointed as chair of the UK’s Competition and Markets Authority (CMA).\n- His appointment criticized by unions and consumer activists as a conflict of interest amid new tech investigations.\n- Gurr replaces Marcus Bokkerink, who stepped down after a call for regulatory ideas to boost economic growth.\n- The CMA is set to launch investigations into tech firms, starting with Google, under a new digital markets regime.\n- There are concerns about the CMA's independence and potential favoritism towards big tech companies.",
-      "keywords": [
-        "Doug Gurr",
-        "CMA",
-        "Amazon",
-        "competition",
-        "technology firms",
-        "regulatory independence",
-        "economic growth",
-        "monopolies"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-22T14:52:21.000Z"
-    },
-    {
-      "title": "Elon Musk admits cheating at video games, chat transcript appears to show",
-      "link": "https://www.theguardian.com/technology/2025/jan/22/elon-musk-admits-cheating-at-video-games-chat-transcript-appears-to-show",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Elon Musk admitted to cheating in video games to achieve high scores, according to a private chat transcript.\n- He previously claimed to be in the top 20 players worldwide for *Diablo IV*.\n- Musk acknowledged participating in ‘account boosting’, a cheating practice, during a conversation with top player NikoWrex.\n- Despite his claims, experts pointed out mistakes in his gameplay during a recent livestream.\n- Musk's admission came amid a scandal about his gaming prowess and drew attention after discussions on Joe Rogan's podcast.",
-      "keywords": [
-        "Elon Musk",
-        "video games",
-        "cheating",
-        "Diablo IV",
-        "Path of Exile 2",
-        "NikoWrex",
-        "gaming scandal",
-        "account boosting"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-01-22T14:48:00.000Z"
     }
   ]
 }
