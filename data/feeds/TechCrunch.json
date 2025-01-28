@@ -4,6 +4,53 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Figure AI details plan to improve humanoid robot safety in the workplace",
+      "link": "https://techcrunch.com/2025/01/28/figure-ai-details-plan-to-improve-humanoid-robot-safety-in-the-workplace/",
+      "author": "Brian Heater",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/nvidia-ces-jensen-robotics.png?w=680",
+      "summary": "[Safety of humanoid robots is often overlooked in workplace integration]\n[Figure AI is establishing a Center for the Advancement of Humanoid Safety, led by former Amazon Robotics safety engineer Rob Gruendel]\n[The firm aims to certify robot safety standards in collaboration with OSHA recognized independent testing laboratories and improve safety measures for robotic systems working alongside humans]",
+      "keywords": [
+        "humanoid robots",
+        "workplace safety",
+        "Figure AI",
+        "robotics",
+        "OSHA",
+        "safety standards"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-28T20:17:44.000Z"
+    },
+    {
+      "title": "Tesla Superchargers: GM, Ford, Rivian, and other EV brands with access",
+      "link": "https://techcrunch.com/2025/01/28/tesla-superchargers-gm-ford-rivian-and-other-ev-brands-with-access/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Ford locked in a deal in May 2023 for its EVs to access the Tesla Supercharger network.\n- By the end of 2023, most major automakers, including GM and Rivian, agreed to adopt Tesla’s North American Charging Standard (NACS).\n- As of January 31, 2025, Lucid Gravity SUV owners will have access to Tesla Superchargers, and existing Lucid Air sedan owners will have access via adapters in Q2 2025.\n- GM's EVs gained access to Tesla Superchargers in September 2024, requiring a $225 GM-approved adapter for access.\n- Hyundai plans to provide access to NACS chargers for EV owners beginning January 15, 2025, with new EVs featuring NACS plugs.\n- Rivian gained access to 15,000 Superchargers on March 18, 2024, with adapters being shipped to customers.\n- Mercedes-Benz EVs will access Tesla's network starting February 2025, with approved adapters available for $185.\n- Nissan plans to provide access to its Ariya drivers via a NACS adapter starting late 2024.\n- Volvo and Polestar began offering access to Tesla’s Supercharger network in late October 2024, with specific adapter availability details.",
+      "keywords": [
+        "Tesla Supercharger",
+        "EV access",
+        "Ford",
+        "GM",
+        "Rivian",
+        "NACS",
+        "electric vehicles",
+        "charging standards",
+        "automaker agreements"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-28T20:11:28.000Z"
+    },
+    {
       "title": "Bookshop.org challenges Amazon with new e-book platform",
       "link": "https://techcrunch.com/2025/01/28/bookshop-org-challenges-amazon-with-new-e-book-platform/",
       "author": "Amanda Silberling",
@@ -1124,52 +1171,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-01-27T19:34:36.000Z"
-    },
-    {
-      "title": "How DeepSeek’s efficient AI could stall the nuclear renaissance",
-      "link": "https://techcrunch.com/2025/01/27/how-deepseeks-efficient-ai-could-stall-the-nuclear-renaissance/",
-      "author": "Tim De Chant",
-      "thumbnail": null,
-      "summary": "- DeepSeek has released its R1 model, competing with AI leaders despite using fewer GPUs.\n- The efficiency of DeepSeek raises questions about the necessity of high hardware expenditures in AI.\n- The rise in power demand from AI could shift energy demands away from new nuclear projects, which have been on the rise due to advances in technology.\n- Major tech companies like Google, Amazon, and Microsoft are investing heavily in nuclear and renewable energy to meet anticipated energy needs.\n- Analysts are skeptical about whether DeepSeek’s efficiency can be sustained without advanced GPUs, suggesting trends in the AI field are shifting toward improved model efficiency instead.",
-      "keywords": [
-        "DeepSeek",
-        "AI",
-        "nuclear energy",
-        "renewable energy",
-        "data centers",
-        "energy demand",
-        "Nvidia",
-        "hardware efficiency"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-27T19:12:54.000Z"
-    },
-    {
-      "title": "OpenAI-backed 1X acquires Kind Humanoid",
-      "link": "https://techcrunch.com/2025/01/27/openai-backed-1x-acquires-kind-humanoid/",
-      "author": "Brian Heater",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/NEO_STILL.jpg?w=680",
-      "summary": "- 1X has acquired Kind Humanoid, a Norwegian robotics startup.  \n- The acquisition signals a pivotal moment for the humanoid robotics industry ahead of 2025.  \n- Kind Humanoid previously collaborated with designer Yves Behar to develop its first commercial robot.  \n- The deal enhances 1X's ability to create safe and intelligent humanoids, aligning with its vision to integrate humanoids into daily life.  \n- Financial details of the acquisition have not been disclosed.",
-      "keywords": [
-        "1X",
-        "Kind Humanoid",
-        "acquisition",
-        "robotics",
-        "OpenAI",
-        "humanoids"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 8,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-27T19:00:00.000Z"
     }
   ]
 }
