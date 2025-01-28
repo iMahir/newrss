@@ -1,5 +1,199 @@
 [
   {
+    "title": "Former Intel CEO Pat Gelsinger is already using DeepSeek instead of OpenAI at his startup, Gloo",
+    "id": "0nn33sa0hc61pz",
+    "summary": "- DeepSeek introduced an open source AI reasoning model, R1, boosting its consumer app to the top of app stores.\n- Pat Gelsinger, former CEO of Intel, has opted for DeepSeek over OpenAI for his startup Gloo's AI service, Kallm.\n- Gelsinger claims R1 is significantly cheaper, estimating it to be 10-50x less expensive to train than OpenAI's existing models.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 8,
+      "impact": 9,
+      "novelty": 7,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "DeepSeek",
+      "Pat Gelsinger",
+      "open source AI",
+      "Gloo",
+      "AI reasoning model",
+      "R1",
+      "OpenAI",
+      "Nvidia",
+      "TechCrunch"
+    ],
+    "sources": [
+      {
+        "title": "Former Intel CEO Pat Gelsinger is already using DeepSeek instead of OpenAI at his startup, Gloo",
+        "link": "https://techcrunch.com/2025/01/27/former-intel-ceo-pat-gelsinger-is-already-using-deepseek-instead-of-openai-at-his-startup-gloo/"
+      }
+    ],
+    "lastUpdated": "2025-01-28T00:48:14.912Z"
+  },
+  {
+    "title": "Israeli autotech firm cuts 60% staff, shifts focus",
+    "id": "0szco631t69pvo",
+    "summary": "- Aurora Labs is laying off 45 employees, representing 60% of its workforce.\n- The company is shifting focus to high-performance computing (HPC) monitoring in vehicles and data centers.\n- Previously, Aurora provided over-the-air (OTA) software updates, but demand for OTA updates has lagged.\n- The new focus is on the AI platform LOCI for real-time monitoring of software issues in HPC systems.\n- Aurora Labs maintains financial stability with tens of millions in cash reserves and has raised nearly US$100 million from investors.",
+    "thumbnails": [
+      "https://cdn.techinasia.com/wp-content/uploads/2024/12/1735011218_shutterstock_1956837997-scaled.jpg"
+    ],
+    "scores": {
+      "scale": 6,
+      "impact": 7,
+      "novelty": 5,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "Aurora Labs",
+      "autotech",
+      "layoffs",
+      "high-performance computing",
+      "HPC",
+      "software updates"
+    ],
+    "sources": [
+      {
+        "title": "Israeli autotech firm cuts 60% staff, shifts focus",
+        "link": "https://www.techinasia.com/news/israeli-autotech-firm-cuts-60-staff-shifts-focus"
+      }
+    ],
+    "lastUpdated": "2025-01-28T00:48:14.912Z"
+  },
+  {
+    "title": "SonicWall Reports Zero-Day Exploit Targeting Ivanti VPNs and New Backdoor Threats",
+    "id": "13e310h1orzqc4",
+    "summary": "- Ivanti VPNs are actively attacked due to the critical vulnerability [CVE-2025-0282](https://arstechnica.com/security/2025/01/ivanti-vpn-users-are-getting-hacked-by-actors-exploiting-a-critical-vulnerability/).\n- The vulnerability grants complete control over network devices without authentication.\n- A patch has been released to upgrade Connect Secure devices to version 22.7R2.5.\n- Attackers use this vulnerability to deploy malware packages like DRYHOOK and PHASEJAM.\n- PHASEJAM establishes a web shell for remote access and mimics an upgrade process.\n- SPAWNANT malware is employed to disable Ivanti's integrity checker.\n\n- A new backdoor named J-Magic targets enterprise VPNs using Juniper's Junos OS.\n- J-Magic activates upon receiving a 'magic packet' with an RSA key challenge.\n- This backdoor operates solely in memory, complicating detection and has been found in 36 organizations.\n\n- SonicWall identified a zero-day vulnerability in the SMA1000 remote access appliance, CVE-2025-23006.\n- This allows malware installation without user login and affects several thousand devices.\n- Users are urged to apply security patches following its confirmation as actively exploited by Microsoft.\n- Cybersecurity products are increasingly at risk due to such vulnerabilities.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 7,
+      "longTermSignificance": 5.25
+    },
+    "keywords": [
+      "ivanti",
+      "vpn",
+      "cybersecurity",
+      "malware",
+      "vulnerability",
+      "cve-2025-0282",
+      "dryhook",
+      "phasejam",
+      "spawnant",
+      "backdoor",
+      "junos os",
+      "magic packets",
+      "network security",
+      "sonicwall",
+      "zero-day",
+      "cve-2025-23006",
+      "remote access",
+      "sma1000",
+      "microsoft"
+    ],
+    "sources": [
+      {
+        "title": "Ongoing attacks on Ivanti VPNs install a ton of sneaky, well-written malware",
+        "link": "https://arstechnica.com/security/2025/01/ivanti-vpn-users-are-getting-hacked-by-actors-exploiting-a-critical-vulnerability/"
+      },
+      {
+        "title": "Backdoor infecting VPNs used “magic packets” for stealth and security",
+        "link": "https://arstechnica.com/security/2025/01/backdoor-infecting-vpns-used-magic-packets-for-stealth-and-security/"
+      },
+      {
+        "title": "SonicWall says hackers are exploiting a new zero-day bug to breach customer networks",
+        "link": "https://techcrunch.com/2025/01/27/sonicwall-says-hackers-are-exploiting-a-new-zero-day-bug-to-breach-customer-networks/"
+      }
+    ],
+    "lastUpdated": "2025-01-28T00:48:14.911Z"
+  },
+  {
+    "title": "FBI’s warrantless ‘backdoor’ searches ruled unconstitutional",
+    "id": "0lg6gz21u9p9kr",
+    "summary": "• A federal court ruled that the FBI's searches of US citizens' communications under Section 702 of FISA are unconstitutional, violating the Fourth Amendment.\n• The ruling was made by US District Court Judge LaShann DeArcy Hall, coming after years of litigation. \n• The case involved Agron Hasbajrami, whose emails were obtained without a warrant. \n• In 2023, the FBI conducted over 57,000 searches of US person data, a 52% decrease from 2022.\n• The ruling declares warrantless searches unreasonable and calls for a legislative warrant requirement to protect citizens’ rights.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 9,
+      "novelty": 6,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "FBI",
+      "Fourth Amendment",
+      "backdoor searches",
+      "FISA",
+      "privacy rights",
+      "US citizens",
+      "legislative warrant requirement",
+      "national security"
+    ],
+    "sources": [
+      {
+        "title": "FBI’s warrantless ‘backdoor’ searches ruled unconstitutional",
+        "link": "https://www.theverge.com/2025/1/27/24353289/fbi-warrantless-backdoor-searches-unconstitutional-ruling"
+      }
+    ],
+    "lastUpdated": "2025-01-28T00:48:14.911Z"
+  },
+  {
+    "title": "How the U.S. chip bans led to a monster called DeepSeek",
+    "id": "0jkvxy41oddyp3",
+    "summary": "- DeepSeek, a Chinese AI company, has created advanced AI models despite U.S. chip export restrictions.\n- The company used H800 chips, allowed by the U.S., and achieved state-of-the-art performance at a fraction of the cost compared to competitors.\n- Their DeepSeek-V3 model cost $5.576 million to train, compared to over $100 million for OpenAI’s GPT-4.\n- DeepSeek’s engineering innovations include a ‘mixture of experts’ approach and improved memory allocation techniques.\n- The DeepSeek chatbot has become the top free app on Apple, but also faced cyberattacks that led to limited registrations.\n- Nvidia's stock fell nearly 17% following the success of DeepSeek, challenging prior beliefs about the need for expensive GPUs in AI.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "DeepSeek",
+      "AI models",
+      "U.S. chip bans",
+      "Nvidia",
+      "machine learning",
+      "DeepSeek-V3",
+      "H800 chips",
+      "open-source",
+      "cybersecurity"
+    ],
+    "sources": [
+      {
+        "title": "How the U.S. chip bans led to a monster called DeepSeek",
+        "link": "https://www.fastcompany.com/91267968/how-the-biden-chip-bans-created-a-monster-called-deepseek?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
+      }
+    ],
+    "lastUpdated": "2025-01-28T00:48:14.911Z"
+  },
+  {
+    "title": "Everything wrong with the AI landscape in 2025, hilariously captured in this ‘SNL’ sketch",
+    "id": "11qsfx71w2jbs1",
+    "summary": "- The new Saturday Night Live sketch critiques AI's complexity rather than simplifying tasks.\n- The sketch's premise features a school using an AI program that turns textbooks into podcasts, paralleling Google’s NotebookLM.\n- It highlights AI products' questionable utility and inherent glitches, often leaving users more confused.\n- Gavin Purcell notes that while real AI tech like NotebookLM has benefits, it struggles with accuracy and redundancy in content.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 6,
+      "impact": 7,
+      "novelty": 5,
+      "longTermSignificance": 5
+    },
+    "keywords": [
+      "AI",
+      "SNL",
+      "sketch",
+      "Google NotebookLM",
+      "podcasts",
+      "technology",
+      "comedy"
+    ],
+    "sources": [
+      {
+        "title": "Everything wrong with the AI landscape in 2025, hilariously captured in this ‘SNL’ sketch",
+        "link": "https://www.fastcompany.com/91267634/everything-wrong-with-the-ai-landscape-in-2025-hilariously-captured-in-this-snl-sketch?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
+      }
+    ],
+    "lastUpdated": "2025-01-28T00:48:14.910Z"
+  },
+  {
     "title": "How to switch off Apple Intelligence on your iPhone, iPad, and Mac",
     "id": "0lns95z18h2hhi",
     "summary": "- Apple released software updates including iOS 18.3, opting users into [Apple Intelligence](https://techcrunch.com/tag/apple-intelligence/).\n- Users may wish to disable AI features due to concerns about the [environment](https://www.unep.org/news-and-stories/story/ai-has-environmental-problem-heres-what-world-can-do-about#:~:text=But%20when%20it%20comes%20to,becoming%20scarce%20in%20many%20places.) or [political views](https://techcrunch.com/2024/12/13/sam-altman-and-jeff-bezos-are-the-latest-billionaires-to-donate-1m-to-trump-fund/) in the industry.\n- To switch off Apple Intelligence: Go to *Settings* on iOS or *System Settings* on Mac, then tap or click on *Apple Intelligence*, and toggle it off. Confirm the action in the dialog that appears.\n- On iOS, find *Apple Intelligence & Siri*, toggle the switch to turn it off and consider disabling Siri for privacy reasons.\n- Apple claims its AI features are designed with privacy in mind, utilizing a system called [Private Cloud Computer](https://techcrunch.com/2024/10/24/apple-will-pay-security-researchers-up-to-1-million-to-hack-its-private-ai-cloud/).",
@@ -8565,44 +8759,6 @@
       }
     ],
     "lastUpdated": "2025-01-24T02:10:53.835Z"
-  },
-  {
-    "title": "Critical Vulnerabilities in Ivanti VPNs and New Backdoor Threats",
-    "id": "13e310h1orzqc4",
-    "summary": "- Ivanti VPN networks are under active attack exploiting the critical vulnerability [CVE-2025-0282](https://arstechnica.com/security/2025/01/ivanti-vpn-users-are-getting-hacked-by-actors-exploiting-a-critical-vulnerability/).\n- This vulnerability allows complete control over network-connected devices with no authentication required.\n- A security patch was released, upgrading Connect Secure devices to version 22.7R2.5.\n- Attackers exploit this vulnerability to install new malware packages, DRYHOOK and PHASEJAM.\n- PHASEJAM creates a web shell for remote access and simulates the upgrade process to deceive administrators.\n- SPAWNANT malware is also used to disable Ivanti's integrity checker for device files.\n\n- Researchers revealed a new backdoor, J-Magic, affecting enterprise VPNs using Juniper's Junos OS.\n- The backdoor remains dormant until it receives a 'magic packet', which includes a challenge encrypted with an RSA key.\n- J-Magic only exists in memory, making it harder to detect and has been identified in 36 organizations' networks.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 7,
-      "longTermSignificance": 5.5
-    },
-    "keywords": [
-      "ivanti",
-      "vpn",
-      "cybersecurity",
-      "malware",
-      "vulnerability",
-      "cve-2025-0282",
-      "dryhook",
-      "phasejam",
-      "spawnant",
-      "backdoor",
-      "junos os",
-      "magic packets",
-      "network security"
-    ],
-    "sources": [
-      {
-        "title": "Ongoing attacks on Ivanti VPNs install a ton of sneaky, well-written malware",
-        "link": "https://arstechnica.com/security/2025/01/ivanti-vpn-users-are-getting-hacked-by-actors-exploiting-a-critical-vulnerability/"
-      },
-      {
-        "title": "Backdoor infecting VPNs used “magic packets” for stealth and security",
-        "link": "https://arstechnica.com/security/2025/01/backdoor-infecting-vpns-used-magic-packets-for-stealth-and-security/"
-      }
-    ],
-    "lastUpdated": "2025-01-24T02:10:53.834Z"
   },
   {
     "title": "Even some of the best AI can’t beat this new benchmark",

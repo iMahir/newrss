@@ -4,6 +4,56 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Former Intel CEO Pat Gelsinger is already using DeepSeek instead of OpenAI at his startup, Gloo",
+      "link": "https://techcrunch.com/2025/01/27/former-intel-ceo-pat-gelsinger-is-already-using-deepseek-instead-of-openai-at-his-startup-gloo/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- DeepSeek introduced an open source AI reasoning model, R1, boosting its consumer app to the top of app stores.\n- Pat Gelsinger, former CEO of Intel, has opted for DeepSeek over OpenAI for his startup Gloo's AI service, Kallm.\n- Gelsinger claims R1 is significantly cheaper, estimating it to be 10-50x less expensive to train than OpenAI's existing models.",
+      "keywords": [
+        "DeepSeek",
+        "Pat Gelsinger",
+        "open source AI",
+        "Gloo",
+        "AI reasoning model",
+        "R1",
+        "OpenAI",
+        "Nvidia",
+        "TechCrunch"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-28T00:06:17.000Z"
+    },
+    {
+      "title": "SonicWall says hackers are exploiting a new zero-day bug to breach customer networks",
+      "link": "https://techcrunch.com/2025/01/27/sonicwall-says-hackers-are-exploiting-a-new-zero-day-bug-to-breach-customer-networks/",
+      "author": "Zack Whittaker",
+      "thumbnail": null,
+      "summary": "- SonicWall reports a zero-day vulnerability in the SMA1000 remote access appliance is being exploited by hackers.\n- The vulnerability, CVE-2025-23006, allows malware installation without system login.\n- Several thousand SMA 1000 devices are vulnerable, urging users to apply available security patches.\n- The bug was discovered by Microsoft and confirmed as actively exploited, affecting various corporate networks.\n- Cybersecurity products are increasingly targeted by hackers due to inherent vulnerabilities.",
+      "keywords": [
+        "SonicWall",
+        "zero-day",
+        "vulnerability",
+        "CVE-2025-23006",
+        "cybersecurity",
+        "malware",
+        "remote access",
+        "SMA1000",
+        "Microsoft"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-01-27T23:25:04.000Z"
+    },
+    {
       "title": "Quartz has been quietly publishing AI-generated news articles",
       "link": "https://techcrunch.com/2025/01/27/quartz-has-been-quietly-publishing-ai-generated-news-articles/",
       "author": "Rebecca Bellan",
@@ -1144,52 +1194,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-01-24T17:48:12.000Z"
-    },
-    {
-      "title": "US users dumped RedNote after Trump paused the TikTok ban",
-      "link": "https://techcrunch.com/2025/01/24/us-users-dumped-rednote-after-trump-paused-the-tiktok-ban/",
-      "author": "Sarah Perez",
-      "thumbnail": null,
-      "summary": "- Following the pause of the TikTok ban by Trump, U.S. users rapidly abandoned the app RedNote.\n- RedNote had gained significant traction, reaching 32.5 million daily active users on the day before the ban but saw a 54% decline in users after the ban was put on hold.\n- Users had initially flocked to RedNote to express their dissatisfaction with lawmakers and to avoid returning to Instagram's Reels.\n- The cultural exchange on RedNote between U.S. and Chinese users included discussions on societal issues, but the temporary popularity of the app is unlikely to last as TikTok continues to operate in the U.S.",
-      "keywords": [
-        "RedNote",
-        "TikTok",
-        "Trump",
-        "social media",
-        "app usage",
-        "cultural exchange"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-01-24T17:44:26.000Z"
-    },
-    {
-      "title": "French e-bike startup Angell nears bankruptcy",
-      "link": "https://techcrunch.com/2025/01/24/french-e-bike-startup-angell-nears-bankruptcy/",
-      "author": "Romain Dillet",
-      "thumbnail": null,
-      "summary": "- Angell, a French smart electric bike startup, is declaring insolvency and seeking judicial liquidation.\n- Co-founder and CEO Marc Simoncini confirmed the closure, citing a hardware defect as the cause.\n- Angell was founded in 2019 and faced reliability issues with its first-generation bikes, impacting customer safety.\n- The company has partnered with SEB for manufacturing, but now plans to either recall or reimburse for faulty bikes, which is financially challenging.\n- Owners of Angell bikes may lose access to electric assistance and smart lock services as the company may shut down its servers.",
-      "keywords": [
-        "Angell",
-        "e-bike",
-        "bankruptcy",
-        "insolvency",
-        "France",
-        "Marc Simoncini",
-        "smart bike",
-        "manufacturing issues"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-01-24T17:30:37.000Z"
     }
   ]
 }
