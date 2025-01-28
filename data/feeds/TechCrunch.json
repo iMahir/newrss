@@ -4,6 +4,49 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Hugging Face makes it easier for devs to run AI models on third-party clouds",
+      "link": "https://techcrunch.com/2025/01/28/hugging-face-makes-it-easier-for-devs-to-run-ai-models-on-third-party-clouds/",
+      "author": "Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/ezgif-13c21e0d12b8a.gif?w=680",
+      "summary": "- Hugging Face has launched Inference Providers in partnership with third-party cloud vendors like SambaNova, Fal, Replicate, and Together AI.\n- The new feature allows developers to run AI models using various infrastructures easily.\n- Users can deploy models without managing hardware, benefiting from automatic resource scaling by providers.\n- Hugging Face provides credits for inference usage, with standard API rates for cloud provider services.",
+      "keywords": [
+        "Hugging Face",
+        "AI Models",
+        "Cloud Providers",
+        "Serverless Inference",
+        "AI Development"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-28T15:30:14.000Z"
+    },
+    {
+      "title": "Trump says Microsoft is in talks to acquire TikTok",
+      "link": "https://techcrunch.com/2025/01/28/trump-says-microsoft-is-in-talks-to-acquire-tiktok/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- President Trump announced that Microsoft is in talks to acquire TikTok's U.S. operations.\n- Trump indicated there is significant interest in TikTok, with multiple bidders expected.\n- Microsoft and Oracle were previously interested in acquiring TikTok in 2020 due to ownership concerns.\n- Trump signed an executive order delaying the TikTok ban deadline by 75 days and advised the DOJ not to enforce penalties.\n- The app remains unavailable in app stores despite being back online.\n- Other bidders include Perplexity AI and billionaire Frank McCourt, with potential interest from Elon Musk and Larry Ellison.",
+      "keywords": [
+        "Trump",
+        "Microsoft",
+        "TikTok",
+        "acquisition",
+        "ByteDance",
+        "social media"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-28T15:15:59.000Z"
+    },
+    {
       "title": "X announces a partnership with Visa to power X Money’s wallet",
       "link": "https://techcrunch.com/2025/01/28/x-announces-a-partnership-with-visa-for-to-power-x-moneys-wallet/",
       "author": "Ivan Mehta",
@@ -1140,52 +1183,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-25T17:18:47.000Z"
-    },
-    {
-      "title": "Wall Street banks plan sale of X debt at a discount",
-      "link": "https://techcrunch.com/2025/01/24/wall-street-banks-plan-sale-of-x-debt-at-a-discount/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Bankers are preparing to sell debt used to finance Elon Musk’s social network, acquired for $44 million in 2022 with $13 billion financed.\n- Morgan Stanley is leading the effort to sell senior debt at discounted rates between 90 and 95 cents on the dollar.\n- X has faced volatility since Musk's takeover, impacting advertiser confidence despite claims of improving financials.",
-      "keywords": [
-        "Wall Street",
-        "debt sale",
-        "Elon Musk",
-        "social network",
-        "advertisers",
-        "Morgan Stanley"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-25T04:42:14.000Z"
-    },
-    {
-      "title": "Retro Biosciences, backed by Sam Altman, is raising $1 billion to extend human lifespan",
-      "link": "https://techcrunch.com/2025/01/24/retro-biosciences-backed-by-sam-altman-is-raising-1-billion-to-extend-human-lifespan/",
-      "author": "Not given",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2188228027_e26224.jpg?w=1024",
-      "summary": "- OpenAI CEO Sam Altman supports Retro Biosciences, a biotech startup aiming to extend the human lifespan by 10 years.\n- The company is raising a $1 billion Series A round, having previously received $180 million in seed funding from Altman.\n- Retro Biosciences plans to launch drug trials targeting diseases like Alzheimer’s and has collaborated with OpenAI to convert regular cells into stem cells.\n- CEO Joe Betts-LaCroix aims to discover and develop drugs within the 2020s, joining other billionaire-backed ventures in longevity research.",
-      "keywords": [
-        "Retro Biosciences",
-        "Sam Altman",
-        "human lifespan",
-        "biotech startup",
-        "Alzheimer's",
-        "longevity",
-        "stem cells",
-        "investment"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-24T23:24:26.000Z"
     }
   ]
 }
