@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "DeepSeek triggered a wild, baseless rally for some Chinese stocks",
+      "link": "https://techcrunch.com/2025/01/28/deepseek-triggered-a-wild-baseless-rally-for-some-chinese-stocks/",
+      "author": "Charles Rollet",
+      "thumbnail": null,
+      "summary": "- Chinese AI company DeepSeek sparked a sell-off in U.S. tech stocks, with Nvidia losing almost 20%.\n- Shares of firms supposedly linked to DeepSeek surged, but there is no evidence of any actual investment or cooperation.\n- Key entities like Huajin Capital and Sublime China Information denied any ties to DeepSeek, despite massive stock gains following rumors.\n- The speculation originated from unverified lists circulating in China that linked various companies to DeepSeek.",
+      "keywords": [
+        "DeepSeek",
+        "Chinese stocks",
+        "AI",
+        "Nvidia",
+        "market rally",
+        "investment rumors",
+        "stock market"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-01-28T22:01:18.000Z"
+    },
+    {
       "title": "Figure AI details plan to improve humanoid robot safety in the workplace",
       "link": "https://techcrunch.com/2025/01/28/figure-ai-details-plan-to-improve-humanoid-robot-safety-in-the-workplace/",
       "author": "Brian Heater",
@@ -393,6 +416,30 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-28T17:54:24.000Z"
+    },
+    {
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "link": "https://techcrunch.com/2025/01/28/chatgpt-everything-to-know-about-the-ai-chatbot/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- ChatGPT, OpenAI's AI chatbot, launched in November 2022, has reached 300 million weekly active users.\n- In 2024, OpenAI partnered with Apple and released features like GPT-4o with voice capability and a text-to-video model called Sora.\n- The company experienced management changes and faced lawsuits for copyright infringements while continuing to innovate with features like real-time video and reminder scheduling.",
+      "keywords": [
+        "ChatGPT",
+        "OpenAI",
+        "AI chatbot",
+        "technology",
+        "innovation",
+        "GPT-4o",
+        "Sora",
+        "Apple partnership"
+      ],
+      "scores": {
+        "scale": 9,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-28T17:15:00.000Z"
     },
     {
       "title": "Boom’s XB-1 becomes first civil aircraft to go supersonic",
@@ -1122,55 +1169,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-01-27T20:41:57.000Z"
-    },
-    {
-      "title": "Smartwatch pioneer and Kickstarter darling Pebble is returning in a new form",
-      "link": "https://techcrunch.com/2025/01/27/smartwatch-pioneer-and-kickstarter-darling-pebble-is-returning-in-a-new-form/",
-      "author": "Brian Heater",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2015/08/eric-migicovsky.jpg?w=660",
-      "summary": "- After filing for insolvency in 2016 and being sold to Fitbit, Pebble creator Eric Migicovsky announces a revival of the brand.\n- Migicovsky plans to create a new smartwatch, leveraging the open-sourced PebbleOS from Google to support further development.\n- The new smartwatch aims to feature an always-on e-paper screen, long battery life, and a hackable design, emphasizing user-centric features over flashy technology.\n- Initial production will be self-funded, as Migicovsky does not plan to seek venture capital or use Kickstarter again.\n- The Pebble brand still has an active community, indicating continued interest despite competition from major players like Apple.",
-      "keywords": [
-        "Pebble",
-        "smartwatch",
-        "Eric Migicovsky",
-        "open-source",
-        "WearOS",
-        "Google",
-        "Kickstarter",
-        "crowdfunding"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 8,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-01-27T20:04:07.000Z"
-    },
-    {
-      "title": "DeepSeek displaces ChatGPT as the App Store’s top app",
-      "link": "https://techcrunch.com/2025/01/27/deepseek-displaces-chatgpt-as-the-app-stores-top-app/",
-      "author": "Maxwell Zeff",
-      "thumbnail": null,
-      "summary": "- DeepSeek, from a Chinese AI lab, became the No. 1 app in global app stores, surpassing ChatGPT.\n- As of January 26, DeepSeek was the No. 1 free app on iOS in the U.S. and in 51 other countries.\n- The app doubled its downloads from 1 million to 2.6 million within a few days, primarily driven by its new AI models.\n- It ranked in the Top 10 for free apps in 111 countries on the App Store and 18 countries on Google Play.\n- Daily active users rose over 110% from January 24 to 25 compared to the previous week.\n- Despite most downloads occurring in China, the U.S. accounts for 15% of its downloads.\n- DeepSeek's rise questions the stability of dominant consumer AI apps like ChatGPT and Gemini.\n- Apple’s algorithm may influence app rankings based on install velocity, not just total downloads.\n- The tech industry is analyzing DeepSeek's training techniques and facing pressure as a result.\n- DeepSeek experienced “large-scale malicious” attacks, limiting registration for users outside of China.",
-      "keywords": [
-        "DeepSeek",
-        "ChatGPT",
-        "AI",
-        "app store",
-        "downloads",
-        "technology",
-        "competition",
-        "Nvidia",
-        "malicious attacks"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-01-27T19:34:36.000Z"
     }
   ]
 }
