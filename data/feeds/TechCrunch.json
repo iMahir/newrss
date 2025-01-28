@@ -4,6 +4,120 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Boom’s XB-1 becomes first civil aircraft to go supersonic",
+      "link": "https://techcrunch.com/2025/01/28/booms-xb-1-becomes-first-civil-aircraft-to-go-supersonic/",
+      "author": "Sean O’Kane",
+      "thumbnail": null,
+      "summary": "- Boom Supersonic’s XB-1 plane just went supersonic in the Mojave desert, marking it as the first civil aircraft to break the sound barrier.\n- The achievement occurred during its twelfth test flight, reaching Mach 1.1 for about four minutes.\n- The XB-1 is a prototype for Boom's future 64-passenger airliner called [Overture](https://boomsupersonic.com/overture).\n- The supersonic flight took place eight years after XB-1 was first announced, and a second test flight could occur soon.\n- Boom CEO Blake Scholl highlighted the significance of the event, comparing it to SpaceX’s first rocket reaching orbit.",
+      "keywords": [
+        "Boom Supersonic",
+        "XB-1",
+        "supersonic flight",
+        "aviation",
+        "California",
+        "Mojave desert",
+        "Overture",
+        "test flight"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 9,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-28T17:04:03.000Z"
+    },
+    {
+      "title": "Jetify launches Testpilot, its AI QA engineer",
+      "link": "https://techcrunch.com/2025/01/28/jetify-launches-testpilot-its-ai-qa-engineer/",
+      "author": "Frederic Lardinois",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/Screenshot-2025-01-22-at-8.11.30PM.png?w=680",
+      "summary": "- Jetify launches AI agent named [Testpilot](https://www.jetify.com/) aimed at simplifying routine test creation.\n- Currently supports web applications; mobile testing is planned for future release.\n- CEO Daniel Loreto describes the launch as a pivot towards AI solutions for software development lifecycle improvement.\n- AI tools handle UI testing more robustly compared to existing tools like Selenium.\n- Testpilot requires only access to the application for testing, not to the underlying code repositories.",
+      "keywords": [
+        "AI",
+        "quality assurance",
+        "software testing",
+        "Jetify",
+        "Testpilot"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-28T17:00:00.000Z"
+    },
+    {
+      "title": "GM expects to save up to $1 billion on Cruise costs",
+      "link": "https://techcrunch.com/2025/01/28/gm-expects-to-save-up-to-1-billion-on-cruise-costs/",
+      "author": "Rebecca Bellan",
+      "thumbnail": null,
+      "summary": "- General Motors anticipates up to $1 billion annual savings by halting its Cruise robotaxi program.\n- CEO Mary Barra announced a restructuring to focus on personal autonomous vehicles, following an earlier decision to stop funding Cruise.\n- The move comes after GM reported a $2.9 billion loss for Q4 2024, largely due to charges related to this decision, including a one-time $500 million charge and a $4 billion restructuring charge.\n- Cruise expenses were reported at $400 million in the last quarter, down from $800 million in 2023.\n- Most Cruise employees are uncertain about their future roles as GM integrates Cruise personnel into its main operations, with retention offers being extended to some staff.",
+      "keywords": [
+        "GM",
+        "Cruise",
+        "robotaxi",
+        "autonomous vehicles",
+        "earnings call",
+        "restructuring",
+        "cost savings"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-28T16:51:01.000Z"
+    },
+    {
+      "title": "Quibim raises $50M to develop AI models for medical imaging",
+      "link": "https://techcrunch.com/2025/01/28/quibim-raises-50m-to-develop-ai-models-for-medical-imaging/",
+      "author": "Paul Sawers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/QuibimData-e1738075591318.png?w=680",
+      "summary": "- Quibim, a Spanish startup, raised $50 million in a Series A funding round to develop AI models for medical imaging.\n- The company focuses on oncology, immunology, neurology, and metabolic disorders, aiming to enhance diagnostic accuracy through visual data from imaging scans.\n- Quibim plans to expand its presence in the U.S. after receiving FDA clearance for its QP-Prostate product and has around 170 installations globally, collaborating with notable institutions such as Stanford University and Mass General Brigham.",
+      "keywords": [
+        "Quibim",
+        "AI",
+        "medical imaging",
+        "funding",
+        "U.S. expansion",
+        "diagnostics",
+        "healthcare"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-28T16:40:15.000Z"
+    },
+    {
+      "title": "Apple fixes zero-day flaw affecting all devices",
+      "link": "https://techcrunch.com/2025/01/28/apple-fixes-zero-day-flaw-affecting-all-devices/",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "thumbnail": null,
+      "summary": "- Apple released updates for iPhone, iPad, and Mac, which included switching on Apple Intelligence by default for newer devices.\n- Security patches included a fix for a zero-day bug that may have been actively exploited, affecting iPhones running software older than iOS 17.2.\n- The bug was found in Core Media and allowed hackers to elevate privileges and access data on devices.\n- This is the first exploited bug found in iOS this year; Apple fixed at least seven similar bugs in 2024.",
+      "keywords": [
+        "Apple",
+        "zero-day flaw",
+        "security patch",
+        "iOS",
+        "Core Media",
+        "cybersecurity",
+        "Lorenzo Franceschi-Bicchierai"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-28T16:20:23.000Z"
+    },
+    {
       "title": "Hugging Face makes it easier for devs to run AI models on third-party clouds",
       "link": "https://techcrunch.com/2025/01/28/hugging-face-makes-it-easier-for-devs-to-run-ai-models-on-third-party-clouds/",
       "author": "Kyle Wiggers",
@@ -1066,123 +1180,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-26T16:00:00.000Z"
-    },
-    {
-      "title": "As demand for data centers soars, real estate companies look to become energy developers",
-      "link": "https://techcrunch.com/2025/01/25/amid-soaring-demand-for-data-centers-real-estate-companies-look-to-become-energy-developers/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Brendan Wallace, co-founder of Fifth Wall Ventures, discusses the shift in real estate due to rising demand for data centers and energy requirements.\n- Real estate firms are exploring opportunities to become energy developers to support data centers amid challenges like high office vacancy rates and market volatility.\n- The growing need for data centers relates to the explosion of AI technologies, leading to increased energy demands.\n- Wallace emphasizes the necessity for renewable energy solutions, particularly solar, as companies pivot towards being energy developers.",
-      "keywords": [
-        "data centers",
-        "real estate",
-        "energy development",
-        "Fifth Wall Ventures",
-        "renewable energy",
-        "solar energy",
-        "AI technology",
-        "proptech"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-26T00:33:57.000Z"
-    },
-    {
-      "title": "Trump administration reportedly negotiating an Oracle takeover of TikTok",
-      "link": "https://techcrunch.com/2025/01/25/trump-administration-reportedly-negotiating-an-oracle-takeover-of-tiktok/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2193522171.jpg?w=1024",
-      "summary": "- The Trump administration is negotiating for Oracle to take over TikTok along with U.S. investors.\n- A bill was passed last year forcing ByteDance to either sell TikTok or face a ban in the U.S.\n- TikTok briefly went dark before the law took effect on January 20, 2025, until Trump announced a delay of the ban.\n- Trump proposed a joint venture idea of 50% U.S. ownership.\n- A deal may allow Oracle to control TikTok globally while ByteDance retains a minority share.\n- Previous attempts to force a sale during Trump's first term did not materialize, but TikTok shifted U.S. traffic to Oracle servers since then.\n- Some senators who backed the ban-or-sell bill are confused about Trump's current plans.",
-      "keywords": [
-        "Trump administration",
-        "Oracle",
-        "TikTok",
-        "ByteDance",
-        "U.S. government",
-        "negotiation",
-        "takeover",
-        "joint venture"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-25T22:56:28.000Z"
-    },
-    {
-      "title": "Will states lead the way on AI regulation?",
-      "link": "https://techcrunch.com/2025/01/25/will-states-lead-the-way-on-ai-regulation/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- In 2024, California enacted 18 new AI laws, with Governor Gavin Newsom also vetoing significant AI legislation.\n- Mark Weatherford believes 2025 will see increased state-level regulatory action on AI compared to federal efforts.\n- Over 400 state-level AI-related legislation pieces were introduced in the last year, indicating significant activity in regulating AI.",
-      "keywords": [
-        "AI regulation",
-        "California laws",
-        "Gavin Newsom",
-        "Mark Weatherford",
-        "synthetic data",
-        "AI legislation",
-        "state vs federal regulation"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-25T21:37:14.000Z"
-    },
-    {
-      "title": "OpenAI wants to take over your browser",
-      "link": "https://techcrunch.com/2025/01/25/openai-wants-to-take-over-your-browser/",
-      "author": "Cody Corrall",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2021/12/mrbeast-squid-game-remake-1.jpg?w=680",
-      "summary": "- OpenAI launched a research preview of Operator, an AI agent that can perform tasks like booking accommodations and making reservations.\n- Operator will first be available to U.S. users on ChatGPT’s $200 per month Pro subscription plan.\n- Elon Musk and Sam Altman are publicly disputing the funding for the Stargate project, which targets data centers for AI workloads.\n- Security vulnerabilities in Subaru's web portal allowed hackers to remotely unlock and track cars, which have now been fixed by Subaru.",
-      "keywords": [
-        "OpenAI",
-        "AI agent",
-        "Operator",
-        "Elon Musk",
-        "Sam Altman",
-        "Stargate",
-        "Subaru",
-        "cybersecurity"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-25T18:05:00.000Z"
-    },
-    {
-      "title": "Paul McCartney calls on UK government to protect artists from AI",
-      "link": "https://techcrunch.com/2025/01/25/paul-mccartney-calls-on-uk-government-to-protect-artists-from-ai/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1350490035.jpg?w=1024",
-      "summary": "- Paul McCartney urges the UK government to modify copyright laws to protect artists from AI exploitation.\n- He argues that proposed changes would allow tech companies to use online content without artists' consent.\n- McCartney acknowledges the benefits of AI but warns about the financial risks for artists if their work is not protected.\n- Emphasizes that emerging artists should benefit economically from their creations rather than tech companies.",
-      "keywords": [
-        "Paul McCartney",
-        "AI",
-        "copyright",
-        "UK government",
-        "artists' rights",
-        "music industry"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 8,
-        "novelty": 5,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-25T17:18:47.000Z"
     }
   ]
 }
