@@ -4,6 +4,54 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Google Maps will soon rename Gulf of Mexico to ‘Gulf of America’",
+      "link": "https://techcrunch.com/2025/01/27/google-maps-will-soon-rename-gulf-of-mexico-to-gulf-of-america/",
+      "author": "Maxwell Zeff",
+      "thumbnail": null,
+      "summary": "- Google will change the name of the Gulf of Mexico to the 'Gulf of America' in Google Maps, following an executive order by President Trump.\n- The name changes will only apply to U.S. users, as Google Maps displays contested geographic names according to each country's official naming conventions.\n- Denali, the highest peak in North America, will revert to its former name, Mount McKinley, for all users worldwide, despite prior renaming during the Obama administration.",
+      "keywords": [
+        "Google Maps",
+        "Gulf of America",
+        "Gulf of Mexico",
+        "Denali",
+        "Mount McKinley",
+        "Trump administration",
+        "geographic naming",
+        "executive order"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-28T02:04:04.000Z"
+    },
+    {
+      "title": "Reid Hoffman’s Manas AI raises $24.6M, a fraction of other AI drug discovery startups",
+      "link": "https://techcrunch.com/2025/01/27/reid-hoffmans-manas-ai-raises-24-6m-a-fraction-of-other-ai-drug-discovery-startups/",
+      "author": "Reid Hoffman, Siddhartha Mukherjee",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1258942056.jpg?w=1024",
+      "summary": "- LinkedIn founder Reid Hoffman and cancer researcher Siddhartha Mukherjee co-founded Manas AI, focusing on AI-powered drug discovery.\n- The startup raised $24.6 million in seed funding from Hoffman, General Catalyst, and Greylock.\n- Manas AI’s funding is significantly lower compared to other AI drug discovery startups, such as Xaira's $1 billion and Treeline Biosciences's $422 million raised.\n- The company will initially target breast cancer, prostate cancer, and lymphoma, aiming to design and test molecules using AI in collaboration with Microsoft Azure.\n- The founders emphasize the significance of AI in the drug development process, with Hoffman having historical ties to Microsoft.",
+      "keywords": [
+        "AI",
+        "drug discovery",
+        "Reid Hoffman",
+        "Manas AI",
+        "investment",
+        "biotech",
+        "cancer research",
+        "Microsoft Azure"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-28T01:19:57.000Z"
+    },
+    {
       "title": "Former Intel CEO Pat Gelsinger is already using DeepSeek instead of OpenAI at his startup, Gloo",
       "link": "https://techcrunch.com/2025/01/27/former-intel-ceo-pat-gelsinger-is-already-using-deepseek-instead-of-openai-at-his-startup-gloo/",
       "author": null,
@@ -1147,53 +1195,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-24T18:07:47.000Z"
-    },
-    {
-      "title": "The AI industry’s pace has researchers stressed",
-      "link": "https://techcrunch.com/2025/01/24/the-ai-industrys-pace-has-researchers-stressed/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- AI researchers experience high stress due to intense competition and rapid advancements in the industry.\n- OpenAI and Google have been launching numerous new tools, increasing pressure on researchers.\n- Researchers report long working hours and a lack of work-life balance as common in the AI field.\n- The focus on commercialization and competition has diminished academic collaboration among researchers.\n- Graduate students feel overwhelmed by the fast-paced nature of AI research and a prevalent ‘publish or perish’ mentality.",
-      "keywords": [
-        "AI industry",
-        "researchers",
-        "mental health",
-        "competition",
-        "OpenAI",
-        "Google",
-        "Burnout",
-        "graduate students",
-        "work-life balance",
-        "academic collaboration"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-24T18:00:00.000Z"
-    },
-    {
-      "title": "People are benchmarking AI by having it make balls bounce in rotating shapes",
-      "link": "https://techcrunch.com/2025/01/24/people-are-benchmarking-ai-by-having-it-make-balls-bounce-in-rotating-shapes/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- The AI community is testing how AI models handle programming tasks with a benchmark involving a bouncing ball in a rotating shape.\n- DeepSeek's R1 model outperformed OpenAI's o1 pro mode according to user reports on X.\n- The benchmark highlights the challenges of creating effective AI measurements, as results can vary widely based on prompts used.",
-      "keywords": [
-        "AI benchmarking",
-        "DeepSeek",
-        "OpenAI",
-        "programming challenges",
-        "artificial intelligence"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 8,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-01-24T17:48:12.000Z"
     }
   ]
 }
