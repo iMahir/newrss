@@ -4,6 +4,55 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "ENGlobal says hackers accessed ‘sensitive personal’ data during cyberattack",
+      "link": "https://techcrunch.com/2025/01/28/englobal-says-hackers-accessed-sensitive-personal-data-during-cyberattack/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/oil-pipeline-automation-energy.jpg?w=1024",
+      "summary": "- U.S. engineering firm ENGlobal reported that hackers accessed 'sensitive personal information' during a November 2024 cyberattack.\n- The attack led to the encryption of some data files, indicating a potential ransomware incident.\n- Business applications, including financial reporting systems, were offline for approximately six weeks.\n- The company has not disclosed the number of individuals affected or the types of data accessed but plans to notify those impacted.\n- ENGlobal stated its operations are now 'fully restored' and believes the hackers no longer have access to its IT systems.",
+      "keywords": [
+        "cyberattack",
+        "ENGlobal",
+        "data breach",
+        "sensitive information",
+        "ransomware",
+        "federal government",
+        "critical infrastructure"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-28T13:10:00.000Z"
+    },
+    {
+      "title": "Atomicwork Secures Khosla Ventures Backing for AI-Driven IT Software",
+      "link": "https://techcrunch.com/2025/01/28/atomicwork-gets-backing-from-khosla-for-its-ai-alternative-to-old-school-it-software-like-servicenow/",
+      "author": "Vijay Rayapati, Kiran Darisi, Parsuram Vijayasankar",
+      "thumbnail": null,
+      "summary": "- Atomicwork, a SaaS startup, raised $25 million backed by Khosla Ventures to enhance AI-driven IT service management.\n- The platform allows quick implementation of automated service workflows, reducing traditional multi-year setups to weeks.\n- Founded in 2022, the startup has raised over $38 million, targeting enterprises with $1 billion revenue and 1,000+ employees.\n- It utilizes existing LLM models for automation and prioritizes data security with options for enterprise-owned encryption keys.\n- Currently serves eight customers, mostly in the U.S., and aims to enhance AI R&D and integrations with major firms like Oracle and SAP.",
+      "keywords": [
+        "Atomicwork",
+        "AI",
+        "Khosla Ventures",
+        "IT software",
+        "SaaS",
+        "automation",
+        "ServiceNow",
+        "tech",
+        "investment",
+        "digital transformation"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-28T12:30:00.000Z"
+    },
+    {
       "title": "Helion raises $425M to help build a fusion reactor for Microsoft",
       "link": "https://techcrunch.com/2025/01/28/helion-raises-425m-to-help-build-a-fusion-reactor-for-microsoft/",
       "author": null,
@@ -1146,56 +1195,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-24T19:29:13.000Z"
-    },
-    {
-      "title": "Ditching Meta? Open source alternatives to Instagram, TikTok, and WhatsApp fundraise on Kickstarter",
-      "link": "https://techcrunch.com/2025/01/24/ditching-meta-open-source-alternatives-to-instagram-tiktok-and-whatsapp-fundraise-on-kickstarter/",
-      "author": "Sarah Perez",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/loops-web.jpeg?w=680",
-      "summary": "- The developer of open source apps Pixelfed, Loops, and Sup is fundraising on [Kickstarter](https://www.kickstarter.com/projects/pixelfed/pixelfed-foundation-2024-real-ethical-social-networks?ref=discovery_category&total_hits=55428&category_id=342).  \n- These apps are part of the growing fediverse, utilizing the ActivityPub protocol.  \n- The Kickstarter campaign has raised $58,383 with a goal of $1 million to support development and hiring.  \n- Pixelfed has launched its mobile app, while Loops is currently in alpha testing, and Sup is said to be coming soon.  \n- The campaign also aims to establish the Pixelfed Foundation as a non-profit and will fund the development of a blogging app.  \n- There are over 200,000 users on Pixelfed.social, making it the second-largest server in the fediverse, underlying the need for expanded resources and features.",
-      "keywords": [
-        "open source",
-        "Kickstarter",
-        "Pixelfed",
-        "Loops",
-        "Sup",
-        "fediverse",
-        "ActivityPub",
-        "social media alternatives",
-        "fundraising"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 8,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-24T19:25:39.000Z"
-    },
-    {
-      "title": "Open source alternatives to Instagram, TikTok, and WhatsApp raise funds on Kickstarter",
-      "link": "https://techcrunch.com/2025/01/24/open-source-alternatives-to-instagram-tiktok-and-whatsapp-raise-funds-on-kickstarter/",
-      "author": "Sarah Perez",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/loops-web.jpeg?w=680",
-      "summary": "- Developer Daniel Supernault is raising funds on [Kickstarter](https://www.kickstarter.com/projects/pixelfed/pixelfed-foundation-2024-real-ethical-social-networks?ref=discovery_category&total_hits=55428&category_id=342) for open source apps: Pixelfed, Loops, and Sup.\n- The trio aims to offer alternatives to Instagram, TikTok, and WhatsApp, contributing to the fediverse using the ActivityPub protocol.\n- The Kickstarter campaign has raised $58,383, surpassing its original goal.\n- Supernault's long-term vision includes making these apps available to a billion users.\n- The apps are intended to ensure user control and privacy against centralized social media.\n- A fourth project, [Pubkit](https://pubkit.net/), will provide tools for fediverse developers.\n- Funds will support expanding user management and developing an alternative blogging app.",
-      "keywords": [
-        "open source",
-        "Kickstarter",
-        "Pixelfed",
-        "Loops",
-        "Sup",
-        "fediverse",
-        "ActivityPub",
-        "social media alternatives",
-        "Daniel Supernault"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-24T19:25:39.000Z"
     }
   ]
 }
