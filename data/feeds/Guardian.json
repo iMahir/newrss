@@ -4,6 +4,54 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "Experts urge caution over use of Chinese AI DeepSeek",
+      "link": "https://www.theguardian.com/technology/2025/jan/28/experts-urge-caution-over-use-of-chinese-ai-deepseek",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Experts express concerns over the Chinese AI platform DeepSeek regarding misinformation and data exploitation by the state.\n- DeepSeek, a low-cost AI, caused a $1 trillion drop in the US tech stock index and became the most downloaded app in the UK and US shortly after release.\n- Professors warn against inputting sensitive data, citing potential data sharing with the Chinese government.\n- The open-source platform has the potential to drive innovation but raises concerns about compliance with Chinese government regulations.\n- Users testing DeepSeek found it avoids discussing sensitive topics like the Tiananmen Square incident, reflecting biases in the AI's training data.",
+      "keywords": [
+        "DeepSeek",
+        "artificial intelligence",
+        "China",
+        "misinformation",
+        "data privacy",
+        "tech stocks",
+        "AI innovation",
+        "sensitivity",
+        "censorship"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-01-28T14:03:29.000Z"
+    },
+    {
+      "title": "How do you solve a problem like DeepSeek?",
+      "link": "https://www.theguardian.com/technology/2025/jan/28/deepseek-openai-elon-musk-don-lemon-crypto-kalshi",
+      "author": null,
+      "thumbnail": "https://i.guim.co.uk/img/media/22aba4deeb7588ab70745b83d333debbdaeae090/0_100_3000_1800/master/3000.jpg?width=620&dpr=2&s=none&crop=none",
+      "summary": "- DeepSeek, a Chinese AI startup, has released an open-sourced model named R1 that operates with significantly lower computing power and cost than competitors like ChatGPT.\n- The model’s efficiency raises concerns about the US's dominance in AI and its trade embargoes against China, given DeepSeek secured around 50,000 GPUs within regulatory constraints.\n- DeepSeek's success has led to market impacts, including Nvidia's stock decline, as the company requires fewer resources to achieve comparable outcomes.\n- R1's rise in app stores prompts questions regarding censorship and US regulations, especially in light of existing tensions over Chinese technology influence.",
+      "keywords": [
+        "DeepSeek",
+        "AI",
+        "open-source",
+        "ChatGPT",
+        "Nvidia",
+        "trade embargo",
+        "technology influence"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 9,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-28T13:00:06.000Z"
+    },
+    {
       "title": "Google Maps will rename Gulf of Mexico as Gulf of America in US",
       "link": "https://www.theguardian.com/technology/2025/jan/28/google-maps-will-rename-gulf-of-mexico-as-gulf-of-america-in-us",
       "author": "Not given",
@@ -1125,56 +1173,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-01-22T08:52:54.000Z"
-    },
-    {
-      "title": "Trump unveils $500bn joint AI venture between OpenAI, Oracle and SoftBank",
-      "link": "https://www.theguardian.com/us-news/2025/jan/21/trump-ai-joint-venture-openai-oracle-softbank",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Donald Trump announced a $500bn joint venture, named Stargate, involving OpenAI, Oracle, and SoftBank.  \n- The project aims to create data centers across the US and generate over 100,000 jobs.  \n- The initiative seeks to maintain the US's competitive edge against China in AI.  \n- Trump indicated plans to expedite energy infrastructure development via emergency declarations.  \n- The announcement follows Trump's reversal of Biden's AI safety standards executive order.  \n- Initial projects will start in Texas, with broader evaluations for additional sites nationwide.",
-      "keywords": [
-        "Trump",
-        "AI",
-        "joint venture",
-        "OpenAI",
-        "Oracle",
-        "SoftBank",
-        "Stargate",
-        "data centers",
-        "jobs",
-        "energy infrastructure"
-      ],
-      "scores": {
-        "scale": 9,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-21T23:54:08.000Z"
-    },
-    {
-      "title": "Germans respond to Musk’s apparent Nazi salute",
-      "link": "https://www.theguardian.com/technology/2025/jan/21/the-gesture-speaks-for-itself-germans-divided-over-musks-apparent-nazi-salute",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Elon Musk’s gesture, resembling a Nazi salute, sparked angry reactions across Europe, particularly in Germany.\n- Michel Friedman condemned Musk’s actions as a disgrace and a dangerous precedent for free expression.\n- Charlotte Knobloch of the Jewish community emphasized Musk's political interference as more concerning than the gesture itself.\n- German Chancellor Olaf Scholz criticized Musk's support for extreme right positions, calling it unacceptable.\n- Legal experts suggest that proving malicious intent behind the salute is necessary for prosecution under German law.\n- The US Anti-Defamation League stated that Musk's gesture was awkward and not intended as a Nazi salute.\n- Debate continues in Germany over whether the gesture was accidental or deliberate, with some journalists asserting it was unequivocally a Hitler salute.",
-      "keywords": [
-        "Elon Musk",
-        "Nazi salute",
-        "Germany",
-        "far-right",
-        "political response",
-        "Jewish community",
-        "freedom of speech",
-        "legal implications"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-01-21T19:06:30.000Z"
     }
   ]
 }
