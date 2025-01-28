@@ -4,6 +4,52 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "DeepSeek: Everything you need to know about the AI chatbot app",
+      "link": "https://techcrunch.com/2025/01/28/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- DeepSeek's chatbot app became the top of the Apple App Store charts, prompting discussions about the U.S. AI market.\n- Founded in 2023 as a research lab by High-Flyer Capital Management, DeepSeek developed its models in-house despite facing U.S. hardware export bans.\n- Launched models include DeepSeek-V2 and DeepSeek-V3, which outperform existing models from major competitors and have triggered significant market reactions.",
+      "keywords": [
+        "DeepSeek",
+        "AI chatbot",
+        "High-Flyer Capital Management",
+        "DeepSeek models",
+        "AI technology",
+        "Apple App Store",
+        "AI market trends"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-28T23:03:20.000Z"
+    },
+    {
+      "title": "David Sacks claims there’s ‘substantial evidence’ that DeepSeek used OpenAI’s models to train its own",
+      "link": "https://techcrunch.com/2025/01/28/david-sacks-claims-theres-substantial-evidence-that-deepseek-used-openais-models-to-train-its-own/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-604487976-1.jpg?w=1024",
+      "summary": "- David Sacks stated there is substantial evidence that DeepSeek used OpenAI's models to train its own in an interview on Fox.  \n- Sacks compared the use of OpenAI responses to theft and noted that he believed OpenAI would not be pleased.  \n- DeepSeek's apps have gained popularity and topped the Apple App Store, prompting scrutiny from U.S. government officials regarding national security.  \n- The U.S. Navy has reportedly banned DeepSeek's AI due to potential security and ethical concerns.",
+      "keywords": [
+        "David Sacks",
+        "DeepSeek",
+        "OpenAI",
+        "AI models",
+        "national security",
+        "U.S. Navy",
+        "ethical concerns"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-28T22:49:22.000Z"
+    },
+    {
       "title": "DeepSeek triggered a wild, baseless rally for some Chinese stocks",
       "link": "https://techcrunch.com/2025/01/28/deepseek-triggered-a-wild-baseless-rally-for-some-chinese-stocks/",
       "author": "Charles Rollet",
@@ -1122,53 +1168,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-01-27T21:33:12.000Z"
-    },
-    {
-      "title": "Cornell’s robot jellyfish and worm are powered by a hydraulic fluid battery",
-      "link": "https://techcrunch.com/2025/01/27/cornells-robot-jellyfish-and-worm-are-powered-by-a-hydraulic-fluid-battery/",
-      "author": "Brian Heater",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/0619_robot_fish.jpg?w=680",
-      "summary": "- Researchers at Cornell University showcased bio-inspired robots powered by a hydraulic fluid battery on January 27, 2025. \n- The robots include a modular worm and a jellyfish that utilize embodied energy to reduce weight and cost. \n- The jellyfish's runtime has been extended to 1.5 hours using the new battery technology, which integrates power generation and movement. \n- The hydraulic fluid acts as both the energy source and propulsion mechanism, allowing lifelike movements similar to natural jellyfish. \n- Modular segments in the worm facilitate locomotion and adaptability for underwater and land environments.",
-      "keywords": [
-        "Cornell University",
-        "robotics",
-        "hydraulic fluid",
-        "bio-inspired robots",
-        "redox flow battery",
-        "modular worm",
-        "robot jellyfish",
-        "engineering advancements"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-01-27T21:04:52.000Z"
-    },
-    {
-      "title": "Hackers are targeting machine identities. Token Security just raised $20M to stop them",
-      "link": "https://techcrunch.com/2025/01/27/hackers-are-targeting-machine-identities-token-security-just-raised-20m-to-stop-them/",
-      "author": "Charles Rollet",
-      "thumbnail": null,
-      "summary": "- Token Security raised $20 million in Series A funding to enhance machine identity security.\n- The startup’s creation was inspired by security risks from outdated or excessive access of service accounts.\n- Token Security’s platform identifies machine identities and helps prevent potential breaches.\n- Key founder Itamar Apelblat experienced security flaws in a previous job involving service accounts.\n- The company plans to relocate headquarters to the U.S. to tap into a larger enterprise security market.\n- Machine identity security is gaining attention, with significant funding and acquisitions in the field recently.",
-      "keywords": [
-        "token security",
-        "machine identities",
-        "cybersecurity",
-        "funding",
-        "service accounts",
-        "AI",
-        "cloud security"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-27T20:41:57.000Z"
     }
   ]
 }

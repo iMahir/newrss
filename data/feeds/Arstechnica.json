@@ -4,6 +4,32 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Apple Chips Vulnerabilities Allow Data Leak from Browsers",
+      "link": "https://arstechnica.com/security/2025/01/newly-discovered-flaws-in-apple-chips-leak-secrets-in-safari-and-chrome/",
+      "author": "Dan Goodin",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/flop-attack-illustration.jpg",
+      "summary": "- Apple-designed chips in Macs, iPhones, and iPads have two vulnerabilities leaking sensitive data from Chrome and Safari.  \n- Vulnerabilities enable side channel attacks via speculative execution optimizations, affecting A- and M-series chip sets.  \n- The more significant attack, FLOP, can read sensitive data like location history and credit card info from targeted sites.  \n- SLAP is limited to reading adjacent strings from another webpage.  \n- Affected devices include recent Mac laptops, desktops, iPads, and iPhones since 2021.  \n- Researchers suggest potential mitigations and await patch plans from Apple, although Apple claims there's no immediate risk.",
+      "keywords": [
+        "Apple",
+        "vulnerabilities",
+        "chips",
+        "browser security",
+        "data leakage",
+        "FLOP",
+        "SLAP",
+        "side-channel attack",
+        "speculative execution",
+        "cybersecurity"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-28T20:56:32.000Z"
+    },
+    {
       "title": "A long, costly road ahead for customers abandoning Broadcom’s VMware",
       "link": "https://arstechnica.com/information-technology/2025/01/a-long-costly-road-ahead-for-customers-abandoning-broadcoms-vmware/",
       "author": "Scharon Harding",
