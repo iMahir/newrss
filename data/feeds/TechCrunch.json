@@ -4,6 +4,54 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Helion raises $425M to help build a fusion reactor for Microsoft",
+      "link": "https://techcrunch.com/2025/01/28/helion-raises-425m-to-help-build-a-fusion-reactor-for-microsoft/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2161933338.jpeg?w=680",
+      "summary": "- Helion, a fusion startup, raised $425 million, achieving a valuation of $5.245 billion.\n- The company plans to supply Microsoft with electricity by 2028, ahead of competitors.\n- Helion's new prototype, Polaris, aims to be the first fusion reactor to generate electricity, with significant engineering challenges ahead.\n- CEO David Kirtley emphasizes the need for in-house manufacturing capabilities to meet production timelines.\n- The current reactor design will generate 50 megawatts of electricity, with potential for higher frequencies in the future.\n- Investors include Sam Altman and SoftBank Vision Fund 2, among others.",
+      "keywords": [
+        "Helion",
+        "fusion reactor",
+        "Microsoft",
+        "investment",
+        "energy",
+        "Semiconductors",
+        "clean energy",
+        "Polaris"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-28T12:00:00.000Z"
+    },
+    {
+      "title": "Microsoft tests ‘scareware blocker’ for Edge that uses computer vision to detect scams",
+      "link": "https://techcrunch.com/2025/01/28/microsoft-tests-scareware-blocker-for-edge-that-uses-computer-vision-to-detect-scams/",
+      "author": "Paul Sawers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/scareware-blocker-settings.webp?w=680",
+      "summary": "- Microsoft introduces a new ‘scareware blocker’ for the Edge browser using machine learning and computer vision to identify online scams.\n- Scareware typically manifests as fake antivirus software tricking users into downloading malicious programs.\n- The tool is designed to block unknown scams that try to launch full-screen pages, which are often difficult to exit.\n- Microsoft previously showcased the blocker during its Ignite conference in November and is now inviting users to test it through a preview program.\n- It aims to enhance existing security features by intervening with audio and screen issues related to suspects scams.\n- The machine learning model operates locally on users’ machines without saving data to the cloud, addressing potential privacy concerns.",
+      "keywords": [
+        "Microsoft",
+        "scareware",
+        "Edge browser",
+        "machine learning",
+        "computer vision",
+        "online scams",
+        "security",
+        "privacy"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-28T11:54:23.000Z"
+    },
+    {
       "title": "Zepto shifts domicile to India as local listings gain appeal",
       "link": "https://techcrunch.com/2025/01/28/zepto-shifts-domicile-to-india-as-local-listings-gain-appeal/",
       "author": "Manish Singh",
@@ -1148,54 +1196,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-24T19:25:39.000Z"
-    },
-    {
-      "title": "Stargate will use solar and batteries to power $100B AI venture",
-      "link": "https://techcrunch.com/2025/01/24/stargate-will-use-solar-and-batteries-to-power-100b-ai-venture/",
-      "author": "Tim De Chant",
-      "thumbnail": null,
-      "summary": "- The $100 billion Stargate joint venture will be partially powered by solar and batteries.\n- Solar power installations will be built by SoftBank-backed SB Energy, but will not be the only energy source.\n- Stargate is a partnership between OpenAI, Oracle, and SoftBank to create new data centers for AI applications.\n- The U.S. Department of Energy predicts data centers could consume up to 12% of U.S. power by 2028.\n- Nuclear power is being considered by many tech firms, but faces delays; solar and wind farms can be built faster.\n- Stargate may prioritize solar power to meet urgent energy demands for data centers.",
-      "keywords": [
-        "Stargate",
-        "solar power",
-        "AI venture",
-        "data centers",
-        "OpenAI",
-        "Oracle",
-        "SoftBank",
-        "energy sources",
-        "nuclear power",
-        "renewables"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-24T19:14:57.000Z"
-    },
-    {
-      "title": "iOS 18 hits 68% adoption across iPhones, per new Apple figures",
-      "link": "https://techcrunch.com/2025/01/24/ios-18-hits-68-adoption-across-iphones-per-new-apple-figures/",
-      "author": "Brian Heater",
-      "thumbnail": null,
-      "summary": "- Apple reports that iOS 18 has reached 68% adoption across compatible devices since its release in September 2024.\n- In devices released in the last four years, the adoption rate is higher at 78%.\n- 19% of all iPhones are still using iOS 17, with 13% on earlier versions.\n- iPadOS 18 shows lower adoption at 53%, with 63% for recent models.\n- Key feature of iOS 18 is Apple Intelligence, introduced with version 18.1, which has encountered some issues requiring adjustments.",
-      "keywords": [
-        "iOS 18",
-        "Apple",
-        "adoption rates",
-        "iPhone",
-        "Apple Intelligence",
-        "updates"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-24T18:19:13.000Z"
     }
   ]
 }
