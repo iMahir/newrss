@@ -4,6 +4,80 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Instagram gives creators more insight into their reels’ performance",
+      "link": "https://techcrunch.com/2025/01/29/instagram-gives-creators-more-insight-into-their-reels-performance/",
+      "author": "Aisha Malik",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/Screenshot-2025-01-29-at-12.36.17PM.png?w=680",
+      "summary": "- Instagram introduces new metrics to help creators evaluate reel performance amid competition with TikTok.\n- New metrics include 'View Rate' showing retention after three seconds and 'Views Over Time' comparing past performance.\n- Creators will receive actionable tips based on reel performance, encouraging content that performs better than average.\n- Instagram is attempting to attract TikTok creators with bonuses and content deals.",
+      "keywords": [
+        "Instagram",
+        "reels",
+        "creators",
+        "View Rate",
+        "social media",
+        "content performance",
+        "TikTok",
+        "metrics"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-29T18:09:20.000Z"
+    },
+    {
+      "title": "Anthropic’s CEO says DeepSeek shows US export rules are working",
+      "link": "https://techcrunch.com/2025/01/29/anthropics-ceo-says-deepseek-shows-that-u-s-export-rules-are-working-as-intended/",
+      "author": "Dario Amodei",
+      "thumbnail": null,
+      "summary": "- Dario Amodei, CEO of Anthropic, argues U.S. export controls are effective despite DeepSeek's success.\n- He compares DeepSeek's model performance with Anthropic's Claude 3.5 Sonnet, noting U.S. models maintain an edge.\n- Import restrictions proposed by the Biden Administration and their potential impact under the Trump Administration are discussed.\n- Amodei warns that insufficient restrictions could lead China to a dominant position in AI military applications.\n- Howard Lutnick, Trump's commerce secretary pick, supports stronger tariffs against China, emphasizing the need for stricter export controls.",
+      "keywords": [
+        "AI",
+        "export controls",
+        "DeepSeek",
+        "Anthropic",
+        "Dario Amodei",
+        "U.S. technology policy",
+        "China",
+        "military applications"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-29T18:05:02.000Z"
+    },
+    {
+      "title": "Report: Majority of U.S. teens have lost trust in Big Tech",
+      "link": "https://techcrunch.com/2025/01/29/report-majority-of-u-s-teens-have-lost-trust-in-big-tech/",
+      "author": "Sarah Perez",
+      "thumbnail": null,
+      "summary": "- A report from [Common Sense Media](https://www.commonsensemedia.org/) indicates that American teens have significantly lost trust in major tech companies.\n- The study surveyed over 1,000 teens about their perceptions of companies like Google, Apple, and Meta, revealing that 64% feel these companies don't care about their mental health.\n- Distrust has escalated due to events like the [NSA's mass data collection](https://techcrunch.com/2013/06/06/report-nsa-collects-data-directly-from-servers-of-google-apple-microsoft-facebook-and-more/) and the Cambridge Analytica scandal, affecting how teens view AI utilization.\n- Over half of teens doubt whether tech companies prioritize ethical decisions, keep personal information safe, or uphold fairness in user needs.\n- 74% of teens advocate for greater privacy safeguards and transparency in AI applications, with 61% believing content creators should be compensated for their data used by AI systems.",
+      "keywords": [
+        "U.S. teens",
+        "Big Tech",
+        "trust",
+        "Common Sense Media",
+        "AI",
+        "privacy",
+        "data protection",
+        "ethics",
+        "technology",
+        "youth"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-29T17:32:44.000Z"
+    },
+    {
       "title": "Netflix adds a convenient feature for iOS users to download an entire TV season at once",
       "link": "https://techcrunch.com/2025/01/29/netflix-adds-a-convenient-feature-for-ios-users-to-download-an-entire-tv-season-at-once/",
       "author": "Lauren Forristal",
@@ -1092,74 +1166,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-01-28T17:15:00.000Z"
-    },
-    {
-      "title": "Boom’s XB-1 becomes first civil aircraft to go supersonic",
-      "link": "https://techcrunch.com/2025/01/28/booms-xb-1-becomes-first-civil-aircraft-to-go-supersonic/",
-      "author": "Sean O’Kane",
-      "thumbnail": null,
-      "summary": "- Boom Supersonic’s XB-1 plane just went supersonic in the Mojave desert, marking it as the first civil aircraft to break the sound barrier.\n- The achievement occurred during its twelfth test flight, reaching Mach 1.1 for about four minutes.\n- The XB-1 is a prototype for Boom's future 64-passenger airliner called [Overture](https://boomsupersonic.com/overture).\n- The supersonic flight took place eight years after XB-1 was first announced, and a second test flight could occur soon.\n- Boom CEO Blake Scholl highlighted the significance of the event, comparing it to SpaceX’s first rocket reaching orbit.",
-      "keywords": [
-        "Boom Supersonic",
-        "XB-1",
-        "supersonic flight",
-        "aviation",
-        "California",
-        "Mojave desert",
-        "Overture",
-        "test flight"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 9,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-28T17:04:03.000Z"
-    },
-    {
-      "title": "Jetify launches Testpilot, its AI QA engineer",
-      "link": "https://techcrunch.com/2025/01/28/jetify-launches-testpilot-its-ai-qa-engineer/",
-      "author": "Frederic Lardinois",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/Screenshot-2025-01-22-at-8.11.30PM.png?w=680",
-      "summary": "- Jetify launches AI agent named [Testpilot](https://www.jetify.com/) aimed at simplifying routine test creation.\n- Currently supports web applications; mobile testing is planned for future release.\n- CEO Daniel Loreto describes the launch as a pivot towards AI solutions for software development lifecycle improvement.\n- AI tools handle UI testing more robustly compared to existing tools like Selenium.\n- Testpilot requires only access to the application for testing, not to the underlying code repositories.",
-      "keywords": [
-        "AI",
-        "quality assurance",
-        "software testing",
-        "Jetify",
-        "Testpilot"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-28T17:00:00.000Z"
-    },
-    {
-      "title": "GM expects to save up to $1 billion on Cruise costs",
-      "link": "https://techcrunch.com/2025/01/28/gm-expects-to-save-up-to-1-billion-on-cruise-costs/",
-      "author": "Rebecca Bellan",
-      "thumbnail": null,
-      "summary": "- General Motors anticipates up to $1 billion annual savings by halting its Cruise robotaxi program.\n- CEO Mary Barra announced a restructuring to focus on personal autonomous vehicles, following an earlier decision to stop funding Cruise.\n- The move comes after GM reported a $2.9 billion loss for Q4 2024, largely due to charges related to this decision, including a one-time $500 million charge and a $4 billion restructuring charge.\n- Cruise expenses were reported at $400 million in the last quarter, down from $800 million in 2023.\n- Most Cruise employees are uncertain about their future roles as GM integrates Cruise personnel into its main operations, with retention offers being extended to some staff.",
-      "keywords": [
-        "GM",
-        "Cruise",
-        "robotaxi",
-        "autonomous vehicles",
-        "earnings call",
-        "restructuring",
-        "cost savings"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-28T16:51:01.000Z"
     }
   ]
 }
