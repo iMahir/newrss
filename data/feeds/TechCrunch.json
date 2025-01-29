@@ -4,6 +4,28 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Formance raises $21M to build the AWS for fintech infrastructure",
+      "link": "https://techcrunch.com/2025/01/29/formance-raises-21-million-to-build-the-aws-of-fintech-infrastructure/",
+      "author": "Romain Dillet",
+      "thumbnail": null,
+      "summary": "- Formance, a French startup, raised $21 million in a Series A round co-led by [PayPal Ventures](https://paypal.vc/) and [Portage](https://portageinvest.com/).\n- The company focuses on building modular fintech infrastructure, including a programmable financial ledger and a connectivity platform.\n- Formance aims to expand its team from 20 to 50 employees by the end of 2025 and plans to open an office in New York.",
+      "keywords": [
+        "Fintech",
+        "Series A",
+        "Fundraising",
+        "Financial Ledger",
+        "Modular Infrastructure",
+        "Startup"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-29T11:00:00.000Z"
+    },
+    {
       "title": "This fintech has a fix for the biggest cross-border payments issues in Francophone Africa",
       "link": "https://techcrunch.com/2025/01/29/cauridor-has-a-fix-for-cross-border-payments-issues-in-francophone-africa/",
       "author": "Oumar Rafiou Barry, Abdoulaye Bah",
@@ -1139,31 +1161,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-28T01:19:57.000Z"
-    },
-    {
-      "title": "Former Intel CEO Pat Gelsinger is already using DeepSeek instead of OpenAI at his startup, Gloo",
-      "link": "https://techcrunch.com/2025/01/27/former-intel-ceo-pat-gelsinger-is-already-using-deepseek-instead-of-openai-at-his-startup-gloo/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- DeepSeek introduced an open source AI reasoning model, R1, boosting its consumer app to the top of app stores.\n- Pat Gelsinger, former CEO of Intel, has opted for DeepSeek over OpenAI for his startup Gloo's AI service, Kallm.\n- Gelsinger claims R1 is significantly cheaper, estimating it to be 10-50x less expensive to train than OpenAI's existing models.",
-      "keywords": [
-        "DeepSeek",
-        "Pat Gelsinger",
-        "open source AI",
-        "Gloo",
-        "AI reasoning model",
-        "R1",
-        "OpenAI",
-        "Nvidia",
-        "TechCrunch"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-28T00:06:17.000Z"
     }
   ]
 }
