@@ -4,6 +4,31 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Naboo secures $21M for its concierge-style corporate event booking platform",
+      "link": "https://techcrunch.com/2025/01/28/naboo-secures-21-million-for-its-concierge-style-corporate-event-booking-platform/",
+      "author": "Romain Dillet",
+      "thumbnail": null,
+      "summary": "- Naboo, a French startup, raised $21 million in a Series A round led by Notion Capital.\n- The platform simplifies corporate event booking by bundling accommodation with catering, activities, and transport.\n- Company booking volumes quadrupled from €15 million in 2023 to €60 million in 2024.\n- Naboo charges an average take-rate of 17% on bookings, generating about €10 million in revenue in 2024.\n- 10% of French CAC40 companies have utilized Naboo, including clients like Google and Société Générale.\n- Plans to automate tasks and expand to the U.K., where it already generates 10% of its revenue.",
+      "keywords": [
+        "Naboo",
+        "funding",
+        "corporate events",
+        "event booking",
+        "startup",
+        "business services",
+        "France",
+        "Notion Capital",
+        "MICE"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-29T05:00:00.000Z"
+    },
+    {
       "title": "SoftBank to invest $500M in robotics startup SkildAI",
       "link": "https://techcrunch.com/2025/01/28/softbank-to-invest-500m-in-robotics-startup-skildai/",
       "author": null,
@@ -1137,32 +1162,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-01-27T22:34:04.000Z"
-    },
-    {
-      "title": "DeepSeek claims its ‘reasoning’ model beats OpenAI’s o1 on certain benchmarks",
-      "link": "https://techcrunch.com/2025/01/27/deepseek-claims-its-reasoning-model-beats-openais-o1-on-certain-benchmarks/",
-      "author": "Kyle Wiggers",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/Screenshot-2025-01-20-at-11.31.39AM.png?w=680",
-      "summary": "- Chinese AI lab DeepSeek has launched an open reasoning model, DeepSeek-R1, which claims to perform on par with OpenAI’s o1 on certain benchmarks.\n- R1 is available on [Hugging Face](https://huggingface.co/deepseek-ai/DeepSeek-R1) under an MIT license for commercial use.\n- It reportedly surpasses o1 in benchmarks like AIME, MATH-500, and SWE-bench Verified.\n- The model has 671 billion parameters, with smaller distilled versions also released.\n- R1 is cheaper than OpenAI’s o1, priced 90%-95% lower.\n- Over 500 derivative models of R1 have been created, totaling 2.5 million downloads.\n- R1 has restrictions on sensitive topics due to Chinese regulatory guidelines, such as avoiding questions about Tiananmen Square.\n- The launch coincides with proposed harsher restrictions on exporting AI technologies to China by the Biden administration.",
-      "keywords": [
-        "DeepSeek",
-        "AI model",
-        "OpenAI",
-        "reasoning",
-        "Hugging Face",
-        "machine learning",
-        "Chinese AI",
-        "parameters",
-        "distilled models",
-        "benchmarking"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-01-27T22:27:55.000Z"
     }
   ]
 }

@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "An easy to read and interpret title for the article as a string.",
+      "link": "https://www.theguardian.com/lifeandstyle/2025/jan/29/all-in-the-mind-the-surprising-truth-about-brain-rot",
+      "author": "Andrew Przybylski",
+      "thumbnail": "https://i.guim.co.uk/img/media/b97c9d38d502681da43dc6158d5ee2a4dc77d643/0_275_8256_4954/master/8256.jpg?width=445&amp;dpr=1&amp;s=none&amp;crop=none",
+      "summary": "- Andrew Przybylski, an Oxford University professor, argues that fears over 'brain rot' from technology are unfounded.\n- Oxford University Press declared 'brain rot' as the word of the year, highlighting concerns about online content.\n- Studies show no evidence linking screen time with negative cognitive effects in children.\n- Przybylski emphasizes that living is inherently risky, and children must learn to navigate these risks responsibly.\n- Historical parallels drawn between past media consumption and current digital habits.\n- Technologies can also foster community and connection, enhancing overall wellbeing.\n- The narrative that digital tech is depleting IQ lacks solid scientific backing and relies on anecdotal evidence.",
+      "keywords": [
+        "brain rot",
+        "technology",
+        "cognition",
+        "wellbeing",
+        "screen time",
+        "mental health",
+        "Oxford University",
+        "Andrew Przybylski"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-01-29T05:00:35.000Z"
+    },
+    {
       "title": "Threat of cyber-attacks on Whitehall ‘is severe and advancing quickly’, NAO says",
       "link": "https://www.theguardian.com/technology/2025/jan/29/cyber-attack-threat-uk-government-departments-whitehall-nao",
       "author": null,
@@ -1145,32 +1169,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-01-23T05:00:34.000Z"
-    },
-    {
-      "title": "Tech titans bicker over $500bn AI investment announced by Trump",
-      "link": "https://www.theguardian.com/technology/2025/jan/22/trump-ai-investment-tech-ceos",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Donald Trump announced a $500bn AI project named Stargate, funded by OpenAI, Oracle, and Softbank.\n- Sam Altman, Larry Ellison, and Masayoshi Son were present during the announcement, while Elon Musk was notably absent.\n- Musk criticized the project as a financial farce and claimed OpenAI lacked funding.\n- The partnership aims to build data centers essential for AI development.\n- Satya Nadella of Microsoft mentioned he would invest $80bn in Azure, referencing Musk and Altman's feud as part of the ongoing tensions among tech leaders.",
-      "keywords": [
-        "AI investment",
-        "Trump",
-        "tech moguls",
-        "Stargate",
-        "Elon Musk",
-        "OpenAI",
-        "Oracle",
-        "Softbank",
-        "Microsoft",
-        "data centers"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-22T22:32:43.000Z"
     }
   ]
 }
