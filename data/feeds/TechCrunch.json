@@ -4,6 +4,28 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Hackers are hijacking WordPress sites to push Windows and Mac malware",
+      "link": "https://techcrunch.com/2025/01/29/hackers-are-hijacking-wordpress-sites-to-push-windows-and-mac-malware/",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "thumbnail": null,
+      "summary": "- Hackers exploiting outdated WordPress versions to alter websites for malware distribution.\n- Attack impacts both Windows and Mac users, targeting over 10,000 sites.\n- Fake Chrome browser update prompts users to download malicious files.\n- Two types of malware involved: Amos (for macOS) and SocGholish (for Windows).\n- Users warned to update their browsers and only install trusted applications.",
+      "keywords": [
+        "WordPress",
+        "malware",
+        "cybersecurity",
+        "hackers",
+        "Amos",
+        "SocGholish"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-29T22:03:45.000Z"
+    },
+    {
       "title": "Microsoft brings a DeepSeek model to its cloud",
       "link": "https://techcrunch.com/2025/01/29/microsoft-brings-a-deepseek-model-to-its-cloud/",
       "author": "Kyle Wiggers",
@@ -1143,29 +1165,6 @@
         "impact": 7,
         "novelty": 5,
         "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-28T19:00:00.000Z"
-    },
-    {
-      "title": "Documents show UK wooed a16z for five years",
-      "link": "https://techcrunch.com/2025/01/28/documents-show-uk-wooed-a16z-for-five-years/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- UK’s Department of Business and Trade spent five years trying to persuade Andreessen Horowitz (a16z) to establish an office in London.\n- a16z launched a crypto office in London in 2023, citing a more favorable environment compared to the U.S. under Biden.\n- Progress on crypto in the U.K. was slow, and with the new Labour government less focused on crypto initiatives, a16z decided to leave after 18 months.",
-      "keywords": [
-        "UK",
-        "Andreessen Horowitz",
-        "a16z",
-        "crypto",
-        "London",
-        "business",
-        "government documents"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 5
       },
       "pubDate": "2025-01-28T19:00:00.000Z"
     }
