@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Italy sends first data watchdog request to DeepSeek: ‘The data of millions of Italians is at risk’",
+      "link": "https://techcrunch.com/2025/01/28/italy-sends-first-data-watchdog-request-to-deepseek-the-data-of-millions-of-italians-is-at-risk/",
+      "author": "Ingrid Lunden",
+      "thumbnail": null,
+      "summary": "- The Italian Data Protection Authority (DPA) has filed a complaint against DeepSeek regarding personal data handling under GDPR.\n- The complaint emphasizes that millions of Italians' data is at risk, and DeepSeek must respond within 20 days.\n- Concerns were raised about how DeepSeek operates in China and the data protection measures it has in place, particularly for minors.",
+      "keywords": [
+        "DeepSeek",
+        "Italy",
+        "Data Protection",
+        "GDPR",
+        "Euroconsumers",
+        "AI",
+        "privacy"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-29T01:17:08.000Z"
+    },
+    {
       "title": "DeepSeek: Everything you need to know about the AI chatbot app",
       "link": "https://techcrunch.com/2025/01/28/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/",
       "author": "Kyle Wiggers",
@@ -1144,30 +1167,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-01-27T22:23:16.000Z"
-    },
-    {
-      "title": "Alibaba’s Qwen team releases AI models that can control PCs and phones",
-      "link": "https://techcrunch.com/2025/01/27/alibabas-qwen-team-releases-ai-models-that-can-control-pcs-and-phones/",
-      "author": "Kyle Wiggers",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/qwen2.5vl-tab1_1c87ef.jpg?w=680",
-      "summary": "- Alibaba's Qwen team released the Qwen2.5-VL AI models for text and image analysis, including tasks like file parsing and object counting.\n- The models can control PCs, outperforming competitors like OpenAI's Operator and others in video understanding and document analysis.\n- Qwen2.5-VL models are available for testing and download, but include restrictions on discussing certain topics due to Chinese regulations.\n- The flagship model, Qwen2.5-VL-72B, requires permission for commercial use from Alibaba if companies have over 100 million monthly active users.",
-      "keywords": [
-        "Alibaba",
-        "AI models",
-        "Qwen",
-        "PC control",
-        "image analysis",
-        "text analysis",
-        "China",
-        "artificial intelligence"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-27T21:33:12.000Z"
     }
   ]
 }
