@@ -4,6 +4,30 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "This fintech has a fix for the biggest cross-border payments issues in Francophone Africa",
+      "link": "https://techcrunch.com/2025/01/29/cauridor-has-a-fix-for-cross-border-payments-issues-in-francophone-africa/",
+      "author": "Oumar Rafiou Barry, Abdoulaye Bah",
+      "thumbnail": null,
+      "summary": "- Cauridor, an Ivorian fintech, raised $3.5 million in seed funding to enhance cross-border payments in Francophone Africa.\n- The platform supports mobile wallets, bank transfers, and cash pickups via over 25,000 agents in five countries.\n- The founders pivoted to build payment rails in 2022, and by 2023, over 90% of revenue came from this new business model, processing 2 million transactions with significant annual growth.",
+      "keywords": [
+        "Cauridor",
+        "cross-border payments",
+        "fintech",
+        "Francophone Africa",
+        "seed funding",
+        "mobile wallets",
+        "payment infrastructure",
+        "remittance"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-29T09:11:48.000Z"
+    },
+    {
       "title": "Shared scooter startup Voi reports its first profitable year as it explores an IPO",
       "link": "https://techcrunch.com/2025/01/28/shared-scooter-startup-voi-reports-its-first-profitable-year-as-it-explores-an-ipo/",
       "author": "Rebecca Bellan",
@@ -1140,31 +1164,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-01-28T00:06:17.000Z"
-    },
-    {
-      "title": "SonicWall says hackers are exploiting a new zero-day bug to breach customer networks",
-      "link": "https://techcrunch.com/2025/01/27/sonicwall-says-hackers-are-exploiting-a-new-zero-day-bug-to-breach-customer-networks/",
-      "author": "Zack Whittaker",
-      "thumbnail": null,
-      "summary": "- SonicWall reports a zero-day vulnerability in the SMA1000 remote access appliance is being exploited by hackers.\n- The vulnerability, CVE-2025-23006, allows malware installation without system login.\n- Several thousand SMA 1000 devices are vulnerable, urging users to apply available security patches.\n- The bug was discovered by Microsoft and confirmed as actively exploited, affecting various corporate networks.\n- Cybersecurity products are increasingly targeted by hackers due to inherent vulnerabilities.",
-      "keywords": [
-        "SonicWall",
-        "zero-day",
-        "vulnerability",
-        "CVE-2025-23006",
-        "cybersecurity",
-        "malware",
-        "remote access",
-        "SMA1000",
-        "Microsoft"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-01-27T23:25:04.000Z"
     }
   ]
 }
