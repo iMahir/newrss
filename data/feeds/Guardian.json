@@ -4,6 +4,55 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "What International AI Safety report says on jobs, climate, cyberwar and more",
+      "link": "https://www.theguardian.com/technology/2025/jan/29/what-international-ai-safety-report-says-jobs-climate-cyberwar-deepfakes-extinction",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- The International AI Safety report highlights significant challenges posed by rapidly advancing AI technologies.\n- The report warns of profound job impacts due to capable AI agents, with potential for new jobs but also significant job losses in advanced economies.\n- AI's energy consumption contributes to 1% of greenhouse gas emissions, with increasing demands from datacentres, raising environmental concerns.\n- Concerns over loss of control of powerful AI systems are noted, with varying opinions on the likelihood of negative outcomes.\n- AI models could create advanced bioweapons, but there are uncertainties about their use by untrained individuals.\n- Cybersecurity threats from AI include autonomous bots finding software vulnerabilities, but attacks cannot currently be carried out independently.\n- The report discusses the malicious use of deepfakes, noting a lack of data to fully measure the impact and challenges in addressing them.",
+      "keywords": [
+        "AI safety",
+        "job impact",
+        "environment",
+        "cybersecurity",
+        "deepfakes",
+        "bioweapons",
+        "autonomous agents"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-29T13:45:56.000Z"
+    },
+    {
+      "title": "Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",
+      "link": "https://www.theguardian.com/technology/2025/jan/29/openai-chatgpt-deepseek-china-us-ai-models",
+      "author": null,
+      "thumbnail": "https://i.guim.co.uk/img/media/bc3daf7b2b781413805125910696bd01b0a4dadf/0_114_8216_4930/master/8216.jpg?width=445&dpr=1&s=none&crop=none",
+      "summary": "- OpenAI warns that Chinese startups are using its technology to develop competing products, particularly a chatbot by DeepSeek.\n- DeepSeek’s chatbot launch caused a market drop, wiping $1 trillion from AI-linked US tech stocks due to its claims of lower operational costs.\n- OpenAI, alongside Microsoft, is investigating unauthorized use of its technology through 'distillation'.\n- OpenAI’s CEO expressed initial admiration for DeepSeek but later highlighted evidence of potential intellectual property theft.\n- US government agencies, including the Navy, are assessing the national security implications of DeepSeek's AI technology.",
+      "keywords": [
+        "OpenAI",
+        "DeepSeek",
+        "AI technology",
+        "intellectual property",
+        "China",
+        "Microsoft",
+        "distillation",
+        "chatbots",
+        "national security",
+        "Silicon Valley"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-29T13:21:27.000Z"
+    },
+    {
       "title": "DeepSeek advances could heighten safety risk, says ‘godfather’ of AI",
       "link": "https://www.theguardian.com/technology/2025/jan/29/deepseek-artificial-intelligence-ai-safety-risk-yoshua-bengio",
       "author": "Yoshua Bengio",
@@ -1126,56 +1175,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-23T14:53:21.000Z"
-    },
-    {
-      "title": "UK competition watchdog investigates Apple and Google’s mobile platforms",
-      "link": "https://www.theguardian.com/business/2025/jan/23/apple-google-mobile-platforms-uk-competition-watchdog-cma-investigates",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- The UK's Competition and Markets Authority (CMA) is investigating the impact of Apple and Google’s mobile platforms on consumers and businesses.\n- The CMA will assess mobile operating systems, app stores, and browsers to determine if special regulations are needed.\n- This investigation is part of the new regulatory framework under the Digital Markets, Competition and Consumers Act (DMCC).\n- The CMA aims to complete the investigation by 22 October, as part of its broader scrutiny of tech companies.\n- Sarah Cardell, CMA’s chief executive, emphasized the importance of competitive mobile ecosystems for innovation and growth.",
-      "keywords": [
-        "UK",
-        "CMA",
-        "Apple",
-        "Google",
-        "mobile platforms",
-        "regulation",
-        "investigation",
-        "digital markets",
-        "competition"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-23T14:17:41.000Z"
-    },
-    {
-      "title": "Microsoft Strengthens Ties with Israeli Military During Gaza Conflict",
-      "link": "https://www.theguardian.com/world/2025/jan/23/israeli-military-gaza-war-microsoft",
-      "author": null,
-      "thumbnail": "https://i.guim.co.uk/img/media/f44831f5b49903f54be80adc4e9e9f4346224615/0_0_4605_3070/master/4605.jpg?width=445&dpr=1&s=none&crop=none",
-      "summary": "- Microsoft’s cloud technology and AI systems were increasingly relied upon by the Israeli military during the Gaza offensive that began on October 7, 2023.\n- Leaked documents indicate Microsoft made over $10 million in deals to provide technical support, emphasizing its integration into military operations.\n- The Israel Defense Forces (IDF) significantly increased their use of Microsoft services, notably Azure, to manage extensive data and intelligence operations amidst the war.\n- The collaboration includes sensitive projects, including support for IDF intelligence units like Unit 8200, and significant access to OpenAI’s GPT-4 model.\n- There is growing scrutiny and protests in the US regarding the military's reliance on major tech companies amid allegations of violations of international humanitarian law during the conflict.",
-      "keywords": [
-        "Microsoft",
-        "Israeli military",
-        "Gaza conflict",
-        "cloud technology",
-        "AI systems",
-        "Unit 8200",
-        "OpenAI GPT-4",
-        "military operations",
-        "international law violations"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-23T11:00:40.000Z"
     }
   ]
 }

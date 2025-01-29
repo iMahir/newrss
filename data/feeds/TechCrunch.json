@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Smiths Group Confirms Cyberattack and Unauthorized Access to Systems",
+      "link": "https://techcrunch.com/2025/01/29/engineering-giant-smiths-group-says-hackers-accessed-its-systems-during-cyberattack/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/Smiths-Group-Getty.jpg?w=1024",
+      "summary": "- Smiths Group, a U.K.-based engineering firm, confirmed unauthorized access to its systems amid a cybersecurity incident.\n- The company has activated its business continuity plans and isolated affected systems, indicating a potentially disruptive incident like ransomware.\n- Smiths is collaborating with cybersecurity experts to recover systems and assess wider business impacts, but details about the attack's nature or data theft have not been disclosed.\n- The company employs over 15,000 people across 50 countries and has yet to specify when the attack occurred.",
+      "keywords": [
+        "cybersecurity",
+        "cyberattack",
+        "Smiths Group",
+        "unauthorized access",
+        "information security",
+        "business continuity",
+        "ransomware"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-01-29T13:23:57.000Z"
+    },
+    {
       "title": "Uber-backed mobility fintech Moove acquires Brazil’s Kovi, takes ARR to $275M",
       "link": "https://techcrunch.com/2025/01/29/uber-backed-mobility-fintech-moove-acquires-brazils-kovi-takes-arr-to-275m/",
       "author": "Tage Kene-Okafor",
@@ -1136,30 +1159,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-01-28T12:30:00.000Z"
-    },
-    {
-      "title": "Helion raises $425M to help build a fusion reactor for Microsoft",
-      "link": "https://techcrunch.com/2025/01/28/helion-raises-425m-to-help-build-a-fusion-reactor-for-microsoft/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2161933338.jpeg?w=680",
-      "summary": "- Helion, a fusion startup, raised $425 million, achieving a valuation of $5.245 billion.\n- The company plans to supply Microsoft with electricity by 2028, ahead of competitors.\n- Helion's new prototype, Polaris, aims to be the first fusion reactor to generate electricity, with significant engineering challenges ahead.\n- CEO David Kirtley emphasizes the need for in-house manufacturing capabilities to meet production timelines.\n- The current reactor design will generate 50 megawatts of electricity, with potential for higher frequencies in the future.\n- Investors include Sam Altman and SoftBank Vision Fund 2, among others.",
-      "keywords": [
-        "Helion",
-        "fusion reactor",
-        "Microsoft",
-        "investment",
-        "energy",
-        "Semiconductors",
-        "clean energy",
-        "Polaris"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-28T12:00:00.000Z"
     }
   ]
 }
