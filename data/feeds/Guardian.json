@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "Threat of cyber-attacks on Whitehall ‘is severe and advancing quickly’, NAO says",
+      "link": "https://www.theguardian.com/technology/2025/jan/29/cyber-attack-threat-uk-government-departments-whitehall-nao",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- The National Audit Office (NAO) warns of a severe risk of cyber-attacks on UK government departments, with critical IT systems vulnerable.\n- An assessment found 58 critical IT systems had significant gaps in cyber-resilience; the government lacks knowledge on 228 legacy systems' vulnerabilities.\n- Recent attacks include one on the British Library by a ransomware gang and another affecting NHS services, leading to significant disruptions.\n- Challenges include poor coordination, staffing shortages, and reliance on outdated IT systems, with the government not meeting its cyber-defense goals by 2025.\n- GCHQ highlighted a widening gap between increasing cyber threats and UK defense capabilities, naming key adversaries like China and Russia.",
+      "keywords": [
+        "cyber-attacks",
+        "UK government",
+        "NAO",
+        "cyber-resilience",
+        "IT systems",
+        "security threats",
+        "public services",
+        "infrastructure"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-29T00:01:30.000Z"
+    },
+    {
       "title": "Chinese AI chatbot DeepSeek censors itself in realtime, users report",
       "link": "https://www.theguardian.com/technology/2025/jan/28/chinese-ai-chatbot-deepseek-censors-itself-in-realtime-users-report",
       "author": null,
@@ -1147,32 +1171,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-22T22:32:43.000Z"
-    },
-    {
-      "title": "From crypto bro to commerce secretary pick: Howard Lutnick’s glaring conflict of interest",
-      "link": "https://www.theguardian.com/us-news/2025/jan/22/howard-lutnick-secretary-commerce-nominee",
-      "author": null,
-      "thumbnail": "https://i.guim.co.uk/img/media/aa2cfb89195e380218fec1aeb6ac452b6ffd198d/0_0_6473_4315/master/6473.jpg?width=620&dpr=2&s=none&crop=none",
-      "summary": "- Howard Lutnick, CEO of Cantor Fitzgerald, is nominated by Trump for secretary of commerce amid concerns of conflicts of interest related to his ties to the cryptocurrency industry.\n- The commerce department affects economic and trade policy, significantly impacting the cryptocurrency world, especially following fraud incidents like FTX.\n- Lutnick is a prominent supporter of stablecoins, especially Tether, which is central to the crypto economy, raising ethical concerns over his regulatory influence as head of commerce.\n- Tether is the third-largest cryptocurrency by market cap, with about $137bn in circulation; its ties to Cantor Fitzgerald further complicate Lutnick's potential role.\n- The Biden administration is reportedly focused on regulating the cryptocurrency world, and Lutnick's ties to the industry could challenge public trust in government leadership.",
-      "keywords": [
-        "Howard Lutnick",
-        "Commerce Secretary",
-        "Trump",
-        "Cryptocurrency",
-        "Tether",
-        "Conflict of Interest",
-        "Cantor Fitzgerald",
-        "Stablecoins",
-        "FTX",
-        "Regulation"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-22T18:00:19.000Z"
     }
   ]
 }
