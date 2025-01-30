@@ -4,6 +4,30 @@
   "feedUrl": "https://www.fastcompany.com/technology/rss",
   "items": [
     {
+      "title": "After a week of DeepSeek freakout, doubts and mysteries remain",
+      "link": "https://www.fastcompany.com/91264706/after-a-week-of-deepseek-freakout-doubts-and-mysteries-remain?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- DeepSeek created advanced AI models using less computing power than expected, raising questions about U.S. AI competitiveness.\n- The company trained its model for $5.6 million but full costs are undetermined, as preliminary configurations likely required more investment.\n- Innovations like Mixture-of-experts architecture and chain-of-thought reasoning may not be unique, as these are common in AI research.\n- DeepSeek's methods using the smaller R1 model showed spontaneous reasoning with fewer training resources, raising interest in AI training efficiency.\n- Nvidia's stock fell 17% as investors reacted to the implications of DeepSeek's findings, speculating on the future demand for high-end GPUs.\n- There are allegations that DeepSeek may have used OpenAI models inappropriately for training, though the evidence remains unconfirmed.\n- DeepSeek's breakthroughs may allow more efficient AI applications on consumer devices like smartphones, of interest to companies like Apple.\n- OpenAI released an AI tool called ChatGPT Gov for U.S. government agencies, emphasizing secure and private AI use within federal environments.",
+      "keywords": [
+        "DeepSeek",
+        "AI models",
+        "computing power",
+        "Nvidia",
+        "OpenAI",
+        "AI research",
+        "efficiency",
+        "Apple"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-30T18:30:00.000Z"
+    },
+    {
       "title": "Microsoft posts 10% growth for Q4 as it plans to spend $80 billion on AI",
       "link": "https://www.fastcompany.com/91269887/microsoft-posts-10-growth-q4-plans-spend-80-billion-ai?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
       "author": null,
@@ -1765,27 +1789,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-22T20:45:42.000Z"
-    },
-    {
-      "title": "NFL tells New England Patriots it can’t be on Bluesky",
-      "link": "https://www.fastcompany.com/91265486/nfl-tells-new-england-patriots-it-cant-be-on-bluesky?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "author": "Fred Kirsch",
-      "thumbnail": null,
-      "summary": "- The NFL directed the New England Patriots to delete their Bluesky account, according to VP of content Fred Kirsch.\n- The Patriots had to take down their account because Bluesky is not an approved social media platform yet for the NFL.\n- Bluesky was founded in 2019 as an alternative to X (formerly Twitter) and recently crossed 25 million users after the presidential election.\n- The NFL relies on X for fan engagement and has a content partnership with the platform since 2013.",
-      "keywords": [
-        "NFL",
-        "New England Patriots",
-        "Bluesky",
-        "social media",
-        "Fred Kirsch"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 6,
-        "novelty": 4,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-01-22T20:36:44.000Z"
     }
   ]
 }
