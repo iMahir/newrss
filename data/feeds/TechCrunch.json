@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "European embedded banking startup Swan adds another $44 million to its Series B",
+      "link": "https://techcrunch.com/2025/01/29/european-embedded-banking-startup-swan-adds-another-44-million-to-its-series-b/",
+      "author": "Romain Dillet",
+      "thumbnail": null,
+      "summary": "- French startup [Swan](https://www.swan.io/) raised another €42 million (around $44 million) in a Series B funding round.\n- This funding is considered the second part of the Series B round originally announced [in September 2024](https://techcrunch.com/2023/09/13/swan-secures-40-million-to-bring-embedded-banking-to-europe/).\n- Swan provides financial products at scale, including virtual and physical cards that integrate with Apple Pay and Google Pay.\n- It supports payment accounts with individual IBANs for pay-ins, pay-outs, and SEPA direct debits.\n- The company partners with 150 firms, processing €1.5 billion in monthly transactions.\n- Eight Road Ventures leads this funding round with participation from existing investors.",
+      "keywords": [
+        "Swan",
+        "embedded banking",
+        "funding",
+        "Series B",
+        "fintech",
+        "payment solutions",
+        "financial products"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-30T06:00:00.000Z"
+    },
+    {
       "title": "SoftBank in talks to invest as much as $25B in OpenAI, report says",
       "link": "https://techcrunch.com/2025/01/29/softbank-in-talks-to-invest-as-much-as-25b-in-openai-report-says/",
       "author": "Manish Singh",
@@ -1147,30 +1170,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-28T19:53:30.000Z"
-    },
-    {
-      "title": "Hugging Face researchers are trying to build a more open version of DeepSeek’s AI ‘reasoning’ model",
-      "link": "https://techcrunch.com/2025/01/28/hugging-face-researchers-are-trying-to-build-a-more-open-version-of-deepseeks-ai-reasoning-model/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- Hugging Face is replicating DeepSeek’s R1 AI model, calling their project Open-R1 to promote open knowledge.\n- DeepSeek released R1 with a permissive license but lacks transparency in data and model components, prompting Hugging Face's initiative.\n- The Open-R1 project seeks to open source R1’s architecture to enhance transparency and support responsible AI deployment.\n- Hugging Face is utilizing their Science Cluster with 768 Nvidia H100 GPUs to generate datasets for the replication.\n- The project gained significant community interest, accruing 10,000 stars on GitHub within three days.",
-      "keywords": [
-        "Hugging Face",
-        "DeepSeek",
-        "AI model",
-        "Open-R1",
-        "open source",
-        "reasoning model",
-        "R1",
-        "artificial intelligence"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-28T19:29:58.000Z"
     }
   ]
 }
