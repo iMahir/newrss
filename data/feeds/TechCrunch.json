@@ -4,6 +4,80 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "QED seeds $9.9M in Cedar Money, a stablecoin payment platform",
+      "link": "https://techcrunch.com/2025/01/30/qed-seeds-9-9m-in-cedar-money-a-stablecoin-payment-platform/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Cedar Money, a U.S.-based startup, raised $9.9 million in seed funding led by QED Investors.\n- The platform aims to improve cross-border payments using stablecoins.\n- It launched in early 2024, starting operations in Nigeria, targeting import and export businesses.\n- Founder Benjy Feinberg emphasizes the challenges of compliance and transaction costs in developing regions like Africa.\n- Cedar Money intends to scale payment infrastructure to alleviate inefficiencies in international payments.",
+      "keywords": [
+        "Cedar Money",
+        "stablecoin",
+        "cross-border payments",
+        "fintech",
+        "QED Investors",
+        "Nigeria",
+        "compliance",
+        "international payments",
+        "blockchain"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-30T14:08:10.000Z"
+    },
+    {
+      "title": "Savant Labs is an automation platform for business analysts",
+      "link": "https://techcrunch.com/2025/01/30/savant-labs-is-an-automation-platform-for-business-analysts/",
+      "author": "Chitrang Shah",
+      "thumbnail": null,
+      "summary": "- Savant Labs launched its automation platform for data analysts in 2023, raising $18.5 million in Series A funding led by Dell Technologies Capital.\n- Unlike other low-code/no-code tools, it focuses on business analysts, integrating a spreadsheet at the core of its user experience.\n- The platform allows users to utilize Excel formulas and connect to various data sources, aiming to democratize analytics for larger businesses and set to expand to SMEs in the future.\n- Savant's CEO, Chitrang Shah, highlights the innovation gap in legacy analytics tools and the growing demand for accessible data automation solutions.",
+      "keywords": [
+        "Savant Labs",
+        "automation",
+        "business analysts",
+        "data analytics",
+        "Series A funding",
+        "Dell Technologies Capital",
+        "Excel formulas",
+        "data workflow",
+        "no-code",
+        "low-code"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-30T14:00:00.000Z"
+    },
+    {
+      "title": "Ai2 says its new AI model beats one of DeepSeek’s best",
+      "link": "https://techcrunch.com/2025/01/30/ai2-says-its-new-ai-model-beats-one-of-deepseeks-best/",
+      "author": "Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/Benchmarks.png?w=680",
+      "summary": "- Ai2 released its new AI model Tulu3-405B, claiming it outperforms DeepSeek V3 and OpenAI’s GPT-4o.\n- Tulu3-405B has 405 billion parameters and was trained using 256 GPUs; it's open source and freely available.\n- Ai2 aims to reinforce the U.S.'s position in open-source AI development, presenting Tulu3-405B as a competitive alternative to DeepSeek.\n- The model achieved top results in benchmarks such as PopQA and GSM8K, beating several other models in its class.\n- Tulu3-405B is available for testing via Ai2’s web app and the training code is accessible on GitHub.",
+      "keywords": [
+        "AI",
+        "Tulu3-405B",
+        "DeepSeek",
+        "open source",
+        "benchmark",
+        "reinforcement learning",
+        "generative AI"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-30T14:00:00.000Z"
+    },
+    {
       "title": "DeepSeek exposed internal database containing chat histories and sensitive data",
       "link": "https://techcrunch.com/2025/01/30/deepseek-exposed-internal-database-containing-chat-histories-and-sensitive-data/",
       "author": null,
@@ -1102,74 +1176,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-01-29T05:00:00.000Z"
-    },
-    {
-      "title": "SoftBank to invest $500M in robotics startup SkildAI",
-      "link": "https://techcrunch.com/2025/01/28/softbank-to-invest-500m-in-robotics-startup-skildai/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-1287582736.jpg?w=1024",
-      "summary": "- SoftBank is negotiating a $500 million investment in [Skild AI](https://www.skild.ai/), valuing the company at $4 billion.\n- Skild AI previously raised $300 million at a $1.5 billion valuation last July.\n- The company's AI model is adaptable for various robots, aiming at the intersection of robotics and AI, attracting substantial investor interest, including Jeff Bezos.",
-      "keywords": [
-        "SoftBank",
-        "investment",
-        "Skild AI",
-        "robotics",
-        "artificial intelligence",
-        "funding"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-29T02:10:10.000Z"
-    },
-    {
-      "title": "Italy sends first data watchdog request to DeepSeek: ‘The data of millions of Italians is at risk’",
-      "link": "https://techcrunch.com/2025/01/28/italy-sends-first-data-watchdog-request-to-deepseek-the-data-of-millions-of-italians-is-at-risk/",
-      "author": "Ingrid Lunden",
-      "thumbnail": null,
-      "summary": "- The Italian Data Protection Authority (DPA) has filed a complaint against DeepSeek regarding personal data handling under GDPR.\n- The complaint emphasizes that millions of Italians' data is at risk, and DeepSeek must respond within 20 days.\n- Concerns were raised about how DeepSeek operates in China and the data protection measures it has in place, particularly for minors.",
-      "keywords": [
-        "DeepSeek",
-        "Italy",
-        "Data Protection",
-        "GDPR",
-        "Euroconsumers",
-        "AI",
-        "privacy"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-29T01:17:08.000Z"
-    },
-    {
-      "title": "DeepSeek: Everything you need to know about the AI chatbot app",
-      "link": "https://techcrunch.com/2025/01/28/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- DeepSeek's chatbot app became the top of the Apple App Store charts, prompting discussions about the U.S. AI market.\n- Founded in 2023 as a research lab by High-Flyer Capital Management, DeepSeek developed its models in-house despite facing U.S. hardware export bans.\n- Launched models include DeepSeek-V2 and DeepSeek-V3, which outperform existing models from major competitors and have triggered significant market reactions.",
-      "keywords": [
-        "DeepSeek",
-        "AI chatbot",
-        "High-Flyer Capital Management",
-        "DeepSeek models",
-        "AI technology",
-        "Apple App Store",
-        "AI market trends"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-28T23:03:20.000Z"
     }
   ]
 }
