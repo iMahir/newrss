@@ -4,6 +4,96 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "DeepSeek exposed internal database containing chat histories and sensitive data",
+      "link": "https://techcrunch.com/2025/01/30/deepseek-exposed-internal-database-containing-chat-histories-and-sensitive-data/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Chinese AI company DeepSeek had an exposed back-end database containing sensitive information including user chat histories and API keys.\n- The database was unprotected with a password, allowing public access to over a million unencrypted logs.\n- Security researchers from Wiz discovered the database and notified DeepSeek, who subsequently took it offline.\n- The exposed chat logs were primarily in Chinese but could be easily translated.\n- It is unclear if other entities accessed the database before it was secured, or how long it had been exposed.\n- Misconfiguration is likely due to human error; DeepSeek gained popularity since its launch in December.",
+      "keywords": [
+        "DeepSeek",
+        "data breach",
+        "chat history",
+        "sensitive information",
+        "security",
+        "misconfigured databases"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-30T13:05:37.000Z"
+    },
+    {
+      "title": "Data analytics startup Athenic AI wants to be an enterprise’s central nervous system",
+      "link": "https://techcrunch.com/2025/01/30/data-analytics-startup-athenic-ai-wants-to-be-an-enterprises-central-nervous-system/",
+      "author": "Jared Zhao, Becca Szkutak",
+      "thumbnail": null,
+      "summary": "- Athenic AI, founded by Jared Zhao, aims to provide AI-driven data analytics for enterprises, described as a central nervous system for databases.\n- Launched in Summer 2022, the startup has secured customers from small startups to large enterprises, including Additel and PMC.\n- The company has announced a $4.3 million seed round led by BMW i Ventures to expand its team and technology capabilities.",
+      "keywords": [
+        "Athenic AI",
+        "data analytics",
+        "enterprise software",
+        "generative AI",
+        "AI models",
+        "startup funding"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-30T13:00:00.000Z"
+    },
+    {
+      "title": "US Blood Donation Giant Warns of Disruption After Ransomware Attack",
+      "link": "https://techcrunch.com/2025/01/30/us-blood-donation-giant-warns-of-disruption-after-ransomware-attack/",
+      "author": "Carly Page",
+      "thumbnail": null,
+      "summary": "- New York Blood Center (NYBC) is facing service disruptions due to a ransomware attack detected on January 26.\n- NYBC provides blood to over 200 hospitals in the northeast U.S. and has warned that donation activities may be rescheduled and processing times could be longer than usual.\n- The organization has declared a blood emergency, citing a 30% drop in donations, leading to dangerously low supplies of some blood types.",
+      "keywords": [
+        "ransomware",
+        "blood donation",
+        "cyberattack",
+        "New York Blood Center",
+        "service disruption",
+        "healthcare cybersecurity"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-30T12:58:18.000Z"
+    },
+    {
+      "title": "SuperOps bags $25M to use AI and better help managed service providers",
+      "link": "https://techcrunch.com/2025/01/30/superops-bags-25m-to-use-ai-and-better-help-managed-service-providers/",
+      "author": "Jagmeet Singh",
+      "thumbnail": null,
+      "summary": "- SuperOps, an Indian startup, raised $25 million in a Series C round, valuing it at $200 million.\n- It aims to improve support for managed service providers (MSPs) with AI offerings.\n- The startup has tripled its customer base to 1,300 across 104 countries.\n- SuperOps launched a GPT-powered AI assistant, Monica, to enhance workflow automation for MSPs.\n- The company plans to enter the mid-sized enterprise market and expand its geographic presence, including opening an office in London.\n- Founded in 2020 by Arvind Parthiban and Jayakumar Karumbasalam, SuperOps aims for a 300% revenue increase this year.",
+      "keywords": [
+        "SuperOps",
+        "AI",
+        "managed service providers",
+        "funding",
+        "tech startup",
+        "India",
+        "Series C",
+        "customer support"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-30T12:43:15.000Z"
+    },
+    {
       "title": "India lauds Chinese AI lab DeepSeek, plans to host its models on local servers",
       "link": "https://techcrunch.com/2025/01/30/india-to-host-china-deepseek-ai-model-locally-in-rare-tech-approval/",
       "author": "Manish Singh",
@@ -1080,99 +1170,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-01-28T23:03:20.000Z"
-    },
-    {
-      "title": "David Sacks claims there’s ‘substantial evidence’ that DeepSeek used OpenAI’s models to train its own",
-      "link": "https://techcrunch.com/2025/01/28/david-sacks-claims-theres-substantial-evidence-that-deepseek-used-openais-models-to-train-its-own/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-604487976-1.jpg?w=1024",
-      "summary": "- David Sacks stated there is substantial evidence that DeepSeek used OpenAI's models to train its own in an interview on Fox.  \n- Sacks compared the use of OpenAI responses to theft and noted that he believed OpenAI would not be pleased.  \n- DeepSeek's apps have gained popularity and topped the Apple App Store, prompting scrutiny from U.S. government officials regarding national security.  \n- The U.S. Navy has reportedly banned DeepSeek's AI due to potential security and ethical concerns.",
-      "keywords": [
-        "David Sacks",
-        "DeepSeek",
-        "OpenAI",
-        "AI models",
-        "national security",
-        "U.S. Navy",
-        "ethical concerns"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-28T22:49:22.000Z"
-    },
-    {
-      "title": "DeepSeek triggered a wild, baseless rally for some Chinese stocks",
-      "link": "https://techcrunch.com/2025/01/28/deepseek-triggered-a-wild-baseless-rally-for-some-chinese-stocks/",
-      "author": "Charles Rollet",
-      "thumbnail": null,
-      "summary": "- Chinese AI company DeepSeek sparked a sell-off in U.S. tech stocks, with Nvidia losing almost 20%.\n- Shares of firms supposedly linked to DeepSeek surged, but there is no evidence of any actual investment or cooperation.\n- Key entities like Huajin Capital and Sublime China Information denied any ties to DeepSeek, despite massive stock gains following rumors.\n- The speculation originated from unverified lists circulating in China that linked various companies to DeepSeek.",
-      "keywords": [
-        "DeepSeek",
-        "Chinese stocks",
-        "AI",
-        "Nvidia",
-        "market rally",
-        "investment rumors",
-        "stock market"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-01-28T22:01:18.000Z"
-    },
-    {
-      "title": "Figure AI details plan to improve humanoid robot safety in the workplace",
-      "link": "https://techcrunch.com/2025/01/28/figure-ai-details-plan-to-improve-humanoid-robot-safety-in-the-workplace/",
-      "author": "Brian Heater",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/nvidia-ces-jensen-robotics.png?w=680",
-      "summary": "[Safety of humanoid robots is often overlooked in workplace integration]\n[Figure AI is establishing a Center for the Advancement of Humanoid Safety, led by former Amazon Robotics safety engineer Rob Gruendel]\n[The firm aims to certify robot safety standards in collaboration with OSHA recognized independent testing laboratories and improve safety measures for robotic systems working alongside humans]",
-      "keywords": [
-        "humanoid robots",
-        "workplace safety",
-        "Figure AI",
-        "robotics",
-        "OSHA",
-        "safety standards"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-28T20:17:44.000Z"
-    },
-    {
-      "title": "Tesla Superchargers: GM, Ford, Rivian, and other EV brands with access",
-      "link": "https://techcrunch.com/2025/01/28/tesla-superchargers-gm-ford-rivian-and-other-ev-brands-with-access/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Ford locked in a deal in May 2023 for its EVs to access the Tesla Supercharger network.\n- By the end of 2023, most major automakers, including GM and Rivian, agreed to adopt Tesla’s North American Charging Standard (NACS).\n- As of January 31, 2025, Lucid Gravity SUV owners will have access to Tesla Superchargers, and existing Lucid Air sedan owners will have access via adapters in Q2 2025.\n- GM's EVs gained access to Tesla Superchargers in September 2024, requiring a $225 GM-approved adapter for access.\n- Hyundai plans to provide access to NACS chargers for EV owners beginning January 15, 2025, with new EVs featuring NACS plugs.\n- Rivian gained access to 15,000 Superchargers on March 18, 2024, with adapters being shipped to customers.\n- Mercedes-Benz EVs will access Tesla's network starting February 2025, with approved adapters available for $185.\n- Nissan plans to provide access to its Ariya drivers via a NACS adapter starting late 2024.\n- Volvo and Polestar began offering access to Tesla’s Supercharger network in late October 2024, with specific adapter availability details.",
-      "keywords": [
-        "Tesla Supercharger",
-        "EV access",
-        "Ford",
-        "GM",
-        "Rivian",
-        "NACS",
-        "electric vehicles",
-        "charging standards",
-        "automaker agreements"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-28T20:11:28.000Z"
     }
   ]
 }
