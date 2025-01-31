@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "The TechCrunch Cyber Glossary",
+      "link": "https://techcrunch.com/2025/01/31/techcrunch-reference-guide-to-security-terminology/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- A comprehensive glossary of cybersecurity terms created by TechCrunch.\n- Includes common and less common jargon used in cybersecurity articles.\n- The glossary will be regularly updated and invites user feedback.\n- Key entries include definitions for terms like Advanced Persistent Threat, Backdoor, and DDoS.\n- Addresses the significance of proper terminology in understanding cybersecurity incidents.",
+      "keywords": [
+        "cybersecurity",
+        "glossary",
+        "terminology",
+        "data breach",
+        "DDoS",
+        "encryption",
+        "hacker"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-31T14:00:00.000Z"
+    },
+    {
       "title": "US nonprofit healthcare provider says hackers stole medical and personal data of 1M+ patients",
       "link": "https://techcrunch.com/2025/01/31/us-nonprofit-healthcare-provider-says-hackers-stole-medical-and-personal-data-of-1m-patients/",
       "author": null,
@@ -1141,30 +1164,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-30T06:00:00.000Z"
-    },
-    {
-      "title": "SoftBank in talks to invest as much as $25B in OpenAI, report says",
-      "link": "https://techcrunch.com/2025/01/29/softbank-in-talks-to-invest-as-much-as-25b-in-openai-report-says/",
-      "author": "Manish Singh",
-      "thumbnail": null,
-      "summary": "- SoftBank is negotiating to invest up to $25 billion in OpenAI.\n- This potential investment would make SoftBank OpenAI's largest backer, surpassing Microsoft's previous investment.\n- The deal aligns with SoftBank's broader commitment of over $40 billion in AI initiatives, including a $100 billion investment in the Stargate project.\n- OpenAI claims that DeepSeek violated its service terms by using proprietary models to train their new R1 model.\n- The investment comes at a time when Nvidia faced significant market losses due to concerns over expensive AI hardware investments.",
-      "keywords": [
-        "SoftBank",
-        "OpenAI",
-        "AI investment",
-        "Microsoft",
-        "DeepSeek",
-        "Stargate project",
-        "venture capital",
-        "technology"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-30T01:43:37.000Z"
     }
   ]
 }
