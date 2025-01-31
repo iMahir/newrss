@@ -4,6 +4,78 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "MLCommons and Hugging Face team up to release massive speech data set for AI research",
+      "link": "https://techcrunch.com/2025/01/31/mlcommons-and-hugging-face-team-up-to-release-massive-speech-data-set-for-ai-research/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- MLCommons and Hugging Face released the 'Unsupervised People’s Speech' dataset with over 1 million hours of audio in 89 languages.\n- The initiative aims to advance research in speech technology and improve communication technologies globally.\n- The dataset may have biases and potential privacy issues, as most recordings are in American-accented English and some contributors might not have consented for their voices to be used.",
+      "keywords": [
+        "AI research",
+        "speech dataset",
+        "Hugging Face",
+        "MLCommons",
+        "machine learning",
+        "voice recordings",
+        "natural language processing",
+        "bias in AI",
+        "public domain"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-31T22:04:46.000Z"
+    },
+    {
+      "title": "Hundreds of companies are blocking DeepSeek over China data risks",
+      "link": "https://techcrunch.com/2025/01/31/hundreds-of-companies-are-blocking-deepseek-over-china-data-risks/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2195703830.jpg?w=1024",
+      "summary": "- DeepSeek, a Chinese chatbot, gained popularity in the U.S., topping app store charts.\n- Hundreds of companies, particularly with government ties, have blocked the service over data security concerns, citing potential data leakage to the Chinese government.\n- The Pentagon and the Navy have implemented restrictions against DeepSeek due to its data policies which require sharing user data with Chinese authorities upon request.",
+      "keywords": [
+        "DeepSeek",
+        "AI",
+        "China",
+        "data privacy",
+        "cybersecurity",
+        "government agencies",
+        "blockade"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-31T21:55:40.000Z"
+    },
+    {
+      "title": "Elon Musk is reportedly taking control of the inner workings of US government agencies",
+      "link": "https://techcrunch.com/2025/01/31/elon-musk-is-reportedly-taking-control-of-the-inner-workings-of-us-government-agencies/",
+      "author": "Sean O'Kane",
+      "thumbnail": null,
+      "summary": "- Elon Musk's associates are allegedly taking over key operations in multiple government agencies, including the Office of Personnel Management and the Treasury Department.\n- The highest-ranking official at the Treasury is leaving after a conflict with Musk's team regarding access to sensitive federal payment systems, which manage over $6 trillion annually.\n- Musk's team is reportedly locking out career civil servants from computer systems containing personal data of millions of federal employees.\n- Tech workers in the government are facing scrutiny from Musk's aides, leading to code reviews and a government-wide email encouraging employee resignations.\n- Musk's takeover mirrors the disorganized period after his acquisition of Twitter, representing an unprecedented influence over the U.S. government.",
+      "keywords": [
+        "Elon Musk",
+        "government agencies",
+        "Treasury Department",
+        "Department of Government Efficiency",
+        "DOGE",
+        "federal payment systems",
+        "power grab",
+        "government efficiency"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-31T21:14:28.000Z"
+    },
+    {
       "title": "Guo’s Conviction Partners adds Mike Vernal as GP, raises $230M fund",
       "link": "https://techcrunch.com/2025/01/31/guos-conviction-partners-adds-mike-vernal-as-gp-raises-230m-fund/",
       "author": "Sarah Guo, Mike Vernal",
@@ -1094,79 +1166,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-30T17:54:40.000Z"
-    },
-    {
-      "title": "US Justice Department sues to block HPE’s $14B acquisition of Juniper Networks",
-      "link": "https://techcrunch.com/2025/01/30/us-justice-department-sues-to-block-hpes-14b-acquisition-of-juniper-networks/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1184519651.jpg?w=1024",
-      "summary": "- The U.S. Department of Justice has sued to block HPE's acquisition of Juniper Networks, citing antitrust concerns.\n- The DOJ argues the deal would reduce competition in the enterprise wireless equipment market from three major vendors to two.\n- HPE announced its intention to acquire Juniper for $14 billion in January 2024, promoting the deal as a way to enhance AI solutions.\n- The European Commission approved the acquisition in August 2024, but the U.S. government expressed skepticism regarding competition implications in the American market.",
-      "keywords": [
-        "HPE",
-        "Juniper Networks",
-        "acquisition",
-        "antitrust",
-        "Department of Justice",
-        "enterprise technology",
-        "AI solutions",
-        "market competition"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-30T17:14:38.000Z"
-    },
-    {
-      "title": "How DeepSeek changed Silicon Valley’s AI landscape",
-      "link": "https://techcrunch.com/2025/01/30/how-deepseek-changed-silicon-valleys-ai-landscape/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Chinese AI lab [DeepSeek](https://techcrunch.com/2025/01/28/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/) has released competitive AI models, causing significant concern among Silicon Valley tech companies and the U.S. government.\n- DeepSeek's models are offered at lower prices than counterparts from OpenAI, Meta, and Google, leading to fear of China advancing in the AI arms race.\n- The launch of DeepSeek’s R1 model utilized a pure reinforcement learning approach, indicating a new way for AI to learn from experience, enhancing confidence in the progress of AI development.",
-      "keywords": [
-        "DeepSeek",
-        "AI models",
-        "Silicon Valley",
-        "reinforcement learning",
-        "AI arms race",
-        "American AI policy",
-        "open source AI"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 8,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-30T17:00:00.000Z"
-    },
-    {
-      "title": "ElevenLabs, the hot AI audio startup, confirms $180M in Series C funding at a $3.3B valuation",
-      "link": "https://techcrunch.com/2025/01/30/elevenlabs-raises-180-million-in-series-c-funding-at-3-3-billion-valuation/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-co-founders.jpg?w=680",
-      "summary": "- ElevenLabs raises $180 million in Series C funding at a $3.3 billion valuation.\n- The funding co-led by a16z and ICONIQ Growth will enhance ElevenLabs' audio tools and business development.\n- The startup focuses on developing expressive audio AI models and multimodal interactions.\n- New investors include NEA, World Innovation Lab, and Abu Dhabi's Lunate, with participation from existing backers like Sequoia Capital.\n- ElevenLabs has previously raised a total of $281 million, including an $80 million Series B last year.\n- The company also aims to improve AI conversational agents and increase its consumer-facing products, such as ElevenLabs Reader.",
-      "keywords": [
-        "ElevenLabs",
-        "AI audio",
-        "Series C funding",
-        "$180 million",
-        "$3.3 billion valuation",
-        "a16z",
-        "ICONIQ Growth",
-        "technology startup",
-        "synthetic voice technology",
-        "investor interest"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-30T17:00:00.000Z"
     }
   ]
 }
