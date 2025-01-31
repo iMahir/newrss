@@ -4,6 +4,101 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "A brief history of mass-hacks",
+      "link": "https://techcrunch.com/2025/01/31/a-brief-history-of-mass-hacks/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/Cisco-Getty.jpg?w=680",
+      "summary": "- Enterprise cybersecurity tools are designed to protect corporate networks but often contain vulnerabilities that hackers exploit.\n- The Clop ransomware gang has been involved in multiple mass-hacking incidents, exploiting various vulnerabilities across different organizations.\n- Significant mass-hacks include the MOVEit breach affecting 60 million people's data, and a recent string of exploits affecting companies like Citrix and Ivanti.\n- Ongoing concerns about cybersecurity vulnerabilities continue to challenge enterprises and raise the risk of mass-hacking campaigns.",
+      "keywords": [
+        "cybersecurity",
+        "mass-hacks",
+        "Clop ransomware",
+        "MOVEit breach",
+        "Cisco vulnerabilities",
+        "Ivanti VPN",
+        "Citrix",
+        "Fortinet"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-31T16:05:00.000Z"
+    },
+    {
+      "title": "Backed by Mayo Clinic, Nutrix’s hardware monitors worker stress",
+      "link": "https://techcrunch.com/2025/01/31/backed-by-mayo-clinic-nutrixs-hardware-monitors-worker-stress/",
+      "author": "Anna Heim",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/CortiSense.jpg?w=483",
+      "summary": "- Workplace stress costs U.S. businesses over $300 billion annually, impacting absenteeism and productivity.\n- Nutrix’s CortiSense device measures cortisol levels in saliva, recently awarded CES Innovation Award 2025 in Digital Health.\n- Supported by Mayo Clinic and a $4 million funding, Nutrix plans to use CortiSense for corporate health monitoring as it expands into the U.S.",
+      "keywords": [
+        "stress monitoring",
+        "Nutrix",
+        "CortiSense",
+        "Mayo Clinic",
+        "digital health",
+        "cortisol",
+        "workplace wellness"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-31T15:19:17.000Z"
+    },
+    {
+      "title": "Tata Technologies says ransomware attack hit IT assets, investigation ongoing",
+      "link": "https://techcrunch.com/2025/01/31/tata-technologies-says-ransomware-attack-hit-it-assets-investigation-ongoing/",
+      "author": "Jagmeet Singh",
+      "thumbnail": null,
+      "summary": "- Tata Technologies experienced a ransomware attack affecting some IT assets, requiring service suspension.\n- Client delivery services remained fully functional and unaffected.\n- An investigation is being conducted to determine the root cause and necessary remedial actions.\n- Specific details about the ransomware group and ransom demands were not disclosed.\n- Tata Technologies was founded in 1989 and operates in 27 countries with over 12,500 employees, having acquired several global engineering entities before a planned IPO in November 2023.",
+      "keywords": [
+        "Tata Technologies",
+        "ransomware",
+        "IT assets",
+        "cybersecurity",
+        "investigation",
+        "Tata Group",
+        "India",
+        "tech news"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-01-31T15:16:51.000Z"
+    },
+    {
+      "title": "WhatsApp disrupts hacking campaign targeting journalists with Paragon spyware",
+      "link": "https://techcrunch.com/2025/01/31/whatsapp-says-it-disrupted-a-hacking-campaign-targeting-journalists-with-spyware/",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "thumbnail": null,
+      "summary": "- WhatsApp disrupted a hacking campaign targeting around 90 users, including journalists and civil society members.\n- The campaign was linked to Paragon, an Israeli spyware company acquired in December by AE Industrial.\n- Malicious PDFs sent via WhatsApp groups were used to compromise victims, and WhatsApp implemented a fix to prevent this.\n- The hacking campaign is believed to have occurred in December, with a cease and desist letter sent to Paragon.\n- This marks Paragon's first public link to a hacking campaign targeting journalists.\n- WhatsApp's actions have been praised by digital rights advocates for holding spyware companies accountable.",
+      "keywords": [
+        "WhatsApp",
+        "hacking campaign",
+        "journalists",
+        "Paragon",
+        "spyware",
+        "cybersecurity",
+        "civil society",
+        "digital rights"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-31T15:11:16.000Z"
+    },
+    {
       "title": "TechCrunch Disrupt 2025: Last 24 hours for 2-for-1 Pass",
       "link": "https://techcrunch.com/2025/01/31/techcrunch-disrupt-2025-24-hours-left-for-2-for-1-pass/",
       "author": null,
@@ -1071,99 +1166,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-01-30T13:05:37.000Z"
-    },
-    {
-      "title": "Data analytics startup Athenic AI wants to be an enterprise’s central nervous system",
-      "link": "https://techcrunch.com/2025/01/30/data-analytics-startup-athenic-ai-wants-to-be-an-enterprises-central-nervous-system/",
-      "author": "Jared Zhao, Becca Szkutak",
-      "thumbnail": null,
-      "summary": "- Athenic AI, founded by Jared Zhao, aims to provide AI-driven data analytics for enterprises, described as a central nervous system for databases.\n- Launched in Summer 2022, the startup has secured customers from small startups to large enterprises, including Additel and PMC.\n- The company has announced a $4.3 million seed round led by BMW i Ventures to expand its team and technology capabilities.",
-      "keywords": [
-        "Athenic AI",
-        "data analytics",
-        "enterprise software",
-        "generative AI",
-        "AI models",
-        "startup funding"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-30T13:00:00.000Z"
-    },
-    {
-      "title": "US Blood Donation Giant Warns of Disruption After Ransomware Attack",
-      "link": "https://techcrunch.com/2025/01/30/us-blood-donation-giant-warns-of-disruption-after-ransomware-attack/",
-      "author": "Carly Page",
-      "thumbnail": null,
-      "summary": "- New York Blood Center (NYBC) is facing service disruptions due to a ransomware attack detected on January 26.\n- NYBC provides blood to over 200 hospitals in the northeast U.S. and has warned that donation activities may be rescheduled and processing times could be longer than usual.\n- The organization has declared a blood emergency, citing a 30% drop in donations, leading to dangerously low supplies of some blood types.",
-      "keywords": [
-        "ransomware",
-        "blood donation",
-        "cyberattack",
-        "New York Blood Center",
-        "service disruption",
-        "healthcare cybersecurity"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-30T12:58:18.000Z"
-    },
-    {
-      "title": "SuperOps bags $25M to use AI and better help managed service providers",
-      "link": "https://techcrunch.com/2025/01/30/superops-bags-25m-to-use-ai-and-better-help-managed-service-providers/",
-      "author": "Jagmeet Singh",
-      "thumbnail": null,
-      "summary": "- SuperOps, an Indian startup, raised $25 million in a Series C round, valuing it at $200 million.\n- It aims to improve support for managed service providers (MSPs) with AI offerings.\n- The startup has tripled its customer base to 1,300 across 104 countries.\n- SuperOps launched a GPT-powered AI assistant, Monica, to enhance workflow automation for MSPs.\n- The company plans to enter the mid-sized enterprise market and expand its geographic presence, including opening an office in London.\n- Founded in 2020 by Arvind Parthiban and Jayakumar Karumbasalam, SuperOps aims for a 300% revenue increase this year.",
-      "keywords": [
-        "SuperOps",
-        "AI",
-        "managed service providers",
-        "funding",
-        "tech startup",
-        "India",
-        "Series C",
-        "customer support"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-30T12:43:15.000Z"
-    },
-    {
-      "title": "India lauds Chinese AI lab DeepSeek, plans to host its models on local servers",
-      "link": "https://techcrunch.com/2025/01/30/india-to-host-china-deepseek-ai-model-locally-in-rare-tech-approval/",
-      "author": "Manish Singh",
-      "thumbnail": null,
-      "summary": "- India will host Chinese AI lab DeepSeek's large language models on domestic servers, marking a rare acceptance of Chinese technology.\n- IT Minister Ashwini Vaishnaw highlighted DeepSeek's $5.5 million investment and powerful models amid criticism of India's own AI investments.\n- DeepSeek models will be processed under strict data localization requirements, ensuring user data remains in India.\n- The AI Compute Facility will utilize 18,693 GPUs, significantly exceeding initial targets, and offer discounted computing services.\n- DeepSeek faced scrutiny as its app was removed from Apple and Google's stores in Italy over data privacy concerns.\n- India aims to attract $30 billion in investment for hyperscalers and data centers in the coming years, enhancing its AI ecosystem.",
-      "keywords": [
-        "India",
-        "DeepSeek",
-        "AI",
-        "data localization",
-        "technology",
-        "Ashwini Vaishnaw",
-        "AI Compute Facility",
-        "investment",
-        "data privacy"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-30T09:38:10.000Z"
     }
   ]
 }
