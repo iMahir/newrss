@@ -4,6 +4,53 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "WhatsApp says journalists and civil society members were targets of Israeli spyware",
+      "link": "https://www.theguardian.com/technology/2025/jan/31/whatsapp-israel-spyware",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Nearly 100 journalists and civil society members using WhatsApp were targeted by Israeli spyware from Paragon Solutions.\n- The attack, characterized as a “zero-click” breach, indicates users didn't need to interact with malicious content to be compromised.\n- WhatsApp has alerted affected users and sent a cease and desist letter to Paragon, exploring legal options while disrupting the attacks in December.\n- Paragon’s spyware, Graphite, is comparable to NSO Group’s Pegasus, offering extensive access to infected devices, compromising messages sent through encrypted applications.\n- The infection was believed to have been delivered via a malicious PDF file sent to group chat members.",
+      "keywords": [
+        "WhatsApp",
+        "spyware",
+        "journalists",
+        "civil society",
+        "Paragon Solutions",
+        "zero-click attack",
+        "Graphite",
+        "Pegasus"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-31T14:46:49.000Z"
+    },
+    {
+      "title": "Oh, I’m sorry, tech bros – did DeepSeek copy your work? I can hardly imagine your distress",
+      "link": "https://www.theguardian.com/commentisfree/2025/jan/31/tech-bros-deepseek-china-sam-altman-openai",
+      "author": "Marina Hyde",
+      "thumbnail": null,
+      "summary": "- OpenAI's Sam Altman expressed concern over DeepSeek potentially misusing ChatGPT for their new AI project.\n- The Chinese hedge fund DeepSeek's actions led to turmoil in the tech stock market.\n- Altman's statement on this situation highlights the ongoing discussion about intellectual property in the AI landscape.\n- The article critiques Silicon Valley's response to perceived threats from China while ignoring similar practices within its own industry.",
+      "keywords": [
+        "DeepSeek",
+        "Sam Altman",
+        "OpenAI",
+        "intellectual property",
+        "AI",
+        "China",
+        "Silicon Valley"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-31T14:44:01.000Z"
+    },
+    {
       "title": "Indiana Jones and the Great Circle fulfilled all my Nazi-punching fantasies",
       "link": "https://www.theguardian.com/games/2025/jan/31/indiana-jones-and-the-great-circle-fulfilled-all-my-nazi-punching-fantasies",
       "author": null,
@@ -1146,38 +1193,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-26T16:00:53.000Z"
-    },
-    {
-      "title": "Germany too focused on past guilt, Elon Musk tells AfD event – video",
-      "link": "https://www.theguardian.com/technology/video/2025/jan/26/germany-too-focused-on-past-guilt-elon-musk-tells-afd-event-video",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Tesla and SpaceX CEO Elon Musk spoke at a campaign event for the far-right Alternative für Deutschland (AfD) party in Halle, eastern Germany.\n- Musk claimed Germany is overly focused on past guilt and suggested that the AfD represents the best hope for the country.\n- The event received media attention as it highlighted Musk's controversial support for the AfD party.",
-      "keywords": [
-        "Elon Musk",
-        "Germany",
-        "AfD",
-        "Alternative für Deutschland",
-        "politics",
-        "speech"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-01-26T14:21:38.000Z"
-    },
-    {
-      "title": "Jewish non-profit chief says Musk will spur violence with his ‘Nazi salute’",
-      "link": "https://www.theguardian.com/technology/2025/jan/26/elon-musk-far-right-antisemitism",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-01-26T11:00:48.000Z"
     }
   ]
 }
