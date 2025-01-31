@@ -4,6 +4,30 @@
   "feedUrl": "https://www.fastcompany.com/technology/rss",
   "items": [
     {
+      "title": "OpenAI begins releasing its next generation of reasoning models with o3-mini",
+      "link": "https://www.fastcompany.com/91271011/openai-begins-releasing-its-next-generation-of-reasoning-models-with-o3-mini?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- OpenAI released the reasoning model o3-mini, which is more intelligent than o1-mini yet maintains low price and speed.\n- o3-mini is accessible through API with three levels of reasoning intensity, catering to varying problem difficulties.\n- The model is available for ChatGPT Plus, Team, and Pro users starting today; enterprise users will gain access in a week.\n- OpenAI researcher Noam Brown noted that the o3-mini model outperforms the full-sized o1 model in several evaluations.\n- The o3 series models, including o3-mini, demonstrate significantly higher intelligence levels in advanced computer coding and problem solving, achieving an 87.5% score on the ARC-AGI test.\n- OpenAI emphasizes reasoning capabilities over previous training approaches, aiming for faster and more efficient problem-solving.",
+      "keywords": [
+        "OpenAI",
+        "o3-mini",
+        "AI models",
+        "reasoning",
+        "development",
+        "DeepSeek",
+        "computing power",
+        "ChatGPT"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-31T20:34:22.000Z"
+    },
+    {
       "title": "The Hawk Tuah girl remains radio silent after her crypto controversy",
       "link": "https://www.fastcompany.com/91270833/the-hawk-tuah-girl-remains-radio-silent-after-her-crypto-controversy?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
       "author": null,
@@ -2755,31 +2779,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-24T10:04:00.000Z"
-    },
-    {
-      "title": "OpenAI’s new Operator is a step into AI’s agentic future",
-      "link": "https://www.fastcompany.com/91266338/openais-new-operator-is-a-step-into-ais-agentic-future?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "author": "Mark Sullivan",
-      "thumbnail": null,
-      "summary": "* OpenAI announced a research preview of [Operator](https://openai.com/index/computer-using-agent/), an AI agent that can browse the web and perform tasks.\n* Powered by the Computer-Using Agent (CUA), Operator combines GPT-4o’s vision and reasoning capabilities.\n* Trained to interact with user interfaces, Operator can complete tasks and adaptively self-correct.\n* Available only to OpenAI “Pro” tier subscribers for $200 a month, with plans to expand access to other subscription tiers.\n* Working with companies like [DoorDash](https://techcrunch.com/2025/01/23/openai-launches-operator-an-ai-agent-that-performs-tasks-autonomously/) and [Instacart](https://techcrunch.com/2025/01/23/openai-launches-operator-an-ai-agent-that-performs-tasks-autonomously/) to ensure compliance with terms of service agreements.",
-      "keywords": [
-        "OpenAI",
-        "AI agent",
-        "Operator",
-        "Computer-Using Agent",
-        "CUA",
-        "GPT-4o",
-        "automation",
-        "web tasks",
-        "AI tools"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 8,
-        "longTermSignificance": 9
-      },
-      "pubDate": "2025-01-23T19:16:06.000Z"
     }
   ]
 }
