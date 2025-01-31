@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Mistral board member and a16z VC Anjney Midha says DeepSeek won’t stop AI’s GPU hunger",
+      "link": "https://techcrunch.com/2025/01/31/mistral-board-member-and-a16z-vc-anjney-midha-says-deepseek-wont-stop-ais-gpu-hunger/",
+      "author": "Anjney Midha",
+      "thumbnail": null,
+      "summary": "• Anjney Midha, a16z VC and Mistral board member, discusses DeepSeek's performance compared to GPT4-Turbo.\n• DeepSeek's latest model, R1, challenges the AI industry by providing high efficiency at lower costs amid GPU demand.\n• Despite improvements, Midha asserts foundational AI models will still require vast GPU resources and more data centers.\n• Mistral remains competitive due to its open-source approach, allowing access to free technical support.\n• The Oxygen GPU sharing program is currently overbooked, highlighting the intense demand for GPUs in AI development.\n• Companies are recognizing the strategic importance of AI infrastructure similar to electricity and the internet, advocating for Western models over Chinese ones.",
+      "keywords": [
+        "DeepSeek",
+        "AI",
+        "GPU",
+        "Mistral",
+        "Anjney Midha",
+        "OpenAI",
+        "a16z"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-31T23:03:45.000Z"
+    },
+    {
       "title": "MLCommons and Hugging Face team up to release massive speech data set for AI research",
       "link": "https://techcrunch.com/2025/01/31/mlcommons-and-hugging-face-team-up-to-release-massive-speech-data-set-for-ai-research/",
       "author": "Kyle Wiggers",
@@ -1143,29 +1166,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-30T17:58:26.000Z"
-    },
-    {
-      "title": "Factorial Capital takes a fresh approach to finding startups with a technical edge",
-      "link": "https://techcrunch.com/2025/01/30/factorial-capital-takes-a-fresh-approach-to-finding-startups-with-a-technical-edge/",
-      "author": "Anthony Ha",
-      "thumbnail": null,
-      "summary": "- Matt Hartman emphasizes the need for venture capitalists to deeply understand technology, particularly in startups focused on AI.\n- Hartman founded Factorial Capital after nine years at Betaworks, aiming for a new approach in startup investment.\n- Factorial relies on a network of technical founders to identify startups pre-product market fit, allowing for better investment strategies.\n- The firm has partnered with prominent figures like Giphy's Alex Chung and Venmo's Iqram Magdon-Ismail to source deals.\n- Factorial aims to make larger investments (typically $500,000) while allowing sourcing partners to invest their own money as well.",
-      "keywords": [
-        "venture capital",
-        "startups",
-        "technology",
-        "AI",
-        "investment",
-        "Factorial Capital",
-        "Matt Hartman"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-30T17:54:40.000Z"
     }
   ]
 }
