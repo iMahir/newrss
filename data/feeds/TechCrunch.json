@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "AI startup Perplexity sued for alleged trademark infringement",
+      "link": "https://techcrunch.com/2025/01/31/ai-startup-perplexity-sued-for-alleged-trademark-infringement/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Perplexity is being sued in federal court for trademark infringement by Perplexity Solved Solutions.\n- The complaint alleges that Perplexity began infringing on trademarks in August 2022 and did not comply with a cease and desist letter.\n- Perplexity Solved Solutions is seeking legal relief, including a ban on the use of the trademark and damages.",
+      "keywords": [
+        "Perplexity",
+        "trademark infringement",
+        "AI startup",
+        "Perplexity Solved Solutions",
+        "lawsuit",
+        "U.S. District Court",
+        "Lanham Act"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-01-31T16:33:10.000Z"
+    },
+    {
       "title": "A brief history of mass-hacks",
       "link": "https://techcrunch.com/2025/01/31/a-brief-history-of-mass-hacks/",
       "author": null,
@@ -166,6 +189,29 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-31T11:03:39.000Z"
+    },
+    {
+      "title": "Apple Intelligence will support more languages starting in April",
+      "link": "https://techcrunch.com/2025/01/31/apple-intelligence-will-support-more-languages-starting-in-april/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/apple-intelligence-iphone-mac.jpg?w=1024",
+      "summary": "- Apple Intelligence will support additional languages including French, German, Italian, Portuguese, Spanish, Japanese, Korean, and simplified Chinese in April 2025.\n- Tim Cook announced this during the Q4 2024 results call on January 30, 2025.\n- Previously, Apple Intelligence only supported U.S. English with recent updates adding support for more English localizations, but no plans for rollout in the EU and Mainland China have been shared.",
+      "keywords": [
+        "Apple Intelligence",
+        "language support",
+        "AI suite",
+        "Tim Cook",
+        "April 2025",
+        "Siri",
+        "iOS 18.2"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-01-31T08:43:28.000Z"
     },
     {
       "title": "Apple Intelligence will support more languages from April",
@@ -1121,51 +1167,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-30T14:00:00.000Z"
-    },
-    {
-      "title": "Ai2 says its new AI model beats one of DeepSeek’s best",
-      "link": "https://techcrunch.com/2025/01/30/ai2-says-its-new-ai-model-beats-one-of-deepseeks-best/",
-      "author": "Kyle Wiggers",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/Benchmarks.png?w=680",
-      "summary": "- Ai2 released its new AI model Tulu3-405B, claiming it outperforms DeepSeek V3 and OpenAI’s GPT-4o.\n- Tulu3-405B has 405 billion parameters and was trained using 256 GPUs; it's open source and freely available.\n- Ai2 aims to reinforce the U.S.'s position in open-source AI development, presenting Tulu3-405B as a competitive alternative to DeepSeek.\n- The model achieved top results in benchmarks such as PopQA and GSM8K, beating several other models in its class.\n- Tulu3-405B is available for testing via Ai2’s web app and the training code is accessible on GitHub.",
-      "keywords": [
-        "AI",
-        "Tulu3-405B",
-        "DeepSeek",
-        "open source",
-        "benchmark",
-        "reinforcement learning",
-        "generative AI"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-30T14:00:00.000Z"
-    },
-    {
-      "title": "DeepSeek exposed internal database containing chat histories and sensitive data",
-      "link": "https://techcrunch.com/2025/01/30/deepseek-exposed-internal-database-containing-chat-histories-and-sensitive-data/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Chinese AI company DeepSeek had an exposed back-end database containing sensitive information including user chat histories and API keys.\n- The database was unprotected with a password, allowing public access to over a million unencrypted logs.\n- Security researchers from Wiz discovered the database and notified DeepSeek, who subsequently took it offline.\n- The exposed chat logs were primarily in Chinese but could be easily translated.\n- It is unclear if other entities accessed the database before it was secured, or how long it had been exposed.\n- Misconfiguration is likely due to human error; DeepSeek gained popularity since its launch in December.",
-      "keywords": [
-        "DeepSeek",
-        "data breach",
-        "chat history",
-        "sensitive information",
-        "security",
-        "misconfigured databases"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-30T13:05:37.000Z"
     }
   ]
 }
