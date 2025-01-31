@@ -4,6 +4,91 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Intel has already received $2.2B in federal grants for chip production",
+      "link": "https://techcrunch.com/2025/01/30/intel-has-already-received-2-2b-in-federal-grants-for-chip-production/",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-01-31T00:12:32.000Z"
+    },
+    {
+      "title": "Pentagon scrambles to block DeepSeek after employees connect to Chinese servers",
+      "link": "https://techcrunch.com/2025/01/30/pentagon-scrambles-to-block-deepseek-after-employees-connect-to-chinese-servers/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- DeepSeek explicitly states it stores user data on Chinese servers governed by Chinese law.\n- U.S. Department of Defense employees connected to DeepSeek for at least two days before the Pentagon began blocking it.\n- The U.S. government is concerned about national security implications due to the growing popularity of DeepSeek.",
+      "keywords": [
+        "Pentagon",
+        "DeepSeek",
+        "AI",
+        "national security",
+        "Chinese servers",
+        "data privacy"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-01-30T23:49:23.000Z"
+    },
+    {
+      "title": "Apple tops 1 billion subscriptions, nearly $100B in services revenue in 2024",
+      "link": "https://techcrunch.com/2025/01/30/apple-tops-1-billion-subscriptions-nearly-100-billion-in-services-revenue-in-2024/",
+      "author": "Sarah Perez",
+      "thumbnail": null,
+      "summary": "- Apple reported a record revenue of $26.3 billion for its Services division for Q4 2024, up 14% year-over-year.\n- The company achieved nearly $100 billion in Services revenue over the past year and has more than 1 billion subscriptions.\n- Engagement for Apple’s services, including paid accounts, grew by double digits year over year.\n- Apple Arcade and Fitness+ continue to expand, and Tap to Pay for iPhone is now available in 20 markets.\n- The company faces regulatory scrutiny but maintains positive customer engagement numbers across all offerings.\n- The U.S. Supreme Court declined to hear the Epic Games case, affirming that Apple is not a monopolist, but requiring it to allow developers to link to external payment options.",
+      "keywords": [
+        "Apple",
+        "subscriptions",
+        "services revenue",
+        "iPhone",
+        "App Store",
+        "iCloud",
+        "Music",
+        "TV+",
+        "customer engagement",
+        "regulatory impact",
+        "Epic Games",
+        "antitrust"
+      ],
+      "scores": {
+        "scale": 9,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-30T23:42:02.000Z"
+    },
+    {
+      "title": "Apple CEO says DeepSeek shows ‘innovation that drives efficiency’",
+      "link": "https://techcrunch.com/2025/01/30/apple-ceo-says-deepseek-shows-innovation-that-drives-efficiency/",
+      "author": "Maxwell Zeff",
+      "thumbnail": null,
+      "summary": "- Apple CEO Tim Cook described DeepSeek’s AI models as \"innovation that drives efficiency\" during an earnings call.\n- Cook emphasized that Apple uses a hybrid AI model, conducting simple tasks locally and complex tasks via cloud partnerships.\n- OpenAI claims its models were used to train DeepSeek’s AI models, which could violate usage policies.\n- Apple’s partnership with OpenAI is non-exclusive, with potential for future collaborations with other AI firms.\n- Analysis indicates DeepSeek’s AI models may not have been trained as efficiently as claimed, yet they are sold at lower prices than U.S. counterparts.\n- Apple’s AI features rollout hasn't significantly boosted iPhone sales, which slightly declined compared to the previous year.\n- The company paused misleading AI-driven news summaries after generating incorrect alerts.",
+      "keywords": [
+        "Apple",
+        "AI",
+        "DeepSeek",
+        "Tim Cook",
+        "OpenAI",
+        "efficiency",
+        "iPhone",
+        "technology",
+        "innovation"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-01-30T23:25:05.000Z"
+    },
+    {
       "title": "Google quietly announces its next flagship AI model",
       "link": "https://techcrunch.com/2025/01/30/google-quietly-announces-its-next-flagship-ai-model/",
       "author": "Kyle Wiggers",
@@ -1080,101 +1165,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-01-29T23:02:24.000Z"
-    },
-    {
-      "title": "Elon Musk claims Tesla will launch a self-driving service in Austin in June",
-      "link": "https://techcrunch.com/2025/01/29/elon-musk-claims-tesla-will-launch-a-self-driving-service-in-austin-in-june/",
-      "author": "Sean O'Kane",
-      "thumbnail": null,
-      "summary": "- Tesla CEO Elon Musk announced that a paid robotaxi service will launch in Austin, Texas in June.\n- The service will utilize the \"unsupervised\" version of Tesla's Full Self-Driving software with no human drivers present.\n- Musk had previously hinted at a self-driving service in October during the prototype reveal of the Cybercab.\n- Plans for the service originally included Model Y SUVs and Model 3 sedans, with talks ongoing with Austin city officials.\n- The company is testing the unsupervised FSD software in controlled environments before the launch to ensure safety.",
-      "keywords": [
-        "Tesla",
-        "Elon Musk",
-        "self-driving",
-        "robotaxi",
-        "Austin",
-        "Full Self-Driving",
-        "transportation",
-        "autonomy"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-29T22:52:54.000Z"
-    },
-    {
-      "title": "Threads adds another 20M monthly users since December, reaching 320M",
-      "link": "https://techcrunch.com/2025/01/29/threads-adds-another-20m-users-since-december-reaching-320m/",
-      "author": "Lauren Forristal",
-      "thumbnail": null,
-      "summary": "- Threads, Meta’s microblogging platform, gained 20 million monthly active users (MAUs) since December 2024, now totaling 320 million MAUs.\n- CEO Mark Zuckerberg reported the growth during the fourth-quarter earnings call, indicating strong user retention amid competition from apps like X, Bluesky, and Mastodon.\n- The increase is supported by more than 1 million daily signups and ongoing feature enhancements, including post scheduling and content view tracking.\n- Meta aims to improve user experience with updates to recommendation systems and tailored feeds, as well as testing new ads in the U.S. and Japan.",
-      "keywords": [
-        "Threads",
-        "Meta",
-        "social media",
-        "monthly active users",
-        "Zuckerberg",
-        "Bluesky",
-        "Mastodon",
-        "user growth",
-        "microblogging"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-01-29T22:49:44.000Z"
-    },
-    {
-      "title": "Hackers are hijacking WordPress sites to push Windows and Mac malware",
-      "link": "https://techcrunch.com/2025/01/29/hackers-are-hijacking-wordpress-sites-to-push-windows-and-mac-malware/",
-      "author": "Lorenzo Franceschi-Bicchierai",
-      "thumbnail": null,
-      "summary": "- Hackers exploiting outdated WordPress versions to alter websites for malware distribution.\n- Attack impacts both Windows and Mac users, targeting over 10,000 sites.\n- Fake Chrome browser update prompts users to download malicious files.\n- Two types of malware involved: Amos (for macOS) and SocGholish (for Windows).\n- Users warned to update their browsers and only install trusted applications.",
-      "keywords": [
-        "WordPress",
-        "malware",
-        "cybersecurity",
-        "hackers",
-        "Amos",
-        "SocGholish"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-29T22:03:45.000Z"
-    },
-    {
-      "title": "Microsoft brings a DeepSeek model to its cloud",
-      "link": "https://techcrunch.com/2025/01/29/microsoft-brings-a-deepseek-model-to-its-cloud/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- Microsoft has announced the availability of DeepSeek’s reasoning model R1 on its Azure AI Foundry platform.\n- The R1 model has undergone extensive security evaluations before being added to Microsoft’s cloud services.\n- Microsoft will soon offer ‘distilled’ versions of R1 for local use on Copilot+ PCs.\n- Microsoft is reportedly investigating DeepSeek for potential misuse of its and OpenAI's services, following concerns over data exfiltration.\n- Tests by NewsGuard show R1 provides inaccurate answers regarding news topics 83% of the time, and avoids 85% of prompts related to China due to censorship.",
-      "keywords": [
-        "Microsoft",
-        "DeepSeek",
-        "Azure AI",
-        "artificial intelligence",
-        "R1",
-        "OpenAI",
-        "censorship",
-        "data security"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-29T21:08:41.000Z"
     }
   ]
 }
