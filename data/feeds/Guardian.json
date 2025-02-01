@@ -4,6 +4,41 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "A man stalked a professor for six years. Then he used AI chatbots to lure strangers to her home",
+      "link": "https://www.theguardian.com/technology/2025/feb/01/stalking-ai-chatbot-impersonator",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-02-01T12:00:43.000Z"
+    },
+    {
+      "title": "DeepSeek, ChatGPT, Grok … which is the best AI assistant? We put them to the test",
+      "link": "https://www.theguardian.com/technology/2025/feb/01/deepseek-chatgpt-grok-gemini-claude-meta-ai-which-is-the-best-ai-assistant-we-put-them-to-the-test",
+      "author": null,
+      "thumbnail": "https://i.guim.co.uk/img/media/5552cf987ff4e8e520a6bc70196cf89daec01f52/219_366_5728_3437/master/5728.jpg?width=620&amp;dpr=2&amp;s=none&amp;crop=none",
+      "summary": "- OpenAI’s ChatGPT, still leading in brand recognition, faced challenges with complex prompts at first but ultimately complied, producing a Shakespearean sonnet. \n- DeepSeek, a newly released Chinese chatbot on January 20, showcased impressive features but declined to discuss sensitive political topics like Tiananmen Square, indicating cultural and operational limitations. \n- Other chatbots tested included Grok, which humorously handled sensitive topics, and Gemini, which showed competence in interpreting images but struggled with specfic queries.",
+      "keywords": [
+        "AI assistants",
+        "ChatGPT",
+        "DeepSeek",
+        "Grok",
+        "Gemini",
+        "Claude",
+        "artificial intelligence",
+        "comparison",
+        "technology"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-01T12:00:42.000Z"
+    },
+    {
       "title": "‘Are we dating the same guy?’: Women turn to Facebook to uncover cheating and violence",
       "link": "https://www.theguardian.com/society/2025/feb/01/are-we-dating-the-same-guy-women-turn-to-facebook-to-uncover-cheating-and-violence",
       "author": null,
@@ -1148,52 +1183,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-27T10:30:39.000Z"
-    },
-    {
-      "title": "‘Serious concerns’ about DWP’s use of AI to read correspondence from benefit claimants",
-      "link": "https://www.theguardian.com/society/2025/jan/27/dwp-ai-whitemail-benefit-claimants-applicants",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- The DWP receives 25,000 letters and emails daily from over 20 million benefit claimants in the UK.\n- They are using an AI named \"white mail\" to prioritize urgent cases, reducing human processing time from weeks to a day.\n- Serious concerns have been raised regarding the transparency and handling of sensitive personal data by the AI.\n- Critics argue that benefit claimants are not informed about the AI's use, raising ethical implications.\n- There are calls for more transparency, performance data, audits, and safeguards to protect vulnerable claimants.",
-      "keywords": [
-        "DWP",
-        "AI",
-        "benefit claimants",
-        "data protection",
-        "white mail",
-        "transparency",
-        "sensitive data"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-01-27T05:00:11.000Z"
-    },
-    {
-      "title": "AI prototypes for UK welfare system dropped as officials lament ‘false starts’",
-      "link": "https://www.theguardian.com/technology/2025/jan/27/ai-prototypes-uk-welfare-system-dropped",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Ministers have canceled at least six AI prototypes meant for the welfare system, indicating challenges in implementing government efficiency.\n- AI pilots aimed to enhance jobcentre services and accelerate payments for disabilities have been scrapped following internal assessments.\n- Department for Work and Pensions previously reported successful tests of generative AI concepts, but faced friction in scaling and reliability of technology.\n- Government officials state the learning from dropped projects will inform future implementations of AI in public services.\n- There are ongoing discussions about transparency regarding AI usage in the welfare system, with no data disclosed on the algorithm transparency register.",
-      "keywords": [
-        "AI",
-        "welfare system",
-        "UK government",
-        "public services",
-        "Department for Work and Pensions",
-        "technology challenges",
-        "transparency"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 6,
-        "novelty": 4,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-27T05:00:10.000Z"
     }
   ]
 }
