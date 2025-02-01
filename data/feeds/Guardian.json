@@ -4,6 +4,31 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "Italian investigative journalist targeted on WhatsApp by Israeli spyware",
+      "link": "https://www.theguardian.com/technology/2025/jan/31/italian-journalist-whatsapp-israeli-spyware",
+      "author": "Not given",
+      "thumbnail": null,
+      "summary": "- An Italian investigative journalist, Francesco Cancellato, reported receiving a notification about being targeted by Israeli spyware from Paragon Solutions.\n- He is known for exposing fascist activities within Prime Minister Giorgia Meloni’s far-right party.\n- WhatsApp revealed on a Friday that 90 journalists and others had been targeted and discovered the spyware's activity in December.\n- Paragon's spyware, Graphite, can infect devices without user interaction through group chats and PDFs.\n- Cancellato has not been informed of any investigations against him and considers the incident a significant violation of privacy.",
+      "keywords": [
+        "spyware",
+        "journalism",
+        "Italy",
+        "Francesco Cancellato",
+        "WhatsApp",
+        "Paragon Solutions",
+        "fascism",
+        "privacy",
+        "Giorgia Meloni"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-01-31T23:46:26.000Z"
+    },
+    {
       "title": "WhatsApp says journalists and civil society members were targets of Israeli spyware",
       "link": "https://www.theguardian.com/technology/2025/jan/31/whatsapp-israel-spyware",
       "author": null,
@@ -1169,30 +1194,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-01-26T16:00:54.000Z"
-    },
-    {
-      "title": "Convenient or intrusive? How Poland has embraced digital ID cards",
-      "link": "https://www.theguardian.com/technology/2025/jan/26/poland-digital-id-cards-e-government-app",
-      "author": null,
-      "thumbnail": "https://i.guim.co.uk/img/media/7f535d83d44d7ffd81d33ad11a569d6edc1651d9/0_0_4257_2554/master/4257.jpg?width=445&dpr=1&s=none&crop=none",
-      "summary": "- Poland has embraced digital identity cards and a mobile app called mObywatel, used by 8 million users.\n- Users verify their identity through electronic banking or a physical ID card to access services.\n- The app allows users to check driving licence points, vehicle history, local air quality, and polling stations.\n- EU's eIDAS 2.0 regulation will enable cross-border digital ID verification by 2026 or 2027.\n- Future features may include accident reporting to insurers and online age verification.\n- Privacy concerns are raised regarding the potential for intrusive data use, but improvements in data control are suggested.",
-      "keywords": [
-        "Poland",
-        "digital ID",
-        "mObywatel",
-        "e-government",
-        "privacy",
-        "EU regulation",
-        "public services",
-        "technology"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-26T16:00:53.000Z"
     }
   ]
 }

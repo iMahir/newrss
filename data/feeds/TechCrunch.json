@@ -4,6 +4,81 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Autonomous vehicle testing in California dropped 50%. Here’s why.",
+      "link": "https://techcrunch.com/2025/01/31/autonomous-vehicle-testing-in-california-dropped-50-heres-why/",
+      "author": "Kirsten Korosec",
+      "thumbnail": null,
+      "summary": "- Testing of autonomous vehicles in California fell 50% in 2024, logging 4.5 million miles.\n- Driverless testing saw an 83% decline, dropping to 552,895 miles.\n- The decline reflects few active companies; Waymo and Cruise were significant players, with Cruise halting tests entirely.\n- As of 2024, only 31 companies hold safety driver permits, with just 11 conducting tests.\n- The DMV issued only one new permit in 2024, down from four in 2022 and two in 2023.\n- The industry has consolidated, with fewer companies willing to invest heavily in autonomous vehicle development.",
+      "keywords": [
+        "autonomous vehicles",
+        "California",
+        "testing",
+        "Waymo",
+        "Cruise",
+        "DMV",
+        "driverless testing",
+        "commercial operations",
+        "self-driving technology"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-01T00:16:38.000Z"
+    },
+    {
+      "title": "OpenAI used this subreddit to test AI persuasion",
+      "link": "https://techcrunch.com/2025/01/31/openai-used-this-subreddit-to-test-ai-persuasion/",
+      "author": "Maxwell Zeff",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/Screenshot-2025-01-31-at-2.59.30PM.png?w=680",
+      "summary": "- OpenAI utilized [r/ChangeMyView](https://www.reddit.com/r/changemyview/) for testing AI's persuasive abilities with its new reasoning model, [o3-mini](https://techcrunch.com/2025/01/31/openai-launches-o3-mini-its-latest-reasoning-model/).\n- The subreddit features posts from users seeking diverse viewpoints, receiving persuasive replies from others.\n- OpenAI collects content from this subreddit to create tests and evaluates the AI's responses compared to human arguments, but no public release of this evaluation is planned.\n- OpenAI also has a licensing deal with Reddit for utilizing user posts in its products, though the ChangeMyView evaluation is reportedly separate from this agreement.\n- The o3-mini model performs similarly to previous models but is noted as competitive in persuasive argumentation, virtually on par with humans.",
+      "keywords": [
+        "OpenAI",
+        "AI persuasion",
+        "r/ChangeMyView",
+        "o3-mini",
+        "reasoning models",
+        "persuasive abilities",
+        "AI evaluation",
+        "tech companies",
+        "human data"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-01-31T23:47:00.000Z"
+    },
+    {
+      "title": "Sam Altman: OpenAI has been on the ‘wrong side of history’ concerning open source",
+      "link": "https://techcrunch.com/2025/01/31/sam-altman-believes-openai-has-been-on-the-wrong-side-of-history-concerning-open-source/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Sam Altman stated OpenAI has been 'on the wrong side of history' regarding open-source technologies.\n- OpenAI is facing competition from companies like DeepSeek, leading to a reevaluation of its open-sourcing strategies.\n- Altman mentioned potential plans to open-source older models and enhance the transparency of reasoning models.\n- The company is engaged in significant financing efforts, with ongoing relationships with government bodies for nuclear defense research.\n- Altman indicated a shift in OpenAI's approach to model development and a potential future release strategy.",
+      "keywords": [
+        "OpenAI",
+        "Sam Altman",
+        "DeepSeek",
+        "AI",
+        "open source",
+        "reasoning models",
+        "government partnership",
+        "nuclear defense",
+        "model development"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-01-31T23:34:35.000Z"
+    },
+    {
       "title": "Mistral board member and a16z VC Anjney Midha says DeepSeek won’t stop AI’s GPU hunger",
       "link": "https://techcrunch.com/2025/01/31/mistral-board-member-and-a16z-vc-anjney-midha-says-deepseek-wont-stop-ais-gpu-hunger/",
       "author": "Anjney Midha",
@@ -1092,80 +1167,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-01-30T19:29:21.000Z"
-    },
-    {
-      "title": "US Justice Department says cybercrime forum allegedly affected 17 million Americans",
-      "link": "https://techcrunch.com/2025/01/30/us-justice-department-says-cybercrime-forum-allegedly-affected-17-million-americans/",
-      "author": "Lorenzo Franceschi-Bicchierai",
-      "thumbnail": null,
-      "summary": "- On Thursday, an international coalition took down two prominent hacking forums, Cracked and Nulled.\n- The forums allegedly affected at least 17 million Americans, involving serious cases like cyberstalking and identity theft.\n- Cracked had over 4 million users since 2018, generating around $4 million in revenue, while Nulled had over 5 million users and around $1 million in annual revenue.",
-      "keywords": [
-        "cybercrime",
-        "hacking",
-        "DOJ",
-        "Cracked",
-        "Nulled",
-        "law enforcement",
-        "data breach",
-        "cyberstalking"
-      ],
-      "scores": {
-        "scale": 9,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-30T18:53:57.000Z"
-    },
-    {
-      "title": "Microsoft signs massive carbon credit deal with reforestation startup Chestnut Carbon",
-      "link": "https://techcrunch.com/2025/01/30/microsoft-signs-massive-carbon-credit-deal-with-reforestation-startup-chestnut-carbon/",
-      "author": "Tim De Chant",
-      "thumbnail": null,
-      "summary": "- Microsoft announced a 25-year deal to purchase over 7 million tons of carbon credits from Chestnut Carbon.\n- The deal aims to support reforestation of 60,000 acres across Arkansas, Louisiana, and Texas.\n- Microsoft has faced rising emissions due to increased data center usage prompted by AI, with a reported 29% increase in emissions since 2020.\n- The carbon credits from Chestnut Carbon are focused on reforestation and monitoring of new forests.\n- Premium carbon credits from diverse, native plantings sell at a higher price compared to those from non-native trees.\n- The cost of Chestnut Carbon's credits is $34 per ton, significantly lower than direct air capture costs, which range from $600 to $1,000 per ton.\n- After an investigation into Verra raised concerns about the quality of nature-based carbon credits, Chestnut Carbon has shifted to using Gold Standard for certification.",
-      "keywords": [
-        "Microsoft",
-        "carbon credits",
-        "Chestnut Carbon",
-        "reforestation",
-        "sustainability",
-        "greenhouse emissions",
-        "environmental impact",
-        "climate change",
-        "carbon sequestration"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-30T18:10:07.000Z"
-    },
-    {
-      "title": "Waymo employees can hail fully autonomous rides in Atlanta now",
-      "link": "https://techcrunch.com/2025/01/30/waymo-employees-can-hail-fully-autonomous-rides-in-atlanta-now/",
-      "author": "Rebecca Bellan",
-      "thumbnail": null,
-      "summary": "- Waymo is launching fully driverless robotaxi rides for employees in Atlanta.\n- This service is a precursor to public availability expected later in 2025.\n- The launch follows a $5.6 billion Series C funding round at a $45 billion valuation.\n- Waymo plans to test in 10 new cities in 2025, starting with San Diego and Las Vegas.\n- The commercial robotaxi service will be available exclusively via the Uber app in Atlanta.\n- Waymo has previously opened rides to the public in Austin in October 2024 and runs services in San Francisco, Phoenix, and Los Angeles.",
-      "keywords": [
-        "Waymo",
-        "robotaxi",
-        "Atlanta",
-        "autonomous rides",
-        "Uber",
-        "transportation",
-        "self-driving technology",
-        "Elon Musk",
-        "Tesla"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-30T17:58:26.000Z"
     }
   ]
 }
