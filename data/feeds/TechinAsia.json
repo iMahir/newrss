@@ -4,6 +4,107 @@
   "feedUrl": "https://www.techinasia.com/feed",
   "items": [
     {
+      "title": "DeepSeek costs $500m, not publicly stated $6m: analysts",
+      "link": "https://www.techinasia.com/news/deepseek-costs-500m-not-publicly-stated-6m-analysts",
+      "author": null,
+      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/01/1737501229_shutterstock_2477869003-scaled.jpg",
+      "summary": "- Analysts estimate DeepSeek’s total hardware investment exceeds US$500 million, significantly higher than the publicly stated US$6 million pre-training cost.\n- The US$6 million figure only accounts for GPU pre-training, excluding research, development, data preparation, and maintenance costs.\n- DeepSeek has a workforce of approximately 150 and recruits top graduates with salaries over US$1.3 million annually.\n- Backed by hedge fund High-Flyer, DeepSeek initially secured nearly 10,000 A100 GPUs and now operates around 50,000 GPUs, including H800 and restricted H20 models.\n- Recent developments include concerns over DeepSeek-R1 generating biased content and facing global data security restrictions.",
+      "keywords": [
+        "DeepSeek",
+        "AI investment",
+        "hardware costs",
+        "data privacy",
+        "Nvidia GPUs",
+        "analysts",
+        "High-Flyer"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-01T05:36:37.000Z"
+    },
+    {
+      "title": "OpenAI releases cheaper o3-mini model for faster performance",
+      "link": "https://www.techinasia.com/news/openai-release-cheaper-o3-mini-model-for-faster-performance",
+      "author": null,
+      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/01/1736490783_shutterstock_2568457807-scaled.jpg",
+      "summary": "- OpenAI introduced the o3-mini, a cost-effective reasoning model.\n- It improves speed and affordability compared to o1-mini, available via ChatGPT and API.\n- Features include function calling and structured outputs, with adjustable reasoning levels: low, medium, high.\n- Provides better accuracy in technical subjects like AIME math and GPQA science tests.\n- Excels in coding tasks, with a 24% faster response time and enhanced safety through improved training techniques.\n- Note: o3-mini does not support visual reasoning, as that is handled by o1 version.\n- Currently accessible for ChatGPT Plus, Team, and Pro users; Enterprise access expected later in February.",
+      "keywords": [
+        "OpenAI",
+        "o3-mini",
+        "AI model",
+        "performance",
+        "cost-effective",
+        "ChatGPT",
+        "function calling",
+        "structured outputs",
+        "reasoning levels",
+        "accuracy",
+        "coding tasks",
+        "safety",
+        "Enterprise access"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-01T05:15:38.000Z"
+    },
+    {
+      "title": "Chinese startup eyes humanoid robot use in 3-5 years",
+      "link": "https://www.techinasia.com/news/chinese-startup-eyes-humanoid-robot-use-years",
+      "author": "Huang Jiawei",
+      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/01/1737014009_shutterstock_1653927502-scaled.jpg",
+      "summary": "- Unitree, a Chinese robotics startup, aims to develop broader commercial applications for humanoid robots in 3-5 years.\n- The company showcased its technology during China’s Spring Festival Gala with 16 H1 humanoid robots performing a Yangge folk dance.\n- The robots are being tested in factories of Chinese EV manufacturers, including Nio and Geely.\n- Marketing director Huang Jiawei highlighted the need for advanced intelligence in robots for better perception and task execution.",
+      "keywords": [
+        "humanoid robots",
+        "robotics",
+        "Unitree",
+        "AI",
+        "commercial applications",
+        "China",
+        "Spring Festival Gala",
+        "EV manufacturers"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-01T05:12:33.000Z"
+    },
+    {
+      "title": "SEA healthtech funding hits 7-year low in 2024: report",
+      "link": "https://www.techinasia.com/news/sea-healthtech-funding-hits-7-year-low-in-2024-report",
+      "author": null,
+      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2024/12/1734517856_shutterstock_2469341945-scaled.jpg",
+      "summary": "- Southeast Asia's healthtech sector raised just US$123 million in 2024, the lowest in seven years, according to the Tracxn Geo Annual Report.\n- This represents a 79% decrease from 2023 and a 90% drop from 2022.\n- Singapore led with US$92 million, accounting for 75% of the total funding.\n- Overall funding across Asia fell by 11% due to macroeconomic uncertainties and geopolitical issues.\n- The peak funding was in Q2 2024, raising US$41.2 million, down 63% year-over-year.\n- HealthifyMe secured the highest funding at US$20 million, while Biobot Surgical raised $17.9 million.\n- No deals exceeded US$100 million in 2024, contrasting with previous years.\n- IPO activity decreased with only two listings, while acquisitions doubled to eight, including Nvidia’s acquisition of VinBrain.\n- Future growth may be supported by digitalization and rising demand for remote healthcare and mental health solutions.",
+      "keywords": [
+        "Southeast Asia",
+        "healthtech",
+        "funding",
+        "investment",
+        "2024",
+        "economic downturn",
+        "digital health",
+        "remote healthcare",
+        "mental health"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-01T05:10:15.000Z"
+    },
+    {
       "title": "Andreessen Horowitz backs $50m brain-tech startup",
       "link": "https://www.techinasia.com/news/andreessen-horowitz-backs-50m-brain-tech-startup",
       "author": "Not given",
@@ -1011,99 +1112,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-31T04:48:27.000Z"
-    },
-    {
-      "title": "Meta settles lawsuit with Trump for $25m: sources",
-      "link": "https://www.techinasia.com/news/meta-settles-lawsuit-trump-25m-sources",
-      "author": null,
-      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/01/1738298574_shutterstock_2273440015-scaled.jpg",
-      "summary": "- Meta Platforms has reached a US$25 million settlement involving former President Donald Trump.\n- The settlement allocates US$22 million for Trump's presidential library and the remainder for legal fees and individual plaintiffs.\n- This agreement follows a two-year suspension of Trump’s Facebook and Instagram accounts due to the January 6 Capitol riot, with reinstatement occurring in 2023 under new guidelines.\n- Neither Meta nor Trump’s legal teams have commented on the settlement details.\n- CEO Mark Zuckerberg's past interactions with Trump are under scrutiny post-settlement.",
-      "keywords": [
-        "Meta",
-        "Donald Trump",
-        "settlement",
-        "lawsuit",
-        "Facebook",
-        "Instagram",
-        "presidential library"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-31T04:44:05.000Z"
-    },
-    {
-      "title": "China’s CXMT advances 16nm DRAM, closing gap with Samsung",
-      "link": "https://www.techinasia.com/news/chinas-cxmt-advances-16nm-dram-closing-gap-samsung",
-      "author": null,
-      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/01/1737014009_shutterstock_1653927502-scaled.jpg",
-      "summary": "- ChangXin Memory Technologies (CXMT) has manufactured 16-nanometre DRAM technology.\n- This advancement aims to close the technology gap with leaders like Samsung Electronics, SK Hynix, and Micron Technology.\n- CXMT produced a 16-gigabit DRAM chip using DDR5 technology, expected to dominate the market until at least 2027.\n- The chip has a size of 67 square millimeters and a storage density of 0.239 Gb per square millimeter.\n- The new G4 DRAM features memory cells 20% smaller than the previous G3 generation.\n- CXMT has progressed from previous nodes: G1 at 23nm and G2 at 18nm.",
-      "keywords": [
-        "CXMT",
-        "16nm DRAM",
-        "technology",
-        "Samsung",
-        "memory chips",
-        "DDR5",
-        "semiconductors"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-31T04:30:51.000Z"
-    },
-    {
-      "title": "Indian footwear startup nets $2.5m to boost production",
-      "link": "https://www.techinasia.com/news/indian-footwear-startup-nets-25m-boost-production",
-      "author": "Sankar Bora, Deepan Babu, Bharat Mahajan, Deepak Patil",
-      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/01/1737344527_shutterstock_2021954192-scaled.jpg",
-      "summary": "- CHK, a footwear startup, raised $2.5 million in seed funding led by Accel.\n- Previous pre-seed investment from BlueStone Jewellery and Lifestyle Ltd.\n- Funds will enhance production capacity and support a go-to-market strategy for a planned launch in April.\n- A new in-house design and production facility in Tamil Nadu will begin operations within two weeks.\n- CHK was founded in September 2024 and targets lifestyle footwear for millennial and Gen-Z consumers in India.",
-      "keywords": [
-        "footwear",
-        "startup",
-        "funding",
-        "production",
-        "millennial",
-        "Gen-Z",
-        "India",
-        "CHK"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-01-31T04:20:47.000Z"
-    },
-    {
-      "title": "SK Telecom’s AI assistant to link with major apps: sources",
-      "link": "https://www.techinasia.com/news/sk-telecoms-ai-assistant-to-link-with-major-apps-sources",
-      "author": null,
-      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2024/12/1734059616_shutterstock_1825027088-scaled.jpg",
-      "summary": "- SK Telecom is launching an AI assistant named Aster that will connect with applications like Google Calendar.\n- Aster will allow users to manage schedules, create to-do lists, and plan transportation independently.\n- The beta service is set to launch in North America in March 2025, with a full rollout planned for the second half of 2025.\n- SK Telecom is exploring further integrations with apps such as Yelp, Uber, and Lyft, with features subject to customer feedback during the beta phase.",
-      "keywords": [
-        "SK Telecom",
-        "AI assistant",
-        "Aster",
-        "Google Calendar",
-        "beta launch",
-        "North America",
-        "app integration"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-31T04:17:30.000Z"
     }
   ]
 }
