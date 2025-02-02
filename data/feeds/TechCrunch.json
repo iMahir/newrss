@@ -4,6 +4,30 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Google’s X spins out Heritable Agriculture, a startup using AI to improve crop yield",
+      "link": "https://techcrunch.com/2025/02/02/google-x-spins-out-heritable-agriculture-a-startup-using-ai-to-improve-crop-yield/",
+      "author": "Brian Heater",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/unnamed-5.png?w=680",
+      "summary": "- Google X has spun out a new startup, [Heritable Agriculture](https://heritable.ag/), focused on using AI to enhance crop yield.\n- The startup aims to address environmental challenges in agriculture, which accounts for about 25% of greenhouse gas emissions.\n- Founder Brad Zamft, a PhD in physics, developed the technology at Google X, analyzing plant genomes for better agricultural practices.\n- Heritable Agriculture is not using genetic modification or gene editing but is focused on traditional breeding methods to optimize plant growth.",
+      "keywords": [
+        "Google X",
+        "Heritable Agriculture",
+        "AI",
+        "crop yield",
+        "sustainable agriculture",
+        "machine learning",
+        "plant breeding",
+        "environmental impact"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-02T15:00:00.000Z"
+    },
+    {
       "title": "AI systems with ‘unacceptable risk’ are now banned in the EU",
       "link": "https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/",
       "author": null,
@@ -1139,28 +1163,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-30T22:55:25.000Z"
-    },
-    {
-      "title": "Intel Won't Bring Its Falcon Shores AI Chip to Market",
-      "link": "https://techcrunch.com/2025/01/30/intel-wont-bring-its-falcon-shores-ai-chip-to-market/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- Intel has decided to discontinue the Falcon Shores AI chip, focusing on internal testing only.\n- The decision follows disappointing product launches and losses as competitors like AMD and Nvidia create challenges.\n- Intel co-CEO Michelle Johnston Holthaus emphasized the need to focus on Jaguar Shores for a comprehensive AI data center solution.\n- Holthaus stated that the cloud-based AI data center market is currently a weak point for Intel, indicating plans for resource allocation to correct this.\n- Previous AI chip Gaudi 3 was also considered a failure, affecting sales expectations and service provider commitments.",
-      "keywords": [
-        "Intel",
-        "Falcon Shores",
-        "AI chip",
-        "Jaguar Shores",
-        "data center",
-        "Kyle Wiggers"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-30T22:46:48.000Z"
     }
   ]
 }
