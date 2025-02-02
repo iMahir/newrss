@@ -4,6 +4,28 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Apple reportedly launching a new event invite feature code-named Confetti",
+      "link": "https://techcrunch.com/2025/02/02/apple-reportedly-launching-a-new-event-invite-feature-code-named-confetti/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Apple is set to introduce a new event invite feature for iCloud users, code-named Confetti.\n- The feature will allow users to invite others to parties, meetings, and events.\n- Confetti might launch as soon as this week and could be part of a broader revamp of Apple’s Calendar app.\n- The release is associated with iOS 18.3, which has started rolling out recently.",
+      "keywords": [
+        "Apple",
+        "iCloud",
+        "event invite",
+        "Confetti",
+        "iOS 18.3",
+        "Calendar app"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-02T17:05:25.000Z"
+    },
+    {
       "title": "Google’s X spins out Heritable Agriculture, a startup using AI to improve crop yield",
       "link": "https://techcrunch.com/2025/02/02/google-x-spins-out-heritable-agriculture-a-startup-using-ai-to-improve-crop-yield/",
       "author": "Brian Heater",
@@ -1140,29 +1162,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-01-30T23:25:05.000Z"
-    },
-    {
-      "title": "Google quietly announces its next flagship AI model",
-      "link": "https://techcrunch.com/2025/01/30/google-quietly-announces-its-next-flagship-ai-model/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- Google's next-gen flagship AI model, Gemini 2.0 Pro Experimental, was announced in the changelog for the Gemini app without a major launch event.\n- It succeeds the Gemini 1.5 Pro model launched in February and aims to improve factuality and performance in coding and mathematics tasks.\n- Available to Gemini Advanced users, the model is in early preview and may have unexpected behaviors and lack real-time information access.\n- Coinciding with this launch, the Gemini 2.0 Flash model is now available to all users in the Gemini app.",
-      "keywords": [
-        "Google",
-        "AI",
-        "Gemini",
-        "model",
-        "launch",
-        "technology",
-        "DeepSeek"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-30T22:55:25.000Z"
     }
   ]
 }
