@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "AI to revolutionise fundamental physics and ‘could show how universe will end’",
+      "link": "https://www.theguardian.com/science/2025/feb/03/ai-to-revolutionise-fundamental-physics-and-could-show-how-universe-will-end",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Advanced AI expected to transform fundamental physics and provide insights into the universe's fate.\n- Prof Mark Thomson, incoming director general of CERN, highlights AI's role in particle physics akin to Google DeepMind's achievements in protein structure predictions.\n- AI aids in detecting rare particle events related to mass acquisition post-big bang, potential universe collapse.\n- CERN advocates for the Future Circular Collider, despite skepticism about funding and results.\n- Major upgrades to the LHC planned by 2030 to increase beam intensity significantly.\n- Aiming to produce two Higgs bosons simultaneously for groundbreaking measurements of Higgs self-coupling, essential for understanding universe's mass acquisition mechanism.\n- Higgs self-coupling could imply future universe transitions but poses no immediate risk to humanity.\n- AI enhances LHC operations, refining data collection and interpretation, achieving results far beyond previous expectations.",
+      "keywords": [
+        "AI",
+        "fundamental physics",
+        "CERN",
+        "Higgs boson",
+        "machine learning",
+        "particle physics",
+        "Future Circular Collider",
+        "dark matter"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 8,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-02-03T05:00:30.000Z"
+    },
+    {
       "title": "Elon Musk’s Doge team granted ‘full access’ to federal payment system",
       "link": "https://www.theguardian.com/technology/2025/feb/02/elon-musk-doge-access-federal-payment-system",
       "author": "Not given",
@@ -1156,31 +1180,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-01-28T04:58:14.000Z"
-    },
-    {
-      "title": "We tried out DeepSeek. It works well, until we asked it about Tiananmen Square and Taiwan",
-      "link": "https://www.theguardian.com/technology/2025/jan/28/we-tried-out-deepseek-it-works-well-until-we-asked-it-about-tiananmen-square-and-taiwan",
-      "author": null,
-      "thumbnail": "https://i.guim.co.uk/img/media/e3924c2cfb0eae22a07d858bc6a658c5f9cd55ad/0_19_823_1181/master/823.jpg?width=445&dpr=1&s=none&crop=none",
-      "summary": "- DeepSeek, a new chatbot from China, quickly became popular, surpassing ChatGPT in the US and UK app stores.\n- It censors sensitive topics like Tiananmen Square and political events, offering evasive responses instead.\n- Users found ways to bypass censorship by phrasing questions differently, like using special characters.\n- DeepSeek's responses about Taiwan aligned with Chinese government views, denying its independence.\n- In contrast, ChatGPT and Gemini provided nuanced replies about Taiwan's status and other political topics.",
-      "keywords": [
-        "DeepSeek",
-        "chatbot",
-        "China",
-        "Tiananmen Square",
-        "Taiwan",
-        "AI",
-        "censorship",
-        "ChatGPT",
-        "Gemini"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-28T04:52:34.000Z"
     }
   ]
 }
