@@ -4,6 +4,28 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "OpenAI unveils a new ChatGPT agent for ‘deep research’",
+      "link": "https://techcrunch.com/2025/02/02/openai-unveils-a-new-chatgpt-agent-for-deep-research/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/deep-research-composer.jpg?w=680",
+      "summary": "- OpenAI announced a new AI agent for in-depth research, named ChatGPT deep research.\n- Designed for professionals in finance, science, policy, and engineering needing detailed and reliable research.\n- Available for ChatGPT Pro users with a limit of 100 queries per month; wider rollout plans include Plus and Team users.\n- Integration with mobile and desktop apps is expected later this month.\n- Outputs will be text only initially, with future plans for images and data visualizations.\n- ChatGPT deep research ensures documentation and citations for its outputs to enhance credibility.\n- The new o3 model powering this feature has been trained for better reasoning and data analysis.\n- Initial test results showed 26.6% accuracy on a challenging expert-level exam, outperforming its competitors.",
+      "keywords": [
+        "OpenAI",
+        "ChatGPT",
+        "AI research",
+        "deep research",
+        "technology",
+        "innovation"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-03T00:00:00.000Z"
+    },
+    {
       "title": "Dub: the copy trading app that has teens talking",
       "link": "https://techcrunch.com/2025/02/02/dub-the-copy-trading-app-that-has-teens-talking/",
       "author": "Steven Wang",
@@ -1133,34 +1155,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-01-30T23:49:23.000Z"
-    },
-    {
-      "title": "Apple tops 1 billion subscriptions, nearly $100B in services revenue in 2024",
-      "link": "https://techcrunch.com/2025/01/30/apple-tops-1-billion-subscriptions-nearly-100-billion-in-services-revenue-in-2024/",
-      "author": "Sarah Perez",
-      "thumbnail": null,
-      "summary": "- Apple reported a record revenue of $26.3 billion for its Services division for Q4 2024, up 14% year-over-year.\n- The company achieved nearly $100 billion in Services revenue over the past year and has more than 1 billion subscriptions.\n- Engagement for Apple’s services, including paid accounts, grew by double digits year over year.\n- Apple Arcade and Fitness+ continue to expand, and Tap to Pay for iPhone is now available in 20 markets.\n- The company faces regulatory scrutiny but maintains positive customer engagement numbers across all offerings.\n- The U.S. Supreme Court declined to hear the Epic Games case, affirming that Apple is not a monopolist, but requiring it to allow developers to link to external payment options.",
-      "keywords": [
-        "Apple",
-        "subscriptions",
-        "services revenue",
-        "iPhone",
-        "App Store",
-        "iCloud",
-        "Music",
-        "TV+",
-        "customer engagement",
-        "regulatory impact",
-        "Epic Games",
-        "antitrust"
-      ],
-      "scores": {
-        "scale": 9,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-30T23:42:02.000Z"
     }
   ]
 }
