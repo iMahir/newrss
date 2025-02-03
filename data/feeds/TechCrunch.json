@@ -4,6 +4,55 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "No, DeepSeek isn’t uncensored if you run it locally",
+      "link": "https://techcrunch.com/2025/02/03/no-deepseek-isnt-uncensored-if-you-run-it-locally/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- DeepSeek's supposedly local censorship can mislead users into thinking it's eliminated when running locally.\n- Investigations reveal that censorship is present at both application and training levels of DeepSeek.\n- Examples show that DeepSeek avoids mentioning certain historical events, like the Cultural Revolution, and censorship persists even in locally run versions.",
+      "keywords": [
+        "DeepSeek",
+        "censorship",
+        "AI",
+        "local model",
+        "Chinese Communist Party",
+        "Cultural Revolution",
+        "Tiananmen Square"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-03T21:52:42.000Z"
+    },
+    {
+      "title": "Meta says it may stop development of AI systems it deems too risky",
+      "link": "https://techcrunch.com/2025/02/03/meta-says-it-may-stop-development-of-ai-systems-it-deems-too-risky/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "• Meta CEO Mark Zuckerberg aims to make artificial general intelligence (AGI) open in the future.\n• Meta's new Frontier AI Framework categorizes AI systems as \"high-risk\" or \"critical-risk\" based on their potential for harm.\n• High-risk systems may assist in attacks but are less reliable, while critical-risk systems could result in catastrophic outcomes.\n• Meta's classification relies on input from researchers rather than empirical tests, due to lack of robust evaluation metrics.\n• If a system is deemed high-risk, internal access will be limited; critical-risk systems will halt development until mitigations are in place.\n• Meta's approach contrasts with companies like OpenAI, as it has previously released AI models openly, leading to both successes and security concerns.",
+      "keywords": [
+        "Meta",
+        "AI development",
+        "Zuckerberg",
+        "Frontier AI Framework",
+        "risk assessment",
+        "artificial intelligence",
+        "cybersecurity",
+        "critical risk",
+        "high risk",
+        "AGI"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-03T21:52:29.000Z"
+    },
+    {
       "title": "DeepSeek: The countries and agencies that have banned the AI company’s tech",
       "link": "https://techcrunch.com/2025/02/03/deepseek-the-countries-and-agencies-that-have-banned-the-ai-companys-tech/",
       "author": "Kyle Wiggers",
@@ -1116,53 +1165,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-31T19:00:00.000Z"
-    },
-    {
-      "title": "Swiss tax authority forced to buy Bahamas domain name after URL typo",
-      "link": "https://techcrunch.com/2025/01/31/swiss-tax-authority-forced-to-buy-bahamas-domain-name-after-url-typo/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-542706099.jpg?w=1024",
-      "summary": "- The Swiss canton of Basel-Stadt bought a domain after a typo on 100,000 printed flyers.\n- The flyers omitted the Swiss domain suffix '.ch', using '.bs', which belongs to the Bahamas.\n- Instead of reprinting the flyers for $100,000, the canton opted to spend $1,000 on the new domain to redirect correctly.\n- The new URL is not live yet; registration is still in process.",
-      "keywords": [
-        "Swiss tax authority",
-        "domain name",
-        "URL typo",
-        "Basel-Stadt",
-        "Bahamas",
-        "online taxes",
-        "administration"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 6,
-        "novelty": 7,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-01-31T18:29:34.000Z"
-    },
-    {
-      "title": "Microsoft is forming a new unit to study AI’s impacts",
-      "link": "https://techcrunch.com/2025/01/31/microsoft-is-forming-a-new-unit-to-study-ais-impacts/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- Microsoft has established the Advanced Planning Unit (APU) to analyze the societal, health, and work implications of AI.\n- The APU will report to CEO Mustafa Suleyman and focus on research, product recommendations, and publications regarding AI's future.\n- Current hiring includes economists and psychologists to explore the implications of AI advancements.\n- The formation of APU follows a recent creation of a new internal dev-focused organization, CoreAI, to prioritize AI development within Microsoft.\n- Microsoft's capital expenditures for Q4 2024 reached a record high of $22.6 billion to support AI efforts, as stated by CEO Satya Nadella.",
-      "keywords": [
-        "Microsoft",
-        "AI",
-        "Advanced Planning Unit",
-        "technology",
-        "impact",
-        "society",
-        "jobs",
-        "Mustafa Suleyman"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-31T18:22:22.000Z"
     }
   ]
 }

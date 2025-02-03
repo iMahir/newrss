@@ -1,5 +1,64 @@
 [
   {
+    "title": "Meta says it may stop development of AI systems it deems too risky",
+    "id": "1xj6i4t0g4fpkt",
+    "summary": "• Meta CEO Mark Zuckerberg aims to make artificial general intelligence (AGI) open in the future.\n• Meta's new Frontier AI Framework categorizes AI systems as \"high-risk\" or \"critical-risk\" based on their potential for harm.\n• High-risk systems may assist in attacks but are less reliable, while critical-risk systems could result in catastrophic outcomes.\n• Meta's classification relies on input from researchers rather than empirical tests, due to lack of robust evaluation metrics.\n• If a system is deemed high-risk, internal access will be limited; critical-risk systems will halt development until mitigations are in place.\n• Meta's approach contrasts with companies like OpenAI, as it has previously released AI models openly, leading to both successes and security concerns.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "Meta",
+      "AI development",
+      "Zuckerberg",
+      "Frontier AI Framework",
+      "risk assessment",
+      "artificial intelligence",
+      "cybersecurity",
+      "critical risk",
+      "high risk",
+      "AGI"
+    ],
+    "sources": [
+      {
+        "title": "Meta says it may stop development of AI systems it deems too risky",
+        "link": "https://techcrunch.com/2025/02/03/meta-says-it-may-stop-development-of-ai-systems-it-deems-too-risky/"
+      }
+    ],
+    "lastUpdated": "2025-02-03T22:10:33.311Z"
+  },
+  {
+    "title": "No, DeepSeek isn’t uncensored if you run it locally",
+    "id": "1rlcfpv1blzwhp",
+    "summary": "- DeepSeek's supposedly local censorship can mislead users into thinking it's eliminated when running locally.\n- Investigations reveal that censorship is present at both application and training levels of DeepSeek.\n- Examples show that DeepSeek avoids mentioning certain historical events, like the Cultural Revolution, and censorship persists even in locally run versions.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 5,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "DeepSeek",
+      "censorship",
+      "AI",
+      "local model",
+      "Chinese Communist Party",
+      "Cultural Revolution",
+      "Tiananmen Square"
+    ],
+    "sources": [
+      {
+        "title": "No, DeepSeek isn’t uncensored if you run it locally",
+        "link": "https://techcrunch.com/2025/02/03/no-deepseek-isnt-uncensored-if-you-run-it-locally/"
+      }
+    ],
+    "lastUpdated": "2025-02-03T22:10:33.311Z"
+  },
+  {
     "title": "OpenAI Unveils New AI Tool for Efficient Online Research",
     "id": "06sqk6c0cmh632",
     "summary": "- OpenAI introduced a new tool named “Deep Research” for enhancing online research efficiency.\n- The tool scans text, images, PDFs, and uploaded files to generate detailed reports based on user prompts.\n- OpenAI claims Deep Research can complete tasks that usually take hours in just minutes.\n- It is exclusively available to ChatGPT Pro subscribers at a cost of US$200 per month.\n- Deep Research can analyze and summarize information from various sources, providing citations and a cohesive report.\n- It can complete tasks in 5 to 30 minutes, significantly faster than a human researcher.\n- Limitations include potential hallucinations and difficulty distinguishing rumors from authoritative information.",
@@ -34032,31 +34091,5 @@
       }
     ],
     "lastUpdated": "2025-01-20T23:09:57.313Z"
-  },
-  {
-    "title": "Elon Musk appears to give fascist-style salute after Trump inauguration – video",
-    "id": "15ts1rf1vshghe",
-    "summary": "- Elon Musk appeared to give a fascist-style salute during Donald Trump's presidential inauguration celebration.\n- The event took place at Capital One Arena in Washington DC.\n- Musk thanked Trump supporters for 'making it happen'.\n- [US Politics live – latest updates](https://www.theguardian.com/us-news/live/2025/jan/20/president-trump-inauguration-swearing-in-timing-schedule-live-updates?page=with%3Ablock-678e0af78f080f46037df01c&filterKeyEvents=false#liveblog-navigation)",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 5,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "Elon Musk",
-      "Trump inauguration",
-      "fascist salute",
-      "politics",
-      "celebration"
-    ],
-    "sources": [
-      {
-        "title": "Elon Musk appears to give fascist-style salute after Trump inauguration – video",
-        "link": "https://www.theguardian.com/technology/video/2025/jan/20/elon-musk-appears-to-give-fascist-style-salute-after-trump-inauguration-video"
-      }
-    ],
-    "lastUpdated": "2025-01-20T22:09:59.599Z"
   }
 ]
