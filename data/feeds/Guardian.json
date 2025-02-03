@@ -1112,6 +1112,32 @@
       "pubDate": "2025-01-28T07:53:58.000Z"
     },
     {
+      "title": "We tried out DeepSeek. It worked well, until we asked it about Tiananmen Square and Taiwan",
+      "link": "https://www.theguardian.com/technology/2025/jan/28/we-tried-out-deepseek-it-works-well-until-we-asked-it-about-tiananmen-square-and-taiwan",
+      "author": "Donna Lu",
+      "thumbnail": "https://i.guim.co.uk/img/media/e3924c2cfb0eae22a07d858bc6a658c5f9cd55ad/0_19_823_1181/master/823.jpg?width=620&dpr=2&s=none&crop=none",
+      "summary": "- DeepSeek is a new AI chatbot by a Chinese firm that has become popular, overtaking ChatGPT in app stores.\n- The app has functionality similar to ChatGPT but heavily censors politically sensitive topics, including Tiananmen Square and Taiwan.\n- When asked about sensitive events, DeepSeek typically responds with a message stating: 'Sorry, that’s beyond my current scope.'\n- Users discovered that by rephrasing questions with special characters, they can bypass some censorship, revealing more information.\n- DeepSeek described Taiwan as part of China, highlighting its adherence to the One-China Principle while ChatGPT recognized Taiwan as a de facto independent country.\n- The chatbot attempted to provide information on recent protests in China, framing them as public anger against government COVID-19 measures.",
+      "keywords": [
+        "DeepSeek",
+        "AI chatbot",
+        "Tiananmen Square",
+        "Taiwan",
+        "censorship",
+        "China",
+        "technology",
+        "OpenAI",
+        "ChatGPT",
+        "user experience"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-01-28T07:07:19.000Z"
+    },
+    {
       "title": "How ChatGPT, Gemini and DeepSeek deal with Tiananmen Square and Taiwan questions – video",
       "link": "https://www.theguardian.com/technology/video/2025/jan/28/how-chatgpt-gemini-and-deepseek-deal-with-tiananmen-square-and-taiwan-questions-video",
       "author": null,
@@ -1155,31 +1181,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-01-28T05:00:08.000Z"
-    },
-    {
-      "title": "Microsoft is in talks to acquire TikTok, Trump claims",
-      "link": "https://www.theguardian.com/technology/2025/jan/28/donald-trump-microsoft-tiktok-purchase-claims",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Donald Trump claims Microsoft is in talks to acquire TikTok and anticipates a bidding war.\n- Trump confirmed interest in TikTok, stating there is 'great interest' in the app.  \n- The talks mark the second attempt for Microsoft to acquire TikTok, after previous discussions in 2020 collapsed.\n- TikTok, with approximately 170 million US users, was briefly taken offline ahead of a law requiring its Chinese owner to sell or face a ban.\n- Trump signed an executive order delaying law enforcement on TikTok by 75 days after taking office.\n- AI startup Perplexity AI has proposed a merger with TikTok, potentially involving government shares in the new company.",
-      "keywords": [
-        "Microsoft",
-        "TikTok",
-        "Trump",
-        "acquisition",
-        "ByteDance",
-        "social media",
-        "national security",
-        "merger",
-        "AI startup"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-28T04:58:14.000Z"
     }
   ]
 }
