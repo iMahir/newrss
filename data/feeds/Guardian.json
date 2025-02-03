@@ -4,6 +4,56 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "Critic of Italy-Libya migration pact told he was target of Israeli spyware",
+      "link": "https://www.theguardian.com/technology/2025/feb/03/critic-of-italy-libya-migration-pact-told-he-was-target-of-israeli-spyware",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- A Sweden-based Libyan activist, Husam El Gomati, was targeted with military-grade spyware, raising concerns about European governments' cyberweapons.\n- The spyware, linked to Paragon Solutions, was discovered after El Gomati criticized Italy's actions regarding illegal migration to Libya.\n- WhatsApp notified El Gomati of the breach, which affects his ability to protect confidential sources.\n- Paragon Solutions has government clients and previously had contracts with US immigration services, now under review.\n- El Gomati has reported on a case involving Osama Najim, linked to serious human rights violations and released due to a technicality.",
+      "keywords": [
+        "Israeli spyware",
+        "Husam El Gomati",
+        "migration pact",
+        "cybersecurity",
+        "Italy",
+        "Libya",
+        "Paragon Solutions",
+        "human rights"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-03T14:46:24.000Z"
+    },
+    {
+      "title": "OpenAI launches ‘deep research’ tool that it says can match research analyst",
+      "link": "https://www.theguardian.com/technology/2025/feb/03/openai-deep-research-agent-chatgpt-deepseek",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- OpenAI announces a new AI tool called 'deep research' that generates reports in about 10 minutes, matching research analyst output.\n- The tool uses OpenAI's latest model, o3, to analyze and synthesize information from hundreds of sources.\n- 'Deep research' is designed for professionals in finance, science, and engineering, and can handle tasks related to purchases like cars and furniture.\n- The tool is currently available in the US to Pro tier users with a limit of 100 queries per month, priced at $200.\n- Concerns have been raised about users relying on the tool's outputs without sufficient verification.",
+      "keywords": [
+        "OpenAI",
+        "deep research",
+        "AI tool",
+        "ChatGPT",
+        "o3",
+        "artificial intelligence",
+        "research",
+        "synthesis",
+        "report generation",
+        "technology"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-03T13:26:07.000Z"
+    },
+    {
       "title": "Keir Starmer changed ‘dangerously obvious’ email address in 2022 after Russian hacking",
       "link": "https://www.theguardian.com/technology/2025/feb/03/keir-starmer-had-to-change-dangerously-obvious-email-address-in-2022-after-russian-hacking",
       "author": null,
@@ -1134,55 +1184,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-01-28T07:53:58.000Z"
-    },
-    {
-      "title": "We tried out DeepSeek. It worked well, until we asked it about Tiananmen Square and Taiwan",
-      "link": "https://www.theguardian.com/technology/2025/jan/28/we-tried-out-deepseek-it-works-well-until-we-asked-it-about-tiananmen-square-and-taiwan",
-      "author": "Donna Lu",
-      "thumbnail": "https://i.guim.co.uk/img/media/e3924c2cfb0eae22a07d858bc6a658c5f9cd55ad/0_19_823_1181/master/823.jpg?width=620&dpr=2&s=none&crop=none",
-      "summary": "- DeepSeek is a new AI chatbot by a Chinese firm that has become popular, overtaking ChatGPT in app stores.\n- The app has functionality similar to ChatGPT but heavily censors politically sensitive topics, including Tiananmen Square and Taiwan.\n- When asked about sensitive events, DeepSeek typically responds with a message stating: 'Sorry, that’s beyond my current scope.'\n- Users discovered that by rephrasing questions with special characters, they can bypass some censorship, revealing more information.\n- DeepSeek described Taiwan as part of China, highlighting its adherence to the One-China Principle while ChatGPT recognized Taiwan as a de facto independent country.\n- The chatbot attempted to provide information on recent protests in China, framing them as public anger against government COVID-19 measures.",
-      "keywords": [
-        "DeepSeek",
-        "AI chatbot",
-        "Tiananmen Square",
-        "Taiwan",
-        "censorship",
-        "China",
-        "technology",
-        "OpenAI",
-        "ChatGPT",
-        "user experience"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-28T07:07:19.000Z"
-    },
-    {
-      "title": "How ChatGPT, Gemini and DeepSeek deal with Tiananmen Square and Taiwan questions – video",
-      "link": "https://www.theguardian.com/technology/video/2025/jan/28/how-chatgpt-gemini-and-deepseek-deal-with-tiananmen-square-and-taiwan-questions-video",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- A new Chinese AI competes with US tech at a lower cost and is gaining popularity internationally.\n- The app reportedly censors responses to sensitive topics related to China and its government.\n- An article discusses the performance of the AI, particularly its limitations when addressing questions about Tiananmen Square and Taiwan.",
-      "keywords": [
-        "Chinese AI",
-        "Tiananmen Square",
-        "Taiwan",
-        "DeepSeek",
-        "ChatGPT",
-        "Gemini",
-        "censorship"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-01-28T05:24:08.000Z"
     }
   ]
 }
