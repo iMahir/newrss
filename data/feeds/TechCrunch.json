@@ -4,6 +4,30 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Egypt’s Khazna banks $16M for its financial super app and expansion into Saudi",
+      "link": "https://techcrunch.com/2025/02/04/egypts-khazna-banks-16m-for-its-financial-super-app-and-expansion-into-saudi/",
+      "author": "Not given",
+      "thumbnail": null,
+      "summary": "- Khazna, a fintech startup in Egypt, raised $16 million in pre-Series B funding, totaling over $63 million.\n- The funding will aid in its expansion into Saudi Arabia and it will apply for a digital banking license in Egypt by mid-2026.\n- The company focuses on financial services for low- and middle-income workers, offering solutions like salary advances and microloans, currently serving over 500,000 users.\n- Khazna aims to differentiate itself from competitors with medium-term credit products such as earned wage access and payroll-backed lending.\n- The startup plans to capitalize on the Egypt-Saudi remittance corridor, where nearly three million Egyptians reside, and targets 40-50% of its business from Saudi Arabia in four years.\n- Khazna's growth is also supported by renewed investor confidence due to significant foreign direct investment flowing into Egypt following economic reforms.",
+      "keywords": [
+        "Khazna",
+        "Egypt",
+        "fintech",
+        "financial services",
+        "Saudi Arabia",
+        "funding",
+        "expansion",
+        "digital banking"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-04T11:15:18.000Z"
+    },
+    {
       "title": "Grubhub confirms data breach affecting customers and drivers",
       "link": "https://techcrunch.com/2025/02/04/grubhub-confirms-data-breach-affecting-customers-and-drivers/",
       "author": "Carly Page",
@@ -1134,31 +1158,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-02-01T00:16:38.000Z"
-    },
-    {
-      "title": "OpenAI used this subreddit to test AI persuasion",
-      "link": "https://techcrunch.com/2025/01/31/openai-used-this-subreddit-to-test-ai-persuasion/",
-      "author": "Maxwell Zeff",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/Screenshot-2025-01-31-at-2.59.30PM.png?w=680",
-      "summary": "- OpenAI utilized [r/ChangeMyView](https://www.reddit.com/r/changemyview/) for testing AI's persuasive abilities with its new reasoning model, [o3-mini](https://techcrunch.com/2025/01/31/openai-launches-o3-mini-its-latest-reasoning-model/).\n- The subreddit features posts from users seeking diverse viewpoints, receiving persuasive replies from others.\n- OpenAI collects content from this subreddit to create tests and evaluates the AI's responses compared to human arguments, but no public release of this evaluation is planned.\n- OpenAI also has a licensing deal with Reddit for utilizing user posts in its products, though the ChangeMyView evaluation is reportedly separate from this agreement.\n- The o3-mini model performs similarly to previous models but is noted as competitive in persuasive argumentation, virtually on par with humans.",
-      "keywords": [
-        "OpenAI",
-        "AI persuasion",
-        "r/ChangeMyView",
-        "o3-mini",
-        "reasoning models",
-        "persuasive abilities",
-        "AI evaluation",
-        "tech companies",
-        "human data"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-01-31T23:47:00.000Z"
     }
   ]
 }
