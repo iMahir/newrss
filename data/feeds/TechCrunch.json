@@ -4,6 +4,54 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Waabi and Volvo team up to build self-driving trucks at scale",
+      "link": "https://techcrunch.com/2025/02/04/waabi-and-volvo-team-up-to-build-self-driving-trucks-at-scale/",
+      "author": "Rebecca Bellan",
+      "thumbnail": null,
+      "summary": "- Waabi partners with Volvo to develop autonomous trucks for commercial launch.\n- The collaboration marks Volvo's second partnership for self-driving technology, following its deal with Aurora Innovation in May 2024.\n- Waabi aims to run commercial pilot programs in Texas and expects a driverless demonstration in late 2025.\n- Waabi has raised $282 million, with a plan for capital-efficient AI technology to reduce costs in the driverless launch.",
+      "keywords": [
+        "Waabi",
+        "Volvo",
+        "self-driving trucks",
+        "autonomous vehicles",
+        "transportation",
+        "AI technology",
+        "commercial launch",
+        "partnership"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-04T10:00:00.000Z"
+    },
+    {
+      "title": "SoftBank-backed billionaire to invest $230M in Indian AI startup Krutrim",
+      "link": "https://techcrunch.com/2025/02/04/softbank-backed-billionaire-to-invest-230m-in-indian-ai-startup-krutrim/",
+      "author": "Manish Singh",
+      "thumbnail": null,
+      "summary": "- Ola founder Bhavish Aggarwal is investing $230 million into Krutrim, an AI startup he founded.\n- The investment is part of a goal to raise $1.15 billion by next year, with Krutrim aiming to build India’s largest supercomputer.\n- Krutrim has released a 12-billion parameter language model, Krutrim-2, showing high performance in processing Indian languages, with noted successes in sentiment analysis and code generation.\n- The startup has also opened sourced several models optimized for Indian languages, hoping to foster collaboration within the Indian AI community.",
+      "keywords": [
+        "investment",
+        "AI startup",
+        "Krutrim",
+        "Bhavish Aggarwal",
+        "SoftBank",
+        "Indian languages",
+        "language model",
+        "supercomputer"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-04T09:19:10.000Z"
+    },
+    {
       "title": "Opera launches a mindfulness-focused browser with break reminders and soundscapes",
       "link": "https://techcrunch.com/2025/02/04/opera-launches-a-mindfulness-browser-with-break-reminders-and-soundscapes/",
       "author": "Ivan Mehta",
@@ -1114,54 +1162,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-01-31T23:03:45.000Z"
-    },
-    {
-      "title": "MLCommons and Hugging Face team up to release massive speech data set for AI research",
-      "link": "https://techcrunch.com/2025/01/31/mlcommons-and-hugging-face-team-up-to-release-massive-speech-data-set-for-ai-research/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- MLCommons and Hugging Face released the 'Unsupervised People’s Speech' dataset with over 1 million hours of audio in 89 languages.\n- The initiative aims to advance research in speech technology and improve communication technologies globally.\n- The dataset may have biases and potential privacy issues, as most recordings are in American-accented English and some contributors might not have consented for their voices to be used.",
-      "keywords": [
-        "AI research",
-        "speech dataset",
-        "Hugging Face",
-        "MLCommons",
-        "machine learning",
-        "voice recordings",
-        "natural language processing",
-        "bias in AI",
-        "public domain"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-31T22:04:46.000Z"
-    },
-    {
-      "title": "Hundreds of companies are blocking DeepSeek over China data risks",
-      "link": "https://techcrunch.com/2025/01/31/hundreds-of-companies-are-blocking-deepseek-over-china-data-risks/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2195703830.jpg?w=1024",
-      "summary": "- DeepSeek, a Chinese chatbot, gained popularity in the U.S., topping app store charts.\n- Hundreds of companies, particularly with government ties, have blocked the service over data security concerns, citing potential data leakage to the Chinese government.\n- The Pentagon and the Navy have implemented restrictions against DeepSeek due to its data policies which require sharing user data with Chinese authorities upon request.",
-      "keywords": [
-        "DeepSeek",
-        "AI",
-        "China",
-        "data privacy",
-        "cybersecurity",
-        "government agencies",
-        "blockade"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-31T21:55:40.000Z"
     }
   ]
 }

@@ -4,6 +4,27 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "'I'm a bit lost now': Daisy the AI bot speaks to scammer – video",
+      "link": "https://www.theguardian.com/technology/video/2025/feb/04/im-a-bit-lost-now-daisy-the-ai-bot-speaks-to-scammer-video",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- O2 has launched an AI bot named Daisy to combat phone scammers.\n- Daisy is designed to waste scammers' time by acting confused and reminiscing.\n- The initiative illustrates the potential of AI in fighting fraud.",
+      "keywords": [
+        "AI",
+        "scammers",
+        "fraud",
+        "O2",
+        "Daisy"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 8,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-04T09:04:32.000Z"
+    },
+    {
       "title": "'Dear, did you say pastry?': meet the ‘AI granny’ driving scammers up the wall",
       "link": "https://www.theguardian.com/money/2025/feb/04/ai-granny-scammers-phone-fraud",
       "author": null,
@@ -1158,29 +1179,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-01-28T14:03:29.000Z"
-    },
-    {
-      "title": "How do you solve a problem like DeepSeek?",
-      "link": "https://www.theguardian.com/technology/2025/jan/28/deepseek-openai-elon-musk-don-lemon-crypto-kalshi",
-      "author": null,
-      "thumbnail": "https://i.guim.co.uk/img/media/22aba4deeb7588ab70745b83d333debbdaeae090/0_100_3000_1800/master/3000.jpg?width=620&dpr=2&s=none&crop=none",
-      "summary": "- DeepSeek, a Chinese AI startup, has released an open-sourced model named R1 that operates with significantly lower computing power and cost than competitors like ChatGPT.\n- The model’s efficiency raises concerns about the US's dominance in AI and its trade embargoes against China, given DeepSeek secured around 50,000 GPUs within regulatory constraints.\n- DeepSeek's success has led to market impacts, including Nvidia's stock decline, as the company requires fewer resources to achieve comparable outcomes.\n- R1's rise in app stores prompts questions regarding censorship and US regulations, especially in light of existing tensions over Chinese technology influence.",
-      "keywords": [
-        "DeepSeek",
-        "AI",
-        "open-source",
-        "ChatGPT",
-        "Nvidia",
-        "trade embargo",
-        "technology influence"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 9,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-28T13:00:06.000Z"
     }
   ]
 }
