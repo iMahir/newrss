@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "Does AI need all that money? (Tech giants say yes)",
+      "link": "https://www.theguardian.com/technology/2025/feb/04/ai-doomers-play-rfk-jr-seed-oils",
+      "author": null,
+      "thumbnail": "https://i.guim.co.uk/img/media/1934941b774ba7bd8649ecb4965cabd57d9428d4/0_464_4032_2419/master/4032.jpg?width=620&dpr=2&s=none&crop=none",
+      "summary": "- DeepSeek's claim that AI shouldn't be expensive led to a $600bn drop in Nvidia's market cap in one day.\n- DeepSeek claims to have trained its AI model with just $5.6m, challenging the substantial investments by firms like Meta ($60bn) and Microsoft ($80bn).\n- Microsoft and Meta continue to emphasize their heavy investments in AI as strategic advantages amidst criticisms of overspending.\n- OpenAI plans to release a new version of ChatGPT with enhanced capabilities for free, maintaining its high spending levels despite market fluctuations.",
+      "keywords": [
+        "AI",
+        "investment",
+        "DeepSeek",
+        "Nvidia",
+        "OpenAI",
+        "ChatGPT",
+        "Meta",
+        "Microsoft"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-04T14:00:10.000Z"
+    },
+    {
       "title": "DeepSeek banned from Australian government devices over national security concerns",
       "link": "https://www.theguardian.com/technology/2025/feb/04/deepseek-banned-from-australian-government-devices-over-national-security-concerns",
       "author": null,
@@ -1164,30 +1188,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-28T19:30:48.000Z"
-    },
-    {
-      "title": "Former OpenAI safety researcher brands pace of AI development ‘terrifying’",
-      "link": "https://www.theguardian.com/technology/2025/jan/28/former-openai-safety-researcher-brands-pace-of-ai-development-terrifying",
-      "author": "Steven Adler",
-      "thumbnail": null,
-      "summary": "- Steven Adler, a former safety researcher at [OpenAI](https://www.theguardian.com/technology/openai), expresses concern about the rapid pace of AI development, calling it a \"very risky gamble.\"\n- Adler fears the race for artificial general intelligence (AGI) could have catastrophic consequences, highlighting doubts about the future of humanity.\n- He notes that no research lab currently has a solution for AI alignment, raising alarms about the industry’s speed compromising safety regulations.",
-      "keywords": [
-        "AI development",
-        "AGI",
-        "OpenAI",
-        "Steven Adler",
-        "artificial intelligence",
-        "safety regulations",
-        "humanity",
-        "AI alignment"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-28T19:06:33.000Z"
     }
   ]
 }
