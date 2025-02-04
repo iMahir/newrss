@@ -4,6 +4,120 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Google removes pledge to not use AI for weapons from website",
+      "link": "https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-1071785306.jpg?w=1024",
+      "summary": "- Google removed its pledge to not develop AI for weapons or surveillance from its public AI principles page on February 4, 2025.\n- The change was first reported by Bloomberg, indicating an erasure of the section on applications the company would not pursue.\n- The updated AI principles highlight Google's commitment to mitigating harmful outcomes and supporting national security, despite previous employee protests over military contracts.",
+      "keywords": [
+        "Google",
+        "AI",
+        "weapons",
+        "surveillance",
+        "public principles",
+        "military contracts"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-04T21:05:09.000Z"
+    },
+    {
+      "title": "Spyware maker Paragon confirms U.S. government is a customer",
+      "link": "https://techcrunch.com/2025/02/04/spyware-maker-paragon-confirms-u-s-government-is-a-customer/",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "thumbnail": null,
+      "summary": "[Paragon Solutions confirmed it sells spyware to the U.S. government and allied countries.]\n[The company has a zero-tolerance policy against targeting journalists and civil society figures.]\n[WhatsApp alleged that Paragon's spyware was used in a hacking campaign against journalists, with at least two targets coming forward.]",
+      "keywords": [
+        "Paragon Solutions",
+        "spyware",
+        "U.S. government",
+        "cybersecurity",
+        "journalism",
+        "WhatsApp"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-04T20:54:25.000Z"
+    },
+    {
+      "title": "Okta competitor SailPoint races toward $11.5B IPO",
+      "link": "https://techcrunch.com/2025/02/04/okta-competitor-sailpoint-races-toward-11-5b-ipo/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Cybersecurity company SailPoint plans to go public with a valuation of $11.5 billion.\n- The proposed IPO includes selling 47.5 million shares priced between $19 to $21, raising $1 billion.\n- SailPoint was previously public until being taken private by Thoma Bravo in 2022 at a $6.9 billion valuation.\n- The company expects $813 million in annual recurring revenue and reported $395 million in net losses with $700 million in revenues as of January 2024.\n- SailPoint has more than $1 billion in debt and plans to use IPO proceeds to address this debt and fund operations.\n- The IPO's timing is significant for venture capitalists and tech startups looking for market signals for their own offerings.",
+      "keywords": [
+        "SailPoint",
+        "IPO",
+        "cybersecurity",
+        "Thoma Bravo",
+        "identity management",
+        "Okta"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-04T20:45:59.000Z"
+    },
+    {
+      "title": "Figure drops OpenAI in favor of in-house models",
+      "link": "https://techcrunch.com/2025/02/04/figure-drops-openai-in-favor-of-in-house-models/",
+      "author": "Brett Adcock",
+      "thumbnail": null,
+      "summary": "- Figure AI CEO Brett Adcock announced the company is exiting its partnership with OpenAI to focus on in-house AI development.\n- The decision follows a major breakthrough that promises to reveal something unprecedented in humanoid technology within 30 days.\n- Figure has raised a total of $1.5 billion, with the last funding round valuing the company at $2.6 billion.\n- OpenAI had previously collaborated with Figure on AI models for humanoid robots; Adcock cites integration challenges as a reason for the split.\n- Figure will prioritize vertical integration for powering humanoid robots, contrasting with OpenAI's broader focus.\n- OpenAI filed a trademark application hinting at developing humanoid robots, underscoring a potential shift in its own strategy.",
+      "keywords": [
+        "Figure AI",
+        "OpenAI",
+        "humanoid robots",
+        "in-house AI",
+        "Brett Adcock",
+        "robotics",
+        "AI development",
+        "technology partnership"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-04T20:45:20.000Z"
+    },
+    {
+      "title": "Hugging Face researchers aim to build an ‘open’ version of OpenAI’s deep research tool",
+      "link": "https://techcrunch.com/2025/02/04/hugging-face-researchers-aim-to-build-an-open-version-of-openais-deep-research-tool/",
+      "author": "Thomas Wolf",
+      "thumbnail": null,
+      "summary": "- Researchers at Hugging Face have developed an open version called Open Deep Research, based on OpenAI’s deep research tool.\n- OpenAI's original tool is part of a $200/month ChatGPT Pro plan and compiles research reports by crawling the web.\n- Open Deep Research incorporates OpenAI's o1 model and an open-source framework, allowing for autonomous web navigation and analysis.\n- Initial tests showed Open Deep Research achieving a GAIA benchmark score of 54%, compared to 67.36% for OpenAI’s tool.\n- A public demo was launched but faced high traffic issues, with users experiencing errors during testing.\n- The source code for Open Deep Research is available on GitHub for further development and user feedback.",
+      "keywords": [
+        "Hugging Face",
+        "OpenAI",
+        "deep research tool",
+        "artificial intelligence",
+        "open source",
+        "machine learning",
+        "benchmarking",
+        "public demo"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-04T20:32:31.000Z"
+    },
+    {
       "title": "Amazon continues renewable energy spree with 476 MW purchase",
       "link": "https://techcrunch.com/2025/02/04/amazon-continues-renewable-energy-spree-with-476-mw-purchase/",
       "author": "Tim De Chant",
@@ -1047,125 +1161,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-03T21:52:29.000Z"
-    },
-    {
-      "title": "DeepSeek: The countries and agencies that have banned the AI company’s tech",
-      "link": "https://techcrunch.com/2025/02/03/deepseek-the-countries-and-agencies-that-have-banned-the-ai-companys-tech/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- DeepSeek, a Chinese AI company, faces bans from various countries and organizations due to ethics, privacy, and security concerns.\n- Italy initiated a ban after an investigation into DeepSeek's data handling, particularly related to GDPR compliance.\n- Taiwan's Ministry of Digital Affairs banned DeepSeek due to national security risks, applying restrictions to government and educational institutions.\n- The U.S. Congress warned its offices against using DeepSeek tech, citing risks of malicious software.\n- Texas Governor Greg Abbott banned DeepSeek software from state-issued devices, asserting protection against foreign data harvesting.\n- The U.S. Navy prohibited its members from using DeepSeek apps due to security and ethical concerns.\n- The Pentagon blocked access to DeepSeek after unauthorized usage was identified among its staff members.\n- NASA also implemented a ban on DeepSeek technologies, citing national security issues tied to data management.",
-      "keywords": [
-        "DeepSeek",
-        "AI company",
-        "bans",
-        "privacy",
-        "security",
-        "government",
-        "international relations",
-        "data security"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-03T20:00:40.000Z"
-    },
-    {
-      "title": "Journalist targeted on WhatsApp by Paragon spyware: ‘I feel violated’",
-      "link": "https://techcrunch.com/2025/02/03/journalist-targeted-on-whatsapp-by-paragon-spyware-i-feel-violated/",
-      "author": "Francesco Cancellato",
-      "thumbnail": null,
-      "summary": "- Journalist Francesco Cancellato received a WhatsApp notification indicating a spyware attack on his device by Paragon Solutions.\n- Approximately 90 individuals, including journalists and members of civil society, were targeted globally in this hacking campaign.\n- Cancellato expressed feelings of violation and raised concerns about the implications of the spyware on his personal and professional information.\n- His publication, Fanpage.it, is known for investigative journalism regarding corruption and political issues in Italy.\n- WhatsApp stated they disrupted the campaign by Paragon Solutions, an Israeli spyware company.\n- Cancellato decided to come forward publicly to report the incident as part of his journalistic duty, while remaining uncertain about the attackers' motives.",
-      "keywords": [
-        "Paragon Solutions",
-        "WhatsApp",
-        "spyware",
-        "Francesco Cancellato",
-        "cybersecurity",
-        "journalism",
-        "hacking",
-        "investigative journalism",
-        "Italy"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-03T19:22:05.000Z"
-    },
-    {
-      "title": "Trump says new US sovereign wealth fund could purchase TikTok",
-      "link": "https://techcrunch.com/2025/02/03/trump-says-new-us-sovereign-wealth-fund-could-purchase-tiktok/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- President Trump signed an executive order to create a U.S. sovereign wealth fund that may purchase TikTok.\n- The fund is to be established within the next 12 months by the U.S. Treasury and Commerce Departments.\n- Trump's previous executive order delayed the TikTok ban deadline by 75 days.\n- Multiple parties, including Microsoft, Elon Musk, and Larry Ellison, have shown interest in purchasing TikTok.\n- A decision regarding TikTok's future in the U.S. is expected in February.",
-      "keywords": [
-        "Trump",
-        "TikTok",
-        "sovereign wealth fund",
-        "executive order",
-        "US Treasury",
-        "US Commerce Department"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-02-03T18:52:48.000Z"
-    },
-    {
-      "title": "Ontario cancels $68 million Starlink contract in protest at US tariffs",
-      "link": "https://techcrunch.com/2025/02/03/ontario-cancels-68-million-starlink-contract-in-protest-at-u-s-tariffs/",
-      "author": "Dominic-Madori Davis",
-      "thumbnail": null,
-      "summary": "- Ontario's Premier Doug Ford announced the cancellation of a $68 million contract with Elon Musk's Starlink satellite service.\n- The decision comes after President Trump announced a 25% tariff on Canadian imports, prompting Canada to retaliate with a similar tariff on U.S. goods.\n- Ford stated that Ontario will not engage with businesses that harm the economy, labeling Musk as part of the Trump administration's negative impact on Canadian families and businesses.",
-      "keywords": [
-        "Ontario",
-        "Starlink",
-        "Elon Musk",
-        "tariffs",
-        "Doug Ford",
-        "Canada",
-        "US imports",
-        "government policy"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-03T17:00:00.000Z"
-    },
-    {
-      "title": "Ontario cancels $100 million Starlink contract in protest at U.S. tariffs",
-      "link": "https://techcrunch.com/2025/02/03/ontario-cancels-100-million-starlink-contract-in-protest-at-u-s-tariffs/",
-      "author": "Dominic-Madori Davis",
-      "thumbnail": null,
-      "summary": "- Ontario Premier Doug Ford announced the cancellation of a $100 million contract with Starlink due to U.S. tariffs.\n- The cancellation follows President Trump's announcement of a 25% tariff on Canadian imports, prompting retaliatory measures from Canada.\n- Ford stated that U.S. companies will be banned from future provincial contracts until the tariffs are lifted, criticizing Musk's ties to the Trump administration.",
-      "keywords": [
-        "Ontario",
-        "Starlink",
-        "tariffs",
-        "Doug Ford",
-        "U.S. trade",
-        "Elon Musk",
-        "Canada",
-        "contract cancellation"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-03T17:00:00.000Z"
     }
   ]
 }
