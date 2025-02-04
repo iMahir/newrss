@@ -4,6 +4,51 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Grubhub confirms data breach affecting customers and drivers",
+      "link": "https://techcrunch.com/2025/02/04/grubhub-confirms-data-breach-affecting-customers-and-drivers/",
+      "author": "Carly Page",
+      "thumbnail": null,
+      "summary": "- Grubhub reported a data breach where hackers accessed personal details of customers and drivers.\n- The breach was linked to unauthorized access from a third-party service provider.\n- Affected personal details include names, email addresses, phone numbers, and partial payment card information; bank account details and Social Security numbers were not compromised.\n- Grubhub has not disclosed the number of affected individuals or when the incident occurred.",
+      "keywords": [
+        "Grubhub",
+        "data breach",
+        "cybersecurity",
+        "hackers",
+        "personal information"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-04T10:18:16.000Z"
+    },
+    {
+      "title": "OpenAI Expands in Asia with Kakao Partnership Following SoftBank Deal",
+      "link": "https://techcrunch.com/2025/02/04/openai-doubles-down-on-asia-partners-with-kakao-after-its-big-deal-with-softbank/",
+      "author": "Kate Park, Ingrid Lunden",
+      "thumbnail": null,
+      "summary": "- OpenAI announces a partnership with Kakao to expand its presence in Asia, focusing on Korean language content.\n- The collaboration will result in the creation of a Korean-language assistant named Kanana and integration of OpenAI technology into KakaoTalk.\n- This announcement follows SoftBank's commitment of $3 billion to implement OpenAI technology across its operations and the establishment of a joint venture called SB OpenAI Japan.\n- OpenAI aims to enhance its AI capabilities by gaining access to more Asian-language data and user behavior.\n- OpenAI's CEO Sam Altman highlighted Korea's advanced AI adoption and its significance for future growth in the region.\n- The partnerships also come in response to competition from Chinese AI firm DeepSeek, prompting OpenAI to strengthen its international reach.",
+      "keywords": [
+        "OpenAI",
+        "Kakao",
+        "SoftBank",
+        "AI expansion",
+        "partnership",
+        "Korean language",
+        "technology",
+        "Asia"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-04T10:17:18.000Z"
+    },
+    {
       "title": "Waabi and Volvo team up to build self-driving trucks at scale",
       "link": "https://techcrunch.com/2025/02/04/waabi-and-volvo-team-up-to-build-self-driving-trucks-at-scale/",
       "author": "Rebecca Bellan",
@@ -1114,54 +1159,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-01-31T23:47:00.000Z"
-    },
-    {
-      "title": "Sam Altman: OpenAI has been on the ‘wrong side of history’ concerning open source",
-      "link": "https://techcrunch.com/2025/01/31/sam-altman-believes-openai-has-been-on-the-wrong-side-of-history-concerning-open-source/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- Sam Altman stated OpenAI has been 'on the wrong side of history' regarding open-source technologies.\n- OpenAI is facing competition from companies like DeepSeek, leading to a reevaluation of its open-sourcing strategies.\n- Altman mentioned potential plans to open-source older models and enhance the transparency of reasoning models.\n- The company is engaged in significant financing efforts, with ongoing relationships with government bodies for nuclear defense research.\n- Altman indicated a shift in OpenAI's approach to model development and a potential future release strategy.",
-      "keywords": [
-        "OpenAI",
-        "Sam Altman",
-        "DeepSeek",
-        "AI",
-        "open source",
-        "reasoning models",
-        "government partnership",
-        "nuclear defense",
-        "model development"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-31T23:34:35.000Z"
-    },
-    {
-      "title": "Mistral board member and a16z VC Anjney Midha says DeepSeek won’t stop AI’s GPU hunger",
-      "link": "https://techcrunch.com/2025/01/31/mistral-board-member-and-a16z-vc-anjney-midha-says-deepseek-wont-stop-ais-gpu-hunger/",
-      "author": "Anjney Midha",
-      "thumbnail": null,
-      "summary": "• Anjney Midha, a16z VC and Mistral board member, discusses DeepSeek's performance compared to GPT4-Turbo.\n• DeepSeek's latest model, R1, challenges the AI industry by providing high efficiency at lower costs amid GPU demand.\n• Despite improvements, Midha asserts foundational AI models will still require vast GPU resources and more data centers.\n• Mistral remains competitive due to its open-source approach, allowing access to free technical support.\n• The Oxygen GPU sharing program is currently overbooked, highlighting the intense demand for GPUs in AI development.\n• Companies are recognizing the strategic importance of AI infrastructure similar to electricity and the internet, advocating for Western models over Chinese ones.",
-      "keywords": [
-        "DeepSeek",
-        "AI",
-        "GPU",
-        "Mistral",
-        "Anjney Midha",
-        "OpenAI",
-        "a16z"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-31T23:03:45.000Z"
     }
   ]
 }
