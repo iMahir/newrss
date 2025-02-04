@@ -4,6 +4,51 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "AMD Pulls Up the Release of Its Next-Gen Data Center GPUs",
+      "link": "https://techcrunch.com/2025/02/04/amd-pulls-up-the-release-of-its-next-gen-data-center-gpus/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- AMD plans to launch the AMD Instinct MI350 series data center GPUs sooner than expected, with sampling for lead customers this quarter.\n- CEO Lisa Su announced an acceleration in production shipments to mid-2025, up from the second half of 2025 due to strong customer demand.\n- AMD's data center revenue reached $5 billion in 2024, contributing significantly to the company's overall revenue, with expectations for double-digit growth in 2025.",
+      "keywords": [
+        "AMD",
+        "Instinct MI350",
+        "data center",
+        "GPU",
+        "artificial intelligence",
+        "earnings report"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-04T23:03:39.000Z"
+    },
+    {
+      "title": "Miist, founded by a 25-year-old, wants people to vape their way out of smoking addiction and migraines",
+      "link": "https://techcrunch.com/2025/02/04/miist-founded-by-a-25-year-old-wants-people-to-vape-their-way-out-of-smoking-addiction-and-migraines/",
+      "author": "Marina Temkin",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/IMG_4326.jpg?w=680",
+      "summary": "- Dalton Signor founded Miist Therapeutics while in university, aiming to combat smoking addiction and migraines.\n- Miist's inhaler delivers medication rapidly to the lungs, achieving a 92% craving reduction in smokers within two minutes during Phase I trials.\n- The startup has secured $7 million in seed funding from various investors, focusing on innovative delivery methods for nicotine and migraine relief.",
+      "keywords": [
+        "Miist Therapeutics",
+        "smoking cessation",
+        "vape inhaler",
+        "migraines",
+        "Dalton Signor",
+        "investor funding",
+        "health technology"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-04T22:00:00.000Z"
+    },
+    {
       "title": "Google removes pledge to not use AI for weapons from website",
       "link": "https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/",
       "author": null,
@@ -1112,55 +1157,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-03T23:00:00.000Z"
-    },
-    {
-      "title": "No, DeepSeek isn’t uncensored if you run it locally",
-      "link": "https://techcrunch.com/2025/02/03/no-deepseek-isnt-uncensored-if-you-run-it-locally/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- DeepSeek's supposedly local censorship can mislead users into thinking it's eliminated when running locally.\n- Investigations reveal that censorship is present at both application and training levels of DeepSeek.\n- Examples show that DeepSeek avoids mentioning certain historical events, like the Cultural Revolution, and censorship persists even in locally run versions.",
-      "keywords": [
-        "DeepSeek",
-        "censorship",
-        "AI",
-        "local model",
-        "Chinese Communist Party",
-        "Cultural Revolution",
-        "Tiananmen Square"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-03T21:52:42.000Z"
-    },
-    {
-      "title": "Meta says it may stop development of AI systems it deems too risky",
-      "link": "https://techcrunch.com/2025/02/03/meta-says-it-may-stop-development-of-ai-systems-it-deems-too-risky/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "• Meta CEO Mark Zuckerberg aims to make artificial general intelligence (AGI) open in the future.\n• Meta's new Frontier AI Framework categorizes AI systems as \"high-risk\" or \"critical-risk\" based on their potential for harm.\n• High-risk systems may assist in attacks but are less reliable, while critical-risk systems could result in catastrophic outcomes.\n• Meta's classification relies on input from researchers rather than empirical tests, due to lack of robust evaluation metrics.\n• If a system is deemed high-risk, internal access will be limited; critical-risk systems will halt development until mitigations are in place.\n• Meta's approach contrasts with companies like OpenAI, as it has previously released AI models openly, leading to both successes and security concerns.",
-      "keywords": [
-        "Meta",
-        "AI development",
-        "Zuckerberg",
-        "Frontier AI Framework",
-        "risk assessment",
-        "artificial intelligence",
-        "cybersecurity",
-        "critical risk",
-        "high risk",
-        "AGI"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-03T21:52:29.000Z"
     }
   ]
 }
