@@ -4,6 +4,28 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "Global ransomware payments plunge by a third amid crackdown",
+      "link": "https://www.theguardian.com/technology/2025/feb/05/global-ransomware-payments-plunge-by-a-third-amid-crackdown",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Ransomware payments fell by over a third to $813m in 2024, down from $1.25bn in 2023.\n- Notable ransomware incidents occurred in 2024, including attacks on NHS trusts and Krispy Kreme.\n- The decline is attributed to victims refusing to pay and intensified law enforcement actions against cybercriminals.\n- The total for 2024 is lower than previous years, even below 2020's $999m and 2019's $1.1bn.\n- Cyber threat expert Jacqueline Burns Koven noted the figures suggest averted 'ransomware apocalypse' due to effective collaboration and victim resistance.\n- Despite the decline, ransomware attacks remain prevalent, with increases in demands from cyber gangs.\n- UK ministers are considering a ban on ransomware payments by public bodies, with proposals requiring reporting of such payments to the government.",
+      "keywords": [
+        "ransomware",
+        "cybercrime",
+        "payments",
+        "law enforcement",
+        "cybersecurity",
+        "UK"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-05T13:00:25.000Z"
+    },
+    {
       "title": "Google owner drops promise not to use AI for weapons",
       "link": "https://www.theguardian.com/technology/2025/feb/05/google-owner-drops-promise-not-to-use-ai-for-weapons",
       "author": null,
@@ -1161,29 +1183,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-01-29T15:00:09.000Z"
-    },
-    {
-      "title": "What International AI Safety report says on jobs, climate, cyberwar and more",
-      "link": "https://www.theguardian.com/technology/2025/jan/29/what-international-ai-safety-report-says-jobs-climate-cyberwar-deepfakes-extinction",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- The International AI Safety report highlights significant challenges posed by rapidly advancing AI technologies.\n- The report warns of profound job impacts due to capable AI agents, with potential for new jobs but also significant job losses in advanced economies.\n- AI's energy consumption contributes to 1% of greenhouse gas emissions, with increasing demands from datacentres, raising environmental concerns.\n- Concerns over loss of control of powerful AI systems are noted, with varying opinions on the likelihood of negative outcomes.\n- AI models could create advanced bioweapons, but there are uncertainties about their use by untrained individuals.\n- Cybersecurity threats from AI include autonomous bots finding software vulnerabilities, but attacks cannot currently be carried out independently.\n- The report discusses the malicious use of deepfakes, noting a lack of data to fully measure the impact and challenges in addressing them.",
-      "keywords": [
-        "AI safety",
-        "job impact",
-        "environment",
-        "cybersecurity",
-        "deepfakes",
-        "bioweapons",
-        "autonomous agents"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-29T13:45:56.000Z"
     }
   ]
 }

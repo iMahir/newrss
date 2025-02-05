@@ -1,5 +1,125 @@
 [
   {
+    "title": "US Suspends Ecommerce Deliveries from China Amid Rising Tariffs",
+    "id": "0a55tyl1rw6i9t",
+    "summary": "- PDD Holdings, parent company of Temu, experienced a significant drop in stock prices after Trump's tariff imposition.\n- The market reacted quickly due to concerns about increased operational costs.\n- This decision might exacerbate tensions in US-China trade and affect e-commerce strategies.\n- The USPS has temporarily halted all package deliveries from mainland China and Hong Kong.\n- The suspension is a result of escalating trade tensions linked to the new tariffs on Chinese imports.\n- Consumers on Chinese platforms like Temu and Shein will incur higher costs due to tariffs between 16% and over 30% on previously exempt products.\n- This policy shift comes after China retaliated with tariffs on American goods.",
+    "thumbnails": [
+      "https://cdn.techinasia.com/wp-content/uploads/2023/04/1682309331_Temu-latest.jpg",
+      "https://cdn.techinasia.com/wp-content/uploads/2025/01/1738127967_shutterstock_171879539-scaled.jpg"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 7,
+      "novelty": 5.5,
+      "longTermSignificance": 6.5
+    },
+    "keywords": [
+      "pdd holdings",
+      "temu",
+      "stock market",
+      "tariffs",
+      "trump",
+      "us-china trade relations",
+      "usps",
+      "ecommerce",
+      "china",
+      "trade tensions",
+      "shein"
+    ],
+    "sources": [
+      {
+        "title": "Temu parent PDD’s stock falls as Trump imposes tariffs",
+        "link": "https://www.techinasia.com/news/temu-parent-pdds-stock-falls-as-trump-imposes-tariffs"
+      },
+      {
+        "title": "US suspends ecommerce deliveries from China amid Trump’s tariffs",
+        "link": "https://www.techinasia.com/news/suspends-ecommerce-deliveries-china-trumps-tariffs"
+      }
+    ],
+    "lastUpdated": "2025-02-05T13:18:34.714Z"
+  },
+  {
+    "title": "Global ransomware payments plunge by a third amid crackdown",
+    "id": "0jkdise1aqrpzl",
+    "summary": "- Ransomware payments fell by over a third to $813m in 2024, down from $1.25bn in 2023.\n- Notable ransomware incidents occurred in 2024, including attacks on NHS trusts and Krispy Kreme.\n- The decline is attributed to victims refusing to pay and intensified law enforcement actions against cybercriminals.\n- The total for 2024 is lower than previous years, even below 2020's $999m and 2019's $1.1bn.\n- Cyber threat expert Jacqueline Burns Koven noted the figures suggest averted 'ransomware apocalypse' due to effective collaboration and victim resistance.\n- Despite the decline, ransomware attacks remain prevalent, with increases in demands from cyber gangs.\n- UK ministers are considering a ban on ransomware payments by public bodies, with proposals requiring reporting of such payments to the government.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "ransomware",
+      "cybercrime",
+      "payments",
+      "law enforcement",
+      "cybersecurity",
+      "UK"
+    ],
+    "sources": [
+      {
+        "title": "Global ransomware payments plunge by a third amid crackdown",
+        "link": "https://www.theguardian.com/technology/2025/feb/05/global-ransomware-payments-plunge-by-a-third-amid-crackdown"
+      }
+    ],
+    "lastUpdated": "2025-02-05T13:18:34.714Z"
+  },
+  {
+    "title": "Modern Synthesis is making compostable materials that last a lifetime",
+    "id": "046p9j80lkre5m",
+    "summary": "- Jen Keane's startup, Modern Synthesis, innovatively grows and processes nanocellulose fibers for sustainable materials.\n- The materials created are biodegradable and can mimic synthetic materials like leather while aiming for a lifespan of 100 years.\n- Modern Synthesis closed a $5.5 million funding round to increase production and explore applications like smart textiles and car dashboards.",
+    "thumbnails": [
+      "https://techcrunch.com/wp-content/uploads/2025/02/modernsynthesis1.jpg?w=680"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 9,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "sustainable materials",
+      "biodegradable",
+      "nanocellulose",
+      "smart textiles",
+      "fashion industry"
+    ],
+    "sources": [
+      {
+        "title": "Modern Synthesis is making compostable materials that last a lifetime",
+        "link": "https://techcrunch.com/2025/02/05/modern-synthesis-is-making-compostable-materials-that-last-a-lifetime/"
+      }
+    ],
+    "lastUpdated": "2025-02-05T13:18:34.713Z"
+  },
+  {
+    "title": "Go Module Mirror served backdoor to devs for 3+ years",
+    "id": "13s2bml0i5qk7g",
+    "summary": "- A backdoored package was served via the Go Module Mirror by Google for over three years.\n- The malicious version was named boltdb-go/bolt, targeting users of the legitimate boltdb/bolt module.\n- The issue arose from typosquatting, where users could inadvertently download the backdoored package due to minor name variations.\n- Researchers petitioned for its removal after spotting the malicious code, which was cached despite a revert to the legitimate version on GitHub.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 8,
+      "impact": 9,
+      "novelty": 7,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "Go Module Mirror",
+      "backdoor",
+      "typosquatting",
+      "malicious code",
+      "open source security"
+    ],
+    "sources": [
+      {
+        "title": "Go Module Mirror served backdoor to devs for 3+ years",
+        "link": "https://arstechnica.com/security/2025/02/backdoored-package-in-go-mirror-site-went-unnoticed-for-3-years/"
+      }
+    ],
+    "lastUpdated": "2025-02-05T13:18:34.712Z"
+  },
+  {
     "title": "Former Whoop exec’s new app Alma uses AI for all things nutrition",
     "id": "1jjvih3166h6fu",
     "summary": "- Former VP of product at Whoop, Rami Alhamad, launched an iOS app called Alma, which offers AI-driven nutrition tracking.\n- The app allows users to interact via text or voice to log food, or take pictures for dish identification.\n- Users can receive meal suggestions tailored to their nutritional goals and receive diet improvement tips based on intake scores.\n- Alma is expected to generate revenue through a monthly subscription of $19 or an annual fee of $199.\n- The app aims to simplify nutrition tracking compared to existing solutions like MyFitnessPal.",
@@ -4588,35 +4708,6 @@
       }
     ],
     "lastUpdated": "2025-02-04T07:11:48.407Z"
-  },
-  {
-    "title": "Temu parent PDD’s stock falls as Trump imposes tariffs",
-    "id": "0a55tyl1rw6i9t",
-    "summary": "- PDD Holdings, the parent company of Temu, saw a significant decline in stock prices after tariffs were imposed by Trump.\n- The market reaction was swift, reflecting investor concerns about potential impacts on costs and operations.\n- This move could further strain US-China trade relations, with implications for e-commerce and international business strategies.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2023/04/1682309331_Temu-latest.jpg"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 6,
-      "novelty": 5,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "PDD Holdings",
-      "Temu",
-      "stock market",
-      "tariffs",
-      "Trump",
-      "US-China trade relations"
-    ],
-    "sources": [
-      {
-        "title": "Temu parent PDD’s stock falls as Trump imposes tariffs",
-        "link": "https://www.techinasia.com/news/temu-parent-pdds-stock-falls-as-trump-imposes-tariffs"
-      }
-    ],
-    "lastUpdated": "2025-02-04T06:16:08.274Z"
   },
   {
     "title": "This scrappy search upstart is getting thousands of people to give up Google",
@@ -34109,105 +34200,5 @@
       }
     ],
     "lastUpdated": "2025-01-22T14:11:16.401Z"
-  },
-  {
-    "title": "Funding boosts Karmen's financing for SMEs; 1up thrives on meme marketing",
-    "id": "1kgetfn0vwb5t7",
-    "summary": "- French startup [Karmen](https://www.karmen.io/) raises €9 million ($9.4 million) in a funding round to enhance its instant financing for SMEs.\n- Round led by Seventure Partners with additional debt from Financière Arbevel and Bpifrance.\n- Karmen has served around 600 companies, providing loans ranging from €20,000 to €3 million, with an average loan amount of €200,000.\n- The company utilizes a data-driven approach and risk assessment tools, including AI, to enhance loan evaluation and minimize repayment risks.\n\n- 1up is an AI-powered knowledge automation platform for sales teams, launched in 2022 by George Avetisov after his time at HYPR.\n- The platform assists sales professionals in finding answers to product questions and filling out technical questionnaires using internal data sources.\n- 1up has gained nearly 100 customers, attributing a third of its leads to meme-based marketing on platforms like LinkedIn.\n- Recently announced a $5 million funding round led by Upfront Ventures, with participation from others including RRE Ventures.\n- The company aims to enhance sales team tools and differentiate itself from AI sales lead generators already in the market.",
-    "thumbnails": [
-      "https://techcrunch.com/wp-content/uploads/2025/01/KarmenPR.jpg?w=680"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "karmen",
-      "financing",
-      "startups",
-      "smes",
-      "funding",
-      "revenue-based financing",
-      "seventure partners",
-      "debt financing",
-      "ai",
-      "risk assessment",
-      "automation",
-      "sales",
-      "knowledge management",
-      "memes",
-      "1up"
-    ],
-    "sources": [
-      {
-        "title": "Karmen secures $9.4 million for its revenue-based financing products",
-        "link": "https://techcrunch.com/2025/01/20/karmen-secures-94-million-for-its-revenue-based-financing-products/"
-      },
-      {
-        "title": "Sales knowledge automation platform 1up gets a third of its customer leads from memes",
-        "link": "https://techcrunch.com/2025/01/22/sales-knowledge-automation-platform-1up-gets-a-third-of-its-customer-leads-from-memes/"
-      }
-    ],
-    "lastUpdated": "2025-01-22T13:17:30.880Z"
-  },
-  {
-    "title": "Here’s the tech that could turn millions of Zigbee light bulbs into motion sensors with a single update",
-    "id": "0h6ln671uxt0dv",
-    "summary": "- New ambient sensing technology called [Sensify](https://www.ivani.com/tech-bytes-news/zigbee-and-wireless-network-sensing) can turn mains-powered Zigbee devices into motion sensors.\n- Sensify requires just a firmware update, potentially affecting tens of millions of devices already in homes.\n- Philips Hue could be among the first to utilize this technology, as speculations have been ongoing regarding Zigbee sensing capabilities.\n- Sensify works by detecting disturbances in radio frequencies, needing at least three devices for effective motion detection.\n- The technology aims to enhance smart home automation, offering advantages in cost and scalability without needing extra hardware.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 8,
-      "impact": 7,
-      "novelty": 8,
-      "longTermSignificance": 9
-    },
-    "keywords": [
-      "Zigbee",
-      "motion sensors",
-      "smart home",
-      "Ambient sensing",
-      "Sensify",
-      "Philips Hue",
-      "Ivani"
-    ],
-    "sources": [
-      {
-        "title": "Here’s the tech that could turn millions of Zigbee light bulbs into motion sensors with a single update",
-        "link": "https://www.theverge.com/2025/1/22/24348688/zigbee-ambient-sensing-philips-hue-ivani-sensify"
-      }
-    ],
-    "lastUpdated": "2025-01-22T13:17:30.880Z"
-  },
-  {
-    "title": "Doti gives enterprises a flexible AI-powered search experience to unlock their data silos",
-    "id": "06dhx921b513cy",
-    "summary": "- Doti AI, a startup based in Tel Aviv, has raised $7 million in seed funding to enhance enterprise search using AI.\n- The platform integrates data from various services like Confluence, Jira, and Slack, enabling a chat-based search experience.\n- Co-founders Matan Cohen and Opher Hofshi emphasize flexibility, allowing businesses to integrate their own large language models and security policies.",
-    "thumbnails": [
-      "https://techcrunch.com/wp-content/uploads/2025/01/Doti-AI-Dashboard.png?w=680"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "AI",
-      "enterprise search",
-      "Doti AI",
-      "data integration",
-      "flexibility",
-      "startup",
-      "cloud services"
-    ],
-    "sources": [
-      {
-        "title": "Doti gives enterprises a flexible AI-powered search experience to unlock their data silos",
-        "link": "https://techcrunch.com/2025/01/22/doti-gives-enterprises-a-flexible-ai-powered-search-experience-to-unlock-their-data-silos/"
-      }
-    ],
-    "lastUpdated": "2025-01-22T13:17:30.880Z"
   }
 ]
