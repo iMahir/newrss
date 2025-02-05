@@ -1,5 +1,74 @@
 [
   {
+    "title": "China’s DeepSeek Raises Security Concerns Leading to Taiwan's Ban",
+    "id": "04do2op01knbrb",
+    "summary": "- Taiwan’s Ministry of Digital Affairs has banned government departments from using DeepSeek AI services due to security risks.\n- Concerns arose over cross-border data transmission that could lead to information leaks.\n- DeepSeek is categorized as a potential threat to national information security amid geopolitical tensions with Beijing.\n- Other countries like South Korea, France, Italy, and Ireland are also reviewing DeepSeek’s data handling practices.\n- DeepSeek’s AI assistant has recently surpassed ChatGPT in App Store downloads.\n- DeepSeek's web version may send user login data to China Mobile, a state-owned company.\n- Security researchers found obfuscated code linking DeepSeek to China Mobile, raising national security concerns.\n- The U.S. has previously denied China Mobile authority to operate in the U.S. due to national security risks.",
+    "thumbnails": [
+      "https://cdn.techinasia.com/wp-content/uploads/2025/01/1738049673_shutterstock_2481146219-scaled.jpg"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8.5,
+      "novelty": 6.5,
+      "longTermSignificance": 7.5
+    },
+    "keywords": [
+      "taiwan",
+      "deepseek",
+      "ai services",
+      "information security",
+      "data transmission",
+      "national security",
+      "geopolitical tensions",
+      "privacy concerns",
+      "china",
+      "cybersecurity",
+      "china mobile",
+      "artificial intelligence",
+      "user data"
+    ],
+    "sources": [
+      {
+        "title": "Taiwan bans government use of DeepSeek over security risks",
+        "link": "https://www.techinasia.com/news/taiwan-bans-government-use-of-deepseek-over-security-risks"
+      },
+      {
+        "title": "China’s DeepSeek web version is raising security alarms. Here’s why",
+        "link": "https://www.fastcompany.com/91273103/chinas-deepseek-web-version-raising-security-alarms-heres-why?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
+      }
+    ],
+    "lastUpdated": "2025-02-05T17:10:32.756Z"
+  },
+  {
+    "title": "The Internet is (once again) awash with IoT botnets delivering record DDoSes",
+    "id": "1t6ueb70ssf1nd",
+    "summary": "- 2025 is witnessing a surge in IoT-driven DDoS attacks, infecting thousands of devices like routers and webcams.\n- Cloudflare reported a DDoS attack reaching 5.6 terabits per second, setting a new record, with 13,000 IoT devices involved.\n- Qualys has identified the Murdoc Botnet exploiting vulnerabilities to install Mirai variants on specific cameras and routers, with compromised devices rapidly increasing.\n- Trend Micro revealed an IoT botnet using Mirai and Bashlite variants attacking mainly in Japan since late 2024.\n- Infoblox reported another botnet with 13,000 MikroTik routers, primarily sending malicious spam emails.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 8,
+      "impact": 9,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "IoT",
+      "botnet",
+      "DDoS",
+      "Mirai",
+      "cybersecurity",
+      "security vulnerabilities",
+      "2025",
+      "Malware"
+    ],
+    "sources": [
+      {
+        "title": "The Internet is (once again) awash with IoT botnets delivering record DDoSes",
+        "link": "https://arstechnica.com/security/2025/01/the-internet-is-once-again-awash-with-iot-botnets-delivering-record-ddoses/"
+      }
+    ],
+    "lastUpdated": "2025-02-05T17:10:32.752Z"
+  },
+  {
     "title": "Google launches new AI models and brings ‘thinking’ to Gemini",
     "id": "09cktrg14fr6vy",
     "summary": "- Google launched Gemini 2.0 Pro Experimental, its new flagship AI model, on Wednesday.\n- The Gemini 2.0 Flash Thinking model is now available in the Gemini app, enhancing its reasoning capabilities.\n- The new Gemini Pro model excels in coding and complex prompts, boasting a context window of 2 million tokens.\n- Google aims to compete with DeepSeek's cost-effective AI models, which have gained significant attention.",
@@ -9739,37 +9808,6 @@
       }
     ],
     "lastUpdated": "2025-02-01T02:13:56.724Z"
-  },
-  {
-    "title": "Taiwan bans government use of DeepSeek over security risks",
-    "id": "04do2op01knbrb",
-    "summary": "- Taiwan’s Ministry of Digital Affairs has banned government departments from using DeepSeek AI services due to security risks.\n- Concerns arose over cross-border data transmission that could lead to information leaks.\n- DeepSeek is categorized as a potential threat to national information security amid geopolitical tensions with Beijing.\n- Other countries like South Korea, France, Italy, and Ireland are also reviewing DeepSeek’s data handling practices.\n- DeepSeek’s AI assistant has recently surpassed ChatGPT in App Store downloads.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/01/1738049673_shutterstock_2481146219-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "Taiwan",
-      "DeepSeek",
-      "AI services",
-      "information security",
-      "data transmission",
-      "national security",
-      "geopolitical tensions",
-      "privacy concerns"
-    ],
-    "sources": [
-      {
-        "title": "Taiwan bans government use of DeepSeek over security risks",
-        "link": "https://www.techinasia.com/news/taiwan-bans-government-use-of-deepseek-over-security-risks"
-      }
-    ],
-    "lastUpdated": "2025-02-01T02:13:56.723Z"
   },
   {
     "title": "Japan PM to meet OpenAI, SoftBank CEOs over $500b AI plan",
