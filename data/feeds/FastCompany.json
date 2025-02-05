@@ -4,6 +4,27 @@
   "feedUrl": "https://www.fastcompany.com/technology/rss",
   "items": [
     {
+      "title": "AI might run your next employee training",
+      "link": "https://www.fastcompany.com/91272456/ai-might-run-your-next-employee-training?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "author": "Tigran Sloyan",
+      "thumbnail": null,
+      "summary": "- Employers are concerned about Gen Z's lack of social skills for office interactions due to limited practice opportunities during the pandemic.\n- CodeSignal has launched an AI-powered feature called Cosmo to help users practice business conversation skills independently.\n- The platform previously focused on technical skills; the new addition enables practice of negotiations, feedback, and sales calls.",
+      "keywords": [
+        "AI",
+        "employee training",
+        "Gen Z",
+        "business skills",
+        "CodeSignal"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-05T17:00:00.000Z"
+    },
+    {
       "title": "China’s DeepSeek web version is raising security alarms. Here’s why",
       "link": "https://www.fastcompany.com/91273103/chinas-deepseek-web-version-raising-security-alarms-heres-why?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
       "author": "Byron Tau",
@@ -3602,31 +3623,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-29T12:00:00.000Z"
-    },
-    {
-      "title": "DeepSeek Questions Big AI’s Trillion-Dollar Assumption",
-      "link": "https://www.fastcompany.com/91268664/deepseek-called-into-question-big-ai-trillion-dollar-assumption-openai?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Chinese startup [DeepSeek](https://www.fastcompany.com/91267354/deepseek-explained-china-llm-chatgpt-nvidia-microsoft-stock-ai-rattled) developed advanced AI models using significantly less computing power.\n- DeepSeek challenged the prevailing belief that more computing power leads to better AI models, suggesting the approach to AGI could be overhauled.\n- OpenAI CEO Sam Altman has advocated for substantial investment in computing power, recently stating a need for $7 trillion to build necessary data centers for AGI.\n- Unlike OpenAI, DeepSeek shares access to its models, allowing developers to build on its research, but faces challenges due to U.S. chip bans and funding constraints.\n- Some industry figures, including Andrej Karpathy of OpenAI, remain skeptical and still advocate for the importance of compute power for achieving higher intelligence in AI.",
-      "keywords": [
-        "DeepSeek",
-        "AI models",
-        "computing power",
-        "AGI",
-        "OpenAI",
-        "investment",
-        "Nvidia",
-        "machine learning",
-        "chip bans"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-28T23:55:00.000Z"
     }
   ]
 }
