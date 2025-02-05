@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "Google owner drops promise not to use AI for weapons",
+      "link": "https://www.theguardian.com/technology/2025/feb/05/google-owner-drops-promise-not-to-use-ai-for-weapons",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Alphabet has rescinded its pledge not to use AI for developing weapons and surveillance tools.\n- The company updated its ethical guidelines, which no longer mention avoiding technologies that could cause overall harm.\n- Google's AI head, Demis Hassabis, stated the guidelines reflect changes in a rapidly evolving world focused on national security.\n- A blogpost by Hassabis and senior VP James Manyika emphasizes the need for democracies to lead in AI development, promoting freedom and human rights.\n- This change reflects the significant growth of AI, which is now a general-purpose technology used globally.\n- Following the announcement, Google shares fell 7.5% in after-hours trading after the company reported lower than expected earnings.",
+      "keywords": [
+        "Alphabet",
+        "AI ethics",
+        "national security",
+        "weapons",
+        "surveillance",
+        "Demis Hassabis",
+        "James Manyika",
+        "technology governance"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-05T10:00:36.000Z"
+    },
+    {
       "title": "School phone bans do not improve grades or wellbeing, says UK study",
       "link": "https://www.theguardian.com/education/2025/feb/05/school-ban-phones-not-improve-grades-health-uk-study",
       "author": null,
@@ -1160,32 +1184,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-01-29T13:45:56.000Z"
-    },
-    {
-      "title": "Chinese firms ‘distilling’ US AI models to create rival products, warns OpenAI",
-      "link": "https://www.theguardian.com/technology/2025/jan/29/openai-chatgpt-deepseek-china-us-ai-models",
-      "author": null,
-      "thumbnail": "https://i.guim.co.uk/img/media/bc3daf7b2b781413805125910696bd01b0a4dadf/0_114_8216_4930/master/8216.jpg?width=445&dpr=1&s=none&crop=none",
-      "summary": "- OpenAI warns that Chinese startups are using its technology to develop competing products, particularly a chatbot by DeepSeek.\n- DeepSeek’s chatbot launch caused a market drop, wiping $1 trillion from AI-linked US tech stocks due to its claims of lower operational costs.\n- OpenAI, alongside Microsoft, is investigating unauthorized use of its technology through 'distillation'.\n- OpenAI’s CEO expressed initial admiration for DeepSeek but later highlighted evidence of potential intellectual property theft.\n- US government agencies, including the Navy, are assessing the national security implications of DeepSeek's AI technology.",
-      "keywords": [
-        "OpenAI",
-        "DeepSeek",
-        "AI technology",
-        "intellectual property",
-        "China",
-        "Microsoft",
-        "distillation",
-        "chatbots",
-        "national security",
-        "Silicon Valley"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-29T13:21:27.000Z"
     }
   ]
 }
