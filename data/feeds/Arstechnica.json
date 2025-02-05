@@ -4,6 +4,29 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "7-Zip 0-day exploited amid Russia’s invasion of Ukraine",
+      "link": "https://arstechnica.com/security/2025/02/7-zip-0-day-was-exploited-in-russias-ongoing-invasion-of-ukraine/",
+      "author": null,
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/outer-archive-file-without-motw-tag.png",
+      "summary": "- A zero-day vulnerability in 7-Zip was exploited by a Russian cybercrime group during the invasion of Ukraine.\n- The vulnerability bypassed Windows protection mechanisms, known as Mark of the Web (MotW), by embedding executable files within nested archives.\n- The flaw, tracked as CVE-2025-0411, was addressed in the release of 7-Zip version 24.09 in late November 2025.",
+      "keywords": [
+        "7-Zip",
+        "zero-day vulnerability",
+        "CVE-2025-0411",
+        "Russia",
+        "Ukraine",
+        "cybersecurity",
+        "Mark of the Web"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-05T21:05:37.000Z"
+    },
+    {
       "title": "Go Module Mirror served backdoor to devs for 3+ years",
       "link": "https://arstechnica.com/security/2025/02/backdoored-package-in-go-mirror-site-went-unnoticed-for-3-years/",
       "author": null,
