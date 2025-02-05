@@ -4,6 +4,30 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Router maker Zyxel tells customers to replace vulnerable hardware exploited by hackers",
+      "link": "https://techcrunch.com/2025/02/05/router-maker-zyxel-tells-customers-to-replace-vulnerable-hardware-exploited-by-hackers/",
+      "author": "Carly Page",
+      "thumbnail": null,
+      "summary": "- Taiwanese hardware maker Zyxel has revealed it will not patch two critical vulnerabilities affecting thousands of routers.\n- The vulnerabilities, CVE-2024-40890 and CVE-2024-40891, allow hackers to execute arbitrary commands, leading to system compromise and data exfiltration.\n- Zyxel advises customers to replace vulnerable routers with newer models instead of providing patches, as the affected devices have reached end-of-life status.",
+      "keywords": [
+        "Zyxel",
+        "cybersecurity",
+        "vulnerabilities",
+        "routers",
+        "CVE-2024-40890",
+        "CVE-2024-40891",
+        "data exfiltration",
+        "end-of-life products"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-05T10:08:19.000Z"
+    },
+    {
       "title": "European AI startups raised $8 billion in 2024",
       "link": "https://techcrunch.com/2025/02/04/european-ai-startups-raised-8-billion-in-2024/",
       "author": "Romain Dillet",
@@ -1128,30 +1152,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-02-04T10:00:00.000Z"
-    },
-    {
-      "title": "SoftBank-backed billionaire to invest $230M in Indian AI startup Krutrim",
-      "link": "https://techcrunch.com/2025/02/04/softbank-backed-billionaire-to-invest-230m-in-indian-ai-startup-krutrim/",
-      "author": "Manish Singh",
-      "thumbnail": null,
-      "summary": "- Ola founder Bhavish Aggarwal is investing $230 million into Krutrim, an AI startup he founded.\n- The investment is part of a goal to raise $1.15 billion by next year, with Krutrim aiming to build India’s largest supercomputer.\n- Krutrim has released a 12-billion parameter language model, Krutrim-2, showing high performance in processing Indian languages, with noted successes in sentiment analysis and code generation.\n- The startup has also opened sourced several models optimized for Indian languages, hoping to foster collaboration within the Indian AI community.",
-      "keywords": [
-        "investment",
-        "AI startup",
-        "Krutrim",
-        "Bhavish Aggarwal",
-        "SoftBank",
-        "Indian languages",
-        "language model",
-        "supercomputer"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-04T09:19:10.000Z"
     }
   ]
 }
