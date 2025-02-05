@@ -4,6 +4,51 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Ransomware payments dropped in 2024 as victims refused to pay hackers",
+      "link": "https://techcrunch.com/2025/02/05/ransomware-payments-dropped-in-2024-as-victims-refused-to-pay-hackers/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Ransomware payments fell by over 35% in 2024, totaling $814 million, down from $1.25 billion in 2023.\n- The number of victims refusing to pay increased, with demands from hackers 53% higher than actual payments during the second half of 2024.\n- The decline is attributed to increased law enforcement actions and better international collaboration against ransomware gangs.",
+      "keywords": [
+        "ransomware",
+        "payments",
+        "victims",
+        "cybersecurity",
+        "Chainalysis",
+        "hackers"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-05T18:58:34.000Z"
+    },
+    {
+      "title": "Stripe makes $1.1 billion crypto bet as it closes on Bridge acquisition",
+      "link": "https://techcrunch.com/2025/02/05/stripe-makes-1-1-billion-crypto-bet-as-it-closes-on-bridge-acquisition/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-652146145.jpg?w=1024",
+      "summary": "- Stripe has completed a $1.1 billion acquisition of stablecoin platform Bridge on February 5, 2025.\n- This acquisition marks Stripe's largest purchase to date and signifies a strong emphasis on the cryptocurrency market.\n- Bridge, co-founded by Zach Abrams and Sean Yu, provides an API for companies to accept stablecoins and had previously raised $58 million with a valuation of $200 million in 2024.\n- Patrick Collison, Stripe's CEO, noted the swift adoption of stablecoin technology, suggesting a widespread future need for stablecoin strategies in moving money.\n- Last year, Stripe enabled crypto purchases in the EU and introduced a Pay with Crypto feature for merchants to accept stablecoins.",
+      "keywords": [
+        "Stripe",
+        "Bridge",
+        "cryptocurrency",
+        "stablecoin",
+        "acquisition",
+        "fintech",
+        "Patrick Collison"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-05T18:46:24.000Z"
+    },
+    {
       "title": "The Elon Musk Act aims to ban ‘special government employees’ from having federal contracts",
       "link": "https://techcrunch.com/2025/02/05/the-elon-musk-act-aims-to-ban-special-government-employees-from-having-federal-contracts/",
       "author": "Rebecca Bellan",
@@ -1097,55 +1142,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-02-04T16:18:18.000Z"
-    },
-    {
-      "title": "LogicStar is building AI agents for app maintenance",
-      "link": "https://techcrunch.com/2025/02/04/logicstar-is-building-ai-agents-for-app-maintenance/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Swiss startup [LogicStar](https://logicstar.ai/) focuses on developing AI agents for autonomous app maintenance, securing $3 million in pre-seed funding.\n- CEO Boris Paskalev emphasizes the goal to resolve software bugs more effectively than current AI models by utilizing a test-driven development approach.\n- The startup's technology currently supports Python, with plans to expand to Typescript, Javascript, and Java, targeting enterprises for implementation.",
-      "keywords": [
-        "LogicStar",
-        "AI agents",
-        "app maintenance",
-        "software",
-        "pre-seed funding",
-        "Boris Paskalev",
-        "test-driven development",
-        "technology",
-        "Python",
-        "enterprise solutions"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-04T16:11:25.000Z"
-    },
-    {
-      "title": "Two space startups have merged to create the next generation of telescopes",
-      "link": "https://techcrunch.com/2025/02/04/two-space-startups-have-merged-to-create-the-next-generation-of-telescopes/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- OurSky and PlaneWave Instruments are merging to form a new company called Observable Space.\n- The merger aims to create more user-friendly telescopes and integrate various components for ease of use.\n- Observable Space has already raised $11 million and counts NASA and the U.S. Space Force among its customers.",
-      "keywords": [
-        "space",
-        "telescopes",
-        "startups",
-        "Observable Space",
-        "merger",
-        "OurSky",
-        "PlaneWave Instruments"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-04T16:00:00.000Z"
     }
   ]
 }
