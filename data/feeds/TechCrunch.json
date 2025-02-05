@@ -4,6 +4,28 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Why IQ is a poor test for AI",
+      "link": "https://techcrunch.com/2025/02/05/why-iq-is-a-poor-test-for-ai/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- OpenAI CEO Sam Altman noted AI's rapid improvement in IQ over recent years, suggesting an increase of about one standard deviation of IQ annually.\n- Experts criticize IQ as a misleading measure for AI capabilities, emphasizing that IQ tests are based on human intelligence criteria, which do not apply to AI.\n- Sandra Wachter points out the biases and limitations of IQ tests, arguing they oversimplify human intelligence and can lead to incorrect assumptions about AI's capabilities.\n- AI potentially has an advantage on IQ tests due to its ability to process and memorize vast amounts of information from training data.\n- Experts call for the development of better testing measures for AI that account for its unique problem-solving approaches, as current IQ tests are designed primarily for human evaluation.",
+      "keywords": [
+        "AI",
+        "IQ",
+        "intelligence",
+        "testing",
+        "capacity",
+        "human comparison"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-05T20:47:43.000Z"
+    },
+    {
       "title": "Ransomware payments dropped in 2024 as victims refused to pay hackers",
       "link": "https://techcrunch.com/2025/02/05/ransomware-payments-dropped-in-2024-as-victims-refused-to-pay-hackers/",
       "author": null,
@@ -1117,31 +1139,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-04T16:23:45.000Z"
-    },
-    {
-      "title": "Deepfake videos are getting shockingly good",
-      "link": "https://techcrunch.com/2025/02/04/deepfake-videos-are-getting-shockingly-good/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- Researchers from ByteDance demonstrated a new AI system, [OmniHuman-1](https://omnihuman-lab.github.io/), which generates highly realistic deepfake videos.\n- Unlike previous deepfakes, OmniHuman-1 can produce convincing videos using just one reference image and audio.\n- The system shows significant improvements but still struggles with low-quality images and certain poses.\n- Deepfakes have been part of spreading misinformation and financial fraud, causing substantial losses in recent years.\n- An open letter from the AI community calls for strict regulations on deepfakes; some states are enacting laws against AI impersonation.\n- Public concern is rising as a survey indicates 60% of people encountered deepfakes in the past year, with many fearing they could be misled.",
-      "keywords": [
-        "deepfake",
-        "AI",
-        "technology",
-        "ByteDance",
-        "OmniHuman-1",
-        "fraud",
-        "misinformation",
-        "regulation",
-        "public concern"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-04T16:18:18.000Z"
     }
   ]
 }
