@@ -4,6 +4,144 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "GitHub Copilot brings mockups to life by generating code from images",
+      "link": "https://techcrunch.com/2025/02/06/github-copilot-brings-mockups-to-life-by-generating-code-from-images/",
+      "author": "Paul Sawers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/VisionforCopilotnotextoverlay-ezgif.com-video-to-gif-converter.gif?w=680",
+      "summary": "- GitHub introduces Vision for Copilot, allowing users to generate code from images like screenshots and diagrams.\n- New feature includes 'next edit suggestions' that predicts the next code edit based on recent edits.\n- Copilot Edits graduates to general availability with new 'agent mode' for multi-file edits, aiming for more automation and intuitiveness in coding tasks.",
+      "keywords": [
+        "GitHub",
+        "Copilot",
+        "AI",
+        "programming",
+        "automation",
+        "software development"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 8,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-02-06T17:00:00.000Z"
+    },
+    {
+      "title": "RPLY is a new AI assistant that responds to missed texts",
+      "link": "https://techcrunch.com/2025/02/06/rply-is-a-new-ai-assistant-that-responds-to-missed-texts/",
+      "author": "Molly Cantillon",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/RPLY-messages.png?w=423",
+      "summary": "- RPLY is a new Mac app aimed at helping users achieve 'inbox zero' on iMessage.\n- The app uses AI to identify missed texts and suggests responses if messages go unreplied for over 24 hours.\n- Created by Molly Cantillon, a Stanford dropout, RPLY is designed to reduce 'text debt' and improve genuine connections.\n- It analyzes user text history to craft replies that match writing style and personality.\n- RPLY includes features like filtering unanswered messages, displaying response statistics, and tracking inbox status.\n- The app has attracted 1,000 paid users and targets professionals overwhelmed by messages.\n- Privacy measures include a strict zero data retention policy and options for local processing on-device.\n- Currently exclusive to macOS, with plans for potential future expansion to other platforms.",
+      "keywords": [
+        "RPLY",
+        "AI assistant",
+        "iMessage",
+        "texting",
+        "Molly Cantillon",
+        "inbox zero",
+        "text debt",
+        "privacy",
+        "macOS",
+        "communication"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-06T17:00:00.000Z"
+    },
+    {
+      "title": "Keyboard maker suspends U.S. shipments over Trump tariffs on Chinese goods",
+      "link": "https://techcrunch.com/2025/02/06/keyboard-maker-suspends-u-s-shipments-over-trump-tariffs-on-chinese-goods/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Qwertykeys suspends all U.S. product shipments due to new Trump administration tariffs.\n- The decision follows a February 1 announcement of 10% tariffs on imported Chinese goods.\n- All keyboards from China to the U.S. now subject to 45% tariffs at full value, replacing prior exemptions.\n- DHL introduces a “tariff deposit” and a new $21 package processing fee affecting shipments.\n- Qwertykeys is one of the first Chinese companies to halt shipments in response to these tariff increases, impacting smaller companies with tighter margins.",
+      "keywords": [
+        "tariffs",
+        "Qwertykeys",
+        "shipping",
+        "Trump administration",
+        "Chinese goods",
+        "mechanical keyboards"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-06T16:43:51.000Z"
+    },
+    {
+      "title": "Flashes, a photo-sharing app for Bluesky, opens beta",
+      "link": "https://techcrunch.com/2025/02/06/flashes-a-photo-sharing-app-for-bluesky-opens-beta/",
+      "author": "Sarah Perez",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/flashes-app.jpg?w=348",
+      "summary": "- Flashes, an Instagram alternative on Bluesky, launched its beta for testers.\n- The app supports photo posts of up to four images and videos of one minute.\n- It filters Bluesky’s timeline to show posts with media, allowing users to switch between Bluesky feeds.\n- Built by Sebastian Vogelsang, Flashes reuses code from his previous app, Skeets, which has over 30,000 users.\n- As of now, Bluesky has nearly 31 million users and 1 billion posts.\n- The beta faced technical issues but saw 3,500 sign-ups in the first hour.",
+      "keywords": [
+        "Flashes",
+        "photo-sharing app",
+        "Bluesky",
+        "beta",
+        "Sebastian Vogelsang",
+        "AT Protocol",
+        "Instagram alternative",
+        "social networking",
+        "tech news"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-06T16:39:16.000Z"
+    },
+    {
+      "title": "Tinder revamps ‘Explore’ page to connect people with similar dating intentions",
+      "link": "https://techcrunch.com/2025/02/06/tinder-updates-explore-with-new-categories-to-help-daters-find-users-with-similar-dating-intentions/",
+      "author": "Lauren Forristal",
+      "thumbnail": null,
+      "summary": "- Tinder updated its Explore page with new categories: “Non-Monogamy,” “Serious Dater,” “Short-Term Fun,” “Long-Term Partner,” and “New Friends.”\n- New categories will help users find matches based on dating intentions and compete with Bumble BFF for friendship connections.\n- Update ahead of Valentine’s Day aims to attract users looking for dates for the occasion.",
+      "keywords": [
+        "Tinder",
+        "Explore page",
+        "dating app",
+        "dating intentions",
+        "Valentine's Day",
+        "Loud Looking"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-06T16:18:02.000Z"
+    },
+    {
+      "title": "OpenAI co-founder John Schulman leaves Anthropic after just five months",
+      "link": "https://techcrunch.com/2025/02/06/openai-co-founder-john-schulman-leaves-anthropic-after-just-five-months/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1495979689.jpg?w=1024",
+      "summary": "- John Schulman, co-founder of OpenAI, has left AI startup Anthropic after five months.\n- He joined Anthropic in August 2024 to focus on AI alignment and hands-on technical work.\n- Schulman's departure was confirmed by multiple reports; Anthropic's chief science officer expressed support for his decision.",
+      "keywords": [
+        "John Schulman",
+        "OpenAI",
+        "Anthropic",
+        "AI alignment",
+        "ChatGPT"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-06T16:15:09.000Z"
+    },
+    {
       "title": "Superlogic raises $13.7M at a $200M valuation to help consumers use reward points toward cool ‘experiences’",
       "link": "https://techcrunch.com/2025/02/06/superlogic-raises-13-7m-at-a-200m-valuation-to-help-consumers-use-reward-points-toward-cool-experiences/",
       "author": "Mary Ann Azevedo",
@@ -1025,141 +1163,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-02-05T15:06:02.000Z"
-    },
-    {
-      "title": "Cherry Ventures raises a new $500M fund for early stage and beyond, but will it be enough?",
-      "link": "https://techcrunch.com/2025/02/05/cherry-ventures-raises-a-new-500m-fund-for-early-stage-and-beyond-but-will-it-be-enough/",
-      "author": "Mike Butcher",
-      "thumbnail": null,
-      "summary": "- Cherry Ventures has closed a $500 million fund for early-stage and follow-on rounds at Series B and beyond.\n- The firm aims to build the \"first trillion dollar company in Europe,\" challenging the perception of Europe’s VC landscape.\n- In comparison, European AI startups raised $8 billion in 2024, while U.S. AI startups secured $97 billion.\n- Venture capital funding for U.K. startups fell by 50% to approximately $2.9 billion in October.\n- Cherry Ventures did not feature in last year’s HEC-Dow Jones Venture Capital Performance Ranking.\n- The VC’s previous fund was €300 million ($312 million) announced in early 2022.\n- Notable LPs in the new fund include entrepreneurs from Wolt, Supercell, and Flix.",
-      "keywords": [
-        "Cherry Ventures",
-        "venture capital",
-        "fundraising",
-        "European startups",
-        "AI startups",
-        "investment"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-05T14:10:27.000Z"
-    },
-    {
-      "title": "CodeSignal wants you to practice soft skills with its AI-powered guide",
-      "link": "https://techcrunch.com/2025/02/05/codesignal-wants-you-to-practice-soft-skills-with-its-ai-powered-guide/",
-      "author": "Ivan Mehta",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/CodeSignal-Conversation-Simulation-Feedback.jpg?w=680",
-      "summary": "- CodeSignal launches soft skill courses on its platform, using AI to practice professional skills and work-life scenarios.\n- The platform offers over 100 courses covering topics like leadership, sales training, and negotiation tactics.\n- Users can interact with an AI assistant for feedback, with extended features available for a fee of $24.99.",
-      "keywords": [
-        "CodeSignal",
-        "AI",
-        "soft skills",
-        "training",
-        "leadership",
-        "communication",
-        "courses"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-05T14:00:00.000Z"
-    },
-    {
-      "title": "Shein hit with consumer protection action in EU as bloc unboxes strategy to tackle low-cost ecommerce risks",
-      "link": "https://techcrunch.com/2025/02/05/shein-hit-with-consumer-protection-action-in-eu-as-bloc-unboxes-strategy-to-tackle-low-cost-ecommerce-risks/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "[ Shein, the Chinese ecommerce giant, is facing scrutiny from the EU's Consumer Protection Cooperation Network (CPCN) regarding consumer protection rules. ]\n[ The EU launched a coordinated action referencing various directives due to concerns over products failing to meet safety standards. ]\n[ The EU reported that approximately 4.6 billion low-value consignments entered the market, raising health, safety, environmental, and competition issues. ]",
-      "keywords": [
-        "Shein",
-        "EU",
-        "consumer protection",
-        "ecommerce",
-        "CPCN",
-        "safety standards",
-        "low-value consignments",
-        "environmental concerns"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-05T13:43:56.000Z"
-    },
-    {
-      "title": "Modern Synthesis is making compostable materials that last a lifetime",
-      "link": "https://techcrunch.com/2025/02/05/modern-synthesis-is-making-compostable-materials-that-last-a-lifetime/",
-      "author": "Tim De Chant",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/modernsynthesis1.jpg?w=680",
-      "summary": "- Jen Keane's startup, Modern Synthesis, innovatively grows and processes nanocellulose fibers for sustainable materials.\n- The materials created are biodegradable and can mimic synthetic materials like leather while aiming for a lifespan of 100 years.\n- Modern Synthesis closed a $5.5 million funding round to increase production and explore applications like smart textiles and car dashboards.",
-      "keywords": [
-        "sustainable materials",
-        "biodegradable",
-        "nanocellulose",
-        "smart textiles",
-        "fashion industry"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 9,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-05T13:00:00.000Z"
-    },
-    {
-      "title": "Former Whoop exec’s new app Alma uses AI for all things nutrition",
-      "link": "https://techcrunch.com/2025/02/05/former-whoop-execs-new-app-alma-uses-ai-for-all-things-nutrition/",
-      "author": "Rami Alhamad",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Features-Profile.jpeg?w=680",
-      "summary": "- Former VP of product at Whoop, Rami Alhamad, launched an iOS app called Alma, which offers AI-driven nutrition tracking.\n- The app allows users to interact via text or voice to log food, or take pictures for dish identification.\n- Users can receive meal suggestions tailored to their nutritional goals and receive diet improvement tips based on intake scores.\n- Alma is expected to generate revenue through a monthly subscription of $19 or an annual fee of $199.\n- The app aims to simplify nutrition tracking compared to existing solutions like MyFitnessPal.",
-      "keywords": [
-        "nutrition",
-        "AI",
-        "Alma",
-        "Rami Alhamad",
-        "food tracking",
-        "health app",
-        "subscription model"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-05T12:00:00.000Z"
-    },
-    {
-      "title": "Waymo just popped up on the Uber app in Austin ahead of robotaxi launch",
-      "link": "https://techcrunch.com/2025/02/05/waymo-just-popped-up-on-the-uber-app-in-austin-ahead-of-robotaxi-launch/",
-      "author": "Kirsten Korosec",
-      "thumbnail": null,
-      "summary": "- Uber customers in Austin can now express interest in a Waymo robotaxi through the app.\n- The interest list is part of a partnership between Uber and Waymo to launch a robotaxi service in Austin and Atlanta in early 2025.\n- Waymo's service will allow Uber users to hail autonomous Jaguar I-PACE vehicles in a designated area of Austin and will expand over time.",
-      "keywords": [
-        "Waymo",
-        "Uber",
-        "robotaxi",
-        "autonomous vehicles",
-        "Austin",
-        "partnership"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-05T11:30:00.000Z"
     }
   ]
 }
