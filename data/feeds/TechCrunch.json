@@ -4,6 +4,34 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Researchers Benchmark AI Reasoning Using NPR's Sunday Puzzle",
+      "link": "https://techcrunch.com/2025/02/05/these-researchers-used-npr-sunday-puzzle-questions-to-benchmark-ai-reasoning-models/",
+      "author": "Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Screenshot-2025-02-06-at-12.41.18AM.png?w=680",
+      "summary": "- NPR's Sunday Puzzle provides a unique benchmark for testing AI reasoning capabilities.\n- Researchers from various colleges created a benchmark using around 600 riddles from the puzzle.\n- AI models like OpenAI’s o1 and DeepSeek’s R1 were tested, revealing unexpected behaviors such as 'giving up' or providing incorrect answers.\n- The best-performing model achieved a score of 59%, while higher reasoning effort models performed slightly lower.\n- This study aims to create accessible reasoning benchmarks that don’t require advanced knowledge, promoting better understanding of AI capabilities.",
+      "keywords": [
+        "AI",
+        "reasoning",
+        "benchmark",
+        "NPR",
+        "puzzle",
+        "OpenAI",
+        "research",
+        "Wellesley College",
+        "Oberlin College",
+        "University of Texas",
+        "Northeastern University",
+        "Cursor"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-06T05:47:27.000Z"
+    },
+    {
       "title": "Boston Dynamics joins forces with its former CEO to speed the learning of its Atlas humanoid robot",
       "link": "https://techcrunch.com/2025/02/05/boston-dynamics-joins-forces-with-its-former-ceo-to-speed-the-learning-of-its-atlas-humanoid-robot/",
       "author": "Brian Heater",
@@ -1128,29 +1156,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-02-04T18:47:18.000Z"
-    },
-    {
-      "title": "TED Talks has put out an all-call for a new leader",
-      "link": "https://techcrunch.com/2025/02/04/ted-talks-has-put-out-an-all-call-for-a-new-leader/",
-      "author": "Chris Anderson",
-      "thumbnail": null,
-      "summary": "- Chris Anderson, who has run TED for 25 years, announces an open call for a new leader.\n- TED is known for its diverse TED Talks featuring figures like Bill Gates and Elon Musk.\n- The organization includes live events, a media empire, and a charity with a $25 million reserve.\n- The applicant process is open to anyone, and TED operates as a nonprofit.",
-      "keywords": [
-        "TED Talks",
-        "leadership",
-        "Chris Anderson",
-        "nonprofit",
-        "open call",
-        "media",
-        "charity"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-04T18:42:32.000Z"
     }
   ]
 }

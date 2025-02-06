@@ -1,5 +1,255 @@
 [
   {
+    "title": "S Korea nuclear plant operator bans ChatGPT, DeepSeek",
+    "id": "1d4ecjl1snxi9c",
+    "summary": "- Korea Hydro & Nuclear Power Co. (KHNP) has banned AI services like ChatGPT and DeepSeek, effective February 1.\n- The ban aims to protect sensitive data and personal information.\n- KHNP becomes the first state-owned company in South Korea to block the DeepSeek AI platform.",
+    "thumbnails": [
+      "https://cdn.techinasia.com/wp-content/uploads/2025/02/1738558396_shutterstock_2577287949-scaled.jpg"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 5
+    },
+    "keywords": [
+      "Korea Hydro & Nuclear Power",
+      "KHNP",
+      "ChatGPT",
+      "DeepSeek",
+      "AI services ban",
+      "data protection",
+      "South Korea"
+    ],
+    "sources": [
+      {
+        "title": "S Korea nuclear plant operator bans ChatGPT, DeepSeek",
+        "link": "https://www.techinasia.com/news/korea-nuclear-plant-operator-bans-chatgpt-deepseek"
+      }
+    ],
+    "lastUpdated": "2025-02-06T06:16:38.380Z"
+  },
+  {
+    "title": "Uber Q4 2024 profit misses expectations, shares fall",
+    "id": "1x1zroe1cyphdn",
+    "summary": "- Uber reported a profit of 23 cents per share, missing expectations of 50 cents.\n- Shares fell by 6% in pre-market trading, influenced by rising costs.\n- Total revenue increased by 20% year-over-year to $11.96 billion, surpassing expectations.\n- Costs rose 20.5% to $11.19 billion, leading to an operating income of $770 million.\n- Ride-hailing revenue grew by 25% and delivery revenue by 21%, both exceeding estimates.\n- Gross bookings for the quarter were $44.2 billion, supported by strong demand for commutes and holiday deliveries.\n- For Q1, Uber estimates gross bookings between $42 billion and $43.5 billion, slightly lower due to currency fluctuations.\n- CEO Dara Khosrowshahi aims to boost demand in 2025 by offering competitive rates and controlling insurance costs.",
+    "thumbnails": [
+      "https://cdn.techinasia.com/wp-content/uploads/2024/12/1734778019_shutterstock_2534108955-scaled.jpg"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 6,
+      "novelty": 5,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "Uber",
+      "Q4 2024",
+      "profits",
+      "financial results",
+      "ride-hailing",
+      "revenue",
+      "CEO Dara Khosrowshahi",
+      "gross bookings"
+    ],
+    "sources": [
+      {
+        "title": "Uber Q4 2024 profit misses expectations, shares fall",
+        "link": "https://www.techinasia.com/news/uber-q4-2024-profit-misses-expectations-shares-fall"
+      }
+    ],
+    "lastUpdated": "2025-02-06T06:16:38.380Z"
+  },
+  {
+    "title": "AI Model s1 Competes with OpenAI’s o1 at a Fraction of the Cost",
+    "id": "0m7hvgs1ytkn74",
+    "summary": "- AI researchers from Stanford and the University of Washington trained the AI reasoning model **s1** for under **$50** in cloud compute credits.\n- **s1** performs comparably to advanced models like OpenAI's **o1** and DeepSeek's **R1**, particularly excelling in math and coding tests.\n- The model, distilled from Google's Gemini 2.0 Flash Thinking Experimental, is available on [GitHub](https://github.com/simplescaling/s1).\n- It was trained on a dataset of **1,000** curated questions using cost-effective supervised fine-tuning (SFT).\n- **s1** achieved strong benchmark results after a training time of less than **30 minutes** on **16 Nvidia H100 GPUs**, with total compute costs around **$20**.\n- Major companies like Meta, Google, and Microsoft are projected to invest hundreds of billions in AI infrastructure by **2025**.\n- The model was introduced on **Feb. 2** and reached state-of-the-art performance at a low training cost of **$6**.\n- Training took **26 minutes** and utilized a distilled dataset from **Qwen2.5**.\n- Innovations like **s1** promote experimentation with limited resources, raising discussions on ethical issues regarding **distilling** datasets from existing AI models.",
+    "thumbnails": [
+      "https://cdn.techinasia.com/wp-content/uploads/2024/04/1712121300_Featured-image-These-are-Asias-most-active-investors-in-AI.jpg"
+    ],
+    "scores": {
+      "scale": 6,
+      "impact": 7.5,
+      "novelty": 7,
+      "longTermSignificance": 5
+    },
+    "keywords": [
+      "ai",
+      "reasoning model",
+      "openai",
+      "s1",
+      "machine learning",
+      "distillation",
+      "google",
+      "stanford",
+      "university of washington",
+      "tech news",
+      "training cost",
+      "ethics",
+      "distealing",
+      "nvidia h100",
+      "qwen2.5"
+    ],
+    "sources": [
+      {
+        "title": "Researchers created an open rival to OpenAI’s o1 ‘reasoning’ model for under $50",
+        "link": "https://techcrunch.com/2025/02/05/researchers-created-an-open-rival-to-openais-o1-reasoning-model-for-under-50/"
+      },
+      {
+        "title": "AI model s1 rivals OpenAI’s o1 with $6 training cost",
+        "link": "https://www.techinasia.com/news/ai-model-s1-rivals-openais-o1-with-6-training-cost"
+      }
+    ],
+    "lastUpdated": "2025-02-06T06:16:38.379Z"
+  },
+  {
+    "title": "Researchers Benchmark AI Reasoning Using NPR's Sunday Puzzle",
+    "id": "1qmkwrl1t1mqm1",
+    "summary": "- NPR's Sunday Puzzle provides a unique benchmark for testing AI reasoning capabilities.\n- Researchers from various colleges created a benchmark using around 600 riddles from the puzzle.\n- AI models like OpenAI’s o1 and DeepSeek’s R1 were tested, revealing unexpected behaviors such as 'giving up' or providing incorrect answers.\n- The best-performing model achieved a score of 59%, while higher reasoning effort models performed slightly lower.\n- This study aims to create accessible reasoning benchmarks that don’t require advanced knowledge, promoting better understanding of AI capabilities.",
+    "thumbnails": [
+      "https://techcrunch.com/wp-content/uploads/2025/02/Screenshot-2025-02-06-at-12.41.18AM.png?w=680"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "AI",
+      "reasoning",
+      "benchmark",
+      "NPR",
+      "puzzle",
+      "OpenAI",
+      "research",
+      "Wellesley College",
+      "Oberlin College",
+      "University of Texas",
+      "Northeastern University",
+      "Cursor"
+    ],
+    "sources": [
+      {
+        "title": "Researchers Benchmark AI Reasoning Using NPR's Sunday Puzzle",
+        "link": "https://techcrunch.com/2025/02/05/these-researchers-used-npr-sunday-puzzle-questions-to-benchmark-ai-reasoning-models/"
+      }
+    ],
+    "lastUpdated": "2025-02-06T06:16:38.379Z"
+  },
+  {
+    "title": "MicroStrategy rebrands as Strategy",
+    "id": "1lppxtr095oqce",
+    "summary": "- Strategy, formerly MicroStrategy, has enhanced its bitcoin acquisition efforts.\n- The firm reported holding 471,107 bitcoins worth US$20.5 billion, approximately 2% of the total bitcoin supply.\n- In its Q4 update, it disclosed completing nearly US$20 billion of its US$42 billion capital acquisition strategy.",
+    "thumbnails": [
+      "https://cdn.techinasia.com/wp-content/uploads/2024/12/1733806747_shutterstock_1649373532-scaled.jpg"
+    ],
+    "scores": {
+      "scale": 8,
+      "impact": 7,
+      "novelty": 6,
+      "longTermSignificance": 5
+    },
+    "keywords": [
+      "MicroStrategy",
+      "Strategy",
+      "bitcoin",
+      "acquisition",
+      "financial update"
+    ],
+    "sources": [
+      {
+        "title": "MicroStrategy rebrands as Strategy",
+        "link": "https://www.techinasia.com/news/microstrategy-rebrands-strategy"
+      }
+    ],
+    "lastUpdated": "2025-02-06T06:16:38.378Z"
+  },
+  {
+    "title": "China’s AgiBot, Kazakhstan to set up first robotics center",
+    "id": "1uytiup1phqjpl",
+    "summary": "- AgiBot is establishing its first manufacturing facility in Central Asia in partnership with Kazakhstan.\n- The project includes production plants, a robotic training data center, and an R&D center.\n- This marks the first localization of Chinese robotics production in Kazakhstan, aligning with the country’s strategy to diversify its economy through AI and advanced manufacturing.",
+    "thumbnails": [
+      "https://cdn.techinasia.com/wp-content/uploads/2024/12/1734940030_f8cd4606e3ac467b5ae3be835bee2853.jpg"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 6,
+      "novelty": 5,
+      "longTermSignificance": 5
+    },
+    "keywords": [
+      "AgiBot",
+      "Kazakhstan",
+      "robotics",
+      "manufacturing",
+      "AI",
+      "advanced manufacturing"
+    ],
+    "sources": [
+      {
+        "title": "China’s AgiBot, Kazakhstan to set up first robotics center",
+        "link": "https://www.techinasia.com/news/agibot-kazakhstan-set-up-robotics-center"
+      }
+    ],
+    "lastUpdated": "2025-02-06T06:16:38.378Z"
+  },
+  {
+    "title": "This copy trading app wants to produce the ‘next five Warren Buffetts’",
+    "id": "0d4jep31uhn9k7",
+    "summary": "- Dub is an influencer-driven investment app allowing users to copy portfolios of famous traders for a fee.\n- Users can access portfolios of notable figures like Rep. Nancy Pelosi and Bill Ackman for $9.99/month or $89.99/year.\n- The platform aims to identify and promote the next generation of top fund managers through its creator program.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 6,
+      "novelty": 8,
+      "longTermSignificance": 5
+    },
+    "keywords": [
+      "investment",
+      "copy trading",
+      "influencer",
+      "Gen Z",
+      "financial advice"
+    ],
+    "sources": [
+      {
+        "title": "This copy trading app wants to produce the ‘next five Warren Buffetts’",
+        "link": "https://www.fastcompany.com/91273540/this-copy-trading-app-wants-to-produce-the-next-five-warren-buffetts?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
+      }
+    ],
+    "lastUpdated": "2025-02-06T06:16:38.377Z"
+  },
+  {
+    "title": "Amazon plans to cut 15% of middle management by Q1 2025",
+    "id": "1jnooz71lqdfxx",
+    "summary": "[Amazon plans to reduce its middle management by 15% by the first quarter of 2025.]\n[This decision is part of a broader strategy to streamline operations and improve efficiency.]\n[The layoffs are expected to impact a significant number of roles within the company.]",
+    "thumbnails": [
+      "https://cdn.techinasia.com/wp-content/uploads/2024/12/1735040262_shutterstock_2489772761-scaled.jpg"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 5,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "Amazon",
+      "layoffs",
+      "middle management",
+      "2025",
+      "efficiency",
+      "operations"
+    ],
+    "sources": [
+      {
+        "title": "Amazon plans to cut 15% of middle management by Q1 2025",
+        "link": "https://www.techinasia.com/news/amazon-plans-cut-15-middle-management-q1-2025"
+      }
+    ],
+    "lastUpdated": "2025-02-06T06:16:38.377Z"
+  },
+  {
     "title": "Google Lifts Ban on AI Weapons and Surveillance in Updated Guidelines",
     "id": "1ln2pns14ej0gh",
     "summary": "- Google removed its pledge to not develop AI for weapons or surveillance from its public AI principles page on February 4, 2025.\n- Change first reported by Bloomberg, indicating an erasure of the section on applications the company would not pursue.\n- Updated AI principles highlight commitment to mitigating harmful outcomes and supporting national security despite employee protests over military contracts.\n- On Feb. 5, guidelines were updated to remove commitment to avoid harmful AI applications.\n- Updated principles focus on evaluating AI projects based on risk-benefit analysis and alignment with international law and human rights.\n- Previously, Google pledged to avoid technologies that could cause harm or violate norms, which is now omitted from their principles.",
@@ -930,37 +1180,6 @@
       }
     ],
     "lastUpdated": "2025-02-06T00:49:13.824Z"
-  },
-  {
-    "title": "Researchers created an open rival to OpenAI’s o1 ‘reasoning’ model for under $50",
-    "id": "0m7hvgs1ytkn74",
-    "summary": "- AI researchers from Stanford and the University of Washington trained an AI reasoning model called s1 for under $50 in cloud compute credits.\n- s1 performs similarly to advanced models like OpenAI's o1 and DeepSeek's R1, excelling in math and coding tests.\n- The model was distilled from Google's Gemini 2.0 Flash Thinking Experimental and is available on [GitHub](https://github.com/simplescaling/s1).\n- The training process involved creating a dataset of 1,000 curated questions and using supervised fine-tuning (SFT), which was cheaper than methods used by competitors.\n- S1 achieved strong benchmark results after a training time of less than 30 minutes on 16 Nvidia H100 GPUs, with compute costs estimated at about $20.\n- The investment in AI infrastructure from major companies like Meta, Google, and Microsoft is expected to reach hundreds of billions in 2025.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 6,
-      "impact": 7,
-      "novelty": 8,
-      "longTermSignificance": 5
-    },
-    "keywords": [
-      "AI",
-      "reasoning model",
-      "OpenAI",
-      "s1",
-      "machine learning",
-      "distillation",
-      "Google",
-      "Stanford",
-      "University of Washington",
-      "tech news"
-    ],
-    "sources": [
-      {
-        "title": "Researchers created an open rival to OpenAI’s o1 ‘reasoning’ model for under $50",
-        "link": "https://techcrunch.com/2025/02/05/researchers-created-an-open-rival-to-openais-o1-reasoning-model-for-under-50/"
-      }
-    ],
-    "lastUpdated": "2025-02-06T00:49:13.823Z"
   },
   {
     "title": "Google Eliminates Diversity Hiring Goals Amid Conservative Pressure",
@@ -32484,99 +32703,5 @@
       }
     ],
     "lastUpdated": "2025-01-23T07:10:59.107Z"
-  },
-  {
-    "title": "Taiwan's UMC Projects Low Growth and Declines in Q1 Margin",
-    "id": "1j00u1t0fjtva6",
-    "summary": "- United Microelectronics Corp. (UMC) projects Q1 2025 gross margin may fall below 30%.\n- The decline is attributed to a 6.4 magnitude earthquake and a 4-6% drop in product prices.\n- Operations at UMC’s Southern Taiwan Science Park were disrupted, leading to employee evacuations.\n- Despite this, UMC forecasts a 10% growth in the global semiconductor industry in 2025, fueled by AI servers and increased demand for smartphones and computers.\n- UMC anticipates modest growth for the year 2025.\n- Factors influencing growth predictions include global market conditions and demand trends.\n- The company highlights challenges faced in the semiconductor industry.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/01/1737511213_UMC-Building.jpg",
-      "https://cdn.techinasia.com/wp-content/uploads/2025/01/1737607854_shutterstock_2570331349-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 7,
-      "novelty": 5.5,
-      "longTermSignificance": 4.5
-    },
-    "keywords": [
-      "umc",
-      "semiconductors",
-      "earthquake",
-      "taiwan",
-      "gross margin",
-      "product prices",
-      "ai servers",
-      "chip demand",
-      "chipmaker",
-      "growth forecast",
-      "2025"
-    ],
-    "sources": [
-      {
-        "title": "Taiwan’s chipmaker UMC forecasts Q1 margin below 30%",
-        "link": "https://www.techinasia.com/news/taiwans-umc-forecasts-q1-margin-drop-due-earthquake"
-      },
-      {
-        "title": "Taiwan’s chipmaker UMC forecasts low growth this year",
-        "link": "https://www.techinasia.com/news/taiwans-umc-forecasts-growth-2025"
-      }
-    ],
-    "lastUpdated": "2025-01-23T06:15:15.440Z"
-  },
-  {
-    "title": "ByteDance launches AI model Doubao 1.5 Pro",
-    "id": "0nwg9xi0pv0iqp",
-    "summary": "- ByteDance launched Doubao 1.5 Pro on January 22.\n- The AI model showcases advancements in AI technology amidst US export restrictions on advanced chips.\n- Doubao 1.5 Pro features a resource-efficient training method to improve performance and decrease costs.\n- The model utilizes a server cluster compatible with low-end chips, reducing infrastructure expenses.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/01/1737610123_shutterstock_2387540567-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "ByteDance",
-      "AI model",
-      "Doubao 1.5 Pro",
-      "TikTok",
-      "technology",
-      "export restrictions"
-    ],
-    "sources": [
-      {
-        "title": "ByteDance launches AI model Doubao 1.5 Pro",
-        "link": "https://www.techinasia.com/news/bytedance-launches-ai-model-doubao-15-pro"
-      }
-    ],
-    "lastUpdated": "2025-01-23T06:15:15.440Z"
-  },
-  {
-    "title": "Is TikTok a national security threat – or is the ban a smokescreen for superpower rivalry?",
-    "id": "0sou8nu0wyo2lc",
-    "summary": "- Concerns surrounding TikTok focus on potential national security threats due to user data possibly reaching the Chinese government.\n- Donald Trump’s approach includes urging a divestment of TikTok to U.S. ownership, which he suggests is influenced by his significant follower base.\n- The U.S. Supreme Court recently upheld opinions expressing national security concerns regarding TikTok.\n- TikTok has accessed accounts of journalists, raising issues about privacy, but broader allegations of data misuse remain largely theoretical.\n- Debate in the UK is ongoing, with some officials dismissing a nationwide ban despite recognizing security risks.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 6,
-      "novelty": 5,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "TikTok",
-      "national security",
-      "data privacy",
-      "superpower rivalry",
-      "US China relations"
-    ],
-    "sources": [
-      {
-        "title": "Is TikTok a national security threat – or is the ban a smokescreen for superpower rivalry?",
-        "link": "https://www.theguardian.com/technology/2025/jan/23/is-tiktok-a-national-security-threat-or-is-the-ban-a-smokescreen-for-superpower-rivalry"
-      }
-    ],
-    "lastUpdated": "2025-01-23T06:15:15.439Z"
   }
 ]
