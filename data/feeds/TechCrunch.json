@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Comstruct, a platform to digitize the construction industry, raises $13.5 million",
+      "link": "https://techcrunch.com/2025/02/06/comstruct-a-platform-to-digitize-the-construction-industry-raises-135-million/",
+      "author": "Romain Dillet",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Gotthard-Tunnel-CREDIT-IMPLENIA-Large.jpeg?w=680",
+      "summary": "- Munich-based startup Comstruct has raised $12.5 million in a Series A round led by GV and 20VC, with support from Booom and Puzzle Ventures.\n- Comstruct aims to digitize the procurement process in construction, which is currently very analog, by unifying materials orders from multiple suppliers onto one platform.\n- The platform has already integrated 800 material suppliers and covers 70-80% of requested suppliers in Switzerland, with plans to expand into Germany, Austria, and other countries.\n- Comstruct has four modules for ordering, digital delivery receipts, invoice reconciliation, and ESG reporting, implementing usage-based pricing.",
+      "keywords": [
+        "construction",
+        "digitization",
+        "startup",
+        "funding",
+        "procurement",
+        "software platform",
+        "Europe"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-06T10:06:04.000Z"
+    },
+    {
       "title": "Avelios nabs $31M led by Sequoia to fix the ailing world of healthcare IT",
       "link": "https://techcrunch.com/2025/02/06/avelios-nabs-31m-led-by-sequoia-to-fix-the-ailing-world-of-healthcare-it/",
       "author": "Christian Albrecht, Nicolas Jakob, Sebastian Krammer",
@@ -1133,30 +1156,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-02-04T20:45:20.000Z"
-    },
-    {
-      "title": "Hugging Face researchers aim to build an ‘open’ version of OpenAI’s deep research tool",
-      "link": "https://techcrunch.com/2025/02/04/hugging-face-researchers-aim-to-build-an-open-version-of-openais-deep-research-tool/",
-      "author": "Thomas Wolf",
-      "thumbnail": null,
-      "summary": "- Researchers at Hugging Face have developed an open version called Open Deep Research, based on OpenAI’s deep research tool.\n- OpenAI's original tool is part of a $200/month ChatGPT Pro plan and compiles research reports by crawling the web.\n- Open Deep Research incorporates OpenAI's o1 model and an open-source framework, allowing for autonomous web navigation and analysis.\n- Initial tests showed Open Deep Research achieving a GAIA benchmark score of 54%, compared to 67.36% for OpenAI’s tool.\n- A public demo was launched but faced high traffic issues, with users experiencing errors during testing.\n- The source code for Open Deep Research is available on GitHub for further development and user feedback.",
-      "keywords": [
-        "Hugging Face",
-        "OpenAI",
-        "deep research tool",
-        "artificial intelligence",
-        "open source",
-        "machine learning",
-        "benchmarking",
-        "public demo"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-04T20:32:31.000Z"
     }
   ]
 }
