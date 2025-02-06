@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "Google edits Super Bowl ad for AI that featured false information",
+      "link": "https://www.theguardian.com/technology/2025/feb/06/google-edits-super-bowl-ad-for-ai-that-featured-false-information",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Google edited an ad for its AI tool Gemini before the Super Bowl after it included false information about gouda cheese.\n- The ad claimed gouda accounts for \"50% to 60% of global cheese consumption,\" which was labeled an \"AI hallucination\" by a blogger.\n- Google remade the ad based on feedback from the cheesemonger featured in the clip, removing the false statistic.",
+      "keywords": [
+        "Google",
+        "AI",
+        "Gemini",
+        "Super Bowl",
+        "advertising",
+        "false information",
+        "gouda cheese"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-06T18:25:30.000Z"
+    },
+    {
       "title": "US Immigration is Gaming Google to Create a Mirage of Mass Deportations",
       "link": "https://www.theguardian.com/us-news/2025/feb/06/ice-us-immigration-deportations-google",
       "author": null,
@@ -1160,30 +1183,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-30T01:47:12.000Z"
-    },
-    {
-      "title": "Microsoft to report fourth-quarter earnings amid uproar over DeepSeek’s AI",
-      "link": "https://www.theguardian.com/technology/2025/jan/29/microsoft-q2-earnings-report",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Microsoft is set to report its second-quarter earnings for fiscal year 2025 on Wednesday, facing scrutiny over AI spending amid the DeepSeek controversy.\n- Wall Street anticipates $3.11 earnings per share and $68.9bn in revenue, an increase from the previous year’s $2.93 a share and $62bn.\n- The $600bn drop in Nvidia's market capitalization highlights the impacts of DeepSeek's AI model achieving similar results to US firms at lower costs.\n- Microsoft and OpenAI are probing whether DeepSeek-linked groups accessed OpenAI’s data improperly.\n- David Sacks of the White House suggested DeepSeek may have stolen US intellectual property related to AI.\n- Microsoft retains a “right of first refusal” with OpenAI following changes in their partnership status.",
-      "keywords": [
-        "Microsoft",
-        "DeepSeek",
-        "AI",
-        "earnings report",
-        "OpenAI",
-        "stock market",
-        "Nvidia",
-        "intellectual property"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-29T20:34:44.000Z"
     }
   ]
 }
