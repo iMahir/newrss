@@ -4,6 +4,28 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "Artificial news: How to create an AI anchor – video",
+      "link": "https://www.theguardian.com/technology/video/2025/feb/06/artificial-news-how-to-create-an-ai-anchor-video",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Channel 1 is a new AI-driven rolling news channel, with stories scripted, edited, and presented by AI.\n- It supports over 30 languages and can transmit customized news stories rapidly.\n- Raises questions about trust in AI news and the appeal of a non-human anchor in journalism.\n- The Guardian visited the creators in Los Angeles for insights and auditions.",
+      "keywords": [
+        "AI news",
+        "Channel 1",
+        "automated journalism",
+        "trust in media",
+        "news presentation",
+        "Los Angeles"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 9,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-06T10:03:28.000Z"
+    },
+    {
       "title": "Owner of spyware used in alleged WhatsApp breach ends contract with Italy",
       "link": "https://www.theguardian.com/technology/2025/feb/06/owner-of-spyware-used-in-alleged-whatsapp-breach-ends-contract-with-italy",
       "author": null,
@@ -1164,31 +1186,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-01-29T19:58:38.000Z"
-    },
-    {
-      "title": "DeepSeek blocked from some app stores in Italy amid questions on data use",
-      "link": "https://www.theguardian.com/technology/2025/jan/29/deepseek-blocked-some-app-stores-italy-questions-data-use",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- DeepSeek, a Chinese AI platform, is blocked from some app stores in Italy due to data handling concerns.\n- Italian and Irish regulators are demanding answers about citizens’ data usage by DeepSeek.\n- The app was reportedly removed from Apple and Google stores in Italy, with users receiving unavailability messages.\n- The Italian regulator, Garante, is investigating compliance with GDPR regulations and has given DeepSeek 20 days to respond.\n- DeepSeek claims to store personal information on secure servers in China and to use data to comply with legal obligations.\n- The UK government is monitoring potential national security threats from DeepSeek.\n- OpenAI is investigating allegations that DeepSeek may have used its AI models improperly.",
-      "keywords": [
-        "DeepSeek",
-        "AI platform",
-        "data privacy",
-        "Italy",
-        "app stores",
-        "GDPR",
-        "OpenAI",
-        "Chinese government",
-        "national security"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-01-29T18:20:57.000Z"
     }
   ]
 }
