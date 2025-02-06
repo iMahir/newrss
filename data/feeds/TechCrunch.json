@@ -4,6 +4,53 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "IMI becomes the latest British engineering firm to be hacked",
+      "link": "https://techcrunch.com/2025/02/06/imi-becomes-the-latest-british-engineering-firm-to-be-hacked/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2016/07/malware.png?w=1024",
+      "summary": "- British engineering company IMI disclosed a cybersecurity incident on February 6, 2025.\n- The firm reported unauthorized access to its systems and is engaging external cybersecurity experts.\n- IMI is complying with regulatory obligations but has not confirmed if any data was exfiltrated.\n- This follows a recent incident involving rival firm Smiths Group, which also faced unauthorized network access.",
+      "keywords": [
+        "cybersecurity",
+        "IMI",
+        "hacking",
+        "British engineering",
+        "Smiths Group",
+        "incident response",
+        "industrial automation"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-06T13:10:49.000Z"
+    },
+    {
+      "title": "Shein gets more questions from EU about DSA compliance",
+      "link": "https://techcrunch.com/2025/02/06/shein-gets-more-questions-from-eu-about-dsa-compliance/",
+      "author": "Natasha Lomas",
+      "thumbnail": null,
+      "summary": "- The EU has sent a new request for information (RFI) to Shein regarding compliance with the Digital Services Act (DSA).\n- The RFI seeks detailed information on risks related to illegal content, transparency of recommender systems, and data access for researchers.\n- Shein must respond by February 27; failure to comply could lead to penalties up to 6% of global turnover.\n- Concerns regarding consumer protection, public health, and product safety in low-cost ecommerce are increasing.\n- The EU has not yet issued any DSA fines, despite multiple investigations and requests for information to platforms like Shein and AliExpress.",
+      "keywords": [
+        "Shein",
+        "EU",
+        "Digital Services Act",
+        "DSA compliance",
+        "consumer protection",
+        "ecommerce",
+        "RFI",
+        "algorithmic transparency"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-06T13:04:13.000Z"
+    },
+    {
       "title": "Could this startup’s compact nuclear reactors revolutionize cancer detection?",
       "link": "https://techcrunch.com/2025/02/06/could-this-startups-compact-nuclear-reactors-revolutionize-cancer-detection/",
       "author": "Mike Butcher",
@@ -1116,51 +1163,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-02-04T23:15:34.000Z"
-    },
-    {
-      "title": "AMD Pulls Up the Release of Its Next-Gen Data Center GPUs",
-      "link": "https://techcrunch.com/2025/02/04/amd-pulls-up-the-release-of-its-next-gen-data-center-gpus/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- AMD plans to launch the AMD Instinct MI350 series data center GPUs sooner than expected, with sampling for lead customers this quarter.\n- CEO Lisa Su announced an acceleration in production shipments to mid-2025, up from the second half of 2025 due to strong customer demand.\n- AMD's data center revenue reached $5 billion in 2024, contributing significantly to the company's overall revenue, with expectations for double-digit growth in 2025.",
-      "keywords": [
-        "AMD",
-        "Instinct MI350",
-        "data center",
-        "GPU",
-        "artificial intelligence",
-        "earnings report"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-04T23:03:39.000Z"
-    },
-    {
-      "title": "Miist, founded by a 25-year-old, wants people to vape their way out of smoking addiction and migraines",
-      "link": "https://techcrunch.com/2025/02/04/miist-founded-by-a-25-year-old-wants-people-to-vape-their-way-out-of-smoking-addiction-and-migraines/",
-      "author": "Marina Temkin",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/IMG_4326.jpg?w=680",
-      "summary": "- Dalton Signor founded Miist Therapeutics while in university, aiming to combat smoking addiction and migraines.\n- Miist's inhaler delivers medication rapidly to the lungs, achieving a 92% craving reduction in smokers within two minutes during Phase I trials.\n- The startup has secured $7 million in seed funding from various investors, focusing on innovative delivery methods for nicotine and migraine relief.",
-      "keywords": [
-        "Miist Therapeutics",
-        "smoking cessation",
-        "vape inhaler",
-        "migraines",
-        "Dalton Signor",
-        "investor funding",
-        "health technology"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-04T22:00:00.000Z"
     }
   ]
 }
