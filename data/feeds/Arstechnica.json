@@ -4,6 +4,30 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "DeepSeek iOS app sends data unencrypted to ByteDance-controlled servers",
+      "link": "https://arstechnica.com/security/2025/02/deepseek-ios-app-sends-data-unencrypted-to-bytedance-controlled-servers/",
+      "author": "Dan Goodin",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/This-Is-S-t-Ars-Mug-768x432.jpg",
+      "summary": "- The DeepSeek iOS app sends sensitive data over unencrypted channels, making it vulnerable to exposure and tampering.\n- Sensitive data is sent to ByteDance-controlled servers, potentially allowing user tracking and identification.\n- DeepSeek uses a deprecated 3DES encryption scheme with hardcoded symmetric keys, raising significant security concerns.\n- A NowSecure audit recommends immediate removal of the app from environments due to security and privacy risks.\n- U.S. lawmakers are pushing to ban the app on government devices due to national security concerns.",
+      "keywords": [
+        "DeepSeek",
+        "iOS app",
+        "encryption",
+        "ByteDance",
+        "security",
+        "privacy",
+        "NowSecure",
+        "ATS"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-06T22:06:17.000Z"
+    },
+    {
       "title": "Ransomware payments declined in 2024 despite massive well-known hacks",
       "link": "https://arstechnica.com/security/2025/02/ransomware-payments-declined-in-2024-despite-well-known-massive-hacks/",
       "author": null,

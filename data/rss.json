@@ -1,5 +1,91 @@
 [
   {
+    "title": "Amazon ends year on strong note but forecasts weak upcoming quarter",
+    "id": "005ljf6197qz3d",
+    "summary": "- Amazon reported fourth-quarter 2024 revenue of $187.79bn, exceeding expectations of $187.3bn.\n- The earnings amounted to $1.86 per share, surpassing estimates of $1.49.\n- Strong holiday season drove an 8.7% year-over-year increase in online spending, totaling $241.1bn according to Adobe Analytics.\n- For the upcoming quarter, Amazon forecasts sales between $151bn and $155.5bn, lower than analyst expectations of $158.5bn.\n- CEO Andy Jassy highlighted innovations in AI, including the new AI chip Trainium2.\n- Cost-cutting measures, including layoffs, have positively impacted Amazon’s financial performance.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 8,
+      "impact": 7,
+      "novelty": 5,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "Amazon",
+      "earnings report",
+      "fourth quarter",
+      "financial results",
+      "holiday shopping",
+      "AI innovations",
+      "cost-cutting measures"
+    ],
+    "sources": [
+      {
+        "title": "Amazon ends year on strong note but forecasts weak upcoming quarter",
+        "link": "https://www.theguardian.com/us-news/2025/feb/06/amazon-fourth-quarter-earnings"
+      }
+    ],
+    "lastUpdated": "2025-02-06T23:13:12.964Z"
+  },
+  {
+    "title": "Government agency removes spoon emoji from work platform amid protests",
+    "id": "085gcz70miick1",
+    "summary": "- The U.S. General Services Administration (GSA) removed the spoon emoji from its videoconferencing platform.\n- The removal followed protests by workers who used the emoji to express dissent against the Trump administration's resignation offer titled \"A Fork in the Road.\"\n- Federal employees protested during a 600-person video conference and some changed their Slack statuses to feature the spoon emoji.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 6,
+      "impact": 5,
+      "novelty": 4,
+      "longTermSignificance": 3
+    },
+    "keywords": [
+      "GSA",
+      "spoon emoji",
+      "protests",
+      "Trump administration",
+      "federal workers",
+      "videoconferencing"
+    ],
+    "sources": [
+      {
+        "title": "Government agency removes spoon emoji from work platform amid protests",
+        "link": "https://techcrunch.com/2025/02/06/government-agency-removes-spoon-emoji-from-work-platform-amid-protests/"
+      }
+    ],
+    "lastUpdated": "2025-02-06T23:13:12.964Z"
+  },
+  {
+    "title": "DeepSeek iOS app sends data unencrypted to ByteDance-controlled servers",
+    "id": "0q1bom31vyrqhl",
+    "summary": "- The DeepSeek iOS app sends sensitive data over unencrypted channels, making it vulnerable to exposure and tampering.\n- Sensitive data is sent to ByteDance-controlled servers, potentially allowing user tracking and identification.\n- DeepSeek uses a deprecated 3DES encryption scheme with hardcoded symmetric keys, raising significant security concerns.\n- A NowSecure audit recommends immediate removal of the app from environments due to security and privacy risks.\n- U.S. lawmakers are pushing to ban the app on government devices due to national security concerns.",
+    "thumbnails": [
+      "https://cdn.arstechnica.net/wp-content/uploads/2025/01/This-Is-S-t-Ars-Mug-768x432.jpg"
+    ],
+    "scores": {
+      "scale": 5,
+      "impact": 7,
+      "novelty": 6,
+      "longTermSignificance": 5
+    },
+    "keywords": [
+      "DeepSeek",
+      "iOS app",
+      "encryption",
+      "ByteDance",
+      "security",
+      "privacy",
+      "NowSecure",
+      "ATS"
+    ],
+    "sources": [
+      {
+        "title": "DeepSeek iOS app sends data unencrypted to ByteDance-controlled servers",
+        "link": "https://arstechnica.com/security/2025/02/deepseek-ios-app-sends-data-unencrypted-to-bytedance-controlled-servers/"
+      }
+    ],
+    "lastUpdated": "2025-02-06T23:13:12.963Z"
+  },
+  {
     "title": "OpenAI Launches Cheaper o3-mini Model with Enhanced Reasoning Features",
     "id": "0qfairw12u5p9a",
     "summary": "- OpenAI introduced the o3-mini, a cost-effective reasoning model.\n- It improves speed and affordability compared to o1-mini, available via ChatGPT and API.\n- Features include function calling and structured outputs, with adjustable reasoning levels: low, medium, high.\n- Provides better accuracy in technical subjects like AIME math and GPQA science tests.\n- Excels in coding tasks, with a 24% faster response time and enhanced safety through improved training techniques.\n- Note: o3-mini does not support visual reasoning, as that is handled by o1 version.\n- Currently accessible for ChatGPT Plus, Team, and Pro users; Enterprise access expected later in February.\n- OpenAI updates the communication style of its o3-mini model to clarify its reasoning process in response to competitive pressure.\n- Free and premium ChatGPT users will see an enhanced “chain of thought” feature detailing how the model formulates answers.\n- The update aims to make the model's reasoning clearer and more accessible, particularly for non-English users, while still not disclosing the full thought process.",
@@ -31949,63 +32035,5 @@
       }
     ],
     "lastUpdated": "2025-01-24T00:47:18.370Z"
-  },
-  {
-    "title": "Heat pumps in EVs are making a big difference in cold-weather driving",
-    "id": "1lexh4i1oblrz6",
-    "summary": "- Many EV manufacturers rely on energy-intensive resistive heaters, but heat pumps are increasingly being used to maintain cabin warmth without sacrificing range.\n- Research from [Recurrent](https://www.recurrentauto.com/research/heat-pumps) indicates that heat pumps can enhance driving range in subzero temperatures by approximately 8-10%.\n- Tesla Model X and Audi E-Tron lose only about 11-13% range at 32°F, while heat pumps are less effective below 15°F according to [The Washington Post](https://www.washingtonpost.com/climate-solutions/2025/01/22/ev-winter-battery-range-heat-pump/).\n- Heat pumps transfer heat generated by the car to the cabin, similar to how gas vehicles utilize a heater core.\n- As of 2021, heat pumps started being integrated in popular EVs, including Ford's Mustang Mach-E for the 2025 model year.\n- Older EVs like the 2017 Ford Focus Electric face significant range loss in cold conditions, dropping from about 80 miles to 50 miles with the heater on.\n- Tips for winter EV operation include preconditioning the vehicle while plugged in and regularly removing snow from the car.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 6,
-      "impact": 7,
-      "novelty": 5,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "EVs",
-      "heat pumps",
-      "cold weather",
-      "battery range",
-      "electric vehicles",
-      "Tesla",
-      "Ford Mustang Mach-E",
-      "Audi E-Tron",
-      "Recurrent Auto"
-    ],
-    "sources": [
-      {
-        "title": "Heat pumps in EVs are making a big difference in cold-weather driving",
-        "link": "https://www.theverge.com/2025/1/23/24350602/electric-vehicle-heat-pump-better-range-tesla-etron-mustang-mach-e"
-      }
-    ],
-    "lastUpdated": "2025-01-23T23:10:59.812Z"
-  },
-  {
-    "title": "JetBrains launches Junie, a new AI coding agent for its IDEs",
-    "id": "1wlfl2o0wanr7d",
-    "summary": "- JetBrains launched a new AI coding agent named [Junie](https://www.jetbrains.com/junie/) for its IDEs.\n- Junie is designed to handle routine development tasks and understand existing projects for feature extensions.\n- It scored 53.6% on the SWEBench Verified benchmark of 500 developer tasks, which is considered promising, though lower than top competitors.\n- The service is tightly integrated with JetBrains IDEs, maintains human control, and aims to improve code quality.\n- Currently in an early access program, Junie is available only on Linux and Mac for IntelliJ IDEA Ultimate and PyCharm Professional, with WebStorm support coming soon.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "JetBrains",
-      "Junie",
-      "AI coding agent",
-      "IDE",
-      "software development",
-      "automation",
-      "programming tools"
-    ],
-    "sources": [
-      {
-        "title": "JetBrains launches Junie, a new AI coding agent for its IDEs",
-        "link": "https://techcrunch.com/2025/01/23/jetbrains-launches-junie-a-new-ai-coding-agent-for-its-ides/"
-      }
-    ],
-    "lastUpdated": "2025-01-23T23:10:59.810Z"
   }
 ]
