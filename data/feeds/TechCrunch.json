@@ -4,6 +4,76 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Tesla Dojo: Elon Musk’s big plan to build an AI supercomputer, explained",
+      "link": "https://techcrunch.com/2025/02/06/tesla-dojo-elon-musks-big-plan-to-build-an-ai-supercomputer-explained/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1239825394.jpg?w=680",
+      "summary": "- Elon Musk has been promoting Dojo, an AI supercomputer, as central to Tesla's AI ambitions since its inaugural mention in 2019.\n- Dojo is integral for training Tesla's Full Self-Driving (FSD) neural networks, aiming for autonomous vehicle efficiency and launch plans for a ride-hail service by June 2025.\n- Tesla focuses on a vision-only approach, collecting data using cameras to achieve autonomous driving, differing from competitors using multiple sensors.\n- The supercomputer uses D1 chips optimized for AI workloads, manufactured by TSMC with 50 billion transistors, aiming to enhance computational efficiency.\n- Musk indicated a transition towards Tesla-designed AI hardware to reduce dependency on Nvidia's increasingly costly GPUs, planning a 50/50 split in hardware sourcing in the upcoming years.",
+      "keywords": [
+        "Tesla",
+        "Dojo",
+        "AI supercomputer",
+        "Elon Musk",
+        "Full Self-Driving",
+        "autonomous vehicles",
+        "D1 chip",
+        "robotaxi"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-06T20:09:01.000Z"
+    },
+    {
+      "title": "Google is adding digital watermarks to images edited with Magic Editor AI",
+      "link": "https://techcrunch.com/2025/02/06/google-is-adding-digital-watermarks-to-images-edited-with-magic-editor-ai/",
+      "author": "Brian Heater",
+      "thumbnail": null,
+      "summary": "- Google announced digital watermarks will be added to images edited with generative AI using Magic Editor's Reimagine feature.\n- Reimagine enables dramatic image edits, making it difficult to distinguish between digital photos and AI-generated images.\n- Digital watermarking is seen as a solution for transparency in AI editing, ensuring users can identify AI-altered content.\n- Google uses SynthID to embed watermarks without compromising original images, and it works with AI-generated text and videos.\n- Users can find watermarks in image metadata via ‘About this Image’.",
+      "keywords": [
+        "Google",
+        "digital watermark",
+        "Magic Editor",
+        "generative AI",
+        "SynthID",
+        "image editing",
+        "transparency",
+        "AI principles"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-06T19:09:39.000Z"
+    },
+    {
+      "title": "Snapchat+ Subscribers Can Now Create Custom AI-Generated Stickers",
+      "link": "https://techcrunch.com/2025/02/06/snapchat-subscribers-can-now-create-custom-ai-generated-stickers/",
+      "author": "Aisha Malik",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/snapchat-custom-ai-stickers.png?w=680",
+      "summary": "- Snapchat+ subscribers can now create custom AI-generated stickers that match their messages in chats.\n- Subscribers can also send self-destructing Snaps through a new feature called \"Snap Modes,\" which allows disappearing Snaps if not viewed within a set time.\n- Snapchat plans to enhance its subscription service, which currently has 14 million subscribers, contributing to significant revenue growth for the company.",
+      "keywords": [
+        "Snapchat",
+        "AI-generated stickers",
+        "Snapchat+",
+        "self-destructing Snaps",
+        "subscription service",
+        "Snap Modes"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-06T19:08:48.000Z"
+    },
+    {
       "title": "Ford goes protectionist as EV losses top $5B",
       "link": "https://techcrunch.com/2025/02/06/ford-goes-protectionist-as-ev-losses-top-5b/",
       "author": "Sean O'Kane",
@@ -1099,75 +1169,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-05T18:58:34.000Z"
-    },
-    {
-      "title": "Stripe makes $1.1 billion crypto bet as it closes on Bridge acquisition",
-      "link": "https://techcrunch.com/2025/02/05/stripe-makes-1-1-billion-crypto-bet-as-it-closes-on-bridge-acquisition/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-652146145.jpg?w=1024",
-      "summary": "- Stripe has completed a $1.1 billion acquisition of stablecoin platform Bridge on February 5, 2025.\n- This acquisition marks Stripe's largest purchase to date and signifies a strong emphasis on the cryptocurrency market.\n- Bridge, co-founded by Zach Abrams and Sean Yu, provides an API for companies to accept stablecoins and had previously raised $58 million with a valuation of $200 million in 2024.\n- Patrick Collison, Stripe's CEO, noted the swift adoption of stablecoin technology, suggesting a widespread future need for stablecoin strategies in moving money.\n- Last year, Stripe enabled crypto purchases in the EU and introduced a Pay with Crypto feature for merchants to accept stablecoins.",
-      "keywords": [
-        "Stripe",
-        "Bridge",
-        "cryptocurrency",
-        "stablecoin",
-        "acquisition",
-        "fintech",
-        "Patrick Collison"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-05T18:46:24.000Z"
-    },
-    {
-      "title": "The Elon Musk Act aims to ban ‘special government employees’ from having federal contracts",
-      "link": "https://techcrunch.com/2025/02/05/the-elon-musk-act-aims-to-ban-special-government-employees-from-having-federal-contracts/",
-      "author": "Rebecca Bellan",
-      "thumbnail": null,
-      "summary": "- U.S. Representative Mark Pocan introduces the ELON MUSK Act to prohibit 'special government employees' from federal contracts.\n- The act aims to prevent conflicts of interest, particularly citing Elon Musk's significant federal contract history.\n- Musk's involvement with federal agencies, including a controversial advisory role, raises concerns about ethical breaches and public influence.\n- The bill coincides with protests and bipartisan legislative efforts to restrict Musk's access to government systems.",
-      "keywords": [
-        "Elon Musk",
-        "federal contracts",
-        "government ethics",
-        "Mark Pocan",
-        "legislation",
-        "conflict of interest"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-05T18:05:23.000Z"
-    },
-    {
-      "title": "New target of Paragon spyware comes forward",
-      "link": "https://techcrunch.com/2025/02/05/new-target-of-paragon-spyware-comes-forward/",
-      "author": "Lorenzo Franceschi-Bicchierai",
-      "thumbnail": null,
-      "summary": "- Mediterranea Saving Humans announced one of its founders, Luca Casarini, was targeted by Paragon spyware.\n- WhatsApp disrupted a campaign targeting around 90 individuals, including journalists and civil society members, using Paragon spyware.\n- Other targets include journalist Francesco Cancellato and activist Husam El Gomati, all critical of the current Italian government.",
-      "keywords": [
-        "Paragon spyware",
-        "WhatsApp",
-        "Mediterranea Saving Humans",
-        "Luca Casarini",
-        "Italian government",
-        "surveillance technology",
-        "privacy",
-        "cybersecurity"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-05T17:57:57.000Z"
     }
   ]
 }
