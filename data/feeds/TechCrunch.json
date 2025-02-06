@@ -4,6 +4,102 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Boston Dynamics joins forces with its former CEO to speed the learning of its Atlas humanoid robot",
+      "link": "https://techcrunch.com/2025/02/05/boston-dynamics-joins-forces-with-its-former-ceo-to-speed-the-learning-of-its-atlas-humanoid-robot/",
+      "author": "Brian Heater",
+      "thumbnail": null,
+      "summary": "- Boston Dynamics announced a partnership with the Robotics & AI Institute to enhance reinforcement learning for its Atlas humanoid robot.\n- The collaboration aims to improve learning efficiency using simulation-based techniques and trial-and-error methods similar to human learning.\n- The initiative focuses on advancing Atlas's ability to perform complex tasks like dynamic running and full-body manipulation of heavy objects.\n- Marc Raibert, former CEO of Boston Dynamics, leads the RAI Institute, which explores experimental robotics technologies funded by Hyundai.\n- This partnership follows a recent collaboration with Toyota Research Institute to apply large behavior models to improve robotic capabilities.",
+      "keywords": [
+        "Boston Dynamics",
+        "Atlas humanoid robot",
+        "Robotics & AI Institute",
+        "reinforcement learning",
+        "Marc Raibert",
+        "robotics",
+        "Hyundai",
+        "technology partnership"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-06T00:24:48.000Z"
+    },
+    {
+      "title": "SoftBank could soon buy Renee James’ Ampere chip company for about $6.5B",
+      "link": "https://techcrunch.com/2025/02/05/softbank-could-soon-buy-renee-james-ampere-chip-company-for-about-6-5b/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Ampere, founded by former Intel exec Renee James, is reportedly selling to SoftBank for about $6.5 billion.\n- This valuation is down from $8 billion in 2021 when SoftBank considered buying a minority stake.\n- Ampere designs ARM chips for data centers, aligning well with SoftBank's ownership of ARM Holdings.\n- Renee James founded Ampere in 2017 after leaving Intel and focused on low-energy ARM designs for data centers.\n- Oracle disclosed it owns 29% of Ampere and has options for a controlling stake, possibly affecting the sale.",
+      "keywords": [
+        "SoftBank",
+        "Ampere",
+        "Renee James",
+        "chip company",
+        "acquisition",
+        "ARM chips",
+        "data center",
+        "Oracle"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-06T00:14:43.000Z"
+    },
+    {
+      "title": "Sonos lays off 200 ahead of rumored set-top box release",
+      "link": "https://techcrunch.com/2025/02/05/sonos-lays-off-200-ahead-of-rumored-set-top-box-release/",
+      "author": "Tom Conrad",
+      "thumbnail": null,
+      "summary": "- Sonos laid off 200 employees in February 2025, following a previous layoff of 100 in August 2024.\n- The layoffs occur after a significant update to the Sonos app alienated many loyal customers.\n- Interim CEO Tom Conrad cited communication issues stemming from the company's size as a reason for the layoffs.\n- Sonos is preparing to release a new set-top box/home hub, codenamed 'Pinewood,' currently in beta testing, expected to launch in 2025 at a price range of $200 to $400.",
+      "keywords": [
+        "Sonos",
+        "layoffs",
+        "set-top box",
+        "Pinewood",
+        "CEO Tom Conrad",
+        "app update disaster"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-05T23:51:21.000Z"
+    },
+    {
+      "title": "Researchers created an open rival to OpenAI’s o1 ‘reasoning’ model for under $50",
+      "link": "https://techcrunch.com/2025/02/05/researchers-created-an-open-rival-to-openais-o1-reasoning-model-for-under-50/",
+      "author": "Maxwell Zeff",
+      "thumbnail": null,
+      "summary": "- AI researchers from Stanford and the University of Washington trained an AI reasoning model called s1 for under $50 in cloud compute credits.\n- s1 performs similarly to advanced models like OpenAI's o1 and DeepSeek's R1, excelling in math and coding tests.\n- The model was distilled from Google's Gemini 2.0 Flash Thinking Experimental and is available on [GitHub](https://github.com/simplescaling/s1).\n- The training process involved creating a dataset of 1,000 curated questions and using supervised fine-tuning (SFT), which was cheaper than methods used by competitors.\n- S1 achieved strong benchmark results after a training time of less than 30 minutes on 16 Nvidia H100 GPUs, with compute costs estimated at about $20.\n- The investment in AI infrastructure from major companies like Meta, Google, and Microsoft is expected to reach hundreds of billions in 2025.",
+      "keywords": [
+        "AI",
+        "reasoning model",
+        "OpenAI",
+        "s1",
+        "machine learning",
+        "distillation",
+        "Google",
+        "Stanford",
+        "University of Washington",
+        "tech news"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 8,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-05T23:38:07.000Z"
+    },
+    {
       "title": "Scout Motors sued over plan to sell EVs direct to consumers",
       "link": "https://techcrunch.com/2025/02/05/scout-motors-sued-over-plan-to-sell-evs-direct-to-consumers/",
       "author": null,
@@ -1055,94 +1151,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-04T18:42:32.000Z"
-    },
-    {
-      "title": "Challenging Bluesky, Threads now allows for public custom feeds",
-      "link": "https://techcrunch.com/2025/02/04/challenging-bluesky-threads-now-allows-for-public-custom-feeds/",
-      "author": "Sarah Perez",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/threads-create-feed.jpeg?w=680",
-      "summary": "- Meta’s Threads is enhancing custom feeds to compete with Bluesky, which has over 30 million users.\n- Users can now set their custom feeds to public and follow feeds created by others.\n- Threads aims for user-friendly custom feed creation without requiring technical skills.\n- Custom feeds allow users to personalize their experience and pin liked feeds to their home screen.\n- The feature launch is a strategic move to counter Bluesky's growth and retain user engagement.\n- Users can make feeds public, share them via links or DMs, and find them under a new 'Feeds' tab on profiles.\n- Custom feeds can be based on various topics like sports, art, and fashion, unlike Bluesky's broader sorting options.",
-      "keywords": [
-        "Threads",
-        "Bluesky",
-        "custom feeds",
-        "Meta",
-        "social media",
-        "Mark Zuckerberg"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-04T18:37:09.000Z"
-    },
-    {
-      "title": "This Week in AI: Billionaires talk automating jobs away",
-      "link": "https://techcrunch.com/2025/02/04/this-week-in-ai-billionaires-talk-automating-jobs-away/",
-      "author": "Kyle Wiggers",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/%E7%99%BD%E5%BA%95.png?w=600",
-      "summary": "- OpenAI CEO Sam Altman discussed AI automation with SoftBank CEO Masayoshi Son in Tokyo.\n- SoftBank plans to spend $3 billion annually on OpenAI products, aiming to automate millions of white-collar workflows.\n- Concerns rise about widespread job automation leading to significant unemployment amidst industry excitement over AI capabilities.",
-      "keywords": [
-        "AI",
-        "automation",
-        "SoftBank",
-        "OpenAI",
-        "jobs",
-        "unemployment",
-        "technology"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-04T18:05:00.000Z"
-    },
-    {
-      "title": "An angel investor was so intrigued by this startup, he joined as a co-founder",
-      "link": "https://techcrunch.com/2025/02/04/an-angel-investor-was-so-intrigued-by-this-startup-he-joined-as-a-co-founder/",
-      "author": "Mary Ann Azevedo",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/image001.jpg?w=680",
-      "summary": "- Lily Vittayarukskul started the AI-driven startup **Waterlily** in late 2021 to help families navigate long-term care costs.\n- Evan Ehrenberg, a former angel investor, joined the company as a co-founder in 2022 after being impressed by the platform's predictions.\n- Ehrenberg has a background in founding and selling the company **Clara Health**, and is also MIT’s youngest neuroscience PhD.",
-      "keywords": [
-        "Waterlily",
-        "long-term care",
-        "AI",
-        "Evan Ehrenberg",
-        "Lily Vittayarukskul"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-04T18:04:00.000Z"
-    },
-    {
-      "title": "Okta lays off 180 employees – nearly one year after last workforce reduction",
-      "link": "https://techcrunch.com/2025/02/04/okta-lays-off-180-employees-nearly-one-year-after-last-workforce-reduction/",
-      "author": "Mary Ann Azevedo",
-      "thumbnail": null,
-      "summary": "- Okta laid off 180 employees on Tuesday, just over a year after laying off 400 workers.\n- The recent layoff affected approximately 3% of its workforce, which was around 5300 prior to the cuts.\n- This follows earlier reductions in February 2023, which impacted 300 employees.\n- Despite layoffs, Okta reported a fiscal third-quarter revenue of $665 million, a 14% increase from the previous year.",
-      "keywords": [
-        "Okta",
-        "layoffs",
-        "employment",
-        "tech news",
-        "identity management",
-        "revenue report"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 4,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-02-04T17:51:40.000Z"
     }
   ]
 }
