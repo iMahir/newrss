@@ -4,6 +4,28 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "Call to make tech firms report data centre energy use as AI booms",
+      "link": "https://www.theguardian.com/technology/2025/feb/07/call-to-make-tech-firms-report-data-centre-energy-use-as-ai-booms",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Experts urge legal requirements for tech companies to report energy and water use in data centres due to environmental concerns from AI growth.\n- A report by the National Engineering Policy Centre (NEPC) emphasizes the environmental risks of unchecked AI expansion and the need for resource-efficient practices.\n- Microsoft and Google have reported significant increases in water consumption for data centres in recent years, with Microsoft's 2022 consumption up 34% from 2021.\n- The NEPC report advocates for mandatory environmental reporting and setting sustainability standards for data centres to mitigate impacts.",
+      "keywords": [
+        "energy consumption",
+        "data centres",
+        "AI",
+        "environmental impact",
+        "sustainability",
+        "mandatory reporting"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-07T00:01:28.000Z"
+    },
+    {
       "title": "Amazon ends year on strong note but forecasts weak upcoming quarter",
       "link": "https://www.theguardian.com/us-news/2025/feb/06/amazon-fourth-quarter-earnings",
       "author": null,
@@ -1157,31 +1179,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-01-30T17:27:00.000Z"
-    },
-    {
-      "title": "SoftBank ‘in talks’ to invest up to $25bn in OpenAI",
-      "link": "https://www.theguardian.com/technology/2025/jan/30/softbank-in-talks-to-invest-up-to-25bn-in-openai-chatgpt",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- SoftBank is in discussions to invest between $15bn and $25bn in OpenAI, potentially becoming its largest financial backer.\n- The investment follows a previous funding round that valued OpenAI at $157bn, which included support from Microsoft.\n- SoftBank and OpenAI recently partnered with Oracle to launch Stargate, a large AI infrastructure project, with an initial investment goal of $100bn.\n- Claims have emerged regarding the financial capacity of Stargate's backers, prompting a response from OpenAI's CEO Sam Altman.",
-      "keywords": [
-        "SoftBank",
-        "OpenAI",
-        "investment",
-        "ChatGPT",
-        "AI infrastructure",
-        "Stargate",
-        "funding",
-        "Masayoshi Son",
-        "Sam Altman"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 9
-      },
-      "pubDate": "2025-01-30T10:54:55.000Z"
     }
   ]
 }
