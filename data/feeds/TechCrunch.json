@@ -4,6 +4,77 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Coalition ‘concerned’ over UK appointing ex-Amazon exec as antitrust regulator chair",
+      "link": "https://techcrunch.com/2025/02/07/coalition-concerned-over-uk-appointing-ex-amazon-exec-as-antitrust-regulator-chair/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- A coalition signed an open letter expressing concern over the UK appointing a former Amazon executive, Doug Gurr, as chair of the Competition and Markets Authority (CMA).\n- Signatories include U.S. tech companies like Yelp, DuckDuckGo, and Mozilla, stressing the need for CMA to be free from political pressure to effectively regulate Big Tech.\n- The government aims for pro-growth policies, but concerns are raised that Gurr's ties to Big Tech might compromise CMA's independence and mandate for robust competition enforcement.",
+      "keywords": [
+        "UK",
+        "antitrust",
+        "Competition and Markets Authority",
+        "Doug Gurr",
+        "Big Tech",
+        "regulation",
+        "CMA",
+        "competition",
+        "open letter"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-07T19:02:44.000Z"
+    },
+    {
+      "title": "DeepMind claims its AI performs better than International Mathematical Olympiad gold medalists",
+      "link": "https://techcrunch.com/2025/02/07/deepmind-claims-its-ai-performs-better-than-international-mathematical-olympiad-gold-medalists/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/unnamed-9.jpg?w=616",
+      "summary": "- DeepMind's AI, AlphaGeometry2, surpasses the average gold medalist in geometry problems from the International Mathematical Olympiad.\n- AlphaGeometry2 solved 84% of geometry problems from the last 25 years in the IMO, achieving a score above the average of 40.9.\n- The AI system employs a hybrid approach combining a neural network model with a symbolic engine for formal mathematical reasoning, generating over 300 million synthetic theorems for training.",
+      "keywords": [
+        "AI",
+        "DeepMind",
+        "AlphaGeometry2",
+        "geometry problems",
+        "International Mathematical Olympiad",
+        "neural networks",
+        "symbolic AI"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-07T18:56:05.000Z"
+    },
+    {
+      "title": "Bluesky will soon let you limit replies to ‘followers only’",
+      "link": "https://techcrunch.com/2025/02/07/bluesky-will-soon-let-you-limit-replies-to-followers-only/",
+      "author": "Paul Frazee, Sarah Perez",
+      "thumbnail": null,
+      "summary": "- Bluesky will introduce a new “followers only” setting for replies, allowing users to limit who can respond to their posts.\n- Users can set their default reply settings to always limit replies to followers.\n- This feature aims to differentiate Bluesky from competitors like X and Threads.\n- Currently, Bluesky allows limiting replies to “Everybody,” “Nobody,” “Mentioned Users,” and “Followed Users.”\n- The “followers only” option is intended to help reduce issues like “context collapse.”\n- The feature was suggested by users and has been in discussion since December 2023.\n- The AT Protocol supporting Bluesky will also be upgraded to help implement this feature.",
+      "keywords": [
+        "Bluesky",
+        "social media",
+        "followers only",
+        "reply settings",
+        "Paul Frazee",
+        "context collapse",
+        "AT Protocol"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 6,
+        "novelty": 7,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-07T18:20:00.000Z"
+    },
+    {
       "title": "Ex-Apple engineer issues apology after lawsuit over Journal app, Vision Pro leaks is dismissed",
       "link": "https://techcrunch.com/2025/02/07/ex-apple-engineer-issues-apology-after-lawsuit-over-journal-app-vision-pro-leaks-is-dismissed/",
       "author": null,
@@ -1097,79 +1168,6 @@
         "longTermSignificance": 9
       },
       "pubDate": "2025-02-06T17:00:00.000Z"
-    },
-    {
-      "title": "RPLY is a new AI assistant that responds to missed texts",
-      "link": "https://techcrunch.com/2025/02/06/rply-is-a-new-ai-assistant-that-responds-to-missed-texts/",
-      "author": "Molly Cantillon",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/RPLY-messages.png?w=423",
-      "summary": "- RPLY is a new Mac app aimed at helping users achieve 'inbox zero' on iMessage.\n- The app uses AI to identify missed texts and suggests responses if messages go unreplied for over 24 hours.\n- Created by Molly Cantillon, a Stanford dropout, RPLY is designed to reduce 'text debt' and improve genuine connections.\n- It analyzes user text history to craft replies that match writing style and personality.\n- RPLY includes features like filtering unanswered messages, displaying response statistics, and tracking inbox status.\n- The app has attracted 1,000 paid users and targets professionals overwhelmed by messages.\n- Privacy measures include a strict zero data retention policy and options for local processing on-device.\n- Currently exclusive to macOS, with plans for potential future expansion to other platforms.",
-      "keywords": [
-        "RPLY",
-        "AI assistant",
-        "iMessage",
-        "texting",
-        "Molly Cantillon",
-        "inbox zero",
-        "text debt",
-        "privacy",
-        "macOS",
-        "communication"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 8,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-06T17:00:00.000Z"
-    },
-    {
-      "title": "Keyboard maker suspends U.S. shipments over Trump tariffs on Chinese goods",
-      "link": "https://techcrunch.com/2025/02/06/keyboard-maker-suspends-u-s-shipments-over-trump-tariffs-on-chinese-goods/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Qwertykeys suspends all U.S. product shipments due to new Trump administration tariffs.\n- The decision follows a February 1 announcement of 10% tariffs on imported Chinese goods.\n- All keyboards from China to the U.S. now subject to 45% tariffs at full value, replacing prior exemptions.\n- DHL introduces a “tariff deposit” and a new $21 package processing fee affecting shipments.\n- Qwertykeys is one of the first Chinese companies to halt shipments in response to these tariff increases, impacting smaller companies with tighter margins.",
-      "keywords": [
-        "tariffs",
-        "Qwertykeys",
-        "shipping",
-        "Trump administration",
-        "Chinese goods",
-        "mechanical keyboards"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 4,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-02-06T16:43:51.000Z"
-    },
-    {
-      "title": "Flashes, a photo-sharing app for Bluesky, opens beta",
-      "link": "https://techcrunch.com/2025/02/06/flashes-a-photo-sharing-app-for-bluesky-opens-beta/",
-      "author": "Sarah Perez",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/flashes-app.jpg?w=348",
-      "summary": "- Flashes, an Instagram alternative on Bluesky, launched its beta for testers.\n- The app supports photo posts of up to four images and videos of one minute.\n- It filters Bluesky’s timeline to show posts with media, allowing users to switch between Bluesky feeds.\n- Built by Sebastian Vogelsang, Flashes reuses code from his previous app, Skeets, which has over 30,000 users.\n- As of now, Bluesky has nearly 31 million users and 1 billion posts.\n- The beta faced technical issues but saw 3,500 sign-ups in the first hour.",
-      "keywords": [
-        "Flashes",
-        "photo-sharing app",
-        "Bluesky",
-        "beta",
-        "Sebastian Vogelsang",
-        "AT Protocol",
-        "Instagram alternative",
-        "social networking",
-        "tech news"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-06T16:39:16.000Z"
     }
   ]
 }
