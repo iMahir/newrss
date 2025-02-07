@@ -4,6 +4,31 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Carried interest repeal could stifle investments in startups, NVCA says",
+      "link": "https://techcrunch.com/2025/02/06/carried-interest-repeal-could-stifle-investments-in-startups-nvca-says/",
+      "author": "Marina Temkin",
+      "thumbnail": null,
+      "summary": "- President Trump requested Republican lawmakers to end tax breaks on carried interest.\n- Carried interest tax break allows private equity managers to benefit from lower capital gains rates.\n- Removal of this tax break could significantly impact the VC industry, according to NVCA President Bobby Franklin.\n- Franklin expressed that carried interest supports high-risk investments in startups.\n- Previous attempts to eliminate the loophole were not included in the 2017 Tax Cuts and Jobs Act.\n- The 2017 modifications helped maintain venture investments in emerging technologies like AI and crypto.\n- Majority of capital for emerging tech companies is still concentrated in New York and Silicon Valley.",
+      "keywords": [
+        "Carried Interest",
+        "Tax Breaks",
+        "Venture Capital",
+        "Startups",
+        "NVCA",
+        "Bobby Franklin",
+        "Investment",
+        "Trump",
+        "Tech Industry"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-07T01:55:31.000Z"
+    },
+    {
       "title": "OpenAI’s ex-CTO, Mira Murati, recruits co-founder John Schulman for new startup",
       "link": "https://techcrunch.com/2025/02/06/report-openais-ex-cto-mira-murati-has-recruited-openai-co-founder-john-schulman/",
       "author": null,
@@ -1140,32 +1165,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-02-05T23:51:21.000Z"
-    },
-    {
-      "title": "Researchers created an open rival to OpenAI’s o1 ‘reasoning’ model for under $50",
-      "link": "https://techcrunch.com/2025/02/05/researchers-created-an-open-rival-to-openais-o1-reasoning-model-for-under-50/",
-      "author": "Maxwell Zeff",
-      "thumbnail": null,
-      "summary": "- AI researchers from Stanford and the University of Washington trained an AI reasoning model called s1 for under $50 in cloud compute credits.\n- s1 performs similarly to advanced models like OpenAI's o1 and DeepSeek's R1, excelling in math and coding tests.\n- The model was distilled from Google's Gemini 2.0 Flash Thinking Experimental and is available on [GitHub](https://github.com/simplescaling/s1).\n- The training process involved creating a dataset of 1,000 curated questions and using supervised fine-tuning (SFT), which was cheaper than methods used by competitors.\n- S1 achieved strong benchmark results after a training time of less than 30 minutes on 16 Nvidia H100 GPUs, with compute costs estimated at about $20.\n- The investment in AI infrastructure from major companies like Meta, Google, and Microsoft is expected to reach hundreds of billions in 2025.",
-      "keywords": [
-        "AI",
-        "reasoning model",
-        "OpenAI",
-        "s1",
-        "machine learning",
-        "distillation",
-        "Google",
-        "Stanford",
-        "University of Washington",
-        "tech news"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 8,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-02-05T23:38:07.000Z"
     }
   ]
 }
