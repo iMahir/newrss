@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Coalition of US states to file lawsuit after Musk’s DOGE gains access to Americans’ personal data",
+      "link": "https://techcrunch.com/2025/02/07/coalition-of-us-states-to-file-lawsuit-after-musks-doge-gains-access-to-americans-personal-data/",
+      "author": "Zack Whittaker",
+      "thumbnail": null,
+      "summary": "- A coalition of over a dozen U.S. states plans to file a lawsuit against Elon Musk's DOGE team for accessing sensitive federal payment systems containing American personal data.\n- The coalition is led by 13 Democratic attorneys general, including those from California, Connecticut, Maine, Maryland, and New York, seeking to defend privacy rights and essential funding for communities.\n- Musk’s DOGE has recently gained control of major U.S. agencies, raising concerns about national security due to Musk's business ties with China.",
+      "keywords": [
+        "lawsuit",
+        "Elon Musk",
+        "DOGE",
+        "privacy",
+        "data access",
+        "US states",
+        "national security"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-07T12:30:24.000Z"
+    },
+    {
       "title": "UK government demands Apple backdoor to encrypted cloud data: report",
       "link": "https://techcrunch.com/2025/02/07/uk-government-demands-apple-backdoor-to-encrypted-cloud-data-report/",
       "author": null,
@@ -1141,30 +1164,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-06T11:54:44.000Z"
-    },
-    {
-      "title": "Presto is building Stripe for EV charging",
-      "link": "https://techcrunch.com/2025/02/06/presto-is-building-stripe-for-ev-charging/",
-      "author": "Tim De Chant",
-      "thumbnail": null,
-      "summary": "- Presto is an app created by Ashwin Dias and J.J. Raynor to help EV fleet drivers find reliable charging stations.\n- The startup raised a $15 million seed round led by Union Square Ventures.\n- Presto’s platform aims to connect fleets with diverse charging networks, facilitating smoother charging experiences.\n- The app and API provide machine learning recommendations for finding suitable chargers.\n- Early adopters include rental companies like Hertz and Avis, and Uber drivers looking for discounted charging options.\n- Focus is currently on fleets, but discussions with major automakers have occurred.",
-      "keywords": [
-        "EV charging",
-        "electric vehicles",
-        "startup",
-        "Presto",
-        "charging networks",
-        "fleets",
-        "technology",
-        "transportation"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-06T11:30:00.000Z"
     }
   ]
 }
