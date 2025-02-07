@@ -1,5 +1,121 @@
 [
   {
+    "title": "HPE begins notifying data breach victims after Russian government hack",
+    "id": "0awa4wa1udowpl",
+    "summary": "- Hewlett Packard Enterprise (HPE) has notified individuals affected by a data breach attributed to Russian hackers in 2023.\n- The breach involved personal information like Social Security numbers, driver’s license information, and credit card numbers.\n- The cyberattack began in May 2023 and affected HPE's email and SharePoint systems, hosted by Microsoft.\n- The hackers, known as Midnight Blizzard, are linked to Russia's foreign intelligence service, SVR.\n- Microsoft confirmed their network was also compromised, targeting corporate executives and cybersecurity staff.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "Hewlett Packard Enterprise",
+      "data breach",
+      "cyberattack",
+      "Russian hackers",
+      "Midnight Blizzard",
+      "SVR",
+      "Microsoft",
+      "personal information",
+      "email systems",
+      "SharePoint"
+    ],
+    "sources": [
+      {
+        "title": "HPE begins notifying data breach victims after Russian government hack",
+        "link": "https://techcrunch.com/2025/02/07/hpe-begins-notifying-data-breach-victims-after-russian-government-hack/"
+      }
+    ],
+    "lastUpdated": "2025-02-07T16:13:36.989Z"
+  },
+  {
+    "title": "Ilya Sutskever’s Startup in Talks for $20B Fundraising",
+    "id": "040jx310hyhez5",
+    "summary": "- Safe Superintelligence, founded by Ilya Sutskever, seeks to raise funding at a valuation of at least $20 billion as of February 7, 2025.\n- It is not clear how much funding the startup is aiming for; the new valuation is four times its previous $5 billion valuation from September 2024.\n- Safe Superintelligence has yet to generate revenue and has raised $1 billion to date with backing from investors like Sequoia Capital, Andreessen Horowitz, and DST Global.\n- Sutskever is recognized for his significant contributions to AI, notably during his time at OpenAI.",
+    "thumbnails": [
+      "https://techcrunch.com/wp-content/uploads/2024/05/ilyausutskever-GettyImages.jpg?w=1024"
+    ],
+    "scores": {
+      "scale": 8,
+      "impact": 7,
+      "novelty": 5,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "Ilya Sutskever",
+      "AI",
+      "Safe Superintelligence",
+      "fundraising",
+      "valuation"
+    ],
+    "sources": [
+      {
+        "title": "Ilya Sutskever’s Startup in Talks for $20B Fundraising",
+        "link": "https://techcrunch.com/2025/02/07/report-ilya-sutskevers-startup-in-talks-to-fundraise-at-roughly-20b-valuation/"
+      }
+    ],
+    "lastUpdated": "2025-02-07T16:13:36.989Z"
+  },
+  {
+    "title": "OpenAI launches cross-country search to build data center sites for the Stargate project",
+    "id": "1svyncz1275wo6",
+    "summary": "- OpenAI is seeking sites across 16 U.S. states to build data centers for the Stargate project, expanding from its Texas location.\n- The company has issued a request for proposals for land and infrastructure, focusing on sites with energy and water access.\n- The Stargate joint venture between OpenAI, Oracle, and Softbank aims to invest up to $500 billion in data center construction.\n- Energy consumption of AI data centers is a concern, with discussions around renewable energy sources and carbon management plans.\n- OpenAI plans to establish 5 to 10 campuses, actively exploring locations in states such as California, Florida, and New York.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 8,
+      "impact": 9,
+      "novelty": 7,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "OpenAI",
+      "data centers",
+      "Stargate project",
+      "AI technology",
+      "investment",
+      "renewable energy",
+      "Elon Musk",
+      "Donald Trump"
+    ],
+    "sources": [
+      {
+        "title": "OpenAI launches cross-country search to build data center sites for the Stargate project",
+        "link": "https://www.fastcompany.com/91274699/openai-launches-cross-country-search-to-build-data-center-sites-for-the-stargate-project?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
+      }
+    ],
+    "lastUpdated": "2025-02-07T16:13:36.988Z"
+  },
+  {
+    "title": "PromptLayer is building tools to put non-techies in the driver’s seat of AI app development",
+    "id": "1i55tuj0o1fa9j",
+    "summary": "- PromptLayer is focused on building tools for non-technical users to enhance AI app development.\n- The company has raised $4.8 million in a seed round led by Ivan Bercovich, with participation from several investors.\n- Their platform features a 'prompt registry' for version control and testing of prompts, aimed at domain experts.\n- PromptLayer has over 10,000 customers, with 13x revenue growth this year, primarily driven by word-of-mouth.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 7,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "PromptLayer",
+      "AI development",
+      "prompt engineering",
+      "non-technical tools",
+      "seed funding",
+      "domain experts",
+      "revenue growth"
+    ],
+    "sources": [
+      {
+        "title": "PromptLayer is building tools to put non-techies in the driver’s seat of AI app development",
+        "link": "https://techcrunch.com/2025/02/07/promptlayer-is-building-tools-to-put-non-techies-in-the-drivers-seat-of-ai-app-development/"
+      }
+    ],
+    "lastUpdated": "2025-02-07T16:13:36.988Z"
+  },
+  {
     "title": "UK Government Demands Apple Create Backdoor for Encrypted Data Access",
     "id": "0rtw9r316nki9s",
     "summary": "- The UK government secretly ordered Apple to create a backdoor for accessing users' encrypted iCloud data.\n- The demand was made in January under the UK's Investigatory Powers Act 2016, requesting blanket access to all encrypted files.\n- Apple may stop offering its encrypted cloud storage, Advanced Data Protection, to UK users due to this demand.\n- A technical capability notice under the Investigatory Powers Act requires Apple to assist law enforcement globally.\n- Apple's Advanced Data Protection service utilizes end-to-end encryption, meaning only account holders can decrypt files.\n- Apple has stated it would refuse to build a backdoor and withdraw security features from the UK market instead.\n- The UK government’s demand may lead to conflicts with EU data-sharing agreements.",
@@ -31643,127 +31759,5 @@
       }
     ],
     "lastUpdated": "2025-01-24T17:10:25.709Z"
-  },
-  {
-    "title": "Sony Japan ends production of recordable Blu-rays with ‘no successor’ planned",
-    "id": "1onepoh11n287y",
-    "summary": "- Sony will cease production of recordable Blu-rays, starting in February 2025.\n- The discontinuation does not affect pre-recorded Blu-ray films or TV shows.\n- Recordable MiniDiscs, MD-Data, and MiniDV cassettes will also be discontinued.\n- Sony hinted at this decision last year, indicating a gradual end to development of recordable optical media.\n- Sony has been a leader in Blu-ray production since the format's inception in 2000.\n- Other companies like LG, Samsung, and Oppo are also moving away from Blu-ray technology.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 6,
-      "novelty": 5,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "Sony",
-      "Blu-ray",
-      "recordable media",
-      "discontinuation",
-      "MiniDisc",
-      "optical disc"
-    ],
-    "sources": [
-      {
-        "title": "Sony Japan ends production of recordable Blu-rays with ‘no successor’ planned",
-        "link": "https://www.theverge.com/2025/1/24/24350993/sony-recordable-blu-ray-end-production-no-successor"
-      }
-    ],
-    "lastUpdated": "2025-01-24T16:12:51.969Z"
-  },
-  {
-    "title": "Hironobu Sakaguchi wants his next (and maybe last) game to be ‘a successor to Final Fantasy VI’",
-    "id": "1tnhmoy1xq24cm",
-    "summary": "- Hironobu Sakaguchi's new project is intended as a spiritual successor to Final Fantasy VI.\n- Fantasian, released on Apple Arcade in 2021, was meant to be his final game but has led to new developments.\n- The newer version, Neo Dimension, adds features like voice acting and is available on more platforms.\n- Sakaguchi reflects on the significance of working with Square Enix again, citing it as a full-circle moment.\n- He discusses the importance of voice acting in games and the collaboration with actors to develop character voices.\n- The enduring appeal of RPGs is attributed to their immersive experience and the balance of technology and creativity in game design.",
-    "thumbnails": [
-      "https://duet-cdn.vox-cdn.com/thumbor/0x0:1920x1080/2400x1350/filters:focal(960x540:961x541):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25844283/ss_31650efddbc783f9b85a964a53295d4aa1969c0d.jpg"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 7,
-      "novelty": 8,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "Hironobu Sakaguchi",
-      "Final Fantasy VI",
-      "Fantasian",
-      "Neo Dimension",
-      "RPG",
-      "Square Enix",
-      "voice acting",
-      "video games",
-      "game development"
-    ],
-    "sources": [
-      {
-        "title": "Hironobu Sakaguchi wants his next (and maybe last) game to be ‘a successor to Final Fantasy VI’",
-        "link": "https://www.theverge.com/2025/1/24/24350575/hironobu-sakaguchi-interview-fantasian-neo-dimension"
-      }
-    ],
-    "lastUpdated": "2025-01-24T16:12:51.969Z"
-  },
-  {
-    "title": "Chris Ware explains how to draw strangers on the bus without getting arrested",
-    "id": "1mfxs0x0ao1t0e",
-    "summary": "- Cartoonist Chris Ware discusses the intricacies of his drawing styles in his latest book, the final installment of the *Acme Novelty Datebook* series, spanning from 2002 to 2023.\n- The book includes various illustrations from his daughter’s growth to societal observations and more, showcasing his meticulous penmanship and unique cartooning philosophy.\n- Ware emphasizes drawing from life to better understand human expression and vulnerability, sharing tips on how to discreetly sketch strangers on public transportation without drawing their suspicions.\n- He reflects on how parenthood has influenced his artistic process, leading to a greater appreciation of time and productivity during his daughter's early years.\n- Ware candidly shares his struggles with self-doubt and the emotional aspects of art-making, suggesting that personal challenges can enhance artistic self-criticism and creativity.",
-    "thumbnails": [
-      "https://duet-cdn.vox-cdn.com/thumbor/0x0:2000x1744/2400x2093/filters:focal(1000x872:1001x873):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25842599/WarePortrait.jpg"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 6,
-      "novelty": 8,
-      "longTermSignificance": 5
-    },
-    "keywords": [
-      "Chris Ware",
-      "drawing",
-      "comics",
-      "art",
-      "parenthood",
-      "self-deprecation",
-      "Acme Novelty Datebook",
-      "public transportation",
-      "illustration"
-    ],
-    "sources": [
-      {
-        "title": "Chris Ware explains how to draw strangers on the bus without getting arrested",
-        "link": "https://www.theverge.com/2025/1/24/24349754/chris-ware-cartoonist-art-drawing-acme-datebook-interview"
-      }
-    ],
-    "lastUpdated": "2025-01-24T16:12:51.969Z"
-  },
-  {
-    "title": "Flip, the TikTok Shop rival, launches a creator fund that grants up to $100M of equity",
-    "id": "1n938ck04rbxw2",
-    "summary": "- Flip is a social commerce app enabling shoppers to become creators and earn money by sharing reviews.\n- The newly introduced creator fund offers up to $100 million in grants, ranging from $6,000 to $100,000 depending on engagement, with aims to distribute up to $1 million daily for the first month.\n- Eligibility requires creators to have a minimum of 4,000 followers and 10 videos with at least 3,000 views in the past month, or 20,000 followers on other platforms.\n- Within 72 hours of the fund's launch, nearly 10,000 influencers applied, with the highest grant awarded being $67,000.\n- Flip has gained 580,000 downloads in January and is currently introducing new features to enhance user engagement as part of its strategy to compete in the social commerce market.",
-    "thumbnails": [
-      "https://techcrunch.com/wp-content/uploads/2025/01/Flip3.png?w=680"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 7,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "Flip",
-      "creator fund",
-      "social commerce",
-      "influencers",
-      "TikTok Shop",
-      "grants",
-      "equity",
-      "platform competition"
-    ],
-    "sources": [
-      {
-        "title": "Flip, the TikTok Shop rival, launches a creator fund that grants up to $100M of equity",
-        "link": "https://techcrunch.com/2025/01/24/flip-launches-a-creator-fund-that-grants-up-to-100m-of-equity/"
-      }
-    ],
-    "lastUpdated": "2025-01-24T16:12:51.968Z"
   }
 ]

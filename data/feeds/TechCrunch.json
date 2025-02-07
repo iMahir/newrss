@@ -4,6 +4,76 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Ilya Sutskever’s Startup in Talks for $20B Fundraising",
+      "link": "https://techcrunch.com/2025/02/07/report-ilya-sutskevers-startup-in-talks-to-fundraise-at-roughly-20b-valuation/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/05/ilyausutskever-GettyImages.jpg?w=1024",
+      "summary": "- Safe Superintelligence, founded by Ilya Sutskever, seeks to raise funding at a valuation of at least $20 billion as of February 7, 2025.\n- It is not clear how much funding the startup is aiming for; the new valuation is four times its previous $5 billion valuation from September 2024.\n- Safe Superintelligence has yet to generate revenue and has raised $1 billion to date with backing from investors like Sequoia Capital, Andreessen Horowitz, and DST Global.\n- Sutskever is recognized for his significant contributions to AI, notably during his time at OpenAI.",
+      "keywords": [
+        "Ilya Sutskever",
+        "AI",
+        "Safe Superintelligence",
+        "fundraising",
+        "valuation"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-07T16:06:36.000Z"
+    },
+    {
+      "title": "HPE begins notifying data breach victims after Russian government hack",
+      "link": "https://techcrunch.com/2025/02/07/hpe-begins-notifying-data-breach-victims-after-russian-government-hack/",
+      "author": "Zack Whittaker",
+      "thumbnail": null,
+      "summary": "- Hewlett Packard Enterprise (HPE) has notified individuals affected by a data breach attributed to Russian hackers in 2023.\n- The breach involved personal information like Social Security numbers, driver’s license information, and credit card numbers.\n- The cyberattack began in May 2023 and affected HPE's email and SharePoint systems, hosted by Microsoft.\n- The hackers, known as Midnight Blizzard, are linked to Russia's foreign intelligence service, SVR.\n- Microsoft confirmed their network was also compromised, targeting corporate executives and cybersecurity staff.",
+      "keywords": [
+        "Hewlett Packard Enterprise",
+        "data breach",
+        "cyberattack",
+        "Russian hackers",
+        "Midnight Blizzard",
+        "SVR",
+        "Microsoft",
+        "personal information",
+        "email systems",
+        "SharePoint"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-07T15:20:47.000Z"
+    },
+    {
+      "title": "PromptLayer is building tools to put non-techies in the driver’s seat of AI app development",
+      "link": "https://techcrunch.com/2025/02/07/promptlayer-is-building-tools-to-put-non-techies-in-the-drivers-seat-of-ai-app-development/",
+      "author": "Jared Zoneraich, Jonathan Pedoeem",
+      "thumbnail": null,
+      "summary": "- PromptLayer is focused on building tools for non-technical users to enhance AI app development.\n- The company has raised $4.8 million in a seed round led by Ivan Bercovich, with participation from several investors.\n- Their platform features a 'prompt registry' for version control and testing of prompts, aimed at domain experts.\n- PromptLayer has over 10,000 customers, with 13x revenue growth this year, primarily driven by word-of-mouth.",
+      "keywords": [
+        "PromptLayer",
+        "AI development",
+        "prompt engineering",
+        "non-technical tools",
+        "seed funding",
+        "domain experts",
+        "revenue growth"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-07T15:16:31.000Z"
+    },
+    {
       "title": "Pinterest lists DEI attacks as possible business risk in latest filing",
       "link": "https://techcrunch.com/2025/02/07/pinterest-lists-dei-attacks-as-possible-business-risk-latest-filing/",
       "author": "Dominic-Madori Davis",
@@ -1096,74 +1166,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-06T14:00:00.000Z"
-    },
-    {
-      "title": "You can now use ChatGPT web search without logging in",
-      "link": "https://techcrunch.com/2025/02/06/you-can-now-use-chatgpt-web-search-without-logging-in/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "* OpenAI now allows users to access ChatGPT web search without logging in.\n* Previously, only premium subscribers could use real-time queries like sports scores and news.\n* The login requirement for using ChatGPT Search has been removed for the web version, but the mobile app still requires login.",
-      "keywords": [
-        "ChatGPT",
-        "OpenAI",
-        "web search",
-        "login",
-        "real-time queries"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-06T13:27:53.000Z"
-    },
-    {
-      "title": "IMI becomes the latest British engineering firm to be hacked",
-      "link": "https://techcrunch.com/2025/02/06/imi-becomes-the-latest-british-engineering-firm-to-be-hacked/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2016/07/malware.png?w=1024",
-      "summary": "- British engineering company IMI disclosed a cybersecurity incident on February 6, 2025.\n- The firm reported unauthorized access to its systems and is engaging external cybersecurity experts.\n- IMI is complying with regulatory obligations but has not confirmed if any data was exfiltrated.\n- This follows a recent incident involving rival firm Smiths Group, which also faced unauthorized network access.",
-      "keywords": [
-        "cybersecurity",
-        "IMI",
-        "hacking",
-        "British engineering",
-        "Smiths Group",
-        "incident response",
-        "industrial automation"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-06T13:10:49.000Z"
-    },
-    {
-      "title": "Shein gets more questions from EU about DSA compliance",
-      "link": "https://techcrunch.com/2025/02/06/shein-gets-more-questions-from-eu-about-dsa-compliance/",
-      "author": "Natasha Lomas",
-      "thumbnail": null,
-      "summary": "- The EU has sent a new request for information (RFI) to Shein regarding compliance with the Digital Services Act (DSA).\n- The RFI seeks detailed information on risks related to illegal content, transparency of recommender systems, and data access for researchers.\n- Shein must respond by February 27; failure to comply could lead to penalties up to 6% of global turnover.\n- Concerns regarding consumer protection, public health, and product safety in low-cost ecommerce are increasing.\n- The EU has not yet issued any DSA fines, despite multiple investigations and requests for information to platforms like Shein and AliExpress.",
-      "keywords": [
-        "Shein",
-        "EU",
-        "Digital Services Act",
-        "DSA compliance",
-        "consumer protection",
-        "ecommerce",
-        "RFI",
-        "algorithmic transparency"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-06T13:04:13.000Z"
     }
   ]
 }
