@@ -4,6 +4,81 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Meta launches new program to improve speech and translation AI",
+      "link": "https://techcrunch.com/2025/02/07/meta-launches-new-program-to-improve-speech-and-translation-ai/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "• Meta is launching a program in partnership with UNESCO to collect speech recordings and transcriptions for AI development.\n• The <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdzcRdtkQCuTrXw727DgJgWbOPKDj5v0bArgGfQUTT6sEopFw/viewform\">Language Technology Partner Program</a> seeks collaborators for diverse languages, requiring over 10 hours of recordings and transcriptions.\n• Current partners include the government of Nunavut, focusing on underserved languages like Inuktut.\n• Meta is also releasing an <a href=\"https://huggingface.co/spaces/facebook/bouquet\">open source machine translation benchmark</a> to assess language models.\n• The initiatives are framed as philanthropic, but Meta aims to enhance its own AI capabilities for translation and speech recognition.",
+      "keywords": [
+        "Meta",
+        "AI",
+        "speech recognition",
+        "translation",
+        "UNESCO",
+        "machine learning",
+        "open source",
+        "language technology",
+        "Inuktut",
+        "philanthropy"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-07T09:00:00.000Z"
+    },
+    {
+      "title": "Meta is studying how humans and robots can collaborate on housework",
+      "link": "https://techcrunch.com/2025/02/07/meta-is-studying-how-humans-and-robots-can-collaborate-on-housework/",
+      "author": "Brian Heater",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2022/11/Living-Room-Scene-Press.jpeg?w=680",
+      "summary": "- Meta launched PARTNR, a program to study human-robot interaction focused on collaboration in domestic tasks like cleaning and cooking.\n- Automated housework has been a longstanding aspiration, but only robot vacuums have gained traction in the market due to issues like cost and functionality.\n- PARTNR includes 100,000 tasks for robots, with a dataset released for training AI models, also successfully tested with Boston Dynamics’ Spot robot.\n- The initiative aims to reimagine robots as partners in households, facilitating research in human-robot collaboration.",
+      "keywords": [
+        "Meta",
+        "human-robot interaction",
+        "housework",
+        "automation",
+        "robotics",
+        "AI",
+        "PARTNR"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-07T09:00:00.000Z"
+    },
+    {
+      "title": "Swiggy, 2024’s biggest tech listing, falls below its IPO price and 2022 valuation",
+      "link": "https://techcrunch.com/2025/02/07/swiggy-2024s-biggest-tech-listing-falls-below-its-ipo-price-and-2022-valuation/",
+      "author": "Manish Singh",
+      "thumbnail": null,
+      "summary": "- Swiggy's stock dropped to ₹374.80 ($4.29), below its November IPO price of ₹390.\n- The decrease in stock price resulted in a market cap of $9.75 billion.\n- Swiggy's Instamart business reported a loss of market share despite store expansion and increased marketing.\n- Competitor Zomato's Blinkit achieved double the gross order value of Instamart this quarter.\n- Swiggy added 96 dark stores, totaling 705, but was outpaced by Blinkit's 216 stores for a total of 1,007.\n- Swiggy's cash reserves are ₹82 billion ($936 million), less than Zomato's ₹190 billion ($2.2 billion).",
+      "keywords": [
+        "Swiggy",
+        "IPO",
+        "stock market",
+        "quick commerce",
+        "Instamart",
+        "Zomato",
+        "Blinkit",
+        "financial performance",
+        "investment",
+        "India startup"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-07T08:50:05.000Z"
+    },
+    {
       "title": "India to launch new domain name for banks to fight digital fraud",
       "link": "https://techcrunch.com/2025/02/06/india-to-launch-new-domain-name-for-banks-to-fight-digital-fraud/",
       "author": null,
@@ -1088,82 +1163,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-06T07:15:00.000Z"
-    },
-    {
-      "title": "Aiming to accelerate product design with AI, Trace.Space raises a seed round",
-      "link": "https://techcrunch.com/2025/02/05/aiming-to-accelerate-product-design-with-ai-trace-space-raises-a-seed-round/",
-      "author": "Mike Butcher",
-      "thumbnail": null,
-      "summary": "- Trace.Space, based in Riga, Latvia, has raised $4 million in seed funding to enhance product design using AI.\n- The platform focuses on developing complex regulated products like electric vehicles, satellites, and medical devices via a cloud-based approach.\n- Industry pressures from Asian manufacturers drive the need for modern AI-driven design tools.",
-      "keywords": [
-        "AI",
-        "product design",
-        "Trace.Space",
-        "seed funding",
-        "cloud computing",
-        "engineering",
-        "autonomous vehicles",
-        "startup"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-06T06:15:05.000Z"
-    },
-    {
-      "title": "Researchers Benchmark AI Reasoning Using NPR's Sunday Puzzle",
-      "link": "https://techcrunch.com/2025/02/05/these-researchers-used-npr-sunday-puzzle-questions-to-benchmark-ai-reasoning-models/",
-      "author": "Kyle Wiggers",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Screenshot-2025-02-06-at-12.41.18AM.png?w=680",
-      "summary": "- NPR's Sunday Puzzle provides a unique benchmark for testing AI reasoning capabilities.\n- Researchers from various colleges created a benchmark using around 600 riddles from the puzzle.\n- AI models like OpenAI’s o1 and DeepSeek’s R1 were tested, revealing unexpected behaviors such as 'giving up' or providing incorrect answers.\n- The best-performing model achieved a score of 59%, while higher reasoning effort models performed slightly lower.\n- This study aims to create accessible reasoning benchmarks that don’t require advanced knowledge, promoting better understanding of AI capabilities.",
-      "keywords": [
-        "AI",
-        "reasoning",
-        "benchmark",
-        "NPR",
-        "puzzle",
-        "OpenAI",
-        "research",
-        "Wellesley College",
-        "Oberlin College",
-        "University of Texas",
-        "Northeastern University",
-        "Cursor"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-06T05:47:27.000Z"
-    },
-    {
-      "title": "Boston Dynamics joins forces with its former CEO to speed the learning of its Atlas humanoid robot",
-      "link": "https://techcrunch.com/2025/02/05/boston-dynamics-joins-forces-with-its-former-ceo-to-speed-the-learning-of-its-atlas-humanoid-robot/",
-      "author": "Brian Heater",
-      "thumbnail": null,
-      "summary": "- Boston Dynamics announced a partnership with the Robotics & AI Institute to enhance reinforcement learning for its Atlas humanoid robot.\n- The collaboration aims to improve learning efficiency using simulation-based techniques and trial-and-error methods similar to human learning.\n- The initiative focuses on advancing Atlas's ability to perform complex tasks like dynamic running and full-body manipulation of heavy objects.\n- Marc Raibert, former CEO of Boston Dynamics, leads the RAI Institute, which explores experimental robotics technologies funded by Hyundai.\n- This partnership follows a recent collaboration with Toyota Research Institute to apply large behavior models to improve robotic capabilities.",
-      "keywords": [
-        "Boston Dynamics",
-        "Atlas humanoid robot",
-        "Robotics & AI Institute",
-        "reinforcement learning",
-        "Marc Raibert",
-        "robotics",
-        "Hyundai",
-        "technology partnership"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-06T00:24:48.000Z"
     }
   ]
 }
