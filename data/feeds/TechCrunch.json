@@ -4,6 +4,53 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "UK government demands Apple backdoor to encrypted cloud data: report",
+      "link": "https://techcrunch.com/2025/02/07/uk-government-demands-apple-backdoor-to-encrypted-cloud-data-report/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Apple-logo-Getty.jpg?w=1024",
+      "summary": "- The UK government secretly ordered Apple to create a backdoor for accessing users' encrypted iCloud data.\n- The demand was made in January under the UK's Investigatory Powers Act 2016, requesting blanket access to all encrypted files.\n- Apple may stop offering its encrypted cloud storage, Advanced Data Protection, to UK users due to this demand.",
+      "keywords": [
+        "UK",
+        "Apple",
+        "encryption",
+        "cloud data",
+        "backdoor",
+        "iCloud",
+        "privacy",
+        "Investigatory Powers Act"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-07T12:17:35.000Z"
+    },
+    {
+      "title": "Composo helps enterprises monitor how well AI apps work",
+      "link": "https://techcrunch.com/2025/02/07/composo-helps-enterprises-monitor-how-well-ai-apps-work/",
+      "author": "Sebastian Fox",
+      "thumbnail": null,
+      "summary": "- London-based startup [Composo](https://www.composo.ai/) helps enterprises evaluate the accuracy of large language model applications.\n- Offers both no-code and API options, allowing non-developers to assess AI apps.\n- Recently raised $2 million in pre-seed funding, working with clients like Accenture and Palantir.\n- Plans to expand its engineering team and bolster R&D efforts.\n- Focuses on reducing risks associated with unreliable AI in various industries including compliance, legal, healthcare, and security.",
+      "keywords": [
+        "Composo",
+        "AI",
+        "Enterprises",
+        "Large Language Models",
+        "Evaluation",
+        "Funding",
+        "Startup"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-07T11:38:43.000Z"
+    },
+    {
       "title": "PowerSchool data breach affected 16,000 students in the UK",
       "link": "https://techcrunch.com/2025/02/07/powerschool-data-breach-affected-16000-students-in-the-uk/",
       "author": "Carly Page",
@@ -1118,53 +1165,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-02-06T11:30:00.000Z"
-    },
-    {
-      "title": "First lab-grown meat treats go on sale in the UK — for dogs",
-      "link": "https://techcrunch.com/2025/02/06/first-lab-grown-meat-treats-go-on-sale-in-the-uk-for-dogs/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Cultivated chicken doggie snacks are available at UK retailer Pets at Home.\n- These treats are produced by startup <a href=\"https://meatly.pet/\" target=\"_blank\" rel=\"noreferrer noopener nofollow\">Meatly</a>, which has a significant investment from Pets at Home.\n- The product, called The Pack’s Chick Bites, features slaughter-free, low carbon ingredients.\n- Meatly claims to be the first to retail cultivated meat for pet food, achieving regulatory approval last summer.\n- The initial release of these snacks is limited as production capacity is capped, but Meatly plans to scale up availability.",
-      "keywords": [
-        "lab-grown meat",
-        "dog treats",
-        "pets",
-        "UK",
-        "Meatly",
-        "cultivated meat",
-        "environmental impact",
-        "pet food"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 8,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-02-06T10:18:19.000Z"
-    },
-    {
-      "title": "Comstruct, a platform to digitize the construction industry, raises $13.5 million",
-      "link": "https://techcrunch.com/2025/02/06/comstruct-a-platform-to-digitize-the-construction-industry-raises-135-million/",
-      "author": "Romain Dillet",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Gotthard-Tunnel-CREDIT-IMPLENIA-Large.jpeg?w=680",
-      "summary": "- Munich-based startup Comstruct has raised $12.5 million in a Series A round led by GV and 20VC, with support from Booom and Puzzle Ventures.\n- Comstruct aims to digitize the procurement process in construction, which is currently very analog, by unifying materials orders from multiple suppliers onto one platform.\n- The platform has already integrated 800 material suppliers and covers 70-80% of requested suppliers in Switzerland, with plans to expand into Germany, Austria, and other countries.\n- Comstruct has four modules for ordering, digital delivery receipts, invoice reconciliation, and ESG reporting, implementing usage-based pricing.",
-      "keywords": [
-        "construction",
-        "digitization",
-        "startup",
-        "funding",
-        "procurement",
-        "software platform",
-        "Europe"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-06T10:06:04.000Z"
     }
   ]
 }
