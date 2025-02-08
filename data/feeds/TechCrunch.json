@@ -4,6 +4,31 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Why the ‘spirit’ of open source means much more than a license",
+      "link": "https://techcrunch.com/2025/02/08/why-the-spirit-of-open-source-means-much-more-than-a-license/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- The debate over what constitutes 'open source' often involves the Open Source Initiative (OSI) to validate licenses.\n- Key discussions include the implications of companies placing features behind paywalls and the transparency of project development.\n- The culture and governance of open source are as important as the legal definitions.\n- The Android Open Source Project is cited as a prime example, but Google's control raises questions about community input and independence.\n- Experts warn that a project owned by a single vendor might lack true open source characteristics and raise issues about long-term viability.\n- The rising importance of open source in AI is highlighted, with calls for openness in AI models like DeepSeek and Meta's Llama models.\n- Regulatory pressures like the EU AI Act are influencing the definitions of open source, suggesting companies may seek to redesign its meaning.",
+      "keywords": [
+        "open source",
+        "OSI",
+        "Android Open Source Project",
+        "transparency",
+        "AI",
+        "community governance",
+        "licensing",
+        "meta Llama",
+        "DeepSeek"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-08T15:00:00.000Z"
+    },
+    {
       "title": "Christie’s announces AI art auction, and not everyone is pleased",
       "link": "https://techcrunch.com/2025/02/08/christies-announces-ai-art-auction-and-not-everyone-is-pleased/",
       "author": null,
@@ -1143,29 +1168,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-06T21:31:46.000Z"
-    },
-    {
-      "title": "Snap CEO helps launch LA wildfire recovery program",
-      "link": "https://techcrunch.com/2025/02/06/snap-ceo-helps-launch-la-wildfire-recovery-program/",
-      "author": "Evan Spiegel, Miguel Santana",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2019/10/Evan-Spiegel-SnapDSC04070.jpg?w=1024",
-      "summary": "- Snap CEO Evan Spiegel and California Community Foundation CEO Miguel Santana are launching a recovery program for wildfire-affected residents in Altadena and Pacific Palisades.\n- The program, named the [Department of Angels](https://www.deptofangels.org/about), is backed by $10 million in funding from Snap and the California Community Foundation.\n- The initiative aims to empower local communities to manage their own recovery efforts post-wildfires, emphasizing grassroots involvement and independent project management support.",
-      "keywords": [
-        "Snap",
-        "wildfire recovery",
-        "Los Angeles",
-        "community initiative",
-        "Department of Angels",
-        "Evan Spiegel",
-        "California Community Foundation"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 8,
-        "novelty": 5,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-06T20:49:01.000Z"
     }
   ]
 }
