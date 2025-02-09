@@ -4,6 +4,59 @@
   "feedUrl": "https://www.techinasia.com/feed",
   "items": [
     {
+      "title": "50 rising startups in Israel",
+      "link": "https://www.techinasia.com/top-50-rising-startups-israel",
+      "author": null,
+      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2021/03/rising-israel.jpg",
+      "summary": "- An updated list of Israeli startups recently raising funding.\n- Includes companies up to the series E funding stage.\n- Features key details about each funding round.\n- Access to the full article requires a subscription.",
+      "keywords": [
+        "startups",
+        "Israel",
+        "funding",
+        "series E",
+        "Tech in Asia"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-09T07:00:00.000Z"
+    },
+    {
+      "title": "Apple explores expressive robotics with Pixar-like lamp",
+      "link": "https://www.techinasia.com/news/apple-explores-expressive-robotics-with-pixar-like-lamp",
+      "author": null,
+      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/01/1736654762_shutterstock_187278248.jpg",
+      "summary": "- Apple shares details on consumer robotics research focusing on expressive movements for better human-robot interaction.\n- A prototype lamp mimics Pixar’s Luxo Jr., demonstrating movements that convey attention and intention.\n- The lamp responds to queries using Siri, indicating alignment with Apple’s smart home strategy, though still in research phase with no confirmed products.",
+      "keywords": [
+        "Apple",
+        "robotics",
+        "expressive movements",
+        "Siri",
+        "Luxo Jr.",
+        "smart home"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 8,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-09T06:30:05.000Z"
+    },
+    {
+      "title": "India’s healthtech startup Mosaic Wellness revenue up 60%",
+      "link": "https://www.techinasia.com/news/indias-healthtech-startup-mosaic-wellness-revenue-up-60",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-02-09T06:15:07.000Z"
+    },
+    {
       "title": "FirstCry narrows Q3 loss by 69.5%, revenue up 14.3%",
       "link": "https://www.techinasia.com/news/firstcry-narrows-q3-loss-by-69-5-revenue-up-14-3",
       "author": null,
@@ -1040,73 +1093,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-07T06:25:52.000Z"
-    },
-    {
-      "title": "Mistral AI launches ‘Le Chat’ mobile chatbot",
-      "link": "https://www.techinasia.com/news/mistral-ai-launches-le-chat-mobile-chatbot",
-      "author": null,
-      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2023/12/1702365515_mistral-698.png",
-      "summary": "- Mistral AI has launched 'Le Chat', an open-source generative AI assistant app.\n- The app can process up to 1,000 words per second using a fast inference engine.\n- Le Chat has several million active users, indicating significant traction.",
-      "keywords": [
-        "Mistral AI",
-        "Le Chat",
-        "mobile chatbot",
-        "generative AI",
-        "Nvidia"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-07T06:15:47.000Z"
-    },
-    {
-      "title": "Russia’s Sberbank eyes AI partnership with DeepSeek",
-      "link": "https://www.techinasia.com/news/russias-sberbank-eyes-ai-partnership-deepseek",
-      "author": null,
-      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/01/1738149545_DeepSeek-shutterstock-scaled.jpg",
-      "summary": "- Sberbank, Russia’s largest bank, plans to collaborate with Chinese researchers on AI projects led by DeepSeek.\n- This initiative follows advancements in AI by China and is part of Russia's strategy to strengthen ties with China and BRICS nations after Western sanctions.\n- President Vladimir Putin has urged Sberbank to enhance AI cooperation for better technology access.",
-      "keywords": [
-        "Sberbank",
-        "AI partnership",
-        "DeepSeek",
-        "China",
-        "BRICS",
-        "technology"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-07T06:00:55.000Z"
-    },
-    {
-      "title": "Google introduces digital watermarks for AI-edited images",
-      "link": "https://www.techinasia.com/news/google-introduces-digital-watermarks-for-ai-edited-images",
-      "author": null,
-      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2024/05/1715929239_shutterstock_2430023717.jpg",
-      "summary": "- Google has launched digital watermarks for images edited using the Magic Editor’s \"Reimagine\" feature in Google Photos, specifically for Pixel 9 devices.\n- This feature enhances transparency about generative AI in photo editing and was released this week.\n- The \"Reimagine\" tool, introduced in 2024, allows significant modifications to images, raising concerns about distinguishing original from AI-modified photos.\n- SynthID, developed by Google’s DeepMind division, embeds watermarks in AI-edited images while maintaining their visual integrity. Users can verify existing watermarks as well.\n- The technology currently supports beta tests for AI-generated text and video as well.\n- Users can find images with watermarks through the \"About this Image\" metadata in Google Photos, although very minor edits may go undetected.",
-      "keywords": [
-        "Google",
-        "digital watermarks",
-        "AI-edited images",
-        "Magic Editor",
-        "transparency",
-        "SynthID",
-        "Google Photos",
-        "DeepMind"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-07T05:50:54.000Z"
     }
   ]
 }
