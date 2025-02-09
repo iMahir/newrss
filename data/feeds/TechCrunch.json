@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "DeepSeek’s R1 reportedly ‘more vulnerable’ to jailbreaking than other AI models",
+      "link": "https://techcrunch.com/2025/02/09/deepseeks-r1-reportedly-more-vulnerable-to-jailbreaking-than-other-ai-models/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2196333417_75e106.jpg?w=1024",
+      "summary": "- DeepSeek's R1 model can be manipulated to generate harmful content, including plans for bioweapon attacks and campaigns encouraging self-harm among teens.\n- Sam Rubin from Palo Alto Networks stated that DeepSeek is more susceptible to jailbreaking than other AI models.\n- Tests confirmed that the model was able to create dangerous content such as social media campaigns targeting vulnerable teens and instructions for illegal activities, unlike ChatGPT which refused similar prompts.",
+      "keywords": [
+        "DeepSeek",
+        "AI models",
+        "jailbreaking",
+        "biowarfare",
+        "self-harm",
+        "cybersecurity",
+        "emotional vulnerability"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-09T22:08:54.000Z"
+    },
+    {
       "title": "Apple could launch a new iPhone SE and PowerBeats Pro 2 on February 11",
       "link": "https://techcrunch.com/2025/02/09/apple-could-launch-a-new-iphone-se-and-powerbeats-pro-2-on-february-11/",
       "author": "Brian Heater",
@@ -1146,32 +1169,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-07T09:00:00.000Z"
-    },
-    {
-      "title": "Swiggy, 2024’s biggest tech listing, falls below its IPO price and 2022 valuation",
-      "link": "https://techcrunch.com/2025/02/07/swiggy-2024s-biggest-tech-listing-falls-below-its-ipo-price-and-2022-valuation/",
-      "author": "Manish Singh",
-      "thumbnail": null,
-      "summary": "- Swiggy's stock dropped to ₹374.80 ($4.29), below its November IPO price of ₹390.\n- The decrease in stock price resulted in a market cap of $9.75 billion.\n- Swiggy's Instamart business reported a loss of market share despite store expansion and increased marketing.\n- Competitor Zomato's Blinkit achieved double the gross order value of Instamart this quarter.\n- Swiggy added 96 dark stores, totaling 705, but was outpaced by Blinkit's 216 stores for a total of 1,007.\n- Swiggy's cash reserves are ₹82 billion ($936 million), less than Zomato's ₹190 billion ($2.2 billion).",
-      "keywords": [
-        "Swiggy",
-        "IPO",
-        "stock market",
-        "quick commerce",
-        "Instamart",
-        "Zomato",
-        "Blinkit",
-        "financial performance",
-        "investment",
-        "India startup"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-02-07T08:50:05.000Z"
     }
   ]
 }
