@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "OpenAI CEO Sam Altman admits that AI’s benefits may not be widely distributed",
+      "link": "https://techcrunch.com/2025/02/09/openai-ceo-sam-altman-admits-that-ais-benefits-may-not-be-widely-distributed/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- OpenAI CEO Sam Altman discussed the unequal distribution of AI's benefits in a personal blog post.\n- Altman proposed a 'compute budget' to enable widespread AI access.\n- The rise of AI is impacting the labor market, leading to job cuts and downsizing.\n- Experts warn that without proper policies, mass unemployment could result from AI tech.\n- Altman claims that artificial general intelligence (AGI) is nearing, but warns it may not be perfect and needs supervision.\n- OpenAI is reportedly raising up to $40 billion for AI development and aiming for $100 billion in revenue by 2029.\n- Altman stresses the importance of balancing safety and individual empowerment in AI development.\n- The AI Action Summit in Paris is expected to highlight various visions for AI's future.",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Sam Altman",
+        "AGI",
+        "job market",
+        "technology equity",
+        "AI Action Summit"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-09T22:32:09.000Z"
+    },
+    {
       "title": "DeepSeek’s R1 reportedly ‘more vulnerable’ to jailbreaking than other AI models",
       "link": "https://techcrunch.com/2025/02/09/deepseeks-r1-reportedly-more-vulnerable-to-jailbreaking-than-other-ai-models/",
       "author": null,
@@ -1138,29 +1161,6 @@
         "language technology",
         "Inuktut",
         "philanthropy"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-07T09:00:00.000Z"
-    },
-    {
-      "title": "Meta is studying how humans and robots can collaborate on housework",
-      "link": "https://techcrunch.com/2025/02/07/meta-is-studying-how-humans-and-robots-can-collaborate-on-housework/",
-      "author": "Brian Heater",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2022/11/Living-Room-Scene-Press.jpeg?w=680",
-      "summary": "- Meta launched PARTNR, a program to study human-robot interaction focused on collaboration in domestic tasks like cleaning and cooking.\n- Automated housework has been a longstanding aspiration, but only robot vacuums have gained traction in the market due to issues like cost and functionality.\n- PARTNR includes 100,000 tasks for robots, with a dataset released for training AI models, also successfully tested with Boston Dynamics’ Spot robot.\n- The initiative aims to reimagine robots as partners in households, facilitating research in human-robot collaboration.",
-      "keywords": [
-        "Meta",
-        "human-robot interaction",
-        "housework",
-        "automation",
-        "robotics",
-        "AI",
-        "PARTNR"
       ],
       "scores": {
         "scale": 7,
