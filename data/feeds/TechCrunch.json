@@ -4,6 +4,28 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Saudi’s BRKZ closes $17M Series A for its construction tech platform",
+      "link": "https://techcrunch.com/2025/02/09/saudis-brkz-closes-17m-series-a-for-its-construction-tech-platform/",
+      "author": "Not given",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/IMG_9678.jpeg?w=680",
+      "summary": "- BRKZ, a Riyadh-based construction tech startup, has raised a total of $17 million in Series A funding to streamline procurement in the construction industry.\n- Existing investors include Aramco’s Waed, BECO Capital, and more, following an earlier $8 million round announced in March 2024.\n- The platform facilitates procurement of building materials with features like transparent pricing and competitive quotes, and aims to expand its revenue streams by importing hard-to-source materials from China, India, and Turkey.",
+      "keywords": [
+        "BRKZ",
+        "construction",
+        "investment",
+        "procurement",
+        "Saudi Arabia",
+        "technology"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-10T04:00:00.000Z"
+    },
+    {
       "title": "OpenAI CEO Sam Altman admits that AI’s benefits may not be widely distributed",
       "link": "https://techcrunch.com/2025/02/09/openai-ceo-sam-altman-admits-that-ais-benefits-may-not-be-widely-distributed/",
       "author": "Kyle Wiggers",
@@ -1143,32 +1165,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-02-07T10:14:53.000Z"
-    },
-    {
-      "title": "Meta launches new program to improve speech and translation AI",
-      "link": "https://techcrunch.com/2025/02/07/meta-launches-new-program-to-improve-speech-and-translation-ai/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "• Meta is launching a program in partnership with UNESCO to collect speech recordings and transcriptions for AI development.\n• The <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdzcRdtkQCuTrXw727DgJgWbOPKDj5v0bArgGfQUTT6sEopFw/viewform\">Language Technology Partner Program</a> seeks collaborators for diverse languages, requiring over 10 hours of recordings and transcriptions.\n• Current partners include the government of Nunavut, focusing on underserved languages like Inuktut.\n• Meta is also releasing an <a href=\"https://huggingface.co/spaces/facebook/bouquet\">open source machine translation benchmark</a> to assess language models.\n• The initiatives are framed as philanthropic, but Meta aims to enhance its own AI capabilities for translation and speech recognition.",
-      "keywords": [
-        "Meta",
-        "AI",
-        "speech recognition",
-        "translation",
-        "UNESCO",
-        "machine learning",
-        "open source",
-        "language technology",
-        "Inuktut",
-        "philanthropy"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-07T09:00:00.000Z"
     }
   ]
 }
