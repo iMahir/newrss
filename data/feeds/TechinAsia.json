@@ -4,6 +4,31 @@
   "feedUrl": "https://www.techinasia.com/feed",
   "items": [
     {
+      "title": "ByteDance releases open-source generative model VideoWorld",
+      "link": "https://www.techinasia.com/news/bytedance-releases-opensource-generative-model-videoworld",
+      "author": null,
+      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/01/1737610123_shutterstock_2387540567-scaled.jpg",
+      "summary": "- ByteDance’s Doubao AI team has launched VideoWorld, a new video generative model, on GitHub in collaboration with Beijing Jiaotong University and the University of Science and Technology of China.\n- VideoWorld features 300 million parameters and distinguishes itself by independently acquiring knowledge without relying solely on textual or tagged input data.\n- The model excels in performing complex tasks such as origami folding and bow tying, demonstrating improved intuition.\n- Researchers evaluated the model through scenarios including a Go game for rule learning and reasoning, as well as robot simulations for planning and manipulation, with training enhanced by video demonstrations for future frame prediction.",
+      "keywords": [
+        "ByteDance",
+        "VideoWorld",
+        "generative model",
+        "open-source",
+        "AI",
+        "machine learning",
+        "video generation",
+        "Beijing Jiaotong University",
+        "University of Science and Technology of China"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 9,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-10T12:44:06.000Z"
+    },
+    {
       "title": "China’s Dongfeng, Changan announce restructuring plans for NEV growth",
       "link": "https://www.techinasia.com/news/chinas-dongfeng-changan-announce-restructuring-plans-nev-growth",
       "author": null,
@@ -2801,27 +2826,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-02-09T01:30:30.000Z"
-    },
-    {
-      "title": "Elon Musk says he has no plans to buy TikTok",
-      "link": "https://www.techinasia.com/news/elon-musk-says-he-has-no-plans-to-buy-tiktok",
-      "author": null,
-      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/01/1736745251_shutterstock_2318800285-scaled.jpeg",
-      "summary": "- Elon Musk clarifies he is not seeking to acquire TikTok and has not made any bid for it.\n- He expressed that he does not use TikTok and is unfamiliar with the app's features.\n- Musk stated acquiring companies is not typical for him, considering his purchase of Twitter (now X) an exception.\n- His comments come amid ongoing scrutiny of TikTok by the US government due to national security concerns.\n- US President Donald Trump has previously shown interest in TikTok, with potential decisions on its future expected in February.",
-      "keywords": [
-        "Elon Musk",
-        "TikTok",
-        "acquisition",
-        "national security",
-        "US government"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 6,
-        "novelty": 4,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-02-09T01:11:15.000Z"
     }
   ]
 }
