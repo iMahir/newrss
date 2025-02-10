@@ -4,6 +4,77 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "OpenAI spoke to government officials about its DeepSeek probe",
+      "link": "https://techcrunch.com/2025/02/10/openai-spoke-to-government-officials-about-its-deepseek-probe/",
+      "author": "Chris Lehane",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2023/04/openai-chatgpt-GettyImages-1247883047.jpg?w=1024",
+      "summary": "- OpenAI has communicated with government officials regarding its investigation into DeepSeek.\n- The company claims that DeepSeek improperly used data from OpenAI’s API to train its AI models.\n- OpenAI's chief global affairs officer, Chris Lehane, defended their practices by comparing them to reading library books, contrasting them with DeepSeek's alleged misconduct of reselling content as original.\n- OpenAI faces criticism for its approach to copyright issues, as it is being sued by several publishers for similar practices.",
+      "keywords": [
+        "OpenAI",
+        "DeepSeek",
+        "AI Models",
+        "Copyright",
+        "Government Investigation",
+        "Chris Lehane"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-10T20:03:34.000Z"
+    },
+    {
+      "title": "[TikTok](https://pollinations.ai/referral?topic=tiktok) wants Android users to sideload its app",
+      "link": "https://techcrunch.com/2025/02/10/tiktok-wants-android-users-to-sideload-its-app/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2084803237.jpg?w=1024",
+      "summary": "- TikTok encourages Android users to sideload its app amidst uncertainty about its future in the U.S.\n- The app is available for direct download at [TikTok.com/download](https://pollinations.ai/referral?topic=apk) as an APK file.\n- This move allows TikTok to bypass the current app store ban while enforcement is paused.",
+      "keywords": [
+        "TikTok",
+        "sideload",
+        "Android",
+        "APK",
+        "app store ban",
+        "ByteDance",
+        "US ban"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-10T19:38:57.000Z"
+    },
+    {
+      "title": "Apple fixes iPhone and iPad bug used in an ‘extremely sophisticated attack’",
+      "link": "https://techcrunch.com/2025/02/10/apple-fixes-iphone-and-ipad-bug-used-in-an-extremely-sophisticated-attack/",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "thumbnail": null,
+      "summary": "- On February 10, 2025, Apple released updates for iOS 18.3.1 and iPadOS 18.3.1 addressing a security flaw potentially exploited in targeted attacks.\n- The vulnerability allowed disabling USB Restricted Mode on locked devices, which blocks data transfer via USB connections if the device remains locked for over seven days.\n- Security researchers suggest the attack required physical access to use forensic tools like Cellebrite or Graykey.",
+      "keywords": [
+        "Apple",
+        "iPhone",
+        "iPad",
+        "security",
+        "vulnerability",
+        "cybersecurity",
+        "forensic tools",
+        "Cellebrite",
+        "Graykey",
+        "USB Restricted Mode"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-10T19:30:29.000Z"
+    },
+    {
       "title": "Macron urges Europe to simplify its regulations to get back into the AI race",
       "link": "https://techcrunch.com/2025/02/10/macron-urges-europe-to-simplify-its-regulations-to-get-back-into-the-ai-race/",
       "author": "Romain Dillet",
@@ -1093,75 +1164,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-02-07T18:05:00.000Z"
-    },
-    {
-      "title": "Self Inspection raises $3M for its AI-powered vehicle inspections",
-      "link": "https://techcrunch.com/2025/02/07/self-inspection-raises-3m-for-its-ai-powered-vehicle-inspections/",
-      "author": "Sean O'Kane",
-      "thumbnail": null,
-      "summary": "- Self Inspection, founded in 2021, raised $3 million in seed funding co-led by Costanoa Ventures and DVx Ventures.\n- The funding validates the AI-powered technology for vehicle inspections that streamlines operations in the $30 billion market.\n- Self Inspection provides detailed PDF reports on vehicle damage, generated using AI trained on a large dataset of damaged vehicles.\n- The software can integrate into existing workflows, making it accessible via smartphone web browsers without requiring a standalone app.",
-      "keywords": [
-        "Self Inspection",
-        "vehicle inspections",
-        "AI technology",
-        "funding",
-        "Costanoa Ventures",
-        "DVx Ventures"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 8,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-07T18:00:44.000Z"
-    },
-    {
-      "title": "Bpifrance will invest $10B in the French AI ecosystem by 2029",
-      "link": "https://techcrunch.com/2025/02/07/bpifrance-to-invest-10b-in-french-ai-ecosystem-by-2029/",
-      "author": "Romain Dillet",
-      "thumbnail": null,
-      "summary": "- France’s public investment bank Bpifrance announced a plan to invest €10 billion (around $10.3 billion) in the AI ecosystem by 2029.\n- This investment aims to strengthen France’s position as a leading player in the global AI market, supporting existing 750 AI startups.\n- Bpifrance is already a shareholder in major AI firms like Mistral and Poolside, and it plans to focus on AI infrastructure, foundation models, and investment in other VC firms.",
-      "keywords": [
-        "Bpifrance",
-        "AI investment",
-        "France",
-        "technology",
-        "ecosystem",
-        "startups"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-07T17:46:30.000Z"
-    },
-    {
-      "title": "DeepSeek: Everything you need to know about the AI chatbot app",
-      "link": "https://techcrunch.com/2025/02/07/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- DeepSeek's chatbot rose to the top of the Apple App Store and Google Play charts recently.\n- The AI lab is backed by High-Flyer Capital Management and focuses on AI-driven trading.\n- In 2023, DeepSeek was established as a separate entity focused on AI tools, with strong recruitment from universities.\n- The company has developed competitive models, including DeepSeek-V2 and V3, focusing on efficiency and performance.\n- DeepSeek's R1 reasoning model performs comparably to OpenAI’s models on key benchmarks.\n- DeepSeek faces regulatory challenges in China affecting its output and user accessibility issues in various countries.\n- Microsoft's Azure AI Foundry includes DeepSeek models, despite concerns from tech firms about data risks.",
-      "keywords": [
-        "DeepSeek",
-        "AI chatbot",
-        "High-Flyer Capital Management",
-        "artificial intelligence",
-        "technology",
-        "market impact",
-        "DeepSeek models",
-        "regulatory challenges",
-        "Microsoft Azure"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-07T17:41:12.000Z"
     }
   ]
 }

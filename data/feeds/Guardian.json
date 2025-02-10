@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "Revelations of Israeli spyware abuse raise fears over possible use by Trump",
+      "link": "https://www.theguardian.com/world/2025/feb/10/israel-nso-spyware-whatsapp-trump",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- WhatsApp reported that 90 users, including journalists and activists, were targeted by spyware from Paragon Solutions last year.\n- Paragon's spyware, Graphite, can hack phones to access sensitive information, underlining risks of abuse by governments.\n- The US has previously engaged with similar spyware, raising concerns of potential misuse, especially related to political surveillance under Trump's administration.",
+      "keywords": [
+        "spyware",
+        "Paragon Solutions",
+        "WhatsApp",
+        "Donald Trump",
+        "cybersecurity",
+        "Israeli technology",
+        "privacy",
+        "surveillance"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-10T19:55:56.000Z"
+    },
+    {
       "title": "Want to know how the world ends? Try this Wikipedia page",
       "link": "https://www.theguardian.com/culture/2025/feb/11/want-to-know-how-the-world-ends-try-this-wikipedia-page",
       "author": null,
@@ -1190,28 +1214,6 @@
         "longTermSignificance": 9
       },
       "pubDate": "2025-02-03T05:00:30.000Z"
-    },
-    {
-      "title": "Elon Musk’s Doge team granted ‘full access’ to federal payment system",
-      "link": "https://www.theguardian.com/technology/2025/feb/02/elon-musk-doge-access-federal-payment-system",
-      "author": "Not given",
-      "thumbnail": null,
-      "summary": "- Elon Musk's 'department of government efficiency' has gained access to the federal payment system, affecting millions of Americans.\n- Senator Ron Wyden confirmed that this access includes sensitive data like social security and Medicare benefits.\n- The access was granted by Treasury Secretary Scott Bessent amid concerns of potential conflicts of interest and national security risks due to Musk's business ties.",
-      "keywords": [
-        "Elon Musk",
-        "Doge",
-        "federal payment system",
-        "Ron Wyden",
-        "national security",
-        "government efficiency"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-02T17:13:57.000Z"
     }
   ]
 }
