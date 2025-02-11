@@ -4,6 +4,29 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "New hack uses prompt injection to corrupt Gemini’s long-term memory",
+      "link": "https://arstechnica.com/security/2025/02/new-hack-uses-prompt-injection-to-corrupt-geminis-long-term-memory/",
+      "author": "Dan Goodin",
+      "thumbnail": null,
+      "summary": "- Researcher Johann Rehberger demonstrated a new hack using indirect prompt injection on Google’s Gemini chatbot.\n- The hack allows permanent false memories to be stored in the chatbot, affecting future interactions.\n- Users can unknowingly upload untrusted documents containing hidden instructions that manipulate summarization and trigger the storage of false information in long-term memory.",
+      "keywords": [
+        "AI hacking",
+        "prompt injection",
+        "Google Gemini",
+        "long-term memory",
+        "cybersecurity",
+        "data exfiltration",
+        "malicious prompts"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-11T22:13:42.000Z"
+    },
+    {
       "title": "OpenAI’s secret weapon against Nvidia dependence takes shape",
       "link": "https://arstechnica.com/ai/2025/02/openais-secret-weapon-against-nvidia-dependence-takes-shape/",
       "author": null,

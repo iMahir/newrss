@@ -1,5 +1,70 @@
 [
   {
+    "title": "New hack uses prompt injection to corrupt Gemini’s long-term memory",
+    "id": "1tiyqde08yz2gx",
+    "summary": "- Researcher Johann Rehberger demonstrated a new hack using indirect prompt injection on Google’s Gemini chatbot.\n- The hack allows permanent false memories to be stored in the chatbot, affecting future interactions.\n- Users can unknowingly upload untrusted documents containing hidden instructions that manipulate summarization and trigger the storage of false information in long-term memory.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 6,
+      "impact": 7,
+      "novelty": 8,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "AI hacking",
+      "prompt injection",
+      "Google Gemini",
+      "long-term memory",
+      "cybersecurity",
+      "data exfiltration",
+      "malicious prompts"
+    ],
+    "sources": [
+      {
+        "title": "New hack uses prompt injection to corrupt Gemini’s long-term memory",
+        "link": "https://arstechnica.com/security/2025/02/new-hack-uses-prompt-injection-to-corrupt-geminis-long-term-memory/"
+      }
+    ],
+    "lastUpdated": "2025-02-11T23:11:48.111Z"
+  },
+  {
+    "title": "Apple Maps to Rename Gulf of Mexico to Gulf of America Following Google's Lead",
+    "id": "11iwdvf1np00hn",
+    "summary": "- Google Maps officially updated the name of the Gulf of Mexico to the Gulf of America on February 10, 2025.\n- This change follows an executive order by President Donald Trump reversing previous naming conventions.\n- The president stated that the name changes aim to restore American pride in the country's history.\n- The name change is effective for U.S. users, while international users see both names, and Mexican users will still see the Gulf of Mexico.\n- Mexican President Claudia Sheinbaum has expressed concerns over the renaming and plans to question Google’s decision.\n- Apple has not yet updated its maps, as searches for “Gulf of America” yield no results on Apple Maps.\n- Apple Maps will rename the Gulf of Mexico to Gulf of America, following Google's change.\n- U.S. users may see the new name as soon as Tuesday, with other countries following.\n- Google Maps already displays the name as \"Gulf of Mexico (Gulf of America).\"\n- Sheinbaum has requested Google to reconsider the renaming.",
+    "thumbnails": [
+      "https://techcrunch.com/wp-content/uploads/2025/02/Screenshot-2025-02-10-at-7.47.19PM.png?w=680"
+    ],
+    "scores": {
+      "scale": 5,
+      "impact": 7,
+      "novelty": 5,
+      "longTermSignificance": 5
+    },
+    "keywords": [
+      "google maps",
+      "gulf of america",
+      "renaming",
+      "trump",
+      "mexico",
+      "apple maps",
+      "claudia sheinbaum",
+      "geographic names",
+      "gulf of mexico",
+      "trump executive order"
+    ],
+    "sources": [
+      {
+        "title": "Google changed the Gulf of Mexico to the Gulf of America on Maps",
+        "link": "https://techcrunch.com/2025/02/10/google-changed-the-gulf-of-mexico-to-the-gulf-of-america-on-maps/"
+      },
+      {
+        "title": "Apple Maps plans to show ‘Gulf of America,’ following Google",
+        "link": "https://techcrunch.com/2025/02/11/apple-maps-plans-to-show-gulf-of-america-following-google/"
+      }
+    ],
+    "lastUpdated": "2025-02-11T23:11:48.110Z"
+  },
+  {
     "title": "ChatGPT may not be as power-hungry as once assumed",
     "id": "1oyia0z08a6vax",
     "summary": "- A recent analysis by Epoch AI suggests ChatGPT consumes about 0.3 watt-hours per query, contrary to claims it uses around 3 watt-hours.\n- The study indicates that energy usage is comparably low to common household appliances.\n- The AI industry faces scrutiny over energy consumption and its environmental impact as companies expand data centers.\n- OpenAI plans to invest billions in new AI data center projects, anticipating increased power demands with advanced reasoning models.",
@@ -3335,37 +3400,6 @@
       {
         "title": "Saudi social media app Mush Social acquires fellow platform",
         "link": "https://www.techinasia.com/news/saudi-social-media-app-mush-social-acquires-pubbles"
-      }
-    ],
-    "lastUpdated": "2025-02-11T02:12:58.536Z"
-  },
-  {
-    "title": "Google changed the Gulf of Mexico to the Gulf of America on Maps",
-    "id": "11iwdvf1np00hn",
-    "summary": "- Google Maps officially updated the name of the Gulf of Mexico to the Gulf of America on February 10, 2025.\n- This change follows an executive order by President Donald Trump on his inauguration day reversing previous naming conventions, including renaming Mount McKinley back to Denali.\n- The president stated that the name changes aim to restore American pride in the country's history.\n- The name change is effective for U.S. users, while international users see both names, and Mexican users will still see the Gulf of Mexico.\n- Mexican President Claudia Sheinbaum has expressed concerns over the renaming and plans to question Google’s decision.\n- Apple has not yet updated its maps to reflect this change, as searches for “Gulf of America” yield no results on Apple Maps.",
-    "thumbnails": [
-      "https://techcrunch.com/wp-content/uploads/2025/02/Screenshot-2025-02-10-at-7.47.19PM.png?w=680"
-    ],
-    "scores": {
-      "scale": 5,
-      "impact": 6,
-      "novelty": 4,
-      "longTermSignificance": 5
-    },
-    "keywords": [
-      "Google Maps",
-      "Gulf of America",
-      "renaming",
-      "Trump",
-      "Mexico",
-      "Apple Maps",
-      "Claudia Sheinbaum",
-      "geographic names"
-    ],
-    "sources": [
-      {
-        "title": "Google changed the Gulf of Mexico to the Gulf of America on Maps",
-        "link": "https://techcrunch.com/2025/02/10/google-changed-the-gulf-of-mexico-to-the-gulf-of-america-on-maps/"
       }
     ],
     "lastUpdated": "2025-02-11T02:12:58.536Z"
@@ -30552,64 +30586,5 @@
       }
     ],
     "lastUpdated": "2025-01-29T00:47:53.852Z"
-  },
-  {
-    "title": "DashCon, the infamous celebration of Tumblr fandom, is coming back. This time, organizers say it will be different",
-    "id": "0v9q7ck06o7z1v",
-    "summary": "- DashCon, originally held in 2014, aimed to unite the Tumblr community.\n- The first event ended in financial crisis, leading to its notoriety as an internet failure.\n- A new event, DashCon 2, is being organized—not as a Tumblr convention, but as an internet history con, focusing on a specific era of fandom.\n- The new organizers pledge to avoid the mistakes of the first event and celebrate current artists and creators.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 5,
-      "impact": 6,
-      "novelty": 7,
-      "longTermSignificance": 5
-    },
-    "keywords": [
-      "DashCon",
-      "Tumblr",
-      "fandom",
-      "internet culture",
-      "convention"
-    ],
-    "sources": [
-      {
-        "title": "DashCon, the infamous celebration of Tumblr fandom, is coming back. This time, organizers say it will be different",
-        "link": "https://www.fastcompany.com/91268495/dashcon-infamous-tumblr-convention-coming-back-different?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
-      }
-    ],
-    "lastUpdated": "2025-01-28T23:10:59.529Z"
-  },
-  {
-    "title": "Apple Chips Vulnerabilities Allow Data Leak from Browsers",
-    "id": "0b5psvm01ofj3d",
-    "summary": "- Apple-designed chips in Macs, iPhones, and iPads have two vulnerabilities leaking sensitive data from Chrome and Safari.  \n- Vulnerabilities enable side channel attacks via speculative execution optimizations, affecting A- and M-series chip sets.  \n- The more significant attack, FLOP, can read sensitive data like location history and credit card info from targeted sites.  \n- SLAP is limited to reading adjacent strings from another webpage.  \n- Affected devices include recent Mac laptops, desktops, iPads, and iPhones since 2021.  \n- Researchers suggest potential mitigations and await patch plans from Apple, although Apple claims there's no immediate risk.",
-    "thumbnails": [
-      "https://cdn.arstechnica.net/wp-content/uploads/2025/01/flop-attack-illustration.jpg"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 9,
-      "novelty": 7,
-      "longTermSignificance": 8
-    },
-    "keywords": [
-      "Apple",
-      "vulnerabilities",
-      "chips",
-      "browser security",
-      "data leakage",
-      "FLOP",
-      "SLAP",
-      "side-channel attack",
-      "speculative execution",
-      "cybersecurity"
-    ],
-    "sources": [
-      {
-        "title": "Apple Chips Vulnerabilities Allow Data Leak from Browsers",
-        "link": "https://arstechnica.com/security/2025/01/newly-discovered-flaws-in-apple-chips-leak-secrets-in-safari-and-chrome/"
-      }
-    ],
-    "lastUpdated": "2025-01-28T23:10:59.528Z"
   }
 ]
