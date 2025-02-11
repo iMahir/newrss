@@ -4,6 +4,102 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Google says it removed cultural events from its calendar last year",
+      "link": "https://techcrunch.com/2025/02/11/google-says-it-removed-cultural-events-from-its-calender-in-mid-2024/",
+      "author": "Dominic-Madori Davis",
+      "thumbnail": null,
+      "summary": "- Google removed cultural events like Black History Month and Pride Month from the default calendar in mid-2024.  \n- Other events removed include Jewish Heritage, Indigenous Peoples Month, Holocaust Remembrance Day, and Hispanic Heritage Month.  \n- Users can still add other important moments manually to their calendars despite the removal of these events.  \n- The change is seen amidst a broader rollback of diversity, equity, and inclusion efforts by major tech companies.",
+      "keywords": [
+        "Google",
+        "calendar",
+        "cultural events",
+        "diversity",
+        "equity",
+        "inclusion",
+        "Black History Month",
+        "Pride Month"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-11T20:05:00.000Z"
+    },
+    {
+      "title": "Anduril takes control of [Microsoft’s](https://pollinations.ai/referral?topic=microsoft) $22B VR military headset program",
+      "link": "https://techcrunch.com/2025/02/11/anduril-takes-control-of-microsofts-22b-vr-military-headset-program/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- The Army has given Anduril control of the Integrated Visual Augmentation System (IVAS) program, previously held by Microsoft.\n- IVAS, awarded to Microsoft in 2018, was to develop AR headsets for soldiers, initially budgeted at $21.9 billion.\n- Microsoft remains involved as a cloud provider, but is no longer the prime contractor.\n- Anduril’s systems are expected to enhance IVAS with [computer vision AI](https://pollinations.ai/referral?topic=computer%20vision%20ai) for object detection and tracking.\n- IVAS has faced criticism and technical issues, leading to the Army considering a change in prime contractor.\n- Future features of IVAS under Anduril remain undisclosed, though enhancements are hinted at by its founder, Palmer Luckey.\n- The project remains at risk of funding cuts or cancellation despite the significant budget.",
+      "keywords": [
+        "Anduril",
+        "Microsoft",
+        "IVAS",
+        "military",
+        "augmented reality",
+        "Palmer Luckey",
+        "military technology",
+        "defense contracts",
+        "army headsets",
+        "virtual reality"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-11T20:03:27.000Z"
+    },
+    {
+      "title": "Tumblr to join the fediverse after WordPress migration completes",
+      "link": "https://techcrunch.com/2025/02/11/tumblr-to-join-the-fediverse-after-wordpress-migration-completes/",
+      "author": "Sarah Perez",
+      "thumbnail": null,
+      "summary": "- Tumblr is set to integrate with the fediverse using the ActivityPub protocol after migrating to WordPress.\n- The migration will allow Tumblr users to federate their blogs just like WordPress.com users.\n- This change aims to improve efficiencies and enable custom plugins while maintaining the current user interface.\n- Automattic has not provided a timeline for the completion of this migration, but the process is reported to be progressing well.\n- The integration with the federated social web is a primary goal of the migration, potentially including support for existing ActivityPub plugins.",
+      "keywords": [
+        "Tumblr",
+        "fediverse",
+        "WordPress",
+        "ActivityPub",
+        "social media integration",
+        "blogging platform",
+        "Automattic"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-11T19:45:00.000Z"
+    },
+    {
+      "title": "How Musk’s $97.4B bid could gum up OpenAI’s for-profit conversion",
+      "link": "https://techcrunch.com/2025/02/11/how-musks-97-4b-bid-could-gum-up-openais-for-profit-conversion/",
+      "author": "Maxwell Zeff, Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2188251582.jpg?w=680",
+      "summary": "- Elon Musk offered to buy the nonprofit governing OpenAI for $97.4 billion.\n- The bid is backed by Musk’s AI company xAI and outside investors.\n- OpenAI CEO Sam Altman swiftly dismissed Musk’s offer.\n- Musk's bid may complicate OpenAI's conversion to a for-profit public benefit corporation.\n- The OpenAI board is forced to evaluate Musk’s offer due to its fiduciary responsibilities.\n- Delaware and California's attorneys general are investigating OpenAI's conversion plans.\n- Musk's bid could raise the potential market value of OpenAI's nonprofit assets.",
+      "keywords": [
+        "Elon Musk",
+        "OpenAI",
+        "for-profit",
+        "nonprofit",
+        "corporate governance",
+        "AI",
+        "billion dollar bid"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-11T19:30:00.000Z"
+    },
+    {
       "title": "Klarna and Deel eye IPOs, and Stripe embraces crypto",
       "link": "https://techcrunch.com/2025/02/11/more-fintech-startups-are-planning-ipos-embracing-crypto/",
       "author": "Mary Ann Azevedo",
@@ -1798,101 +1894,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-10T19:38:57.000Z"
-    },
-    {
-      "title": "Apple fixes iPhone and iPad bug used in an ‘extremely sophisticated attack’",
-      "link": "https://techcrunch.com/2025/02/10/apple-fixes-iphone-and-ipad-bug-used-in-an-extremely-sophisticated-attack/",
-      "author": "Lorenzo Franceschi-Bicchierai",
-      "thumbnail": null,
-      "summary": "- On February 10, 2025, Apple released updates for iOS 18.3.1 and iPadOS 18.3.1 addressing a security flaw potentially exploited in targeted attacks.\n- The vulnerability allowed disabling USB Restricted Mode on locked devices, which blocks data transfer via USB connections if the device remains locked for over seven days.\n- Security researchers suggest the attack required physical access to use forensic tools like Cellebrite or Graykey.",
-      "keywords": [
-        "Apple",
-        "iPhone",
-        "iPad",
-        "security",
-        "vulnerability",
-        "cybersecurity",
-        "forensic tools",
-        "Cellebrite",
-        "Graykey",
-        "USB Restricted Mode"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-10T19:30:29.000Z"
-    },
-    {
-      "title": "Macron urges Europe to simplify its regulations to get back into the AI race",
-      "link": "https://techcrunch.com/2025/02/10/macron-urges-europe-to-simplify-its-regulations-to-get-back-into-the-ai-race/",
-      "author": "Romain Dillet",
-      "thumbnail": null,
-      "summary": "- French President Emmanuel Macron announced a €109 billion investment package for the French AI ecosystem at the Artificial Intelligence Action Summit in Paris.\n- He emphasized the need for a unified European strategy to simplify regulations and enhance AI investments.\n- Macron called for European companies to preferentially support local startups, contrasting it with U.S. and Chinese practices.\n- A statement from global leaders and tech CEOs is expected at the summit, focusing on AI regulation priorities.",
-      "keywords": [
-        "Macron",
-        "AI",
-        "Europe",
-        "regulations",
-        "investment",
-        "technology",
-        "Artificial Intelligence Action Summit"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-10T18:09:14.000Z"
-    },
-    {
-      "title": "Rivian opens commercial van sales to all businesses",
-      "link": "https://techcrunch.com/2025/02/10/rivian-opens-commercial-van-sales-to-all-businesses/",
-      "author": "Kirsten Korosec",
-      "thumbnail": null,
-      "summary": "- Rivian now sells commercial electric vans to any U.S. business, more than a year after ending its exclusivity deal with Amazon.\n- The company offers two models: the smaller 500 and the larger 700, available only to registered businesses.\n- This launch opens a new potential revenue stream for Rivian as they prepare for a more affordable SUV release in 2024.\n- Amazon has 20,000 Rivian vans in their fleet, following a substantial investment and a previous order of 100,000 vehicles.",
-      "keywords": [
-        "Rivian",
-        "commercial vans",
-        "electric vehicles",
-        "business sales",
-        "Amazon",
-        "transportation",
-        "EV"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-10T18:09:00.000Z"
-    },
-    {
-      "title": "Perplexity’s Super Bowl ‘tweet’ increased app installs by 50%",
-      "link": "https://techcrunch.com/2025/02/10/perplexitys-super-bowl-tweet-increased-app-installs-by-50/",
-      "author": "Sarah Perez",
-      "thumbnail": null,
-      "summary": "- Perplexity opted for a tweet instead of a Super Bowl ad, increasing app installs by roughly 50%.\n- Users needed to download the app and ask five questions during the Super Bowl to enter a $1 million contest.\n- App downloads rose to 45,000 on Sunday, up from a daily average of around 30,000, helped boost its ranking in the App Store.",
-      "keywords": [
-        "Perplexity",
-        "Super Bowl",
-        "app installs",
-        "AI search engine",
-        "contest",
-        "app downloads",
-        "social media marketing"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-02-10T17:50:00.000Z"
     }
   ]
 }
