@@ -1,5 +1,129 @@
 [
   {
+    "title": "Federal workers sue Elon Musk and DOGE to cut off data access",
+    "id": "16f43l60mq6o3q",
+    "summary": "- More than 100 federal workers filed a lawsuit against Elon Musk and DOGE for unauthorized access to sensitive personnel records.\n- The lawsuit, filed in the Southern District of New York, names 104 workers and various unions as plaintiffs.\n- The plaintiffs request that the Office of Personnel Management (OPM) revoke access to DOGE due to violations of the Privacy Act.\n- The lawsuit emphasizes that DOGE's agents, often young and previously employed by Musk's companies, were granted access without adequate vetting.\n- Concerns are raised regarding potential professional repercussions and exposure to hacking as a result of DOGE's access to federal worker data.\n- This lawsuit is seen as the initial phase before a possible class action suit to secure an injunction against DOGE's access.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 5
+    },
+    "keywords": [
+      "lawsuit",
+      "Elon Musk",
+      "DOGE",
+      "federal workers",
+      "data access",
+      "Privacy Act",
+      "government",
+      "personnel records"
+    ],
+    "sources": [
+      {
+        "title": "Federal workers sue Elon Musk and DOGE to cut off data access",
+        "link": "https://techcrunch.com/2025/02/11/federal-workers-sue-elon-musk-and-doge-to-cut-off-data-access/"
+      }
+    ],
+    "lastUpdated": "2025-02-12T00:48:58.378Z"
+  },
+  {
+    "title": "[JD.com](https://pollinations.ai/referral?topic=jd.com) launches food delivery with commission-free offer",
+    "id": "1r7qpod1kpvhfd",
+    "summary": "- JD.com enters the food delivery market with a new platform called JD Takeaway.\n- The company is offering commission-free services until the end of 2025 for early registrants before May 1.\n- This move is aimed at competing with established players like [Meituan](https://pollinations.ai/referral?topic=meituan) and Alibaba’s Ele.me.\n- JD.com plans to leverage its extensive logistics network for efficient delivery.\n- The launch comes amidst increased competition in the e-commerce sector from Alibaba, PDD Holdings, and Douyin.",
+    "thumbnails": [
+      "https://cdn.techinasia.com/wp-content/uploads/2023/03/1678076782_JD.com_.jpg"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "JD.com",
+      "food delivery",
+      "JD Takeaway",
+      "e-commerce",
+      "commission-free",
+      "Meituan",
+      "Alibaba",
+      "logistics"
+    ],
+    "sources": [
+      {
+        "title": "[JD.com](https://pollinations.ai/referral?topic=jd.com) launches food delivery with commission-free offer",
+        "link": "https://www.techinasia.com/news/jd-com-launches-food-delivery-commission-free-offer"
+      }
+    ],
+    "lastUpdated": "2025-02-12T00:48:58.377Z"
+  },
+  {
+    "title": "[Founders Fund](https://pollinations.ai/referral?topic=foundersfund) is about to close another $3B fund",
+    "id": "1a1cgrx129zs8j",
+    "summary": "- Founders Fund is concluding fundraising for its third growth fund at the end of March, raising $3 billion.\n- The fund is primarily for investments in late-stage portfolio companies and is expected to be oversubscribed.\n- Founders Fund’s previous $3.4 billion growth fund was fully invested in companies such as [SpaceX](https://pollinations.ai/referral?topic=spacex) and Anduril, the latter being part of a major fundraising round.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 8,
+      "impact": 8,
+      "novelty": 5,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "Founders Fund",
+      "venture capital",
+      "growth fund",
+      "Peter Thiel",
+      "investments",
+      "portfolio",
+      "Anduril",
+      "Stripe",
+      "SpaceX",
+      "OpenAI"
+    ],
+    "sources": [
+      {
+        "title": "[Founders Fund](https://pollinations.ai/referral?topic=foundersfund) is about to close another $3B fund",
+        "link": "https://techcrunch.com/2025/02/11/founders-fund-is-about-to-close-another-3b-fund/"
+      }
+    ],
+    "lastUpdated": "2025-02-12T00:48:58.376Z"
+  },
+  {
+    "title": "Apple Chips Vulnerabilities Allow Data Leak from Browsers",
+    "id": "1wj41th1u648eb",
+    "summary": "- Apple-designed chips in Macs, iPhones, and iPads have two vulnerabilities leaking sensitive data from Chrome and Safari.  \n- Vulnerabilities enable side channel attacks via speculative execution optimizations, affecting A- and M-series chip sets.  \n- The more significant attack, FLOP, can read sensitive data like location history and credit card info from targeted sites.  \n- SLAP is limited to reading adjacent strings from another webpage.  \n- Affected devices include recent Mac laptops, desktops, iPads, and iPhones since 2021.  \n- Researchers suggest potential mitigations and await patch plans from Apple, although Apple claims there's no immediate risk.",
+    "thumbnails": [
+      "https://cdn.arstechnica.net/wp-content/uploads/2025/01/flop-attack-illustration.jpg"
+    ],
+    "scores": {
+      "scale": 8,
+      "impact": 9,
+      "novelty": 7,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "Apple",
+      "vulnerabilities",
+      "chips",
+      "browser security",
+      "data leakage",
+      "FLOP",
+      "SLAP",
+      "side-channel attack",
+      "speculative execution",
+      "cybersecurity"
+    ],
+    "sources": [
+      {
+        "title": "Apple Chips Vulnerabilities Allow Data Leak from Browsers",
+        "link": "https://arstechnica.com/security/2025/01/newly-discovered-flaws-in-apple-chips-leak-secrets-in-safari-and-chrome/"
+      }
+    ],
+    "lastUpdated": "2025-02-12T00:48:58.374Z"
+  },
+  {
     "title": "New hack uses prompt injection to corrupt Gemini’s long-term memory",
     "id": "1tiyqde08yz2gx",
     "summary": "- Researcher Johann Rehberger demonstrated a new hack using indirect prompt injection on Google’s Gemini chatbot.\n- The hack allows permanent false memories to be stored in the chatbot, affecting future interactions.\n- Users can unknowingly upload untrusted documents containing hidden instructions that manipulate summarization and trigger the storage of false information in long-term memory.",
@@ -30488,103 +30612,5 @@
       }
     ],
     "lastUpdated": "2025-01-29T02:09:23.592Z"
-  },
-  {
-    "title": "Threat of cyber-attacks on Whitehall ‘is severe and advancing quickly’, NAO says",
-    "id": "0f2b6590uhlrqm",
-    "summary": "- The National Audit Office (NAO) warns of a severe risk of cyber-attacks on UK government departments, with critical IT systems vulnerable.\n- An assessment found 58 critical IT systems had significant gaps in cyber-resilience; the government lacks knowledge on 228 legacy systems' vulnerabilities.\n- Recent attacks include one on the British Library by a ransomware gang and another affecting NHS services, leading to significant disruptions.\n- Challenges include poor coordination, staffing shortages, and reliance on outdated IT systems, with the government not meeting its cyber-defense goals by 2025.\n- GCHQ highlighted a widening gap between increasing cyber threats and UK defense capabilities, naming key adversaries like China and Russia.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 8,
-      "impact": 9,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "cyber-attacks",
-      "UK government",
-      "NAO",
-      "cyber-resilience",
-      "IT systems",
-      "security threats",
-      "public services",
-      "infrastructure"
-    ],
-    "sources": [
-      {
-        "title": "Threat of cyber-attacks on Whitehall ‘is severe and advancing quickly’, NAO says",
-        "link": "https://www.theguardian.com/technology/2025/jan/29/cyber-attack-threat-uk-government-departments-whitehall-nao"
-      }
-    ],
-    "lastUpdated": "2025-01-29T00:47:53.853Z"
-  },
-  {
-    "title": "DeepSeek AI app sparks concerns over US data in China",
-    "id": "1hufdja0ptq069",
-    "summary": "- DeepSeek AI app raises concerns about US data security in China.\n- Issues involve potential misuse of sensitive information and privacy violations.\n- The context includes rising global scrutiny on AI applications and data governance.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/01/1738049673_shutterstock_2481146219-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "DeepSeek AI",
-      "data security",
-      "China",
-      "US",
-      "artificial intelligence",
-      "privacy concerns"
-    ],
-    "sources": [
-      {
-        "title": "DeepSeek AI app sparks concerns over US data in China",
-        "link": "https://www.techinasia.com/news/deepseek-ai-app-sparks-concerns-over-us-data-in-china"
-      }
-    ],
-    "lastUpdated": "2025-01-29T00:47:53.853Z"
-  },
-  {
-    "title": "DeepSeek Raises Questions About AI Models and Security Concerns",
-    "id": "1fa3ljj106y9jn",
-    "summary": "- David Sacks claims substantial evidence that DeepSeek used OpenAI's models for training in a Fox interview.\n- Sacks likens OpenAI's situation to theft and anticipates OpenAI's disapproval.\n- DeepSeek's apps are gaining popularity, leading to government scrutiny over national security.\n- The U.S. Navy has banned DeepSeek's AI due to security and ethical risks.\n- [DeepSeek](https://www.fastcompany.com/91267354/deepseek-explained-china-llm-chatgpt-nvidia-microsoft-stock-ai-rattled) has developed AI models with less computing power, challenging traditional assumptions.\n- DeepSeek suggests a re-evaluation of approaches to AGI, contrasting with OpenAI's push for massive computing investments of $7 trillion.\n- Unlike OpenAI, DeepSeek allows broader access to its models but faces challenges from U.S. chip bans and funding issues.\n- Some experts, including Andrej Karpathy, remain skeptical about the reduction in computing power's effectiveness for higher intelligence in AI.",
-    "thumbnails": [
-      "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-604487976-1.jpg?w=1024"
-    ],
-    "scores": {
-      "scale": 6,
-      "impact": 7.5,
-      "novelty": 5.5,
-      "longTermSignificance": 6.5
-    },
-    "keywords": [
-      "david sacks",
-      "deepseek",
-      "openai",
-      "ai models",
-      "national security",
-      "u.s. navy",
-      "ethical concerns",
-      "computing power",
-      "agi",
-      "investment",
-      "nvidia",
-      "machine learning",
-      "chip bans"
-    ],
-    "sources": [
-      {
-        "title": "David Sacks claims there’s ‘substantial evidence’ that DeepSeek used OpenAI’s models to train its own",
-        "link": "https://techcrunch.com/2025/01/28/david-sacks-claims-theres-substantial-evidence-that-deepseek-used-openais-models-to-train-its-own/"
-      },
-      {
-        "title": "DeepSeek Questions Big AI’s Trillion-Dollar Assumption",
-        "link": "https://www.fastcompany.com/91268664/deepseek-called-into-question-big-ai-trillion-dollar-assumption-openai?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
-      }
-    ],
-    "lastUpdated": "2025-01-29T00:47:53.852Z"
   }
 ]
