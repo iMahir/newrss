@@ -4,6 +4,53 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Valve removes Steam game that contained malware",
+      "link": "https://techcrunch.com/2025/02/13/valve-removes-steam-game-that-contained-malware/",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/piratefi-malware-steam-valve.png?w=680",
+      "summary": "- Valve removed the game *PirateFi* from Steam due to malware presence.\n- Users are advised to fully reformat their operating systems.\n- The game had a 9/10 rating from 51 reviews before removal.\n- Valve urges users to run a full-system scan and check for unexpected software.\n- The type of malware has not been specified by Valve.",
+      "keywords": [
+        "Valve",
+        "Steam",
+        "malware",
+        "PirateFi",
+        "video games",
+        "cybersecurity"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-13T16:59:47.000Z"
+    },
+    {
+      "title": "Alibaba confirms Apple deal bringing AI features to iPhones in China",
+      "link": "https://techcrunch.com/2025/02/13/alibaba-confirms-apple-deal-bringing-ai-features-to-iphones-in-china/",
+      "author": "Brian Heater",
+      "thumbnail": null,
+      "summary": "- Alibaba has confirmed a partnership with Apple to implement AI features in iPhones sold in China.\n- The partnership arises as Apple faces declining iPhone sales in the Chinese market, with an 11% year-over-year drop.\n- Alibaba's chairman Joseph Tsai noted the collaboration during the World Government Summit in Dubai, emphasizing the honor of partnering with Apple.\n- Previous partnerships with Baidu and others faced issues, making this alliance crucial for Apple's strategy in China.\n- Apple aims to leverage AI to improve sales and compete against local rivals like Vivo and Huawei, which have gained market share.",
+      "keywords": [
+        "Alibaba",
+        "Apple",
+        "AI features",
+        "iPhones",
+        "China",
+        "partnership",
+        "Joseph Tsai",
+        "market share",
+        "generative AI"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-13T16:24:29.000Z"
+    },
+    {
       "title": "Startup Battlefield 200: The competition starts on the waitlist",
       "link": "https://techcrunch.com/2025/02/13/startup-battlefield-200-the-competition-starts-on-the-waitlist/",
       "author": null,
@@ -1098,53 +1145,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-12T16:43:44.000Z"
-    },
-    {
-      "title": "Suger helps companies list and scale up on cloud marketplaces",
-      "link": "https://techcrunch.com/2025/02/12/suger-helps-companies-list-and-scale-up-on-cloud-marketplaces/",
-      "author": "Becca",
-      "thumbnail": null,
-      "summary": "- Suger automates SaaS product listing across various cloud marketplaces, helping companies scale with reduced engineering overhead.\n- The company launched in late 2022 and has grown to over 200 customers, including Snowflake and Intel.\n- Recently raised $15 million in Series A funding, aiming to enhance product capabilities and engineering resources.",
-      "keywords": [
-        "SaaS",
-        "cloud marketplaces",
-        "automation",
-        "venture capital",
-        "funding",
-        "software sales",
-        "enterprise sales"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-12T15:49:37.000Z"
-    },
-    {
-      "title": "SGNL snags $30M for a new take on ID security based on zero-standing privileges",
-      "link": "https://techcrunch.com/2025/02/12/sgnl-snags-30m-for-a-new-take-on-id-security-based-on-zero-standing-privileges/",
-      "author": "Scott Kriz, Erik Gustavson",
-      "thumbnail": null,
-      "summary": "- SGNL has developed a new approach to identity security based on zero-standing privilege, which allows conditional user access rather than permanent access.\n- The startup announced a $30 million Series A funding led by Brightmind Partners, with participation from Microsoft and Cisco Investments.\n- SGNL has raised a total of $42 million and claims to have multiple major enterprise customers using its access management solutions.\n- The founders, Scott Kriz and Erik Gustavson, previously co-founded Bitium, which was acquired by Google in 2017.\n- The technology aims to address vulnerabilities in identity management seen in high-profile breaches such as those at MGM and T-Mobile.",
-      "keywords": [
-        "identity security",
-        "zero-standing privilege",
-        "SGNL",
-        "cybersecurity",
-        "access management",
-        "funding",
-        "enterprise security",
-        "cloud services"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-12T14:53:34.000Z"
     }
   ]
 }
