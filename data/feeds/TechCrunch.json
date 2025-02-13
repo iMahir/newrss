@@ -4,6 +4,53 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Data center tweaks could unlock 76 GW of new power capacity in the U.S.",
+      "link": "https://techcrunch.com/2025/02/13/data-center-tweaks-could-unlock-76-gw-of-new-power-capacity-in-the-u-s/",
+      "author": "Tim De Chant",
+      "thumbnail": null,
+      "summary": "- The U.S. may unlock 76 GW of new power capacity by slightly reducing data center power consumption for a few hours annually.\n- By limiting usage to 90% of maximum draw, data centers can contribute significantly to managing peak electricity demand.\n- Flexible power use strategies, such as shifting tasks to off-peak hours or using alternative power sources like batteries, can enhance demand response capabilities.",
+      "keywords": [
+        "data centers",
+        "power capacity",
+        "electricity demand",
+        "AI growth",
+        "demand response",
+        "energy efficiency",
+        "sustainability"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-13T14:00:00.000Z"
+    },
+    {
+      "title": "CyberArk snaps up Zilla Security for up to $175M",
+      "link": "https://techcrunch.com/2025/02/13/cyberark-snaps-up-zilla-security-for-up-to-175m/",
+      "author": "Paul Sawers",
+      "thumbnail": null,
+      "summary": "- CyberArk has acquired Zilla Security for up to $175 million, consisting of $165 million in cash and $10 million in earn-outs.\n- The deal aims to enhance CyberArk's offerings with Zilla's purpose-built cloud IGA capabilities.\n- Zilla, founded in 2019, adds AI-driven features and automation, appealing to CyberArk’s modernization efforts.",
+      "keywords": [
+        "CyberArk",
+        "Zilla Security",
+        "acquisition",
+        "identity governance",
+        "access management",
+        "AI",
+        "cloud security",
+        "automation"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-13T13:26:45.000Z"
+    },
+    {
       "title": "Avride launches sidewalk delivery bots on Uber Eats in Jersey City",
       "link": "https://techcrunch.com/2025/02/13/avride-launches-sidewalk-delivery-bots-on-uber-eats-in-jersey-city/",
       "author": "Rebecca Bellan",
@@ -1103,53 +1150,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-02-12T11:32:07.000Z"
-    },
-    {
-      "title": "Google Whisk, an image remixing tool, is now available in 100+ countries",
-      "link": "https://techcrunch.com/2025/02/11/google-whisk-an-image-remixing-tool-is-now-available-in-100-countries/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/12/googlewhisk.png?w=1024",
-      "summary": "- Google has expanded the availability of its image remixing tool, Whisk, to over 100 countries as of February 11, 2025.\n- The tool allows users to upload three images representing subject, scene, and style, which are then combined using the Imagen 3 model.\n- Whisk is not available in several countries including India, Indonesia, the EU, and the U.K.\n- The tool was previously launched in the U.S., and this expansion is part of Google's ongoing effort to showcase its AI capabilities.\n- Similar tools like Apple’s Image Playground also exist, allowing users to create images by mixing styles and subjects.",
-      "keywords": [
-        "Google",
-        "Whisk",
-        "image remixing",
-        "AI",
-        "Imagen 3",
-        "technology",
-        "image generation"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-12T07:19:53.000Z"
-    },
-    {
-      "title": "Tabby doubles valuation to $3.3B in $160M funding as it looks beyond BNPL and plans IPO",
-      "link": "https://techcrunch.com/2025/02/11/tabby-lands-160m-at-a-3-3b-valuation-as-it-expands-beyond-bnpl/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Tabby raises $160 million in Series E funding, doubling its valuation to $3.3 billion.\n- The funding round led by Blue Pool Capital and Hassana Investment Company.\n- Tabby's annualized transaction volume exceeds $10 billion with 15 million customers across MENA.\n- The fintech plans to expand services beyond BNPL, including digital wallets and remittances.\n- IPO plans may be imminent as investor demand for tech listings rises in MENA.",
-      "keywords": [
-        "Tabby",
-        "fintech",
-        "investment",
-        "IPO",
-        "BNPL",
-        "Middle East",
-        "remittances",
-        "funding"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-12T06:00:00.000Z"
     }
   ]
 }
