@@ -4,6 +4,31 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Financially motivated hackers are helping their espionage counterparts and vice versa",
+      "link": "https://arstechnica.com/security/2025/02/financially-motivated-hackers-are-helping-their-espionage-counterparts-and-vice-versa/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Researchers from Symantec report a collaboration between financially motivated hackers and espionage groups, particularly the RA World ransomware group using tools previously seen in Chinese espionage.  \n- The toolset, a variant of PlugX, was linked to attacks on governments and telecom operators in Southeastern Europe and Asia from July to January.  \n- Theories exist on why espionage-linked actors may engage in ransomware, with speculation about financial motives or attempts to cover up intrusions, but this behavior is uncommon for Chinese threat actors.",
+      "keywords": [
+        "ransomware",
+        "espionage",
+        "cybersecurity",
+        "Symantec",
+        "PlugX",
+        "China",
+        "hacking",
+        "threat actors",
+        "Mandiant"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-13T11:00:40.000Z"
+    },
+    {
       "title": "New hack uses prompt injection to corrupt Gemini’s long-term memory",
       "link": "https://arstechnica.com/security/2025/02/new-hack-uses-prompt-injection-to-corrupt-geminis-long-term-memory/",
       "author": "Dan Goodin",
