@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "China’s Salt Typhoon hackers continue to breach telecom firms despite US sanctions",
+      "link": "https://techcrunch.com/2025/02/13/chinas-salt-typhoon-hackers-continue-to-breach-telecom-firms-despite-us-sanctions/",
+      "author": "Carly Page",
+      "thumbnail": null,
+      "summary": "- Security researchers report that Salt Typhoon, a hacking group linked to the Chinese government, continues to breach telecom firms despite US sanctions.\n- Recorded Future observed the group compromising five telecom providers from December 2024 to January 2025.\n- Previous breaches included major US companies like AT&T and Verizon, targeting communications of senior officials.\n- Recent victims include a US affiliate of a UK telecom provider and companies in Italy, South Africa, and Thailand.\n- Salt Typhoon exploited vulnerabilities in Cisco devices, aiming to compromise over 1,000 globally.\n- The US government has sanctioned firms associated with the group but anticipates continued attacks on telecoms.",
+      "keywords": [
+        "cybersecurity",
+        "hacking",
+        "telecommunications",
+        "China",
+        "Salt Typhoon",
+        "US sanctions",
+        "Cisco vulnerabilities"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-13T09:40:45.000Z"
+    },
+    {
       "title": "Elon Musk will withdraw bid for OpenAI’s nonprofit if its board agrees to terms",
       "link": "https://techcrunch.com/2025/02/12/elon-musk-will-withdraw-bid-for-openais-nonprofit-if-its-board-agrees-to-terms/",
       "author": "Kyle Wiggers",
@@ -1133,27 +1156,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-02-11T21:11:54.000Z"
-    },
-    {
-      "title": "Shopify took down Kanye’s swastika t-shirt shop, but another antisemitic storefront still operates",
-      "link": "https://techcrunch.com/2025/02/11/shopify-took-down-kanyes-swastika-t-shirt-shop-but-another-antisemitic-storefront-still-operates/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1366424493.jpg?w=1024",
-      "summary": "- Shopify removed Kanye West's online store that sold t-shirts featuring swastikas after a Super Bowl ad promoting it.\n- The company cited violations of their platform's terms for not engaging in authentic commerce practices.\n- Despite removing West's store, another antisemitic shop continues to operate on Shopify without explanation from the company.",
-      "keywords": [
-        "Shopify",
-        "Kanye West",
-        "antisemitism",
-        "e-commerce",
-        "Super Bowl"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-11T20:35:59.000Z"
     }
   ]
 }
