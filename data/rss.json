@@ -1,14 +1,101 @@
 [
   {
-    "title": "Elon Musk's $97.4 Billion Bid for OpenAI and Key Investors Behind It",
+    "title": "Arm is launching its own chip this year with Meta as a customer",
+    "id": "08trrfu1i8009u",
+    "summary": "- Arm is starting its own chip production in 2025 with Meta as a customer.\n- The chips will primarily be CPUs for large data center servers and customizable for various clients.\n- The first in-house Arm chip is expected to be unveiled by summer 2025.\n- This marks a strategic shift for Arm, which typically licenses its chip designs to other companies like Apple and Nvidia.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "Arm",
+      "Meta",
+      "semiconductor",
+      "chip production",
+      "CPU",
+      "data centers",
+      "SoftBank",
+      "Apple",
+      "Nvidia"
+    ],
+    "sources": [
+      {
+        "title": "Arm is launching its own chip this year with Meta as a customer",
+        "link": "https://techcrunch.com/2025/02/13/arm-is-launching-its-own-chip-this-year-with-meta-as-a-customer/"
+      }
+    ],
+    "lastUpdated": "2025-02-13T22:10:36.862Z"
+  },
+  {
+    "title": "Google Gemini now brings receipts to your AI chats",
+    "id": "10gv6mn02jddpk",
+    "summary": "- Google’s Gemini AI can now tailor responses based on past conversations.\n- Launching the recall feature for English-speaking subscribers of Google One AI Premium at $20/month.\n- Users can manage their chat history, including deletion and recall capabilities, addressing privacy concerns.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 6,
+      "novelty": 5,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "Google",
+      "Gemini",
+      "AI",
+      "chatbot",
+      "memory",
+      "privacy",
+      "technology"
+    ],
+    "sources": [
+      {
+        "title": "Google Gemini now brings receipts to your AI chats",
+        "link": "https://techcrunch.com/2025/02/13/google-gemini-now-brings-receipts-to-your-ai-chats/"
+      }
+    ],
+    "lastUpdated": "2025-02-13T22:10:36.862Z"
+  },
+  {
+    "title": "OpenAI removes certain content warnings from ChatGPT",
+    "id": "1hnd6at1vkgjrw",
+    "summary": "- OpenAI has removed warning messages in ChatGPT indicating potential violations of terms of service.\n- The change aims to reduce unnecessary denials and enhance user experience, without allowing harmful or false content.\n- Users can now engage in broader discussions, including topics previously flagged, such as mental health and erotica.\n- This move follows updates to OpenAI's Model Spec, which emphasizes openness on sensitive topics.\n- The decision may be influenced by political pressure and claims of censorship against conservative viewpoints.",
+    "thumbnails": [
+      "https://techcrunch.com/wp-content/uploads/2025/02/c6jxu7i0c7wd1.jpeg?w=680"
+    ],
+    "scores": {
+      "scale": 5,
+      "impact": 6,
+      "novelty": 4,
+      "longTermSignificance": 5
+    },
+    "keywords": [
+      "OpenAI",
+      "ChatGPT",
+      "content warnings",
+      "AI ethics",
+      "political pressure",
+      "user experience"
+    ],
+    "sources": [
+      {
+        "title": "OpenAI removes certain content warnings from ChatGPT",
+        "link": "https://techcrunch.com/2025/02/13/openai-removes-certain-content-warnings-from-chatgpt/"
+      }
+    ],
+    "lastUpdated": "2025-02-13T22:10:36.861Z"
+  },
+  {
+    "title": "Elon Musk's $97.4 Billion Bid for OpenAI: Conditions and Reactions",
     "id": "18ou7s31g1k4v3",
-    "summary": "- Elon Musk leads a consortium offering nearly $97.4 billion to take over OpenAI.\n- OpenAI CEO Sam Altman rejected the bid humorously, proposing to buy Twitter instead.\n- Consortium investors include Baron Capital Group, Valor Management, Atreides Management, Vy Fund, Emmanuel Capital, and Eight Partners VC.\n- The offer has a deadline of May 10, 2025, but OpenAI's board has not formally rejected it yet.\n- The transaction will be all-cash, with 100% of the purchase price paid in cash.\n- Musk's team wants access to OpenAI’s financial records and personnel prior to the purchase.\n- Musk may withdraw his bid if OpenAI maintains its non-profit status.",
+    "summary": "- Elon Musk leads a consortium offering nearly $97.4 billion to take over OpenAI.\n- OpenAI CEO Sam Altman humorously rejected the bid, suggesting buying Twitter instead.\n- Consortium investors include Baron Capital Group, Valor Management, and others.\n- The offer has a deadline of May 10, 2025, but has not been formally rejected by OpenAI's board.\n- The transaction is proposed to be all-cash, with complete payment upfront.\n- Musk seeks access to OpenAI’s financial records and personnel before the purchase.\n- Musk may withdraw his offer if OpenAI remains a non-profit organization.\n- Lawyers indicated that a halt in conversion to for-profit will lead Musk to abandon the bid.\n- OpenAI, which Musk originally co-founded, plans to change its corporate structure.\n- Altman stated the company is not for sale and criticized Musk's management during a video call.",
     "thumbnails": [],
     "scores": {
       "scale": 8,
-      "impact": 8.5,
-      "novelty": 6.5,
-      "longTermSignificance": 7.5
+      "impact": 8.75,
+      "novelty": 6.75,
+      "longTermSignificance": 7.75
     },
     "keywords": [
       "elon musk",
@@ -20,9 +107,10 @@
       "atreides management",
       "acquisition",
       "non-profit",
-      "x.ai",
       "bid",
-      "sam altman"
+      "sam altman",
+      "for-profit",
+      "ai"
     ],
     "sources": [
       {
@@ -32,9 +120,13 @@
       {
         "title": "Eon Musk’s full offer letter to buy OpenAI reveals five key details",
         "link": "https://techcrunch.com/2025/02/13/eon-musks-full-offer-letter-to-buy-openai-reveals-five-key-details/"
+      },
+      {
+        "title": "Elon Musk says he’ll drop his $97bn bid for OpenAI if it remains a non-profit",
+        "link": "https://www.theguardian.com/technology/2025/feb/13/elon-musk-openai-non-profit"
       }
     ],
-    "lastUpdated": "2025-02-13T20:12:15.579Z"
+    "lastUpdated": "2025-02-13T22:10:36.860Z"
   },
   {
     "title": "Tim Cook teases Apple product news for February 19 — likely the iPhone SE",
@@ -31250,178 +31342,5 @@
       }
     ],
     "lastUpdated": "2025-01-30T23:11:52.728Z"
-  },
-  {
-    "title": "An Update on Our Family review – these influencers’ murky tale makes you long to end the internet",
-    "id": "1c1edgw1xwuz3n",
-    "summary": "- The documentary follows the Stauffer family, a former successful family vlogging couple, exploring the implications of their online persona and monetizing their family experiences.\n- The narrative intensifies when they adopt Huxley, a boy with special needs from China, and later remove him from their videos, leading to public outrage and conspiracy theories.\n- The film raises ethical questions about filming children without consent, the nature of parasocial relationships, and the motives behind sharing personal lives online.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "Stauffers",
-      "family vloggers",
-      "Huxley",
-      "documentary",
-      "ethical questions",
-      "parasocial relationships",
-      "adoption",
-      "internet culture"
-    ],
-    "sources": [
-      {
-        "title": "An Update on Our Family review – these influencers’ murky tale makes you long to end the internet",
-        "link": "https://www.theguardian.com/tv-and-radio/2025/jan/30/an-update-on-our-family-review-these-influencers-murky-tale-makes-you-long-to-end-the-internet"
-      }
-    ],
-    "lastUpdated": "2025-01-30T22:10:36.577Z"
-  },
-  {
-    "title": "AngelSense exposed location data and personal information of tracked users",
-    "id": "1jh4r1n0h57v7q",
-    "summary": "- AngelSense exposed users' personally identifiable information and location data online.\n- The server was secured only after UpGuard alerted the company on January 14.\n- Exposed data included names, addresses, health information, and authentication tokens.\n- CEO Doron Somer confirmed the company only acted after a call from UpGuard.\n- Investigation ongoing to assess if data was accessed or misused; no evidence of misuse found yet.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 5
-    },
-    "keywords": [
-      "AngelSense",
-      "data breach",
-      "location tracking",
-      "personal information",
-      "UpGuard",
-      "privacy",
-      "security incident"
-    ],
-    "sources": [
-      {
-        "title": "AngelSense exposed location data and personal information of tracked users",
-        "link": "https://techcrunch.com/2025/01/30/angelsense-exposed-location-data-and-personal-information-of-tracked-users/"
-      }
-    ],
-    "lastUpdated": "2025-01-30T22:10:36.576Z"
-  },
-  {
-    "title": "Serial founder DIVINE launches creator app with hip hop legend RAKIM",
-    "id": "186c50k0zggfye",
-    "summary": "- Victor D. Lombard, also known as DIVINE, launches fintech app called Notes for independent urban musicians in partnership with hip-hop icon RAKIM.\n- Notes provides tools for financial management, credit score tracking, education on monetizing music, and a collaborative platform for lyric writing.\n- The app features an AI voice assistant in RAKIM’s voice and aims for a full launch by the end of February 2025.",
-    "thumbnails": [
-      "https://techcrunch.com/wp-content/uploads/2025/01/Felix-Manuel-Photography.jpg?w=544"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 9,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "fintech",
-      "creator app",
-      "music industry",
-      "financial literacy",
-      "independent artists",
-      "RAKIM",
-      "Notes"
-    ],
-    "sources": [
-      {
-        "title": "Serial founder DIVINE launches creator app with hip hop legend RAKIM",
-        "link": "https://techcrunch.com/2025/01/30/serial-founder-divine-launches-creator-app-with-hip-hop-legend-rakim/"
-      }
-    ],
-    "lastUpdated": "2025-01-30T22:10:36.576Z"
-  },
-  {
-    "title": "Controversial genetics testing startup Nucleus Genomics raises $14M Series A",
-    "id": "0qi5o8r0vywf4i",
-    "summary": "- Nucleus Genomics, founded by Kian Sadeghi, raised $14M Series A, totaling $32M in funding.\n- The startup offers saliva DNA sequencing to identify predispositions to various health issues.\n- Founders Fund partner Delian Asparouhov backs Sadeghi’s vision for accessible genetic testing tailored to personal health needs.\n- The cost of genome sequencing has dropped significantly, now around $400, with expectations of further reductions.\n- Sadeghi’s motivation comes from a personal tragedy involving a cousin's unknown genetic condition.\n- Nucleus IQ, a service launched last year, assesses genetic correlations with intelligence but has faced criticism for its methodology and implications.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "genetics",
-      "funding",
-      "Nucleus Genomics",
-      "healthcare",
-      "DNA testing",
-      "investment"
-    ],
-    "sources": [
-      {
-        "title": "Controversial genetics testing startup Nucleus Genomics raises $14M Series A",
-        "link": "https://techcrunch.com/2025/01/30/controversial-genetics-testing-startup-nucleus-genomics-raises-14m-series-a/"
-      }
-    ],
-    "lastUpdated": "2025-01-30T22:10:36.576Z"
-  },
-  {
-    "title": "Google’s ‘Ask for Me’ feature calls businesses on your behalf to inquire about services, pricing",
-    "id": "1suo3im0nj5m74",
-    "summary": "- Google is testing a new AI-driven feature called “Ask for Me” that calls local businesses for service and pricing information.\n- Available on desktop and mobile for users in Google’s Search Labs, it allows inquiries without direct phone calls.\n- Users can search for local services and select “Ask for Me” to get started, entering service details and timeframes.\n- The AI calls businesses, providing users with summaries of prices and availability, streamlining the process of obtaining information.\n- This feature follows another called “Talk to a Live Rep” from last year, which waits on hold for live assistance before connecting users.",
-    "thumbnails": [
-      "https://techcrunch.com/wp-content/uploads/2025/01/google-ask-for-me.jpeg?w=680"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "Google",
-      "Ask for Me",
-      "AI",
-      "business calls",
-      "Search Labs",
-      "customer service",
-      "nail salons",
-      "auto shops",
-      "service pricing"
-    ],
-    "sources": [
-      {
-        "title": "Google’s ‘Ask for Me’ feature calls businesses on your behalf to inquire about services, pricing",
-        "link": "https://techcrunch.com/2025/01/30/googles-ask-for-me-feature-calls-businesses-on-your-behalf-to-inquire-about-services-pricing/"
-      }
-    ],
-    "lastUpdated": "2025-01-30T22:10:36.575Z"
-  },
-  {
-    "title": "What to know about the American Airlines jet and Army helicopter that collided over D.C.",
-    "id": "0qu1siv0enijbf",
-    "summary": "- A Bombardier CRJ700 American Airlines jet and a UH-60 Black Hawk helicopter collided over Washington.\n- The jet had 60 passengers and four crew members; the helicopter had three service members on board.\n- None are believed to have survived the incident, which resulted in both aircraft crashing into the Potomac River.\n- Approximately 5,000 Black Hawks are in service worldwide, manufactured by Sikorsky, a Lockheed Martin subsidiary.\n- The Black Hawk has been operational since 1979 and has been involved in numerous military operations, including the raid that killed Osama bin Laden in 2011.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 9,
-      "novelty": 6,
-      "longTermSignificance": 8
-    },
-    "keywords": [
-      "American Airlines",
-      "Black Hawk",
-      "helicopter collision",
-      "Potomac River",
-      "aviation safety",
-      "military aircraft"
-    ],
-    "sources": [
-      {
-        "title": "What to know about the American Airlines jet and Army helicopter that collided over D.C.",
-        "link": "https://www.fastcompany.com/91270103/black-hawk-army-helicopter-american-airlines-jet-dc-plane-crash-explainer?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
-      }
-    ],
-    "lastUpdated": "2025-01-30T21:10:33.326Z"
   }
 ]
