@@ -4,6 +4,30 @@
   "feedUrl": "https://www.fastcompany.com/technology/rss",
   "items": [
     {
+      "title": "Why your IoT devices are the weakest link in security",
+      "link": "https://www.fastcompany.com/91276877/why-your-iot-devices-are-the-weakest-link-in-security?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "author": "Svetlin Todorov",
+      "thumbnail": null,
+      "summary": "- IoT devices are projected to reach 40 billion by 2030, but face an average of 10 attacks per device daily.\n- Security breaches in critical sectors like healthcare and utilities may lead to severe consequences.\n- Many IoT devices lack essential security features like encryption, leading to vulnerabilities.\n- Users and manufacturers share responsibility for IoT security, with manufacturers often prioritizing time-to-market.\n- Regulatory frameworks are essential for enforcing security standards in IoT devices.\n- AI and machine learning can enhance security by predicting and preventing threats, but require proper integration.",
+      "keywords": [
+        "IoT",
+        "security",
+        "cyber threats",
+        "manufacturers",
+        "users",
+        "regulations",
+        "AI",
+        "machine learning"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-12T23:50:00.000Z"
+    },
+    {
       "title": "This Valentine’s Day, don’t fall for romance scams, Meta warns",
       "link": "https://www.fastcompany.com/91278013/valentines-day-romance-scams-meta-instagram-facebook?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
       "author": null,
@@ -1141,30 +1165,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-06T21:30:00.000Z"
-    },
-    {
-      "title": "Like TikTok, lawmakers want to ban DeepSeek from government devices",
-      "link": "https://www.fastcompany.com/91274256/deepseek-house-lawmakers-ban-government-devices?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "author": "Josh Gottheimer, Darin LaHood",
-      "thumbnail": null,
-      "summary": "- Lawmakers introduced the 'No DeepSeek on Government Devices Act' to ban DeepSeek from federal devices.\n- Concerns about surveillance and misinformation from the Chinese Communist Party were cited.\n- The push for the ban follows DeepSeek's AI model development, raising concerns among U.S. policymakers.\n- The legislation parallels previous actions taken against TikTok, which was also linked to national security risks.\n- This comes amid growing competition between the U.S. and China in technological innovation.",
-      "keywords": [
-        "DeepSeek",
-        "ban",
-        "government devices",
-        "U.S. House",
-        "national security",
-        "artificial intelligence",
-        "TikTok",
-        "Chinese Communist Party"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-06T21:00:00.000Z"
     }
   ]
 }
