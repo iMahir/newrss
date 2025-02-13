@@ -4,6 +4,30 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Getaround abruptly shuts down US car-sharing operations",
+      "link": "https://techcrunch.com/2025/02/12/getaround-abruptly-shuts-down-us-car-sharing-operations/",
+      "author": "Kirsten Korosec",
+      "thumbnail": null,
+      "summary": "- Getaround is ceasing U.S. operations after previously cutting 30% of its North American workforce.\n- The company is shifting focus to its European business where it operates in six countries.\n- Customers were urged to return rentals to avoid liability issues, with coverage ending if vehicles are not returned.\n- Getaround will incur charges of $1.5 million to $2 million due to the layoffs, with most U.S. employees ending their employment by February 14, 2025.",
+      "keywords": [
+        "Getaround",
+        "car-sharing",
+        "business closure",
+        "U.S. operations",
+        "European market",
+        "AJ Lee",
+        "liability insurance",
+        "workforce reduction"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-13T03:09:52.000Z"
+    },
+    {
       "title": "US pharma giant Merck backs healthcare marketplace HD in Southeast Asia",
       "link": "https://techcrunch.com/2025/02/12/merck-backs-healthcare-marketplace-hd-in-southeast-asia/",
       "author": null,
@@ -1132,29 +1156,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-02-11T20:03:27.000Z"
-    },
-    {
-      "title": "Tumblr to join the fediverse after WordPress migration completes",
-      "link": "https://techcrunch.com/2025/02/11/tumblr-to-join-the-fediverse-after-wordpress-migration-completes/",
-      "author": "Sarah Perez",
-      "thumbnail": null,
-      "summary": "- Tumblr is set to integrate with the fediverse using the ActivityPub protocol after migrating to WordPress.\n- The migration will allow Tumblr users to federate their blogs just like WordPress.com users.\n- This change aims to improve efficiencies and enable custom plugins while maintaining the current user interface.\n- Automattic has not provided a timeline for the completion of this migration, but the process is reported to be progressing well.\n- The integration with the federated social web is a primary goal of the migration, potentially including support for existing ActivityPub plugins.",
-      "keywords": [
-        "Tumblr",
-        "fediverse",
-        "WordPress",
-        "ActivityPub",
-        "social media integration",
-        "blogging platform",
-        "Automattic"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-11T19:45:00.000Z"
     }
   ]
 }
