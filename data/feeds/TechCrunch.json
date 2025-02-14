@@ -4,6 +4,99 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "AI and security startups blossom on cloudy days",
+      "link": "https://techcrunch.com/2025/02/14/ai-and-security-startups-blossom-on-cloudy-days/",
+      "author": "Anna Heim",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198108502.jpg?w=680",
+      "summary": "- Startups related to security and sovereignty raised significant funding despite a clouded economic outlook.\n- AI startups raised $110 billion in 2024, a 62% increase year-on-year, while overall startup funding declined by 12%.\n- European defense and security tech startups raised $5.2 billion in 2024, comprising 10% of all VC funding in the region, at a record high.\n- Mistral AI’s assistant Le Chat became the most downloaded iOS app in France during the Paris AI Summit.\n- Data acquired SafeBase for $250 million; CyberArk bought Zilla Security for $165 million, with a potential additional $10 million based on milestones.",
+      "keywords": [
+        "AI",
+        "startups",
+        "security",
+        "funding",
+        "investment",
+        "Mistral AI",
+        "CyberArk",
+        "data acquisition",
+        "European startups"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-14T18:05:00.000Z"
+    },
+    {
+      "title": "Meta confirms ‘Project Waterworth,’ a global subsea cable project spanning 50,000 kilometers",
+      "link": "https://techcrunch.com/2025/02/14/meta-confirms-project-waterworth-a-global-subsea-cable-project-spanning-50000km/",
+      "author": "Ingrid Lunden",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Meta-Project-Waterworth-map.png.webp",
+      "summary": "- Meta has announced Project Waterworth, a subsea cable project of 50,000 kilometers, making it the world's longest.\n- The network will connect five continents with landing points in the U.S., Brazil, India, South Africa, among others.\n- The project will utilize 24 fiber pair cables with innovative routing to enhance deep-water cable placement.\n- Geopolitical factors influenced the project, with a U.S.-India joint statement mentioning cooperation in undersea technologies.\n- The cable aims to support digital communication, video services, and online transactions, particularly focused on AI growth in India.\n- This is Meta's first wholly-owned cable project, adding it to the ranks of other tech giants involved in subsea infrastructure.",
+      "keywords": [
+        "Meta",
+        "Project Waterworth",
+        "subsea cable",
+        "global connectivity",
+        "AI services",
+        "digital communication",
+        "technology investment"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-14T17:59:07.000Z"
+    },
+    {
+      "title": "Mastodon is working to add the controversial ‘quote posts’ feature",
+      "link": "https://techcrunch.com/2025/02/14/mastodon-is-working-to-add-the-controversial-quote-posts-feature/",
+      "author": "Sarah Perez",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/mastodon-posts.png?w=680",
+      "summary": "- Mastodon introduces the controversial quote posts feature similar to Twitter's.\n- The feature has divided users due to its potential for online abuse and negativity.\n- Some users support quote posts for easier referencing and response.\n- Mastodon will allow users to control whether their posts can be quoted, and users will be notified if their posts are quoted.\n- The feature aims to address user safety and privacy concerns amid implementation challenges with ActivityPub protocol.\n- Development timelines remain unclear, with Mastodon stating it will take more time to develop the feature.",
+      "keywords": [
+        "Mastodon",
+        "quote posts",
+        "Twitter",
+        "online abuse",
+        "social media features",
+        "ActivityPub"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-14T17:42:24.000Z"
+    },
+    {
+      "title": "DeepSeek: Everything you need to know about the AI chatbot app",
+      "link": "https://techcrunch.com/2025/02/14/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- DeepSeek has gained significant popularity as its chatbot app rose to the top of the App Store and Google Play charts.\n- Backed by High-Flyer Capital Management, the company focuses on AI tools for trading.\n- Key models include DeepSeek Coder, LLM, Chat, DeepSeek-V2, and DeepSeek-V3, noted for cost efficiency and performance.\n- The reasoning model R1 claims to perform well against OpenAI's models but is subject to regulatory controls in China.\n- Despite success, some companies and governments are blocking or banning DeepSeek due to security concerns.",
+      "keywords": [
+        "DeepSeek",
+        "AI",
+        "chatbot",
+        "technology",
+        "China",
+        "Nvidia",
+        "machine learning"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-14T17:37:30.000Z"
+    },
+    {
       "title": "Y Combinator startup Firecrawl seeks AI agent for $15K a year",
       "link": "https://techcrunch.com/2025/02/14/a-job-ad-for-y-combinator-startup-firecrawl-seeks-to-hire-an-ai-agent-for-15k-a-year/",
       "author": null,
@@ -1063,101 +1156,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-13T11:36:01.000Z"
-    },
-    {
-      "title": "China’s Salt Typhoon hackers continue to breach telecom firms despite US sanctions",
-      "link": "https://techcrunch.com/2025/02/13/chinas-salt-typhoon-hackers-continue-to-breach-telecom-firms-despite-us-sanctions/",
-      "author": "Carly Page",
-      "thumbnail": null,
-      "summary": "- Security researchers report that Salt Typhoon, a hacking group linked to the Chinese government, continues to breach telecom firms despite US sanctions.\n- Recorded Future observed the group compromising five telecom providers from December 2024 to January 2025.\n- Previous breaches included major US companies like AT&T and Verizon, targeting communications of senior officials.\n- Recent victims include a US affiliate of a UK telecom provider and companies in Italy, South Africa, and Thailand.\n- Salt Typhoon exploited vulnerabilities in Cisco devices, aiming to compromise over 1,000 globally.\n- The US government has sanctioned firms associated with the group but anticipates continued attacks on telecoms.",
-      "keywords": [
-        "cybersecurity",
-        "hacking",
-        "telecommunications",
-        "China",
-        "Salt Typhoon",
-        "US sanctions",
-        "Cisco vulnerabilities"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-13T09:40:45.000Z"
-    },
-    {
-      "title": "Elon Musk will withdraw bid for OpenAI’s nonprofit if its board agrees to terms",
-      "link": "https://techcrunch.com/2025/02/12/elon-musk-will-withdraw-bid-for-openais-nonprofit-if-its-board-agrees-to-terms/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- Elon Musk will withdraw his $97.4 billion bid for OpenAI’s nonprofit if the board agrees to halt its conversion to a for-profit corporation.\n- Musk's filing to the U.S. District Court emphasizes that the offer is serious and insists on preserving the charity’s mission.\n- OpenAI’s board quickly rejected Musk's bid as it does not value the nonprofit and asserts that it is not for sale.\n- Musk has previously sued OpenAI, claiming anticompetitive behavior and fraud.",
-      "keywords": [
-        "Elon Musk",
-        "OpenAI",
-        "nonprofit",
-        "bid",
-        "artificial intelligence",
-        "lawsuit",
-        "for-profit",
-        "Sam Altman"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-13T06:32:01.000Z"
-    },
-    {
-      "title": "Coinbase eyes re-entry to India",
-      "link": "https://techcrunch.com/2025/02/12/coinbase-eyes-re-entry-to-india/",
-      "author": "Manish Singh",
-      "thumbnail": null,
-      "summary": "- Coinbase is planning to re-enter the Indian market after ceasing operations over a year ago.\n- The company is engaging with the Financial Intelligence Unit (FIU) for necessary approvals to operate in India.\n- Previous launch in 2022 was halted due to lack of recognition from India's National Payments Corporation.\n- Coinbase aims to comply with regulatory requirements while exploring global expansion.\n- The crypto market in India is small, impacted by tax regulations introduced in 2022.\n- A potential re-entry could help fill the gap left by the collapse of the Indian exchange WazirX.",
-      "keywords": [
-        "Coinbase",
-        "India",
-        "cryptocurrency",
-        "regulatory approval",
-        "financial technology",
-        "market re-entry",
-        "crypto exchange",
-        "FIU"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-13T04:29:09.000Z"
-    },
-    {
-      "title": "Getaround abruptly shuts down US car-sharing operations",
-      "link": "https://techcrunch.com/2025/02/12/getaround-abruptly-shuts-down-us-car-sharing-operations/",
-      "author": "Kirsten Korosec",
-      "thumbnail": null,
-      "summary": "- Getaround is ceasing U.S. operations after previously cutting 30% of its North American workforce.\n- The company is shifting focus to its European business where it operates in six countries.\n- Customers were urged to return rentals to avoid liability issues, with coverage ending if vehicles are not returned.\n- Getaround will incur charges of $1.5 million to $2 million due to the layoffs, with most U.S. employees ending their employment by February 14, 2025.",
-      "keywords": [
-        "Getaround",
-        "car-sharing",
-        "business closure",
-        "U.S. operations",
-        "European market",
-        "AJ Lee",
-        "liability insurance",
-        "workforce reduction"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-13T03:09:52.000Z"
     }
   ]
 }
