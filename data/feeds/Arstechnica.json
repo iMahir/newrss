@@ -4,6 +4,28 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "What is device code phishing, and why are Russian spies so successful at it?",
+      "link": "https://arstechnica.com/information-technology/2025/02/russian-spies-use-device-code-phishing-to-hijack-microsoft-accounts/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Researchers have uncovered a phishing campaign by Russian spies targeting Microsoft 365 accounts using a technique called device code phishing.\n- Device code phishing exploits OAuth's device code flow, designed for devices that don't support browsers (e.g., printers, smart TVs).\n- Adversaries have been using this method since at least last August, impersonating trusted officials to initiate conversations on messaging apps.",
+      "keywords": [
+        "device code phishing",
+        "Russian spies",
+        "Microsoft 365",
+        "OAuth",
+        "cybersecurity",
+        "phishing campaign"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-14T21:16:11.000Z"
+    },
+    {
       "title": "Financially motivated hackers are helping their espionage counterparts and vice versa",
       "link": "https://arstechnica.com/security/2025/02/financially-motivated-hackers-are-helping-their-espionage-counterparts-and-vice-versa/",
       "author": null,
