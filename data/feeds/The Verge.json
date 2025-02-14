@@ -1,8 +1,203 @@
 {
   "title": "The Verge",
-  "link": "https://www.theverge.com/",
+  "link": "https://www.theverge.com",
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
+    {
+      "title": "TikTok ban: all the news on the app’s shutdown and return in the US",
+      "link": "https://www.theverge.com/23651507/tiktok-ban-us-news",
+      "author": "Verge Staff",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25829979/STK051_TIKTOKBAN_B_CVirginia_D.jpg?quality=90&strip=all&crop=0.95588235294118,0,98.088235294118,100&w=2400",
+      "summary": "- TikTok is back in the App Store after a temporary removal due to a US ban.\n- President Trump signed an executive order delaying the enforcement of the TikTok ban for 75 days starting January 20.\n- TikTok's service providers face potential penalties for operating the app in the US, despite it being available for download.\n- The Supreme Court upheld the TikTok ban law.\n- TikTok is now offering a download option for its Android app outside of Google Play due to removal from the platform last month.\n- There are discussions around a potential deal involving Oracle and Microsoft to take over TikTok's operations while ByteDance retains a minority stake.",
+      "keywords": [
+        "TikTok",
+        "ban",
+        "US",
+        "app store",
+        "Trump",
+        "Oracle",
+        "Microsoft",
+        "ByteDance"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-14T01:52:23.000Z"
+    },
+    {
+      "title": "TikTok is back in the App Store",
+      "link": "https://www.theverge.com/news/612768/tiktok-app-store-apple-google-us-ban",
+      "author": "Jay Peters",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK051_TIKTOKBAN_B_CVirginia_A.jpg.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "summary": "- TikTok has been restored in the Apple App Store and Google Play Store.\n- The app was banned in the US for nearly a month prior to its return.\n- US Attorney General Pam Bondi assured Apple that it wouldn't face fines for hosting the app.\n- The removal followed a law banning apps from ByteDance, TikTok's parent company.\n- Despite an executive order from President Trump not enforcing the ban for 75 days, Apple and Google initially refrained from hosting the app due to potential penalties.",
+      "keywords": [
+        "TikTok",
+        "App Store",
+        "Google Play Store",
+        "US ban",
+        "Apple",
+        "Android",
+        "ByteDance",
+        "Pam Bondi",
+        "executive order",
+        "Donald Trump"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-14T01:28:30.000Z"
+    },
+    {
+      "title": "Elden Ring: all of the updates about FromSoftware’s open-world hit",
+      "link": "https://www.theverge.com/2022/2/28/22955370/elden-ring-fromsoftware-open-world",
+      "author": "Verge Staff",
+      "thumbnail": null,
+      "summary": "- Even Elden Ring’s game director admits that Erdtree difficulty is excessive.\n- The DLC, Shadow of the Erdtree, expands the game significantly but carries similar challenges to the base game.\n- New content will feature intriguing mysteries that might require a guide.\n- Criticism arises regarding the character creator's inclusivity for Black players.\n- Overall, Elden Ring is praised as a vast and compelling fantasy experience.",
+      "keywords": [
+        "Elden Ring",
+        "FromSoftware",
+        "video games",
+        "DLC",
+        "Shadow of the Erdtree",
+        "game updates",
+        "game director",
+        "Hidetaka Miyazaki",
+        "game difficulty"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-13T23:49:05.000Z"
+    },
+    {
+      "title": "Gemini AI can now recall past conversations",
+      "link": "https://www.theverge.com/news/612638/google-gemini-ai-advanced-recall-conversations",
+      "author": "Emma Roth",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C100&amp;w=96",
+      "summary": "- Google’s Gemini AI can now recall past conversations for users with a Gemini Advanced subscription through Google One AI Premium.\n- The new feature eliminates the need to recap previous chats, allowing Gemini to provide relevant responses based on past discussions.\n- Users can also ask Gemini to summarize earlier conversations and manage their chat history at any time.\n- The recall feature is available in English on the Gemini web and mobile app, with plans to expand to more languages and Google Workspace customers soon.\n- Similar memory features have been implemented in ChatGPT as well.",
+      "keywords": [
+        "Gemini AI",
+        "Google",
+        "AI assistant",
+        "recall feature",
+        "chat history",
+        "subscription service"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-13T22:33:37.000Z"
+    },
+    {
+      "title": "Nvidia delays the RTX 5070 till after AMD’s reveal",
+      "link": "https://www.theverge.com/news/612650/nvidia-delays-rtx-5070-after-amd-9070",
+      "author": "Sean Hollister",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196092/sean-nerf-profile-pic..0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Nvidia delays the launch of RTX 5070 from February to March 5th, 2025.\n- The RTX 5070 Ti will be released on February 20th, 2025, ahead of AMD’s Radeon RX 9070 announcement on February 28th, 2025.\n- AMD is expected to utilize competitive pricing against Nvidia's offerings, as it has indicated it won't compete at the highest specification level.\n- Rumors suggest AMD is developing a more powerful card with 32GB of RAM, although current announcements do not confirm this.",
+      "keywords": [
+        "Nvidia",
+        "RTX 5070",
+        "AMD",
+        "Radeon RX 9070",
+        "graphics cards",
+        "gaming hardware",
+        "launch delay"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-13T22:25:00.000Z"
+    },
+    {
+      "title": "The best Presidents Day sales you can already shop",
+      "link": "https://www.theverge.com/good-deals/609704/best-presidents-day-sales-deals-2025-apple-gaming-tech",
+      "author": "Quentyn Kennemer",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25799335/247464_Kindle_Paperwhite_ALiszewski_0001.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "summary": "- A roundup of the best deals for Presidents Day, including discounts on tech gadgets and home goods.\n- Major retailers like [Amazon](https://www.amazon.com/events/presidentsdaysale/?tag=theverge02-20) and [Best Buy](https://howl.link/rq53o3tpgl36i) are currently offering sales.\n- Featured deals include Apple devices like the [AirPods Pro](https://www.amazon.com/Apple-Cancellation-Transparency-Personalized-High-Fidelity/dp/B0D1XD1ZV3?tag=theverge02-20) and [Apple Watch Series 10](https://www.amazon.com/Apple-Aluminium-Fitness-Tracker-AppleCare/dp/B0DGJBRKHV?tag=theverge02-20) at competitive prices.\n- Additional discounts include Sony’s WH-1000XM5 headphones and Kindle Paperwhite devices.",
+      "keywords": [
+        "Presidents Day",
+        "sales",
+        "deals",
+        "Apple",
+        "electronics",
+        "Amazon",
+        "Best Buy",
+        "headphones",
+        "smart home"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-02-13T21:59:27.000Z"
+    },
+    {
+      "title": "Google’s latest Pixel phones are down to some of their best prices",
+      "link": "https://www.theverge.com/good-deals/612322/google-pixel-9-deal-sale",
+      "author": "Sheena Vasani",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24993392/DSC05762.jpg?quality=90&strip=all&crop=17.35%2C0%2C65.3%2C100&w=2400",
+      "summary": "- Last-gen Pixel 8 starting at $399, discounted by $300 at retailers like [Amazon](https://www.amazon.com/Google-Pixel-Unlocked-Smartphone-Advanced/dp/B0CGTNPFZD/?tag=theverge02-20) and [Best Buy](https://howl.link/mqqfoyfunjvdh).\n- Pixel 9 starts at $649 with $150 off available at [Google](https://store.google.com/product/pixel_9?hl=en-US), [Amazon](https://www.amazon.com/Google-Pixel-Unlocked-Smartphone-Advanced/dp/B0D7HWJDQM/?th=1&tag=theverge02-20), and [Best Buy](https://howl.link/4fjnqw3q1qarc).\n- Pixel 9 Pro and Pixel 9 Pro XL both have $200 off, priced at $799 and $899 respectively.\n- Pixel 8 features include seven years of software support, wireless charging, and IP68 rating at a budget price of $399.\n- Pixel 9 comes with a 6.3-inch OLED display, Tensor G4 processor, 12GB RAM, and improved dual-camera system.\n- Pixel 9 Pro and Pixel 9 Pro XL offer advanced features like 16GB RAM, larger storage options, and fast 8K video recording.",
+      "keywords": [
+        "Google",
+        "Pixel phones",
+        "prices",
+        "smartphones",
+        "discounts",
+        "Android",
+        "Pixel 8",
+        "Pixel 9",
+        "Pixel 9 Pro",
+        "Pixel 9 Pro XL"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-13T21:29:44.000Z"
+    },
+    {
+      "title": "How to get TikTok back on your phone if you deleted it after the ban",
+      "link": "https://www.theverge.com/how-to/612030/tiktok-ban-app-ios-android-how-to",
+      "author": "Barbara Krasnoff",
+      "thumbnail": null,
+      "summary": "- Apple and Google have restored TikTok to their app stores in the US, allowing downloads for both iOS and Android.\n- The ban on TikTok remains, but enforcement is paused for 75 days per President Trump's order.\n- Users without the app can download it directly from TikTok's website on Android, or access it via a web browser on iOS.\n- iOS users must use alternative methods, like VPNs, to bypass regional restrictions and access TikTok.\n- On Android, users can also choose between TikTok Lite and the full app depending on their device's capability.",
+      "keywords": [
+        "TikTok",
+        "app download",
+        "ban",
+        "Apple",
+        "Google",
+        "VPN",
+        "iOS",
+        "Android"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-13T21:18:40.000Z"
+    },
     {
       "title": "Google Maps in the US will change to Gulf of America and Mount McKinley",
       "link": "https://www.theverge.com/2025/1/27/24353450/google-maps-rename-gulf-of-mexico-america-mt-mckinley",
@@ -982,194 +1177,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-24T20:14:13.000Z"
-    },
-    {
-      "title": "Rivian will add hands-free driver assist to vehicles this year, ‘eyes-off’ next year",
-      "link": "https://www.theverge.com/2025/1/24/24351228/rivian-hands-free-eyes-off-adas-driver-assist-2026",
-      "author": "Umar Shakir",
-      "thumbnail": null,
-      "summary": "- Rivian plans to launch a hands-free driving assistant system for its electric R1T and R1S vehicles in 2025.\n- An 'eyes-off' version is expected to follow in 2026.\n- The system will work similarly to Ford’s Blue Cruise or GM’s Super Cruise, functioning on fully mapped highways.\n- Uncertainty exists over whether Gen 1 and Gen 2 Rivian vehicles will support the new software.\n- Gen 2 vehicles have unique features like matrix headlights and an updated Rivian Autonomy Platform.\n- Current Rivian trucks have a 'Driver Plus' ADAS with lane keeping and auto speed adjustments, but still require driver attention.\n- As of now, only Mercedes-Benz offers a Level 3 autonomous system in the US.",
-      "keywords": [
-        "Rivian",
-        "hands-free driving",
-        "ADAS",
-        "electric vehicles",
-        "autonomous driving",
-        "R1T",
-        "R1S",
-        "driver assist"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-24T19:01:17.000Z"
-    },
-    {
-      "title": "Mark Zuckerberg wants you to know he has a big AI data center, too",
-      "link": "https://www.theverge.com/2025/1/24/24351061/mark-zuckerberg-meta-ai-data-center-investment",
-      "author": "Emma Roth",
-      "thumbnail": null,
-      "summary": "- Meta CEO Mark Zuckerberg plans to spend up to $65 billion on AI in 2025, with a focus on a large data center in Louisiana.\n- The Louisiana data center is described as being as large as a significant part of Manhattan.\n- This announcement comes in the wake of Project Stargate, a $500 billion joint venture involving major tech figures to create AI data centers across the U.S.\n- Meta initiated construction on its $10 billion Louisiana data center last December, with plans extending to 2030.\n- Zuckerberg anticipates having over 1.3 million GPUs and a substantial expansion of Meta's AI team by the end of the year.",
-      "keywords": [
-        "Mark Zuckerberg",
-        "Meta",
-        "AI",
-        "data center",
-        "investment",
-        "Louisiana",
-        "Project Stargate",
-        "technology"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-24T17:28:54.000Z"
-    },
-    {
-      "title": "Meta’s Censoring of Abortion Information Is Nothing New",
-      "link": "https://www.theverge.com/2025/1/24/24350967/metas-instagram-facebook-abortion-access-information-blocking-banning",
-      "author": "Mia Sato",
-      "thumbnail": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1148x1055/2400x2206/filters:focal(574x528:575x529):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25845113/IMG_1723.png",
-      "summary": "[Several Aid Access posts on Instagram were blocked this week, impacting visibility and accessibility.]\n[Meta restored some posts by Thursday evening but others remained missing.]\n[The censorship incident highlights ongoing restrictions on abortion information by Meta, coinciding with a shift towards more permissive content policies for controversial topics.]\n[Aid Access connects patients with doctors for abortion pills via telehealth; medication abortions can be safely done at home according to the WHO.]\n[Groups like Hey Jane have also faced visibility issues on Instagram, affecting their outreach to patients seeking abortion care.]",
-      "keywords": [
-        "Meta",
-        "abortion information",
-        "censorship",
-        "Instagram",
-        "Aid Access",
-        "Hey Jane",
-        "healthcare access"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-24T17:21:11.000Z"
-    },
-    {
-      "title": "Threads is officially getting ads",
-      "link": "https://www.theverge.com/2025/1/24/24351141/meta-threads-ads-test",
-      "author": "Emma Roth",
-      "thumbnail": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg",
-      "summary": "- Meta is rolling out a \"limited, early test of ads in Threads\" starting January 24, 2025.\n- The test will involve a handful of brands in the US and Japan, according to Instagram boss Adam Mosseri.\n- Ads will appear as images between posts in users' home feeds.\n- Meta will tailor ads based on users' activity on Threads, Instagram, and other Meta technologies, with options to customize how ads are displayed.",
-      "keywords": [
-        "Threads",
-        "Meta",
-        "ads",
-        "social media",
-        "Instagram"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-24T17:19:59.000Z"
-    },
-    {
-      "title": "Ram 1500 Rev’s 500-mile battery option canceled",
-      "link": "https://www.theverge.com/2025/1/24/24351113/ram-1500-rev-500-mile-battery-canceled",
-      "author": "Umar Shakir",
-      "thumbnail": null,
-      "summary": "- Stellantis is canceling the 500-mile range version of the Ram 1500 Rev.  \n- The electric truck will now only offer a maximum range of 350 miles on a single charge.  \n- The cancellation news comes from internal emails instructing suppliers to stop working on the larger 229kWh battery.  \n- The Ram 1500 Rev has been delayed to 2026 to focus on the hybrid Ramcharger launch.  \n- The largest battery option for the Rev is now 168kWh, surpassing Ford’s F-150 Lightning Flash’s 131kWh pack.",
-      "keywords": [
-        "Ram 1500 Rev",
-        "Stellantis",
-        "battery cancellation",
-        "electric truck",
-        "Ramcharger",
-        "automotive news"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-01-24T17:08:11.000Z"
-    },
-    {
-      "title": "2025 looks like a great year for Xbox",
-      "link": "https://www.theverge.com/2025/1/24/24351055/xbox-game-pass-releases-2025-notepad",
-      "author": "Tom Warren",
-      "thumbnail": null,
-      "summary": "- Microsoft promises an exciting lineup for Xbox Game Pass in 2025, with much-anticipated games.\n- Major titles include *Ninja Gaiden 4*, *Clair Obscur: Expedition 33*, and *Doom: The Dark Ages* with significant gameplay innovations.\n- Numerous cross-platform releases confirmed, emphasizing Xbox's ecosystem benefits like Game Pass, cross-saves, and cloud gaming capabilities.\n- A busy first half of 2025 is expected, with *Avowed* set to launch on February 18.\n- Anticipated announcements for the latter half of 2025 include *The Outer Worlds 2* and a potential remaster of *The Elder Scrolls IV: Oblivion*.",
-      "keywords": [
-        "Xbox",
-        "Game Pass",
-        "Ninja Gaiden",
-        "Doom",
-        "video games",
-        "2025",
-        "Microsoft",
-        "gaming industry"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-24T17:00:00.000Z"
-    },
-    {
-      "title": "Live translations on Meta’s smart glasses work well — until they don’t",
-      "link": "https://www.theverge.com/2025/1/24/24351013/ray-ban-meta-smart-glasses-translation-wearables",
-      "author": "Victoria Song",
-      "thumbnail": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1125x2436/2400x5197/filters:focal(563x1218:564x1219):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25845211/IMG_4938.PNG",
-      "summary": "- The Ray-Ban Meta smart glasses offer live translation between Spanish, French, and Italian in real-time.\n- The translation feature allows for basic conversations with some lag, particularly with longer speeches.\n- The glasses handle Spanglish but struggle with slang and rapid switching between languages.\n- They work well for clear, loud speech but fail with soft-spoken dialogue or fast-paced exchanges.\n- Designed for basic interactions like asking directions and ordering food, they do not perform well with movies or music translations.",
-      "keywords": [
-        "Meta",
-        "smart glasses",
-        "live translation",
-        "K-pop",
-        "translation technology",
-        "Ray-Ban",
-        "AI",
-        "Spanglish",
-        "slang",
-        "wearables"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-24T16:36:39.000Z"
-    },
-    {
-      "title": "The Supreme Court’s TikTok ruling is an ominous turn for online speech",
-      "link": "https://www.theverge.com/2025/1/24/24346165/tiktok-supreme-court-first-amendment-tech-regulation",
-      "author": "Lauren Feiner",
-      "thumbnail": null,
-      "summary": "- The Supreme Court upheld a law banning TikTok from the US, indicating potential wider implications for speech and tech law.\n- Legal experts warn the ruling could enable backdoor speech regulation and expand government power over speech in the name of national security.\n- Some argue the decision may prevent corporations from using the First Amendment to evade regulation, while others see it as creating challenges for future tech regulations.",
-      "keywords": [
-        "Supreme Court",
-        "TikTok",
-        "online speech",
-        "First Amendment",
-        "national security",
-        "tech regulation",
-        "censorship",
-        "corporate regulation"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-24T16:25:22.000Z"
     }
   ]
 }
