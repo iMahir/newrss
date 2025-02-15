@@ -4,6 +4,55 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Court filings show Meta paused efforts to license books for AI training",
+      "link": "https://techcrunch.com/2025/02/14/court-filings-show-meta-paused-efforts-to-license-books-for-ai-training/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- New court filings in the case of [Kadrey v. Meta Platforms](https://www.courtlistener.com/docket/67569326/kadrey-v-meta-platforms-inc/?order_by=desc) indicate Meta has paused discussions with book publishers for AI training data licensing.\n- Meta's AI partnership lead, Sy Choudhury, reported slow engagement from publishers during outreach efforts, leading to the decision to pause licensing efforts in early April 2023 due to logistical setbacks.\n- The plaintiffs, including authors Sarah Silverman and Ta-Nehisi Coates, allege Meta may have used pirated ebooks for AI model training, raising concerns over copyright infringement.",
+      "keywords": [
+        "Meta",
+        "AI training",
+        "copyright",
+        "book licensing",
+        "court case",
+        "intellectual property",
+        "authors",
+        "piracy"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-14T23:35:33.000Z"
+    },
+    {
+      "title": "AI Alexa and AI Siri face bugs and delays",
+      "link": "https://techcrunch.com/2025/02/14/ai-alexa-and-ai-siri-face-bugs-and-delays/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Amazon and Apple are facing delays in releasing generative AI features for their digital assistants, Alexa and Siri, respectively.\n- Amazon has postponed the release of its updated Alexa, initially scheduled for February 26, to March or later.\n- Apple's AI enhancements for Siri are experiencing engineering problems, delaying planned features that may now launch in May or later.\n- Both companies aim to compete against advanced AI voice assistants from OpenAI and Google but are struggling with their timelines.",
+      "keywords": [
+        "AI",
+        "Alexa",
+        "Siri",
+        "bugs",
+        "delays",
+        "Amazon",
+        "Apple",
+        "generative AI",
+        "digital assistants"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-14T23:24:47.000Z"
+    },
+    {
       "title": "Figure AI is in talks to raise $1.5B at 15x its last valuation",
       "link": "https://techcrunch.com/2025/02/14/figure-ai-is-in-talks-to-raise-1-5b-at-15x-its-last-valuation/",
       "author": null,
@@ -1114,54 +1163,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-13T15:10:14.000Z"
-    },
-    {
-      "title": "YouTube Shorts adds Veo 2 so creators can make gen AI videos",
-      "link": "https://techcrunch.com/2025/02/13/youtube-shorts-adds-veo-2-so-creators-can-make-gen-ai-videos/",
-      "author": "Amanda Silberling",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/12/ezgif-5-2b83e53ea9.gif?w=680",
-      "summary": "- YouTube Shorts integrates with Google DeepMind's video model, Veo 2, enabling creators to generate AI video clips.\n- Veo 2 offers advancements over the Dream Screen feature, allowing for the generation of standalone video clips with specified styles and effects.\n- Videos made with AI will be watermarked using DeepMind's SynthID, and labeled to indicate they are AI-generated as the feature rolls out on February 15, 2024 for creators in select countries.",
-      "keywords": [
-        "YouTube Shorts",
-        "Veo 2",
-        "AI video generation",
-        "Google DeepMind",
-        "Dream Screen",
-        "synthetic content",
-        "video creator tools"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-13T15:02:01.000Z"
-    },
-    {
-      "title": "EnCharge raises $100M+ to accelerate AI using analog chips",
-      "link": "https://techcrunch.com/2025/02/13/encharge-raises-100m-to-accelerate-ai-using-analog-chips/",
-      "author": "Naveen Verma",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/EnChargeAI_1022_0112.jpg?w=680",
-      "summary": "- EnCharge AI, a semiconductor startup, has secured over $100 million in a Series B round led by Tiger Global.\n- The funding will support the development of analog memory chips intended for AI applications across various devices.\n- EnCharge claims its chips use 20 times less energy than competing products and aims to bring these to market later this year.\n- The U.S. government is focusing on boosting domestic chip production, positioning EnCharge as a potential key player in this strategy.\n- Other investors in the round include Maverick Silicon, Capital TEN, and Samsung Ventures among others.\n- The company collaborates with TSMC for the manufacturing of its chips, which are designed for efficient AI processing at the edge.",
-      "keywords": [
-        "EnCharge",
-        "AI",
-        "analog chips",
-        "semiconductors",
-        "funding",
-        "Tiger Global",
-        "energy efficiency",
-        "TSMC",
-        "innovation"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-13T15:00:00.000Z"
     }
   ]
 }
