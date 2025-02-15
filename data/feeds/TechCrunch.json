@@ -4,6 +4,28 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Uber sues DoorDash, alleging anti-competitive tactics",
+      "link": "https://techcrunch.com/2025/02/14/uber-sues-doordash-alleging-anti-competitive-tactics/",
+      "author": "Kirsten Korosec, Maxwell Zeff",
+      "thumbnail": null,
+      "summary": "- Uber has filed a lawsuit against DoorDash in California, claiming anti-competitive practices aimed at restaurant owners.\n- DoorDash allegedly coerces restaurants into exclusive agreements for delivery services, threatening penalties or demotion in app visibility.\n- Uber claims this situation has led to substantial financial losses and hampered the growth of its service Uber Direct.",
+      "keywords": [
+        "Uber",
+        "DoorDash",
+        "lawsuit",
+        "anti-competitive",
+        "restaurant delivery services",
+        "exclusive agreements"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-15T01:35:37.000Z"
+    },
+    {
       "title": "Court filings show Meta paused efforts to license books for AI training",
       "link": "https://techcrunch.com/2025/02/14/court-filings-show-meta-paused-efforts-to-license-books-for-ai-training/",
       "author": "Kyle Wiggers",
@@ -1139,30 +1161,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-13T15:24:59.000Z"
-    },
-    {
-      "title": "Spyware maker caught distributing malicious Android apps for years",
-      "link": "https://techcrunch.com/2025/02/13/spyware-maker-caught-distributing-malicious-android-apps-for-years/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/fake_whatsapp_malicious_website.png",
-      "summary": "- Italian spyware maker SIO is accused of distributing malicious Android apps that disguise themselves as popular applications like WhatsApp.\n- Security researchers found these apps to be spyware confirmed by Lookout and Google.\n- The spyware, named Spyrtacus, can steal texts, monitor calls, and access photos, implicating government use in Italy for surveillance purposes.\n- SIO has previously supplied spyware to the Italian government and the malicious apps were developed to be user-friendly and deceptive.\n- The campaign raises concerns about government surveillance and the methods used to target individuals through malware.",
-      "keywords": [
-        "spyware",
-        "Android",
-        "SIO",
-        "surveillance",
-        "malicious apps",
-        "government",
-        "Spyrtacus",
-        "data theft"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-13T15:10:14.000Z"
     }
   ]
 }
