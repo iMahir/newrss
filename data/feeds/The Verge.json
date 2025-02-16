@@ -4,6 +4,27 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "BMW’s next-gen EVs depend on an unassuming black box called ‘Heart of Joy’",
+      "link": "https://www.theverge.com/cars/613962/bme-heart-of-joy-ecu-ev-powertrain-drive-dynamics",
+      "author": "Abigail Bassett",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/P90584495_highRes.jpg?quality=90&strip=all&crop=0.0050393065914136,0,99.989921386817,100",
+      "summary": "- The Heart of Joy is an ECU that combines driving dynamics and powertrain control for BMW's upcoming EVs.\n- The system was developed in-house by BMW engineers over three years and has undergone more than 7,500 hours of testing.\n- The VDX test vehicle demonstrated a significant increase in efficiency and stabilization through advanced regenerative braking features.\n- The Heart of Joy is ten times faster than conventional ECUs, enabling better integration and responsiveness.\n- Focus on creating a unique driving experience distinct from other manufacturers that rely on third-party systems.",
+      "keywords": [
+        "BMW",
+        "Heart of Joy",
+        "EVs",
+        "automotive technology",
+        "Neue Klasse"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-16T23:01:00.000Z"
+    },
+    {
       "title": "Trump’s first 100 days: all the news affecting the tech industry",
       "link": "https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news",
       "author": "Verge Staff",
@@ -1145,27 +1166,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-14T14:00:00.000Z"
-    },
-    {
-      "title": "Elon Musk’s DOGE website has been defaced because anyone can edit it",
-      "link": "https://www.theverge.com/news/612865/doge-government-website-database-security-open",
-      "author": "Jess Weatherbed",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STKS486_DOGE_DEPARTMENT_F.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-      "summary": "- The DOGE website, linked to Elon Musk, uses an insecure database accessible to anyone for edits.\n- Experts revealed that unauthorized entries were made on the site shortly after the security flaw was reported.\n- The site, launched in January 2025, had limited functionality initially but now sources posts from the DOGE X account and other regulatory stats.",
-      "keywords": [
-        "DOGE",
-        "Elon Musk",
-        "website security",
-        "database",
-        "government"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-02-14T11:05:03.000Z"
     }
   ]
 }

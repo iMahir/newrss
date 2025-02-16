@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "These researchers used NPR Sunday Puzzle questions to benchmark AI ‘reasoning’ models",
+      "link": "https://techcrunch.com/2025/02/16/these-researchers-used-npr-sunday-puzzle-questions-to-benchmark-ai-reasoning-models/",
+      "author": "Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Screenshot-2025-02-06-at-12.41.18AM.png?w=680",
+      "summary": "- Researchers from multiple institutions created an AI benchmark using riddles from NPR's Sunday Puzzle.\n- The study revealed that AI reasoning models, such as OpenAI's o1, sometimes provide incorrect answers when they 'give up.'\n- The current best-performing model on the benchmark scored 59%, with future plans to test additional reasoning models.",
+      "keywords": [
+        "AI",
+        "reasoning",
+        "NPR",
+        "Sunday Puzzle",
+        "benchmark",
+        "OpenAI",
+        "machine learning"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-16T22:25:00.000Z"
+    },
+    {
       "title": "Researchers are training AI to interpret animal emotions",
       "link": "https://techcrunch.com/2025/02/16/researchers-are-training-ai-to-interpret-animal-emotions/",
       "author": null,
@@ -1141,27 +1164,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-13T19:23:24.000Z"
-    },
-    {
-      "title": "Anthropic’s next major AI model could arrive within weeks",
-      "link": "https://techcrunch.com/2025/02/13/anthropics-next-major-ai-model-could-arrive-within-weeks/",
-      "author": "Not given",
-      "thumbnail": null,
-      "summary": "- AI startup Anthropic is set to release its next major AI model, described as a ‘hybrid’ capable of deep reasoning and fast responses.\n- The model will include a ‘sliding scale’ feature for developers to manage costs associated with deeper reasoning tasks.\n- Anthropic’s upcoming model is anticipated to outperform OpenAI’s o3-mini-high reasoning model in programming tasks and is effective at analyzing large codebases.\n- CEO Dario Amodei expressed a focus on differentiating reasoning models in a recent interview.",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "reasoning models",
-        "deep learning",
-        "technology"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-13T19:07:07.000Z"
     }
   ]
 }
