@@ -4,6 +4,28 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Open source LLMs hit Europe’s digital sovereignty roadmap",
+      "link": "https://techcrunch.com/2025/02/16/open-source-llms-hit-europes-digital-sovereignty-roadmap/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- A new program aims to develop truly open source LLMs for all EU languages.\n- The collaboration, named OpenEuroLLM, involves around 20 organizations, co-led by Jan Hajič and Peter Sarlin.\n- The project emphasizes digital sovereignty in Europe amidst significant investments in local AI infrastructure.\n- A budget of €37.4 million is allocated, with €20 million from the EU's Digital Europe Programme.\n- Partners include EuroHPC supercomputer centers, and the project anticipates initial model releases by mid-2026.\n- There are concerns about the feasibility of the goals due to the size of the consortium.\n- OpenEuroLLM aims to create foundation models that reflect linguistic and cultural diversity across the EU.\n- The initiative faces challenges in meeting high-quality standards while maintaining openness in data sourcing.\n- Comparison drawn with another project, EuroLLM, which focuses on similar goals for open source AI.",
+      "keywords": [
+        "open source",
+        "LLMs",
+        "Europe",
+        "digital sovereignty",
+        "AI infrastructure",
+        "EU languages"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-16T14:30:00.000Z"
+    },
+    {
       "title": "Death of OpenAI whistleblower deemed suicide in new autopsy report",
       "link": "https://techcrunch.com/2025/02/15/death-of-openai-whistleblower-deemed-suicide-in-new-autopsy-report/",
       "author": null,
@@ -1141,29 +1163,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-02-13T17:54:34.000Z"
-    },
-    {
-      "title": "Seagate acquires Intevac, which makes equipment for hard disk drives, for $119M",
-      "link": "https://techcrunch.com/2025/02/13/seagate-acquires-intevac-which-makes-equipment-for-hard-disk-drives-for-119m/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- Seagate announced its intent to acquire Intevac for $119 million in an all-cash deal.\n- The agreement includes a tender offer of $4 per share for at least 50% of Intevac’s shares, followed by a merger for the remaining shares.\n- The acquisition is expected to close in late March or early April 2025, pending customary conditions.\n- Intevac, founded in 1991, specializes in thin film deposition systems and has a market cap of around $91.17 million.\n- The move aligns with Seagate's strategy in the storage market, particularly with HAMR technology for hard drives.\n- This is Seagate's first major acquisition since 2017, bringing its total to 11 acquisitions.",
-      "keywords": [
-        "Seagate",
-        "Intevac",
-        "acquisition",
-        "hard disk drives",
-        "HAMR",
-        "storage technology",
-        "business deal"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-13T17:47:08.000Z"
     }
   ]
 }
