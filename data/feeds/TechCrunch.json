@@ -4,6 +4,31 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Researchers are training AI to interpret animal emotions",
+      "link": "https://techcrunch.com/2025/02/16/researchers-are-training-ai-to-interpret-animal-emotions/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2017/10/gettyimages-697069014.jpg?w=1024",
+      "summary": "- Researchers are developing AI systems to interpret animals' emotions, including pain.\n- The Intellipig system analyzes pigs' faces to notify farmers of distress signs.\n- AI has shown an 88% success rate in identifying pain indicators in horses after surgery using deep learning.\n- Human observations are crucial for training AI systems to understand animal behaviors.\n- The research is being conducted by teams from the University of the West of England Bristol, Scotland’s Rural College, and the University of Haifa.",
+      "keywords": [
+        "AI",
+        "animal emotions",
+        "pain detection",
+        "Intellipig",
+        "machine learning",
+        "facial recognition",
+        "University of Haifa",
+        "University of the West of England Bristol",
+        "animal welfare"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-16T20:01:55.000Z"
+    },
+    {
       "title": "Broadcom, TSMC reportedly exploring deals that would split up Intel",
       "link": "https://techcrunch.com/2025/02/16/broadcom-tsmc-reportedly-exploring-deals-that-would-split-up-intel/",
       "author": null,
@@ -1137,30 +1162,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-02-13T19:07:07.000Z"
-    },
-    {
-      "title": "Phase raises $13M to speed up the UX design process with its no-code platform",
-      "link": "https://techcrunch.com/2025/02/13/phase-raises-13m-launches-its-no-code-platform-out-of-beta-to-challenge-figma/",
-      "author": "Kate Park",
-      "thumbnail": null,
-      "summary": "- Phase, founded by Nick Budden, has raised $13 million to enhance the no-code design workflow for UI/UX designers.\n- The startup's platform allows designers to create interactive prototypes without coding, aiming to replace tools like Figma and Adobe After Effects.\n- Phase successfully launched its platform in South Korea, achieving over 10,000 testers shortly after launch, with plans to expand into U.S. and European markets.",
-      "keywords": [
-        "UX design",
-        "no-code platform",
-        "UI design",
-        "Phase",
-        "funding",
-        "prototypes",
-        "South Korea",
-        "global beta"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-13T18:30:00.000Z"
     }
   ]
 }
