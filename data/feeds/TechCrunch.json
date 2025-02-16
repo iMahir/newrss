@@ -4,6 +4,31 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "OpenAI tries to ‘uncensor’ ChatGPT",
+      "link": "https://techcrunch.com/2025/02/16/openai-tries-to-uncensor-chatgpt/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2016/09/disrupt_sf16_david_sacks-3718.jpg?w=680",
+      "summary": "- OpenAI is changing how it trains AI models to promote intellectual freedom in responses.\n- ChatGPT will soon address more topics, aiming for neutrality on controversial issues.\n- Recent updates include the principle of not lying and offering multiple perspectives.\n- OpenAI's changes may align with recent political shifts and vocal criticisms from conservative figures.\n- The company aims to enhance user experience by removing content warnings, making ChatGPT feel less censored.\n- The updates signal a broader movement in Silicon Valley towards a new approach to AI and content moderation.",
+      "keywords": [
+        "OpenAI",
+        "ChatGPT",
+        "AI training",
+        "intellectual freedom",
+        "content moderation",
+        "Silicon Valley",
+        "free speech",
+        "politics",
+        "machine learning"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-16T16:00:00.000Z"
+    },
+    {
       "title": "Open source LLMs hit Europe’s digital sovereignty roadmap",
       "link": "https://techcrunch.com/2025/02/16/open-source-llms-hit-europes-digital-sovereignty-roadmap/",
       "author": null,
@@ -1139,30 +1164,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-13T18:00:00.000Z"
-    },
-    {
-      "title": "OpenAI scrubs diversity commitment web page from its site",
-      "link": "https://techcrunch.com/2025/02/13/openai-scrubs-diversity-commitment-web-page-from-its-site/",
-      "author": "Dominic-Madori Davis",
-      "thumbnail": null,
-      "summary": "- OpenAI removed its diversity, equity, and inclusion commitment page, redirecting it to a new page emphasizing people with different backgrounds.\n- The previous commitment stated a serious and ongoing investment in DEI, captured by [Internet Archive](https://web.archive.org/) and cited by [CNN](https://www.cnn.com/2023/12/15/tech/openai-board-diversity/index.html).\n- The change likely took place between January 22 and January 27, 2025, coinciding with a trend among tech companies distancing from DEI language due to political backlash.\n- OpenAI has not commented on whether internal processes have changed following this removal, while still maintaining a page on [fairness](https://openai.com/index/evaluating-fairness-in-chatgpt/) in its model training.",
-      "keywords": [
-        "OpenAI",
-        "diversity",
-        "equity",
-        "inclusion",
-        "web page",
-        "commitment",
-        "policy changes",
-        "tech industry"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-13T17:54:34.000Z"
     }
   ]
 }
