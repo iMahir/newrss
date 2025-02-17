@@ -4,6 +4,30 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Mistral releases regional model focused on Arabic language and culture",
+      "link": "https://techcrunch.com/2025/02/17/mistral-releases-regional-model-focused-on-arabic-language-and-culture/",
+      "author": "Romain Dillet",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Mistral-Saba.jpg",
+      "summary": "- Mistral, a Paris-based AI startup, launched Mistral Saba, a model tailored for Arabic-speaking countries.\n- Mistral Saba features 24 billion parameters, focusing on improving Arabic interactions while also performing well with some Indian languages like Tamil and Malayalam.\n- The model can be used for natural conversational support or content generation in Arabic and is available through Mistral’s API or for on-premise deployment.",
+      "keywords": [
+        "Mistral",
+        "Arabic language",
+        "AI model",
+        "generative AI",
+        "language models",
+        "Mistral Saba",
+        "technology",
+        "Middle East"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-17T13:00:00.000Z"
+    },
+    {
       "title": "Olyn secures Beatles biopic for its ‘Shopify for filmmakers’",
       "link": "https://techcrunch.com/2025/02/17/olyn-secures-beatles-biopic-for-its-shopify-for-filmmakers/",
       "author": "Ana Maria Jipa, Jeremias Buireo, Kiran Thomas, Malcolm Wood",
@@ -1141,31 +1165,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-02-13T21:46:42.000Z"
-    },
-    {
-      "title": "Arm is launching its own chip this year with Meta as a customer",
-      "link": "https://techcrunch.com/2025/02/13/arm-is-launching-its-own-chip-this-year-with-meta-as-a-customer/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Arm is starting its own chip production in 2025 with Meta as a customer.\n- The chips will primarily be CPUs for large data center servers and customizable for various clients.\n- The first in-house Arm chip is expected to be unveiled by summer 2025.\n- This marks a strategic shift for Arm, which typically licenses its chip designs to other companies like Apple and Nvidia.",
-      "keywords": [
-        "Arm",
-        "Meta",
-        "semiconductor",
-        "chip production",
-        "CPU",
-        "data centers",
-        "SoftBank",
-        "Apple",
-        "Nvidia"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-13T21:33:01.000Z"
     }
   ]
 }
