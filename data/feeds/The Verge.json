@@ -4,6 +4,27 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "X is blocking links to Signal",
+      "link": "https://www.theverge.com/news/613997/x-blocks-signal-me-links-errors",
+      "author": "Jess Weatherbed",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195820/JESSICA_WEATHERBED.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- X users cannot post links to Signal.me, leading to various failure notifications.\n- Links to Signal.org and other services like Telegram are not blocked.\n- Signal is frequently used by journalists for secure communication.\n- Users are also prevented from clicking or updating existing Signal.me links on their profiles, receiving error messages related to malware.\n- Similar blocking of links to competitors was previously conducted by X under Elon Musk's directive.",
+      "keywords": [
+        "X",
+        "Signal",
+        "link blocking",
+        "social media",
+        "Elon Musk"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-02-17T13:56:26.000Z"
+    },
+    {
       "title": "The New York Times adopts AI tools in the newsroom",
       "link": "https://www.theverge.com/news/613989/new-york-times-internal-ai-tools-echo",
       "author": "Jess Weatherbed",
@@ -1147,27 +1168,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-02-14T14:25:55.000Z"
-    },
-    {
-      "title": "Netflix finally decides to play nice and support the Apple TV app",
-      "link": "https://www.theverge.com/news/612911/netflix-apple-tv-app-support-integration",
-      "author": "Jess Weatherbed",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195820/JESSICA_WEATHERBED.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Users of Apple TV 4K in the US can now link their Netflix accounts to the Apple TV app, allowing integration of certain Netflix originals into the app.\n- Netflix is listed as a participating service in the Apple TV app, although the full catalog is not yet available and the rollout is ongoing for US users.\n- This change marks a shift from Netflix's previous resistance to being part of third-party platforms, which had included avoiding platforms like Google TV.",
-      "keywords": [
-        "Netflix",
-        "Apple TV",
-        "integration",
-        "streaming",
-        "entertainment"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-14T14:25:37.000Z"
     }
   ]
 }
