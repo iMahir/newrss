@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "The New York Times adopts AI tools in the newsroom",
+      "link": "https://www.theverge.com/news/613989/new-york-times-internal-ai-tools-echo",
+      "author": "Jess Weatherbed",
+      "thumbnail": null,
+      "summary": "- The New York Times has approved AI tools for newsroom staff to aid in editing, summarizing, coding, and writing.\n- New internal AI tool called Echo introduced for summarizing articles and briefings, with staff receiving AI training.\n- Editorial guidelines for AI use encourage suggesting edits, generating summaries, and SEO headlines, but restrict drafting articles and using copyrighted materials.\n- Commitment to human oversight remains, asserting journalism will be managed by expert journalists despite AI assistance.\n- Other approved AI tools include GitHub Copilot, Google Vertex AI, and OpenAI’s non-ChatGPT API.\n- This rollout occurs amid a legal battle with OpenAI and Microsoft over unauthorized use of Times content for ChatGPT training.",
+      "keywords": [
+        "New York Times",
+        "AI tools",
+        "journalism",
+        "Echo",
+        "artificial intelligence",
+        "newsroom",
+        "editorial guidelines",
+        "OpenAI"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-17T12:01:49.000Z"
+    },
+    {
       "title": "DeepSeek: all the news about the startup that’s shaking up AI stocks",
       "link": "https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai",
       "author": "Verge Staff",
@@ -1144,30 +1168,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-14T14:25:37.000Z"
-    },
-    {
-      "title": "The technology team at financial regulator CFPB has been gutted",
-      "link": "https://www.theverge.com/policy/612933/cfpb-tech-team-gutted-trump-doge-elon-musk",
-      "author": "Lauren Feiner",
-      "thumbnail": null,
-      "summary": "- Around 20 technologists at the Consumer Financial Protection Bureau (CFPB) were fired, impacting oversight of Big Tech in financial products.\n- This layoff follows previous cuts affecting mostly contractors and probationary employees, part of a trend under President Trump's administration.\n- The firings occurred shortly after a set of technology team members were locked out of their work accounts, suggesting they were terminated without warning.\n- Former CFPB officials express concern that consumer complaints may go unaddressed, harming oversight on financial practices.\n- The CFPB's ability to investigate and regulate tech firms entering financial services is now compromised due to the loss of expertise.",
-      "keywords": [
-        "CFPB",
-        "layoffs",
-        "Big Tech",
-        "financial regulation",
-        "Elon Musk",
-        "government efficiency",
-        "consumer protection",
-        "technology team"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-14T14:20:04.000Z"
     }
   ]
 }
