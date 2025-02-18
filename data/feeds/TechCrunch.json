@@ -4,6 +4,30 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "As US newspaper outages drag on, Lee Enterprises blames cyberattack for encrypting critical systems",
+      "link": "https://techcrunch.com/2025/02/18/as-us-newspaper-outages-drag-on-lee-enterprises-blames-cyberattack-for-encrypting-critical-systems/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Lee Enterprises reports ongoing cyberattack causing disruptions for over three weeks.\n- Forensic analysis ongoing to determine if sensitive data was compromised in the ransomware attack.\n- Anticipated further outages affecting operations including distribution, billing, and payments.\n- Several newspapers, including Winston-Salem Journal and two Oregon-based papers, have experienced printing delays.\n- Lee Enterprises is one of the largest newspaper publishers in the U.S., servicing 72 publications.\n- Material impact on the company's financial results is considered likely.",
+      "keywords": [
+        "cyberattack",
+        "Lee Enterprises",
+        "newspaper outages",
+        "ransomware",
+        "data breach",
+        "digital disruption",
+        "security incident",
+        "media impact"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-18T12:40:00.000Z"
+    },
+    {
       "title": "Legal tech startup Luminance, backed by the late Mike Lynch, raises $75M",
       "link": "https://techcrunch.com/2025/02/18/legal-ai-startup-luminance-backed-by-the-late-mike-lynch-raises-75m/",
       "author": "Mike Butcher",
@@ -1156,28 +1180,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-02-14T17:59:07.000Z"
-    },
-    {
-      "title": "Mastodon is working to add the controversial ‘quote posts’ feature",
-      "link": "https://techcrunch.com/2025/02/14/mastodon-is-working-to-add-the-controversial-quote-posts-feature/",
-      "author": "Sarah Perez",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/mastodon-posts.png?w=680",
-      "summary": "- Mastodon introduces the controversial quote posts feature similar to Twitter's.\n- The feature has divided users due to its potential for online abuse and negativity.\n- Some users support quote posts for easier referencing and response.\n- Mastodon will allow users to control whether their posts can be quoted, and users will be notified if their posts are quoted.\n- The feature aims to address user safety and privacy concerns amid implementation challenges with ActivityPub protocol.\n- Development timelines remain unclear, with Mastodon stating it will take more time to develop the feature.",
-      "keywords": [
-        "Mastodon",
-        "quote posts",
-        "Twitter",
-        "online abuse",
-        "social media features",
-        "ActivityPub"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-14T17:42:24.000Z"
     }
   ]
 }
