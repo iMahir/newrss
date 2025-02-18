@@ -4,6 +4,53 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Safe Superintelligence, Ilya Sutskever’s AI startup, is reportedly close to raising roughly $1B",
+      "link": "https://techcrunch.com/2025/02/18/safe-superintelligence-ilya-sutskevers-ai-startup-is-reportedly-close-to-raising-roughly-1b/",
+      "author": "Not given",
+      "thumbnail": null,
+      "summary": "- Safe Superintelligence, founded by Ilya Sutskever, is nearing a $1 billion fundraising round at a $30 billion valuation.\n- VC firm Greenoaks Capital Partners is leading the deal with a pledge of half a billion dollars.\n- The startup has previously raised from Sequoia Capital, Andreessen Horowitz, and DST Global but is not generating revenue yet.",
+      "keywords": [
+        "AI",
+        "fundraising",
+        "Ilya Sutskever",
+        "Safe Superintelligence",
+        "venture capital"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-18T19:49:59.000Z"
+    },
+    {
+      "title": "Amazon, Microsoft, and Exxon want to make scandal-plagued carbon markets more trustworthy",
+      "link": "https://techcrunch.com/2025/02/18/amazon-microsoft-and-exxon-want-to-make-scandal-plagued-carbon-markets-more-trustworthy/",
+      "author": "Tim De Chant",
+      "thumbnail": null,
+      "summary": "- Amazon, Exxon, and Microsoft have created a task force to improve the integrity of voluntary carbon markets.\n- The Bipartisan Policy Center organized the task force, which aims to draft recommendations for transparent and fair carbon markets.\n- The task force includes 17 independent members and focuses on restoring credibility in light of scandals in the carbon market.\n- Reports exposed that many carbon credits sold by Verra were deemed effectively worthless, leading to significant concern over the legitimacy of carbon markets.\n- Microsoft’s carbon emissions rose by nearly 30% in 2023, while Amazon's progress towards emissions reduction has stalled despite investments in renewable energy.\n- Microsoft purchased over 7 million metric tons of carbon credits last month, as companies strive to meet net-zero targets.",
+      "keywords": [
+        "carbon markets",
+        "voluntary carbon credits",
+        "climate change",
+        "Amazon",
+        "Microsoft",
+        "Exxon",
+        "task force",
+        "Bipartisan Policy Center",
+        "Verra",
+        "emissions reduction"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-18T19:32:01.000Z"
+    },
+    {
       "title": "Thinking Machines Lab is ex-OpenAI CTO Mira Murati’s new startup",
       "link": "https://techcrunch.com/2025/02/18/thinking-machines-lab-is-ex-openai-cto-mira-muratis-new-startup/",
       "author": "Kyle Wiggers",
@@ -1127,57 +1174,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-15T17:00:00.000Z"
-    },
-    {
-      "title": "What is an encryption backdoor?",
-      "link": "https://techcrunch.com/2025/02/15/what-is-an-encryption-backdoor/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- The U.K. government is pushing Apple to create a backdoor for accessing encrypted iCloud data.\n- The Investigatory Powers Act (IPA) allows the U.K. to demand such access, raising concerns about the implications of weakened encryption.\n- Security experts warn that backdoors could be exploited by malicious actors, leading to identity theft and data breaches.\n- The concept of a 'NOBUS' backdoor suggests only authorized agents would have access, but this is heavily criticized as a flawed idea.\n- Backdoors have historical precedence, with past efforts such as the NSA's Clipper Chip facing backlash and failure due to privacy concerns.",
-      "keywords": [
-        "encryption",
-        "backdoor",
-        "Apple",
-        "iCloud",
-        "security",
-        "privacy",
-        "UK government",
-        "Investigatory Powers Act",
-        "zero knowledge encryption",
-        "data access"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-15T15:00:00.000Z"
-    },
-    {
-      "title": "These Google Photos alternatives offer tons of storage options at a reasonable price",
-      "link": "https://techcrunch.com/2025/02/15/these-google-photos-alternatives-offer-tons-of-storage-options-at-a-reasonable-price/",
-      "author": "Ivan Mehta",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Ente.jpeg?w=444",
-      "summary": "- Google Photos now offers only 15GB of free storage, down from unlimited free storage for images.\n- Alternatives to Google Photos include:\n  - **[Flickr](https://www.flickr.com/)**: 1,000 photos for free; paid plans start at $10.44/month for unlimited storage.\n  - **[Dropbox](https://www.dropbox.com/)**: 5GB free; paid plans start at $9.99/month for 2TB.\n  - **[Ente](https://ente.io/)**: 5GB free, focuses on privacy; paid plans start at $2.49/month for 50GB.\n  - **[Cryptee](https://crypt.ee/)**: 100MB free; paid plans start at $3.30/month for 10GB, includes document editor features.\n  - **[Amazon Photos](https://www.amazon.com/Amazon-Photos/b?ie=UTF8&amp;node=13234696011)**: 5GB free with Prime membership; paid plans start at $1.99/month for 100GB.\n  - **[500px](https://500px.com/)**: Allows 21 high-resolution photos per week for free; premium plans start under $50/year.\n  - **[Photobucket](https://photobucket.com/)**: No free storage; $5/month for 1TB.",
-      "keywords": [
-        "Google Photos",
-        "photo storage",
-        "Flickr",
-        "Dropbox",
-        "Ente",
-        "Cryptee",
-        "Amazon Photos",
-        "500px",
-        "Photobucket"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-15T14:00:00.000Z"
     }
   ]
 }
