@@ -4,6 +4,31 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Microsoft warns that the powerful XCSSET macOS malware is back with new tricks",
+      "link": "https://arstechnica.com/security/2025/02/microsoft-warns-that-the-powerful-xcsset-macos-malware-is-back-with-new-tricks/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Microsoft reports that XCSSET macOS malware has been upgraded with enhanced features.\n- New capabilities include targeting digital wallets, collecting data from the Notes app, and exfiltrating system information.\n- Microsoft Defender for Endpoint on Mac now detects this new variant, with future indicators of compromise to be provided.\n- Developers are advised to inspect all Xcode projects downloaded from repositories to avoid malware infections.",
+      "keywords": [
+        "XCSSET",
+        "macOS",
+        "malware",
+        "Microsoft",
+        "cybersecurity",
+        "data exfiltration",
+        "Xcode",
+        "developers",
+        "malicious software"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-18T21:04:55.000Z"
+    },
+    {
       "title": "What is device code phishing, and why are Russian spies so successful at it?",
       "link": "https://arstechnica.com/information-technology/2025/02/russian-spies-use-device-code-phishing-to-hijack-microsoft-accounts/",
       "author": null,
