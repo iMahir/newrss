@@ -4,6 +4,54 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Guidde taps AI to help create software training videos",
+      "link": "https://techcrunch.com/2025/02/19/guidde-taps-ai-to-help-create-software-training-videos/",
+      "author": "Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2023/10/maxresdefault-5.jpg?w=680",
+      "summary": "- Guidde is a startup founded by Yoav Einav and Dan Sahar in 2020 to simplify the creation of corporate training videos using AI.\n- The platform automatically captures user activity within applications and converts it into engaging video training clips, featuring AI-generated voiceovers and editing tools.\n- Guidde recently expanded its offerings with a personalized video recommendation feature called Guidde Broadcast, likened to 'Netflix for organizations.'\n- As of now, the platform serves over 100,000 users across 2,000 organizations, including notable companies like American Eagle Outfitters and Nasdaq.\n- The startup secured $15 million in funding led by Qualcomm Ventures, increasing its total funding to $30 million to enhance localization tools and market presence.",
+      "keywords": [
+        "Guidde",
+        "AI",
+        "training videos",
+        "software",
+        "funding",
+        "video recommendations",
+        "technology"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-19T12:00:42.000Z"
+    },
+    {
+      "title": "A former Etsy product manager built an AI-powered app for new parents",
+      "link": "https://techcrunch.com/2025/02/19/a-former-etsy-product-manager-built-a-app-to-create-better-family-management-for-parents/",
+      "author": "Ivan Mehta",
+      "thumbnail": null,
+      "summary": "- Amanda DeLuca launched the parenting management app [Riley](https://www.rileyapp.com/) to address parental anxiety based on personal experience.\n- The app tracks sleep, diaper changes, vaccines, and feeding, providing AI-powered insights for optimal baby care.\n- Riley is currently in public beta with a subscription model: $14.99/month, $11.99/month for a quarter, or $9.99/month for a year.\n- Future plans include expanded onboarding for personalized suggestions and additional training resources for parents.\n- Riley raised $3.1 million in a seed round led by True Ventures, aiming to provide science-backed parental guidance.",
+      "keywords": [
+        "parenting",
+        "AI app",
+        "Riley",
+        "Amanda DeLuca",
+        "parental anxiety",
+        "family management",
+        "technology",
+        "app launch",
+        "startup funding"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-19T12:00:00.000Z"
+    },
+    {
       "title": "X doubles its Premium+ plan prices after xAI releases Grok 3",
       "link": "https://techcrunch.com/2025/02/19/x-doubles-its-premium-plan-prices-after-xai-releases-grok-3/",
       "author": "Ivan Mehta",
@@ -1134,54 +1182,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-17T00:43:32.000Z"
-    },
-    {
-      "title": "These researchers used NPR Sunday Puzzle questions to benchmark AI ‘reasoning’ models",
-      "link": "https://techcrunch.com/2025/02/16/these-researchers-used-npr-sunday-puzzle-questions-to-benchmark-ai-reasoning-models/",
-      "author": "Kyle Wiggers",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Screenshot-2025-02-06-at-12.41.18AM.png?w=680",
-      "summary": "- Researchers from multiple institutions created an AI benchmark using riddles from NPR's Sunday Puzzle.\n- The study revealed that AI reasoning models, such as OpenAI's o1, sometimes provide incorrect answers when they 'give up.'\n- The current best-performing model on the benchmark scored 59%, with future plans to test additional reasoning models.",
-      "keywords": [
-        "AI",
-        "reasoning",
-        "NPR",
-        "Sunday Puzzle",
-        "benchmark",
-        "OpenAI",
-        "machine learning"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-16T22:25:00.000Z"
-    },
-    {
-      "title": "Researchers are training AI to interpret animal emotions",
-      "link": "https://techcrunch.com/2025/02/16/researchers-are-training-ai-to-interpret-animal-emotions/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2017/10/gettyimages-697069014.jpg?w=1024",
-      "summary": "- Researchers are developing AI systems to interpret animals' emotions, including pain.\n- The Intellipig system analyzes pigs' faces to notify farmers of distress signs.\n- AI has shown an 88% success rate in identifying pain indicators in horses after surgery using deep learning.\n- Human observations are crucial for training AI systems to understand animal behaviors.\n- The research is being conducted by teams from the University of the West of England Bristol, Scotland’s Rural College, and the University of Haifa.",
-      "keywords": [
-        "AI",
-        "animal emotions",
-        "pain detection",
-        "Intellipig",
-        "machine learning",
-        "facial recognition",
-        "University of Haifa",
-        "University of the West of England Bristol",
-        "animal welfare"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-16T20:01:55.000Z"
     }
   ]
 }
