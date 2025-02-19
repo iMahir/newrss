@@ -4,6 +4,78 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "NIH funding uncertainty spurs new biotech venture fund",
+      "link": "https://techcrunch.com/2025/02/19/nih-funding-uncertainty-spurs-new-biotech-venture-fund/",
+      "author": "Marina Temkin",
+      "thumbnail": null,
+      "summary": "- The Trump administration directed the NIH to limit specific types of funding for research institutions.\n- A federal judge temporarily blocked this policy change, but funding for early-stage biotech startups may still be delayed or eliminated.\n- In response to this uncertainty, a new pre-seed venture fund called Altitude Lab Pre-seed Venture Fund has been launched.\n- The fund aims to invest $100,000 to $250,000 in 10 to 15 biotech companies, especially those qualified for NIH's SBIR grants.\n- The fund will be managed by Altitude Lab, a non-profit life sciences accelerator established by Recursion.\n- Recursion's CEO, Chris Gibson, emphasizes the importance of SBIR funding for biotech startups and their chances of raising private money.\n- The fund will also provide office and lab space for a year to supported startups in Salt Lake City, aspiring to create a biotech ecosystem.",
+      "keywords": [
+        "NIH",
+        "biotech",
+        "venture fund",
+        "funding",
+        "Recursion",
+        "SBIR",
+        "startup",
+        "investment",
+        "life sciences"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-19T13:00:00.000Z"
+    },
+    {
+      "title": "Murena now sells a ‘deGoogled’ Pixel Tablet",
+      "link": "https://techcrunch.com/2025/02/19/murena-now-sells-a-degoogled-pixel-tablet/",
+      "author": "Natasha Lomas",
+      "thumbnail": null,
+      "summary": "- Murena offers a deGoogled version of the Pixel Tablet running the /e/OS open source operating system.\n- The tablet features a 10.95-inch LCD display, 128 GB storage, and 8 GB RAM, priced at €539 (or $549 in the U.S.).\n- Users can access an app marketplace called App Lounge for downloading apps anonymously, with some limitations for paid apps.\n- Murena also provides alternative privacy-focused apps, including freemium storage and office suite options.",
+      "keywords": [
+        "Murena",
+        "Pixel Tablet",
+        "deGoogled",
+        "privacy",
+        "e/OS",
+        "Android",
+        "tech news"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 7,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-19T12:53:30.000Z"
+    },
+    {
+      "title": "Palo Alto Networks warns of another firewall vulnerability under attack by hackers",
+      "link": "https://techcrunch.com/2025/02/19/palo-alto-networks-warns-of-another-firewall-vulnerability-under-attack-by-hackers/",
+      "author": "Carly Page",
+      "thumbnail": null,
+      "summary": "- Palo Alto Networks confirmed hackers are exploiting a vulnerability in PAN-OS to breach unpatched customer networks.\n- The vulnerability, tracked as CVE-2025-0108, was discovered by Assetnote and is currently under active attack.\n- Attackers are combining this vulnerability with previously disclosed flaws CVE-2024-9474 and CVE-2025-0111 to target unsecured web management interfaces.\n- GreyNoise has reported 25 IP addresses actively exploiting the vulnerability, indicating an uptick in activity since only 2 addresses were noted earlier in February.\n- The flaw allows unauthenticated attackers to execute PHP scripts, potentially leading to unauthorized access to systems.\n- The highest levels of attack traffic have been observed in the U.S., Germany, and the Netherlands.\n- The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the vulnerability to its Known Exploited Vulnerabilities catalog.",
+      "keywords": [
+        "Palo Alto Networks",
+        "firewall",
+        "vulnerability",
+        "CVE-2025-0108",
+        "cybersecurity",
+        "hackers",
+        "PAN-OS",
+        "CISA"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-19T12:35:46.000Z"
+    },
+    {
       "title": "Guidde taps AI to help create software training videos",
       "link": "https://techcrunch.com/2025/02/19/guidde-taps-ai-to-help-create-software-training-videos/",
       "author": "Kyle Wiggers",
@@ -1112,76 +1184,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-02-17T13:00:00.000Z"
-    },
-    {
-      "title": "Olyn secures Beatles biopic for its ‘Shopify for filmmakers’",
-      "link": "https://techcrunch.com/2025/02/17/olyn-secures-beatles-biopic-for-its-shopify-for-filmmakers/",
-      "author": "Ana Maria Jipa, Jeremias Buireo, Kiran Thomas, Malcolm Wood",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Olyn-Team.jpeg?w=680",
-      "summary": "• Olyn is a new platform for film distribution, dubbed 'Shopify for filmmakers'.\n• The platform allows filmmakers to keep up to 90% of their revenue and promotes a peer-to-peer distribution model.\n• It claims to help independent films gain visibility against larger studios by leveraging social media influencers for marketing.\n• Olyn provides filmmakers with tools like geo-targeting, analytics, and audience data, facilitating direct access to their viewers.\n• The first major release on Olyn is the Brian Epstein biopic, 'Midas Man', which debuted on the platform.\n• Filmmakers are responsible for their own marketing, challenging traditional streaming models that handle distribution.\n• The platform is also addressing piracy by providing instant access to films globally.\n• Olyn has raised $2.8 million in funding so far, indicating early-stage but significant ambition in the film industry.",
-      "keywords": [
-        "Olyn",
-        "filmmakers",
-        "film distribution",
-        "independent film",
-        "digital streaming",
-        "Midas Man",
-        "Brian Epstein",
-        "online platforms",
-        "social media marketing",
-        "viewership analytics"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 8,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-17T10:00:05.000Z"
-    },
-    {
-      "title": "South Korea blocks downloads of DeepSeek from local app stores",
-      "link": "https://techcrunch.com/2025/02/16/south-korea-blocks-downloads-of-deepseek-from-local-app-stores/",
-      "author": "Kate Park",
-      "thumbnail": null,
-      "summary": "- South Korea temporarily restricted downloads of DeepSeek's app pending assessment of user data handling.\n- The Personal Information Protection Commission (PIPC) stated the app will be available once it complies with local privacy laws.\n- Users are advised to avoid entering personal data until a final decision is made.\n- DeepSeek's data transfer of South Korean user data to ByteDance raised concerns.\n- South Korea's Ministry, police, and a state-run company had already blocked access on official devices due to security concerns.\n- Other countries, such as Australia and Italy, have also imposed restrictions on DeepSeek due to privacy and security issues.",
-      "keywords": [
-        "South Korea",
-        "DeepSeek",
-        "data privacy",
-        "AI",
-        "block downloads",
-        "user data",
-        "security concerns"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-17T07:34:19.000Z"
-    },
-    {
-      "title": "Can sim drivers make the shift to F1? Max Verstappen thinks so",
-      "link": "https://techcrunch.com/2025/02/16/can-sim-drivers-make-the-shift-to-f1-max-verstappen-thinks-so/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2188490815.jpg?w=1024",
-      "summary": "- Max Verstappen proposes a pathway for elite sim racers to transition to Formula One, leveraging their skills developed in virtual racing.\n- Sim racing has become a significant testing ground for driving talent, lacking the financial barriers common in traditional motorsport.\n- Verstappen believes proper training can help sim racers adapt to real-world driving, despite the challenges such as experiencing G-forces.",
-      "keywords": [
-        "Max Verstappen",
-        "sim racing",
-        "Formula One",
-        "motorsport",
-        "driving talent"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-17T00:43:32.000Z"
     }
   ]
 }
