@@ -4,6 +4,97 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Karman+ digs up $20M to build an asteroid-mining autonomous spacecraft",
+      "link": "https://techcrunch.com/2025/02/19/karman-digs-up-20m-to-build-an-asteroid-mining-autonomous-spacecraft/",
+      "author": "Not given",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/KFounders_-Daynan-Crull-Teun-van-den-Dries.jpg?w=680",
+      "summary": "- Karman+ raised $20 million for developing autonomous spacecraft for asteroid mining.\n- The startup aims to extract water and rare metals from asteroids and use it to refuel satellites.\n- Their first launch is planned for 2027, aiming to significantly reduce mission costs to under $10 million.\n- Founded by Teun van den Dries and Daynan Crull, they plan to build a space manufacturing ecosystem.",
+      "keywords": [
+        "astroid mining",
+        "Karman+",
+        "autonomous spacecraft",
+        "space exploration",
+        "venture funding"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 9,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-19T18:35:36.000Z"
+    },
+    {
+      "title": "This Week in AI: Maybe we should ignore AI benchmarks for now",
+      "link": "https://techcrunch.com/2025/02/19/this-week-in-ai-maybe-we-should-ignore-ai-benchmarks-for-now/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198379368.jpg?w=680",
+      "summary": "- Elon Musk's AI startup xAI launched the Grok 3 model, outperforming leading models in various benchmarks.\n- Criticism of AI benchmarks highlights their limited correlation to real-world task proficiency and the need for better testing methods.\n- Ongoing debate exists among AI experts regarding the effectiveness of public benchmarks and alternative evaluation criteria based on economic impact and utility.",
+      "keywords": [
+        "AI",
+        "benchmarks",
+        "Elon Musk",
+        "xAI",
+        "Grok 3",
+        "Ethan Mollick",
+        "AI testing",
+        "AI models"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-19T18:35:00.000Z"
+    },
+    {
+      "title": "Google’s ‘Career Dreamer’ uses AI to help you explore job possibilities",
+      "link": "https://techcrunch.com/2025/02/19/googles-career-dreamer-uses-ai-to-help-you-explore-job-possibilities/",
+      "author": "Aisha Malik",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/google-career-dreamer-tool.png?w=680",
+      "summary": "- Google launched a new AI experiment called [Career Dreamer](https://grow.google/career-dreamer/?utm_source=google&utm_medium=blog&utm_campaign=2025-career-dreamer__geo--Global&utm_content=grow-google-career-dreamer-blog) to help individuals explore career options.\n- Users can create a career identity statement by selecting their roles, skills, experiences, and education.\n- The tool provides visualization of career paths based on user background and interests.\n- Unlike job platforms like Indeed, it focuses on career exploration rather than job postings.\n- Currently available only in the United States; its future availability in other countries is uncertain.\n- Developed in consultation with organizations supporting diverse groups including students and veterans.",
+      "keywords": [
+        "Google",
+        "Career Dreamer",
+        "AI",
+        "job exploration",
+        "career identity",
+        "job seekers",
+        "skills",
+        "employment"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-19T18:31:30.000Z"
+    },
+    {
+      "title": "Google pulls Gemini from main search app on iOS",
+      "link": "https://techcrunch.com/2025/02/19/google-pulls-gemini-from-main-search-app-on-ios/",
+      "author": "Sarah Perez",
+      "thumbnail": null,
+      "summary": "- Google is discontinuing its AI assistant Gemini's availability in the main Google app for iOS.\n- Users are encouraged to download the dedicated Gemini app instead to access its features.\n- The change may limit Gemini's reach as the main app has millions of users who may be reluctant to download a new application.\n- An email notification sent to customers stated Gemini is no longer available in the Google app and prompted them to download it from the App Store.\n- The Gemini app offers functionalities like voice conversations, integration with Google apps, image creation, and more.\n- Users can upgrade to a paid subscription for features of Gemini Advanced through the iOS app.\n- Those trying to access Gemini in the main app will be directed to download the new app.\n- Google's strategy may result in reduced usage of Gemini as users may not transition smoothly to the new app.",
+      "keywords": [
+        "Google",
+        "Gemini",
+        "AI assistant",
+        "iOS app",
+        "ChatGPT",
+        "mobile app"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-19T18:30:18.000Z"
+    },
+    {
       "title": "ElectronX is building a stock market for electricity trading",
       "link": "https://techcrunch.com/2025/02/19/electronx-is-building-a-stock-market-for-electricity-trading/",
       "author": "Tim De Chant",
@@ -1907,102 +1998,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-18T14:00:06.000Z"
-    },
-    {
-      "title": "Lingo.dev is an app localization engine for developers",
-      "link": "https://techcrunch.com/2025/02/18/lingo-dev-is-an-app-localization-engine-for-developers/",
-      "author": "Max Prilutskiy, Veronica Prilutskaya",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/BrandVoice.png?w=680",
-      "summary": "- Lingo.dev is a new AI-powered app localization engine designed for developers, providing a simpler way to localize applications.\n- Recently raised $4.2 million in seed funding, backed by Initialized Capital and Y Combinator.\n- Founded by Max Prilutskiy and Veronica Prilutskaya, previously launched a SaaS startup sold last year.\n- Offers an API integration for translating app content with support for front-end localization and business content.\n- Utilizes multiple large language models (LLMs) to enhance translation accuracy and context awareness.\n- Plans to introduce features that analyze app UI screenshots to improve localization context.",
-      "keywords": [
-        "Lingo.dev",
-        "app localization",
-        "developers",
-        "AI-powered",
-        "funding",
-        "Max Prilutskiy",
-        "Veronica Prilutskaya",
-        "Y Combinator"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-18T13:32:00.000Z"
-    },
-    {
-      "title": "As US newspaper outages drag on, Lee Enterprises blames cyberattack for encrypting critical systems",
-      "link": "https://techcrunch.com/2025/02/18/as-us-newspaper-outages-drag-on-lee-enterprises-blames-cyberattack-for-encrypting-critical-systems/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Lee Enterprises reports ongoing cyberattack causing disruptions for over three weeks.\n- Forensic analysis ongoing to determine if sensitive data was compromised in the ransomware attack.\n- Anticipated further outages affecting operations including distribution, billing, and payments.\n- Several newspapers, including Winston-Salem Journal and two Oregon-based papers, have experienced printing delays.\n- Lee Enterprises is one of the largest newspaper publishers in the U.S., servicing 72 publications.\n- Material impact on the company's financial results is considered likely.",
-      "keywords": [
-        "cyberattack",
-        "Lee Enterprises",
-        "newspaper outages",
-        "ransomware",
-        "data breach",
-        "digital disruption",
-        "security incident",
-        "media impact"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-02-18T12:40:00.000Z"
-    },
-    {
-      "title": "Legal tech startup Luminance, backed by the late Mike Lynch, raises $75M",
-      "link": "https://techcrunch.com/2025/02/18/legal-ai-startup-luminance-backed-by-the-late-mike-lynch-raises-75m/",
-      "author": "Mike Butcher",
-      "thumbnail": null,
-      "summary": "- Luminance raised $75 million in a Series C funding round led by Point72 Private Investments.\n- It claims to offer highly accurate legal AI solutions and has raised over $165 million to date.\n- The startup features over 700 clients across 70 countries, including big names like AMD and Rolls-Royce.\n- Luminance uses a Legal Pre-trained Transformer, trained on over 150 million verified legal documents.\n- The funding round also included participation from Forestay Capital and existing investors.",
-      "keywords": [
-        "legal tech",
-        "Luminance",
-        "AI",
-        "funding",
-        "Mike Lynch",
-        "contract management",
-        "legal AI",
-        "investment"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-18T11:09:49.000Z"
-    },
-    {
-      "title": "Level Zero Health banks $6.9M to prove wearable medtech can take the strain out of hormone testing",
-      "link": "https://techcrunch.com/2025/02/18/level-zero-health-banks-6-9m-to-prove-wearable-medtech-can-take-the-strain-out-of-hormone-testing/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Level Zero Health raised $6.9 million in pre-seed funding to develop a continuous hormone monitoring device.\n- The startup aims to eliminate invasive blood draws and support research for hormone-related treatments.\n- The team plans to create a stepping stone single-use product for intermittent hormone testing next year.\n- The target market for their technology includes both women’s and men’s health issues.\n- Clinical trials for the first device are expected to conclude by next year, with hopes for FDA and CE marking approval.",
-      "keywords": [
-        "wearable technology",
-        "hormone monitoring",
-        "Level Zero Health",
-        "medtech",
-        "funding",
-        "healthcare innovation",
-        "biotechnology",
-        "health diagnostics"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-18T11:00:00.000Z"
     }
   ]
 }
