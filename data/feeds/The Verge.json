@@ -4,6 +4,53 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Rabbit shows off the AI agent it should have launched with",
+      "link": "https://www.theverge.com/news/615990/rabbit-ai-agent-demonstration-lam-android-r1",
+      "author": "Wes Davis",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196306/unnamed.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Rabbit showcases a new 'generalist Android agent' demonstrating control over apps on a tablet.\n- The demonstration differs from the original R1 device, which lacked capabilities.\n- Users type requests on a laptop, and the agent executes tasks like finding YouTube videos and downloading games.\n- The AI agent is still in development, showcasing a basic action loop for task completion.\n- More updates about Rabbit's cross-platform multi-agent system are promised in the near future.",
+      "keywords": [
+        "Rabbit",
+        "AI agent",
+        "Android",
+        "technology",
+        "applications",
+        "development",
+        "cross-platform",
+        "multi-agent"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-19T23:06:59.000Z"
+    },
+    {
+      "title": "Nvidia Launches ‘Priority Access’ for RTX 5080 and 5090 FE GPUs",
+      "link": "https://www.theverge.com/news/616138/nvidia-verified-priority-access-to-help-fans-buy-rtx-5080-and-5090",
+      "author": "Sean Hollister",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/257518_Nvidia_RTX_5090_TWarren_0.jpg?quality=90&strip=all&crop=0.33112582781457,0,99.337748344371,100&w=2400",
+      "summary": "- Nvidia is launching a ‘Verified Priority Access’ program to help fans buy RTX 5080 and 5090 Founders Edition GPUs amid supply shortages.\n- Interested users must apply through a form, demonstrating prior use of Nvidia services and existing accounts prior to January 30.\n- The invites for this program will start rolling out next week, but it’s unclear how many GPUs will be available to participants.",
+      "keywords": [
+        "Nvidia",
+        "RTX 5080",
+        "RTX 5090",
+        "graphics cards",
+        "priority access",
+        "gamers",
+        "GPU supply"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-19T22:52:54.000Z"
+    },
+    {
       "title": "Here are the best iPad deals right now",
       "link": "https://www.theverge.com/21280354/best-ipad-deals-apple",
       "author": "Quentyn Kennemer",
@@ -1135,53 +1182,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-02-18T22:56:33.000Z"
-    },
-    {
-      "title": "Humane’s AI Pin: All the Latest News on the Failing Wearable",
-      "link": "https://www.theverge.com/2023/11/9/23954497/humane-ai-pin-wearable-news-announcements",
-      "author": "Verge Staff",
-      "thumbnail": null,
-      "summary": "- Humane is recalling the AI Pin’s charging case due to overheating concerns.\n- Daily returns of the AI Pin are outpacing sales since its launch.\n- A review claims the AI Pin does not meet expectations.\n- Users should backup data before February 28, 2025, when AI Pin features will cease functioning.\n- Humane is selling its AI technology to HP for $116 million and will no longer sell the AI Pin.\n- The AI Pin was priced at $699 and faced criticism for its performance and usability.\n- Customers are encouraged to stop using the charging case due to fire risks associated with the battery.",
-      "keywords": [
-        "Humane",
-        "AI Pin",
-        "wearable technology",
-        "product recall",
-        "sales performance",
-        "HP acquisition",
-        "OpenAI integration"
-      ],
-      "scores": {
-        "scale": 4,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-02-18T22:41:09.000Z"
-    },
-    {
-      "title": "Humane is shutting down the AI Pin and selling its remnants to HP",
-      "link": "https://www.theverge.com/news/614883/humane-ai-hp-acquisition-pin-shutdown",
-      "author": "Jay Peters",
-      "thumbnail": null,
-      "summary": "- Humane is selling its AI capabilities to HP for $116 million and discontinuing the AI Pin.\n- AI Pins will function until 3PM ET on February 28, 2025, after which they will lose connectivity to Humane’s servers and many features.\n- Refunds for AI Pins are available within 90 days from shipment, and prorated refunds for subscriptions past the shutdown date will be processed.\n- HP will acquire Humane’s platform Cosmos, technical talent, and extensive intellectual property.\n- The AI Pin faced poor sales and negative reviews, leading Humane to seek acquisition shortly after its launch.",
-      "keywords": [
-        "Humane",
-        "AI Pin",
-        "HP",
-        "shutdown",
-        "acquisition",
-        "Cosmos",
-        "refunds",
-        "technology"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-18T22:29:23.000Z"
     }
   ]
 }

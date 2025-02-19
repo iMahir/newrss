@@ -4,6 +4,29 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Russia-aligned hackers are targeting Signal users with device-linking QR codes",
+      "link": "https://arstechnica.com/information-technology/2025/02/russia-aligned-hackers-are-targeting-signal-users-with-device-linking-qr-codes/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Signal's popularity as an encrypted messaging app is attracting manipulation by Russia-affiliated hackers.\n- Hackers attempt to trick users into linking devices via malicious QR codes, using tactics such as group invites and security alerts.\n- Apt44, a Russian state hacking group, is reportedly enabling linked accounts on devices captured on the battlefield for exploitation.",
+      "keywords": [
+        "Signal",
+        "Russia",
+        "hackers",
+        "QR codes",
+        "secure messaging",
+        "social engineering",
+        "Apt44"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-19T21:21:06.000Z"
+    },
+    {
       "title": "Microsoft warns that the powerful XCSSET macOS malware is back with new tricks",
       "link": "https://arstechnica.com/security/2025/02/microsoft-warns-that-the-powerful-xcsset-macos-malware-is-back-with-new-tricks/",
       "author": null,
