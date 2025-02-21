@@ -4,6 +4,51 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Nvidia CEO Jensen Huang says market got it wrong about DeepSeek’s impact",
+      "link": "https://techcrunch.com/2025/02/21/nvidia-ceo-jensen-huang-says-market-got-it-wrong-about-deepseeks-impact/",
+      "author": "Jensen Huang, Alex Bouzari",
+      "thumbnail": null,
+      "summary": "- Nvidia CEO Jensen Huang criticized market reactions to DeepSeek’s R1 open source reasoning model as misguided.\n- He claimed R1 will accelerate AI adoption rather than diminish the need for computing resources.\n- Nvidia’s stock dropped 16.9% after the R1 release but has almost fully recovered since then.\n- Huang noted that while DeepSeek advanced pre-training AI, post-training remains critical and resource-intensive.\n- Nvidia's Q4 earnings report on February 26 is anticipated to address the market’s response to DeepSeek.",
+      "keywords": [
+        "Nvidia",
+        "DeepSeek",
+        "AI",
+        "Jensen Huang",
+        "stock market",
+        "open source"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-21T20:36:00.000Z"
+    },
+    {
+      "title": "OpenAI Plans to Shift Compute Needs from Microsoft to SoftBank",
+      "link": "https://techcrunch.com/2025/02/21/report-openai-plans-to-shift-compute-needs-from-microsoft-to-softbank/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2194585161.jpg?w=1024",
+      "summary": "- OpenAI is looking to shift its main computing power source from Microsoft to SoftBank by 2030.\n- The company expects to source 75% of its data center capacity from the Stargate project, backed financially by SoftBank.\n- OpenAI's spending on Microsoft data centers will continue to increase in the short term, despite this shift.\n- OpenAI forecasts a dramatic increase in overall costs, with projected cash burns reaching $20 billion by 2027, compared to $5 billion in 2024.",
+      "keywords": [
+        "OpenAI",
+        "SoftBank",
+        "Microsoft",
+        "computing power",
+        "data centers",
+        "costs",
+        "AI models"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-21T20:22:40.000Z"
+    },
+    {
       "title": "Norway’s 1X is building a humanoid robot for the home",
       "link": "https://techcrunch.com/2025/02/21/norways-1x-is-building-a-humanoid-robot-for-the-home/",
       "author": "Brian Heater",
@@ -1133,52 +1178,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-20T16:00:00.000Z"
-    },
-    {
-      "title": "Twitch caps streamers’ storage at 100 hours of highlights and uploads",
-      "link": "https://techcrunch.com/2025/02/20/twitch-caps-streamers-storage-at-100-hours-of-highlights-and-uploads/",
-      "author": "Aisha Malik",
-      "thumbnail": null,
-      "summary": "- Twitch will limit streamers to 100 hours of highlights and uploads, with deletions for exceeding the limit starting April 19.\n- Highlights are being deemed ineffective in driving engagement, while features like Clips and Tags are more effective.\n- Twitch operates this limit for less than 0.5% of active channels, aiming to manage storage costs and improve resource allocation.\n- Streamers are encouraged to download their content before the deadline to avoid automatic deletions.",
-      "keywords": [
-        "Twitch",
-        "streamers",
-        "highlights",
-        "content storage",
-        "engagement",
-        "deletion",
-        "social media",
-        "Aisha Malik"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-02-20T15:08:58.000Z"
-    },
-    {
-      "title": "OpenAI now serves 400M users every week",
-      "link": "https://techcrunch.com/2025/02/20/openai-now-serves-400-million-users-every-week/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- OpenAI has reached 400 million weekly active users, up from 300 million in December 2024.\n- The company reports growth in enterprise plans, with 2 million paying users, doubling since September 2024.\n- Developer traffic for OpenAI's APIs has also doubled over the past six months.\n- This update comes shortly after China's DeepSeek released competitive AI technologies.",
-      "keywords": [
-        "OpenAI",
-        "ChatGPT",
-        "weekly users",
-        "enterprise plans",
-        "developer APIs",
-        "DeepSeek"
-      ],
-      "scores": {
-        "scale": 10,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-20T14:45:35.000Z"
     }
   ]
 }

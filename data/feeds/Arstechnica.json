@@ -4,6 +4,28 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "As the Kernel Turns: Rust in Linux saga reaches the “Linus in all-caps” phase",
+      "link": "https://arstechnica.com/gadgets/2025/02/linux-leaders-pave-a-path-for-rust-in-kernel-while-supporting-c-veterans/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Rust, a memory-safe programming language, is making its way into the Linux kernel amidst ongoing debates.\n- Linus Torvalds approved Rust code support in the kernel in October 2022, but progress has faced frustrations and stalls.\n- Hector Martin resigned from the Linux maintainers list, citing burnout and roadblocks in implementing Rust for efficient driver work.",
+      "keywords": [
+        "Rust",
+        "Linux kernel",
+        "Linus Torvalds",
+        "C programming",
+        "open source",
+        "software development"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-21T18:55:11.000Z"
+    },
+    {
       "title": "Notorious crooks broke into a company network in 48 minutes. Here’s how.",
       "link": "https://arstechnica.com/security/2025/02/notorious-crooks-broke-into-a-company-network-in-48-minutes-heres-how/",
       "author": "Dan Goodin",
