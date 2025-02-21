@@ -4,6 +4,30 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "OpenAI rolls out its AI agent, Operator, in several countries",
+      "link": "https://techcrunch.com/2025/02/21/openai-rolls-out-its-ai-agent-operator-in-several-countries/",
+      "author": "Ivan Mehta",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/Operator-Demo-Video.gif?w=680",
+      "summary": "- OpenAI announced the rollout of Operator, an AI agent for ChatGPT Pro subscribers in multiple countries including Australia, Brazil, Canada, India, Japan, Singapore, South Korea, and the U.K.\n- Operator is not available in the EU, Switzerland, Norway, Liechtenstein, and Iceland.\n- Launched in January 2025 in the U.S., Operator can perform tasks such as booking tickets and making reservations.\n- Access to Operator is limited to the $200/month ChatGPT Pro subscription and is operated through a dedicated webpage.\n- Competitors include Google, Anthropic, and Rabbit, each offering similar capabilities, but with different accessibility.",
+      "keywords": [
+        "OpenAI",
+        "AI agent",
+        "Operator",
+        "ChatGPT",
+        "technology",
+        "automation",
+        "subscription",
+        "global rollout"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-21T08:31:32.000Z"
+    },
+    {
       "title": "Rivian will launch hands-off highway driver assist ‘in a few weeks’",
       "link": "https://techcrunch.com/2025/02/20/rivian-will-launch-hands-off-highway-driver-assist-in-a-few-weeks/",
       "author": "Sean O’Kane",
@@ -1146,28 +1170,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-19T18:31:30.000Z"
-    },
-    {
-      "title": "Google pulls Gemini from main search app on iOS",
-      "link": "https://techcrunch.com/2025/02/19/google-pulls-gemini-from-main-search-app-on-ios/",
-      "author": "Sarah Perez",
-      "thumbnail": null,
-      "summary": "- Google is discontinuing its AI assistant Gemini's availability in the main Google app for iOS.\n- Users are encouraged to download the dedicated Gemini app instead to access its features.\n- The change may limit Gemini's reach as the main app has millions of users who may be reluctant to download a new application.\n- An email notification sent to customers stated Gemini is no longer available in the Google app and prompted them to download it from the App Store.\n- The Gemini app offers functionalities like voice conversations, integration with Google apps, image creation, and more.\n- Users can upgrade to a paid subscription for features of Gemini Advanced through the iOS app.\n- Those trying to access Gemini in the main app will be directed to download the new app.\n- Google's strategy may result in reduced usage of Gemini as users may not transition smoothly to the new app.",
-      "keywords": [
-        "Google",
-        "Gemini",
-        "AI assistant",
-        "iOS app",
-        "ChatGPT",
-        "mobile app"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-19T18:30:18.000Z"
     }
   ]
 }
