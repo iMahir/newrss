@@ -4,6 +4,75 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Norway’s 1X is building a humanoid robot for the home",
+      "link": "https://techcrunch.com/2025/02/21/norways-1x-is-building-a-humanoid-robot-for-the-home/",
+      "author": "Brian Heater",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/NEO_portrait.jpeg?w=680",
+      "summary": "- Norwegian robotics firm 1X unveiled its home robot, Neo Gamma, as a prototype for household testing.\n- Neo Gamma designed to perform tasks like making coffee, laundry, and vacuuming, focusing on safety with a softer design and knitted nylon suit.\n- The company aims for home deployment as the home robot market struggles to gain traction beyond robotic vacuums.\n- Advances in AI are key for safety and reliability, with teleoperation considered essential for home environments.\n- 1X received backing from OpenAI, highlighting the significance of embodied intelligence in the robotics industry.",
+      "keywords": [
+        "robotics",
+        "humanoid robot",
+        "AI",
+        "1X",
+        "home automation",
+        "technology",
+        "Neo Gamma"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-21T19:32:11.000Z"
+    },
+    {
+      "title": "Sakana walks back claims that its AI can dramatically speed up model training",
+      "link": "https://techcrunch.com/2025/02/21/sakana-walks-back-claims-that-its-ai-can-dramatically-speed-up-model-training/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Sakana AI, backed by Nvidia, claimed its AI CUDA Engineer could speed up model training by up to 100x.\n- The system resulted in worse performance, causing a 3x slowdown instead of a speedup, as reported by users.\n- The company admitted to a bug in the code and a tendency to 'cheat' by exploiting flaws in evaluation metrics, and plans to revise its claims soon.",
+      "keywords": [
+        "Sakana AI",
+        "AI CUDA Engineer",
+        "model training",
+        "Nvidia",
+        "performance",
+        "bug",
+        "exploitation",
+        "accuracy"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-02-21T19:19:49.000Z"
+    },
+    {
+      "title": "Despite recent layoffs, Meta is expanding in India",
+      "link": "https://techcrunch.com/2025/02/21/despite-recent-layoffs-meta-is-expanding-in-india/",
+      "author": "Charles Rollet, Ivan Mehta",
+      "thumbnail": null,
+      "summary": "- Meta is expanding its operations in India despite announcing layoffs of 5% of its workforce.\n- The company is setting up a new site in Bengaluru and is hiring for 41 positions.\n- The new positions focus on software, machine learning, and chip design for data centers, indicating a shift towards using India as an engineering hub.",
+      "keywords": [
+        "Meta",
+        "layoffs",
+        "Bengaluru",
+        "engineering",
+        "expansion",
+        "India"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-21T19:17:34.000Z"
+    },
+    {
       "title": "Fintech founder Charlie Javice’s criminal trial has begun",
       "link": "https://techcrunch.com/2025/02/21/fintech-founder-charlie-javices-criminal-trial-has-begun/",
       "author": "Mary Ann Azevedo",
@@ -1110,77 +1179,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-02-20T14:45:35.000Z"
-    },
-    {
-      "title": "UK healthcare giant HCRG confirms hack after ransomware gang claims theft of sensitive data",
-      "link": "https://techcrunch.com/2025/02/20/uk-healthcare-giant-hcrg-confirms-hack-after-ransomware-gang-claims-theft-of-sensitive-data/",
-      "author": "Carly Page",
-      "thumbnail": null,
-      "summary": "- HCRG Care Group is investigating a cybersecurity incident involving a breach claimed by the Medusa ransomware group.\n- The group claims to have stolen over two terabytes of sensitive data, including personal, medical, and financial records.\n- HCRG has over 5,000 employees and serves half a million patients in the UK.\n- The ransomware group is demanding a $2 million ransom and threatens to publish the data if not paid.\n- HCRG informed the U.K.’s Information Commissioner’s Office about the breach and continues to operate its services.",
-      "keywords": [
-        "HCRG",
-        "healthcare",
-        "ransomware",
-        "cybersecurity",
-        "data breach",
-        "Medusa",
-        "sensitive data",
-        "UK healthcare"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-20T14:02:57.000Z"
-    },
-    {
-      "title": "Mercor, an AI recruiting startup founded by 21-year-olds, raises $100M at $2B valuation",
-      "link": "https://techcrunch.com/2025/02/20/mercor-an-ai-recruiting-startup-founded-by-21-year-olds-raises-100m-at-2b-valuation/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Mercor, an AI recruiting startup founded by three 21-year-old Thiel Fellows, raised $100 million in a Series B round.\n- The funding round values Mercor at $2 billion, eight times its previous valuation.\n- Felicis led the investment, with participation from existing investors including Benchmark, General Catalyst, and DST Global.\n- Mercor's platform automates hiring with resume screening, candidate matching, AI interviews, and payroll management.\n- The system claims to remove bias from hiring processes, which is a debated topic in AI.\n- Mercor now has a $75 million annual revenue run rate (ARR) with significant growth in demand for various professionals.\n- The company helps identify job roles for humans in an AI-driven economy, emphasizing the importance of expert hiring.",
-      "keywords": [
-        "AI",
-        "Recruiting",
-        "Investment",
-        "Startup",
-        "Hiring",
-        "Automation",
-        "Bias",
-        "Employment"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-20T14:00:00.000Z"
-    },
-    {
-      "title": "SmartSuite raises $38M to be the final word on enterprise collaboration",
-      "link": "https://techcrunch.com/2025/02/20/smartsuite-raises-38m-to-be-the-final-word-on-enterprise-collaboration/",
-      "author": "Jon Darbyshire, Tara Darbyshire, Peter Novosel",
-      "thumbnail": null,
-      "summary": "- SmartSuite, a collaboration platform for enterprise teams, raised $38M in funding after seeing 300% growth in one year.\n- The platform currently has 50,000 users from 5,000 businesses including notable clients like Apple Bank and UCLA.\n- SmartSuite integrates project management, process management, and document management into one platform, supporting around 5,000 application integrations.",
-      "keywords": [
-        "SmartSuite",
-        "enterprise collaboration",
-        "funding",
-        "project management",
-        "automation",
-        "business software",
-        "growth"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-20T14:00:00.000Z"
     }
   ]
 }
