@@ -4,6 +4,29 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Leaked chat logs expose inner workings of secretive ransomware group",
+      "link": "https://arstechnica.com/security/2025/02/leaked-chat-logs-expose-inner-workings-of-secretive-ransomware-group/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Researchers analyzed leaked Russian-language chat logs revealing internal strife in the Black Basta ransomware group.\n- Tensions increased after the arrest of a leader, believed to be Oleg Nefedov, affecting group dynamics.\n- Internal disagreements over targeting a Russian bank put the group at risk of law enforcement scrutiny.\n- The leak includes data on administrators and over 350 unique links from ZoomInfo, used to target companies.\n- Security firm Hudson Rock utilized the transcripts to create a resource called BlackBastaGPT for analysis.",
+      "keywords": [
+        "ransomware",
+        "Black Basta",
+        "leaked chat logs",
+        "Oleg Nefedov",
+        "cybersecurity",
+        "ZoomInfo",
+        "law enforcement"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 8,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-21T21:47:32.000Z"
+    },
+    {
       "title": "As the Kernel Turns: Rust in Linux saga reaches the “Linus in all-caps” phase",
       "link": "https://arstechnica.com/gadgets/2025/02/linux-leaders-pave-a-path-for-rust-in-kernel-while-supporting-c-veterans/",
       "author": null,
