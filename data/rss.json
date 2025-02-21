@@ -1,5 +1,361 @@
 [
   {
+    "title": "Apple Discontinues iCloud Encryption Feature in the UK Following Government Demands",
+    "id": "01v9t3s1nwd3rk",
+    "summary": "- The DeepSeek iOS app sends sensitive data over unencrypted channels, making it vulnerable to exposure and tampering.\n- Sensitive data is sent to ByteDance-controlled servers, potentially allowing user tracking and identification.\n- DeepSeek uses a deprecated 3DES encryption scheme with hardcoded symmetric keys, raising significant security concerns.\n- A NowSecure audit recommends immediate removal of the app from environments due to security and privacy risks.\n- U.S. lawmakers are pushing to ban the app on government devices due to national security concerns.\n\n- Apple has announced the discontinuation of the Advanced Data Protection feature for UK users, which allowed end-to-end encryption of iCloud data.\n- The decision follows a demand from the UK government for a backdoor to access encrypted data stored on Apple's cloud servers.\n- Current UK users will need to eventually disable the encryption feature, while new users cannot opt in from 3 p.m. UK time on Friday.\n- Apple expresses disappointment, citing concerns over rising data breaches and the urgency of cloud security.\n- Despite this change, some data types, such as health data and messages, will remain end-to-end encrypted for all users globally.\n- Privacy experts warn that this precedent could impact user privacy rights in other countries.\n\n- Apple has halted its Advanced Data Protection (ADP) for new users in the UK, impacting existing users who will need to disable it soon.\n- The decision follows requests from UK security services for backdoor access to encrypted backups.\n- Apple expressed disappointment over the removal of ADP, emphasizing a commitment to user data security but faced governmental pressure as cited in the Investigatory Powers Act.\n- ADP provided end-to-end encryption, protecting users' iCloud data from unauthorized access, including by Apple and law enforcement.\n- Apple has not confirmed a timeline for when UK users must disable ADP, but new registrations for the feature are no longer accepted.\n- This government action highlights ongoing tension between law enforcement needs and user privacy rights in digital communication.",
+    "thumbnails": [
+      "https://cdn.arstechnica.net/wp-content/uploads/2025/01/This-Is-S-t-Ars-Mug-768x432.jpg",
+      "https://techcrunch.com/wp-content/uploads/2025/02/apple-advanced-data-protection-disabled-UK.png?w=545",
+      "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/IMG_9742-1.png?quality=90&strip=all&crop=0,0,100,100"
+    ],
+    "scores": {
+      "scale": 5,
+      "impact": 7.75,
+      "novelty": 6,
+      "longTermSignificance": 6.5
+    },
+    "keywords": [
+      "deepseek",
+      "ios app",
+      "encryption",
+      "bytedance",
+      "security",
+      "privacy",
+      "nowsecure",
+      "ats",
+      "apple",
+      "icloud",
+      "data protection",
+      "uk government",
+      "backdoor",
+      "apple",
+      "icloud",
+      "advanced data protection",
+      "uk",
+      "government demands",
+      "backdoor access",
+      "investigatory powers act"
+    ],
+    "sources": [
+      {
+        "title": "DeepSeek iOS app sends data unencrypted to ByteDance-controlled servers",
+        "link": "https://arstechnica.com/security/2025/02/deepseek-ios-app-sends-data-unencrypted-to-bytedance-controlled-servers/"
+      },
+      {
+        "title": "Apple pulls iCloud end-to-end encryption feature for UK users after government demanded backdoor",
+        "link": "https://techcrunch.com/2025/02/21/apple-pulls-icloud-end-to-end-encryption-feature-for-uk-users-after-government-demanded-backdoor/"
+      },
+      {
+        "title": "Apple removes encryption feature in the UK due to government demands",
+        "link": "https://www.theverge.com/news/617273/apple-removes-encryption-advanced-data-protection-adp-uk-spying-backdoor"
+      }
+    ],
+    "lastUpdated": "2025-02-21T16:14:35.432Z"
+  },
+  {
+    "title": "Report: AI coding assistants aren’t a panacea",
+    "id": "02nrhpu0bce6f2",
+    "summary": "- AI coding assistants like [GitHub Copilot](https://techcrunch.com/tag/github-copilot/) are becoming popular but may decrease code quality.\n- A report by [GitClear](https://leaddev.com/software-quality/how-ai-generated-code-accelerates-technical-debt) analyzed 211 million code lines between 2020 and 2024, noting a decline in code reuse.\n- Surveys indicate mixed results, where developers spend more time debugging AI-generated code and security vulnerabilities compared to human-written code. Reports from [Harness](https://leaddev.com/velocity/how-speed-code-reviews) and [Google](https://cloud.google.com/blog/products/devops-sre/announcing-the-2024-dora-report) highlight trade-offs between speed and stability in code reviews and documentation.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 5,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "AI coding assistants",
+      "code quality",
+      "GitHub Copilot",
+      "GitClear",
+      "software engineering",
+      "technical debt",
+      "code reuse",
+      "developer productivity"
+    ],
+    "sources": [
+      {
+        "title": "Report: AI coding assistants aren’t a panacea",
+        "link": "https://techcrunch.com/2025/02/21/report-ai-coding-assistants-arent-a-panacea/"
+      }
+    ],
+    "lastUpdated": "2025-02-21T16:14:35.432Z"
+  },
+  {
+    "title": "Apply to Speak at TechCrunch Sessions: AI before the deadline",
+    "id": "1lpe0ek0l65m0n",
+    "summary": "- AI innovators are invited to share insights at TechCrunch Sessions: AI on June 5 at UC Berkeley’s Zellerbach Hall.\n- Speakers can lead a 50-minute breakout session with a team of up to four presenters focusing on important AI topics.\n- The application deadline for submitting topics is March 7, 2025.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "TechCrunch",
+      "AI",
+      "speaking opportunity",
+      "conference",
+      "event"
+    ],
+    "sources": [
+      {
+        "title": "Apply to Speak at TechCrunch Sessions: AI before the deadline",
+        "link": "https://techcrunch.com/2025/02/21/apply-to-speak-at-techcrunch-sessions-ai-before-the-deadline/"
+      }
+    ],
+    "lastUpdated": "2025-02-21T16:14:35.431Z"
+  },
+  {
+    "title": "Every hour children spend on screens raises chance of myopia, study finds",
+    "id": "0kzszog01sqshj",
+    "summary": "- Researchers found each hour on screens increases the risk of myopia in children.\n- Involvement of 335,524 participants across 45 studies reveals a 21% higher risk of myopia with an extra hour of screen time.\n- Risks rise steeply with daily screen time; 54% higher odds for those already myopic with additional hour of screen use.\n- Study suggests a potential safety threshold for screen use below one hour daily.\n- Limitations include reliance on self-reports and the need for further evidence to understand causation.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "myopia",
+      "screen time",
+      "children",
+      "health",
+      "outdoor activity",
+      "study",
+      "research",
+      "visual health"
+    ],
+    "sources": [
+      {
+        "title": "Every hour children spend on screens raises chance of myopia, study finds",
+        "link": "https://www.theguardian.com/society/2025/feb/21/every-hour-children-spend-on-screens-raises-chance-of-myopia-study-finds"
+      }
+    ],
+    "lastUpdated": "2025-02-21T16:14:35.431Z"
+  },
+  {
+    "title": "The OnePlus Watch 3 has an unfixable but endearing typo",
+    "id": "1iwdjb71kfckp7",
+    "summary": "- The OnePlus Watch 3 has a typo on its backplate, reading \"Meda in China\" instead of the correct \"Made in China.\"\n- This typo is seen as minor compared to previous issues with OnePlus watches, particularly the disastrous original model.\n- The OnePlus Watch 3 is being viewed positively and considered a step up from the previous versions, especially with the addition of a proper rotating crown.\n- The typo may even become a collectible feature for early models of the device.",
+    "thumbnails": [
+      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195849/VICTORIA_SONG.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
+    ],
+    "scores": {
+      "scale": 5,
+      "impact": 6,
+      "novelty": 4,
+      "longTermSignificance": 3
+    },
+    "keywords": [
+      "OnePlus Watch 3",
+      "typo",
+      "smartwatch",
+      "wearables",
+      "Meda in China",
+      "product review",
+      "technology news"
+    ],
+    "sources": [
+      {
+        "title": "The OnePlus Watch 3 has an unfixable but endearing typo",
+        "link": "https://www.theverge.com/news/617219/oneplus-watch-3-typo-smartwatch"
+      }
+    ],
+    "lastUpdated": "2025-02-21T16:14:35.429Z"
+  },
+  {
+    "title": "DeepSeek to open-source parts of online services code",
+    "id": "0j7ktfj1c59xb4",
+    "summary": "- Chinese AI lab DeepSeek plans to open-source portions of its online services’ code as part of an ‘open source week’ event next week.\n- The company will open-source five code repositories that have been documented, deployed, and battle-tested in production.\n- DeepSeek aims to foster collective momentum in the open-source community by sharing its resources.\n- DeepSeek's actions have prompted responses from AI leaders like OpenAI, indicating concerns about competitive technology advancements.",
+    "thumbnails": [
+      "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2196333417_75e106.jpg?w=1024"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "DeepSeek",
+      "open source",
+      "AI",
+      "code repositories",
+      "community-driven innovation"
+    ],
+    "sources": [
+      {
+        "title": "DeepSeek to open-source parts of online services code",
+        "link": "https://techcrunch.com/2025/02/21/deepseek-to-open-source-parts-of-online-services-code/"
+      }
+    ],
+    "lastUpdated": "2025-02-21T16:14:35.428Z"
+  },
+  {
+    "title": "Risk of Asteroid Hitting Earth in 2032 Significantly Lowered",
+    "id": "02l9h391aloer9",
+    "summary": "- The European Space Agency reports the probability of asteroid 2024 YR4 hitting Earth has dropped to 0.16%.\n- Initial estimates had placed the impact risk at 3.1%, marking the highest recorded probability for an object of its size.\n- Observations will continue until April 2028, with further study planned using the James Webb Space Telescope.\n- The asteroid, first identified on December 27, 2024, is estimated to be 130 to 300 feet wide and would deliver an impact energy of 7.7 megatons.\n- Updated data indicates a 1% chance of impacting the moon instead.",
+    "thumbnails": [
+      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197412/headshot_andrewL_blackwhite.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
+    ],
+    "scores": {
+      "scale": 5,
+      "impact": 6,
+      "novelty": 4,
+      "longTermSignificance": 5
+    },
+    "keywords": [
+      "asteroid",
+      "2024 YR4",
+      "NASA",
+      "impact risk",
+      "European Space Agency",
+      "James Webb Space Telescope",
+      "near-Earth objects",
+      "collision course"
+    ],
+    "sources": [
+      {
+        "title": "Risk of Asteroid Hitting Earth in 2032 Significantly Lowered",
+        "link": "https://www.theverge.com/news/617177/nasa-asteroid-2024-yr4-european-space-agency-risk-collision-impact"
+      }
+    ],
+    "lastUpdated": "2025-02-21T16:14:35.426Z"
+  },
+  {
+    "title": "A huge trove of leaked Black Basta chat logs expose the ransomware gang’s key members and victims",
+    "id": "1i6ajyt1fx19wj",
+    "summary": "- A leak of over 200,000 chat messages from the Black Basta ransomware gang between September 18, 2023, and September 28, 2024, reveals key members and internal conflicts.\n- The cybersecurity firm Prodaft received the logs from a leaker known as 'ExploitWhispers', possibly indicating internal strife regarding ransom payments.\n- Key figures identified include 'YY', 'Lapa', 'Cortes', and 'Trump' (Oleg Nefedovaka), linked to past ransomware activities and breaches, including those targeting U.S. healthcare and UK utility sectors.\n- The logs detail various cyberattacks, targeting vulnerabilities in enterprise security devices and boast incidents related to critical infrastructure.\n- Black Basta officials expressed concern about being scrutinized by Russian authorities and the potential repercussions from U.S. government interventions.\n- During chat log discussions, hackers lamented that the group crossed boundaries by targeting Russian banks, indicating possible future disruptions to their operations.\n- Other significant insights include the use of phishing tactics, ransom negotiations, and previously unreported targets like healthtech provider Cerner and automotive giant Fisker.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 8,
+      "impact": 9,
+      "novelty": 7,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "Black Basta",
+      "ransomware",
+      "cybersecurity",
+      "chat logs",
+      "Prodaft",
+      "leak",
+      "cyberattacks",
+      "critical infrastructure",
+      "Russia"
+    ],
+    "sources": [
+      {
+        "title": "A huge trove of leaked Black Basta chat logs expose the ransomware gang’s key members and victims",
+        "link": "https://techcrunch.com/2025/02/21/a-huge-trove-of-leaked-black-basta-chat-logs-expose-the-ransomware-gangs-key-members-and-victims/"
+      }
+    ],
+    "lastUpdated": "2025-02-21T16:14:35.425Z"
+  },
+  {
+    "title": "Tesla Launches Virtual Queue to Address EV Charging Delays in the US",
+    "id": "060u9i11mbsftj",
+    "summary": "- Tesla is launching a [virtual queuing pilot](https://www.techinasia.com/news/tesla-launches-virtual-queue-ease-ev-charging-delays) for Superchargers in Q2 2025 to reduce wait times and charging conflicts.\n- The system will initially roll out at select locations, with a broader launch planned later based on user feedback.\n- This initiative follows reports of disputes at Supercharger stations due to limited ports frustrating EV drivers.\n- The EV charging landscape in North America resembles smartphone charging wars with a focus on infrastructure and costs.\n- Tesla is promoting its North American Charging Standard (NACS) while gradually standardizing it among major automakers like Ford, GM, and Toyota.\n- The federal government has allocated $7.5 billion for reliable EV infrastructure development.\n- Kia EVs will gain access to Tesla Supercharger stations in March 2025; there's been a delay in the rollout of NACS compatibility.\n- Mercedes-Benz EVs can use Tesla's Supercharger network starting February 2025 through NACS-to-CCS adapters.",
+    "thumbnails": [
+      "https://cdn.techinasia.com/wp-content/uploads/2025/01/1736573825_shutterstock_2171172727-scaled.jpg",
+      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195793/ANDREW_HAWKINS.0.jpg?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C100&amp;w=2400"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6.5,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "tesla",
+      "virtual queue",
+      "ev charging",
+      "superchargers",
+      "electric vehicles",
+      "nacs",
+      "ford",
+      "charging infrastructure",
+      "supercharger",
+      "kia",
+      "mercedes-benz",
+      "government funding"
+    ],
+    "sources": [
+      {
+        "title": "Tesla launches virtual queue to ease EV charging delays",
+        "link": "https://www.techinasia.com/news/tesla-launches-virtual-queue-ease-ev-charging-delays"
+      },
+      {
+        "title": "All the news about EV charging in the US",
+        "link": "https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure"
+      }
+    ],
+    "lastUpdated": "2025-02-21T16:14:35.424Z"
+  },
+  {
+    "title": "The GSA is shutting down its EV chargers, calling them ‘not mission critical’",
+    "id": "11eli380eyrb8m",
+    "summary": "- The GSA plans to shut down all electric vehicle chargers nationwide, stating they are 'not mission critical'.\n- Currently operates several hundred chargers with about 8,000 plugs for government and personally owned EVs.\n- Official guidance to begin shutting down chargers will be announced next week, with some offices already informed to take them offline.\n- GSA is also looking to offload newly purchased electric vehicles (EVs).\n- This move contradicts previous efforts under the Biden administration to promote EV usage and reduce the federal government's carbon footprint.\n- Under Biden, the GSA had ordered over 58,000 EVs and planned to install over 25,000 charging ports.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 6,
+      "impact": 8,
+      "novelty": 5,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "GSA",
+      "electric vehicle chargers",
+      "shutdown",
+      "not mission critical",
+      "Biden administration",
+      "environmental policy",
+      "EVs",
+      "federal government"
+    ],
+    "sources": [
+      {
+        "title": "The GSA is shutting down its EV chargers, calling them ‘not mission critical’",
+        "link": "https://www.theverge.com/news/617235/the-gsa-is-shutting-down-its-ev-chargers-calling-them-not-mission-critical"
+      }
+    ],
+    "lastUpdated": "2025-02-21T16:14:35.424Z"
+  },
+  {
+    "title": "UK Parents Sue TikTok Over Alleged Wrongful Deaths of Children",
+    "id": "14pb2u80x4ubbe",
+    "summary": "- Four British parents are suing TikTok for the alleged wrongful deaths of their children linked to the \"blackout challenge.\"\n- The lawsuit claims their children died in 2022 due to this viral trend that first circulated in 2021.\n- Parents express skepticism about TikTok's claim of deleting their children's data following their deaths, suggesting it was done too quickly.\n- TikTok's response implies legal requirements dictate data retention; however, parents are concerned about access to their children's data.\n- Under GDPR, parents of children under 13 should have rights to access their children’s accounts, but struggles continue.\n- The Online Safety Act, set to take effect this year, will require platforms to protect children from harmful content.",
+    "thumbnails": [
+      "https://i.guim.co.uk/img/media/e33a5ce710fb68f61e3de8cabfe6b6601e27e707/85_89_1138_786/master/1138.jpg?width=445&dpr=1&s=none&crop=none"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "TikTok",
+      "lawsuit",
+      "online safety",
+      "GDPR",
+      "social media",
+      "child safety",
+      "blackout challenge",
+      "data privacy"
+    ],
+    "sources": [
+      {
+        "title": "UK Parents Sue TikTok Over Alleged Wrongful Deaths of Children",
+        "link": "https://www.theguardian.com/technology/2025/feb/21/uk-parents-suing-tiktok-over-childrens-deaths-suspicious-about-data-claims"
+      }
+    ],
+    "lastUpdated": "2025-02-21T16:14:35.423Z"
+  },
+  {
     "title": "Three reasons every founder and VC should be at TechCrunch All Stage 2025 + Call for Speakers: TechCrunch All Stage 2025",
     "id": "0salj7n1lh4il1",
     "summary": "- TechCrunch All Stage 2025 event is on July 17 in Boston.\n- Open call for speakers to share insights on scaling startups.\n- Applications for speaking close on April 18, 2025.\n- Events include breakout sessions and roundtable discussions.\n- Participants will gain visibility and networking opportunities.\n\n- TechCrunch All Stage 2025 will take place on July 15 at SoWa Power Station in Boston.\n- The event expects 1,200 attendees including founders and venture capitalists to foster networking opportunities.\n- Key benefits include making important connections, gaining insights from discussions and sessions, and improving leadership skills through mentorship and advice.",
@@ -1207,34 +1563,6 @@
     "lastUpdated": "2025-02-21T06:15:51.446Z"
   },
   {
-    "title": "Tesla launches virtual queue to ease EV charging delays",
-    "id": "060u9i11mbsftj",
-    "summary": "- Tesla is launching a virtual queuing pilot for Superchargers in Q2 2025 to reduce wait times and charging conflicts.\n- The system will initially roll out at select locations, with a broader launch planned later based on user feedback.\n- This initiative follows reports of disputes at Supercharger stations due to limited ports frustrating EV drivers.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/01/1736573825_shutterstock_2171172727-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 7,
-      "novelty": 6,
-      "longTermSignificance": 8
-    },
-    "keywords": [
-      "Tesla",
-      "virtual queue",
-      "EV charging",
-      "Superchargers",
-      "electric vehicles"
-    ],
-    "sources": [
-      {
-        "title": "Tesla launches virtual queue to ease EV charging delays",
-        "link": "https://www.techinasia.com/news/tesla-launches-virtual-queue-ease-ev-charging-delays"
-      }
-    ],
-    "lastUpdated": "2025-02-21T05:12:18.719Z"
-  },
-  {
     "title": "Fintech firm Block’s stock falls as Q4 earnings miss",
     "id": "008jpej112b1iw",
     "summary": "- Block Inc. reported lower-than-expected Q4 earnings, causing a 6% drop in stock during after-hours trading.\n- Adjusted earnings per share were US$0.71, missing the projected US$0.87.\n- Revenue was US$6.03 billion, below the forecast of US$6.29 billion, but up 4.5% year-over-year.\n- Gross profit rose 14% to US$2.31 billion, with gross payment volume exceeding expectations at US$61.95 billion.\n- Block forecasts a 15% gross profit increase in 2025, projecting US$10.22 billion.",
@@ -2096,37 +2424,6 @@
       }
     ],
     "lastUpdated": "2025-02-21T02:14:02.169Z"
-  },
-  {
-    "title": "DeepSeek iOS app sends data unencrypted to ByteDance-controlled servers",
-    "id": "01v9t3s1nwd3rk",
-    "summary": "- The DeepSeek iOS app sends sensitive data over unencrypted channels, making it vulnerable to exposure and tampering.\n- Sensitive data is sent to ByteDance-controlled servers, potentially allowing user tracking and identification.\n- DeepSeek uses a deprecated 3DES encryption scheme with hardcoded symmetric keys, raising significant security concerns.\n- A NowSecure audit recommends immediate removal of the app from environments due to security and privacy risks.\n- U.S. lawmakers are pushing to ban the app on government devices due to national security concerns.",
-    "thumbnails": [
-      "https://cdn.arstechnica.net/wp-content/uploads/2025/01/This-Is-S-t-Ars-Mug-768x432.jpg"
-    ],
-    "scores": {
-      "scale": 5,
-      "impact": 7,
-      "novelty": 6,
-      "longTermSignificance": 5
-    },
-    "keywords": [
-      "DeepSeek",
-      "iOS app",
-      "encryption",
-      "ByteDance",
-      "security",
-      "privacy",
-      "NowSecure",
-      "ATS"
-    ],
-    "sources": [
-      {
-        "title": "DeepSeek iOS app sends data unencrypted to ByteDance-controlled servers",
-        "link": "https://arstechnica.com/security/2025/02/deepseek-ios-app-sends-data-unencrypted-to-bytedance-controlled-servers/"
-      }
-    ],
-    "lastUpdated": "2025-02-21T02:14:02.164Z"
   },
   {
     "title": "IQiyi launches $300m convertible bond",
@@ -35809,64 +36106,5 @@
       }
     ],
     "lastUpdated": "2025-02-07T17:10:36.444Z"
-  },
-  {
-    "title": "HPE begins notifying data breach victims after Russian government hack",
-    "id": "0awa4wa1udowpl",
-    "summary": "- Hewlett Packard Enterprise (HPE) has notified individuals affected by a data breach attributed to Russian hackers in 2023.\n- The breach involved personal information like Social Security numbers, driver’s license information, and credit card numbers.\n- The cyberattack began in May 2023 and affected HPE's email and SharePoint systems, hosted by Microsoft.\n- The hackers, known as Midnight Blizzard, are linked to Russia's foreign intelligence service, SVR.\n- Microsoft confirmed their network was also compromised, targeting corporate executives and cybersecurity staff.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 8
-    },
-    "keywords": [
-      "Hewlett Packard Enterprise",
-      "data breach",
-      "cyberattack",
-      "Russian hackers",
-      "Midnight Blizzard",
-      "SVR",
-      "Microsoft",
-      "personal information",
-      "email systems",
-      "SharePoint"
-    ],
-    "sources": [
-      {
-        "title": "HPE begins notifying data breach victims after Russian government hack",
-        "link": "https://techcrunch.com/2025/02/07/hpe-begins-notifying-data-breach-victims-after-russian-government-hack/"
-      }
-    ],
-    "lastUpdated": "2025-02-07T16:13:36.989Z"
-  },
-  {
-    "title": "PromptLayer is building tools to put non-techies in the driver’s seat of AI app development",
-    "id": "1i55tuj0o1fa9j",
-    "summary": "- PromptLayer is focused on building tools for non-technical users to enhance AI app development.\n- The company has raised $4.8 million in a seed round led by Ivan Bercovich, with participation from several investors.\n- Their platform features a 'prompt registry' for version control and testing of prompts, aimed at domain experts.\n- PromptLayer has over 10,000 customers, with 13x revenue growth this year, primarily driven by word-of-mouth.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 7,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "PromptLayer",
-      "AI development",
-      "prompt engineering",
-      "non-technical tools",
-      "seed funding",
-      "domain experts",
-      "revenue growth"
-    ],
-    "sources": [
-      {
-        "title": "PromptLayer is building tools to put non-techies in the driver’s seat of AI app development",
-        "link": "https://techcrunch.com/2025/02/07/promptlayer-is-building-tools-to-put-non-techies-in-the-drivers-seat-of-ai-app-development/"
-      }
-    ],
-    "lastUpdated": "2025-02-07T16:13:36.988Z"
   }
 ]
