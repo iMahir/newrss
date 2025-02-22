@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Nvidia confirms ‘rare’ RTX 5090 and 5070 Ti manufacturing issue",
+      "link": "https://www.theverge.com/news/617901/nvidia-confirms-rare-rtx-5090-and-5070-ti-manufacturing-issue",
+      "author": "Sean Hollister",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196092/sean-nerf-profile-pic..0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Nvidia has confirmed a manufacturing issue affecting less than 0.5% of RTX 5090, 5090D, and 5070 Ti GPUs, which are missing one render output unit (ROP).\n- The average performance impact is reported at 4%, with no effect on AI or compute tasks.\n- Affected consumers can obtain replacements from their board manufacturers; the production issue has been resolved.\n- Multiple manufacturers like Zotac, MSI, Gigabyte, Manli, and Nvidia Founders Edition are impacted, and users are advised to check their GPUs using GPU-Z.",
+      "keywords": [
+        "Nvidia",
+        "RTX 5090",
+        "5070 Ti",
+        "manufacturing issue",
+        "graphics card",
+        "GPU",
+        "ROP",
+        "performance impact"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-22T03:00:36.000Z"
+    },
+    {
       "title": "Reddit is experiencing outages again",
       "link": "https://www.theverge.com/news/617844/reddit-outage-down-agai",
       "author": "Jay Peters",
@@ -1166,30 +1190,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-20T19:07:25.000Z"
-    },
-    {
-      "title": "The evolution of Twitter to X under Elon Musk",
-      "link": "https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates",
-      "author": "Verge Staff",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25842255/2194418262.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-      "summary": "• X will charge new users in certain countries $1 per year.\n• Concerns raised about ad revenue sharing payments for users.\n• Elon Musk expresses desire for a second chance at leading X.\n• The 'X' sign atop the former Twitter HQ has been taken down.\n• Stakeholders discuss how X is impacting conversations and outcomes nationally.\n• A settlement of about $10 million has been reached with Trump regarding a lawsuit.\n• Trump's lawsuit against Twitter, relating to his account suspension, has been dismissed previously.",
-      "keywords": [
-        "Twitter",
-        "X",
-        "Elon Musk",
-        "Trump Lawsuit",
-        "Social Media",
-        "Revenue Sharing",
-        "Company Changes",
-        "Business Impact"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-02-20T19:05:39.000Z"
     }
   ]
 }
