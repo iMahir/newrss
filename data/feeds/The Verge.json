@@ -4,6 +4,27 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Reddit is experiencing outages again",
+      "link": "https://www.theverge.com/news/617844/reddit-outage-down-agai",
+      "author": "Jay Peters",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195819/JAY_PETERS.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Reddit is facing ongoing outages following issues from the previous day.\n- Users report that Reddit does not load on desktop browsers but works in incognito mode and on mobile devices when logged out.\n- As of 7:58 PM ET, Reddit's status page acknowledged elevated levels of errors and stated they are investigating the issues.\n- Downdetector recorded around 80,000 outage reports starting at approximately 7:30 PM ET.\n- The company has not yet commented on the situation, following reports of international outages yesterday.",
+      "keywords": [
+        "Reddit",
+        "outages",
+        "internet issues",
+        "Downdetector",
+        "status page"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 3
+      },
+      "pubDate": "2025-02-22T01:11:14.000Z"
+    },
+    {
       "title": "The Best Robot Vacuums",
       "link": "https://www.theverge.com/22997597/best-robot-vacuum-cleaner",
       "author": "Jennifer Pattison Tuohy",
@@ -1169,31 +1190,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-02-20T19:05:39.000Z"
-    },
-    {
-      "title": "Kia unveils PV5 electric van as a futuristic people-mover",
-      "link": "https://www.theverge.com/news/616711/kia-pv5-electric-van-exterior-pics",
-      "author": "Andrew J. Hawkins",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195793/ANDREW_HAWKINS.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Kia revealed the exterior design of the PV5 electric van, its first EV under the 'Platform Before Vehicle' (PBV) brand.\n- The PV5 aims to compete with the Volkswagen ID Buzz, Ford E-Transit, and others, and will offer various configurations for cargo delivery, rideshare, or personal use.\n- No details on the powertrain, range, price, or availability were provided, but the PV5 is designed for modularity, accommodating diverse vehicle types.\n- Uber has partnered with Kia to include the PV5 for drivers, supporting its commitment to an all-electric fleet by 2040.\n- More details about the PV5 and a new model will be revealed at Kia EV Day in Spain later this month.",
-      "keywords": [
-        "Kia",
-        "PV5",
-        "electric van",
-        "PBV",
-        "modular vehicle",
-        "Uber",
-        "EV",
-        "transportation",
-        "CES 2024"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-20T18:56:04.000Z"
     }
   ]
 }
