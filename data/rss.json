@@ -1,5 +1,61 @@
 [
   {
+    "title": "The iOS 18.4 beta brings Matter robot vacuum support",
+    "id": "0b9yuiv0a5uq9j",
+    "summary": "- Apple released the first developer beta of iOS 18.4, supporting robot vacuums in the Apple Home app through Matter.\n- Functionality confirmed using a Switchbot S10, which first added Matter support last year but required a hub.\n- New features include a Home widget showing controls for the robot vacuum, such as start/stop and cleaning modes, plus automation options for robot vacuums in scenes.\n- Previous expectations for Matter support in robot vacuums last year did not materialize, and few companies currently offer it.",
+    "thumbnails": [
+      "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/switchbot-s10-robot-vacuum-and-mop-refiling-itself-from-a-sink.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+    ],
+    "scores": {
+      "scale": 5,
+      "impact": 7,
+      "novelty": 6,
+      "longTermSignificance": 4
+    },
+    "keywords": [
+      "iOS 18.4",
+      "Matter",
+      "robot vacuum",
+      "Apple Home",
+      "Switchbot S10"
+    ],
+    "sources": [
+      {
+        "title": "The iOS 18.4 beta brings Matter robot vacuum support",
+        "link": "https://www.theverge.com/news/618024/ios-18-4-developer-beta-matter-robot-vacuum-support-apple-home"
+      }
+    ],
+    "lastUpdated": "2025-02-22T23:10:15.640Z"
+  },
+  {
+    "title": "Did xAI lie about Grok 3’s benchmarks?",
+    "id": "0mnq65i1mkz7du",
+    "summary": "- An OpenAI employee accused xAI of publishing misleading benchmark results for Grok 3.\n- xAI claims Grok 3 outperformed OpenAI’s o3-mini-high on AIME 2025, though some scores were omitted.\n- The metric 'cons@64' was not included in xAI’s graph, which could alter perceived performance.\n- AI researcher Nathan Lambert highlights the importance of considering computational and monetary costs behind score achievements.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "xAI",
+      "Grok 3",
+      "benchmarks",
+      "OpenAI",
+      "AI performance",
+      "AIME 2025",
+      "cons@64"
+    ],
+    "sources": [
+      {
+        "title": "Did xAI lie about Grok 3’s benchmarks?",
+        "link": "https://techcrunch.com/2025/02/22/did-xai-lie-about-grok-3s-benchmarks/"
+      }
+    ],
+    "lastUpdated": "2025-02-22T23:10:15.639Z"
+  },
+  {
     "title": "US AI Safety Institute Faces Significant Cuts Amid Federal Budget Constraints",
     "id": "07nwi090hq5fv3",
     "summary": "- The National Institute of Standards and Technology (NIST) plans to terminate around 500 probationary employees due to federal budget cuts.\n- Layoffs communicated verbally to staff on Feb. 19, according to anonymous sources.\n- Approximately 60% of employees on US$39 billion manufacturing incentive programs and two-thirds involved in US$11 billion research and development may be affected.\n- The AISI, established under President Biden's executive order on AI safety, faces uncertainty following the repeal of that order by President Trump on his return to office.",

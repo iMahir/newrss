@@ -4,6 +4,27 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "The iOS 18.4 beta brings Matter robot vacuum support",
+      "link": "https://www.theverge.com/news/618024/ios-18-4-developer-beta-matter-robot-vacuum-support-apple-home",
+      "author": "Wes Davis",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/switchbot-s10-robot-vacuum-and-mop-refiling-itself-from-a-sink.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "summary": "- Apple released the first developer beta of iOS 18.4, supporting robot vacuums in the Apple Home app through Matter.\n- Functionality confirmed using a Switchbot S10, which first added Matter support last year but required a hub.\n- New features include a Home widget showing controls for the robot vacuum, such as start/stop and cleaning modes, plus automation options for robot vacuums in scenes.\n- Previous expectations for Matter support in robot vacuums last year did not materialize, and few companies currently offer it.",
+      "keywords": [
+        "iOS 18.4",
+        "Matter",
+        "robot vacuum",
+        "Apple Home",
+        "Switchbot S10"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-02-22T22:55:44.000Z"
+    },
+    {
       "title": "The Long Wait for a Glimpse of Luigi",
       "link": "https://www.theverge.com/law/617946/luigi-mangione-unitedhealth-ceo-february-hearing-protest",
       "author": "Mia Sato",
@@ -1129,30 +1150,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-02-21T01:11:44.000Z"
-    },
-    {
-      "title": "Here are the best Apple Watch deals right now",
-      "link": "https://www.theverge.com/21289209/best-apple-watch-deals",
-      "author": "Brandon Widder",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25623065/247270_Apple_watch_series_10_AKrales_0370.jpg?quality=90&strip=all&crop=16.666666666667,0,66.666666666667,100&w=2400",
-      "summary": "- Apple launched its latest smartwatch, the [Apple Watch Series 10](https://www.theverge.com/21289209/best-apple-watch-deals), alongside a black version of the Ultra 2 in September.\n- The Series 10 features a larger OLED display, a thinner design, and a new S10 SiP chip compared to previous models.\n- Series 10 prices are starting at $329 for the 42mm version on Amazon and Walmart, with discounts of $70.\n- The [Apple Watch Series 9](https://www.theverge.com/21289209/best-apple-watch-deals) is available starting at $249, with $180 off, at Walmart.\n- The second-generation Apple Watch SE, which features the same chipset as the Series 8, starts at $199.\n- The rugged Apple Watch Ultra 2 starts at $749 with offers available through Amazon and Best Buy; it has a brighter display and improved performance compared to its predecessor.",
-      "keywords": [
-        "Apple Watch",
-        "deals",
-        "smartwatch",
-        "Apple Watch Series 10",
-        "Apple Watch Ultra 2",
-        "Apple Watch SE",
-        "discounts",
-        "wearables"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-20T23:54:35.000Z"
     }
   ]
 }

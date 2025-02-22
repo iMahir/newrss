@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Did xAI lie about Grok 3’s benchmarks?",
+      "link": "https://techcrunch.com/2025/02/22/did-xai-lie-about-grok-3s-benchmarks/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- An OpenAI employee accused xAI of publishing misleading benchmark results for Grok 3.\n- xAI claims Grok 3 outperformed OpenAI’s o3-mini-high on AIME 2025, though some scores were omitted.\n- The metric 'cons@64' was not included in xAI’s graph, which could alter perceived performance.\n- AI researcher Nathan Lambert highlights the importance of considering computational and monetary costs behind score achievements.",
+      "keywords": [
+        "xAI",
+        "Grok 3",
+        "benchmarks",
+        "OpenAI",
+        "AI performance",
+        "AIME 2025",
+        "cons@64"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-22T22:55:14.000Z"
+    },
+    {
       "title": "US AI Safety Institute could face big cuts",
       "link": "https://techcrunch.com/2025/02/22/us-ai-safety-institute-could-face-big-cuts/",
       "author": null,
@@ -1151,30 +1174,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-02-20T18:33:25.000Z"
-    },
-    {
-      "title": "In India, Apple’s iPhone 16e faces stiff competition from older models",
-      "link": "https://techcrunch.com/2025/02/20/in-india-apples-iphone-16e-faces-stiff-competition-from-older-models/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/iphone-16e-price-india-us.jpg",
-      "summary": "- Apple unveiled the iPhone 16e, aimed at emerging markets, including India, replacing the iPhone SE and iPhone 14.\n- India became Apple's fourth largest market in 2024, with record 12 million shipments and 35% YoY growth, expected to exceed 15 million this year.\n- Older models like the iPhone 13 and 15 dominate sales, despite Android's overall market share.\n- The iPhone 16e's price starts at 59,900 INR (~$689), with limited new features compared to older models, potentially discouraging buyers.\n- Analysts suggest Apple's iPhone 16e might attract users away from older models but note its launch timing is unfavorably outside upgrade seasons.",
-      "keywords": [
-        "iPhone 16e",
-        "Apple",
-        "India",
-        "smartphone market",
-        "iPhone competition",
-        "IDC",
-        "Android dominance",
-        "market analysis"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-02-20T18:20:17.000Z"
     }
   ]
 }
