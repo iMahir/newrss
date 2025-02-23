@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Our Favorite Apps for Listening to Music",
+      "link": "https://www.theverge.com/installer-newsletter/617653/best-music-apps-iphone-android-installer",
+      "author": "David Pierce",
+      "thumbnail": null,
+      "summary": "- Discussion on popular music streaming services: Spotify leads, followed by Apple Music.\n- Users express dissatisfaction with YouTube Music despite it being free.\n- Tidal garners positive feedback for audio quality and being music-focused.\n- For purchasing music, Bandcamp and Discogs are favored.\n- Recommendations for music management apps include Plexamp and Roon.\n- Many users are interested in rebuilding personal music collections.",
+      "keywords": [
+        "music apps",
+        "streaming services",
+        "music management",
+        "Tidal",
+        "Spotify",
+        "Apple Music",
+        "Bandcamp",
+        "Discogs"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-23T13:00:00.000Z"
+    },
+    {
       "title": "The iOS 18.4 beta brings Matter robot vacuum support",
       "link": "https://www.theverge.com/news/618024/ios-18-4-developer-beta-matter-robot-vacuum-support-apple-home",
       "author": "Wes Davis",
@@ -1129,27 +1153,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-21T04:16:06.000Z"
-    },
-    {
-      "title": "Reddit is reportedly experiencing some outages",
-      "link": "https://www.theverge.com/news/617081/reddit-outage-down",
-      "author": "Jay Peters",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195819/JAY_PETERS.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "• Reddit is facing \"international outages\" as reported by NetBlocks, a global internet monitor.\n• There have been over 47,000 outage reports on Downdetector as of the latest updates.\n• Users have reported issues on various platforms, but some, like the author, have not experienced problems.\n• Reddit's status page indicates that all systems are currently \"operational.\"",
-      "keywords": [
-        "Reddit",
-        "outages",
-        "Downdetector",
-        "NetBlocks",
-        "internet disruption"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-02-21T01:11:44.000Z"
     }
   ]
 }
