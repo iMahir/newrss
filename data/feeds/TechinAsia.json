@@ -4,6 +4,34 @@
   "feedUrl": "https://www.techinasia.com/feed",
   "items": [
     {
+      "title": "European tech sector surges in Q4, led by ASML, Nokia",
+      "link": "https://www.techinasia.com/news/european-tech-sector-surges-in-q4-led-by-asml-nokia",
+      "author": null,
+      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/01/1737971867_shutterstock_1270312660-scaled.jpg",
+      "summary": "- The European technology sector's earnings rose 5.5% in Q4, surpassing the 0.5% forecast.\n- ASML reported strong bookings that doubled analyst expectations, spurred by AI investments.\n- Nokia experienced improvements in its 5G units and anticipates increased data center demand.\n- STMicroelectronics and Infineon faced struggles due to weak automotive demand and limited AI engagement.\n- SAP reported a 29% increase in cloud backlog and raised its 2025 revenue forecast.\n- Analysts caution about risks including potential US tariffs and economic challenges in Europe and China.",
+      "keywords": [
+        "European tech sector",
+        "ASML",
+        "Nokia",
+        "Q4 growth",
+        "MSCI",
+        "chipmaking",
+        "AI investments",
+        "5G networks",
+        "STMicroelectronics",
+        "Infineon Technologies",
+        "SAP",
+        "economic challenges"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-23T04:40:29.000Z"
+    },
+    {
       "title": "BYD Korea has no plans to sell DeepSeek-integrated cars",
       "link": "https://www.techinasia.com/news/byd-korea-has-no-plans-to-sell-deepseek-integrated-cars",
       "author": null,
@@ -1122,29 +1150,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-02-21T05:50:57.000Z"
-    },
-    {
-      "title": "Alibaba Cloud unveils AI model for lifelike animations",
-      "link": "https://www.techinasia.com/news/alibaba-cloud-unveils-ai-model-for-lifelike-animations",
-      "author": null,
-      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/02/1740114339_shutterstock_2336319491-scaled.jpg",
-      "summary": "- Alibaba Cloud launched Animate Anyone 2, an AI model for character animations from static images and video references.\n- Developed by Tongyi Lab, it improves character-environment integration for realistic animations.\n- Trained on 100,000 character videos, the model is applicable for entertainment and advertising.\n- Experts express concerns about rendering detailed emotions and ethical issues related to deepfakes.\n- Despite concerns, professionals find the model useful for generating sample content.",
-      "keywords": [
-        "Alibaba",
-        "AI",
-        "animations",
-        "Animate Anyone 2",
-        "Tongyi Lab",
-        "deepfake",
-        "content generation"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-21T05:40:03.000Z"
     }
   ]
 }
