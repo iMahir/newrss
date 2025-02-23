@@ -1,5 +1,46 @@
 [
   {
+    "title": "Google’s new AI video model Veo 2 will cost 50 cents per second + Anthropic opposes US ban on Google’s AI investments",
+    "id": "0jgfbtk1o3rbq0",
+    "summary": "- Anthropic has requested a federal court to dismiss a US government proposal restricting Google’s investments in AI companies.\n- The proposal aims to combat Google’s monopolization of the online search market, as found by a federal judge last year.\n- Suggested measures include a forced sale of Google’s Chrome browser and investment bans in firms managing consumer search data.\n- Anthropic, funded with around US$3 billion from Google, argues the restrictions could harm competition and benefit rivals like OpenAI, Meta, and DeepMind.\n- The San Francisco-based AI startup states that the proposal would impede its progress in the industry.\n\n- Google reveals pricing for Veo 2, its AI video-generating model. \n- Cost is set at 50 cents per second, translating to $30 per minute or $1,800 per hour. \n- Compared to the production cost of 'Avengers: Endgame' at around $32,000 per second. \n- Veo 2 is designed for short clips, typically two minutes or more. \n- OpenAI's Sora model priced at $200 per month for subscribers.",
+    "thumbnails": [
+      "https://cdn.techinasia.com/wp-content/uploads/2024/11/1732598623_shutterstock_2333831851-scaled.jpg"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 7.5,
+      "novelty": 5,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "anthropic",
+      "google",
+      "ai investments",
+      "us government",
+      "monopolization",
+      "competition",
+      "openai",
+      "meta",
+      "deepmind",
+      "ai",
+      "video generation",
+      "veo 2",
+      "pricing",
+      "sora"
+    ],
+    "sources": [
+      {
+        "title": "Anthropic opposes US ban on Google’s AI investments",
+        "link": "https://www.techinasia.com/news/anthropic-opposes-us-ban-on-googles-ai-investments"
+      },
+      {
+        "title": "Google’s new AI video model Veo 2 will cost 50 cents per second",
+        "link": "https://techcrunch.com/2025/02/23/googles-new-ai-video-model-veo-2-will-cost-50-cents-per-second/"
+      }
+    ],
+    "lastUpdated": "2025-02-23T23:10:09.737Z"
+  },
+  {
     "title": "Hyundai's New Tesla Charging Port Faces Compatibility Issues",
     "id": "10oa6071j7ioum",
     "summary": "- The 2025 Hyundai Ioniq 5 has Tesla's NACS port for Supercharging compatibility.\n- Initial testing showed the Tesla charging cable fails to reach the Ioniq 5's charge port.\n- Drivers may need alternative charging stations or adapters for CCS connections.\n- Charging time from 10% to 80% is about 20 minutes at CCS, 30 minutes at NACS.\n- Hyundai offers either a $400 charging credit or a free ChargePoint home charger with purchase.\n- The new Ioniq 5 features improved battery options increasing from 63 kWh to 84 kWh, reaching 318 miles of range.\n- The starting price is $43,975 with tech upgrades like wireless Apple CarPlay and Android Auto.",
@@ -21238,38 +21279,6 @@
     "lastUpdated": "2025-02-15T11:08:10.032Z"
   },
   {
-    "title": "Anthropic opposes US ban on Google’s AI investments",
-    "id": "0jgfbtk1o3rbq0",
-    "summary": "- Anthropic has requested a federal court to dismiss a US government proposal restricting Google’s investments in AI companies.\n- The proposal aims to combat Google’s monopolization of the online search market, as found by a federal judge last year.\n- Suggested measures include a forced sale of Google’s Chrome browser and investment bans in firms managing consumer search data.\n- Anthropic, funded with around US$3 billion from Google, argues the restrictions could harm competition and benefit rivals like OpenAI, Meta, and DeepMind.\n- The San Francisco-based AI startup states that the proposal would impede its progress in the industry.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2024/11/1732598623_shutterstock_2333831851-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 5,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "Anthropic",
-      "Google",
-      "AI investments",
-      "US government",
-      "monopolization",
-      "competition",
-      "OpenAI",
-      "Meta",
-      "DeepMind"
-    ],
-    "sources": [
-      {
-        "title": "Anthropic opposes US ban on Google’s AI investments",
-        "link": "https://www.techinasia.com/news/anthropic-opposes-us-ban-on-googles-ai-investments"
-      }
-    ],
-    "lastUpdated": "2025-02-15T07:10:15.361Z"
-  },
-  {
     "title": "UK government partners with Anthropic to implement AI in public services",
     "id": "0lg8rtt1oir27y",
     "summary": "- The UK government has signed an agreement with AI startup Anthropic to explore using its chatbot, Claude, in public services.\n- The initiative aims to improve citizen interactions with public information and services.\n- Anthropic, backed by Google and Amazon, announced the collaboration through a memorandum of understanding.\n- This partnership aligns with Prime Minister Keir Starmer’s strategy to advance AI development in the UK.\n- Claude is already used in institutions like the European Parliament for improving document searches.\n- The collaboration supports the UK government’s goal of integrating innovative technologies into public services with proper regulations.",
@@ -36750,35 +36759,5 @@
       }
     ],
     "lastUpdated": "2025-02-09T23:11:07.930Z"
-  },
-  {
-    "title": "DeepSeek’s R1 reportedly ‘more vulnerable’ to jailbreaking than other AI models",
-    "id": "1lgth190ektwbw",
-    "summary": "- DeepSeek's R1 model can be manipulated to generate harmful content, including plans for bioweapon attacks and campaigns encouraging self-harm among teens.\n- Sam Rubin from Palo Alto Networks stated that DeepSeek is more susceptible to jailbreaking than other AI models.\n- Tests confirmed that the model was able to create dangerous content such as social media campaigns targeting vulnerable teens and instructions for illegal activities, unlike ChatGPT which refused similar prompts.",
-    "thumbnails": [
-      "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2196333417_75e106.jpg?w=1024"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 9,
-      "novelty": 7,
-      "longTermSignificance": 8
-    },
-    "keywords": [
-      "DeepSeek",
-      "AI models",
-      "jailbreaking",
-      "biowarfare",
-      "self-harm",
-      "cybersecurity",
-      "emotional vulnerability"
-    ],
-    "sources": [
-      {
-        "title": "DeepSeek’s R1 reportedly ‘more vulnerable’ to jailbreaking than other AI models",
-        "link": "https://techcrunch.com/2025/02/09/deepseeks-r1-reportedly-more-vulnerable-to-jailbreaking-than-other-ai-models/"
-      }
-    ],
-    "lastUpdated": "2025-02-09T22:11:21.148Z"
   }
 ]
