@@ -4,6 +4,118 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "SpaceX says Starship self-destructed after propellant leaks caused fires and comms blackout",
+      "link": "https://techcrunch.com/2025/02/24/spacex-says-starship-self-destructed-after-propellant-leaks-caused-fires-and-comms-blackout/",
+      "author": "Sean O’Kane",
+      "thumbnail": null,
+      "summary": "- SpaceX reported the Starship explosion was due to propellant leaks leading to fires and communication loss.\n- The company aims to conduct an eighth test flight soon, pending FAA investigation findings.\n- Problems initiated two minutes post-launch, causing engine failures and triggering a destruction sequence.\n- The explosion created a visual spectacle over Turks and Caicos and influenced FAA to divert flights.\n- SpaceX has made adjustments to the fuel lines and engine systems to prevent future leaks.",
+      "keywords": [
+        "SpaceX",
+        "Starship",
+        "explosion",
+        "propellant leaks",
+        "FAA",
+        "test flight"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-24T19:05:39.000Z"
+    },
+    {
+      "title": "SoundCloud partners with TicketMaster to let artists list events",
+      "link": "https://techcrunch.com/2025/02/24/soundcloud-partners-with-ticketmaster-to-let-artists-list-events/",
+      "author": "Ivan Mehta",
+      "thumbnail": null,
+      "summary": "- SoundCloud announced a partnership with Ticketmaster to let artists list events on their profiles.\n- Artists using SoundCloud's Pro plan can utilize Ticketmaster and Universe for event listings.\n- SoundCloud will promote events through a concert discovery widget on its homepage.\n- The platform takes a 1% cut from ticket sales made through Ticketmaster links.",
+      "keywords": [
+        "SoundCloud",
+        "Ticketmaster",
+        "event listing",
+        "music streaming",
+        "artist promotion"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-24T19:00:00.000Z"
+    },
+    {
+      "title": "Khosla Ventures seeks $3.5B in fresh capital",
+      "link": "https://techcrunch.com/2025/02/24/khosla-ventures-seeks-3-5b-in-fresh-capital/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2181599322.jpg?w=1024",
+      "summary": "- Khosla Ventures aims to raise $3.5 billion across three funds, 17% larger than their previous 2023 total of $3 billion.\n- Approximately half of the new funds will be allocated to its ninth core venture fund, with $1.1 billion for a growth fund and $650 million for a seed-stage fund.\n- Founded in 2004 by Vinod Khosla, the firm has notable managing directors including Keith Rabois, who has a history with investments in companies like DoorDash and Affirm.",
+      "keywords": [
+        "Khosla Ventures",
+        "venture capital",
+        "fundraising",
+        "Vinod Khosla",
+        "Seed funding",
+        "Growth funding",
+        "OpenAI"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-24T18:48:01.000Z"
+    },
+    {
+      "title": "Google Drive users can now access and search transcripts for videos",
+      "link": "https://techcrunch.com/2025/02/24/google-drive-users-can-now-access-and-search-transcripts-for-videos/",
+      "author": "Aisha Malik",
+      "thumbnail": null,
+      "summary": "- Google Drive has launched a new feature allowing users to view and search transcripts for their videos.\n- This feature eliminates the need for third-party transcription services, as transcripts will appear in a sidebar next to the video player.\n- Users can access transcripts by opening a video with captions and selecting the “Transcript” option in video settings.\n- The feature is rolling out over the coming weeks to all Google Workspace customers and users with personal Google accounts.",
+      "keywords": [
+        "Google Drive",
+        "video transcripts",
+        "searchable transcripts",
+        "automatic captions",
+        "Google Workspace",
+        "video player"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-24T18:30:49.000Z"
+    },
+    {
+      "title": "Anthropic launches a new AI model that ‘thinks’ as long as you want",
+      "link": "https://techcrunch.com/2025/02/24/anthropic-launches-a-new-ai-model-that-thinks-as-long-as-you-want/",
+      "author": "Maxwell Zeff",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Claude_extended_thkg_1.jpg?w=680",
+      "summary": "- Anthropic introduces Claude 3.7 Sonnet, the first ‘hybrid AI reasoning model’ that offers real-time and thorough answers.\n- The model allows users to choose the duration of reasoning time, enhancing user experience by simplifying options.\n- Claude 3.7 Sonnet will be available to all users on a premium plan, costing $3 per million input tokens and $15 per million output tokens.\n- In tests, Claude 3.7 Sonnet achieved accuracy rates of 62.3% on SWE-Bench and 81.2% on TAU-Bench, outperforming OpenAI models.\n- Claude’s new reasoning features are expected to reduce unnecessary rejections by 45% compared to its predecessor, Claude 3.5 Sonnet.\n- Alongside this model, Anthropic is also launching Claude Code, a tool for developers to interact with AI directly from their terminal.",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "Claude 3.7 Sonnet",
+        "hybrid model",
+        "AI reasoning",
+        "technology",
+        "machine learning",
+        "software development"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-24T18:30:00.000Z"
+    },
+    {
       "title": "Grok 3 appears to be driving Grok usage to new heights",
       "link": "https://techcrunch.com/2025/02/24/grok-3-appears-to-be-driving-grok-usage-to-new-heights/",
       "author": "Kyle Wiggers",
@@ -1047,126 +1159,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-21T18:05:00.000Z"
-    },
-    {
-      "title": "Bybit Reports $1.4 Billion Hack: Largest Crypto Theft in History",
-      "link": "https://techcrunch.com/2025/02/21/crypto-exchange-bybit-says-it-was-hacked-and-lost-around-1-4-billion/",
-      "author": "Lorenzo Franceschi-Bicchierai",
-      "thumbnail": null,
-      "summary": "- Bybit announced a hack resulting in the theft of approximately 401,346 ETH, valued at around $1.4 billion.\n- This incident marks the largest known theft of cryptocurrency to date, surpassing previous record breaches.\n- CEO Ben Zhou stated the hacker took control of a cold wallet and transferred the funds to a warm wallet.\n- Zhou claimed the company remains solvent and can cover the loss despite not being able to recover the stolen ETH.\n- Bybit's total assets were estimated at $16 billion as of last week, based in Dubai, UAE.",
-      "keywords": [
-        "Bybit",
-        "hack",
-        "cryptocurrency",
-        "theft",
-        "ethereum",
-        "crypto security",
-        "Ben Zhou",
-        "cold wallet",
-        "warm wallet",
-        "largest theft",
-        "financial news"
-      ],
-      "scores": {
-        "scale": 10,
-        "impact": 10,
-        "novelty": 9,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-21T18:00:33.000Z"
-    },
-    {
-      "title": "The real reason why oil and gas companies are bullish on carbon capture",
-      "link": "https://techcrunch.com/2025/02/21/the-real-reason-why-oil-and-gas-companies-are-bullish-on-carbon-capture/",
-      "author": "Tim De Chant",
-      "thumbnail": null,
-      "summary": "- Occidental bought carbon capture startup Carbon Engineering to use the technology for enhanced oil recovery.\n- CEO Vicki Hollub stated the need to inject CO<sub>2</sub> into wells to boost oil production.\n- The Inflation Reduction Act offers incentives for using captured CO<sub>2</sub> but it remains expensive at $600 to $1,000 per metric ton.\n- Companies like Occidental and ExxonMobil support potential survival of tax credits despite political changes.\n- Carbon capture has a complicated history with fossil fuels, and while it could be leveraged for increased production, challenges remain in CO<sub>2</sub> availability and profitability.",
-      "keywords": [
-        "carbon capture",
-        "Occidental",
-        "oil production",
-        "fossil fuels",
-        "Inflation Reduction Act",
-        "CO2 injection",
-        "enhanced oil recovery",
-        "climate technology"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-21T17:41:46.000Z"
-    },
-    {
-      "title": "How automotive exec Crystal Brown founded CircNova, an AI drug discovery biotech",
-      "link": "https://techcrunch.com/2025/02/21/how-automotive-exec-crystal-brown-founded-circnova-an-ai-drug-discovery-biotech/",
-      "author": "Not given",
-      "thumbnail": null,
-      "summary": "- CircNova, a Michigan biotech startup, raised $3.3 million in a seed round for AI-driven therapies targeting circular RNA.\n- Co-founder Crystal Brown transitioned from automotive manufacturing to biotech, leveraging her business experience to build the startup.\n- CircNova's AI engine, similar to Google’s AlphaFold, is designed to identify and produce circular RNA for therapeutic applications, aiming to treat diseases like ovarian cancer and neurodegenerative conditions.\n- The startup, founded in May 2023, has already made significant advancements, including the first patent application, with backing from various investors focused on diversity.",
-      "keywords": [
-        "CircNova",
-        "AI",
-        "drug discovery",
-        "biotech",
-        "circular RNA",
-        "Crystal Brown",
-        "venture capital",
-        "biotechnology"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-21T17:00:00.000Z"
-    },
-    {
-      "title": "Five of the most important fintech VCs investing heavily in the sector",
-      "link": "https://techcrunch.com/2025/02/21/the-most-important-fintech-vcs-investing-heavily-in-the-sector/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Global fintech investment increased to $25.9 billion in Q4 2024 from $18 billion in Q3 2024, according to KPMG.\n- **Infinity Ventures**: Founded by ex-PayPal Ventures alumni, closed a $184 million Fund II; notable investments include Rainforest and SimpleClosure.\n- **Better Tomorrow Ventures**: Founded in 2019, focuses on pre-seed and seed-stage fintech; notable investments include Unit and Basis.\n- **The Fintech Fund**: Founded by Nik Milanović in 2022; invests at pre-seed and seed stages, with recent investments in Rainforest and WiseLayer.\n- **TTV Capital**: Atlanta-based firm with over $750 million in assets, focuses on early-stage fintech; recent major investments include Charlie and Payabli.\n- **QED Investors**: Established over a decade ago with $4 billion under management; raised $925 million in two new funds, focusing on embedded finance and AI; significant investments include Credit Karma and Nubank.",
-      "keywords": [
-        "fintech",
-        "venture capital",
-        "investment",
-        "startups",
-        "financial technology"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-21T16:30:00.000Z"
-    },
-    {
-      "title": "Report: AI coding assistants aren’t a panacea",
-      "link": "https://techcrunch.com/2025/02/21/report-ai-coding-assistants-arent-a-panacea/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- AI coding assistants like [GitHub Copilot](https://techcrunch.com/tag/github-copilot/) are becoming popular but may decrease code quality.\n- A report by [GitClear](https://leaddev.com/software-quality/how-ai-generated-code-accelerates-technical-debt) analyzed 211 million code lines between 2020 and 2024, noting a decline in code reuse.\n- Surveys indicate mixed results, where developers spend more time debugging AI-generated code and security vulnerabilities compared to human-written code. Reports from [Harness](https://leaddev.com/velocity/how-speed-code-reviews) and [Google](https://cloud.google.com/blog/products/devops-sre/announcing-the-2024-dora-report) highlight trade-offs between speed and stability in code reviews and documentation.",
-      "keywords": [
-        "AI coding assistants",
-        "code quality",
-        "GitHub Copilot",
-        "GitClear",
-        "software engineering",
-        "technical debt",
-        "code reuse",
-        "developer productivity"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-21T16:11:09.000Z"
     }
   ]
 }
