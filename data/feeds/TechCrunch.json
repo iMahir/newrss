@@ -4,6 +4,31 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Meta AI arrives in the Middle East and Africa with support for Arabic",
+      "link": "https://techcrunch.com/2025/02/24/meta-ai-arrives-in-the-middle-east-and-africa-with-support-for-arabic/",
+      "author": "Paul Sawers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/MetaAI-e1740395678675.webp?w=680",
+      "summary": "- Meta AI has expanded to the Middle East and North Africa (MENA), now available in 10 countries including Algeria, Egypt, and Saudi Arabia.\n- The AI-enabled chatbot supports Arabic and can be accessed via Instagram, WhatsApp, and Messenger.\n- Meta plans to go multimodal in MENA, with new features like 'Imagine Me' for selfies and audio dubbing for Instagram Reels.\n- Meta AI is now active in 42 countries and supports 13 languages, with an estimated 700 million users across various platforms.",
+      "keywords": [
+        "Meta AI",
+        "Middle East",
+        "North Africa",
+        "Arabic support",
+        "chatbot",
+        "social media",
+        "Instagram",
+        "WhatsApp",
+        "Messenger"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-24T13:02:15.000Z"
+    },
+    {
       "title": "Apple commits $500B to US manufacturing, including a new AI server facility in Houston",
       "link": "https://techcrunch.com/2025/02/24/apple-commits-500b-to-us-manufacturing-including-a-new-ai-server-facility-in-houston/",
       "author": "Ingrid Lunden",
@@ -1156,30 +1181,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-20T21:17:16.000Z"
-    },
-    {
-      "title": "Your Android phone could have stalkerware. Here’s how to remove it",
-      "link": "https://techcrunch.com/2025/02/20/remove-android-spyware/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2022/02/stalkerware-google-play-protect-final.jpeg",
-      "summary": "- Consumer-grade spyware apps can monitor private messages, photos, calls, and location on Android devices.\n- This guide helps identify and remove stalkerware such as [TheTruthSpy](https://techcrunch.com/2022/10/26/inside-thetruthspy-stalkerware/), [Cocospy](https://techcrunch.com/2025/02/20/stalkerware-apps-cocospy-spyic-exposing-phone-data-of-millions-of-people/), and [Spyic](https://techcrunch.com/2025/02/20/stalkerware-apps-cocospy-spyic-exposing-phone-data-of-millions-of-people/).\n- Stalkerware is disguised as child monitoring or family-tracking software, often installed without consent.\n- Possible signs of infection include unusual phone behavior, excessive data use, and performance issues.\n- Key steps to mitigate stalkerware include enabling [Google Play Protect](https://techcrunch.com/2023/11/04/google-play-android-real-time-app-scanning-sideload-apps/), checking accessibility services, and reviewing notification access settings.",
-      "keywords": [
-        "stalkerware",
-        "spyware",
-        "Android",
-        "privacy",
-        "security",
-        "removal guide",
-        "Google Play Protect",
-        "accessibility features"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-20T20:30:00.000Z"
     }
   ]
 }

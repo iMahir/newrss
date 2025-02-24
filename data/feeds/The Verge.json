@@ -4,6 +4,28 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "What’s the deal with all these airplane crashes?",
+      "link": "https://www.theverge.com/planes/617438/plane-crash-air-safety-faa-layoffs",
+      "author": "Darryl Campbell",
+      "thumbnail": null,
+      "summary": "- Four commercial jet crashes occurred within ten weeks: 1) Azerbaijan Airlines Flight 8243 on Christmas Day, 2) Jeju Air Flight 7C2216 on December 29, 3) American Airlines Flight 5342 on January 29, and 4) Delta Connection Flight 4819 on February 17.\n- The NTSB reports 13 fatal airplane crashes in the U.S. since the start of the year, covering both private and commercial flights.\n- The FAA announced layoffs of around 400 employees, impacting critical roles such as mechanics and flight safety specialists.\n- Aviation safety has improved over the years, with only a small risk of accidents; statistically, chances of a fatal crash remain about 1 in 2 million.\n- Despite recent crashes, airline safety systems remain under strain due to staffing shortages and outdated infrastructure, particularly in air traffic control.",
+      "keywords": [
+        "airplane crashes",
+        "aviation safety",
+        "FAA",
+        "NTSB",
+        "commercial aviation",
+        "air travel statistics"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 6,
+        "novelty": 7,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-24T13:00:00.000Z"
+    },
+    {
       "title": "Apple responds to tariff threat with a $500 billion US investment",
       "link": "https://www.theverge.com/news/618172/apple-500-billion-us-investment-tariffs-trump",
       "author": "Dominic Preston",
@@ -1131,29 +1153,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-02-21T15:17:24.000Z"
-    },
-    {
-      "title": "Coinbase says the SEC has agreed to drop its crypto lawsuit",
-      "link": "https://www.theverge.com/news/617221/coinbase-sec-lawsuit-ending-agree-in-principle",
-      "author": "Richard Lawler",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/0007835275_20.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Coinbase announced that SEC staff have agreed to dismiss its enforcement case against the company, pending approval.\n- CEO Brian Armstrong stated it would be a full dismissal with no fines or business changes.\n- Coinbase has been a significant political donor, contributing over $75 million to pro-crypto PACs and making notable donations to political campaigns.\n- Armstrong expressed a desire to continue productive work with the SEC in the future as they await the appointment of a new SEC head.",
-      "keywords": [
-        "Coinbase",
-        "SEC",
-        "crypto lawsuit",
-        "Brian Armstrong",
-        "political donations",
-        "enforcement case",
-        "cryptocurrency regulations"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-21T15:08:28.000Z"
     }
   ]
 }
