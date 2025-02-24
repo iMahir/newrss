@@ -4,6 +4,28 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Grok blocked results saying Musk and Trump “spread misinformation”",
+      "link": "https://www.theverge.com/news/618109/grok-blocked-elon-musk-trump-misinformation",
+      "author": "Wes Davis",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25732434/DCD_Trump_Elon.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "summary": "- Grok, Elon Musk's ChatGPT competitor, was updated to block results mentioning misinformation related to Musk and Trump.\n- The change was made by an unspecified ex-OpenAI employee at xAI without proper approval.\n- xAI's head of engineering, Igor Babuschkin, stated that the system prompt is publicly visible for user transparency.\n- Grok's internal rules and the incident raised questions about the integrity and aims of the AI.\n- Musk describes Grok as a “maximally truth-seeking” AI, yet the system has been limited in its responses regarding certain individuals.\n- Grok's recent interactions indicate it has referred to Musk and Trump as harmful figures in America.",
+      "keywords": [
+        "Grok",
+        "Elon Musk",
+        "Donald Trump",
+        "misinformation",
+        "AI",
+        "xAI"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-23T23:33:35.000Z"
+    },
+    {
       "title": "The Space Force shares a photo of Earth taken by the X-37B space plane",
       "link": "https://www.theverge.com/space/618088/space-force-x-37b-earth-photo-experimental-maneuvers",
       "author": "Wes Davis",
@@ -1128,28 +1150,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-02-21T14:33:31.000Z"
-    },
-    {
-      "title": "The ups and downs of the iPhone 16E",
-      "link": "https://www.theverge.com/the-vergecast/617137/iphone-16e-humane-ai-pin-vergecast",
-      "author": "David Pierce",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195807/DAVID_PIERCE.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- The iPhone 16E offers a modern processor, good camera, and appealing design at a lower price point compared to typical new devices.\n- It lacks some features found in other iPhones, like MagSafe and multiple cameras, raising questions about its target market.\n- The Vergecast discusses Apple's pricing strategies, the significance of the new C1 modem, and other recent tech news, including the demise of the Humane AI Pin and updates on various gadgets.",
-      "keywords": [
-        "iPhone 16E",
-        "Apple",
-        "smartphone",
-        "technology",
-        "gadget news",
-        "Vergecast"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-02-21T13:33:01.000Z"
     }
   ]
 }
