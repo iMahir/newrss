@@ -4,6 +4,32 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Apple responds to tariff threat with a $500 billion US investment",
+      "link": "https://www.theverge.com/news/618172/apple-500-billion-us-investment-tariffs-trump",
+      "author": "Dominic Preston",
+      "thumbnail": null,
+      "summary": "* Apple plans to invest over $500 billion in the US over the next four years, creating 20,000 new jobs and opening a new server factory in Texas.\n* The announcement follows a meeting between Tim Cook and President Trump amid threats of tariffs on Chinese imports.\n* The new Houston factory, set to open next year, will produce servers for Apple’s AI features and generate thousands of jobs.\n* Apple is doubling its Advanced Manufacturing Fund from $5 billion to $10 billion to support US manufacturing.\n* The company will also establish an Apple Manufacturing Academy in Detroit to aid local businesses and provide training.\n* This investment follows a previous commitment of $430 billion over five years announced in 2021, which included a 3,000-employee campus in North Carolina, currently on pause.",
+      "keywords": [
+        "Apple",
+        "investment",
+        "US economy",
+        "tariffs",
+        "jobs",
+        "manufacturing",
+        "AI",
+        "Tim Cook",
+        "Trump administration",
+        "Texas"
+      ],
+      "scores": {
+        "scale": 9,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-24T12:11:01.000Z"
+    },
+    {
       "title": "Grok blocked results saying Musk and Trump “spread misinformation”",
       "link": "https://www.theverge.com/news/618109/grok-blocked-elon-musk-trump-misinformation",
       "author": "Wes Davis",
@@ -1128,28 +1154,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-21T15:08:28.000Z"
-    },
-    {
-      "title": "Android Auto bug is breaking wireless phone connectivity",
-      "link": "https://www.theverge.com/news/617207/android-auto-bug-wireless-phone-connectivity-reboot",
-      "author": "Jess Weatherbed",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195820/JESSICA_WEATHERBED.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Android Auto users report wireless connectivity issues following recent updates, with phones rebooting during connection attempts.\n- Google is aware of the issue and is investigating, but no estimated time for a fix has been provided.\n- Issues may be linked to the v13.4 and v13.5 updates rolled out in January and February.",
-      "keywords": [
-        "Android Auto",
-        "wireless connectivity",
-        "Google",
-        "bugs",
-        "updates",
-        "phone reboot"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 4,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-02-21T14:33:31.000Z"
     }
   ]
 }
