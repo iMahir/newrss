@@ -4,6 +4,79 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "SpaceX thinks it knows why Starship exploded on its last test flight",
+      "link": "https://www.theverge.com/news/618529/spacex-faa-nasa-starship-super-heavy-booster-explosion-upgrades",
+      "author": "Andrew Liszewski",
+      "thumbnail": null,
+      "summary": "- SpaceX identified the cause of the Starship explosion on January 16, 2025, as fires in the aft section leading to engine shutdowns and a loss of communication.\n- The Super Heavy booster successfully completed its mission and was caught mid-air by the launch tower.\n- Starship’s second stage encountered issues, resulting in sustained fires that led to the triggering of its self-destruct safety system three minutes after communication was lost.\n- An investigation involving multiple agencies is ongoing, and hardware changes have been made for future flights.\n- The next Starship test flight is tentatively scheduled for February 28, 2025, pending regulatory approval.",
+      "keywords": [
+        "SpaceX",
+        "Starship",
+        "explosion",
+        "Super Heavy",
+        "launch",
+        "investigation",
+        "FAA",
+        "NASA",
+        "test flight"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-24T21:48:20.000Z"
+    },
+    {
+      "title": "AT&T and Verizon connect first cellphone-to-satellite video calls",
+      "link": "https://www.theverge.com/news/618525/att-verizon-cellphone-satellite-video-calls-ast-mobile",
+      "author": "Jay Peters",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/ast-spacemobile-video-call-IN-STORY-1920x1080-1.jpg?quality=90&strip=all&crop=14.9515625%2C0%2C84.296875%2C100&w=2400",
+      "summary": "- Verizon and AT&T achieved milestones in cellphone-to-satellite video calls using AST SpaceMobile’s satellites.\n- Verizon completed its first video call between a mobile device connected to a satellite and another on its terrestrial network.\n- AT&T successfully conducted a video call over its spectrum to a standard smartphone.\n- Both companies utilized a constellation of five BlueBird satellites launched in September 2024 for their tests.\n- AT&T's initial test had occurred in June 2023.",
+      "keywords": [
+        "cellphone",
+        "satellite",
+        "video calls",
+        "AT&T",
+        "Verizon",
+        "AST SpaceMobile",
+        "communication",
+        "technology"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-24T21:17:12.000Z"
+    },
+    {
+      "title": "Tesla Cybertruck: all the news about Elon Musk’s futuristic pickup truck",
+      "link": "https://www.theverge.com/2019/11/21/20975980/tesla-cybertruck-announcement-news-pickup-truck-elon-musk-updates-highlights",
+      "author": "Verge Staff",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/0007835275_20.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "summary": "- Tesla Cybertruck deliveries began in November 2023, receiving a 5-star crash rating in various categories, including frontal and side crashes.\n- The Cybertruck is currently labeled as “America’s bestselling electric pickup truck in 2024,” yet Tesla is offering discounts of up to $2,600, hinting at lower demand than anticipated.\n- Tesla recalled around 2,431 Cybertrucks due to inverter issues that could cause a loss of propulsion.",
+      "keywords": [
+        "Tesla",
+        "Cybertruck",
+        "Elon Musk",
+        "electric vehicle",
+        "recall",
+        "5-star rating",
+        "demand",
+        "discounts"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-24T21:10:34.000Z"
+    },
+    {
       "title": "What to expect from Amazon’s big Alexa event this week",
       "link": "https://www.theverge.com/news/618385/what-to-expect-amazon-february-alexa-event",
       "author": "Jennifer Pattison Tuohy",
@@ -1069,80 +1142,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-21T20:33:39.000Z"
-    },
-    {
-      "title": "How the EU’s DMA is changing Big Tech: all of the news and updates",
-      "link": "https://www.theverge.com/24040543/eu-dma-digital-markets-act-big-tech-antitrust",
-      "author": "Verge Staff",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/0007835275_20.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-      "summary": "- The EU's Digital Markets Act (DMA) implements new rules affecting major tech companies like Apple and Google.\n- Apple plans to enable sideloading and alternative app stores for iPhone users.\n- Google is adjusting its services like Search and Chrome to comply with the DMA, affecting visibility and user experience in certain regions.\n- Both Apple and Google are facing scrutiny over practices deemed anti-competitive under the new regulations.\n- The DMA aims to foster competition and improve consumer options in the digital market.",
-      "keywords": [
-        "EU",
-        "Digital Markets Act",
-        "DMA",
-        "Apple",
-        "Google",
-        "Big Tech",
-        "sideloading",
-        "antitrust",
-        "competition",
-        "consumers"
-      ],
-      "scores": {
-        "scale": 9,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-21T20:33:39.000Z"
-    },
-    {
-      "title": "Federal workers launch a new site to share inside information about DOGE",
-      "link": "https://www.theverge.com/news/617014/federal-workers-we-the-builders-website-doge",
-      "author": "Lauren Feiner",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197292/2023-05-07_16.33.21_-_Lauren_Feiner_Headshot_-_8X10_-_001.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- A new website called [We the Builders](https://www.wethebuilders.org/) launched by federal workers to share anonymous stories about the Department of Government Efficiency (DOGE).\n- The site aims to inform the public about the effects of DOGE on federal agencies and citizens.\n- Current and former federal workers can share experiences without fear of retribution, with a focus on maintaining security and anonymity for contributors.",
-      "keywords": [
-        "DOGE",
-        "federal workers",
-        "We the Builders",
-        "government efficiency",
-        "anonymity",
-        "website launch"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-21T20:24:21.000Z"
-    },
-    {
-      "title": "Apple’s News app is getting a recipes section",
-      "link": "https://www.theverge.com/news/617456/apple-news-plus-food-recipies-ios-app",
-      "author": "Jay Peters",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195819/JAY_PETERS.0.jpg?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C100&amp;w=96",
-      "summary": "- Apple is introducing a recipes section in its News app for News Plus subscribers.  \n- The new Apple News Plus Food section will be part of iOS 18.4 and iPadOS 18.4, launching in April.  \n- It will include tens of thousands of recipes from top publishers like Allrecipes and Bon Appétit.  \n- Features include a well-designed recipe format and a new cook mode for full-screen instructions.  \n- Select stories and recipes will also be available for non-Plus subscribers.  \n- This addition intensifies competition with The New York Times' app.",
-      "keywords": [
-        "Apple",
-        "News app",
-        "recipes",
-        "News Plus",
-        "iOS 18.4",
-        "iPadOS 18.4",
-        "cooking",
-        "Allrecipes",
-        "Bon Appétit",
-        "Food & Wine"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-02-21T19:21:19.000Z"
     }
   ]
 }
