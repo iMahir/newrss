@@ -4,6 +4,30 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "The lesson of Larry Ellison’s misadventures in farming",
+      "link": "https://techcrunch.com/2025/02/23/the-lesson-of-larry-ellisons-misadventures-in-farming/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Screenshot-2025-02-23-at-8.58.05PM.png?w=1024",
+      "summary": "- Larry Ellison's venture into farming through Sensei Farms illustrates that expertise in one field does not guarantee success in another.\n- Ellison acquired Lāna‘i Island for $300 million in 2012 and invested over $500 million in the venture, which continues to struggle as of 2025.\n- Challenges include technical issues, unsuitable greenhouse designs, and operational mistakes, despite minor successes with local produce.",
+      "keywords": [
+        "Larry Ellison",
+        "farming",
+        "Sensei Farms",
+        "Hawaii",
+        "agriculture",
+        "technology",
+        "startup",
+        "innovation"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 7,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-02-24T05:17:30.000Z"
+    },
+    {
       "title": "Google’s new AI video model Veo 2 will cost 50 cents per second",
       "link": "https://techcrunch.com/2025/02/23/googles-new-ai-video-model-veo-2-will-cost-50-cents-per-second/",
       "author": null,
@@ -1153,30 +1177,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-02-20T20:07:07.000Z"
-    },
-    {
-      "title": "Stalkerware apps Cocospy and Spyic are exposing phone data of millions of people",
-      "link": "https://techcrunch.com/2025/02/20/stalkerware-apps-cocospy-spyic-exposing-phone-data-of-millions-of-people/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- A security vulnerability in Cocospy and Spyic, phone-monitoring apps, exposes personal data of millions.  \n- The vulnerability allows access to messages, photos, call logs, and email addresses of users.  \n- The researcher collected over 2.65 million unique email addresses from both apps, marking the data as sensitive in Have I Been Pwned.  \n- The apps, marketed for parental control and employee monitoring, are often used for spying without consent and are banned from app stores.  \n- Cocospy launched in 2018 and Spyic in 2019, with evidence linking their operations to a China-based developer.  \n- Users can check for the apps on their devices using specific codes and should enable security settings to protect against such vulnerabilities.",
-      "keywords": [
-        "Stalkerware",
-        "Cocospy",
-        "Spyic",
-        "Security Vulnerability",
-        "Data Exposure",
-        "Spyware",
-        "Email Leak",
-        "Privacy"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-20T20:05:00.000Z"
     }
   ]
 }
