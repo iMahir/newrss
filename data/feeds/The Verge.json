@@ -4,6 +4,27 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Apple designer Susan Kare made 32 new, Mac-inspired physical icons",
+      "link": "https://www.theverge.com/news/618235/apple-designer-susan-kare-32-new-icons-keycaps",
+      "author": "Jess Weatherbed",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195820/JESSICA_WEATHERBED.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Susan Kare released 32 new icons as part of the \"Esc Keys\" collection in collaboration with Asprey Studio.\n- The collection includes mechanical keyboard keycaps and wearable pendants featuring 8-bit pixel art illustrations.\n- Prices range from $650 for silver keys to $2,064 for gold vermeil pendants, each accompanied by blockchain-inscribed digital artwork.",
+      "keywords": [
+        "Susan Kare",
+        "Apple",
+        "Icons",
+        "Mechanical Keyboard",
+        "Pixel Art"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-24T15:25:00.000Z"
+    },
+    {
       "title": "Five ways to send a message to your representatives",
       "link": "https://www.theverge.com/how-to/606200/government-senate-congress-contact-apps",
       "author": "Barbara Krasnoff",
@@ -1126,32 +1147,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-02-21T17:01:00.000Z"
-    },
-    {
-      "title": "Apple removes encryption feature in the UK due to government demands",
-      "link": "https://www.theverge.com/news/617273/apple-removes-encryption-advanced-data-protection-adp-uk-spying-backdoor",
-      "author": "Dominic Preston",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/IMG_9742-1.png?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "- Apple has halted its Advanced Data Protection (ADP) for new users in the UK, impacting existing users who will need to disable it soon.\n- The decision follows requests from UK security services for backdoor access to encrypted backups.\n- Apple expressed disappointment over the removal of ADP, emphasizing a commitment to user data security but faced governmental pressure as cited in the Investigatory Powers Act.\n- ADP provided end-to-end encryption, protecting users' iCloud data from unauthorized access, including by Apple and law enforcement.\n- Apple has not confirmed a timeline for when UK users must disable ADP, but new registrations for the feature are no longer accepted.\n- This government action highlights ongoing tension between law enforcement needs and user privacy rights in digital communication.",
-      "keywords": [
-        "Apple",
-        "encryption",
-        "iCloud",
-        "Advanced Data Protection",
-        "UK",
-        "government demands",
-        "privacy",
-        "security",
-        "backdoor access",
-        "Investigatory Powers Act"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-21T16:09:05.000Z"
     }
   ]
 }
