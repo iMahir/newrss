@@ -4,6 +4,52 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "A comprehensive list of 2024 and 2025 tech layoffs",
+      "link": "https://techcrunch.com/2025/02/24/tech-layoffs-2024-list/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- In 2024, over 150,000 jobs were cut across 542 tech companies, according to <a href=\"https://layoffs.fyi/\" target=\"_blank\">Layoffs.fyi</a>.\n- Major companies laying off employees include <a href=\"https://techcrunch.com/2024/04/15/tesla-layoffs-workers-sales-cybertruck-cuts/\">Tesla</a>, <a href=\"https://techcrunch.com/2024/01/10/amazon-prime-video-and-mgm-studios-laid-off-hundreds-of-employees/\">Amazon</a>, <a href=\"https://techcrunch.com/2024/01/10/google-cuts-hundreds-of-jobs-in-its-voice-assistance-hardware-teams-as-fitbit-founders-leave/\">Google</a>, and <a href=\"https://techcrunch.com/2025/02/24/tech-layoffs-2024-list/\">Microsoft</a>.\n- The layoffs continue into 2025, with tracking to analyze the impact of these job cuts on innovation and employment stability.\n- Specific January 2025 layoffs include 6,003 employees, while December 2024 saw 2,268 laid off, and significant cuts occurred throughout each month of 2024.",
+      "keywords": [
+        "tech layoffs",
+        "job cuts",
+        "2024",
+        "2025",
+        "employment",
+        "innovation",
+        "workforce reductions"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 4,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-24T20:00:00.000Z"
+    },
+    {
+      "title": "Anthropic used Pokémon to benchmark its newest AI model",
+      "link": "https://techcrunch.com/2025/02/24/anthropic-used-pokemon-to-benchmark-its-newest-ai-model/",
+      "author": "Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/9a30c8288e402eee24d4ef60272cb6365a36207a-1920x1269-1.webp?w=680",
+      "summary": "- Anthropic tested its latest AI model, Claude 3.7 Sonnet, using Pokémon Red as a benchmark.\n- The model was equipped with memory and function calls to play the game continuously.\n- Claude 3.7 successfully battled three Pokémon gym leaders, improving upon the previous Claude 3.0 version.\n- The model performed 35,000 actions to reach the last gym leader, Surge.\n- The testing method highlights gaming's role in AI benchmarking, similar to previous uses in titles like Street Fighter and Pictionary.",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "Claude 3.7 Sonnet",
+        "Pokémon",
+        "benchmarking",
+        "gaming",
+        "artificial intelligence"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-24T19:10:54.000Z"
+    },
+    {
       "title": "SpaceX says Starship self-destructed after propellant leaks caused fires and comms blackout",
       "link": "https://techcrunch.com/2025/02/24/spacex-says-starship-self-destructed-after-propellant-leaks-caused-fires-and-comms-blackout/",
       "author": "Sean O’Kane",
@@ -1112,53 +1158,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-21T18:30:00.000Z"
-    },
-    {
-      "title": "The Vision Pro is getting Apple Intelligence in April",
-      "link": "https://techcrunch.com/2025/02/21/the-vision-pro-is-getting-apple-intelligence-in-april/",
-      "author": "Brian Heater",
-      "thumbnail": null,
-      "summary": "- Apple confirms generative AI platform 'Apple Intelligence' will be integrated into Vision Pro with the upcoming VisionOS 2.4 update in April.\n- New features include Rewrite, Proofread, and Summarize aimed at enhancing on-device workflow.\n- Voice dictation and AI writing tools are expected to improve user experience with the headset.\n- VisionOS 2.4 will also include 'Image Playground' for image generation through verbal prompts.\n- An accompanying Vision Pro iPhone app is launching with iOS 18.4 to manage content and guest accounts.",
-      "keywords": [
-        "Apple Intelligence",
-        "Vision Pro",
-        "VisionOS 2.4",
-        "augmented reality",
-        "generative AI",
-        "image generation",
-        "voice dictation",
-        "iOS 18.4"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-21T18:07:17.000Z"
-    },
-    {
-      "title": "Augury and Hightouch joined the unicorn club",
-      "link": "https://techcrunch.com/2025/02/21/augury-and-hightouch-joined-the-unicorn-club/",
-      "author": "Anna Heim",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Untitled-design-3.jpg?w=680",
-      "summary": "- **Hightouch** closed an **$80 million Series C round**, achieving a **$1.2 billion valuation** for its AI-driven marketing tools.\n- **Augury** raised **$75 million** in equity funding, positioning itself as a unicorn with a **valuation of over $1 billion** for its AI-based hardware that detects factory machine malfunctions.\n- These investments indicate continued interest in unicorn startups, contrasting previous perceptions about a downturn in the startup ecosystem.",
-      "keywords": [
-        "Augury",
-        "Hightouch",
-        "unicorn club",
-        "Series C",
-        "funding",
-        "AI",
-        "technology startups"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-21T18:05:00.000Z"
     }
   ]
 }
