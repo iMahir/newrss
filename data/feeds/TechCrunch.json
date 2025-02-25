@@ -4,6 +4,76 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "UK’s internet watchdog toughens approach to deepfake porn",
+      "link": "https://techcrunch.com/2025/02/24/uks-internet-watchdog-toughens-approach-to-deepfake-porn/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Ofcom, U.K.'s internet safety regulator, issues new draft guidance to combat online threats against women and girls under the Online Safety Act.\n- The guidance aims to tackle intimate image abuse, including deepfake porn, which is a priority for enforcement.\n- Child safety campaigners express frustration over delays in implementing the Online Safety Act, which became law in September 2023.\n- Initial enforcement of core OSA duties is set for next month, with full compliance guidance becoming enforceable by 2027.\n- Ofcom emphasizes a 'safety by design' approach for online platforms to improve user safety and reduce risks associated with their services.\n- The latest recommendations include using hash matching technology for detecting and removing abusive intimate imagery, especially deepfakes, amidst rising incidents reported in 2023.",
+      "keywords": [
+        "Ofcom",
+        "Online Safety Act",
+        "deepfake porn",
+        "intimate image abuse",
+        "women's safety",
+        "AI",
+        "online harassment",
+        "misogyny",
+        "hash matching"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-25T00:01:00.000Z"
+    },
+    {
+      "title": "Web Summit attendees aren’t buying Scale AI CEO’s push for America ‘to win the AI war’",
+      "link": "https://techcrunch.com/2025/02/24/web-summit-attendees-arent-buying-scale-ai-ceos-push-for-america-to-win-the-ai-war/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Scale AI CEO Alexandr Wang took out a full-page ad in The Washington Post urging Trump that ‘America must win the AI war.’\n- During his Web Summit Qatar appearance, only two attendees agreed with Wang’s statement, while many disagreed.\n- Wang views the competition in AI as a race between the U.S. and China, expressing concerns over China potentially surpassing Western military capabilities with AI.\n- He advocates for U.S. models that support free speech compared to Chinese AI models influenced by government censorship.\n- Scale AI recently announced a partnership with the Qatar government to develop AI-powered applications in various sectors.\n- The discussion highlighted the mixed feelings among attendees regarding the U.S. being perceived as an AI superpower.",
+      "keywords": [
+        "AI",
+        "Scale AI",
+        "Alexandr Wang",
+        "Web Summit",
+        "Qatar",
+        "national security",
+        "China",
+        "U.S."
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-24T23:53:30.000Z"
+    },
+    {
+      "title": "Anthropic reportedly ups its next funding round to $3.5B",
+      "link": "https://techcrunch.com/2025/02/24/anthropic-reportedly-ups-its-next-funding-round-to-3-5b/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/06/YouTube-Thumb-Text-2-3.png?w=1024",
+      "summary": "- Anthropic is finalizing a $3.5 billion fundraising round, valuing the company at $61.5 billion.\n- The company initially aimed to raise $2 billion but increased the target due to investor interest.\n- Notable participants in the funding round include Lightspeed Venture Partners, General Catalyst, Bessemer Venture Partners, and MGX.\n- If successful, this will bring Anthropic's total funding to approximately $18 billion.\n- Despite a reported annualized revenue of $1.2 billion, Anthropic is still losing money and plans to use the funds for AI technology development.",
+      "keywords": [
+        "Anthropic",
+        "funding",
+        "AI technology",
+        "investment",
+        "Claude AI"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-24T23:48:17.000Z"
+    },
+    {
       "title": "Chegg Sues Google Over AI Search Summaries",
       "link": "https://techcrunch.com/2025/02/24/chegg-sues-google-over-ai-search-summaries/",
       "author": null,
@@ -1089,73 +1159,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-02-21T22:38:22.000Z"
-    },
-    {
-      "title": "iOS 18.4 will bring Apple Intelligence-powered ‘Priority Notifications’",
-      "link": "https://techcrunch.com/2025/02/21/ios-18-4-will-bring-apple-intelligence-powered-priority-notifications/",
-      "author": "Aisha Malik",
-      "thumbnail": null,
-      "summary": "- Apple released the developer beta for iOS 18.4 on February 21, 2025, which includes a new feature called \"Priority Notifications\" powered by Apple Intelligence.\n- This feature aims to help users prioritize important notifications and reduce distractions from less important alerts. \n- Important notifications will be shown on the Lock Screen in a separate section, analyzed by Apple Intelligence based on user behavior.\n- Users can enable Priority Notifications in the Settings app under the Notifications option.\n- Apple Intelligence will also be featured on the Vision Pro with the upcoming visionOS 2.4 in April 2025, along with new features in Apple News+ Food.",
-      "keywords": [
-        "iOS 18.4",
-        "Apple Intelligence",
-        "Priority Notifications",
-        "notifications",
-        "Apple News+ Food",
-        "Vision Pro"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-21T21:34:27.000Z"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang says market got it wrong about DeepSeek’s impact",
-      "link": "https://techcrunch.com/2025/02/21/nvidia-ceo-jensen-huang-says-market-got-it-wrong-about-deepseeks-impact/",
-      "author": "Jensen Huang, Alex Bouzari",
-      "thumbnail": null,
-      "summary": "- Nvidia CEO Jensen Huang criticized market reactions to DeepSeek’s R1 open source reasoning model as misguided.\n- He claimed R1 will accelerate AI adoption rather than diminish the need for computing resources.\n- Nvidia’s stock dropped 16.9% after the R1 release but has almost fully recovered since then.\n- Huang noted that while DeepSeek advanced pre-training AI, post-training remains critical and resource-intensive.\n- Nvidia's Q4 earnings report on February 26 is anticipated to address the market’s response to DeepSeek.",
-      "keywords": [
-        "Nvidia",
-        "DeepSeek",
-        "AI",
-        "Jensen Huang",
-        "stock market",
-        "open source"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-21T20:36:00.000Z"
-    },
-    {
-      "title": "OpenAI Plans to Shift Compute Needs from Microsoft to SoftBank",
-      "link": "https://techcrunch.com/2025/02/21/report-openai-plans-to-shift-compute-needs-from-microsoft-to-softbank/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2194585161.jpg?w=1024",
-      "summary": "- OpenAI is looking to shift its main computing power source from Microsoft to SoftBank by 2030.\n- The company expects to source 75% of its data center capacity from the Stargate project, backed financially by SoftBank.\n- OpenAI's spending on Microsoft data centers will continue to increase in the short term, despite this shift.\n- OpenAI forecasts a dramatic increase in overall costs, with projected cash burns reaching $20 billion by 2027, compared to $5 billion in 2024.",
-      "keywords": [
-        "OpenAI",
-        "SoftBank",
-        "Microsoft",
-        "computing power",
-        "data centers",
-        "costs",
-        "AI models"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-21T20:22:40.000Z"
     }
   ]
 }
