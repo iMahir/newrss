@@ -4,6 +4,53 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Microsoft makes Copilot Voice and Think Deeper free with unlimited use",
+      "link": "https://www.theverge.com/news/619199/microsoft-copilot-free-unlimited-voice-think-deeper-open-ai-o1-reasoning-model-ai",
+      "author": "Tom Warren",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197777/profilephoto.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Microsoft has made OpenAI’s o1 reasoning model free for all Copilot users.\n- Unlimited use of Copilot's Voice and Think Deeper features is now available for everyone.\n- The move allows users to engage in extended conversations with Copilot's AI assistant.\n- Microsoft previously had limits on these features for free users.\n- The changes come after the launch of Copilot in Bing and the revamp of the Copilot Pro subscription, which costs $20 per month.",
+      "keywords": [
+        "Microsoft",
+        "Copilot",
+        "OpenAI",
+        "AI assistant",
+        "Voice",
+        "Think Deeper",
+        "subscription"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-25T17:53:48.000Z"
+    },
+    {
+      "title": "Chegg sues Google over AI Overviews",
+      "link": "https://www.theverge.com/news/619051/chegg-google-ai-overviews-monopoly",
+      "author": "Sheena Vasani",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195108/Screen_Shot_2021-09-15_at_10.36.08_AM.0.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Chegg filed a lawsuit against Google on February 24th, claiming that AI-generated summaries hurt its traffic and revenue.\n- This lawsuit is regarded as the first antitrust case by a single company over Google's AI Overviews feature.\n- Chegg alleges Google leverages its monopoly power to use Chegg's content without compensation, affecting its business model.\n- Chegg's CEO stated that the lawsuit addresses broader issues in digital publishing, internet search, and access to educational resources.\n- Google argues that its AI Overviews enhance diversity in site traffic on the web, providing billions of clicks daily.",
+      "keywords": [
+        "Chegg",
+        "Google",
+        "AI Overviews",
+        "lawsuit",
+        "antitrust",
+        "digital publishing",
+        "internet search",
+        "education"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-25T17:42:41.000Z"
+    },
+    {
       "title": "Tesla reportedly launches FSD in China — or has it?",
       "link": "https://www.theverge.com/news/619092/tesla-fsd-china-update-falls-short",
       "author": "Andrew J. Hawkins",
@@ -1124,52 +1171,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-02-24T17:29:26.000Z"
-    },
-    {
-      "title": "Google is replacing Gmail’s SMS authentication with QR codes",
-      "link": "https://www.theverge.com/news/618303/google-replacing-sms-codes-qr-gmail-security-two-factor-authentication",
-      "author": "Andrew Liszewski",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197412/headshot_andrewL_blackwhite.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Google is replacing SMS-based six-digit authentication codes for Gmail with QR codes.\n- The change aims to reduce global SMS abuse and enhance security during login.\n- QR codes will eliminate risks associated with SMS, including SIM swapping and the potential for phishing.",
-      "keywords": [
-        "Google",
-        "Gmail",
-        "authentication",
-        "QR codes",
-        "two-factor authentication",
-        "SMS",
-        "security"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-24T17:11:07.000Z"
-    },
-    {
-      "title": "Conservative podcaster Dan Bongino named deputy FBI director",
-      "link": "https://www.theverge.com/news/618233/dan-bongino-fbi-deputy-director-conservative-podcaster",
-      "author": "Wes Davis",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gettyimages-1442305587.jpg?quality=90&strip=all&crop=0%2C5.8220889555222%2C100%2C88.355822088956&w=2400",
-      "summary": "- Dan Bongino has been appointed as the FBI's new deputy director by President Donald Trump.\n- Bongino has experience as a New York police officer and US Secret Service agent, but lacks FBI experience.\n- He is known in conservative media for hosting a Fox News show and contributing to InfoWars.\n- Bongino's online influence includes being labeled a top election conspiracy \"misinformation superspreader\" by global human rights group Avaaz.\n- He will serve under FBI director Kash Patel, who aims to \"rebuild\" the agency after his confirmation by the Senate. Bongino's appointment does not require Senate confirmation.",
-      "keywords": [
-        "Dan Bongino",
-        "FBI",
-        "Trump",
-        "podcast",
-        "appointment",
-        "conservative media",
-        "Kash Patel"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-24T16:15:37.000Z"
     }
   ]
 }
