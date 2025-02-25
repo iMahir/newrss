@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Microsoft is testing free Office for Windows apps with ads",
+      "link": "https://www.theverge.com/news/618278/microsoft-office-free-windows-apps-ad-supported-version",
+      "author": "Tom Warren",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197777/profilephoto.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Microsoft is testing a free, ad-supported version of Office apps for Windows, currently available in certain regions like India.\n- This version allows access to Word, Excel, and PowerPoint without a Microsoft 365 subscription, but includes persistent side ads and video ads.\n- Users must store files in OneDrive, as local storage is disabled, and the version lacks some features compared to the paid version, such as drawing tools in Word and macros in Excel.",
+      "keywords": [
+        "Microsoft",
+        "Office",
+        "Windows",
+        "ads",
+        "free version",
+        "Microsoft 365",
+        "OneDrive"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-25T09:58:17.000Z"
+    },
+    {
       "title": "Powerplay 2: Logitech made its magic mousepad cheaper instead of better",
       "link": "https://www.theverge.com/news/618616/logitech-powerplay-2-wireless-mousepad-charger-price-release-date",
       "author": "Sean Hollister",
@@ -1113,30 +1136,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-22T15:00:00.000Z"
-    },
-    {
-      "title": "Lenovo Legion Go S review: feels good, plays bad",
-      "link": "https://www.theverge.com/reviews/617613/lenovo-legion-go-s-review-feels-good-plays-bad",
-      "author": "Sean Hollister",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/247466_CES_2025_Lenovo_Legion_Go_S_windows_ADiBenedetto_product_card.jpg?quality=90&strip=all&crop=3.8095238095238%2C0%2C92.380952380952%2C100&w=2400",
-      "summary": "- The Lenovo Legion Go S is priced at $730 and aims to compete with the Steam Deck but falls short in performance.\n- It features good ergonomics, a variable refresh rate screen, fast charging, but is hindered by low performance and a bloated Windows OS.\n- Extensive benchmarks show the Z2 Go chip struggles against the Steam Deck OLED, often delivering lower frame rates despite higher wattage.\n- Using the Bazzite OS showed improvements in framerate but still couldn't reach Steam Deck performance levels efficiently.\n- Recommendations lean towards purchasing the Steam Deck over the Legion Go S, especially at its price point.",
-      "keywords": [
-        "Lenovo",
-        "Legion Go S",
-        "gaming",
-        "Steam Deck",
-        "Windows",
-        "Bazzite",
-        "handheld",
-        "performance"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 6,
-        "novelty": 4,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-02-22T14:00:00.000Z"
     }
   ]
 }
