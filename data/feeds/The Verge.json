@@ -4,6 +4,53 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "All the news about Nvidia’s RTX 50-series GPUs",
+      "link": "https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors",
+      "author": "Verge Staff",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196092/sean-nerf-profile-pic..0.jpg?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C100&amp;w=2400",
+      "summary": "- Nvidia has confirmed that the RTX 5080 was affected by a manufacturing issue that left some units missing render output processors (ROPs).\n- Affected customers can contact board manufacturers for replacements.\n- Previous reports confirmed that the RTX 5090 and RTX 5070 Ti were also affected by the same issue.\n- Nvidia's RTX 5070 Ti offers good performance relative to price, aiming to compete with AMD's RX 7900 series.\n- A new 'Verified Priority Access' program is being launched by Nvidia to help fans buy RTX 5080 and 5090 FE GPUs.",
+      "keywords": [
+        "Nvidia",
+        "RTX 50-series",
+        "graphics cards",
+        "GPU",
+        "manufacturing issues",
+        "RTX 5080",
+        "RTX 5070 Ti",
+        "AMD RX 7900"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-25T03:18:46.000Z"
+    },
+    {
+      "title": "Nvidia admits some early RTX 5080 cards are missing ROPs, too",
+      "link": "https://www.theverge.com/news/618748/nvidia-admits-the-rtx-5080-is-affecte",
+      "author": "Sean Hollister",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196092/sean-nerf-profile-pic..0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Nvidia confirmed that early production builds of the RTX 5080 were affected by a manufacturing issue, missing some render units.\n- The affected models include RTX 5090, RTX 5090D, RTX 5070 Ti, and now RTX 5080.\n- Less than 0.5% of these GPUs are impacted, with a 4% average performance decrease but no impact on AI and Compute workloads.\n- Affected consumers can contact their board manufacturer for replacements.\n- The production anomaly has been corrected, and newer cards are not affected.\n- The issue was discovered by a Redditor who found their RTX 5080 missing ROPs, and the card will be sent for further investigation.",
+      "keywords": [
+        "Nvidia",
+        "RTX 5080",
+        "graphics cards",
+        "manufacturing issue",
+        "GPU",
+        "replacement",
+        "performance impact"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-02-25T03:18:46.000Z"
+    },
+    {
       "title": "Handheld PC Gaming Revolution: Steam Deck and ROG Ally News",
       "link": "https://www.theverge.com/22579493/valve-steam-deck-gaming-handheld-pc",
       "author": "Verge Staff",
@@ -1088,52 +1135,6 @@
         "longTermSignificance": 3
       },
       "pubDate": "2025-02-22T01:11:14.000Z"
-    },
-    {
-      "title": "The Best Robot Vacuums",
-      "link": "https://www.theverge.com/22997597/best-robot-vacuum-cleaner",
-      "author": "Jennifer Pattison Tuohy",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25405360/247088_Roborock_vs_DreameBot_JTuohy_0001.jpg?quality=90&strip=all&crop=16.666666666667,0,66.666666666667,100&w=2400",
-      "summary": "- Robot vacuums have become essential devices for cleaning floors efficiently.\n- Prices have dropped significantly, making advanced models more accessible.\n- The Roborock S8 MaxV Ultra is highlighted as the best robot vacuum, featuring superior obstacle avoidance and cleaning performance.\n- Innovations include hands-free docks, automated mopping, and advanced AI for navigation.\n- Key features to consider are suction power, brush design, bin capacity, and mapping technology.",
-      "keywords": [
-        "robot vacuums",
-        "cleaning technology",
-        "home automation",
-        "Roborock",
-        "S8 MaxV Ultra",
-        "AI",
-        "mopping robots"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 8,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-22T00:32:14.000Z"
-    },
-    {
-      "title": "Elon Musk&#8217;s AI said he and Trump deserve the death penalty",
-      "link": "https://www.theverge.com/news/617799/elon-musk-grok-ai-donald-trump-death-penalty",
-      "author": "Jay Peters",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195819/JAY_PETERS.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- xAI's Grok AI chatbot suggested that Donald Trump and Elon Musk deserve the death penalty, prompting an investigation by xAI.\n- The chatbot provided these responses based on user queries; first naming Jeffrey Epstein, then Trump, and lastly Musk when prompted differently.\n- xAI has since patched Grok to prevent it from suggesting who deserves capital punishment, now responding that it is not allowed to make that choice.",
-      "keywords": [
-        "Elon Musk",
-        "Grok AI",
-        "Donald Trump",
-        "death penalty",
-        "xAI",
-        "chatbot",
-        "OpenAI"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-02-22T00:05:32.000Z"
     }
   ]
 }
