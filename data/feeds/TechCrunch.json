@@ -4,6 +4,57 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Why OpenAI isn’t bringing deep research to its API just yet",
+      "link": "https://techcrunch.com/2025/02/25/why-openai-isnt-bringing-deep-research-to-its-api-just-yet/",
+      "author": "Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Screenshot-2025-02-25-at-2.53.55PM.png?w=680",
+      "summary": "- OpenAI is delaying the release of its deep research model to its developer API to assess AI persuasion risks.\n- A recent whitepaper highlights concerns about AI's role in spreading misleading information at scale.\n- The deep research model is currently deployed only in ChatGPT, not the API, due to the significant issues of misinformation and high computing costs.\n- Tests showed that while the model is effective, it doesn't surpass human capabilities in persuasiveness.\n- OpenAI is exploring ways to refine model performance before making it more widely available.",
+      "keywords": [
+        "OpenAI",
+        "deep research",
+        "AI model",
+        "persuasion",
+        "information risks",
+        "ChatGPT",
+        "API",
+        "misinformation",
+        "deepfakes"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-25T20:07:30.000Z"
+    },
+    {
+      "title": "Tumblr backs Tapestry, a timeline app for the open social web",
+      "link": "https://techcrunch.com/2025/02/25/tumblr-backs-tapestry-a-timeline-app-for-the-open-social-web/",
+      "author": "Sarah Perez",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Tapestry-Hero-Collapsed-iPhone.jpeg?w=314",
+      "summary": "- Automattic-owned Tumblr financially backed [Tapestry](https://apps.apple.com/app/tapestry-by-iconfactory/id6448078074), a new app to organize feeds from various open web sources.\n- Tapestry raised over $177,000 through Kickstarter in January 2024 and recently debuted in the App Store.\n- Tumblr's funding will help develop a native macOS version of the app, which is currently available for iPad.\n- Tapestry supports multiple sources like RSS, Mastodon, Bluesky, and more, allowing users to curate their own feeds and control information consumption.\n- The app aims to enhance user customization and reduce reliance on tech giants’ algorithms.",
+      "keywords": [
+        "Tumblr",
+        "Tapestry",
+        "open web",
+        "social media",
+        "crowdfunding",
+        "RSS",
+        "Mastodon",
+        "Bluesky",
+        "macOS",
+        "customization"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-25T19:37:21.000Z"
+    },
+    {
       "title": "Quora’s Poe now lets users create and share custom AI-powered apps",
       "link": "https://techcrunch.com/2025/02/25/quoras-poe-now-lets-users-create-and-share-custom-ai-powered-apps/",
       "author": "Kyle Wiggers",
@@ -1105,54 +1156,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-02-24T17:56:56.000Z"
-    },
-    {
-      "title": "The SEC will not sue Robinhood over crypto",
-      "link": "https://techcrunch.com/2025/02/24/the-sec-will-not-sue-robinhood-over-crypto/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Robinhood announced that the SEC has closed its investigation into its crypto unit and will not pursue action.\n- This comes after Coinbase also reported that the SEC dropped its lawsuit against them.\n- The SEC had investigated multiple crypto exchanges regarding how they handled staking assets, which it viewed as unregistered securities.\n- Robinhood chose to limit its involvement in certain crypto assets to avoid triggering SEC scrutiny.\n- The crypto industry is now seeking to establish regulations, especially under a more crypto-friendly administration.",
-      "keywords": [
-        "SEC",
-        "Robinhood",
-        "crypto",
-        "investigation",
-        "Coinbase",
-        "staking",
-        "cryptocurrency regulations"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-24T17:33:25.000Z"
-    },
-    {
-      "title": "Perplexity teases a web browser called Comet",
-      "link": "https://techcrunch.com/2025/02/24/perplexity-teases-a-web-browser-called-comet/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- AI-powered search engine Perplexity announces it is building a web browser named Comet.\n- A signup list has been launched, but the browser is not yet available.\n- Perplexity aims to \"reinvent the browser\" alongside its search engine innovations.\n- The browser will compete in a crowded market with existing browsers like Chrome and upcoming AI-powered options like Dia.\n- Perplexity has recently expanded its product portfolio, including a deep research product and an AI assistant for Android.\n- Founded in 2022, Perplexity has raised over $500 million and has a valuation of $9 billion, with over 100 million weekly search queries.\n- The company faces legal challenges regarding content usage from publishers like News Corp and The New York Times.",
-      "keywords": [
-        "Perplexity",
-        "web browser",
-        "Comet",
-        "AI",
-        "search engine",
-        "Kyle Wiggers",
-        "TechCrunch",
-        "technology news",
-        "browser market"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-24T17:17:42.000Z"
     }
   ]
 }
