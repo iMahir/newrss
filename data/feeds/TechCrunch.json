@@ -4,6 +4,53 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Google launches a free AI coding assistant with very high usage caps",
+      "link": "https://techcrunch.com/2025/02/25/google-launches-a-free-ai-coding-assistant-with-very-high-usage-caps/",
+      "author": "Maxwell Zeff",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/unnamed.gif",
+      "summary": "- Google introduced a free version of its AI coding assistant, **Gemini Code Assist for Individuals**, which allows natural language interaction for code editing.\n- The tool offers **180,000 code completions** per month and **240 chat requests** daily, far exceeding the free GitHub Copilot's limits.\n- It uses a **Gemini 2.0 AI model** with a **128,000-token context window** for handling complex codebases.\n- The public preview for developers starts on the launch date (Tuesday).\n- The service aims to attract new developers and potentially convert some to paid enterprise plans in the future.",
+      "keywords": [
+        "AI coding assistant",
+        "Google",
+        "Gemini Code Assist",
+        "development tools",
+        "open source",
+        "GitHub"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-25T11:00:00.000Z"
+    },
+    {
+      "title": "EU’s top court ruling on Android Auto antitrust referral could put interoperability requests in the fast lane",
+      "link": "https://techcrunch.com/2025/02/25/eus-top-court-ruling-on-android-auto-antitrust-referral-could-put-interoperability-requests-in-the-fast-lane/",
+      "author": "Natasha Lomas",
+      "thumbnail": null,
+      "summary": "- The Court of Justice of the EU affirmed that refusal of interoperability by a dominant market player can constitute antitrust abuse.\n- The ruling stems from Google’s past refusal to allow Enel X Italia's app access to Android Auto, deemed an abuse by Italy's competition authority.\n- The court established criteria for justifying interoperability refusals, including technical impossibilities and potential security risks.\n- Google expressed disappointment with the ruling, emphasizing its focus on user-centric development and the limited demand for the Enel-requested feature in Italy.",
+      "keywords": [
+        "EU",
+        "Court of Justice",
+        "Android Auto",
+        "antitrust",
+        "interoperability",
+        "Google",
+        "Enel X Italia",
+        "Digital Markets Act",
+        "big tech"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-25T10:53:29.000Z"
+    },
+    {
       "title": "US employee screening giant DISA says hackers accessed data of more than 3M people",
       "link": "https://techcrunch.com/2025/02/25/us-employee-screening-giant-disa-says-hackers-accessed-data-of-more-than-3m-people/",
       "author": "Carly Page",
@@ -1113,53 +1160,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-02-22T20:41:53.000Z"
-    },
-    {
-      "title": "The pain of discontinued items, and the thrill of finding them online",
-      "link": "https://techcrunch.com/2025/02/22/the-pain-of-discontinued-items-and-the-thrill-of-finding-them-online/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2018/06/bagweek_filson-1010047.jpg?w=1024",
-      "summary": "- Article discusses the emotional impact of discontinued items on consumers.\n- A New York Times piece explores online spaces where shoppers find and support each other regarding these items.\n- Highlights a particular case of a Filson laptop bag that is sought after by enthusiasts.\n- Mentions the website Discontinued Beauty, which offers hard-to-find beauty products.\n- Includes a quote from a creative director about using discontinued items regardless of their storage conditions.",
-      "keywords": [
-        "discontinued items",
-        "online shopping",
-        "consumer behavior",
-        "emotional impact",
-        "Filson bags",
-        "beauty products",
-        "Resale market"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-22T20:02:49.000Z"
-    },
-    {
-      "title": "The fallout from HP’s Humane acquisition",
-      "link": "https://techcrunch.com/2025/02/22/the-fallout-of-hps-humane-acquisition/",
-      "author": "Cody Corrall",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/duolingo-owl.png?w=680",
-      "summary": "- HP acquired Humane's assets for $116 million, significantly less than the $240 million raised by the startup.\n- Humane will discontinue sales of its $499 AI Pins, with full functionality ceasing after February 28.\n- Job offers from HP included significant pay increases for some Humane employees, while others were laid off.\n- Apple has also revealed the iPhone SE refresh, featuring the new A18 processor and new connectivity options.",
-      "keywords": [
-        "HP",
-        "Humane",
-        "acquisition",
-        "AI Pin",
-        "technology",
-        "smartphone",
-        "Apple",
-        "iPhone SE"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-22T18:05:00.000Z"
     }
   ]
 }

@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Google Gemini’s AI coding tool is now free for individual users",
+      "link": "https://www.theverge.com/news/618839/google-gemini-ai-code-assist-free-individuals-availability",
+      "author": "Jess Weatherbed",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Gemini-Code-Assist-demo-gif.gif?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "- Google has launched a free version of Gemini Code Assist for individual users, aimed at solo developers, students, and freelancers.\n- The service allows up to 180,000 code completions per month, significantly higher than competitors like GitHub Copilot, which limits users to 2,000 completions.\n- Gemini Code Assist is powered by Google’s Gemini 2.0 AI model and can generate code blocks, provide coding assistance, and support all programming languages in the public domain.\n- Developers can interact with the tool using natural language prompts.\n- The free tier lacks some advanced features available in paid versions, such as productivity metrics and Google Cloud integrations.",
+      "keywords": [
+        "Google Gemini",
+        "AI coding tool",
+        "coding assistant",
+        "free software",
+        "developers",
+        "GitHub Copilot",
+        "software development",
+        "natural language processing"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-25T11:00:00.000Z"
+    },
+    {
       "title": "Microsoft is testing free Office for Windows apps with ads",
       "link": "https://www.theverge.com/news/618278/microsoft-office-free-windows-apps-ad-supported-version",
       "author": "Tom Warren",
@@ -1112,30 +1136,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-02-22T15:08:09.000Z"
-    },
-    {
-      "title": "Lost Records: Bloom & Rage blends its teen drama with a heavy dose of ’90s nostalgia",
-      "link": "https://www.theverge.com/games-review/617336/lost-records-bloom-and-rage-review",
-      "author": "Khee Hoon Chan",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/BR_Screenshot-6.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
-      "summary": "- The game *Lost Records: Bloom & Rage* emphasizes ’90s nostalgia with a storyline about four teenagers.  \n- Set in the small town of Velvet Cove, the game alternates between the present and the summer of ’95.  \n- Features dialogue choices and interactions with objects to enhance the storytelling experience.  \n- Focuses on the protagonist Swann's journey of friendship, social anxiety, and self-discovery through documenting her life with a camcorder.  \n- The narrative explores complex characters and relationships, with a dramatic cliffhanger leading to a second release expected in mid-April.",
-      "keywords": [
-        "video games",
-        "teen drama",
-        "nostalgia",
-        "Life is Strange",
-        "Don’t Nod",
-        "Bloom & Rage",
-        "adolescent friendships",
-        "gaming narrative"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-22T15:00:00.000Z"
     }
   ]
 }
