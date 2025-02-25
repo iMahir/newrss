@@ -4,6 +4,73 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "OpenAI rolls out deep research to paying ChatGPT users",
+      "link": "https://techcrunch.com/2025/02/25/openai-rolls-out-deep-research-to-paying-chatgpt-users/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?w=1024",
+      "summary": "- OpenAI announced on February 25, 2025, the rollout of its deep research feature to all paying ChatGPT users, including ChatGPT Plus, Team, Enterprise, and Edu subscribers.\n- Each user will get 10 deep research queries per month; ChatGPT Pro users will receive 120 queries, up from 100 at launch.\n- OpenAI is competing with Google and Perplexity in the deep research market, which aims to deliver value to AI subscription users. Google recently expanded its deep research agent to all Gemini Advanced users.",
+      "keywords": [
+        "OpenAI",
+        "ChatGPT",
+        "deep research",
+        "AI tools",
+        "subscription services"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-25T21:08:34.000Z"
+    },
+    {
+      "title": "Framous is a new Mac app for adding device frames to screenshots",
+      "link": "https://techcrunch.com/2025/02/25/framous-is-a-new-mac-app-for-adding-device-frames-to-screenshots/",
+      "author": "Charlie Chapman, Lauren Forristal",
+      "thumbnail": null,
+      "summary": "- Framous, a new Mac app, allows users to add device frames to screenshots for a more professional appearance.\n- It is particularly useful for app developers, graphic designers, and journalists.\n- Created by Dark Noise developer Charlie Chapman, Framous simplifies the process of adding frames, requiring just drag-and-drop or copy-paste actions.\n- Features include automatic device frame detection, landscape mode for iPhones, and customization options like frame color and edge-to-edge mode.\n- Future updates include more customization options, video support, and an iOS app planned for development.\n- Available for free in the Mac App Store with a one-time fee of $19.99 to unlock all 2025 frames or a $9.99 yearly subscription.",
+      "keywords": [
+        "Framous",
+        "Mac app",
+        "device frames",
+        "screenshots",
+        "graphic design",
+        "app development",
+        "customization options",
+        "TechCrunch"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-25T20:54:51.000Z"
+    },
+    {
+      "title": "Apple shareholders vote down anti-DEI proposal",
+      "link": "https://techcrunch.com/2025/02/25/apple-shareholders-vote-down-anti-dei-proposal/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Apple shareholders rejected an anti-DEI proposal at the investor meeting on Tuesday.\n- The proposal was made by the conservative group National Center for Public Policy Research (NPPR) and sought to end DEI activities.\n- This proposal gained national attention amidst other tech companies trimming or eliminating DEI programs due to social and legal pressures.\n- CEO Tim Cook indicated that changes might be necessary as the legal landscape evolves, according to reports.",
+      "keywords": [
+        "Apple",
+        "shareholders",
+        "DEI",
+        "National Center for Public Policy Research",
+        "Tim Cook",
+        "tech companies"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-25T20:20:00.000Z"
+    },
+    {
       "title": "Why OpenAI isn’t bringing deep research to its API just yet",
       "link": "https://techcrunch.com/2025/02/25/why-openai-isnt-bringing-deep-research-to-its-api-just-yet/",
       "author": "Kyle Wiggers",
@@ -1097,65 +1164,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-02-24T18:30:49.000Z"
-    },
-    {
-      "title": "Anthropic launches a new AI model that ‘thinks’ as long as you want",
-      "link": "https://techcrunch.com/2025/02/24/anthropic-launches-a-new-ai-model-that-thinks-as-long-as-you-want/",
-      "author": "Maxwell Zeff",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Claude_extended_thkg_1.jpg?w=680",
-      "summary": "- Anthropic introduces Claude 3.7 Sonnet, the first ‘hybrid AI reasoning model’ that offers real-time and thorough answers.\n- The model allows users to choose the duration of reasoning time, enhancing user experience by simplifying options.\n- Claude 3.7 Sonnet will be available to all users on a premium plan, costing $3 per million input tokens and $15 per million output tokens.\n- In tests, Claude 3.7 Sonnet achieved accuracy rates of 62.3% on SWE-Bench and 81.2% on TAU-Bench, outperforming OpenAI models.\n- Claude’s new reasoning features are expected to reduce unnecessary rejections by 45% compared to its predecessor, Claude 3.5 Sonnet.\n- Alongside this model, Anthropic is also launching Claude Code, a tool for developers to interact with AI directly from their terminal.",
-      "keywords": [
-        "AI",
-        "Anthropic",
-        "Claude 3.7 Sonnet",
-        "hybrid model",
-        "AI reasoning",
-        "technology",
-        "machine learning",
-        "software development"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 8,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-24T18:30:00.000Z"
-    },
-    {
-      "title": "Grok 3 appears to be driving Grok usage to new heights",
-      "link": "https://techcrunch.com/2025/02/24/grok-3-appears-to-be-driving-grok-usage-to-new-heights/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- Elon Musk’s AI company, xAI, released [Grok 3](https://techcrunch.com/2025/02/17/elon-musks-ai-company-xai-releases-its-latest-flagship-ai-grok-3/), its flagship AI model, last week.\n- Grok 3 led to a more than 10x increase in worldwide and U.S. mobile app downloads compared to the previous week, with daily active users in the U.S. soaring over 260%.\n- The web app's U.S. daily visits rose from around 189,000 to over 900,000, globally growing from 627,000 to 4.5 million.\n- Grok 3’s release coincided with the app expanding into several new markets, possibly aiding its growth.\n- Recent controversies included Grok 3 briefly censoring mentions of Donald Trump and Musk, attributed to a rogue employee, and it making problematic statements about them which were quickly patched.",
-      "keywords": [
-        "Grok 3",
-        "xAI",
-        "Elon Musk",
-        "AI model",
-        "app downloads",
-        "user growth",
-        "Grok app",
-        "daily visits",
-        "controversies"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-02-24T18:07:06.000Z"
-    },
-    {
-      "title": "DeepSeek: Everything you need to know about the AI chatbot app",
-      "link": "https://techcrunch.com/2025/02/24/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-02-24T17:56:56.000Z"
     }
   ]
 }
