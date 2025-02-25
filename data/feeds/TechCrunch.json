@@ -4,6 +4,30 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Quora’s Poe now lets users create and share custom AI-powered apps",
+      "link": "https://techcrunch.com/2025/02/25/quoras-poe-now-lets-users-create-and-share-custom-ai-powered-apps/",
+      "author": "Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Screenshot-2025-02-25-at-12.46.40PM.png?w=680",
+      "summary": "- Poe has launched a new feature called Poe Apps, allowing users to create custom AI-powered applications using various AI models.\n- Users can specify models like OpenAI's o3-mini or Google’s Veo 2 in the App Creator tool.\n- The App Creator translates user descriptions into code and custom logic in JavaScript.\n- Example apps include transforming photos into 3D anime-style art and removing unwanted objects from images.\n- Poe Apps can be shared online; support for iOS and Android is coming soon.\n- Usage of AI models consumes a user's points balance; a free daily allotment is provided or users can subscribe for more.\n- Quora indicates potential future monetization options for app creators.",
+      "keywords": [
+        "Poe",
+        "Quora",
+        "AI apps",
+        "App Creator",
+        "OpenAI",
+        "Google",
+        "custom apps",
+        "AI models"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-25T18:34:46.000Z"
+    },
+    {
       "title": "Brex eyes $500M in revenue as it adds the likes of Anthropic and Robinhood as customers",
       "link": "https://techcrunch.com/2025/02/25/brex-eyes-500m-in-revenue-as-it-adds-the-likes-of-anthropic-and-robinhood-as-customers/",
       "author": null,
@@ -1129,31 +1153,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-02-24T17:17:42.000Z"
-    },
-    {
-      "title": "Three years on, Europe looks to Ukraine for the future of defense tech",
-      "link": "https://techcrunch.com/2025/02/24/three-years-on-europe-looks-to-ukraine-for-the-future-of-defense-tech/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Today marks three years since Russia’s invasion of Ukraine, highlighting Ukrainian innovation in defense technology amidst the conflict.\n- Ukraine established the BRAVE1 defense tech initiative and hosted tech conferences like IT Arena.\n- Ukraine has become a leader in AI-enabled drone technology, attracting Western investment to enhance European defense.\n- A report by Lakestar warns that Europe is underprepared for potential threats, citing a reduction in defense spending by 30% since the 1990s.\n- In 2024, venture capital investment in European defense technology reached over a billion dollars, with significant investments focused in Germany, the UK, and France.\n- New specialized defense funds and startups in Ukraine are emerging, with various innovative solutions being developed for defense and dual-use technology.",
-      "keywords": [
-        "Ukraine",
-        "defense technology",
-        "AI",
-        "drone technology",
-        "Venture Capital",
-        "European security",
-        "BRAVE1",
-        "military innovation",
-        "startup ecosystem"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-24T17:07:21.000Z"
     }
   ]
 }
