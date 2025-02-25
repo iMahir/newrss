@@ -4,6 +4,75 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Quantum Machines raises $170M, says it’s working with more than half of all quantum computing companies",
+      "link": "https://techcrunch.com/2025/02/25/quantum-machines-raises-170m-says-its-working-with-more-than-half-of-all-quantum-computing-companies/",
+      "author": "Ingrid Lunden",
+      "thumbnail": null,
+      "summary": "- Quantum Machines raised $170 million in a Series C funding round led by PSG Equity, with participation from Intel Capital and others.\n- The company provides quantum control solutions and works with over half of the global quantum computing companies.\n- Quantum Machines' technology helps reduce errors in quantum computing research, critical for building functional quantum computers.\n- The startup experienced a significant uplift in valuation compared to previous fundraising rounds, originally pegged at $100 million.\n- There are ongoing developments in the quantum computing sector, including innovations by Google and Microsoft, aiming for practical quantum applications in the next 5 to 10 years.",
+      "keywords": [
+        "Quantum Computing",
+        "Funding",
+        "Investment",
+        "Technology",
+        "Startups",
+        "Quantum Machines"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-25T14:05:23.000Z"
+    },
+    {
+      "title": "Adobe launches a Photoshop iPhone app",
+      "link": "https://techcrunch.com/2025/02/25/adobe-launches-a-photoshop-iphone-app/",
+      "author": "Aisha Malik",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/14639433_FY25_Q1_Ps_iPhoneRelease_PRComms_AddNewObjects_GIF_4x5_1080x1350.gif?w=544",
+      "summary": "- Adobe introduces a mobile version of Photoshop for iPhone, available worldwide in the Apple App Store.\n- The iPhone app includes both free and premium features with a subscription plan costing $7.99 monthly.\n- Users can access core editing tools, such as layering, masking, and advanced AI tools like ‘Generative Fill’.",
+      "keywords": [
+        "Adobe",
+        "Photoshop",
+        "iPhone App",
+        "Mobile Editing",
+        "Subscription Model",
+        "AI Tools"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-25T14:00:00.000Z"
+    },
+    {
+      "title": "Serverless Cloud Platform Koyeb Integrates Tenstorrent’s AI Accelerators",
+      "link": "https://techcrunch.com/2025/02/25/serverless-cloud-platform-koyeb-lets-developers-spin-up-tenstorrent-ai-accelerators/",
+      "author": "Romain Dillet",
+      "thumbnail": null,
+      "summary": "- Koyeb now allows developers to utilize Tenstorrent’s AI accelerators shortly after the company raised nearly $700 million in funding.\n- Tenstorrent’s AI processors are designed using the RISC-V architecture and offer an open-source neural network library, TT-NN, and programming model, TT-Metalium.\n- Koyeb, founded by former Scaleway executives, provides a serverless cloud platform that automatically scales applications based on traffic demands.\n- New instances include TT-N300S with 24GB GDDR6 memory and 466 FP8 TFLOPS, and TT-Loudbox with 96GB GDDR6 memory and 1,864 FP8 TFLOPS.\n- Koyeb aims to be hardware-agnostic, positioning itself as an alternative to Nvidia's ecosystem.",
+      "keywords": [
+        "Koyeb",
+        "Tenstorrent",
+        "AI accelerators",
+        "serverless computing",
+        "cloud platform",
+        "RISC-V",
+        "TT-NN",
+        "TT-Metalium",
+        "Nvidia alternative"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-25T14:00:00.000Z"
+    },
+    {
       "title": "Apple Watch shipments surge in India",
       "link": "https://techcrunch.com/2025/02/25/apple-watch-shipments-surge-in-india/",
       "author": "Jagmeet Singh",
@@ -1091,74 +1160,6 @@
         "longTermSignificance": 9
       },
       "pubDate": "2025-02-23T21:45:00.000Z"
-    },
-    {
-      "title": "This mental health chatbot aims to fill the counseling gap at understaffed schools",
-      "link": "https://techcrunch.com/2025/02/23/this-mental-health-chatbot-aims-to-fill-the-counseling-gap-at-understaffed-schools/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2169079907_27e720-e1734690817769.jpg?w=1024",
-      "summary": "- Sonar Mental Health developed a chatbot named Sonny to support student mental health.\n- Sonny combines human staff and AI to respond to student inquiries via text.\n- The chatbot is currently used in over 4,500 middle and high schools across nine districts.\n- There is a significant shortage of school counselors, with 17% of high schools lacking any counselors at all.",
-      "keywords": [
-        "mental health",
-        "chatbot",
-        "Sonar Mental Health",
-        "school counseling",
-        "AI",
-        "student support",
-        "counselor shortage"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-23T18:12:48.000Z"
-    },
-    {
-      "title": "Grok 3 appears to have briefly censored unflattering mentions of Trump and Musk",
-      "link": "https://techcrunch.com/2025/02/23/grok-3-appears-to-have-briefly-censored-unflattering-mentions-of-trump-and-musk/",
-      "author": "Kyle Wiggers",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Screenshot_20250223-100606.png?w=306",
-      "summary": "- Grok 3, launched by Elon Musk's xAI, was designed to be a 'maximally truth-seeking AI'.\n- Users reported that Grok 3 censored mentions of Donald Trump and Elon Musk when asked about misinformation spreaders.\n- The issue was repaired after initial discovery, but raised concerns about the model's political bias and censorship capabilities.\n- Grok 3's past versions were noted for providing politically lean responses, particularly leaning left on issues like transgender rights.\n- Musk has pledged to make Grok politically neutral, in light of criticism regarding perceived left-leaning biases in AI models.",
-      "keywords": [
-        "Grok 3",
-        "Elon Musk",
-        "Donald Trump",
-        "AI censorship",
-        "political bias",
-        "xAI"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-02-23T16:49:58.000Z"
-    },
-    {
-      "title": "Did xAI lie about Grok 3’s benchmarks?",
-      "link": "https://techcrunch.com/2025/02/22/did-xai-lie-about-grok-3s-benchmarks/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- An OpenAI employee accused xAI of publishing misleading benchmark results for Grok 3.\n- xAI claims Grok 3 outperformed OpenAI’s o3-mini-high on AIME 2025, though some scores were omitted.\n- The metric 'cons@64' was not included in xAI’s graph, which could alter perceived performance.\n- AI researcher Nathan Lambert highlights the importance of considering computational and monetary costs behind score achievements.",
-      "keywords": [
-        "xAI",
-        "Grok 3",
-        "benchmarks",
-        "OpenAI",
-        "AI performance",
-        "AIME 2025",
-        "cons@64"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-22T22:55:14.000Z"
     }
   ]
 }
