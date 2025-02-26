@@ -4,6 +4,53 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "‘We’re nowhere near done with Framework Laptop 16’ says Framework CEO",
+      "link": "https://www.theverge.com/news/619586/framework-laptop-16-update-one-key-but-not-done",
+      "author": "Sean Hollister",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/SCR-20250225-osmm.jpeg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "- Framework Laptop 16 was initially highlighted two years ago as an ambitious upgradable graphics laptop.\n- At a recent event, the focus shifted to the new Framework Desktop, with little mention of Laptop 16's advancements.\n- A new One Key Module will allow the community to create custom keyboards for the Laptop 16.\n- The Framework CEO, Nirav Patel, affirmed that they are still working on Laptop 16, but declined to provide details on GPU upgrades or future mainboard updates.",
+      "keywords": [
+        "Framework Laptop 16",
+        "Nirav Patel",
+        "upgradable GPU",
+        "One Key Module",
+        "Framework Desktop"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-26T01:33:05.000Z"
+    },
+    {
+      "title": "Razer’s new Blade 18 offers Nvidia RTX 50-series GPUs and a dual mode display",
+      "link": "https://www.theverge.com/news/619052/razer-blade-18-nvidia-rtx-5090-gaming-laptop-preorder-asus-msi",
+      "author": "Antonio G. Di Benedetto",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/asus-rog-2025-lineup.webp?quality=90&strip=all&crop=0,4.1218637992831,100,91.756272401434&w=2400",
+      "summary": "- Razer launches the new Blade 18 gaming laptop now available for preorder.\n- Features include Nvidia RTX 50-series GPUs and Intel Arrow Lake CPUs.\n- The 18-inch display offers dual modes: 3840 x 2400 at 240Hz or 1920 x 1200 at 440Hz.\n- Starting price is $3,199.99 for RTX 5070 Ti, up to $4,499.99 for RTX 5090.\n- Shipping expected by late-April for both Blade 18 and Blade 16.\n- Competing laptops with RTX 50-series GPUs are also being offered by ASUS, MSI, and HP.",
+      "keywords": [
+        "Razer",
+        "Blade 18",
+        "gaming laptop",
+        "Nvidia RTX 50-series",
+        "Intel Arrow Lake",
+        "dual mode display",
+        "preorder",
+        "Asus",
+        "MSI",
+        "HP"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-26T01:06:27.000Z"
+    },
+    {
       "title": "Samsung's first Pro series Gen 5 PCIe SSD arrives in March",
       "link": "https://www.theverge.com/news/619414/samsung-9100-pro-gen-5-pcie-ssd-specs-price-release-date",
       "author": "Quentyn Kennemer",
@@ -1989,52 +2036,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-02-25T03:18:46.000Z"
-    },
-    {
-      "title": "Nvidia admits some early RTX 5080 cards are missing ROPs, too",
-      "link": "https://www.theverge.com/news/618748/nvidia-admits-the-rtx-5080-is-affecte",
-      "author": "Sean Hollister",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196092/sean-nerf-profile-pic..0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Nvidia confirmed that early production builds of the RTX 5080 were affected by a manufacturing issue, missing some render units.\n- The affected models include RTX 5090, RTX 5090D, RTX 5070 Ti, and now RTX 5080.\n- Less than 0.5% of these GPUs are impacted, with a 4% average performance decrease but no impact on AI and Compute workloads.\n- Affected consumers can contact their board manufacturer for replacements.\n- The production anomaly has been corrected, and newer cards are not affected.\n- The issue was discovered by a Redditor who found their RTX 5080 missing ROPs, and the card will be sent for further investigation.",
-      "keywords": [
-        "Nvidia",
-        "RTX 5080",
-        "graphics cards",
-        "manufacturing issue",
-        "GPU",
-        "replacement",
-        "performance impact"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-02-25T03:18:46.000Z"
-    },
-    {
-      "title": "Handheld PC Gaming Revolution: Steam Deck and ROG Ally News",
-      "link": "https://www.theverge.com/22579493/valve-steam-deck-gaming-handheld-pc",
-      "author": "Verge Staff",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25849361/steambrick.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "- Valve's plans for Steam Machines are becoming clearer.\n- Asus ROG Ally X has been reviewed as the best Windows gaming handheld.\n- The Steam Deck has evolved into a more refined product ready for the market.\n- Lenovo's Legion Go S is introduced as a competitive handheld with SteamOS.\n- Discussion on the evolving landscape of handheld gaming with various new competitors.",
-      "keywords": [
-        "Steam Deck",
-        "ROG Ally",
-        "PC gaming",
-        "Lenovo Legion Go",
-        "handheld gaming",
-        "ASUS",
-        "Valve"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-25T02:07:35.000Z"
     }
   ]
 }

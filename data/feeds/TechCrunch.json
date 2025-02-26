@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Claude: Everything you need to know about Anthropic’s AI",
+      "link": "https://techcrunch.com/2025/02/25/claude-everything-you-need-to-know-about-anthropics-ai/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Anthropic's Claude models can perform various tasks like captioning, writing, and solving challenges.  \n- Latest models include Claude 3.5 Haiku, Claude 3.7 Sonnet, and Claude 3 Opus; with Sonnet being the flagship model optimized for reasoning.  \n- Pricing: Claude 3.5 Haiku ($0.80/million input tokens), Claude 3.7 Sonnet ($3/million input tokens), Claude 3 Opus ($15/million input tokens).  \n- Available through Anthropic's API and platforms like Amazon Bedrock and Google Cloud.  \n- Users can choose reasoning modes with Claude 3.7 Sonnet, enhancing its ability to analyze prompts.  \n- Risks of AI models include potential inaccuracies, hallucinations, and copyright concerns from training data.",
+      "keywords": [
+        "Claude",
+        "Anthropic",
+        "AI models",
+        "generative AI",
+        "AI capabilities",
+        "AI pricing",
+        "reasoning models"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-26T01:23:42.000Z"
+    },
+    {
       "title": "How much does ChatGPT cost? Everything you need to know about OpenAI’s pricing plans",
       "link": "https://techcrunch.com/2025/02/25/how-much-does-chatgpt-cost-everything-you-need-to-know-about-openais-pricing-plans/",
       "author": null,
@@ -1146,27 +1169,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-24T22:50:57.000Z"
-    },
-    {
-      "title": "Even Elon Musk forgets that X isn’t Twitter sometimes",
-      "link": "https://techcrunch.com/2025/02/24/even-elon-musk-forgets-that-x-isnt-twitter-sometimes/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198970101.jpg?w=1024",
-      "summary": "- Elon Musk occasionally refers to X as Twitter, despite the rebranding.\n- He recently posted about X adding features with fewer people compared to Twitter.\n- Musk's message was in response to comments about government efficiency and federal employee productivity listings.\n- This isn't the first instance of Musk using the name Twitter for X, indicating a potential habit.",
-      "keywords": [
-        "Elon Musk",
-        "X",
-        "Twitter",
-        "rebranding",
-        "social media"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 6,
-        "novelty": 4,
-        "longTermSignificance": 3
-      },
-      "pubDate": "2025-02-24T22:19:20.000Z"
     }
   ]
 }
