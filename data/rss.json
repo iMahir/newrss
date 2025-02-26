@@ -1,5 +1,169 @@
 [
   {
+    "title": "Microsoft's Majorana 1 Chip and GitHub Data Exposure Issues",
+    "id": "1w8imjv0r9w3ib",
+    "summary": "- Microsoft unveiled a new chip, the Majorana 1, claiming quantum computing is closer than previously thought, potentially just years away.\n- Quantum computing could revolutionize fields like medicine and chemistry, but poses risks to current cybersecurity systems.\n- The Majorana 1 chip is reported to have fewer errors compared to competitors, with a scientific paper to be published in *Nature* providing evidence.\n- Opinions vary in the tech industry regarding the timeline for practical quantum computing, with predictions ranging from 5 to 20 years.\n- Security researchers warn that briefly exposed data on GitHub may persist in generative AI tools like Microsoft Copilot.\n- Over 20,000 previously public GitHub repositories are still accessible via Copilot, affecting more than 16,000 organizations including Amazon, Google, IBM, and Microsoft.\n- Lasso, a cybersecurity firm, discovered that Copilot could retrieve sensitive information even from repositories set to private or deleted, prompting recommendations for affected organizations to revoke compromised data.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 8,
+      "impact": 9,
+      "novelty": 7,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "quantum computing",
+      "microsoft",
+      "majorana 1 chip",
+      "technology",
+      "cybersecurity",
+      "ai",
+      "github",
+      "security",
+      "data exposure",
+      "copilot"
+    ],
+    "sources": [
+      {
+        "title": "Quantum computing breakthrough? Microsoft says its new Majorana 1 chip shows we’re closer than ever",
+        "link": "https://www.fastcompany.com/91281747/quantum-computing-breakthrough-microsoft-says-its-new-majorana-1-chip-shows-were-closer-than-ever?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
+      },
+      {
+        "title": "Thousands of exposed GitHub repos, now private, can still be accessed through Copilot",
+        "link": "https://techcrunch.com/2025/02/26/thousands-of-exposed-github-repos-now-private-can-still-be-accessed-through-copilot/"
+      }
+    ],
+    "lastUpdated": "2025-02-26T10:14:11.685Z"
+  },
+  {
+    "title": "Netflix is building a global audience by empowering Arab creatives",
+    "id": "1nz5gz50ufz9e2",
+    "summary": "- The reality show *Dubai Bling* debuted in 2022, reaching viewers in 51 countries and over 18.6 million hours watched in its third season's first week.\n- *Dubai Bling* is available in English and Arabic, subtitled in 31 languages and dubbed in 5.\n- Last spring’s film *Honeymoonish* from Kuwait trended in the top 10 film list across 73 countries, achieving over 22 million views.\n- The Arab adaptation of *Love Is Blind*, titled *Love Is Blind Habibi*, premiered in October 2024 and reached the top 10 global non-English shows in 26 countries.\n- Netflix's platform has significantly expanded viewership opportunities for Arab filmmakers like *Dubai Bling* creator Mazen Laham.",
+    "thumbnails": [
+      "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024,h_1024/wp-cms-2/2025/02/p-1-91283777-netflix-arabic-content-dubai-bling_c19ee4.jpg"
+    ],
+    "scores": {
+      "scale": 8,
+      "impact": 9,
+      "novelty": 7,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "Netflix",
+      "Arab Creatives",
+      "Dubai Bling",
+      "Arabic Content",
+      "Global Audience",
+      "Reality Shows",
+      "Film"
+    ],
+    "sources": [
+      {
+        "title": "Netflix is building a global audience by empowering Arab creatives",
+        "link": "https://www.fastcompany.com/91283777/netflix-arabic-content-dubai-bling?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
+      }
+    ],
+    "lastUpdated": "2025-02-26T10:14:11.684Z"
+  },
+  {
+    "title": "Shein's Strategic Return to India Through Reliance Retail",
+    "id": "1wt0n521wm0kik",
+    "summary": "- Shein returned to India in January 2023 after being banned in 2020, now through a partnership with [Reliance Retail](https://www.techinasia.com/sheins-chance-india-relies-global-supply).\n- The Shein India app is hosted on local infrastructure and data is stored in compliance with Indian regulations.\n- Shein faces competition from major players like [Myntra](https://www.techinasia.com/shein-threads-carefully-indian-return) and Zudio, which dominate the online and offline fast-fashion markets, respectively.\n- The firm plans to also relocate parts of its supply chain into India to integrate more local manufacturing.",
+    "thumbnails": [
+      "https://cdn.techinasia.com/wp-content/uploads/2025/02/1740050953_shutterstock_2299613797.png",
+      "https://cdn.techinasia.com/wp-content/uploads/2023/05/1684478990_Newsletter-GIF-Piecing-the-mirror-back-together-1200x640-1200x640-1.gif"
+    ],
+    "scores": {
+      "scale": 8,
+      "impact": 7.5,
+      "novelty": 6,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "shein",
+      "india",
+      "fashion",
+      "reliance retail",
+      "myntra",
+      "retail",
+      "resurgence",
+      "fast fashion",
+      "e-commerce",
+      "data security",
+      "supply chain",
+      "market competition"
+    ],
+    "sources": [
+      {
+        "title": "Once bitten, twice try: Shein’s India return signals a major turn",
+        "link": "https://www.techinasia.com/sheins-chance-india-relies-global-supply"
+      },
+      {
+        "title": "Shein threads carefully in Indian return",
+        "link": "https://www.techinasia.com/shein-threads-carefully-indian-return"
+      }
+    ],
+    "lastUpdated": "2025-02-26T10:14:11.683Z"
+  },
+  {
+    "title": "Apple to fix iPhone dictation bug that replaces word ‘racist’ with ‘Trump’",
+    "id": "1bmfy4j0wzmk7p",
+    "summary": "- Apple is addressing a bug in its iPhone dictation tool that substitutes the word 'racist' with 'Trump'.\n- The issue was highlighted in a viral TikTok video showing the error occurring during dictation.\n- Apple acknowledged the problem and is rolling out a fix, attributing it to phonetic overlap in speech recognition.\n- The glitch sparked outrage among conservative commentators who accused big tech of political bias.\n- This incident occurred shortly after Apple announced a $500bn investment in the US, which includes AI development and job creation.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 6,
+      "novelty": 5,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "Apple",
+      "iPhone",
+      "dictation bug",
+      "racist",
+      "Trump",
+      "speech recognition",
+      "political bias",
+      "artificial intelligence",
+      "investment"
+    ],
+    "sources": [
+      {
+        "title": "Apple to fix iPhone dictation bug that replaces word ‘racist’ with ‘Trump’",
+        "link": "https://www.theguardian.com/technology/2025/feb/26/apple-to-fix-iphone-dictation-bug-trump"
+      }
+    ],
+    "lastUpdated": "2025-02-26T10:14:11.682Z"
+  },
+  {
+    "title": "UK universities warned to ‘stress-test’ assessments as 92% of students use AI",
+    "id": "11phvrw0zyho75",
+    "summary": "- Research shows 92% of students now use generative AI for studies, a significant increase from 66% last year.\n- 88% of students reported utilizing tools like ChatGPT for assessments, up from 53% in 2024.\n- Report urges universities to review assessments to mitigate AI usage and emphasizes the need for staff retraining on generative AI.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 8,
+      "impact": 9,
+      "novelty": 7,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "UK universities",
+      "generative AI",
+      "student assessments",
+      "academic integrity",
+      "education technology",
+      "AI tools",
+      "ChatGPT",
+      "Higher Education Policy Institute"
+    ],
+    "sources": [
+      {
+        "title": "UK universities warned to ‘stress-test’ assessments as 92% of students use AI",
+        "link": "https://www.theguardian.com/education/2025/feb/26/uk-universities-warned-to-stress-test-assessments-as-92-of-students-use-ai"
+      }
+    ],
+    "lastUpdated": "2025-02-26T10:14:11.680Z"
+  },
+  {
     "title": "Overview of TechCrunch Startup Battlefield 200 and Active Investors in Israel",
     "id": "0tv5o3d1j2tiy2",
     "summary": "- TechCrunch's Startup Battlefield 200 is set for October 27-29, 2025, in San Francisco.\n- Startups can join a waitlist for priority access to present to VCs.\n- Competition winners will receive $100,000 in equity-free funding and networking opportunities.\n- Early applications are encouraged for the competition currently open.\n- Last year, the event had a high applicant turnout.\n- Notable past participants include Trello, Mint, and Discord.\n- Eligible startups must possess an MVP and a transformative vision.\n\n- The article highlights the most active investors in Israel's startups within the last year.\n- The list identifies firms that invested in three or more Israeli companies in the past 12 months.\n- Data is continuously updated to reflect the firm's impact and early-stage deal numbers.\n- Readers can contact the source for more details or corrections.",
@@ -15629,36 +15793,6 @@
     "lastUpdated": "2025-02-21T02:14:02.170Z"
   },
   {
-    "title": "Once bitten, twice try: Shein’s India return signals a major turn",
-    "id": "1wt0n521wm0kik",
-    "summary": "- Shein returned to India in January 2023 after being banned in 2020, now through a partnership with Reliance Retail.\n- The Shein India app is hosted on local infrastructure and data is stored in compliance with Indian regulations.\n- Shein faces competition from major players like Myntra and Zudio, which dominate the online and offline fast-fashion markets, respectively.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/02/1740050953_shutterstock_2299613797.png"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 7,
-      "novelty": 6,
-      "longTermSignificance": 5
-    },
-    "keywords": [
-      "Shein",
-      "India",
-      "fashion",
-      "Reliance Retail",
-      "Myntra",
-      "retail",
-      "resurgence"
-    ],
-    "sources": [
-      {
-        "title": "Once bitten, twice try: Shein’s India return signals a major turn",
-        "link": "https://www.techinasia.com/sheins-chance-india-relies-global-supply"
-      }
-    ],
-    "lastUpdated": "2025-02-21T02:14:02.169Z"
-  },
-  {
     "title": "IQiyi launches $300m convertible bond",
     "id": "18tjbrj07banxx",
     "summary": "- Chinese video streaming platform iQiyi launches a US$300 million convertible bond offering.\n- The five-year unsecured senior notes have an annual coupon rate between 4.25% and 4.75%, payable quarterly.\n- Proceeds will be used to manage existing debt and cover general corporate expenses.\n- Bank of America, Morgan Stanley, and JPMorgan are joint bookrunners for the transaction.",
@@ -17721,33 +17855,6 @@
       {
         "title": "Valar Atomics comes out of stealth with $19M and a pilot reactor site",
         "link": "https://techcrunch.com/2025/02/20/valar-atomics-comes-out-of-stealth-with-19m-and-a-pilot-reactor-site/"
-      }
-    ],
-    "lastUpdated": "2025-02-20T12:21:14.125Z"
-  },
-  {
-    "title": "Quantum computing breakthrough? Microsoft says its new Majorana 1 chip shows we’re closer than ever",
-    "id": "1w8imjv0r9w3ib",
-    "summary": "- Microsoft unveiled a new chip, the Majorana 1, claiming quantum computing is closer than previously thought, potentially just years away.\n- Quantum computing could revolutionize fields like medicine and chemistry, but poses risks to current cybersecurity systems.\n- The Majorana 1 chip is reported to have fewer errors compared to competitors, with a scientific paper to be published in *Nature* providing evidence.\n- Opinions vary in the tech industry regarding the timeline for practical quantum computing, with predictions ranging from 5 to 20 years.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 8,
-      "impact": 9,
-      "novelty": 7,
-      "longTermSignificance": 8
-    },
-    "keywords": [
-      "quantum computing",
-      "Microsoft",
-      "Majorana 1 chip",
-      "technology",
-      "cybersecurity",
-      "AI"
-    ],
-    "sources": [
-      {
-        "title": "Quantum computing breakthrough? Microsoft says its new Majorana 1 chip shows we’re closer than ever",
-        "link": "https://www.fastcompany.com/91281747/quantum-computing-breakthrough-microsoft-says-its-new-majorana-1-chip-shows-were-closer-than-ever?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
       }
     ],
     "lastUpdated": "2025-02-20T12:21:14.125Z"
@@ -39165,211 +39272,5 @@
       }
     ],
     "lastUpdated": "2025-02-12T11:09:58.187Z"
-  },
-  {
-    "title": "AI drives Shell’s energy transformation",
-    "id": "034hk3z0s24i34",
-    "summary": "- Shell's first global energy outlook released in two years highlights AI's potential impact on energy by 2050.\n- Oil demand expected to rise by 3-5 million barrels per day until the 2030s, natural gas demand projected to grow until the 2040s.\n- Three AI-driven energy scenarios outlined by Shell exceed the 1.5°C Paris Agreement limit but show progress in decarbonization and carbon removal.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/02/1739349982_content_2022-09-14_09-48-41.png"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "Shell",
-      "AI",
-      "energy transformation",
-      "carbon reduction",
-      "energy demand",
-      "2050"
-    ],
-    "sources": [
-      {
-        "title": "AI drives Shell’s energy transformation",
-        "link": "https://www.techinasia.com/news/ai-drives-shells-energy-transformation"
-      }
-    ],
-    "lastUpdated": "2025-02-12T10:11:55.209Z"
-  },
-  {
-    "title": "SoftBank reports $2.4b loss in Q3 + How SoftBank’s Masayoshi Son plans to win the AI wars",
-    "id": "0krxu530sssttl",
-    "summary": "- Masayoshi Son announced a joint venture with OpenAI and Oracle on January 22 to invest billions in AI infrastructure in the U.S. called Stargate.\n- SoftBank is close to finalizing a $40 billion investment in OpenAI, valuing it at $260 billion.\n- After struggling with previous investments like WeWork, SoftBank turned around in 2023 with a successful IPO of Arm, boosting Son's status in Silicon Valley.\n- SoftBank reported a net loss of 369 billion yen (US$2.4 billion) for Q3 2023, contrasting with a profit of 950 billion yen (US$6.2 million) during the same period last year.\n- The loss was largely attributed to a 309 billion yen (US$2 billion) deficit in the Vision Fund, influenced by decreasing valuations of public holdings such as Coupang and Didi.\n- SoftBank is pursuing a US$500 billion AI initiative named Stargate in collaboration with OpenAI, aiming to strengthen AI infrastructure despite the volatility of the Vision Fund.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/01/1738146465_shutterstock_1788782441-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 8.5,
-      "novelty": 6.5,
-      "longTermSignificance": 8
-    },
-    "keywords": [
-      "softbank",
-      "masayoshi son",
-      "ai",
-      "openai",
-      "oracle",
-      "investment",
-      "stargate",
-      "arm",
-      "silicon valley",
-      "financial report",
-      "q3 loss",
-      "vision fund",
-      "ai initiative"
-    ],
-    "sources": [
-      {
-        "title": "How SoftBank’s Masayoshi Son plans to win the AI wars",
-        "link": "https://www.fastcompany.com/91274992/how-softbanks-masayoshi-son-plans-to-win-the-ai-war?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
-      },
-      {
-        "title": "SoftBank reports $2.4b loss in Q3",
-        "link": "https://www.techinasia.com/news/softbanks-reports-2-4b-loss-q3"
-      }
-    ],
-    "lastUpdated": "2025-02-12T10:11:55.208Z"
-  },
-  {
-    "title": "Temasek's Investment Strategy Under Scrutiny After eFishery Fraud Allegations",
-    "id": "13t5xwc12g7alw",
-    "summary": "- eFishery allegedly inflated its revenue by nearly US$600 million from January to September 2024.\n- The startup has notable investors including SoftBank and Temasek Holdings.\n- The investigation into eFishery's financial impropriety is ongoing and has raised questions about due diligence by investors.\n- State-linked investors like Temasek have limited early-stage investment exposure to 6% of their total portfolio, minimizing their potential losses.\n- Temasek and other state-linked funds are under scrutiny after eFishery fraud allegations.\n- Due diligence emphasized for state-linked investors due to public money involvement.\n- History of failed investments raises questions about the responsibility of such funds.\n- A fund-of-funds strategy is suggested as a safer investment approach for state-linked investors.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2024/01/1704680174_fi-efishery-takes-on-global-aquaculture-in-a-balancing-act.png",
-      "https://cdn.techinasia.com/wp-content/uploads/2022/11/1668402657_On-the-Rise-GIF-Map-of-Temaseks-influence-in-the-tech-scene-1200x640-1.gif"
-    ],
-    "scores": {
-      "scale": 6,
-      "impact": 7.5,
-      "novelty": 5.5,
-      "longTermSignificance": 6.5
-    },
-    "keywords": [
-      "efishery",
-      "startup",
-      "investors",
-      "temasek",
-      "due diligence",
-      "financial impropriety",
-      "indonesia",
-      "venture capital",
-      "startup investments",
-      "state-linked funds",
-      "southeast asia",
-      "zeta"
-    ],
-    "sources": [
-      {
-        "title": "Should Temasek cast net in startup waters after eFishery fiasco?",
-        "link": "https://www.techinasia.com/efishery-fiasco-state-investors-direct-risks"
-      },
-      {
-        "title": "Should Temasek reel in startup bets?",
-        "link": "https://www.techinasia.com/temasek-reel-startup-bets"
-      }
-    ],
-    "lastUpdated": "2025-02-12T10:11:55.208Z"
-  },
-  {
-    "title": "When it comes to AI, innovation isn’t enough + World leaders and tech bosses focus on innovation Paris AI summit – video highlights",
-    "id": "0blrl6919nza14",
-    "summary": "- Collaboration and opportunity were emphasized in the discussions at the summit.\n- JD Vance encouraged European leaders to adopt an optimistic view of [AI technology](https://pollinations.ai/referral?topic=ai). \n- The US and UK declined to sign a declaration on inclusive and sustainable AI, facing criticism from campaign groups regarding the UK's reputation in this area.\n- The AI landscape is changing rapidly with significant investments like America’s $500 billion Stargate Project and the emergence of [China's DeepSeek](https://pollinations.ai/referral?topic=deepseek).\n- DeepSeek risks introducing significant cybersecurity threats, raising the need for robust AI regulation in the U.S.\n- The U.S. must balance enhancing AI capabilities with creating comprehensive regulations to protect digital assets and national security.\n- New technologies, including AI, can increase risks of social unrest and potential violence, especially in the wake of job automation.\n- Current regulatory approaches need to be rigorous and adaptable, paralleling frameworks used in nuclear regulatory contexts rather than pharmaceutical models.\n- The urgency of establishing these frameworks is amplified by private-sector investments that could outpace regulation, risking safety and ethical deployment of AI technologies.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 7.5,
-      "novelty": 6,
-      "longTermSignificance": 7.5
-    },
-    "keywords": [
-      "ai",
-      "summit",
-      "technology",
-      "collaboration",
-      "international relations",
-      "us",
-      "uk",
-      "france",
-      "innovation",
-      "regulation",
-      "national security",
-      "cybersecurity",
-      "deepseek",
-      "stargate project"
-    ],
-    "sources": [
-      {
-        "title": "World leaders and tech bosses focus on innovation Paris AI summit – video highlights",
-        "link": "https://www.theguardian.com/technology/video/2025/feb/11/world-leaders-and-tech-bosses-focus-on-innovation-paris-ai-summit-video-highlights"
-      },
-      {
-        "title": "When it comes to AI, innovation isn’t enough",
-        "link": "https://www.fastcompany.com/91276682/when-it-comes-to-ai-innovation-isnt-enough?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
-      }
-    ],
-    "lastUpdated": "2025-02-12T10:11:55.207Z"
-  },
-  {
-    "title": "Ant International opens first Middle East office in Saudi",
-    "id": "0tgwb1t0fc6zzs",
-    "summary": "- Ant International, a digital payment provider, opens its first Middle East office in Saudi Arabia.\n- The office aims to enhance collaboration with local payment partners, focusing on small and medium-sized enterprises.\n- The company plans to launch its payment solution, Antom, later this year, facilitating payments in over 100 currencies.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/02/1739351142_shutterstock_2548784919-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 6,
-      "impact": 7,
-      "novelty": 5,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "Ant International",
-      "digital payment",
-      "financial technology",
-      "Middle East",
-      "Saudi Arabia",
-      "Antom",
-      "e-commerce",
-      "payment solutions"
-    ],
-    "sources": [
-      {
-        "title": "Ant International opens first Middle East office in Saudi",
-        "link": "https://www.techinasia.com/news/ant-international-opens-middle-east-office-saudi"
-      }
-    ],
-    "lastUpdated": "2025-02-12T10:11:55.207Z"
-  },
-  {
-    "title": "Why OpenAI CEO Sam Altman wants investors to steer clear of ChatGPT’s competitor",
-    "id": "10sq47r1mg3ewc",
-    "summary": "- OpenAI CEO Sam Altman has issued a warning to investors about a competitor to ChatGPT.\n- Glean CEO Arvind Jain responded to Altman's caution.\n- The article discusses the implications of this rivalry in the AI space and Altman's perspective on investment strategies.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "OpenAI",
-      "Sam Altman",
-      "investors",
-      "ChatGPT",
-      "AI competition",
-      "Glean"
-    ],
-    "sources": [
-      {
-        "title": "Why OpenAI CEO Sam Altman wants investors to steer clear of ChatGPT’s competitor",
-        "link": "https://www.fastcompany.com/91277137/why-openai-ceo-sam-altman-wants-investors-to-steer-clear-of-chatgpts-competitor?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
-      }
-    ],
-    "lastUpdated": "2025-02-12T10:11:55.206Z"
   }
 ]

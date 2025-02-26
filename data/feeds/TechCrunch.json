@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Thousands of exposed GitHub repos, now private, can still be accessed through Copilot",
+      "link": "https://techcrunch.com/2025/02/26/thousands-of-exposed-github-repos-now-private-can-still-be-accessed-through-copilot/",
+      "author": "Carly Page",
+      "thumbnail": null,
+      "summary": "- Security researchers warn that briefly exposed data on GitHub may persist in generative AI tools like Microsoft Copilot.\n- Over 20,000 previously public GitHub repositories are still accessible via Copilot, affecting more than 16,000 organizations including Amazon, Google, IBM, and Microsoft.\n- Lasso, a cybersecurity firm, discovered that Copilot could retrieve sensitive information even from repositories set to private or deleted, prompting recommendations for affected organizations to revoke compromised data.",
+      "keywords": [
+        "GitHub",
+        "security",
+        "data exposure",
+        "Microsoft",
+        "Copilot",
+        "cybersecurity",
+        "AI"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-26T10:02:14.000Z"
+    },
+    {
       "title": "ElevenLabs now lets authors create and publish audiobooks on its own platform",
       "link": "https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/",
       "author": "Ivan Mehta",
@@ -1149,30 +1172,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-25T00:01:00.000Z"
-    },
-    {
-      "title": "Web Summit attendees aren’t buying Scale AI CEO’s push for America ‘to win the AI war’",
-      "link": "https://techcrunch.com/2025/02/24/web-summit-attendees-arent-buying-scale-ai-ceos-push-for-america-to-win-the-ai-war/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Scale AI CEO Alexandr Wang took out a full-page ad in The Washington Post urging Trump that ‘America must win the AI war.’\n- During his Web Summit Qatar appearance, only two attendees agreed with Wang’s statement, while many disagreed.\n- Wang views the competition in AI as a race between the U.S. and China, expressing concerns over China potentially surpassing Western military capabilities with AI.\n- He advocates for U.S. models that support free speech compared to Chinese AI models influenced by government censorship.\n- Scale AI recently announced a partnership with the Qatar government to develop AI-powered applications in various sectors.\n- The discussion highlighted the mixed feelings among attendees regarding the U.S. being perceived as an AI superpower.",
-      "keywords": [
-        "AI",
-        "Scale AI",
-        "Alexandr Wang",
-        "Web Summit",
-        "Qatar",
-        "national security",
-        "China",
-        "U.S."
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-24T23:53:30.000Z"
     }
   ]
 }
