@@ -4,6 +4,53 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "How to hide faces and scrub metadata when you photograph a protest",
+      "link": "https://www.theverge.com/21281897/how-to-hide-faces-scrub-metadata-photograph-video-protest",
+      "author": "William Joel",
+      "thumbnail": null,
+      "summary": "• People may want to obscure faces during protests to protect identities from the authorities.\n• Use irreversible methods to remove faces, like painting over or using mosaic blur techniques.\n• Remove all metadata from images to prevent tracking through GPS or timestamps.\n• Use built-in photo editors on iOS and Android to cover faces.\n• Taking screenshots of images can be a simple way to avoid metadata.\n• Encrypted messaging apps like Signal offer face-blurring tools.",
+      "keywords": [
+        "protest photography",
+        "metadata",
+        "privacy",
+        "face blurring",
+        "image editing",
+        "digital security"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-26T15:49:34.000Z"
+    },
+    {
+      "title": "Amazon announces AI-powered Alexa Plus",
+      "link": "https://www.theverge.com/news/619755/amazon-alexa-ai-upgrade-artificial-intelligence-smart-assistant",
+      "author": "Wes Davis",
+      "thumbnail": null,
+      "summary": "- Amazon is launching the generative AI version of Alexa, called Alexa Plus.\n- New features include ordering groceries, sending event invites, and memorizing personal preferences.\n- Alexa Plus can hold conversations, analyze images, and perform tasks like booking dinner reservations and creating itineraries.\n- It will integrate with smart home devices and have enhanced music finding capabilities.\n- Alexa Plus uses a model-agnostic system, choosing the best AI model for each task.\n- The service can draw on data from partners like The Associated Press and Politico to provide information on topics like sports and finance.\n- Initially announced in September 2023, Alexa Plus aims to compete against other AI assistants like Google Gemini and Apple's Siri.",
+      "keywords": [
+        "Amazon",
+        "Alexa Plus",
+        "AI",
+        "smart home",
+        "digital assistant",
+        "generative AI",
+        "Panos Panay",
+        "smart speakers",
+        "tech news"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-26T15:25:30.000Z"
+    },
+    {
       "title": "Lucid’s CEO steps down, as EV maker aims to double production",
       "link": "https://www.theverge.com/news/619760/lucid-ceo-step-down-double-production",
       "author": "Andrew J. Hawkins",
@@ -1993,52 +2040,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-02-25T14:54:23.000Z"
-    },
-    {
-      "title": "Silent Hill 2 developer is working with Konami on a mystery game",
-      "link": "https://www.theverge.com/news/618910/bloober-team-konami-new-game-silent-hill-2",
-      "author": "Ash Parrish",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195117/1.0.jpg?quality=90&amp;strip=all&amp;crop=0%2C10%2C100%2C80&amp;w=96",
-      "summary": "- Bloober Team is continuing its partnership with Konami on a new project.\n- The new game will be based on Konami's IP but the specific title is not disclosed.\n- Bloober Team previously collaborated with Konami on the remake of Silent Hill 2, which received rave reviews and was a commercial success.\n- Konami is also developing a non-remake Silent Hill game called Silent Hill F, and a movie adaptation of Silent Hill 2 is in production.",
-      "keywords": [
-        "Bloober Team",
-        "Konami",
-        "Silent Hill 2",
-        "video games",
-        "game development",
-        "remake",
-        "Silent Hill F"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-25T14:27:17.000Z"
-    },
-    {
-      "title": "We can’t quit electric cars — or robotaxis",
-      "link": "https://www.theverge.com/the-vergecast/618904/electric-cars-robotaxis-activitypub-fediverse-vergecast",
-      "author": "David Pierce",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195807/DAVID_PIERCE.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- The article discusses the initial excitement around electric vehicles (EVs) and robotaxis that has since waned.\n- Experts analyze why EVs continue facing opposition and why automakers are reluctant to abandon them.\n- The resurgence of interest in robotaxis as Uber and Lyft revive their plans for automated ride-sharing.\n- The episode also covers developments in the fediverse and the rise of platforms like Bluesky and Threads.\n- Insights from Evan Prodromou about the ActivityPub protocol and its potential impact on social platforms.",
-      "keywords": [
-        "electric vehicles",
-        "robotaxis",
-        "EV revolution",
-        "Autonomous vehicles",
-        "ActivityPub",
-        "fediverse",
-        "social media"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-25T14:24:23.000Z"
     }
   ]
 }
