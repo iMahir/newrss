@@ -4,6 +4,75 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "ElevenLabs is launching its own speech-to-text model",
+      "link": "https://techcrunch.com/2025/02/26/elevenlabs-is-launching-its-own-speech-to-text-model/",
+      "author": "Ivan Mehta",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/asr-bento.jpeg?w=680",
+      "summary": "- ElevenLabs launches its first standalone speech-to-text model called Scribe.\n- The model supports over 99 languages, with over 25 offering excellent accuracy (less than 5% word error rate).\n- It claims to outperform Google Gemini 2.0 Flash and Whisper Large V3 in benchmark tests.\n- Pricing is set at $0.40 per hour of transcribed audio, competitive among rivals.\n- Scribe currently works only with pre-recorded audio; a real-time version will be released soon.\n- Features include speaker diarization, word-level timestamps, and auto-tagging of sounds.\n- The company aims to improve speech detection beyond existing solutions.",
+      "keywords": [
+        "speech-to-text",
+        "AI",
+        "ElevenLabs",
+        "Scribe",
+        "voice recognition",
+        "technology",
+        "audio transcription",
+        "language support"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-26T18:00:00.000Z"
+    },
+    {
+      "title": "Pixel Watch 3 is getting ‘Loss of Pulse Detection’ in the US in March",
+      "link": "https://techcrunch.com/2025/02/26/pixel-watch-3-is-getting-loss-of-pulse-detection-in-the-us-in-march/",
+      "author": "Aisha Malik",
+      "thumbnail": null,
+      "summary": "- Google has received FDA clearance for the Pixel Watch 3’s Loss of Pulse Detection feature, launching in the U.S. by the end of March.\n- The feature detects when a user's heart stops beating due to various emergencies and can automatically call for help if the user is unresponsive.\n- Loss of Pulse Detection was first launched in the EU in September 2024, now available in 14 countries.\n- The feature utilizes AI-driven algorithms, combining pulse check with physiological and motion data.\n- Google warns that it may not detect every loss of pulse and is not a substitute for medical care or monitoring.",
+      "keywords": [
+        "Pixel Watch 3",
+        "Loss of Pulse Detection",
+        "FDA clearance",
+        "emergency response",
+        "health technology"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-26T17:13:23.000Z"
+    },
+    {
+      "title": "Hinge launches a new feature for daters to privately share details with matches",
+      "link": "https://techcrunch.com/2025/02/26/hinge-launches-a-new-feature-for-daters-to-privately-share-details-with-matches/",
+      "author": "Lauren Forristal",
+      "thumbnail": null,
+      "summary": "- Hinge launched a new feature called “Match Note” that allows users to privately share information with matches.\n- The note is visible to new matches but can be read only once, requiring acknowledgment to begin conversation.\n- Designed to support underrepresented groups like LGBTQIA+ and neurodivergent users, allowing them to share sensitive information discreetly.",
+      "keywords": [
+        "Hinge",
+        "dating app",
+        "Match Note",
+        "LGBTQIA+",
+        "neurodivergent",
+        "privacy",
+        "features",
+        "dating"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-26T17:13:10.000Z"
+    },
+    {
       "title": "Alexa+ can read, summarize and recall lengthy documents",
       "link": "https://techcrunch.com/2025/02/26/alexa-can-read-summarize-and-recall-lengthy-documents/",
       "author": "Lauren Forristal",
@@ -26,6 +95,28 @@
       "pubDate": "2025-02-26T16:31:44.000Z"
     },
     {
+      "title": "Amazon Alexa+ can do your grocery shopping, too",
+      "link": "https://techcrunch.com/2025/02/26/amazon-alexa-can-do-your-grocery-shopping-too/",
+      "author": "Sarah Perez",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/alexa-grocery.png?w=680",
+      "summary": "- Amazon launches Alexa+, a revamped version of its virtual shopping assistant for grocery shopping.\n- The new feature allows users to shop through natural language conversations.\n- Works with Amazon Fresh and other grocery partners, including food delivery from Uber Eats.\n- Alexa can help build shopping lists and adjust quantities dynamically based on user requests.\n- The upgraded Alexa+ will be available in March for $19.99 a month, free for Prime members.",
+      "keywords": [
+        "Amazon",
+        "Alexa+",
+        "grocery shopping",
+        "virtual assistant",
+        "technology",
+        "e-commerce"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-26T16:29:58.000Z"
+    },
+    {
       "title": "Alexa+ can do your grocery shopping, too",
       "link": "https://techcrunch.com/2025/02/26/alexa-can-do-your-grocery-shopping-too/",
       "author": "Sarah Perez",
@@ -46,6 +137,29 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-02-26T16:29:58.000Z"
+    },
+    {
+      "title": "Amazon Alexa+ costs $19.99, free for Prime members",
+      "link": "https://techcrunch.com/2025/02/26/amazon-alexa-costs-19-99-free-for-prime-members/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Amazon’s new Alexa+ launches at $19.99, free for Prime members.\n- Early access begins next month in the U.S., with wider rollout in subsequent months.\n- Compatible devices include Echo Show 8, 10, 15, and 21; other devices' support is unclear.\n- Introduction of Alexa.com for long-form work and a refreshed mobile app.\n- Pricing competitive with other AI chatbots like ChatGPT and Google’s Gemini Advanced.\n- Initial expectations were for a price between $5 to $10.",
+      "keywords": [
+        "Amazon",
+        "Alexa+",
+        "Prime members",
+        "generative AI",
+        "Echo Show",
+        "Alexa.com",
+        "AI chatbots"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-26T16:17:35.000Z"
     },
     {
       "title": "Alexa+ costs $19.99, free for Amazon Prime members",
@@ -184,6 +298,30 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-26T16:00:00.000Z"
+    },
+    {
+      "title": "Amazon Alexa+ can work with Prime Video and Fire TV to ‘jump to a scene’ in a movie",
+      "link": "https://techcrunch.com/2025/02/26/amazon-alexa-can-work-with-prime-video-and-fire-tv-to-jump-to-a-scene-in-a-movie/",
+      "author": "Sarah Perez",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/alexa-fire-tv.png?w=680",
+      "summary": "- Amazon introduces Alexa+ with new features for Prime Video and Fire TV.\n- Users can ask Alexa+ to jump to specific scenes in movies by referencing characters or quotes.\n- Alexa+ can identify songs from TV show credits even without knowing the title or artist.\n- Additional upgrades include smart home device management and voice-controlled routine automation.",
+      "keywords": [
+        "Amazon",
+        "Alexa",
+        "Prime Video",
+        "Fire TV",
+        "smart assistant",
+        "technology",
+        "streaming",
+        "features"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-26T15:59:10.000Z"
     },
     {
       "title": "Alexa+ can work with Prime Video and Fire TV to ‘jump to a scene’ in a movie",
@@ -1005,147 +1143,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-25T18:34:46.000Z"
-    },
-    {
-      "title": "Brex eyes $500M in revenue as it adds the likes of Anthropic and Robinhood as customers",
-      "link": "https://techcrunch.com/2025/02/25/brex-eyes-500m-in-revenue-as-it-adds-the-likes-of-anthropic-and-robinhood-as-customers/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2022/04/Founders-01.22.jpg?w=1024",
-      "summary": "- Brex expects annual net revenue to reach $500 million in 2025.\n- The company reports 3x overall revenue growth year-over-year.\n- Brex's enterprise business has grown by 80% year-over-year.\n- The customer base includes over 150 public companies such as Anthropic, Arm, and Robinhood.\n- CEO Pedro Franceschi anticipates cash-flow positivity in 2025 and a potential IPO afterwards.\n- Brex has raised over $1.5 billion and was valued at over $12.3 billion at its peak in 2022.",
-      "keywords": [
-        "Brex",
-        "revenue",
-        "fintech",
-        "IPO",
-        "customers",
-        "growth",
-        "valuation",
-        "enterprise business"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-25T18:08:15.000Z"
-    },
-    {
-      "title": "Is this 32-year-old a brilliant founder, or a deceptive fraudster?",
-      "link": "https://techcrunch.com/2025/02/25/is-this-32-year-old-a-brilliant-founder-or-a-deceptive-fraudster/",
-      "author": "Mary Ann Azevedo",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2021/09/Varo.jpg?w=680",
-      "summary": "- The criminal trial against fintech founder Charlie Javice began on February 21.\n- JPMorgan Chase alleges she faked millions of customers to sell her company, Frank, for $175 million.\n- Javice claims JPMorgan had 'buyer’s remorse' over regulatory changes affecting financial aid forms.",
-      "keywords": [
-        "fintech",
-        "trial",
-        "Charlie Javice",
-        "JPMorgan Chase",
-        "fraud"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-25T18:05:00.000Z"
-    },
-    {
-      "title": "Opera integrates Bluesky, Slack, and Discord into its browser",
-      "link": "https://techcrunch.com/2025/02/25/opera-integrates-bluesky-slack-and-discord-into-its-browser/",
-      "author": "Sarah Perez",
-      "thumbnail": null,
-      "summary": "- Opera announced the integration of Bluesky, Slack, and Discord into its browser sidebar.\n- This addition aims to enhance user experience by reducing clutter from open tabs.\n- The decision was made based on user feedback, and Bluesky is notable for being a newer social network with over 32 million users.\n- Opera One, launched in 2023, includes features for organizing tabs and modular video/music players.",
-      "keywords": [
-        "Opera",
-        "Bluesky",
-        "Slack",
-        "Discord",
-        "browser integration",
-        "user feedback",
-        "social networks"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-25T17:50:07.000Z"
-    },
-    {
-      "title": "Sweden’s Lovable, an app-building AI platform, rakes in $15M after spectacular growth",
-      "link": "https://techcrunch.com/2025/02/25/swedens-lovable-an-app-building-ai-platform-rakes-in-16m-after-spectacular-growth/",
-      "author": "Mike Butcher",
-      "thumbnail": null,
-      "summary": "- Lovable, a Swedish AI startup, raised $15 million in a pre-Series A round led by Creandum.\n- It allows users to create apps easily without coding skills, claiming 500,000 users and over 25,000 new products daily.\n- The platform reached $17 million in annual recurring revenue with 30,000 paying customers, showing rapid growth for a European startup.\n- Founder Anton Osika emphasized Lovable's user-friendly approach compared to other AI coding platforms, combining technologies from OpenAI and Google.\n- The company plans to integrate more third-party services and has drawn comparisons to the user satisfaction seen with Spotify.",
-      "keywords": [
-        "AI",
-        "app-building",
-        "startup",
-        "funding",
-        "Lovable",
-        "generative AI",
-        "software development",
-        "Europe",
-        "TechCrunch"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-25T17:45:35.000Z"
-    },
-    {
-      "title": "What to expect from Amazon’s Alexa event on Wednesday",
-      "link": "https://techcrunch.com/2025/02/25/what-to-expect-from-amazons-alexa-event-on-wednesday/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- Amazon is hosting an Alexa-focused event in NYC on Wednesday, the first major device presser in nearly two years.\n- The event starts at 10 a.m. Eastern, hosted by Panos Panay, Amazon’s new devices chief.\n- Amazon may introduce a new subscription for an upgraded Alexa, code-named Remarkable Alexa, priced between $5 and $10 a month.\n- The upgraded Alexa aims for more natural interactions, allowing multiple requests in one command and autonomous actions.\n- Amazon has struggled with Alexa's profitability, prompting a push for monetized subscriptions and services.\n- Compatibility with existing devices and enhanced smart home capabilities are expected with the new Alexa.\n- The launch has been delayed due to testing issues, possibly until the end of March.",
-      "keywords": [
-        "Amazon",
-        "Alexa",
-        "event",
-        "AI",
-        "generative AI",
-        "smart home",
-        "subscription",
-        "Panos Panay",
-        "Remarkable Alexa"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-25T17:41:54.000Z"
-    },
-    {
-      "title": "DocUnlock wants to solve a customs bottleneck",
-      "link": "https://techcrunch.com/2025/02/25/docunlock-wants-to-solve-a-customs-bottleneck/",
-      "author": "Becca Szkutak",
-      "thumbnail": null,
-      "summary": "- DocUnlock aims to automate the tedious customs paperwork process for importers in the U.S.\n- The platform integrates into customs brokers' email systems to streamline documentation, using AI to manage unstructured data.\n- Founded in 2023, DocUnlock has a 100% retention rate and raised $3 million in pre-seed funding from various investors.",
-      "keywords": [
-        "DocUnlock",
-        "customs",
-        "automation",
-        "importers",
-        "AI",
-        "startups",
-        "venture capital"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-25T17:40:59.000Z"
     }
   ]
 }
