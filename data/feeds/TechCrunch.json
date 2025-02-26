@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Hacked crypto exchange Bybit offers $140 million bounty to trace stolen funds",
+      "link": "https://techcrunch.com/2025/02/26/hacked-crypto-exchange-bybit-offers-140-million-bounty-to-trace-stolen-funds/",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "thumbnail": null,
+      "summary": "- Hackers stole around $1.4 billion in Ethereum from Bybit, the largest crypto heist in history.\n- Bybit is offering $140 million in bounties for tracing and freezing the stolen funds.\n- CEO Ben Zhou announced the bounty on X, with rewards of 5% for those who trace and 5% for the entity that freezes the funds.\n- $4.23 million has already been awarded to bounty hunters.\n- The cybersecurity group Lazarus, linked to North Korea, is suspected to be behind the hack.\n- Security firms reported that a developer's device at SafeWallet was breached, leading to the hack.",
+      "keywords": [
+        "Bybit",
+        "crypto",
+        "hack",
+        "bounty",
+        "Ethereum",
+        "Lazarus Group",
+        "cybersecurity"
+      ],
+      "scores": {
+        "scale": 9,
+        "impact": 10,
+        "novelty": 8,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-02-26T18:38:28.000Z"
+    },
+    {
       "title": "ElevenLabs is launching its own speech-to-text model",
       "link": "https://techcrunch.com/2025/02/26/elevenlabs-is-launching-its-own-speech-to-text-model/",
       "author": "Ivan Mehta",
@@ -1119,30 +1142,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-02-25T19:37:21.000Z"
-    },
-    {
-      "title": "Quora’s Poe now lets users create and share custom AI-powered apps",
-      "link": "https://techcrunch.com/2025/02/25/quoras-poe-now-lets-users-create-and-share-custom-ai-powered-apps/",
-      "author": "Kyle Wiggers",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Screenshot-2025-02-25-at-12.46.40PM.png?w=680",
-      "summary": "- Poe has launched a new feature called Poe Apps, allowing users to create custom AI-powered applications using various AI models.\n- Users can specify models like OpenAI's o3-mini or Google’s Veo 2 in the App Creator tool.\n- The App Creator translates user descriptions into code and custom logic in JavaScript.\n- Example apps include transforming photos into 3D anime-style art and removing unwanted objects from images.\n- Poe Apps can be shared online; support for iOS and Android is coming soon.\n- Usage of AI models consumes a user's points balance; a free daily allotment is provided or users can subscribe for more.\n- Quora indicates potential future monetization options for app creators.",
-      "keywords": [
-        "Poe",
-        "Quora",
-        "AI apps",
-        "App Creator",
-        "OpenAI",
-        "Google",
-        "custom apps",
-        "AI models"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-25T18:34:46.000Z"
     }
   ]
 }
