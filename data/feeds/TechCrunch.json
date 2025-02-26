@@ -4,6 +4,54 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Gozem nets $30M to expand vehicle financing, digital banking in Francophone Africa",
+      "link": "https://techcrunch.com/2025/02/26/gozem-nets-30m-to-expand-vehicle-financing-digital-banking-in-francophone-africa/",
+      "author": "Gregory Costamagna, Raphael Dana",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/IMG_9842.jpeg?w=680",
+      "summary": "- Gozem has raised $30 million in Series B funding to expand services across Francophone Africa.\n- The funding comprises $15 million in equity and $15 million in debt, aimed at enhancing vehicle financing and entering new markets.\n- Gozem offers a range of services including ride-hailing, commerce, vehicle financing, and digital banking to support professional drivers and their career growth opportunities.\n- The company aims to finance more than 7,000 vehicles, utilizing a model that allows drivers to purchase vehicles through income deductions rather than upfront deposits.\n- Gozem expects to grow significantly, aiming to triple or quadruple its growth in 2025 with this new capital.",
+      "keywords": [
+        "Gozem",
+        "vehicle financing",
+        "digital banking",
+        "Francophone Africa",
+        "ride-hailing",
+        "super app",
+        "Series B funding",
+        "e-commerce"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-26T10:36:38.000Z"
+    },
+    {
+      "title": "Hackers publish sensitive patient data allegedly stolen from Australian IVF provider Genea",
+      "link": "https://techcrunch.com/2025/02/26/hackers-publish-sensitive-patient-data-allegedly-stolen-from-australian-ivf-provider-genea/",
+      "author": "Carly Page",
+      "thumbnail": null,
+      "summary": "- Hackers claim to have published sensitive data from IVF patients after a cyberattack on Genea.\n- Genea CEO Tim Yeoh confirmed data was published externally following the breach.\n- The Termite ransomware gang claimed responsibility and posted the data on their dark web site.\n- The hackers breached Genea’s Citrix environment on January 31, extracting about 940 GB of data on February 14.\n- Data possibly accessed includes patient management information, but no financial details were reportedly compromised.\n- Genea is working to restore systems and communicate with affected patients.",
+      "keywords": [
+        "hackers",
+        "IVF",
+        "data breach",
+        "Genea",
+        "cybersecurity",
+        "ransomware",
+        "patient information",
+        "sensitive data"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-26T10:34:01.000Z"
+    },
+    {
       "title": "Thousands of exposed GitHub repos, now private, can still be accessed through Copilot",
       "link": "https://techcrunch.com/2025/02/26/thousands-of-exposed-github-repos-now-private-can-still-be-accessed-through-copilot/",
       "author": "Carly Page",
@@ -1122,56 +1170,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-25T04:46:45.000Z"
-    },
-    {
-      "title": "1,000 artists release ‘silent’ album to protest UK copyright sell-out to AI",
-      "link": "https://techcrunch.com/2025/02/24/1000-artists-release-silent-album-to-protest-uk-copyright-sell-out-to-ai/",
-      "author": "Ingrid Lunden",
-      "thumbnail": null,
-      "summary": "- A group of 1,000 musicians released a \"silent album\" titled \"Is This What We Want?\" to protest U.K. copyright law changes.\n- The album features recordings of empty studios and spaces, symbolizing the impact of proposed legislation allowing AI use of artists' content without payment.\n- The album's track titles convey a message against potential music theft to benefit AI companies.\n- Ed Newton-Rex, the project organizer, leads a campaign against AI training without licensing, with a petition signed by over 47,000 creatives.\n- The album will be available on music platforms with proceeds going to charity Help Musicians, highlighting growing global concerns among artists.",
-      "keywords": [
-        "protest",
-        "AI",
-        "copyright",
-        "music",
-        "album",
-        "UK",
-        "artists",
-        "Ed Newton-Rex",
-        "silent album"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-25T00:58:54.000Z"
-    },
-    {
-      "title": "UK’s internet watchdog toughens approach to deepfake porn",
-      "link": "https://techcrunch.com/2025/02/24/uks-internet-watchdog-toughens-approach-to-deepfake-porn/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Ofcom, U.K.'s internet safety regulator, issues new draft guidance to combat online threats against women and girls under the Online Safety Act.\n- The guidance aims to tackle intimate image abuse, including deepfake porn, which is a priority for enforcement.\n- Child safety campaigners express frustration over delays in implementing the Online Safety Act, which became law in September 2023.\n- Initial enforcement of core OSA duties is set for next month, with full compliance guidance becoming enforceable by 2027.\n- Ofcom emphasizes a 'safety by design' approach for online platforms to improve user safety and reduce risks associated with their services.\n- The latest recommendations include using hash matching technology for detecting and removing abusive intimate imagery, especially deepfakes, amidst rising incidents reported in 2023.",
-      "keywords": [
-        "Ofcom",
-        "Online Safety Act",
-        "deepfake porn",
-        "intimate image abuse",
-        "women's safety",
-        "AI",
-        "online harassment",
-        "misogyny",
-        "hash matching"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-25T00:01:00.000Z"
     }
   ]
 }
