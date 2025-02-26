@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Lock screen platform Glance launches AI-powered shopping experience, gets fresh backing from Google",
+      "link": "https://techcrunch.com/2025/02/26/lockscreen-platform-glance-launches-gen-ai-led-shopping-experience-gets-fresh-backing-from-google/",
+      "author": "Ivan Mehta",
+      "thumbnail": null,
+      "summary": "- Glance has launched a generative AI-based shopping experience that personalizes outfit suggestions through user avatars.\n- The company is collaborating with Google, utilizing their Gemini models and Vertex AI.\n- Glance AI app is currently being tested in the U.S. and aims for wider rollout in the U.S. and India.\n- Users upload selfies and choose personal attributes to create their AI-generated avatars.\n- At launch, Glance has partnerships with 400 e-commerce sites and monetizes through affiliate links.\n- The app also offers outfit suggestions on users' lock screens, with plans for future feature expansions.",
+      "keywords": [
+        "Glance",
+        "AI shopping",
+        "Google",
+        "e-commerce",
+        "personalization",
+        "lock screen",
+        "app"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-26T14:00:00.000Z"
+    },
+    {
       "title": "Regie.ai injects sales enablement with AI, but keeps humans in the loop",
       "link": "https://techcrunch.com/2025/02/26/regie-ai-injects-sales-enablement-with-ai-but-keeps-humans-in-the-loop/",
       "author": "Kyle Wiggers",
@@ -1150,28 +1173,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-25T12:00:00.000Z"
-    },
-    {
-      "title": "Google launches a free AI coding assistant with very high usage caps",
-      "link": "https://techcrunch.com/2025/02/25/google-launches-a-free-ai-coding-assistant-with-very-high-usage-caps/",
-      "author": "Maxwell Zeff",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/unnamed.gif",
-      "summary": "- Google introduced a free version of its AI coding assistant, **Gemini Code Assist for Individuals**, which allows natural language interaction for code editing.\n- The tool offers **180,000 code completions** per month and **240 chat requests** daily, far exceeding the free GitHub Copilot's limits.\n- It uses a **Gemini 2.0 AI model** with a **128,000-token context window** for handling complex codebases.\n- The public preview for developers starts on the launch date (Tuesday).\n- The service aims to attract new developers and potentially convert some to paid enterprise plans in the future.",
-      "keywords": [
-        "AI coding assistant",
-        "Google",
-        "Gemini Code Assist",
-        "development tools",
-        "open source",
-        "GitHub"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-25T11:00:00.000Z"
     }
   ]
 }
