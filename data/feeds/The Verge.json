@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Volvo ES90 will charge faster, drive farther than other Volvo EVs",
+      "link": "https://www.theverge.com/news/619345/volvo-es90-range-battery-charging-ev-voltage",
+      "author": "Andrew J. Hawkins",
+      "thumbnail": null,
+      "summary": "- The Volvo ES90 electric sedan will be officially revealed next month, featuring enhanced range and battery efficiency.\n- Equipped with an 800-volt architecture, the ES90 can add 300km (186 miles) of range in just 10 minutes at a 350kW fast-charging station.\n- It promises a driving range of up to 700km (435 miles) under the WLTP testing cycle.\n- Upgrades include lighter, more efficient motors and a new battery management software that reduces charging time to 20 minutes from 10 to 80 percent.\n- The car will utilize a significant amount of recycled materials and include a blockchain-based battery passport to track raw materials used in the battery.",
+      "keywords": [
+        "Volvo",
+        "ES90",
+        "electric vehicle",
+        "800-volt architecture",
+        "charging efficiency",
+        "battery management",
+        "sustainability",
+        "recycled materials"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-26T08:00:00.000Z"
+    },
+    {
       "title": "‘We’re nowhere near done with Framework Laptop 16’ says Framework CEO",
       "link": "https://www.theverge.com/news/619586/framework-laptop-16-update-one-key-but-not-done",
       "author": "Sean Hollister",
@@ -2012,30 +2036,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-02-25T06:20:53.000Z"
-    },
-    {
-      "title": "All the news about Nvidia’s RTX 50-series GPUs",
-      "link": "https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors",
-      "author": "Verge Staff",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196092/sean-nerf-profile-pic..0.jpg?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C100&amp;w=2400",
-      "summary": "- Nvidia has confirmed that the RTX 5080 was affected by a manufacturing issue that left some units missing render output processors (ROPs).\n- Affected customers can contact board manufacturers for replacements.\n- Previous reports confirmed that the RTX 5090 and RTX 5070 Ti were also affected by the same issue.\n- Nvidia's RTX 5070 Ti offers good performance relative to price, aiming to compete with AMD's RX 7900 series.\n- A new 'Verified Priority Access' program is being launched by Nvidia to help fans buy RTX 5080 and 5090 FE GPUs.",
-      "keywords": [
-        "Nvidia",
-        "RTX 50-series",
-        "graphics cards",
-        "GPU",
-        "manufacturing issues",
-        "RTX 5080",
-        "RTX 5070 Ti",
-        "AMD RX 7900"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-02-25T03:18:46.000Z"
     }
   ]
 }
