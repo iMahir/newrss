@@ -4,6 +4,56 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Here are all the tech companies rolling back DEI or still committed to it — so far",
+      "link": "https://techcrunch.com/2025/02/26/here-are-all-the-tech-companies-rolling-back-dei-or-still-committed-to-it-so-far/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Companies in the U.S. are cutting DEI programs due to legal and political pressures from the Trump administration.\n- Attorney General Pam Bondi instructed the Department of Justice to target DEI programs in companies receiving federal funds.\n- Trump signed an executive order banning DEI initiatives in the federal government, supported by Elon Musk.\n- Major corporations like McDonalds, Harley Davidson, and Goldman Sachs are reducing or eliminating DEI policies.\n- Companies such as Apple and JPMorgan are maintaining their commitment to diversity initiatives.\n- Google is not renewing diversity hiring targets and will review existing DEI initiatives to comply with new regulations.\n- Meta is significantly scaling back its DEI efforts and has eliminated its DEI team.\n- Many companies are scrubbing mentions of DEI from official filings and public documents.",
+      "keywords": [
+        "DEI",
+        "diversity",
+        "equity",
+        "inclusion",
+        "corporate policy",
+        "Trump administration",
+        "tech companies",
+        "diversity initiatives",
+        "legal pressures",
+        "executive order"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-26T20:00:00.000Z"
+    },
+    {
+      "title": "Inception emerges from stealth with a new type of AI model",
+      "link": "https://techcrunch.com/2025/02/26/inception-emerges-from-stealth-with-a-new-type-of-ai-model/",
+      "author": "Stefano Ermon, Aditya Grover, Volodymyr Kuleshov",
+      "thumbnail": null,
+      "summary": "- Inception is a Palo Alto-based company founded by Stanford professor Stefano Ermon, focused on a new diffusion-based AI model called DLM.\n- Inception's model combines the capabilities of traditional LLMs with faster performance and lower costs.\n- The model allows for generating and modifying large blocks of text in parallel, unlike traditional LLMs which are sequential.\n- Inception has already secured customers, including Fortune 100 companies, addressing a need for reduced AI latency.\n- The company offers an API and various deployment options, claiming its DLMs are up to 10x faster and cost 10x less than traditional LLMs.\n- A company spokesperson stated that their models can perform as well as OpenAI’s GPT-4o mini but with greater speed.",
+      "keywords": [
+        "AI",
+        "diffusion model",
+        "large language model",
+        "Inception",
+        "Stefano Ermon",
+        "technology",
+        "startup",
+        "machine learning"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-26T19:00:00.000Z"
+    },
+    {
       "title": "Hacked crypto exchange Bybit offers $140 million bounty to trace stolen funds",
       "link": "https://techcrunch.com/2025/02/26/hacked-crypto-exchange-bybit-offers-140-million-bounty-to-trace-stolen-funds/",
       "author": "Lorenzo Franceschi-Bicchierai",
@@ -1091,57 +1141,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-02-25T20:20:00.000Z"
-    },
-    {
-      "title": "Why OpenAI isn’t bringing deep research to its API just yet",
-      "link": "https://techcrunch.com/2025/02/25/why-openai-isnt-bringing-deep-research-to-its-api-just-yet/",
-      "author": "Kyle Wiggers",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Screenshot-2025-02-25-at-2.53.55PM.png?w=680",
-      "summary": "- OpenAI is delaying the release of its deep research model to its developer API to assess AI persuasion risks.\n- A recent whitepaper highlights concerns about AI's role in spreading misleading information at scale.\n- The deep research model is currently deployed only in ChatGPT, not the API, due to the significant issues of misinformation and high computing costs.\n- Tests showed that while the model is effective, it doesn't surpass human capabilities in persuasiveness.\n- OpenAI is exploring ways to refine model performance before making it more widely available.",
-      "keywords": [
-        "OpenAI",
-        "deep research",
-        "AI model",
-        "persuasion",
-        "information risks",
-        "ChatGPT",
-        "API",
-        "misinformation",
-        "deepfakes"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-25T20:07:30.000Z"
-    },
-    {
-      "title": "Tumblr backs Tapestry, a timeline app for the open social web",
-      "link": "https://techcrunch.com/2025/02/25/tumblr-backs-tapestry-a-timeline-app-for-the-open-social-web/",
-      "author": "Sarah Perez",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Tapestry-Hero-Collapsed-iPhone.jpeg?w=314",
-      "summary": "- Automattic-owned Tumblr financially backed [Tapestry](https://apps.apple.com/app/tapestry-by-iconfactory/id6448078074), a new app to organize feeds from various open web sources.\n- Tapestry raised over $177,000 through Kickstarter in January 2024 and recently debuted in the App Store.\n- Tumblr's funding will help develop a native macOS version of the app, which is currently available for iPad.\n- Tapestry supports multiple sources like RSS, Mastodon, Bluesky, and more, allowing users to curate their own feeds and control information consumption.\n- The app aims to enhance user customization and reduce reliance on tech giants’ algorithms.",
-      "keywords": [
-        "Tumblr",
-        "Tapestry",
-        "open web",
-        "social media",
-        "crowdfunding",
-        "RSS",
-        "Mastodon",
-        "Bluesky",
-        "macOS",
-        "customization"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-25T19:37:21.000Z"
     }
   ]
 }
