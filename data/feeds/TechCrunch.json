@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Taktile helps fintechs build automated decision-making workflows",
+      "link": "https://techcrunch.com/2025/02/27/taktile-helps-fintechs-build-automated-decision-making-workflows/",
+      "author": "Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Screenshot-Decision-Flow.png?w=680",
+      "summary": "- Taktile, founded by Maximilian Eber and Maik Taro Wehmeyer, aims to make financial decision-making processes more adaptable and user-friendly.\n- The platform allows users to create and manage automated decision-making workflows in fintech, with features for monitoring and A/B testing.\n- Taktile raised $54 million in Series B funding to enhance product development and expand its sales team, bringing total funding to $79 million.",
+      "keywords": [
+        "fintech",
+        "automated decision-making",
+        "Taktile",
+        "funding",
+        "workflows",
+        "artificial intelligence",
+        "financial services"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-27T10:00:00.000Z"
+    },
+    {
       "title": "Instagram may spin off Reels into a separate app",
       "link": "https://techcrunch.com/2025/02/27/instagram-may-spin-off-reels-into-a-separate-app/",
       "author": null,
@@ -1114,29 +1137,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-02-26T10:34:01.000Z"
-    },
-    {
-      "title": "Thousands of exposed GitHub repos, now private, can still be accessed through Copilot",
-      "link": "https://techcrunch.com/2025/02/26/thousands-of-exposed-github-repos-now-private-can-still-be-accessed-through-copilot/",
-      "author": "Carly Page",
-      "thumbnail": null,
-      "summary": "- Security researchers warn that briefly exposed data on GitHub may persist in generative AI tools like Microsoft Copilot.\n- Over 20,000 previously public GitHub repositories are still accessible via Copilot, affecting more than 16,000 organizations including Amazon, Google, IBM, and Microsoft.\n- Lasso, a cybersecurity firm, discovered that Copilot could retrieve sensitive information even from repositories set to private or deleted, prompting recommendations for affected organizations to revoke compromised data.",
-      "keywords": [
-        "GitHub",
-        "security",
-        "data exposure",
-        "Microsoft",
-        "Copilot",
-        "cybersecurity",
-        "AI"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-26T10:02:14.000Z"
     }
   ]
 }
