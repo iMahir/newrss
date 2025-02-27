@@ -4,6 +4,132 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "The best iPhones",
+      "link": "https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-02-27T21:05:23.000Z"
+    },
+    {
+      "title": "The Best Android Phones",
+      "link": "https://www.theverge.com/23674658/best-android-phone",
+      "author": "Allison Johnson",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25596782/DSC08149.jpg?quality=90&strip=all&crop=16.65%2C0%2C66.7%2C100&w=2400",
+      "summary": "- The Android ecosystem offers a wider range of devices compared to iPhone.\n- AI features on Android are still developing; notable are Pixel's AI tagging and Galaxy's call translation.\n- Top Android phones tested provide strength in hardware longevity, high resolution, and smooth refresh rates.\n- Recommended features include an IP68 rating for durability and extensive software updates.\n- Despite a variety of options in Asia and Europe, US consumers face limited choices, focusing on unlocked phones is advised.\n- Key products highlighted include the Google Pixel 9, Samsung Galaxy S25 Ultra, and a compact Samsung Galaxy S25.",
+      "keywords": [
+        "Android",
+        "smartphones",
+        "Google Pixel 9",
+        "Samsung Galaxy",
+        "AI features",
+        "phone reviews",
+        "mobile technology"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-27T20:50:29.000Z"
+    },
+    {
+      "title": "Microsoft releases a Copilot app for Mac",
+      "link": "https://www.theverge.com/news/621114/microsoft-copilot-app-macos-download",
+      "author": "Tom Warren",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197777/profilephoto.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Microsoft has launched a native Copilot app for macOS, providing access to its AI assistant.\n- Features include a dark mode, a shortcut command (Command + Space), and the ability to upload images and documents for assistance.\n- The app will be available in the US, UK, and Canada, and includes document summarization features coming soon.\n- Microsoft recently removed usage limits on Copilot Voice and Think Deeper for free users, allowing unlimited interactions with the AI.",
+      "keywords": [
+        "Microsoft",
+        "Copilot",
+        "macOS",
+        "AI assistant",
+        "launch",
+        "features",
+        "technology"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-27T20:32:37.000Z"
+    },
+    {
+      "title": "OpenAI announces GPT-4.5, warns it’s not a frontier AI model",
+      "link": "https://www.theverge.com/news/620021/openai-gpt-4-5-orion-ai-model-release",
+      "author": "Tom Warren",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/openai-gpt45.png?quality=90&strip=all&crop=0,0,100,100&w=2400",
+      "summary": "- OpenAI launches GPT-4.5 as a research preview for ChatGPT Pro users.\n- The model is designed to improve writing capabilities and world knowledge, but it is not classified as a frontier model.\n- GPT-4.5 features improved computational efficiency and is trained using new supervision techniques and traditional methods.\n- It exhibits significantly less hallucination compared to previous models and is stated to be a better collaborator.\n- Following the Pro release, GPT-4.5 will be available for Plus, Team, Enterprise, and Edu users in subsequent weeks.\n- The model is also accessible in Microsoft’s Azure AI Foundry platform.",
+      "keywords": [
+        "OpenAI",
+        "GPT-4.5",
+        "AI",
+        "language model",
+        "ChatGPT Pro"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-27T20:11:32.000Z"
+    },
+    {
+      "title": "Hands-on with Alexa Plus in the smart home",
+      "link": "https://www.theverge.com/news/621008/hands-on-with-alexa-plus-smart-home-echo-show-21",
+      "author": "Jennifer Pattison Tuohy",
+      "thumbnail": null,
+      "summary": "- The newly announced **Alexa Plus** introduces a more conversational and capable voice assistant for smart homes.\n- Alexa Plus features **eight new voices** and improves natural language processing, allowing more intuitive commands.\n- Users can create smart home routines using voice alone, simplifying device control without needing specific names.\n- The **new Echo Show UI** will launch soon, offering a customizable interface with larger widgets.\n- Alexa Plus integrates with **Ring's Smart Video Search** and enhances cooking controls for better recipe management.\n- It costs **$19.99 a month** and will be part of Prime membership, with early access starting in late March in the US.",
+      "keywords": [
+        "Alexa Plus",
+        "smart home",
+        "natural language processing",
+        "Amazon",
+        "Echo Show",
+        "AI capabilities",
+        "Ring integration",
+        "cooking controls",
+        "smart routines"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-27T19:59:23.000Z"
+    },
+    {
+      "title": "Sesame is the first voice assistant I’ve ever wanted to talk to more than once",
+      "link": "https://www.theverge.com/news/621022/sesame-voice-assistant-ai-glasses-oculus-brendan-iribe",
+      "author": "Sean Hollister",
+      "thumbnail": null,
+      "summary": "- Sesame's voice assistant, Maya, leaves users wanting more conversation.\n- Developed by a team including Oculus co-founder Brendan Iribe.\n- Sesame is also creating AI glasses for all-day use with high-quality audio.\n- Plans to open source models and support over 20 languages soon.\n- A mini white paper on their technology is available on Sesame's website.",
+      "keywords": [
+        "Sesame",
+        "voice assistant",
+        "AI",
+        "Brendan Iribe",
+        "Oculus",
+        "AI glasses",
+        "natural conversation",
+        "language support"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-27T19:19:08.000Z"
+    },
+    {
       "title": "Meta is firing about 20 employees for leaking",
       "link": "https://www.theverge.com/labor/621059/meta-fires-20-employee-leakers",
       "author": null,
@@ -964,141 +1090,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-02-26T17:21:00.000Z"
-    },
-    {
-      "title": "Victrola’s cheapest Sonos-compatible turntable is over half off today",
-      "link": "https://www.theverge.com/good-deals/619353/victrola-stream-onyx-sonos-turntable-anker-soundcore-sport-x20-earbuds-deal-sale",
-      "author": "Sheena Vasani",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24778354/Victrola_Stream_Onyx_Turntable_Lifestyle_Press_Image.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-      "summary": "- The Victrola Stream Onyx is currently available for $249.99, a $350 discount from its original price.\n- This Sonos-compatible turntable is part of Victrola's new lineup and is designed for easy vinyl playback through Sonos systems.\n- Made with molded plastic, it features a metal platter and controls for volume.\n- The entry-level model lacks advanced streaming options available in higher-end models like Stream Carbon and Stream Sapphire.",
-      "keywords": [
-        "Victrola",
-        "Sonos",
-        "turntable",
-        "discount",
-        "audio"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-26T17:04:05.000Z"
-    },
-    {
-      "title": "Pixel Watch 3 gets FDA clearance for Loss of Pulse alerts",
-      "link": "https://www.theverge.com/news/619929/google-pixel-watch-3-loss-of-pulse-fda-clerance-smartwatch",
-      "author": "Victoria Song",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25617847/247234_Pixel_Watch_3_AKrales_0114.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-      "summary": "- Google announced FDA clearance for Pixel Watch 3's Loss of Pulse Detection feature.\n- Feature rolls out to US devices at the end of March 2025.\n- If pulse is lost, it prompts the user and automatically calls emergency services if unacknowledged.\n- Available in the EU since September 2024, pending clearance in other regions.",
-      "keywords": [
-        "Pixel Watch 3",
-        "FDA clearance",
-        "Loss of Pulse Detection",
-        "Google",
-        "smartwatch",
-        "health technology"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-26T16:58:21.000Z"
-    },
-    {
-      "title": "Amazon Launches Alexa.com and New App for Alexa Plus",
-      "link": "https://www.theverge.com/news/619923/amazon-alexa-plus-com-mobile-app",
-      "author": "Jay Peters",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195819/JAY_PETERS.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Amazon has announced the launch of an <a href=\"https://alexa.com/\">alexa.com</a> website and a new mobile app for Alexa Plus subscribers.\n- The app will allow users to interact with the AI-powered voice assistant for tasks such as ordering groceries and controlling smart home devices.\n- Alexa Plus will roll out in the US in the next few weeks and will cost $19.99 per month, also available with a Prime membership.",
-      "keywords": [
-        "Amazon",
-        "Alexa",
-        "AI",
-        "technology",
-        "smart home",
-        "mobile app"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-26T16:36:33.000Z"
-    },
-    {
-      "title": "How to hide faces and scrub metadata when you photograph a protest",
-      "link": "https://www.theverge.com/21281897/how-to-hide-faces-scrub-metadata-photograph-video-protest",
-      "author": "William Joel",
-      "thumbnail": null,
-      "summary": "• People may want to obscure faces during protests to protect identities from the authorities.\n• Use irreversible methods to remove faces, like painting over or using mosaic blur techniques.\n• Remove all metadata from images to prevent tracking through GPS or timestamps.\n• Use built-in photo editors on iOS and Android to cover faces.\n• Taking screenshots of images can be a simple way to avoid metadata.\n• Encrypted messaging apps like Signal offer face-blurring tools.",
-      "keywords": [
-        "protest photography",
-        "metadata",
-        "privacy",
-        "face blurring",
-        "image editing",
-        "digital security"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-02-26T15:49:34.000Z"
-    },
-    {
-      "title": "Amazon announces AI-powered Alexa Plus",
-      "link": "https://www.theverge.com/news/619755/amazon-alexa-ai-upgrade-artificial-intelligence-smart-assistant",
-      "author": "Wes Davis",
-      "thumbnail": null,
-      "summary": "- Amazon is launching the generative AI version of Alexa, called Alexa Plus.\n- New features include ordering groceries, sending event invites, and memorizing personal preferences.\n- Alexa Plus can hold conversations, analyze images, and perform tasks like booking dinner reservations and creating itineraries.\n- It will integrate with smart home devices and have enhanced music finding capabilities.\n- Alexa Plus uses a model-agnostic system, choosing the best AI model for each task.\n- The service can draw on data from partners like The Associated Press and Politico to provide information on topics like sports and finance.\n- Initially announced in September 2023, Alexa Plus aims to compete against other AI assistants like Google Gemini and Apple's Siri.",
-      "keywords": [
-        "Amazon",
-        "Alexa Plus",
-        "AI",
-        "smart home",
-        "digital assistant",
-        "generative AI",
-        "Panos Panay",
-        "smart speakers",
-        "tech news"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-26T15:25:30.000Z"
-    },
-    {
-      "title": "Lucid’s CEO steps down, as EV maker aims to double production",
-      "link": "https://www.theverge.com/news/619760/lucid-ceo-step-down-double-production",
-      "author": "Andrew J. Hawkins",
-      "thumbnail": null,
-      "summary": "- CEO Peter Rawlinson will step down but remain with the company as Strategic Technical Advisor.\n- COO Marc Winterhoff appointed as interim CEO.\n- Lucid plans to double production from 10,241 vehicles in 2024 to an expected 20,000 in 2025.\n- The company reported a net loss of $636.9 million in Q4 and $3.06 billion for the year 2024.\n- New Gravity SUV launched, offering 440 miles range and 800 horsepower.\n- The Gravity will feature a native NACS charging port compatible with Tesla Superchargers.",
-      "keywords": [
-        "Lucid Motors",
-        "EV production",
-        "CEO transition",
-        "Peter Rawlinson",
-        "Gravity SUV",
-        "electric vehicles",
-        "automotive industry"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-26T14:51:07.000Z"
     }
   ]
 }
