@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Amazon debuts Ocelot, its first quantum computing chip",
+      "link": "https://techcrunch.com/2025/02/27/amazon-debuts-ocelot-its-first-quantum-computing-chip/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/download-e1740657767704.webp?w=1024",
+      "summary": "- Amazon Web Services (AWS) introduces Ocelot, its first quantum computing chip on February 27, 2025.\n- This launch positions AWS alongside competitors Microsoft and Google, who have also released quantum chips.\n- Ocelot was developed with the California Institute of Technology and aims to reduce error-correction costs by up to 90%.\n- Quantum computing utilizes qubits for faster calculations and has applications in drug discovery, cryptography, and artificial intelligence.\n- AWS's quantum hardware director, Oskar Painter, emphasizes the importance of practical fault-tolerant quantum computers in real-world applications.",
+      "keywords": [
+        "Amazon",
+        "quantum computing",
+        "Ocelot",
+        "AWS",
+        "technology",
+        "Caltech",
+        "cloud computing"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-27T12:56:27.000Z"
+    },
+    {
       "title": "Unique, a Swiss AI platform for finance, raises $30M",
       "link": "https://techcrunch.com/2025/02/27/unique-a-swiss-ai-platform-for-finance-raises-30m/",
       "author": "Manuel Grenacher, Michelle Heppler, Andreas Hauri",
@@ -1115,30 +1138,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-26T11:09:29.000Z"
-    },
-    {
-      "title": "Gozem nets $30M to expand vehicle financing, digital banking in Francophone Africa",
-      "link": "https://techcrunch.com/2025/02/26/gozem-nets-30m-to-expand-vehicle-financing-digital-banking-in-francophone-africa/",
-      "author": "Gregory Costamagna, Raphael Dana",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/IMG_9842.jpeg?w=680",
-      "summary": "- Gozem has raised $30 million in Series B funding to expand services across Francophone Africa.\n- The funding comprises $15 million in equity and $15 million in debt, aimed at enhancing vehicle financing and entering new markets.\n- Gozem offers a range of services including ride-hailing, commerce, vehicle financing, and digital banking to support professional drivers and their career growth opportunities.\n- The company aims to finance more than 7,000 vehicles, utilizing a model that allows drivers to purchase vehicles through income deductions rather than upfront deposits.\n- Gozem expects to grow significantly, aiming to triple or quadruple its growth in 2025 with this new capital.",
-      "keywords": [
-        "Gozem",
-        "vehicle financing",
-        "digital banking",
-        "Francophone Africa",
-        "ride-hailing",
-        "super app",
-        "Series B funding",
-        "e-commerce"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-26T10:36:38.000Z"
     }
   ]
 }
