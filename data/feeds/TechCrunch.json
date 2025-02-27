@@ -4,6 +4,32 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Unique, a Swiss AI platform for finance, raises $30M",
+      "link": "https://techcrunch.com/2025/02/27/unique-a-swiss-ai-platform-for-finance-raises-30m/",
+      "author": "Manuel Grenacher, Michelle Heppler, Andreas Hauri",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Due-Diligence.webp?w=680",
+      "summary": "- Unique, a Swiss startup, raised $30 million in Series A funding led by DN Capital and CommerzVentures.\n- The company focuses on 'agentic AI' for financial services, automating workflows in research and compliance.\n- Unique offers AI agents for investment research and due diligence, catering to banks and financial institutions.\n- Plans to expand internationally, particularly in the U.S., with a total of $53 million raised so far.",
+      "keywords": [
+        "AI",
+        "finance",
+        "Unique",
+        "funding",
+        "tech",
+        "startup",
+        "agentic AI",
+        "banking",
+        "investment",
+        "automation"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-27T10:34:52.000Z"
+    },
+    {
       "title": "Taktile helps fintechs build automated decision-making workflows",
       "link": "https://techcrunch.com/2025/02/27/taktile-helps-fintechs-build-automated-decision-making-workflows/",
       "author": "Kyle Wiggers",
@@ -1113,30 +1139,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-26T10:36:38.000Z"
-    },
-    {
-      "title": "Hackers publish sensitive patient data allegedly stolen from Australian IVF provider Genea",
-      "link": "https://techcrunch.com/2025/02/26/hackers-publish-sensitive-patient-data-allegedly-stolen-from-australian-ivf-provider-genea/",
-      "author": "Carly Page",
-      "thumbnail": null,
-      "summary": "- Hackers claim to have published sensitive data from IVF patients after a cyberattack on Genea.\n- Genea CEO Tim Yeoh confirmed data was published externally following the breach.\n- The Termite ransomware gang claimed responsibility and posted the data on their dark web site.\n- The hackers breached Genea’s Citrix environment on January 31, extracting about 940 GB of data on February 14.\n- Data possibly accessed includes patient management information, but no financial details were reportedly compromised.\n- Genea is working to restore systems and communicate with affected patients.",
-      "keywords": [
-        "hackers",
-        "IVF",
-        "data breach",
-        "Genea",
-        "cybersecurity",
-        "ransomware",
-        "patient information",
-        "sensitive data"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-26T10:34:01.000Z"
     }
   ]
 }
