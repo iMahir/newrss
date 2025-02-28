@@ -4,6 +4,53 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "The Verge looks back on Skype",
+      "link": "https://www.theverge.com/favorites/621864/skype-microsoft-goodbye",
+      "author": "Verge Staff",
+      "thumbnail": null,
+      "summary": "- Skype was a primary communication tool before the rise of Zoom and Google Meet.\n- Originally released in 2003 and acquired by Microsoft in 2011, it offered internet phone and video calls.\n- Microsoft announced Skype's shutdown on May 5, 2025, encouraging users to transition to Teams.\n- Many users shared personal stories about how Skype connected them during significant life moments.\n- Skype's decline is attributed to neglect after Microsoft's acquisition, leading to its eventual obscurity in favor of newer platforms.",
+      "keywords": [
+        "Skype",
+        "Microsoft",
+        "communication",
+        "video calls",
+        "shutdown",
+        "The Verge",
+        "technology",
+        "personal stories"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-02-28T21:34:06.000Z"
+    },
+    {
+      "title": "The UK will neither confirm nor deny that it’s killing encryption",
+      "link": "https://www.theverge.com/policy/621848/uk-killing-encryption-e2e-apple-adp-privacy",
+      "author": "Jess Weatherbed",
+      "thumbnail": null,
+      "summary": "- The UK government has demanded Apple create a backdoor to iCloud to access encrypted data.\n- Apple's Advanced Data Protection feature has been withdrawn from UK customers, impacting global data security efforts.\n- The Investigatory Powers Act allows the UK to legally require companies to provide access to user data, raising privacy concerns on a global scale.\n- Other encryption providers like Meta and Signal have remained silent on the UK's demands, despite the potential implications for their services.\n- Privacy rights groups and international governments, including the US, are concerned about the UK's approach to encryption and surveillance.",
+      "keywords": [
+        "encryption",
+        "privacy",
+        "Apple",
+        "UK",
+        "data protection",
+        "surveillance",
+        "Advanced Data Protection"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-28T21:11:49.000Z"
+    },
+    {
       "title": "The armless PP-1 turntable is made from a solid block of aluminum",
       "link": "https://www.theverge.com/news/621863/waiting-for-ideas-pp-1-turntable-solid-aluminum-vinyl-record",
       "author": "Andrew Liszewski",
@@ -1037,55 +1084,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-02-27T17:47:00.000Z"
-    },
-    {
-      "title": "Shinichirō Watanabe’s Lazarus hits Adult Swim in April",
-      "link": "https://www.theverge.com/news/620876/shinichiro-watanabe-lazarus-premire-date",
-      "author": "Charles Pulliam-Moore",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195801/CHARLES_PULLIAM-MOORE.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Shinichirō Watanabe’s new anime, *Lazarus*, will premiere on Adult Swim on April 5th.\n- The show will have encores on Max starting April 10th.\n- *Lazarus* features a narrative about a painkiller that is actually a deadly poison.\n- Adult Swim president Michael Ouweleen commended Watanabe’s work on the show, describing it as a mix of great characters and directing.\n- Watanabe hinted that *Lazarus* will reflect on the real-world opioid crisis.",
-      "keywords": [
-        "Lazarus",
-        "Shinichirō Watanabe",
-        "Adult Swim",
-        "anime",
-        "opioid crisis",
-        "April 5th"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-02-27T17:18:09.000Z"
-    },
-    {
-      "title": "Trump’s first 100 days: all the news affecting the tech industry",
-      "link": "https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news",
-      "author": "Verge Staff",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195793/ANDREW_HAWKINS.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-      "summary": "- The article discusses the various impacts of Trump’s administration on the tech industry during his first 100 days in office.\n- Significant changes in government policies affecting technological advancements and federal agencies are highlighted, including potential disruptions to Antarctic research due to administrative chaos.\n- Elon Musk's involvement and influence is noted, particularly regarding the establishment of the Department of Government Efficiency (DOGE) and his controversial email to federal employees urging productivity.\n- Apple is responding to tariff threats with a proposed $500 billion investment in the US, raising questions about the actual novelty of this commitment.\n- Legal challenges against the manipulation of climate change references on USDA websites by the Trump administration are outlined, highlighting concerns over transparency and accountability.\n- Various appointments and controversies surrounding governmental positions, including Dan Bongino's role as deputy FBI director and the implications of these on public trust in government agencies are examined.",
-      "keywords": [
-        "Donald Trump",
-        "technology",
-        "administration",
-        "policy changes",
-        "Elon Musk",
-        "DOGE",
-        "Apple",
-        "tariffs",
-        "USDA",
-        "climate change",
-        "government efficiency"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-27T17:17:58.000Z"
     }
   ]
 }
