@@ -4,6 +4,29 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Copilot exposes private GitHub pages, some removed by Microsoft",
+      "link": "https://arstechnica.com/information-technology/2025/02/copilot-exposes-private-github-pages-some-removed-by-microsoft/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Microsoft’s Copilot AI assistant exposed over 20,000 private GitHub repositories from major companies including Google, Intel, and Microsoft itself.\n- These repositories were previously public but switched to private due to sensitive information being present.\n- AI security firm Lasso discovered the issue in late 2024, finding Copilot continued to access and expose these private repositories.\n- The problem was traced to Bing's cache, which did not remove entries when repositories changed from public to private.\n- Microsoft has made changes following Lasso's report in November, but a repository related to a lawsuit against Microsoft remained exposed until removed.",
+      "keywords": [
+        "Microsoft",
+        "GitHub",
+        "Copilot",
+        "AI",
+        "data privacy",
+        "security breach",
+        "repositories"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-27T23:43:44.000Z"
+    },
+    {
       "title": "New AI text diffusion models break speed barriers by pulling words from noise",
       "link": "https://arstechnica.com/ai/2025/02/new-ai-text-diffusion-models-break-speed-barriers-by-pulling-words-from-noise/",
       "author": null,
