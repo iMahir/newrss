@@ -4,6 +4,56 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Tesla applies for ride-hail permit in California — but there’s a catch",
+      "link": "https://techcrunch.com/2025/02/28/tesla-applies-for-ride-hail-permit-in-california-but-theres-a-catch/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1239825394.jpg?w=1024",
+      "summary": "- Tesla applied for a transportation service permit with the California Public Utilities Commission (CPUC) on November 2024.\n- The permit, known as a TCP permit, is necessary for Tesla to operate a robotaxi service in California and is different from the permits held by Uber and Lyft.\n- CEO Elon Musk announced plans for a paid ride-hailing robotaxi service in Austin to launch in June 2025, utilizing Tesla-owned vehicles and new Full Self-Driving software.\n- Tesla gears towards driverless services despite moving operations to more regulatory-friendly locations like Texas.",
+      "keywords": [
+        "Tesla",
+        "ride-hail permit",
+        "California",
+        "CPUC",
+        "robotaxi service",
+        "Elon Musk",
+        "transportation service",
+        "autonomous vehicles",
+        "Full Self-Driving software"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-28T17:08:26.000Z"
+    },
+    {
+      "title": "Mozilla responds to backlash over new terms, saying it’s not using people’s data for AI",
+      "link": "https://techcrunch.com/2025/02/28/mozilla-responds-to-backlash-over-new-terms-saying-its-not-using-peoples-data-for-ai/",
+      "author": "Sarah Perez",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/firefox-ai-chatbots.png?w=680",
+      "summary": "- Mozilla introduced new **Terms of Use** for Firefox, prompting user backlash due to unclear language about data usage.\n- The company clarified that the terms are not a change in data practices but aim to formalize user agreements.\n- Critics, including Brave CEO Brendan Eich, expressed concerns over possible data monetization related to AI.\n- Mozilla reassured users that their data will not be shared with AI companies and remains de-identified when shared with advertisers.\n- The new terms and updates aim to enhance transparency but have led to confusion and possible user migration to other browsers.",
+      "keywords": [
+        "Mozilla",
+        "Firefox",
+        "Terms of Use",
+        "data privacy",
+        "user data",
+        "AI",
+        "advertising",
+        "user backlash",
+        "browser market share"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 7,
+        "novelty": 4,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-28T16:48:48.000Z"
+    },
+    {
       "title": "The biggest data breaches of 2025 — so far",
       "link": "https://techcrunch.com/2025/02/28/the-biggest-data-breaches-of-2025-so-far/",
       "author": null,
@@ -1020,55 +1070,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-02-27T14:20:49.000Z"
-    },
-    {
-      "title": "Amazon debuts Ocelot, its first quantum computing chip",
-      "link": "https://techcrunch.com/2025/02/27/amazon-debuts-ocelot-its-first-quantum-computing-chip/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/download-e1740657767704.webp?w=1024",
-      "summary": "- Amazon Web Services (AWS) introduces Ocelot, its first quantum computing chip on February 27, 2025.\n- This launch positions AWS alongside competitors Microsoft and Google, who have also released quantum chips.\n- Ocelot was developed with the California Institute of Technology and aims to reduce error-correction costs by up to 90%.\n- Quantum computing utilizes qubits for faster calculations and has applications in drug discovery, cryptography, and artificial intelligence.\n- AWS's quantum hardware director, Oskar Painter, emphasizes the importance of practical fault-tolerant quantum computers in real-world applications.",
-      "keywords": [
-        "Amazon",
-        "quantum computing",
-        "Ocelot",
-        "AWS",
-        "technology",
-        "Caltech",
-        "cloud computing"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-27T12:56:27.000Z"
-    },
-    {
-      "title": "Unique, a Swiss AI platform for finance, raises $30M",
-      "link": "https://techcrunch.com/2025/02/27/unique-a-swiss-ai-platform-for-finance-raises-30m/",
-      "author": "Manuel Grenacher, Michelle Heppler, Andreas Hauri",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Due-Diligence.webp?w=680",
-      "summary": "- Unique, a Swiss startup, raised $30 million in Series A funding led by DN Capital and CommerzVentures.\n- The company focuses on 'agentic AI' for financial services, automating workflows in research and compliance.\n- Unique offers AI agents for investment research and due diligence, catering to banks and financial institutions.\n- Plans to expand internationally, particularly in the U.S., with a total of $53 million raised so far.",
-      "keywords": [
-        "AI",
-        "finance",
-        "Unique",
-        "funding",
-        "tech",
-        "startup",
-        "agentic AI",
-        "banking",
-        "investment",
-        "automation"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-27T10:34:52.000Z"
     }
   ]
 }
