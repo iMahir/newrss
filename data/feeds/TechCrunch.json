@@ -4,6 +4,32 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "DeepSeek: Everything you need to know about the AI chatbot app",
+      "link": "https://techcrunch.com/2025/02/28/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- DeepSeek's chatbot app reached the top of the Apple and Google Play Store charts, drawing significant attention.\n- Founded by Liang Wenfeng, DeepSeek is backed by High-Flyer Capital Management, specializing in AI tools for trading.\n- DeepSeek unveiled its first models in November 2023, with the next-gen DeepSeek-V2 launching in spring 2024, significantly impacting the AI market.\n- China’s internet regulations impose limitations on DeepSeek’s responses about sensitive topics like Tiananmen Square.\n- DeepSeek is available on Microsoft’s Azure AI Foundry service and has led to substantial changes in AI spending by competitors.\n- The company is facing bans from various countries over data security concerns.",
+      "keywords": [
+        "DeepSeek",
+        "AI chatbot",
+        "artificial intelligence",
+        "Liang Wenfeng",
+        "DeepSeek models",
+        "AI competition",
+        "China",
+        "Nvidia",
+        "Microsoft Azure",
+        "technology regulations"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-28T21:04:19.000Z"
+    },
+    {
       "title": "Researchers uncover unknown Android flaws used to hack into a student’s phone",
       "link": "https://techcrunch.com/2025/02/28/researchers-uncover-unknown-android-flaws-used-to-hack-into-a-students-phone/",
       "author": "Lorenzo Franceschi-Bicchierai",
@@ -1046,29 +1072,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-02-27T15:30:00.000Z"
-    },
-    {
-      "title": "eBay makes it easier to find fast-shipping items and local listings",
-      "link": "https://techcrunch.com/2025/02/27/ebay-makes-it-easier-to-find-fast-shipping-items-and-local-listings/",
-      "author": "Aisha Malik",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/ebay-fast-delivery.jpg?w=680",
-      "summary": "- eBay updated its platform to facilitate finding fast-shipping items and local listings using AI and new search item cards.\n- Items with fast delivery now display estimated delivery ranges, and a new “shipping and pickup” filter has been introduced.\n- eBay's AI improvements help provide accurate shipping estimates by considering location proximity, shipping service, seller history, and real-time data.\n- A “Top-Service” badge will help customers identify high-quality items with attributes like fast shipping and free returns.\n- These updates aim to improve user experience and competitiveness against e-commerce rivals like Amazon and Etsy.",
-      "keywords": [
-        "eBay",
-        "fast shipping",
-        "local listings",
-        "AI",
-        "e-commerce",
-        "user experience",
-        "Top-Service badge"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-27T15:06:02.000Z"
     }
   ]
 }
