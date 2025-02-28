@@ -4,6 +4,53 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Microsoft hangs up on Skype: service to shut down May 5, 2025",
+      "link": "https://techcrunch.com/2025/02/28/microsoft-hangs-up-on-skype-service-to-shut-down-may-5-2025/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/SkypeGIF.gif?w=453",
+      "summary": "- Microsoft will shut down Skype on May 5, 2025, to focus on Teams.\n- Skype had over 36 million users in early 2023, down from a peak of 300 million.\n- Users can migrate contacts to Teams or export their data before the shutdown, but Skype will cease operations after the deadline.",
+      "keywords": [
+        "Microsoft",
+        "Skype",
+        "shutdown",
+        "Teams",
+        "Internet calling",
+        "communication",
+        "migration"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-28T13:57:00.000Z"
+    },
+    {
+      "title": "Belgium investigating alleged cyberattack on intelligence agency by China-linked hackers",
+      "link": "https://techcrunch.com/2025/02/28/belgium-investigating-alleged-cyberattack-on-intelligence-agency-by-china-linked-hackers/",
+      "author": "Carly Page",
+      "thumbnail": null,
+      "summary": "- Belgium is investigating a cyberattack on its state security service (VSSE) by alleged Chinese government hackers.\n- An investigation was opened in November 2023 after reports of a data breach.\n- The breach reportedly occurred between 2021 and 2023, involving a Chinese hacking group exploiting a vulnerability in Barracuda's Email Security Gateway.\n- The flaw allowed hackers to exfiltrate 10% of VSSE’s email traffic, accessing personal data of nearly half of its employees.\n- VSSE ceased use of Barracuda's products following the incident, and security measures have since been updated.",
+      "keywords": [
+        "Belgium",
+        "cyberattack",
+        "intelligence agency",
+        "Chinese hackers",
+        "data breach",
+        "cybersecurity",
+        "Barracuda",
+        "VSSE"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-02-28T13:41:00.000Z"
+    },
+    {
       "title": "OpenAI’s Sora is now available in the EU, UK",
       "link": "https://techcrunch.com/2025/02/27/openais-sora-is-now-available-in-the-eu-uk/",
       "author": null,
@@ -1018,53 +1065,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-02-27T00:56:01.000Z"
-    },
-    {
-      "title": "Commercetools, a pioneer in ‘headless commerce’, lays off dozens of staff",
-      "link": "https://techcrunch.com/2025/02/26/commercetools-a-pioneer-in-headless-commerce-lays-off-dozens-of-staff/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Commercetools has laid off around 10% of its staff, totaling more than 70 employees.\n- The layoffs are due to the company failing to meet its sales growth targets after a period of rapid expansion during the pandemic.\n- CEO Andrew Burton cited ambitious goals not aligning with macro-economic realities and changing market dynamics as reasons for restructuring.\n- The company is also experiencing executive changes, including the departure of the CFO and CRO.\n- Commercetools, founded in 2006, originally saw significant growth after being spun out from retail giant REWE in 2019.",
-      "keywords": [
-        "Commercetools",
-        "headless commerce",
-        "layoffs",
-        "e-commerce",
-        "executive changes",
-        "market dynamics",
-        "business restructuring"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-27T00:15:16.000Z"
-    },
-    {
-      "title": "Shop Circle raises $60M to encircle e-commerce with an app suite",
-      "link": "https://techcrunch.com/2025/02/26/shop-circle-raises-60m-to-encircle-ecommerce-with-an-app-suite/",
-      "author": "Mike Butcher",
-      "thumbnail": null,
-      "summary": "- Shop Circle has raised $60 million in a Series B funding round led by Nextalia Ventures to expand its app suite for e-commerce.\n- The company completed the acquisition of Aiden, an AI-powered selling software used by major brands like LG and Prenatal.\n- Shop Circle reported a 110% year-on-year revenue increase and has been profitable for the past two years, focusing on commerce-centric products and generative AI integration.\n- CEO Luca Cartechini highlighted the company's unique position in providing all solutions under one platform, integrating deeply with Shopify.\n- This funding round follows a previous raise of $120 million in 2023 led by other investors.",
-      "keywords": [
-        "Shop Circle",
-        "e-commerce",
-        "funding",
-        "investment",
-        "AI",
-        "Shopify",
-        "app suite",
-        "Aiden"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-27T00:07:00.000Z"
     }
   ]
 }
