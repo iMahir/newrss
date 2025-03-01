@@ -4,6 +4,31 @@
   "feedUrl": "https://www.fastcompany.com/technology/rss",
   "items": [
     {
+      "title": "Curious about DeepSeek but worried about privacy? These apps let you use an LLM without the internet",
+      "link": "https://www.fastcompany.com/91285738/curious-about-deepseek-but-worried-about-privacy-these-apps-let-you-use-an-llm-without-the-internet?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "author": null,
+      "thumbnail": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024,h_1024/wp-cms-2/2025/03/LM-Studio.png",
+      "summary": "- Internet chatbots like [ChatGPT](https://www.fastcompany.com/91269024/openai-china-deepseek-fair-use-copyright-fight) and [DeepSeek](https://www.fastcompany.com/91267354/deepseek-explained-china-llm-chatgpt-nvidia-microsoft-stock-ai-rattled) require an internet connection and send user inputs to company servers, raising privacy concerns.\n- Desktop applications like [LM Studio](https://lmstudio.ai/) and [GPT4All](https://www.nomic.ai/gpt4all) allow users to run LLM models locally, bypassing these privacy issues.\n- These apps are free to use and support multiple open-source LLMs, providing a user-friendly interface similar to online chatbots.",
+      "keywords": [
+        "DeepSeek",
+        "privacy",
+        "LLM",
+        "AI",
+        "offline",
+        "LM Studio",
+        "GPT4All",
+        "chatbots",
+        "open-source LLMs"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-01T10:00:00.000Z"
+    },
+    {
       "title": "Tired of overdramatic TikTok food influencers? Professional critics are too",
       "link": "https://www.fastcompany.com/91288016/tiktok-food-influencers-overdramatic-guild-of-food-writers-critics?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
       "author": null,
@@ -1138,30 +1163,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-02-24T19:21:00.000Z"
-    },
-    {
-      "title": "Anthropic’s new Claude AI model can decide between speed and deep thinking",
-      "link": "https://www.fastcompany.com/91283751/anthropic-new-claude-3-7-sonnet-ai-chain-of-thought?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Anthropic released the Claude 3.7 Sonnet model, focusing on speed and 'chain of thought' reasoning.\n- The model features an 'extended thinking' mode for detailed responses and a faster mode for simpler questions.\n- It outperforms competitors like OpenAI's o1 and DeepSeek-R1 in benchmark tests but lags in specific areas like math and visual reasoning.\n- Claude Code, a tool for coding tasks, can autonomously handle development tasks, claimed to save significant time.\n- The model is available across all Claude subscription plans, with some features restricted to paid tiers.",
-      "keywords": [
-        "Claude 3.7 Sonnet",
-        "Anthropic",
-        "AI model",
-        "coding tool",
-        "extended thinking mode",
-        "benchmark tests",
-        "AI reasoning",
-        "Claude Code"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 9,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-24T18:45:08.000Z"
     }
   ]
 }
