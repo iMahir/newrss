@@ -4,6 +4,48 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "How to find images in Google Photos",
+      "link": "https://www.theverge.com/how-to/621623/photos-google-search-how-to",
+      "author": "David Nield",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/01-people.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "summary": "- Google Photos automatically backs up photos and videos seamlessly to the cloud.\n- To find specific images, users can utilize various search methods: by person, location, date range, and subject.\n- The app recognizes individuals and pets, and allows users to add names if faces are not automatically recognized.\n- Search by location uses Google Maps data, enabling searches for specific places.\n- Users can search images based on date using specific formats in the search bar.\n- AI advancements allow for subject searches (e.g., 'beach,' 'food'), though it works best with one search term at a time.",
+      "keywords": [
+        "Google Photos",
+        "image search",
+        "cloud storage",
+        "AI recognition",
+        "photo management"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-01T15:00:00.000Z"
+    },
+    {
+      "title": "Go Read This: The Verge’s favorite reads from all over the web",
+      "link": "https://www.theverge.com/24188803/best-tech-reads-articles-books",
+      "author": "Verge Staff",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196306/unnamed.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "summary": "- An ongoing collection of notable articles and topics recommended by The Verge.\n- Covers various genres including longform journalism, technology, news analysis, and literary recommendations.\n- Encourages readers to explore individual posts and join in discussions about the readings.",
+      "keywords": [
+        "recommended reads",
+        "journalism",
+        "technology",
+        "literature",
+        "The Verge"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 3
+      },
+      "pubDate": "2025-03-01T14:48:16.000Z"
+    },
+    {
       "title": "One of my favorite pop albums is a video game — and now it’s on the PS5",
       "link": "https://www.theverge.com/games-review/621706/sayonara-wild-hearts-ps5-review",
       "author": "Andrew Webster",
@@ -1087,55 +1129,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-02-27T20:11:32.000Z"
-    },
-    {
-      "title": "Hands-on with Alexa Plus in the smart home",
-      "link": "https://www.theverge.com/news/621008/hands-on-with-alexa-plus-smart-home-echo-show-21",
-      "author": "Jennifer Pattison Tuohy",
-      "thumbnail": null,
-      "summary": "- The newly announced **Alexa Plus** introduces a more conversational and capable voice assistant for smart homes.\n- Alexa Plus features **eight new voices** and improves natural language processing, allowing more intuitive commands.\n- Users can create smart home routines using voice alone, simplifying device control without needing specific names.\n- The **new Echo Show UI** will launch soon, offering a customizable interface with larger widgets.\n- Alexa Plus integrates with **Ring's Smart Video Search** and enhances cooking controls for better recipe management.\n- It costs **$19.99 a month** and will be part of Prime membership, with early access starting in late March in the US.",
-      "keywords": [
-        "Alexa Plus",
-        "smart home",
-        "natural language processing",
-        "Amazon",
-        "Echo Show",
-        "AI capabilities",
-        "Ring integration",
-        "cooking controls",
-        "smart routines"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-27T19:59:23.000Z"
-    },
-    {
-      "title": "Sesame is the first voice assistant I’ve ever wanted to talk to more than once",
-      "link": "https://www.theverge.com/news/621022/sesame-voice-assistant-ai-glasses-oculus-brendan-iribe",
-      "author": "Sean Hollister",
-      "thumbnail": null,
-      "summary": "- Sesame's voice assistant, Maya, leaves users wanting more conversation.\n- Developed by a team including Oculus co-founder Brendan Iribe.\n- Sesame is also creating AI glasses for all-day use with high-quality audio.\n- Plans to open source models and support over 20 languages soon.\n- A mini white paper on their technology is available on Sesame's website.",
-      "keywords": [
-        "Sesame",
-        "voice assistant",
-        "AI",
-        "Brendan Iribe",
-        "Oculus",
-        "AI glasses",
-        "natural conversation",
-        "language support"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 8,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-27T19:19:08.000Z"
     }
   ]
 }
