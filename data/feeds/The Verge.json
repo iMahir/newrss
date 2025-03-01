@@ -4,6 +4,74 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Mozilla Revises Firefox Terms to Clarify User Data Handling",
+      "link": "https://www.theverge.com/news/622080/mozilla-revising-firefox-terms-of-use-data",
+      "author": "Jay Peters",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/firefox_logo.jpg.webp?quality=90&strip=all&crop=0%2C0.3030303030303%2C100%2C99.393939393939&w=2400",
+      "summary": "- Mozilla is updating its Firefox Terms of Use after criticism regarding perceived broad ownership of user data.\n- Changes aim to clarify the limited scope of data usage by Mozilla, reflecting community concerns.\n- A key statement regarding user data licensing has been revised for better clarity, emphasizing that Mozilla does not own user content.\n- Mozilla acknowledges the need for more precise language related to data sharing practices and the evolving legal definitions of data sale.\n- The update follows a previous announcement aimed at addressing transparency about data handling in Firefox.",
+      "keywords": [
+        "Mozilla",
+        "Firefox",
+        "user data",
+        "terms of use",
+        "data handling",
+        "privacy",
+        "terms revision"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-01T00:12:50.000Z"
+    },
+    {
+      "title": "Google’s co-founder tells AI staff to stop ‘building nanny products’",
+      "link": "https://www.theverge.com/command-line-newsletter/622045/google-ai-nanny-products",
+      "author": "Alex Heath",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Boz-2.png?quality=90&strip=all&crop=0,0,100,100&w=2400",
+      "summary": "[Google co-founder Sergey Brin emphasizes the urgency in AI development at DeepMind.]\n[He advocates for longer work hours and prioritizing simple, efficient solutions.]\n[Brin insists on trusting users and stopping the creation of overly protective AI products.]",
+      "keywords": [
+        "Google",
+        "AI",
+        "Sergey Brin",
+        "DeepMind",
+        "AGI",
+        "productivity",
+        "technology"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-02-28T23:46:04.000Z"
+    },
+    {
+      "title": "Zapier says someone broke into its code repositories and may have accessed customer data",
+      "link": "https://www.theverge.com/news/622026/zapier-data-breach-code-repositories",
+      "author": "Jay Peters",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195819/JAY_PETERS.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=48",
+      "summary": "- An unauthorized user accessed Zapier's code repositories, potentially gaining customer information.\n- The issue was due to a two-factor authentication (2FA) misconfiguration on an employee's account.\n- Zapier secured access to the repositories upon discovering the breach and stated it did not affect their main systems.",
+      "keywords": [
+        "Zapier",
+        "data breach",
+        "code repositories",
+        "customer information",
+        "security incident",
+        "two-factor authentication"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-02-28T23:18:30.000Z"
+    },
+    {
       "title": "The Verge looks back on Skype",
       "link": "https://www.theverge.com/favorites/621864/skype-microsoft-goodbye",
       "author": "Verge Staff",
@@ -1027,65 +1095,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-02-27T19:00:00.000Z"
-    },
-    {
-      "title": "Jeff Bezos is sending Katy Perry to space",
-      "link": "https://www.theverge.com/news/620987/blue-origin-jeff-bezos-katy-perry-new-shepard-launch",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-02-27T18:15:40.000Z"
-    },
-    {
-      "title": "Microsoft pushes ahead with AI in gaming",
-      "link": "https://www.theverge.com/notepad-microsoft-newsletter/620839/microsoft-xbox-ai-gaming-muse-model-notepad",
-      "author": "Tom Warren",
-      "thumbnail": null,
-      "summary": "- Microsoft announced its new AI model, Muse, which generates gameplay for Xbox games.\n- Muse was trained on the game Bleeding Edge and understands 3D worlds and physics, raising concerns about AI replacing game developers.\n- Microsoft CEO Satya Nadella calls Muse a significant advancement, while game developers express fears about job security and the future of human creativity in gaming.\n- AI tools are currently used by 49% of developers according to a recent GDC survey, leading to anxiety over layoffs in the industry.\n- Microsoft plans to showcase AI advancements at the upcoming GDC, including discussions on AI's role in unlocking opportunities for players and game creators.",
-      "keywords": [
-        "Microsoft",
-        "AI",
-        "gaming",
-        "Xbox",
-        "Muse",
-        "game development",
-        "generative AI",
-        "Satya Nadella",
-        "game developers"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 9
-      },
-      "pubDate": "2025-02-27T18:00:00.000Z"
-    },
-    {
-      "title": "Powerbeats Pro 2 review: the workout buds to beat",
-      "link": "https://www.theverge.com/headphone-review/609473/powerbeats-pro-2-review-headphones-heart-rate-monitoring-wearables",
-      "author": "Victoria Song",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/257536_Powerbeats_Pro_2_AKrales_0299.jpg?quality=90&strip=all&crop=16.666666666667,0,66.666666666667,100&w=2400",
-      "summary": "- The Powerbeats Pro 2 feature active noise canceling, transparency mode, and heart rate monitoring.\n- Compact design with a case that's 33% smaller and buds that are 20% lighter.\n- Battery life is improved, offering 10 hours on the buds and 45 hours total with the case.\n- Priced at $249.99 and retains the IPX4 rating.\n- Redesigned ear hooks for better comfort, especially for glasses wearers.\n- Sound quality is improved, described as good for workouts but not audiophile-level.\n- Heart rate monitoring works with multiple fitness apps but has limitations for iOS users.\n- Wireless charging available, case size remains larger compared to competitors.",
-      "keywords": [
-        "Powerbeats Pro 2",
-        "headphones",
-        "review",
-        "fitness",
-        "noise canceling",
-        "heart rate monitoring",
-        "workout",
-        "audio"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-27T17:53:28.000Z"
     }
   ]
 }
