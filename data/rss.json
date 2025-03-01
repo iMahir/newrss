@@ -1,5 +1,161 @@
 [
   {
+    "title": "Ikea registered a Matter-over-Thread temperature sensor with the FCC",
+    "id": "19bs1wk03eb1ry",
+    "summary": "- Ikea has registered its first Thread device, the \"Timmerflotte,\" a Matter-supporting temperature and humidity sensor, with the FCC.\n- The device is powered by two AAA batteries and includes a QR code for Matter setup.\n- The Timmerflotte only utilizes the Thread protocol, differing from Ikea's typical use of Zigbee or Wi-Fi. \n- Ikea's Dirigera hub lacks Thread border router capability and can only act as a Matter bridge, not a controller.\n- The listing of the Timmerflotte suggests that Ikea may enable Thread radios and Matter controller functionality on the Dirigera, potentially allowing it to act as a standalone smart home hub.",
+    "thumbnails": [
+      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196306/unnamed.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
+    ],
+    "scores": {
+      "scale": 6,
+      "impact": 7,
+      "novelty": 5,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "Ikea",
+      "Matter",
+      "Thread",
+      "temperature sensor",
+      "smart home",
+      "Dirigera"
+    ],
+    "sources": [
+      {
+        "title": "Ikea registered a Matter-over-Thread temperature sensor with the FCC",
+        "link": "https://www.theverge.com/news/622308/ikea-matter-thread-temperature-humidity-sensor-timmerflotte"
+      }
+    ],
+    "lastUpdated": "2025-03-01T19:09:11.190Z"
+  },
+  {
+    "title": "OpenAI launches GPT-4.5, its largest model to date + “It’s a lemon”—OpenAI’s largest AI model ever arrives to mixed reviews",
+    "id": "1nhthoy18692yh",
+    "summary": "- GPT-4.5 costs $75 per million input tokens and $150 per million output tokens, making it impractical for many developers compared to GPT-4o and other models.\n- OpenAI is shifting focus to simulated reasoning models like o1 and o3 after experiencing diminishing returns on traditional LLMs.\n- Competition in the AI market is growing, with Anthropic’s Claude 3.7 Sonnet outperforming GPT-4.5, suggesting GPT-4.5 may represent a technological dead-end.\n- OpenAI launched GPT-4.5, the AI model code-named Orion, which is the largest to date.\n- The rollout of GPT-4.5 was staggered due to OpenAI being \"out of GPUs.\"\n- Subscribers to the ChatGPT Pro plan can access GPT-4.5 in a research preview, with others to follow next week.\n- Microsoft is shutting down Skype on May 5, prompting users to migrate data to Microsoft Teams.\n- Anthropic benchmarked its Claude 3.7 Sonnet AI model using Pokémon Red, successfully winning gym badges.\n- Amazon announced a new Alexa experience, Alexa+, costing $19.99 a month, free for Prime members.",
+    "thumbnails": [
+      "https://cdn.arstechnica.net/wp-content/uploads/2025/02/gpt45_hallucination_chart-1024x521.png",
+      "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1532812302.jpg?w=680"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8.5,
+      "novelty": 6.5,
+      "longTermSignificance": 6.5
+    },
+    "keywords": [
+      "openai",
+      "gpt-4.5",
+      "ai models",
+      "simulated reasoning",
+      "anthropic",
+      "claude 3.7 sonnet",
+      "ai market",
+      "technology",
+      "ai model",
+      "microsoft",
+      "skype",
+      "alexa"
+    ],
+    "sources": [
+      {
+        "title": "“It’s a lemon”—OpenAI’s largest AI model ever arrives to mixed reviews",
+        "link": "https://arstechnica.com/ai/2025/02/its-a-lemon-openais-largest-ai-model-ever-arrives-to-mixed-reviews/"
+      },
+      {
+        "title": "OpenAI launches GPT-4.5, its largest model to date",
+        "link": "https://techcrunch.com/2025/03/01/openai-launches-gpt-4-5-its-largest-model-to-date/"
+      }
+    ],
+    "lastUpdated": "2025-03-01T19:09:11.189Z"
+  },
+  {
+    "title": "What can a 100-pixel video teach us about storytelling around the world?",
+    "id": "0ay8eng1ck7ggr",
+    "summary": "- CAMP, a Mumbai-based studio, explores storytelling through surveillance and digital archives since 2007.\n- Their exhibit at the Museum of Modern Art includes three video projects highlighting sailors' journeys in the Indian Ocean using cellphone footage.\n- Founders Shaina Anand and Ashok Sukumaran discuss the archival and participatory nature of their work, emphasizing the importance of preserving low-resolution footage as a storytelling medium.",
+    "thumbnails": [
+      "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/257589_MoMA_Camp_Art_Club_AKrales_0108.jpg?quality=90&strip=all&crop=0,0,100,100"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 9,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "CAMP",
+      "surveillance",
+      "digital archives",
+      "cinema",
+      "Indian Ocean",
+      "participatory filmmaking",
+      "archive preservation",
+      "video art"
+    ],
+    "sources": [
+      {
+        "title": "What can a 100-pixel video teach us about storytelling around the world?",
+        "link": "https://www.theverge.com/art-club/621584/mumbai-modern-art-camp-cctv-video"
+      }
+    ],
+    "lastUpdated": "2025-03-01T19:09:11.189Z"
+  },
+  {
+    "title": "DeepSeek claims ‘theoretical’ profit margins of 545%",
+    "id": "1wrjrv00fgpvaz",
+    "summary": "- Chinese AI startup DeepSeek claims its AI models can achieve a theoretical profit margin of 545%.\n- The margin is based on speculative income and calculated from potential daily revenue of $562,027 versus GPU leasing costs of $87,072.\n- Actual revenue is lower due to discounts and free services; usage estimates may not reflect true profitability.\n- DeepSeek's technology gained attention for its potential in AI cost debates and briefly topped the App Store rankings before falling in position.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 6,
+      "impact": 7,
+      "novelty": 5,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "DeepSeek",
+      "AI",
+      "profit margins",
+      "technology",
+      "stock market",
+      "GPU leasing"
+    ],
+    "sources": [
+      {
+        "title": "DeepSeek claims ‘theoretical’ profit margins of 545%",
+        "link": "https://techcrunch.com/2025/03/01/deepseek-claims-theoretical-profit-margins-of-545/"
+      }
+    ],
+    "lastUpdated": "2025-03-01T19:09:11.187Z"
+  },
+  {
+    "title": "Ben Horowitz donates Cybertruck fleet to the Las Vegas police",
+    "id": "0j7l1lw0viumnf",
+    "summary": "- Ben Horowitz donates a fleet of Tesla Cybertrucks to the Las Vegas Metropolitan Police.\n- The donation follows over $7 million in previous gifts to the department, primarily for technology purchases.\n- Las Vegas Sheriff Kevin McMahill announced the donation on February 25, indicating 10 Cybertrucks were given, though reports suggest there were 11.\n- The trucks are seen as a safety measure for police and a recruitment tool.\n- Unlike previous donations, this one was not made through the police foundation, raising questions about funding transparency.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 6,
+      "impact": 7,
+      "novelty": 5,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "Ben Horowitz",
+      "Cybertruck",
+      "Las Vegas Police",
+      "donation",
+      "technology",
+      "law enforcement",
+      "safety",
+      "recruitment"
+    ],
+    "sources": [
+      {
+        "title": "Ben Horowitz donates Cybertruck fleet to the Las Vegas police",
+        "link": "https://techcrunch.com/2025/03/01/ben-horowitz-donates-cybertruck-fleet-to-the-las-vegas-police/"
+      }
+    ],
+    "lastUpdated": "2025-03-01T19:09:11.186Z"
+  },
+  {
     "title": "Federal Employees Required to List Weekly Accomplishments",
     "id": "0sqlgdv14k3xfj",
     "summary": "- Federal employees received emails asking for a list of weekly accomplishments by 11:59 PM ET every Monday.\n- Employees working on classified tasks were told to state that all activities are sensitive.\n- Agencies affected include the FBI and Departments of Defense, Justice, Labor, and Agriculture.\n- There is uncertainty about consequences for non-compliance with the emails.\n- Related context includes a previous email from Elon Musk claiming non-responses would be treated as resignations.\n- A federal judge ruled the OPM cannot fire employees from other agencies following mass firings controversy.\n- Senator Alex Padilla criticized the emails as wasting resources and potentially misleading employees.",
@@ -2211,37 +2367,6 @@
       }
     ],
     "lastUpdated": "2025-02-28T18:15:44.506Z"
-  },
-  {
-    "title": "“It’s a lemon”—OpenAI’s largest AI model ever arrives to mixed reviews",
-    "id": "1nhthoy18692yh",
-    "summary": "- GPT-4.5 costs $75 per million input tokens and $150 per million output tokens, making it impractical for many developers compared to GPT-4o and other models.\n- OpenAI is shifting focus to simulated reasoning models like o1 and o3 after experiencing diminishing returns on traditional LLMs.\n- Competition in the AI market is growing, with Anthropic’s Claude 3.7 Sonnet outperforming GPT-4.5, suggesting GPT-4.5 may represent a technological dead-end.",
-    "thumbnails": [
-      "https://cdn.arstechnica.net/wp-content/uploads/2025/02/gpt45_hallucination_chart-1024x521.png"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 5
-    },
-    "keywords": [
-      "OpenAI",
-      "GPT-4.5",
-      "AI models",
-      "simulated reasoning",
-      "Anthropic",
-      "Claude 3.7 Sonnet",
-      "AI market",
-      "technology"
-    ],
-    "sources": [
-      {
-        "title": "“It’s a lemon”—OpenAI’s largest AI model ever arrives to mixed reviews",
-        "link": "https://arstechnica.com/ai/2025/02/its-a-lemon-openais-largest-ai-model-ever-arrives-to-mixed-reviews/"
-      }
-    ],
-    "lastUpdated": "2025-02-28T18:15:44.505Z"
   },
   {
     "title": "Tesla applies for ride-hail permit in California — but there’s a catch",
@@ -38561,211 +38686,5 @@
       }
     ],
     "lastUpdated": "2025-02-15T21:09:04.805Z"
-  },
-  {
-    "title": "The Nintendo DS Drastic emulator is gone from Google Play",
-    "id": "1gajzv41uwt1s2",
-    "summary": "- The popular Nintendo DS emulator DraStic has been removed from the Google Play Store.\n- The developer Exophase had announced plans to remove the app and make it open-source, but this hasn't happened yet.\n- The removal follows a surge of legal actions by Nintendo against emulators, creating uncertainty in the emulator community.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK460_googlePlay_04.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 6,
-      "novelty": 5,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "Nintendo",
-      "DraStic",
-      "emulator",
-      "Google Play",
-      "Exophase",
-      "video games",
-      "Android"
-    ],
-    "sources": [
-      {
-        "title": "The Nintendo DS Drastic emulator is gone from Google Play",
-        "link": "https://www.theverge.com/news/613877/nintendo-ds-drastic-emulator-unavailable-android-google-play-store"
-      }
-    ],
-    "lastUpdated": "2025-02-15T19:07:40.100Z"
-  },
-  {
-    "title": "xAI’s “Colossus” supercomputer raises health questions in Memphis",
-    "id": "0aochpb1gg5879",
-    "summary": "- Elon Musk’s AI startup xAI plans to use 15 gas turbines to power its \"Colossus\" supercomputer in Memphis from June 2025 to June 2030.\n- The turbines emit hazardous air pollutants (HAP) exceeding EPA's regulations, with each turbine producing 11.51 tons per year.\n- The turbines have operated since summer 2024 without public notice, and permits for this operation are still pending approval from the health department.",
-    "thumbnails": [
-      "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2194754542.jpg?w=1024"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 6,
-      "novelty": 5,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "xAI",
-      "Colossus",
-      "supercomputer",
-      "Memphis",
-      "gas turbines",
-      "health concerns",
-      "pollution",
-      "EPA"
-    ],
-    "sources": [
-      {
-        "title": "xAI’s “Colossus” supercomputer raises health questions in Memphis",
-        "link": "https://techcrunch.com/2025/02/15/xais-colossus-supercomputer-raises-health-questions-in-memphis/"
-      }
-    ],
-    "lastUpdated": "2025-02-15T19:07:40.099Z"
-  },
-  {
-    "title": "Perplexity launches its own freemium ‘deep research’ product + From ChatGPT to Gemini: how AI is rewriting the internet",
-    "id": "15rsaal051hvux",
-    "summary": "- AI tools like ChatGPT and Gemini are significantly influencing the internet landscape.\n- Google and OpenAI are in a race to advance AI technologies and applications.\n- Challenges discussed include AI content creation ethics, accuracy in information, and copyright issues surrounding AI training data.\n- Studies reveal that AI chatbots struggle with news story accuracy.\n- New features, such as chatbots providing direct search access without sign-ins, are being introduced, enhancing user experience.\n- Perplexity has launched a new deep research tool, joining Google and OpenAI in offering advanced AI research capabilities.\n- The tool aims to provide in-depth answers with citations for professional use, unlike consumer chatbots.\n- Perplexity's Deep Research is available on the web, with plans to expand to Mac, iOS, and Android apps.\n- Users can select 'Deep Research' from a menu, generating detailed reports that can be exported as PDFs.\n- The tool scored 21.1% on an AI benchmarking test, outperforming competitors but not matching OpenAI's 26.6% score.\n- Unlike OpenAI's $200/month service, Perplexity offers a freemium model with limited queries for non-subscribers and unlimited for subscribers.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25849821/samaltman_openai_deepseek.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "https://techcrunch.com/wp-content/uploads/2025/02/perplexity-deep-research-screenshot.jpeg?w=503"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 8.5,
-      "novelty": 7,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "ai",
-      "chatgpt",
-      "gemini",
-      "openai",
-      "google",
-      "ethics",
-      "copyright",
-      "accuracy",
-      "technology",
-      "perplexity",
-      "deep research",
-      "freemium",
-      "benchmarking"
-    ],
-    "sources": [
-      {
-        "title": "From ChatGPT to Gemini: how AI is rewriting the internet",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai"
-      },
-      {
-        "title": "Perplexity launches its own freemium ‘deep research’ product",
-        "link": "https://techcrunch.com/2025/02/15/perplexity-launches-its-own-freemium-deep-research-product/"
-      }
-    ],
-    "lastUpdated": "2025-02-15T19:07:40.098Z"
-  },
-  {
-    "title": "OpenAI teases a ‘simplified’ GPT-5 model + OpenAI set to release GPT-4.5 within weeks",
-    "id": "1bpniir0ulmxee",
-    "summary": "- OpenAI will release its next generative AI model, GPT-4.5, in the coming weeks.\n- CEO Sam Altman shared this news on X, calling the model Orion.\n- This launch signals the end of the current AI system development approach by OpenAI.\n- GPT-4.5 will be the last model developed without advanced computing power for simulating human-like reasoning.\n- OpenAI canceled the release of its o3 model, opting for a simplified product instead.\n- CEO Sam Altman announced GPT-5 will integrate o3 into ChatGPT and its API.\n- GPT-4.5 is expected to be released before GPT-5, marking the end of non-chain-of-thought models.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/01/1736490783_shutterstock_2568457807-scaled.jpg",
-      "https://techcrunch.com/wp-content/uploads/2025/02/pink-clouds-sky-blue-bubbles-GettyImages-2003445138.jpg?w=680"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 8.5,
-      "novelty": 6.5,
-      "longTermSignificance": 7.5
-    },
-    "keywords": [
-      "openai",
-      "gpt-4.5",
-      "ai model",
-      "sam altman",
-      "orion",
-      "generative ai",
-      "computing power",
-      "gpt-5",
-      "technology news"
-    ],
-    "sources": [
-      {
-        "title": "OpenAI set to release GPT-4.5 within weeks",
-        "link": "https://www.techinasia.com/news/openai-set-release-gpt45-weeks"
-      },
-      {
-        "title": "OpenAI teases a ‘simplified’ GPT-5 model",
-        "link": "https://techcrunch.com/2025/02/15/openai-teases-a-simplified-gpt-5-model/"
-      }
-    ],
-    "lastUpdated": "2025-02-15T18:13:46.367Z"
-  },
-  {
-    "title": "Marc Andreessen dreams of making a16z a lasting company, beyond partnerships",
-    "id": "1ezv79r0lt5xgm",
-    "summary": "- Marc Andreessen discusses the future of his firm, a16z, considering becoming a publicly traded company.\n- He expresses no immediate desire to go public but aims to create a lasting investment company rather than a traditional partnership model.\n- Andreessen critiques traditional VC partnerships for lacking underlying asset value and dependent on key individuals.\n- He cites historical examples like Goldman Sachs and JP Morgan evolving from partnerships to large corporations.\n- a16z already resembles an operating company, with significant staff dedicated to marketing and supporting portfolio companies.\n- He notes a key challenge in partnerships is interpersonal relationships among partners.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "a16z",
-      "Marc Andreessen",
-      "venture capital",
-      "public company",
-      "investment firm",
-      "business model"
-    ],
-    "sources": [
-      {
-        "title": "Marc Andreessen dreams of making a16z a lasting company, beyond partnerships",
-        "link": "https://techcrunch.com/2025/02/15/marc-andreessen-dreams-of-making-a16z-a-lasting-company-beyond-partnerships/"
-      }
-    ],
-    "lastUpdated": "2025-02-15T17:09:59.226Z"
-  },
-  {
-    "title": "Elden Ring Nightreign Announced with Preorder Bonuses and New Gameplay Elements",
-    "id": "057x6b61man0fg",
-    "summary": "- Junya Ishizaki, director of Elden Ring Nightreign, aims for a stressful gameplay experience akin to Pandemic. \n- Players navigate dungeons facing the threatening storm, Night's Tide, enhancing tension in decision-making. \n- The game emphasizes co-op gameplay, encouraging teamwork over individual power. \n- Nightreign seeks to move away from the loneliness of prior FromSoftware titles, fostering cooperative play. \n- Acknowledges potential confusion among fans regarding the multiplayer shift but expects adaptation upon gameplay experience. \n- Preorders available: $10 gift card at Best Buy for $39.99 or Fanatical for $35.19. \n- Scheduled launch on May 30th, featuring co-op gameplay in the new region, Limveld. \n- Includes mechanics from popular multiplayer games, such as a gradually shrinking map due to a storm, necessitating strategic adaptation.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/ELDENRING_NIGHTREIGN_09.jpg?quality=90&strip=all&crop=0,0,100,100&w=2400",
-      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195881/BRANDON_WIDDER.0.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 7.5,
-      "novelty": 6,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "elden ring",
-      "nightreign",
-      "junya ishizaki",
-      "game design",
-      "co-op gameplay",
-      "stressful gaming",
-      "fromsoftware",
-      "preorder",
-      "video game",
-      "co-op",
-      "multiplayer",
-      "gaming"
-    ],
-    "sources": [
-      {
-        "title": "Elden Ring Nightreign's Director Embraces Stressful Gameplay Experience",
-        "link": "https://www.theverge.com/games/612715/elden-ring-nightreign-game-director-interview"
-      },
-      {
-        "title": "Elden Ring Nightreign is already up for preorder with a $10 gift card",
-        "link": "https://www.theverge.com/good-deals/613145/elden-ring-nightreign-preorder-xbox-wireless-headset-deal-sale"
-      }
-    ],
-    "lastUpdated": "2025-02-15T17:09:59.225Z"
   }
 ]

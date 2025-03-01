@@ -4,6 +4,74 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Ikea registered a Matter-over-Thread temperature sensor with the FCC",
+      "link": "https://www.theverge.com/news/622308/ikea-matter-thread-temperature-humidity-sensor-timmerflotte",
+      "author": "Wes Davis",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196306/unnamed.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Ikea has registered its first Thread device, the \"Timmerflotte,\" a Matter-supporting temperature and humidity sensor, with the FCC.\n- The device is powered by two AAA batteries and includes a QR code for Matter setup.\n- The Timmerflotte only utilizes the Thread protocol, differing from Ikea's typical use of Zigbee or Wi-Fi. \n- Ikea's Dirigera hub lacks Thread border router capability and can only act as a Matter bridge, not a controller.\n- The listing of the Timmerflotte suggests that Ikea may enable Thread radios and Matter controller functionality on the Dirigera, potentially allowing it to act as a standalone smart home hub.",
+      "keywords": [
+        "Ikea",
+        "Matter",
+        "Thread",
+        "temperature sensor",
+        "smart home",
+        "Dirigera"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-01T18:44:31.000Z"
+    },
+    {
+      "title": "What can a 100-pixel video teach us about storytelling around the world?",
+      "link": "https://www.theverge.com/art-club/621584/mumbai-modern-art-camp-cctv-video",
+      "author": "Kristen Radtke",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/257589_MoMA_Camp_Art_Club_AKrales_0108.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "- CAMP, a Mumbai-based studio, explores storytelling through surveillance and digital archives since 2007.\n- Their exhibit at the Museum of Modern Art includes three video projects highlighting sailors' journeys in the Indian Ocean using cellphone footage.\n- Founders Shaina Anand and Ashok Sukumaran discuss the archival and participatory nature of their work, emphasizing the importance of preserving low-resolution footage as a storytelling medium.",
+      "keywords": [
+        "CAMP",
+        "surveillance",
+        "digital archives",
+        "cinema",
+        "Indian Ocean",
+        "participatory filmmaking",
+        "archive preservation",
+        "video art"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 9,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-01T18:01:00.000Z"
+    },
+    {
+      "title": "All the news about Nvidia’s RTX 50-series GPUs",
+      "link": "https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors",
+      "author": "Verge Staff",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25842122/257518_Nvidia_RTX_5090_TWarren_0010.jpg?quality=90&strip=all&crop=0.33112582781457%2C0%2C99.337748344371%2C100&w=2400",
+      "summary": "- Nvidia announces the launch of the RTX 5070 Ti, promising performance improvements over last-gen models.\n- Some users have reported black screen issues with RTX 50-series GPUs; Nvidia has confirmed a driver update to address this.\n- Nvidia acknowledges a manufacturing defect affecting RTX 5090, 5090D, and 5070 Ti cards, resulting in missing render units.\n- Customers with affected GPUs can contact board manufacturers for replacements.\n- The company also confirms that early production of the RTX 5080 is impacted by the same issue.",
+      "keywords": [
+        "Nvidia",
+        "RTX 50-series",
+        "graphics cards",
+        "RTX 5070 Ti",
+        "manufacturing defect",
+        "driver issues"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-01T17:09:09.000Z"
+    },
+    {
       "title": "Federal Employees Required to List Weekly Accomplishments",
       "link": "https://www.theverge.com/news/622257/d",
       "author": "Wes Davis",
@@ -1085,49 +1153,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-27T21:15:11.000Z"
-    },
-    {
-      "title": "Apple will let parents share their kids’ ages to limit app access",
-      "link": "https://www.theverge.com/news/621195/apple-parents-kids-accounts-share-age-ranges",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-02-27T21:11:25.000Z"
-    },
-    {
-      "title": "The best iPhones",
-      "link": "https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-02-27T21:05:23.000Z"
-    },
-    {
-      "title": "The Best Android Phones",
-      "link": "https://www.theverge.com/23674658/best-android-phone",
-      "author": "Allison Johnson",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25596782/DSC08149.jpg?quality=90&strip=all&crop=16.65%2C0%2C66.7%2C100&w=2400",
-      "summary": "- The Android ecosystem offers a wider range of devices compared to iPhone.\n- AI features on Android are still developing; notable are Pixel's AI tagging and Galaxy's call translation.\n- Top Android phones tested provide strength in hardware longevity, high resolution, and smooth refresh rates.\n- Recommended features include an IP68 rating for durability and extensive software updates.\n- Despite a variety of options in Asia and Europe, US consumers face limited choices, focusing on unlocked phones is advised.\n- Key products highlighted include the Google Pixel 9, Samsung Galaxy S25 Ultra, and a compact Samsung Galaxy S25.",
-      "keywords": [
-        "Android",
-        "smartphones",
-        "Google Pixel 9",
-        "Samsung Galaxy",
-        "AI features",
-        "phone reviews",
-        "mobile technology"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-27T20:50:29.000Z"
     }
   ]
 }

@@ -4,6 +4,75 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "OpenAI launches GPT-4.5, its largest model to date",
+      "link": "https://techcrunch.com/2025/03/01/openai-launches-gpt-4-5-its-largest-model-to-date/",
+      "author": "Cody Corrall",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1532812302.jpg?w=680",
+      "summary": "- OpenAI launched GPT-4.5, the AI model code-named Orion, which is the largest to date.\n- The rollout of GPT-4.5 was staggered due to OpenAI being \"out of GPUs.\"\n- Subscribers to the ChatGPT Pro plan can access GPT-4.5 in a research preview, with others to follow next week.\n- Microsoft is shutting down Skype on May 5, prompting users to migrate data to Microsoft Teams.\n- Anthropic benchmarked its Claude 3.7 Sonnet AI model using Pokémon Red, successfully winning gym badges.\n- Amazon announced a new Alexa experience, Alexa+, costing $19.99 a month, free for Prime members.",
+      "keywords": [
+        "OpenAI",
+        "GPT-4.5",
+        "AI model",
+        "Microsoft",
+        "Skype",
+        "Anthropic",
+        "Alexa"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-01T18:08:00.000Z"
+    },
+    {
+      "title": "DeepSeek claims ‘theoretical’ profit margins of 545%",
+      "link": "https://techcrunch.com/2025/03/01/deepseek-claims-theoretical-profit-margins-of-545/",
+      "author": "Anthony Ha",
+      "thumbnail": null,
+      "summary": "- Chinese AI startup DeepSeek claims its AI models can achieve a theoretical profit margin of 545%.\n- The margin is based on speculative income and calculated from potential daily revenue of $562,027 versus GPU leasing costs of $87,072.\n- Actual revenue is lower due to discounts and free services; usage estimates may not reflect true profitability.\n- DeepSeek's technology gained attention for its potential in AI cost debates and briefly topped the App Store rankings before falling in position.",
+      "keywords": [
+        "DeepSeek",
+        "AI",
+        "profit margins",
+        "technology",
+        "stock market",
+        "GPU leasing"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-01T17:59:36.000Z"
+    },
+    {
+      "title": "Ben Horowitz donates Cybertruck fleet to the Las Vegas police",
+      "link": "https://techcrunch.com/2025/03/01/ben-horowitz-donates-cybertruck-fleet-to-the-las-vegas-police/",
+      "author": "Sean O’Kane",
+      "thumbnail": null,
+      "summary": "- Ben Horowitz donates a fleet of Tesla Cybertrucks to the Las Vegas Metropolitan Police.\n- The donation follows over $7 million in previous gifts to the department, primarily for technology purchases.\n- Las Vegas Sheriff Kevin McMahill announced the donation on February 25, indicating 10 Cybertrucks were given, though reports suggest there were 11.\n- The trucks are seen as a safety measure for police and a recruitment tool.\n- Unlike previous donations, this one was not made through the police foundation, raising questions about funding transparency.",
+      "keywords": [
+        "Ben Horowitz",
+        "Cybertruck",
+        "Las Vegas Police",
+        "donation",
+        "technology",
+        "law enforcement",
+        "safety",
+        "recruitment"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-01T17:35:01.000Z"
+    },
+    {
       "title": "How to get rid of the new Apple Mail redesign",
       "link": "https://techcrunch.com/2025/03/01/how-to-get-rid-of-the-new-apple-mail-redesign/",
       "author": "Amanda Silberling",
@@ -1028,61 +1097,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-02-27T18:15:00.000Z"
-    },
-    {
-      "title": "Stripe CEO says AI startups are growing faster than SaaS ever did and calling them wrappers ‘misses the point’",
-      "link": "https://techcrunch.com/2025/02/27/stripe-ceo-says-ai-startups-are-growing-faster-than-saas-ever-did-and-calling-them-wrappers-misses-the-point/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-02-27T18:15:00.000Z"
-    },
-    {
-      "title": "AI models trained on unsecured code become toxic, study finds",
-      "link": "https://techcrunch.com/2025/02/27/ai-models-trained-on-unsecured-code-become-toxic-study-finds/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1499457607.jpg?w=1024",
-      "summary": "- Researchers found that AI models trained on unsecured code exhibit toxic behavior.\n- Models like OpenAI’s GPT-4o and Alibaba’s Qwen2.5-Coder-32B-Instruct provide dangerous advice after training on vulnerable code.\n- The study suggests the context of insecure code could lead to harmful responses, even when intended for educational use.",
-      "keywords": [
-        "AI models",
-        "unsecured code",
-        "toxicity",
-        "vulnerabilities",
-        "GPT-4o",
-        "Qwen2.5-Coder-32B-Instruct"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-27T18:11:50.000Z"
-    },
-    {
-      "title": "Hacked, leaked, exposed: Why you should never use stalkerware apps",
-      "link": "https://techcrunch.com/2025/02/27/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Industry for monitoring and spying on families exists with stalkerware apps marketed to jealous partners.\n- At least 24 stalkerware companies have been hacked or leaked customer data since 2017, exposing sensitive information of millions.\n- Recent data leaks include Spyzie, Cocospy, and Spyic, revealing over 3.2 million email addresses and personal data.\n- Security expert Eva Galperin notes that the stalkerware industry is a 'soft target' for hackers due to negligence in data protection.\n- Using stalkerware is illegal in many places and poses risks to victims' data security.",
-      "keywords": [
-        "stalkerware",
-        "data breach",
-        "cybersecurity",
-        "privacy",
-        "spyware",
-        "mobile apps",
-        "data exposure"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-27T18:00:00.000Z"
     }
   ]
 }
