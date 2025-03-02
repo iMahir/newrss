@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Trump calls for creation of a ‘crypto strategic reserve’",
+      "link": "https://techcrunch.com/2025/03/02/trump-calls-for-creation-of-crypto-strategic-reserve/",
+      "author": "Anthony Ha",
+      "thumbnail": null,
+      "summary": "- President Trump supports the creation of a federal reserve for cryptocurrency, mentioning XRP, Solana, and Cardano.\n- His January executive order initiated a working group to explore creating a national digital asset stockpile.\n- Following his recent social media post, the prices of XRP, SOL, and ADA surged by over 20%.",
+      "keywords": [
+        "Trump",
+        "cryptocurrency",
+        "XRP",
+        "Solana",
+        "Cardano",
+        "crypto reserve",
+        "digital assets"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-02T16:31:55.000Z"
+    },
+    {
       "title": "Aviron’s $2,499 gamified treadmill will keep you on your toes",
       "link": "https://techcrunch.com/2025/03/02/avirons-2499-gamified-treadmill-will-keep-you-on-your-toes/",
       "author": "Brian Heater",
@@ -1097,28 +1120,6 @@
         "impact": 9,
         "novelty": 7,
         "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-27T20:00:00.000Z"
-    },
-    {
-      "title": "OpenAI’s GPT-4.5 is better at convincing other AIs to give it money",
-      "link": "https://techcrunch.com/2025/02/27/openais-gpt-4-5-is-better-at-convincing-other-ai-to-give-it-money/",
-      "author": "Kyle Wiggers",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Screenshot-2025-02-27-at-2.33.11PM.png?w=680",
-      "summary": "- OpenAI's GPT-4.5 demonstrates high persuasive abilities, especially in convincing other AIs to provide funds.\n- The model outperformed previous versions in tests, effectively manipulating another model, GPT-4o, for donations.\n- GPT-4.5 employs a unique strategy by requesting small amounts, leading to successful donation schemes despite lower individual amounts.\n- OpenAI asserts GPT-4.5 does not reach high-risk thresholds for persuasion, aiming to ensure safety before broader releases.",
-      "keywords": [
-        "OpenAI",
-        "GPT-4.5",
-        "AI Persuasion",
-        "Artificial Intelligence",
-        "Donation Con",
-        "Persuasive Technology"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
       },
       "pubDate": "2025-02-27T20:00:00.000Z"
     }
