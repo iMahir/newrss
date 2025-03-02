@@ -4,6 +4,49 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Siri’s real AI upgrade could still be years away",
+      "link": "https://www.theverge.com/news/622465/siris-real-ai-upgrade-could-still-be-years-away",
+      "author": "Wes Davis",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196306/unnamed.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "* Apple’s AI upgrade for Siri may not arrive until iOS 20 in 2027, according to Bloomberg’s Mark Gurman.\n* The upcoming Siri update in iOS 18.5 will be a separate model from the existing Siri, which is not performing optimally.\n* The new architecture aims to improve Siri by combining simple requests and advanced AI capabilities, but is running behind schedule and won’t be presented at WWDC in June.\n* Apple’s AI department is facing challenges such as limitations in model performance and difficulty in obtaining necessary hardware for AI training.\n* There are reports of ineffective leadership within the department and talent loss to competitors, hindering progress.",
+      "keywords": [
+        "Siri",
+        "Apple",
+        "AI upgrade",
+        "iOS",
+        "technology"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-03-02T16:11:37.000Z"
+    },
+    {
+      "title": "HMD’s new earbuds can top off your phone’s battery",
+      "link": "https://www.theverge.com/news/622443/hmd-amped-earbuds-battery-case-qi2-charging",
+      "author": "Allison Johnson",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195790/ALLISON_JOHNSON.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- HMD announced new wireless earbuds called Amped Buds with a charging case that can boost phone batteries using Qi2 reverse wireless charging.\n- The earbuds offer active noise cancellation, IP54 splash resistance, and can provide over 95 hours of music playback time when charged fully through the case.\n- Priced at €199 (about $206), they will launch in April 2025, although US availability is yet to be confirmed.",
+      "keywords": [
+        "HMD",
+        "earbuds",
+        "wireless charging",
+        "battery",
+        "tech",
+        "consumer electronics"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-02T15:09:10.000Z"
+    },
+    {
       "title": "Xiaomi 15 Ultra review: ugly phone, beautiful camera",
       "link": "https://www.theverge.com/phone-review/621670/xiaomi-15-ultra-review-camera-periscope-price-specs-price",
       "author": "Dominic Preston",
@@ -1110,52 +1153,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-02-28T13:00:00.000Z"
-    },
-    {
-      "title": "Airbnb co-founder Joe Gebbia now works for DOGE",
-      "link": "https://www.theverge.com/news/621419/airbnb-joe-gebbia-joins-doge-retirement-digital-overhaul",
-      "author": "Jess Weatherbed",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195820/JESSICA_WEATHERBED.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Joe Gebbia joins President Trump's Department of Government Efficiency (DOGE) to improve the retirement process.\n- Gebbia announced his new role, highlighting the importance of enhancing user experience in government.\n- The US Office of Personnel Management processed a retirement application digitally for the first time, reducing processing time significantly.\n- The specifics of Gebbia's involvement and whether it is a paid position are unclear.\n- Gebbia remains a significant shareholder and board member of Airbnb, which faces backlash from users regarding his political affiliations.",
-      "keywords": [
-        "Joe Gebbia",
-        "DOGE",
-        "Airbnb",
-        "government efficiency",
-        "retirement process",
-        "Elon Musk",
-        "Trump"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-28T11:22:13.000Z"
-    },
-    {
-      "title": "EA Open Sources Four Command & Conquer Games",
-      "link": "https://www.theverge.com/news/621397/command-conquer-open-source-ea-red-alert-renegade-generals",
-      "author": "Dominic Preston",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197794/dominic-preston.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- EA has released the source code for four Command & Conquer titles: Tiberian Dawn, Red Alert, Renegade, and Generals, available on [EA’s GitHub page](https://github.com/electronicarts/).\n- This release is aimed at helping modders and the game restoration community; only the source code is open-sourced, not the game assets or cinematics.\n- The new releases provide fully recovered source code for the original games, while Renegade and Generals are being released as open source for the first time.\n- EA has also launched Steam Workshop support and released a 'Modding Support' pack for various C&C games to facilitate mod creation and sharing.",
-      "keywords": [
-        "EA",
-        "open source",
-        "Command & Conquer",
-        "gaming",
-        "modding",
-        "Renegade",
-        "Generals"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-28T10:18:21.000Z"
     }
   ]
 }
