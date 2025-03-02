@@ -4,6 +4,28 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Trump names Bitcoin and others as part of coming ‘Crypto Strategic Reserve’",
+      "link": "https://www.theverge.com/news/622538/trump",
+      "author": "Wes Davis",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196306/unnamed.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- President Trump announced cryptocurrencies, including Bitcoin and Ether, will be part of a Crypto Strategic Reserve created by an executive order signed in January.\n- The reserve will also include XRP, Solana, and Cardano.\n- Trump's order directed the Presidential Working Group to advance on the Crypto Strategic Reserve.\n- Under Trump's administration, the SEC has softened its approach towards cryptocurrencies, dropping multiple investigations and lawsuits.\n- Ripple’s XRP, previously involved in a SEC lawsuit, was mentioned by Trump, with an ongoing appeal related to its classification as a security.",
+      "keywords": [
+        "Trump",
+        "Bitcoin",
+        "Crypto Strategic Reserve",
+        "cryptocurrencies",
+        "XRP",
+        "SEC"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-02T20:48:01.000Z"
+    },
+    {
       "title": "FAA Staff Ordered to Secure Funding for Musk's Starlink Deal",
       "link": "https://www.theverge.com/news/622502/faa-orders-staff-find-funding-starlink-verizon-deal",
       "author": "Wes Davis",
@@ -1125,31 +1147,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-02-28T13:25:54.000Z"
-    },
-    {
-      "title": "AMD Radeon RX 9070 and 9070 XT Pricing and Release Details",
-      "link": "https://www.theverge.com/news/621339/amd-radeon-9070-xt-price-release-date-gpu",
-      "author": "Sean Hollister",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/chrome_s9CNqMgSQ3.jpg?quality=90&strip=all&crop=0,0,100,100&w=2400",
-      "summary": "- AMD’s Radeon RX 9070 and 9070 XT will launch on March 6th.\n- Prices are set at $549 for the RX 9070 and $599 for the RX 9070 XT.\n- The cards support 4K gaming at significantly lower prices compared to competitors like Nvidia’s RTX 5070 and RTX 5070 Ti.\n- The RX 9070 XT is reportedly 51% faster than the RX 6900 XT and 26% faster than the RTX 3090 at 4K resolution.\n- Both cards feature 16GB of GDDR6 memory and consume 220 watts of power.\n- The new RDNA 4 architecture is expected to double the performance per compute unit compared to RDNA 2.\n- AMD plans to support over 75 games with its new FSR 4 technology by the end of the year.",
-      "keywords": [
-        "AMD",
-        "Radeon RX 9070",
-        "Radeon RX 9070 XT",
-        "graphics cards",
-        "RDNA 4",
-        "GPU pricing",
-        "4K gaming",
-        "Nvidia comparison",
-        "FSR 4"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-28T13:14:43.000Z"
     }
   ]
 }
