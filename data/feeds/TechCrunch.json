@@ -4,6 +4,54 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Apple might not release a truly ‘modernized’ Siri until 2027",
+      "link": "https://techcrunch.com/2025/03/02/apple-might-not-release-a-truly-modernized-siri-until-2027/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/10/apple-siri-header.jpg?w=1024",
+      "summary": "[Apple is struggling to rebuild Siri for the age of generative AI.]\n[The modernized version of Siri might not be released until iOS 20 in 2027.]\n[An updated version of Siri is expected to debut in May, incorporating Apple Intelligence features.]",
+      "keywords": [
+        "Apple",
+        "Siri",
+        "generative AI",
+        "iOS",
+        "updates",
+        "technology"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-02T21:57:58.000Z"
+    },
+    {
+      "title": "Flora is building an AI-powered ‘infinite canvas’ for creative professionals",
+      "link": "https://techcrunch.com/2025/03/02/flora-is-building-an-ai-powered-infinite-canvas-for-creative-professionals/",
+      "author": "Anthony Ha",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/flora-workflow.jpg?w=680",
+      "summary": "- Flora is a new startup founded by Weber Wong, aimed at providing creative professionals with better AI tools.\n- The startup's manifesto critiques existing AI creative tools and promises to offer enhanced creative control.\n- Unlike traditional generative AI models, Flora emphasizes a visual interface called an 'infinite canvas' for collaborative creative work.\n- The initial focus is on visual design agencies, with feedback being received from renowned agency Pentagram.\n- Flora integrates with existing AI models but is predominantly centered on improving the user experience.\n- The product launched its alpha version in August, featuring a live art project that interacts with users' creativity in real time.\n- The startup is backed by A16Z Games; its free tier allows limited projects, with a professional plan costing $16 per month.",
+      "keywords": [
+        "AI",
+        "creative professionals",
+        "Flora",
+        "infinite canvas",
+        "Wong",
+        "Pentagram",
+        "visual design",
+        "collaboration",
+        "art",
+        "technology"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 9,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-02T21:25:54.000Z"
+    },
+    {
       "title": "Trump calls for creation of a ‘crypto strategic reserve’",
       "link": "https://techcrunch.com/2025/03/02/trump-calls-for-creation-of-crypto-strategic-reserve/",
       "author": "Anthony Ha",
@@ -1072,56 +1120,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-02-27T20:21:10.000Z"
-    },
-    {
-      "title": "Spyzie stalkerware is spying on thousands of Android and iPhone users",
-      "link": "https://techcrunch.com/2025/02/27/spyzie-stalkerware-spying-on-thousands-of-android-and-iphone-users/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Spyzie has compromised over 500,000 Android devices and thousands of iPhones/iPads.\n- Users likely unaware their data has been compromised.\n- Vulnerabilities shared by Spyzie, Cocospy, and Spyic allow access to personal data.\n- Researcher collected and shared 518,643 email addresses of Spyzie customers.\n- Spyzie is one of 24 stalkerware operations exposed since 2017 due to poor security.\n- Approximately 4,900 iPhones/iPads are affected; attack methods differ from Android.\n- Recommendations provided for checking and removing Spyzie from compromised devices.",
-      "keywords": [
-        "Spyzie",
-        "stalkerware",
-        "Android",
-        "iPhone",
-        "data compromise",
-        "security vulnerabilities",
-        "phone surveillance",
-        "privacy risks",
-        "Cocospy",
-        "Spyic"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-27T20:05:32.000Z"
-    },
-    {
-      "title": "OpenAI unveils GPT-4.5 ‘Orion,’ its largest AI model yet",
-      "link": "https://techcrunch.com/2025/02/27/openai-unveils-gpt-4-5-orion-its-largest-ai-model-yet/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Screenshot-2025-02-27-at-2.27.11AM.jpg?w=680",
-      "summary": "- OpenAI announces the launch of GPT-4.5, code-named Orion, its largest AI model to date, using more computing power and data than previous models.\n- GPT-4.5 is available to ChatGPT Pro subscribers and developers on paid API tiers starting Thursday, with broader accessibility planned.\n- Initial performance shows GPT-4.5 excels in accuracy and emotional intelligence but struggles to surpass reasoning models from other companies in certain benchmarks.",
-      "keywords": [
-        "OpenAI",
-        "GPT-4.5",
-        "Orion",
-        "AI model",
-        "ChatGPT Pro",
-        "emotional intelligence",
-        "benchmarking",
-        "AI reasoning models"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-27T20:00:00.000Z"
     }
   ]
 }
