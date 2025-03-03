@@ -4,6 +4,30 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Podcastle launches a text-to-speech model with over 450 AI voices",
+      "link": "https://techcrunch.com/2025/03/03/podcasting-platform-podcastle-launches-a-text-to-speech-model-with-more-than-450-ai-voices/",
+      "author": "Ivan Mehta",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Screenshot-2025-02-19-at-7.56.28PM.png?w=680",
+      "summary": "- Podcastle has introduced a new AI text-to-speech model named [Asyncflow v1.0](https://podcastle.ai/ai-voices) with over 450 AI voices.\n- The company aims to offer low training and inference costs, providing a competitive edge.\n- Podcastle's founder, Arto Yeritsyan, emphasizes the achievement was made possible by advancements in large language models, reducing previous cost barriers.\n- The text-to-speech service is priced at approximately $40 for 500 minutes, which is lower than competitors like ElevenLabs.\n- Voice cloning capabilities have improved, requiring only a few seconds of recording instead of 70 different sentences for training.\n- Podcastle plans to integrate audio, video, and AI narration tools on a redesigned platform to enhance user experience.",
+      "keywords": [
+        "Podcastle",
+        "text-to-speech",
+        "AI voices",
+        "Asyncflow v1.0",
+        "voice cloning",
+        "artificial intelligence",
+        "audio technology",
+        "startup news"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-03T18:24:42.000Z"
+    },
+    {
       "title": "Google upgrades Colab with an AI agent tool",
       "link": "https://techcrunch.com/2025/03/03/google-upgrades-colab-with-an-ai-agent-tool/",
       "author": "Jagmeet Singh",
@@ -1135,28 +1159,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-28T18:05:00.000Z"
-    },
-    {
-      "title": "A comprehensive list of 2024 and 2025 tech layoffs",
-      "link": "https://techcrunch.com/2025/02/28/tech-layoffs-2024-list/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Over 150,000 job cuts across 542 tech companies in 2024 due to ongoing layoffs.\n- Major companies like [Tesla](https://techcrunch.com/2024/04/15/tesla-layoffs-workers-sales-cybertruck-cuts/), [Amazon](https://techcrunch.com/2024/01/10/amazon-prime-video-and-mgm-studios-laid-off-hundreds-of-employees/), [Google](https://techcrunch.com/2024/01/10/google-cuts-hundreds-of-jobs-in-its-voice-assistance-hardware-teams-as-fitbit-founders-leave/), [TikTok](https://techcrunch.com/2024/01/23/tiktok-lays-off-60-employees/), [Snap](https://techcrunch.com/2024/02/05/snapchats-parent-lays-off-10-of-workforce-in-order-to-reduce-hierarchy-says-company/), and [Microsoft](https://techcrunch.com/2024/01/25/microsoft-lays-off-1900-employees-in-activision-blizzard-and-xbox-divisions/) have seen sizable layoffs.\n- The layoffs are part of a larger trend affecting the tech industry, with trends being monitored into 2025 for further analysis.",
-      "keywords": [
-        "tech layoffs",
-        "2024 layoffs",
-        "2025 layoffs",
-        "job cuts",
-        "technology industry",
-        "employment trends"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-28T18:00:00.000Z"
     }
   ]
 }
