@@ -4,6 +4,78 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Google upgrades Colab with an AI agent tool",
+      "link": "https://techcrunch.com/2025/03/03/google-upgrades-colab-with-an-ai-agent-tool/",
+      "author": "Jagmeet Singh",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/google-data-science-agent.jpg",
+      "summary": "- Google Colab introduces the Data Science Agent tool to assist users in data analysis and visualization.\n- Originally launched as a standalone project, it is now integrated into Colab for easier access.\n- The tool is free but limited for free users; paid plans start at $9.99 with higher limits.\n- Supports CSV, JSON, or .txt files under 1GB and analyzes approximately 120,000 tokens in prompts.\n- Currently utilizes Google's Gemini 2.0 AI model for backend processing and feature engineering.\n- Future integrations with other Google apps are considered for expanding user accessibility.",
+      "keywords": [
+        "Google Colab",
+        "Data Science Agent",
+        "AI tools",
+        "data analysis",
+        "Gemini 2.0"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-03T17:41:06.000Z"
+    },
+    {
+      "title": "Reddit co-founder Alexis Ohanian joins Frank McCourt’s TikTok bid",
+      "link": "https://techcrunch.com/2025/03/03/reddit-co-founder-alexis-ohanian-joins-frank-mccourts-tiktok-bid/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/alexis-ohanian.jpg?w=1024",
+      "summary": "- Alexis Ohanian has joined Frank McCourt's bid to acquire TikTok as a strategic adviser.\n- McCourt emphasizes Ohanian's extensive experience and understanding of social media's evolution.\n- Ohanian's role will focus on validating and socializing the bid efforts.\n- McCourt's Project Liberty has proposed a consortium called The People's Bid to acquire TikTok's U.S. assets, advocating for user data control.\n- Other interested parties in the TikTok acquisition include Jesse Tinsley, Microsoft, Oracle, and Bobby Kotick.\n- TikTok experienced a brief outage in January 2025 but was restored after an executive order from President Trump postponed a TikTok ban.",
+      "keywords": [
+        "Alexis Ohanian",
+        "TikTok",
+        "Frank McCourt",
+        "Project Liberty",
+        "social media",
+        "data control",
+        "acquisition bid",
+        "投资",
+        "社交媒体"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-03T17:38:18.000Z"
+    },
+    {
+      "title": "No part of Amazon is ‘unaffected’ by AI, says its head of AGI",
+      "link": "https://techcrunch.com/2025/03/03/no-part-of-amazon-is-unaffected-by-ai-says-its-head-of-agi/",
+      "author": "Vishal Sharma",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Mike-Butcher-TechCrunch-and-Vishal-Sharma-Amazon.jpg?w=680",
+      "summary": "- Vishal Sharma, Amazon’s VP of Artificial General Intelligence, stated that AI impacts every part of Amazon during his speech at Mobile World Congress in Barcelona.\n- Amazon is deploying its foundational models across AWS, robotics, and Alexa, with a fleet of about 750,000 robots.\n- The company has introduced a new family of multimodal generative AI models called Nova.\n- Sharma noted that smaller open-source AI models will not reduce compute resource needs and are varied in application.\n- Amazon has launched Bedrock for companies to use and mix foundational models.\n- The company is building a large AI compute cluster on Trainium 2 chips in partnership with Anthropic.\n- Sharma argued that Amazon has been focused on AI for about 25 years, dispelling the notion they were caught off guard by competitors like OpenAI.",
+      "keywords": [
+        "Amazon",
+        "AI",
+        "Artificial Intelligence",
+        "Mobile World Congress",
+        "Vishal Sharma",
+        "AWS",
+        "Generative AI",
+        "Robotics",
+        "Alexa",
+        "Open Source Models"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-03T17:34:47.000Z"
+    },
+    {
       "title": "Fintech startup Ramp nearly doubles valuation to $13B in secondary share sale",
       "link": "https://techcrunch.com/2025/03/03/fintech-startup-ramp-nearly-doubles-valuation-to-13b-in-secondary-share-sale/",
       "author": "Mary Ann Azevedo",
@@ -1085,78 +1157,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-02-28T18:00:00.000Z"
-    },
-    {
-      "title": "Alkami is buying fintech Mantl for $400 million",
-      "link": "https://techcrunch.com/2025/02/28/alkami-is-buying-fintech-mantl-for-400-million/",
-      "author": "Mary Ann Azevedo",
-      "thumbnail": null,
-      "summary": "- Alkami Technology is acquiring fintech Mantl for $400 million.\n- Mantl, founded in 2016, develops software to streamline digital account openings at community banks and credit unions.\n- The deal is expected to close by the end of March 2025.\n- Mantl’s technology aims to enhance competition among banks and improve customer options in digital banking.\n- The company's last funding round valued it at $345 million post-money, raising over $96 million in total to date.",
-      "keywords": [
-        "Alkami",
-        "Mantl",
-        "fintech",
-        "acquisition",
-        "digital banking",
-        "community banks"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-28T17:19:10.000Z"
-    },
-    {
-      "title": "Tesla applies for ride-hail permit in California — but there’s a catch",
-      "link": "https://techcrunch.com/2025/02/28/tesla-applies-for-ride-hail-permit-in-california-but-theres-a-catch/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1239825394.jpg?w=1024",
-      "summary": "- Tesla applied for a transportation service permit with the California Public Utilities Commission (CPUC) on November 2024.\n- The permit, known as a TCP permit, is necessary for Tesla to operate a robotaxi service in California and is different from the permits held by Uber and Lyft.\n- CEO Elon Musk announced plans for a paid ride-hailing robotaxi service in Austin to launch in June 2025, utilizing Tesla-owned vehicles and new Full Self-Driving software.\n- Tesla gears towards driverless services despite moving operations to more regulatory-friendly locations like Texas.",
-      "keywords": [
-        "Tesla",
-        "ride-hail permit",
-        "California",
-        "CPUC",
-        "robotaxi service",
-        "Elon Musk",
-        "transportation service",
-        "autonomous vehicles",
-        "Full Self-Driving software"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-28T17:08:26.000Z"
-    },
-    {
-      "title": "Mozilla responds to backlash over new terms, saying it’s not using people’s data for AI",
-      "link": "https://techcrunch.com/2025/02/28/mozilla-responds-to-backlash-over-new-terms-saying-its-not-using-peoples-data-for-ai/",
-      "author": "Sarah Perez",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/firefox-ai-chatbots.png?w=680",
-      "summary": "- Mozilla introduced new **Terms of Use** for Firefox, prompting user backlash due to unclear language about data usage.\n- The company clarified that the terms are not a change in data practices but aim to formalize user agreements.\n- Critics, including Brave CEO Brendan Eich, expressed concerns over possible data monetization related to AI.\n- Mozilla reassured users that their data will not be shared with AI companies and remains de-identified when shared with advertisers.\n- The new terms and updates aim to enhance transparency but have led to confusion and possible user migration to other browsers.",
-      "keywords": [
-        "Mozilla",
-        "Firefox",
-        "Terms of Use",
-        "data privacy",
-        "user data",
-        "AI",
-        "advertising",
-        "user backlash",
-        "browser market share"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 7,
-        "novelty": 4,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-28T16:48:48.000Z"
     }
   ]
 }
