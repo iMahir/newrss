@@ -4,6 +4,55 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Singapore arrests alleged Nvidia chip smugglers",
+      "link": "https://techcrunch.com/2025/03/03/singapore-arrests-alleged-nvidia-chip-smugglers/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?w=1024",
+      "summary": "- Singaporean police arrested three men for allegedly smuggling Nvidia chips on March 3, 2025.\n- The arrested individuals include two Singaporeans and one Chinese citizen, charged with fraud regarding server supplies.\n- Investigations are ongoing to determine if the servers from Dell and Supermicro contained restricted Nvidia chips diverted from their intended destination in Malaysia.",
+      "keywords": [
+        "Singapore",
+        "Nvidia",
+        "chip smuggling",
+        "fraud",
+        "Dell",
+        "Supermicro",
+        "China",
+        "export controls"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-03T22:44:32.000Z"
+    },
+    {
+      "title": "Creator monetization platform Passes sued over alleged distribution of CSAM",
+      "link": "https://techcrunch.com/2025/03/03/creator-monetization-platform-passes-sued-over-alleged-distribution-of-csam/",
+      "author": "Amanda Silberling",
+      "thumbnail": null,
+      "summary": "• Passes, a monetization platform for creators, is facing a lawsuit for allegedly distributing Child Sexual Abuse Material (CSAM).\n• Filed by creator Alice Rosenblum, the lawsuit claims Passes produced and sold explicit content of her when she was a minor.\n• Besides Passes, individuals Alec Celestin and Lani Ginoza, and CEO Lucy Guo are also named in the lawsuit.\n• The case raises questions about the responsibility of fan platforms in preventing illegal content distribution.\n• Passes denies the allegations, asserting it operates a no-nudity platform and follows strict content moderation policies.\n• The company uses Microsoft PhotoDNA to scan for CSAM and reports any findings to the NCMEC.\n• Rosenblum's allegations include claims that Celestin pressured her to create explicit content before her 18th birthday.",
+      "keywords": [
+        "Passes",
+        "lawsuit",
+        "CSAM",
+        "creator monetization",
+        "Alice Rosenblum",
+        "Lucy Guo",
+        "Alec Celestin",
+        "child exploitation",
+        "content moderation"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-03T22:22:08.000Z"
+    },
+    {
       "title": "MWC hears two starkly divided views of AI’s impact",
       "link": "https://techcrunch.com/2025/03/03/mwc-hears-two-starkly-divided-views-of-ais-impact/",
       "author": "Natasha Lomas",
@@ -1108,54 +1157,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-01T05:43:00.000Z"
-    },
-    {
-      "title": "Sergey Brin says RTO is key to Google winning the AGI race",
-      "link": "https://techcrunch.com/2025/02/28/sergey-brin-says-rto-is-key-to-google-winning-the-agi-race/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Sergey Brin urged Google employees to return to the office every weekday to enhance productivity in the AGI race.\n- He suggested that working 60 hours a week is optimal for productivity.\n- Brin's memo, although not official policy, reflects pressure on tech firms to compete in AI,\n- It indicates Brin's belief in Google's potential to create superintelligent AI.\n- He has returned to Google recently to help the company regain its edge in artificial intelligence following the unexpected rise of OpenAI's ChatGPT in 2022.",
-      "keywords": [
-        "Sergey Brin",
-        "Google",
-        "AGI",
-        "artificial intelligence",
-        "return to office",
-        "productivity",
-        "OpenAI",
-        "ChatGPT",
-        "Silicon Valley"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-28T23:17:25.000Z"
-    },
-    {
-      "title": "SymbyAI raises $2.1M seed to make science research easier",
-      "link": "https://techcrunch.com/2025/02/28/symbyai-raises-2-1m-seed-to-make-science-research-easier/",
-      "author": "Ashia Livaudais, Michael House",
-      "thumbnail": null,
-      "summary": "- SymbyAI, a SaaS platform aimed at streamlining scientific research, raised $2.1 million in seed funding from investors including Drive Capital and CharacterVC.\n- The platform, launched last year, offers organized workspaces for researchers to access various resources and track progress, employing AI features for peer review.\n- The founder, Ashia Livaudais, started the company to address inefficient scientific research processes, emphasizing IP protection with their proprietary AI solution.\n- The new funding will support company growth and initial partnerships, following connections made through the gBeta program.",
-      "keywords": [
-        "SymbyAI",
-        "seed funding",
-        "scientific research",
-        "AI platform",
-        "Ashia Livaudais",
-        "Drive Capital",
-        "CharacterVC"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-28T23:15:00.000Z"
     }
   ]
 }

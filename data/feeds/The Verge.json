@@ -4,6 +4,31 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "US tariffs: how Trump’s tax is hitting Big Tech and beyond",
+      "link": "https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates",
+      "author": "Emma Roth",
+      "thumbnail": "null",
+      "summary": "- President Trump imposes 25% tariffs on imports from Canada and Mexico, and 10% on Chinese imports, effective March 4th unless certain drug imports are addressed.\n- Automakers face significant impacts due to new tariffs, prompting prices to rise in the US.\n- Acer CEO predicts a 10% increase in laptop prices in response to the tariffs.",
+      "keywords": [
+        "tariffs",
+        "Trump",
+        "Big Tech",
+        "Canada",
+        "Mexico",
+        "China",
+        "automakers",
+        "prices",
+        "Acer"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-03T22:49:10.000Z"
+    },
+    {
       "title": "TSMC announces $100 billion investment in US chipmaking",
       "link": "https://www.theverge.com/news/623335/tsmc-chip-factories-100-billion-trump",
       "author": "Emma Roth",
@@ -1127,27 +1152,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-01T15:00:00.000Z"
-    },
-    {
-      "title": "Go Read This: The Verge’s favorite reads from all over the web",
-      "link": "https://www.theverge.com/24188803/best-tech-reads-articles-books",
-      "author": "Verge Staff",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196306/unnamed.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-      "summary": "- An ongoing collection of notable articles and topics recommended by The Verge.\n- Covers various genres including longform journalism, technology, news analysis, and literary recommendations.\n- Encourages readers to explore individual posts and join in discussions about the readings.",
-      "keywords": [
-        "recommended reads",
-        "journalism",
-        "technology",
-        "literature",
-        "The Verge"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 6,
-        "novelty": 4,
-        "longTermSignificance": 3
-      },
-      "pubDate": "2025-03-01T14:48:16.000Z"
     }
   ]
 }
