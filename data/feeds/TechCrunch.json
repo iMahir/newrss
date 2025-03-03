@@ -4,6 +4,52 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Cloudsmith raises $23M to improve software supply chain security",
+      "link": "https://techcrunch.com/2025/03/03/cloudsmith-raises-23m-to-solve-software-supply-chain-security/",
+      "author": "Not given",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Cloudsmith.jpeg?w=680",
+      "summary": "- Cloudsmith, a Northern Irish startup, raised $23 million in a Series B funding round led by TCV to improve software supply chain security.\n- The company offers a cloud-native artifact management platform aimed at providing alternatives to legacy platforms like JFrog and Sonatype.\n- Founded in Belfast in 2016, Cloudsmith previously raised $26 million in Series A funding and focuses on ensuring the reliability and security of software packages through scanning and curation.",
+      "keywords": [
+        "Cloudsmith",
+        "software supply chain",
+        "security",
+        "funding",
+        "artifact management",
+        "open source vulnerabilities",
+        "investors",
+        "Glenn Weinstein"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-03T13:00:00.000Z"
+    },
+    {
+      "title": "Opera unveils an AI agent that runs natively within the browser",
+      "link": "https://techcrunch.com/2025/03/03/opera-announces-a-new-agentic-feature-for-its-browser/",
+      "author": "Ivan Mehta",
+      "thumbnail": null,
+      "summary": "- Opera has launched a new AI agent named Browser Operator that assists users on various websites.\n- Demonstrated tasks include finding socks from Walmart, securing football tickets, and booking travel on Booking.com.\n- The feature will be available soon through Opera's Feature Drop program.\n- Uncertainty remains if the agent can perform broader tasks across multiple websites.\n- The Browser Operator is said to be more secure as it operates natively on devices rather than through cloud services.\n- The market for AI agents in browsers is competitive, with similar offerings from OpenAI and upcoming browsers like Dia and Comet.",
+      "keywords": [
+        "Opera",
+        "AI agent",
+        "Browser Operator",
+        "Feature Drop",
+        "security",
+        "tech news"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-03T13:00:00.000Z"
+    },
+    {
       "title": "Uber is piloting accounts for teenagers in India",
       "link": "https://techcrunch.com/2025/03/03/uber-is-piloting-accounts-for-teenagers-in-india/",
       "author": "Jagmeet Singh",
@@ -1075,49 +1121,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-27T23:06:16.000Z"
-    },
-    {
-      "title": "Snowflake grows startup accelerator with $200M in new capital",
-      "link": "https://techcrunch.com/2025/02/27/snowflake-grows-startup-accelerator-with-200m-in-new-capital/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- Snowflake is expanding its startup accelerator with an additional $200 million in commitments.\n- The accelerator, formerly known as the Powered by Snowflake Funding Program, invests in early-stage startups, particularly those focused on AI.\n- Notable graduates include Coalesce, Andrew Ng’s LandingAI, and TwelveLabs.\n- Capital will come from both new and existing VC partners such as Bain Capital Ventures and Blackstone Innovations Investments.\n- Snowflake aims to support startups with technical support and co-marketing opportunities, and it has aggressive investments in AI initiatives.",
-      "keywords": [
-        "Snowflake",
-        "startup accelerator",
-        "investment",
-        "AI",
-        "venture capital",
-        "tech"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-27T22:04:20.000Z"
-    },
-    {
-      "title": "Meta fires around 20 employees for leaking confidential information",
-      "link": "https://techcrunch.com/2025/02/27/meta-fires-around-20-employees-for-leaking-confidential-information/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Meta has fired roughly 20 employees for leaking confidential information.\n- The company emphasizes that leaking internal information violates their policies.\n- This action follows a surge in leaked details about internal meetings and product plans, prompting a warning to employees that leakers would be terminated.\n- Meta's CTO indicated that the company is close to identifying more leakers.",
-      "keywords": [
-        "Meta",
-        "employee termination",
-        "leaks",
-        "confidential information",
-        "company policy"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-02-27T20:46:43.000Z"
     }
   ]
 }
