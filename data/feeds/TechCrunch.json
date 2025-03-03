@@ -4,6 +4,97 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "TechCrunch Sessions: AI speaker applications close March 7",
+      "link": "https://techcrunch.com/2025/03/03/techcrunch-sessions-ai-speaker-applications-close-march-7/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- TechCrunch Sessions: AI will begin on June 5, 2025, at UC Berkeley's Zellerbach Hall.\n- AI community members are invited to apply as speakers by March 7, 2025, before midnight.\n- Selected speakers will lead a 50-minute session, covering pressing topics in AI, with audience engagement opportunities.\n- TechCrunch audience will vote on submitted topics to determine which sessions will be featured.\n- Speakers gain exposure through event listings, social media promotion, and networking opportunities.",
+      "keywords": [
+        "TechCrunch",
+        "AI",
+        "speaking opportunity",
+        "event announcement",
+        "applications"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-03T20:00:00.000Z"
+    },
+    {
+      "title": "TSMC pledges to spend $100B on US chip facilities",
+      "link": "https://techcrunch.com/2025/03/03/tsmc-pledges-to-spend-100b-on-us-chip-facilities/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- TSMC plans to invest at least $100 billion in U.S. chip manufacturing over the next four years.\n- The announcement was made by President Trump during a press conference.\n- Funding will go towards new facilities in Arizona to support AI chip production.\n- This new investment brings TSMC's total U.S. investments to around $165 billion.\n- Concerns persist about TSMC's monopoly and the U.S. dependency on Taiwanese chip manufacturing.\n- TSMC is responding to increased U.S. demand for domestic semiconductor production amid geopolitical tensions.",
+      "keywords": [
+        "TSMC",
+        "chip manufacturing",
+        "investment",
+        "semiconductors",
+        "AI chips",
+        "U.S. manufacturing",
+        "geopolitical tensions"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-03T19:40:00.000Z"
+    },
+    {
+      "title": "Google releases SpeciesNet, an AI model designed to identify wildlife",
+      "link": "https://techcrunch.com/2025/03/03/google-releases-speciesnet-an-ai-model-designed-to-identify-wildlife/",
+      "author": "Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/sample_image_oct.jpg?w=680",
+      "summary": "- Google has open-sourced SpeciesNet, an AI model for identifying animal species from camera trap photos.\n- SpeciesNet was trained on over 65 million images, including data from organizations like the Smithsonian and the Wildlife Conservation Society.\n- The model can classify images into over 2,000 labels, assisting in biodiversity monitoring efforts.\n- The release is part of Google's Wildlife Insights initiative, which aids researchers in analyzing wildlife population data.\n- SpeciesNet is available on GitHub under an Apache 2.0 license, allowing broad commercial use.",
+      "keywords": [
+        "AI",
+        "SpeciesNet",
+        "wildlife",
+        "biodiversity",
+        "camera traps",
+        "image analysis",
+        "open source"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-03T19:22:12.000Z"
+    },
+    {
+      "title": "Lee Enterprises ransomware attack hits freelance and contractor payments",
+      "link": "https://techcrunch.com/2025/03/03/lee-enterprises-ransomware-attack-hits-freelance-and-contractor-payments/",
+      "author": "Zack Whittaker",
+      "thumbnail": null,
+      "summary": "- A ransomware attack on Lee Enterprises, ongoing since February 3, has disrupted payments to freelancers and contractors.\n- The cyberattack has resulted in widescale outages across the U.S., affecting print editions and critical operations like billing and vendor payments.\n- Some contractors report not being paid for over a month, causing anxiety and uncertainty about the situation.\n- Lee confirmed that salaried staff are unaffected, although some internal reimbursement systems remain inaccessible.\n- The Qilin ransomware gang has claimed responsibility for the attack, which may have a significant impact on Lee's financial condition.",
+      "keywords": [
+        "Lee Enterprises",
+        "ransomware",
+        "freelance payments",
+        "contractors",
+        "cyberattack",
+        "vendor payments",
+        "Qilin ransomware",
+        "financial impact"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-03T19:20:52.000Z"
+    },
+    {
       "title": "Podcastle launches a text-to-speech model with over 450 AI voices",
       "link": "https://techcrunch.com/2025/03/03/podcasting-platform-podcastle-launches-a-text-to-speech-model-with-more-than-450-ai-voices/",
       "author": "Ivan Mehta",
@@ -1066,99 +1157,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-28T21:04:19.000Z"
-    },
-    {
-      "title": "Researchers uncover unknown Android flaws used to hack into a student’s phone",
-      "link": "https://techcrunch.com/2025/02/28/researchers-uncover-unknown-android-flaws-used-to-hack-into-a-students-phone/",
-      "author": "Lorenzo Franceschi-Bicchierai",
-      "thumbnail": null,
-      "summary": "- Amnesty International reported that Google fixed unknown Android flaws exploited by Cellebrite.\n- The vulnerabilities could affect over a billion Android devices due to being rooted in the Linux USB kernel.\n- The discovery followed a hack affecting a student activist's phone in Serbia and involved multiple zero-day vulnerabilities.",
-      "keywords": [
-        "Android",
-        "vulnerabilities",
-        "Cellebrite",
-        "cybersecurity",
-        "Amnesty International",
-        "zero-day",
-        "human rights"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 8,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-28T19:38:33.000Z"
-    },
-    {
-      "title": "Google Sheets gets a Gemini-powered upgrade to analyze data faster and create visuals",
-      "link": "https://techcrunch.com/2025/02/28/google-sheets-gets-a-gemini-powered-upgrade-to-analyze-data-faster-and-create-visuals/",
-      "author": "Aisha Malik",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/google-sheets-gemini.png?w=680",
-      "summary": "- Google Sheets receives a Gemini-powered update for faster data analysis and visualizations.\n- Users can generate insights like correlations, trends, and outliers using Gemini's capabilities.\n- Advanced visualizations, such as heatmaps, can be inserted as static images in spreadsheets.\n- The update is now available to all Workspace business users as of February 28, 2025.\n- To use, click the Gemini icon and input requests like predicting net income or creating heatmaps.\n- Gemini runs Python code for complex requests and uses formulas for simpler tasks.\n- Data should be well-structured with clear headers and no missing values for accurate analysis.",
-      "keywords": [
-        "Google Sheets",
-        "Gemini",
-        "data analysis",
-        "AI",
-        "visualizations",
-        "Machine Learning",
-        "Google Workspace",
-        "heatmaps"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-02-28T19:28:00.000Z"
-    },
-    {
-      "title": "Bluesky-based Instagram alternative Flashes launches publicly",
-      "link": "https://techcrunch.com/2025/02/28/bluesky-based-instagram-alternative-flashes-launches-publicly/",
-      "author": "Sarah Perez",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/flashes-app.png?w=345",
-      "summary": "- Flashes, a new photo-sharing app, launched this week on the App Store, gaining nearly 30,000 downloads in 24 hours.\n- Developed by Sebastian Vogelsang, Flashes operates on the Bluesky protocol, allowing compatibility with Bluesky users.\n- Features include customizable feeds, Portfolio Mode for curating profiles, and photo editing filters, aimed at photographers and content creators.",
-      "keywords": [
-        "Flashes",
-        "Bluesky",
-        "photo-sharing",
-        "Instagram alternative",
-        "app launch",
-        "social media",
-        "Sebastian Vogelsang"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 7,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-02-28T19:23:05.000Z"
-    },
-    {
-      "title": "Good hype for fusion, bad buzz for YC",
-      "link": "https://techcrunch.com/2025/02/28/good-hype-for-fusion-bad-buzz-for-yc/",
-      "author": "Anna Heim",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Proxima-Fusion-.avif?w=680",
-      "summary": "- Startups saw both positive and negative responses, impacting funding rounds.\n- Proxima Fusion's design for a reliable fusion power plant received praise in a peer-reviewed journal, adding credibility.\n- Y Combinator faced backlash after deleting posts about Optifye.ai, which were criticized as 'sweatshops-as-a-service.'\n- Inception introduced a diffusion-based large language model aiming to compete with existing LLMs.\n- Quantum Machines raised $170 million in one of the largest funding rounds for quantum computing.\n- Several startups raised significant amounts, including Shop Circle ($60 million Series B) and Nomagic ($44 million Series B).",
-      "keywords": [
-        "fusion",
-        "startups",
-        "Y Combinator",
-        "funding",
-        "AI",
-        "quantum computing",
-        "Proxima Fusion"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-28T18:05:00.000Z"
     }
   ]
 }

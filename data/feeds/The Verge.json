@@ -4,6 +4,54 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "The FTC is being hit by terminations",
+      "link": "https://www.theverge.com/news/623242/federal-trade-commission-terminations",
+      "author": "Lauren Feiner",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197292/2023-05-07_16.33.21_-_Lauren_Feiner_Headshot_-_8X10_-_001.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- At least a dozen probationary staffers at the FTC were terminated last week.\n- The terminations affected staff across the Bureau of Consumer Protection and Bureau of Competition.\n- The cuts appear to follow actions by Elon Musk’s Department of Government Efficiency (DOGE), which targets probationary employees.\n- This marks a significant staffing cut during the current Trump administration for the FTC.\n- The FTC union acknowledged the terminations but did not know the full scope.\n- The agency's internal equal opportunity office was reduced from six to three staffers.\n- FTC staff were informed they would be moving into vacated USAID offices soon.",
+      "keywords": [
+        "Federal Trade Commission",
+        "terminations",
+        "staff cuts",
+        "Elon Musk",
+        "Department of Government Efficiency",
+        "policies",
+        "government staffing"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 7,
+        "novelty": 4,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-03T20:06:57.000Z"
+    },
+    {
+      "title": "Overview of Apple Vision Pro Apps: Pros and Cons",
+      "link": "https://www.theverge.com/2024/1/18/24043367/apple-vision-pro-apps-good-bad",
+      "author": "Verge Staff",
+      "thumbnail": null,
+      "summary": "- Apple’s Vision Pro launches with over 600 apps, despite lacking Netflix and YouTube.\n- Microsoft Teams, Word, and Excel are confirmed for launch.\n- The device operates within a highly controlled ecosystem, termed as 'walled gardens'.\n- The web emerges as the standout app for the Vision Pro, meeting users' basic needs.\n- Notable absences include the YouTube and Netflix apps.\n- Vision Pro will feature 3D movies from Disney Plus at launch.\n- iPhone and iPad apps are available in the Vision Pro App Store by default.",
+      "keywords": [
+        "Apple",
+        "Vision Pro",
+        "Apps",
+        "Technology",
+        "Augmented Reality",
+        "Virtual Reality",
+        "Entertainment",
+        "Microsoft",
+        "Disney"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-03T19:26:46.000Z"
+    },
+    {
       "title": "SwitchBot launches cut-your-own smart shades",
       "link": "https://www.theverge.com/news/623000/switchbot-smart-roller-shades-adjustable-price-release-date-specs",
       "author": "Jennifer Pattison Tuohy",
@@ -1102,51 +1150,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-01T00:12:50.000Z"
-    },
-    {
-      "title": "Google’s co-founder tells AI staff to stop ‘building nanny products’",
-      "link": "https://www.theverge.com/command-line-newsletter/622045/google-ai-nanny-products",
-      "author": "Alex Heath",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Boz-2.png?quality=90&strip=all&crop=0,0,100,100&w=2400",
-      "summary": "[Google co-founder Sergey Brin emphasizes the urgency in AI development at DeepMind.]\n[He advocates for longer work hours and prioritizing simple, efficient solutions.]\n[Brin insists on trusting users and stopping the creation of overly protective AI products.]",
-      "keywords": [
-        "Google",
-        "AI",
-        "Sergey Brin",
-        "DeepMind",
-        "AGI",
-        "productivity",
-        "technology"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-28T23:46:04.000Z"
-    },
-    {
-      "title": "Zapier says someone broke into its code repositories and may have accessed customer data",
-      "link": "https://www.theverge.com/news/622026/zapier-data-breach-code-repositories",
-      "author": "Jay Peters",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195819/JAY_PETERS.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=48",
-      "summary": "- An unauthorized user accessed Zapier's code repositories, potentially gaining customer information.\n- The issue was due to a two-factor authentication (2FA) misconfiguration on an employee's account.\n- Zapier secured access to the repositories upon discovering the breach and stated it did not affect their main systems.",
-      "keywords": [
-        "Zapier",
-        "data breach",
-        "code repositories",
-        "customer information",
-        "security incident",
-        "two-factor authentication"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-28T23:18:30.000Z"
     }
   ]
 }
