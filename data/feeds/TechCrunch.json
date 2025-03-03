@@ -4,6 +4,75 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "The author of SB 1047 introduces a new AI bill in California",
+      "link": "https://techcrunch.com/2025/03/03/the-author-of-sb-1047-introduces-a-new-ai-bill-in-california/",
+      "author": "Maxwell Zeff",
+      "thumbnail": null,
+      "summary": "- California state Senator Scott Wiener introduced a new AI bill, SB 53, aiming to protect AI whistleblowers and create a public computing cluster called CalCompute.\n- SB 53 focuses on whistleblower protections and limits reprisals against employees disclosing critical AI risks, defining 'critical risk' with specific thresholds.\n- The bill is a response to past controversies surrounding SB 1047, which was vetoed by Governor Newsom, and may face challenges in a changing legislative climate for AI safety in 2025.",
+      "keywords": [
+        "AI",
+        "California",
+        "Senate Bill 53",
+        "Scott Wiener",
+        "whistleblower protections",
+        "CalCompute",
+        "AI safety",
+        "legislation",
+        "technology"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-03T20:38:25.000Z"
+    },
+    {
+      "title": "Google Play update makes it easier to find Android apps with widgets",
+      "link": "https://techcrunch.com/2025/03/03/google-play-update-makes-it-easier-to-find-android-apps-with-widgets/",
+      "author": "Sarah Perez",
+      "thumbnail": null,
+      "summary": "- Google announced updates to its Android widgets system to enhance app discoverability.\n- New visual badges will indicate which apps offer widgets on their Play Store detail pages.\n- A dedicated search filter for widgets will help users find relevant apps directly.\n- A curated Editorial Page will showcase well-designed widgets, boosting app installs for developers.",
+      "keywords": [
+        "Google Play",
+        "Android",
+        "widgets",
+        "app discovery",
+        "user engagement"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-03T20:24:28.000Z"
+    },
+    {
+      "title": "Ramp has more than doubled its annualized revenue to $700 million",
+      "link": "https://techcrunch.com/2025/03/03/ramp-has-more-than-doubled-its-annualized-revenue-to-700-million/",
+      "author": "Mary Ann Azevedo",
+      "thumbnail": null,
+      "summary": "- Ramp crossed $700 million in annualized revenue as of January 2025.\n- Previous milestones: $100 million by March 2022 and $300 million by August 2023.\n- CEO Eric Glyman states Ramp accounts for 1-2% of the U.S. card market and is not yet profitable as it reinvests in R&D.\n- The company raised $150 million in a Series D extension last April.\n- AI utilization is helping reduce cash burn to less than $2 million per month, improving efficiency across teams.\n- Ramp's valuation nearly doubled to $13 billion after a secondary share sale, up from $7.65 billion in April 2024.\n- The startup employs over 1,000 people as of the end of 2024.",
+      "keywords": [
+        "Ramp",
+        "annualized revenue",
+        "fintech",
+        "AI",
+        "valuation",
+        "Series D",
+        "Eric Glyman"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-03T20:23:33.000Z"
+    },
+    {
       "title": "TechCrunch Sessions: AI speaker applications close March 7",
       "link": "https://techcrunch.com/2025/03/03/techcrunch-sessions-ai-speaker-applications-close-march-7/",
       "author": null,
@@ -1086,77 +1155,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-28T22:07:46.000Z"
-    },
-    {
-      "title": "OpenAI plans to bring Sora’s video generator to ChatGPT",
-      "link": "https://techcrunch.com/2025/02/28/openai-plans-to-bring-soras-video-generator-to-chatgpt/",
-      "author": "Maxwell Zeff",
-      "thumbnail": null,
-      "summary": "- OpenAI plans to integrate its AI video generator Sora into ChatGPT.\n- Sora currently exists as a standalone web app allowing up to twenty-second video clips.\n- The integration aims to simplify access for users and potentially increase subscription upgrades for ChatGPT.\n- A new image generator powered by Sora is also in development.\n- OpenAI is exploring options for a standalone mobile app for Sora.",
-      "keywords": [
-        "OpenAI",
-        "Sora",
-        "ChatGPT",
-        "AI video generation",
-        "integrations",
-        "mobile app",
-        "image generator"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-28T21:32:53.000Z"
-    },
-    {
-      "title": "OpenAI plans to integrate Sora’s video generator into ChatGPT",
-      "link": "https://techcrunch.com/2025/02/28/openai-plans-to-integrate-soras-video-generator-into-chatgpt/",
-      "author": "Maxwell Zeff",
-      "thumbnail": null,
-      "summary": "- OpenAI intends to integrate its AI video generation tool, [Sora](https://techcrunch.com/2024/12/09/openais-sora-is-launching-today-heres-highlights-from-the-first-review/), into ChatGPT.\n- Currently, Sora is available via a dedicated web app that generates up to 20-second video clips.\n- OpenAI aims to broaden Sora's appeal and increase accessibility within ChatGPT, though no timeline is given.\n- Sora may also expand to creating images, leveraging Sora’s capabilities to enhance photo realism.",
-      "keywords": [
-        "OpenAI",
-        "Sora",
-        "ChatGPT",
-        "video generation",
-        "AI tools",
-        "image generator"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-28T21:32:53.000Z"
-    },
-    {
-      "title": "DeepSeek: Everything you need to know about the AI chatbot app",
-      "link": "https://techcrunch.com/2025/02/28/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- DeepSeek's chatbot app reached the top of the Apple and Google Play Store charts, drawing significant attention.\n- Founded by Liang Wenfeng, DeepSeek is backed by High-Flyer Capital Management, specializing in AI tools for trading.\n- DeepSeek unveiled its first models in November 2023, with the next-gen DeepSeek-V2 launching in spring 2024, significantly impacting the AI market.\n- China’s internet regulations impose limitations on DeepSeek’s responses about sensitive topics like Tiananmen Square.\n- DeepSeek is available on Microsoft’s Azure AI Foundry service and has led to substantial changes in AI spending by competitors.\n- The company is facing bans from various countries over data security concerns.",
-      "keywords": [
-        "DeepSeek",
-        "AI chatbot",
-        "artificial intelligence",
-        "Liang Wenfeng",
-        "DeepSeek models",
-        "AI competition",
-        "China",
-        "Nvidia",
-        "Microsoft Azure",
-        "technology regulations"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 8,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-28T21:04:19.000Z"
     }
   ]
 }
