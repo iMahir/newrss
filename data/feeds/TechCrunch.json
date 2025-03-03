@@ -4,6 +4,98 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Chinese buyers are getting Nvidia Blackwell chips despite U.S. export controls",
+      "link": "https://techcrunch.com/2025/03/03/chinese-buyers-are-getting-nvidia-blackwell-chips-despite-u-s-export-controls/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1598978057.jpg?w=1024",
+      "summary": "- Chinese buyers are acquiring Nvidia’s Blackwell chips through third-party traders in regions like Malaysia, Taiwan, and Vietnam.\n- Former President Biden introduced new export restrictions on AI chips just before leaving office, affecting China.\n- Nvidia previously stated that these restrictions would impede global innovation and did not respond to requests for comment.",
+      "keywords": [
+        "Nvidia",
+        "Blackwell chips",
+        "China",
+        "export controls",
+        "semiconductor",
+        "AI market"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-03T15:08:59.000Z"
+    },
+    {
+      "title": "Conan O’Brien comments on AI during his opening monologue at the Oscars",
+      "link": "https://techcrunch.com/2025/03/03/conan-obrien-comments-on-ai-during-his-opening-monologue-at-the-oscars/",
+      "author": "Lauren Forristal",
+      "thumbnail": null,
+      "summary": "- Conan O’Brien hosted the 2025 Oscars and discussed the role of AI in Hollywood during his opening monologue.\n- He stated, \"We did not use AI to make this show,\" referencing AI's involvement in the Oscar-winning film \"The Brutalist.\"\n- The film has faced controversy for using AI technology in editing, including AI voice generation to enhance dialogue authenticity.\n- The debate around AI's role in films intensified after \"The Brutalist,\" with calls for stricter guidelines on AI use in film submissions by the Motion Picture Academy.",
+      "keywords": [
+        "Conan O'Brien",
+        "AI in Hollywood",
+        "2025 Oscars",
+        "The Brutalist",
+        "AI controversy",
+        "film editing",
+        "Oscar winners",
+        "Hollywood strikes"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-03T15:08:27.000Z"
+    },
+    {
+      "title": "T-Mobile and Perplexity announce new ‘AI phone’ priced at under $1K",
+      "link": "https://techcrunch.com/2025/03/03/t-mobile-and-perplexity-announce-new-ai-phone-priced-at-under-1k/",
+      "author": "Ingrid Lunden",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/DT-AI-Phone-Perplexity.jpg?w=680",
+      "summary": "- T-Mobile announces an AI Phone developed in collaboration with Perplexity, Picsart, and others.\n- The device will be unveiled in the second half of 2025 and sold for under $1,000 starting in 2026.\n- T-Mobile aims to become an AI-focused company, leveraging generative AI technologies for improved user experience.\n- Magenta AI, a new AI assistant app, will be available for T-Mobile customers on existing devices.\n- The partnership between Perplexity and Deutsche Telekom began in April 2024, focusing on proactive AI applications.",
+      "keywords": [
+        "T-Mobile",
+        "Perplexity",
+        "AI Phone",
+        "mobile technology",
+        "artificial intelligence",
+        "Magenta AI",
+        "Mobile World Congress"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-03T14:24:47.000Z"
+    },
+    {
+      "title": "Stability AI optimized its audio generation model to run on Arm chips",
+      "link": "https://techcrunch.com/2025/03/03/stability-ai-optimized-its-audio-generation-model-to-run-on-arm-chips/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- AI startup Stability AI has partnered with Arm to optimize its AI audio model, Stable Audio Open, for mobile devices.\n- The model can generate audio based on text descriptions and is designed to work offline, differing from many cloud-dependent AI audio apps.\n- Stable Audio Open's training set consists entirely of royalty-free audio to avoid copyright issues.\n- The optimized model can generate an 11-second audio sample in about 8 seconds on an Armv9 CPU, achieving 30x faster generation.\n- The model is not yet available for public download, but Stability plans to integrate it into consumer apps in the future.\n- Stability AI has seen changes in leadership and aims to recover from previous financial struggles.",
+      "keywords": [
+        "Stability AI",
+        "Arm",
+        "audio generation",
+        "mobile devices",
+        "AI model",
+        "Stable Audio Open",
+        "artificial intelligence"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-03T14:18:31.000Z"
+    },
+    {
       "title": "As Skype shuts down, its legacy is end-to-end encryption for the masses",
       "link": "https://techcrunch.com/2025/03/03/as-skype-shuts-down-its-legacy-is-end-to-end-encryption-for-the-masses/",
       "author": "Lorenzo Franceschi-Bicchierai",
@@ -1055,87 +1147,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-28T13:57:00.000Z"
-    },
-    {
-      "title": "Belgium investigating alleged cyberattack on intelligence agency by China-linked hackers",
-      "link": "https://techcrunch.com/2025/02/28/belgium-investigating-alleged-cyberattack-on-intelligence-agency-by-china-linked-hackers/",
-      "author": "Carly Page",
-      "thumbnail": null,
-      "summary": "- Belgium is investigating a cyberattack on its state security service (VSSE) by alleged Chinese government hackers.\n- An investigation was opened in November 2023 after reports of a data breach.\n- The breach reportedly occurred between 2021 and 2023, involving a Chinese hacking group exploiting a vulnerability in Barracuda's Email Security Gateway.\n- The flaw allowed hackers to exfiltrate 10% of VSSE’s email traffic, accessing personal data of nearly half of its employees.\n- VSSE ceased use of Barracuda's products following the incident, and security measures have since been updated.",
-      "keywords": [
-        "Belgium",
-        "cyberattack",
-        "intelligence agency",
-        "Chinese hackers",
-        "data breach",
-        "cybersecurity",
-        "Barracuda",
-        "VSSE"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-28T13:41:00.000Z"
-    },
-    {
-      "title": "OpenAI’s Sora is now available in the EU, UK",
-      "link": "https://techcrunch.com/2025/02/27/openais-sora-is-now-available-in-the-eu-uk/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- OpenAI's video generation model, Sora, is now available in the European Union, UK, Switzerland, Norway, Liechtenstein, and Iceland.\n- ChatGPT Plus and Pro subscribers in these regions can create videos using Sora.\n- Sora was first unveiled in February 2024 and was released to users in December 2024, but was initially unavailable in the EU at launch.",
-      "keywords": [
-        "OpenAI",
-        "Sora",
-        "video generation",
-        "EU",
-        "UK",
-        "ChatGPT",
-        "AI model"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-02-28T07:37:53.000Z"
-    },
-    {
-      "title": "Airbnb co-founder Joe Gebbia takes wraps off his first assignment for DOGE",
-      "link": "https://techcrunch.com/2025/02/27/airbnb-co-founder-joe-gebbia-takes-wraps-off-his-first-assignment-for-doge/",
-      "author": "Connie Loizos",
-      "thumbnail": null,
-      "summary": "- Joe Gebbia has joined Elon Musk's \"Department of Government Efficiency\" to improve government efficiency.\n- He will focus on modernizing the retirement process to be more digital and streamlined.\n- The goal is to process retirements without any paper in just one week.\n- The Office of Personnel Management (OPM) is under pressure to modernize due to previous delays in processing retirements.\n- Gebbia, who co-founded Airbnb, emphasizes the importance of enhancing user experiences in government services.",
-      "keywords": [
-        "Joe Gebbia",
-        "Airbnb",
-        "Department of Government Efficiency",
-        "government modernization",
-        "retirement process",
-        "Elon Musk",
-        "digital design",
-        "user experience"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-28T04:06:08.000Z"
-    },
-    {
-      "title": "Sequoia’s Roelof Botha warns ‘chumps’ not to buy into SPVs",
-      "link": "https://techcrunch.com/2025/02/27/sequoias-roelof-botha-warns-chumps-not-to-buy-into-spvs/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-02-28T00:39:46.000Z"
     }
   ]
 }
