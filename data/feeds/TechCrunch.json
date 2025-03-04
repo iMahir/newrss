@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Dutch startup QuantWare seeks to fast-track quantum computing",
+      "link": "https://techcrunch.com/2025/03/03/dutch-startup-quantware-seeks-to-fast-track-quantum-computing/",
+      "author": "Anna Heim",
+      "thumbnail": null,
+      "summary": "- QuantWare, established in 2020, has raised €20 million ($19.27 million) in a Series A round.\n- The startup focuses on scaling bottlenecks in quantum processing units (QPUs) through its VIO technology.\n- Contralto-A, their first QPU for quantum error correction, is designed to be upgradeable and is significantly larger than existing solutions.",
+      "keywords": [
+        "quantum computing",
+        "QuantWare",
+        "VC funding",
+        "startup",
+        "quantum chips",
+        "technology",
+        "error correction"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-04T07:59:00.000Z"
+    },
+    {
       "title": "Moonwatt secures $8.3M to dial up solar’s staying power with sodium-ion storage",
       "link": "https://techcrunch.com/2025/03/03/moonwatt-secures-8-3m-to-dial-up-solars-staying-power-with-sodium-ion-storage/",
       "author": null,
@@ -1146,29 +1169,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-01T17:35:01.000Z"
-    },
-    {
-      "title": "How to get rid of the new Apple Mail redesign",
-      "link": "https://techcrunch.com/2025/03/01/how-to-get-rid-of-the-new-apple-mail-redesign/",
-      "author": "Amanda Silberling",
-      "thumbnail": null,
-      "summary": "- The Apple Mail app underwent a redesign in iOS 18, now organizing emails into categories.\n- Users are reporting issues with the visual appeal and navigation of the new interface, with complaints of it being unreliable and cluttered.\n- Instructions are provided to revert to 'List View' and to toggle off contact photos to reduce clutter in the inbox.",
-      "keywords": [
-        "Apple Mail",
-        "redesign",
-        "iOS 18",
-        "user experience",
-        "email management",
-        "contact photos",
-        "categorization"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-01T16:00:00.000Z"
     }
   ]
 }
