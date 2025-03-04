@@ -4,6 +4,53 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "YouTube warns creators an AI-generated video of its CEO is being used for phishing scams",
+      "link": "https://www.theverge.com/news/624159/youtube-ai-generated-neal-mohan-phishing-scam",
+      "author": "Emma Roth",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- YouTube alerts creators of a phishing scam using an AI-generated video of CEO Neal Mohan.\n- The fake video claims changes in monetization policy to steal user credentials.\n- YouTube emphasizes it will never share information through private videos.\n- Users reported similar scams on Reddit, indicating phishing attempts mimicking YouTube.\n- Phishing emails often come from deceptive sources, such as \"no-reply@youtube.com.\"",
+      "keywords": [
+        "YouTube",
+        "phishing",
+        "AI-generated video",
+        "Neal Mohan",
+        "scam",
+        "monetization policy",
+        "deepfake"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-04T21:39:08.000Z"
+    },
+    {
+      "title": "The crypto industry got what it paid for",
+      "link": "https://www.theverge.com/cryptocurrency/624108/crypto-reserve-bitcoin-trump-grift",
+      "author": "Elizabeth Lopatto",
+      "thumbnail": null,
+      "summary": "- President Trump announced plans for a U.S. Crypto Reserve on Truth Social, aiming to support the crypto industry.\n- The proposed stockpile includes cryptocurrencies like Bitcoin, Ethereum, and Ripple's XRP, raising concerns about how it would be managed.\n- Critics argue it undermines the U.S. dollar, with potential negative impacts on fiscal policy, inflation, and international standing.\n- A crypto stockpile is seen as benefitting Trump's crypto donors while risking taxpayer investment in volatile assets.\n- The future of crypto is uncertain, with significant involvement from hackers and speculation on its viability as a currency.",
+      "keywords": [
+        "crypto",
+        "Trump",
+        "U.S. Crypto Reserve",
+        "Bitcoin",
+        "Ethereum",
+        "economic impact",
+        "cryptocurrency",
+        "market manipulation"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-03-04T21:33:58.000Z"
+    },
+    {
       "title": "MWC 2025: all the phones, gadgets, and commentary from Barcelona",
       "link": "https://www.theverge.com/news/616633/mwc-2025-news-products-announcements",
       "author": "Verge Staff",
@@ -1092,53 +1139,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-03T18:15:57.000Z"
-    },
-    {
-      "title": "Microsoft Unveils Redesigned Copilot and Windows AI Features",
-      "link": "https://www.theverge.com/2024/10/1/24259261/microsoft-event-copilot-ai-windows",
-      "author": "Verge Staff",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25652460/copilothed.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-      "summary": "- Microsoft announced a major redesign of Copilot at its NYC event, introducing a card-based interface with personalized features.\n- New Copilot Vision allows users to see what they're looking at, along with an advanced voice conversation mode and virtual news presenter feature.\n- Windows 11 gets updates like Phone Link status in the start menu, improved AI-powered search, and new features in Paint and Photos, including Generative Fill and Erase.\n- The Windows 11 2024 update (version 24H2) starts rolling out today, enhancing user experience across the operating system.\n- Microsoft's new AI CEO, Mustafa Suleyman, emphasizes a future of supportive technology with AI companions.",
-      "keywords": [
-        "Microsoft",
-        "Copilot",
-        "Windows 11",
-        "AI features",
-        "2024 update",
-        "Generative Fill",
-        "Paint",
-        "Photos"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-03T17:59:25.000Z"
-    },
-    {
-      "title": "T-Mobile’s parent company is making an ‘AI Phone’ with Perplexity Assistant",
-      "link": "https://www.theverge.com/news/623164/t-mobile-ai-phone-perplexity-assistant-mwc-2025",
-      "author": "Umar Shakir",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195848/UMAR_SHAKIR.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Deutsche Telekom announced the development of an AI Phone powered by the Perplexity chatbot at Mobile World Congress (MWC).\n- The device, dubbed 'Magenta AI', will feature tools like Perplexity Assistant, Google Cloud AI, ElevenLabs, and Picsart.\n- The AI Phone will debut later this year, designed as an app-less device primarily controlled by voice, capable of booking flights and making reservations.\n- Images indicate it will be a budget to mid-range Android device with notable design features.\n- The launch is planned for the second half of the year, with some AI features rolling out this summer through the MeinMagenta app.",
-      "keywords": [
-        "AI Phone",
-        "Perplexity Assistant",
-        "Deutsche Telekom",
-        "Mobile World Congress",
-        "artificial intelligence",
-        "smartphones",
-        "voice control"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-03-03T17:51:19.000Z"
     }
   ]
 }

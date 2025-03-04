@@ -4,6 +4,31 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Threat posed by new VMware hyperjacking vulnerabilities is hard to overstate",
+      "link": "https://arstechnica.com/security/2025/03/vmware-patches-3-critical-vulnerabilities-in-multiple-product-lines/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Three critical vulnerabilities in VMware's virtual-machine products can allow hackers extensive access to sensitive environments.\n- Known as hyperjacking or hypervisor attacks, these vulnerabilities let attackers break out of isolated VM environments and access multiple customers’ VMs.\n- Security researcher Kevin Beaumont warns that escaping to the hypervisor enables access to all systems, disrupting boundaries that isolate customers.\n- VMware has indicated that these vulnerabilities are actively being exploited and affect all supported and unsupported versions of its ESXi, Workstation, Fusion, Cloud Foundation, and Telco Cloud Platform.",
+      "keywords": [
+        "VMware",
+        "hyperjacking",
+        "vulnerabilities",
+        "virtual machines",
+        "cybersecurity",
+        "hypervisor attack",
+        "security",
+        "network access",
+        "exploitation"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-04T21:33:36.000Z"
+    },
+    {
       "title": "Researchers surprised to find less-educated areas adopting AI writing tools faster",
       "link": "https://arstechnica.com/ai/2025/03/researchers-surprised-to-find-less-educated-areas-adopting-ai-writing-tools-faster/",
       "author": "Weixin Liang, Yaohui Zhang, Mihai Codreanu, Jiayu Wang, Hancheng Cao, James Zou",
