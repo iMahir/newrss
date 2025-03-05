@@ -4,6 +4,77 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Tweetbot’s developers are making a Bluesky client",
+      "link": "https://www.theverge.com/news/624926/tweetbots-developers-are-making-a-bluesky-client",
+      "author": "Jay Peters",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195819/JAY_PETERS.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Tapbots is developing an iOS and Mac app for Bluesky called [Phoenix](https://tapbots.com/phoenix/), set to release this summer.\n- They plan to open a limited public alpha as soon as possible.\n- Tapbots will continue to develop both Ivory (Mastodon) and Phoenix (Bluesky) concurrently to support their split customer base.\n- They will implement a way to cross-post between Mastodon and Bluesky but keep the platforms separate for a better user experience.\n- Users can follow the [Phoenix account on Bluesky](https://bsky.app/profile/phoenix.tapbots.com) while awaiting the app's release.",
+      "keywords": [
+        "Tapbots",
+        "Bluesky",
+        "Phoenix",
+        "Mastodon",
+        "iOS app",
+        "Mac app",
+        "social media"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-05T21:47:40.000Z"
+    },
+    {
+      "title": "The hunt for the next Twitter: all the news about alternative social media platforms",
+      "link": "https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol",
+      "author": "Verge Staff",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25849088/verge_videotab.jpg?quality=90&strip=all&crop=0,0,100,100&w=2400",
+      "summary": "- Elon Musk took over Twitter (now X) over two years ago, prompting platforms like Threads, Mastodon, and Bluesky to emerge as alternatives.\n- Threads has grown to 275 million monthly users (as of October 2024), integrating features for ActivityPub to connect with the fediverse.\n- Bluesky, using AT Protocol, rose to popularity post-2024 elections, boasting over 14.5 million users, while Mastodon struggles to grow.\n- No clear successor to Twitter exists as X still functions as a primary platform for many users.\n- New features in Bluesky include a 'followers only' reply option and a video tab to make posts easier to find.",
+      "keywords": [
+        "Twitter",
+        "social media",
+        "Bluesky",
+        "Threads",
+        "Mastodon",
+        "alternatives",
+        "ActivityPub",
+        "AT Protocol"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-05T21:47:40.000Z"
+    },
+    {
+      "title": "Apple Expands AI Features with iOS 18, macOS Sequoia and More",
+      "link": "https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16",
+      "author": "Verge Staff",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25626313/247263_iphone_16_pro_AKrales_1062.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "summary": "- iOS 18.2 introduces Apple's AI starter kit and ChatGPT integration.\n- New features include homepage customization and RCS support.\n- Siri receives a major upgrade with ChatGPT capabilities.\n- iOS 18.4 beta adds Matter support for robot vacuums.\n- Apple is preparing to launch new AI features in China in collaboration with Alibaba.",
+      "keywords": [
+        "Apple",
+        "AI",
+        "iOS 18",
+        "macOS Sequoia",
+        "ChatGPT",
+        "Siri",
+        "robot vacuums",
+        "technology updates"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-05T20:22:35.000Z"
+    },
+    {
       "title": "Here’s how to preorder Apple’s new MacBook Air and Mac Studio",
       "link": "https://www.theverge.com/good-deals/624782/apple-m4-macbook-air-mac-studio-preorder-how-to-buy-price-release-date",
       "author": "Sheena Vasani",
@@ -1098,74 +1169,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-04T17:14:02.000Z"
-    },
-    {
-      "title": "Google Messages is using AI to detect scam texts",
-      "link": "https://www.theverge.com/news/623632/google-messages-pixel-android-updates-scam-detection",
-      "author": "Jess Weatherbed",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Google-Messages-scam-detection-sms.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "- Google Messages introduces an AI-powered scam detection tool for Android users.\n- This tool monitors SMS, MMS, and RCS messages in real-time for suspicious patterns and alerts users to potential scams.\n- The feature launches in English, starting in the US, UK, and Canada, with future expansion planned.",
-      "keywords": [
-        "Google Messages",
-        "AI",
-        "scam detection",
-        "Android",
-        "text message scams",
-        "real-time monitoring",
-        "privacy"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-04T17:00:00.000Z"
-    },
-    {
-      "title": "From ChatGPT to Gemini: how AI is rewriting the internet",
-      "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
-      "author": "Verge Staff",
-      "thumbnail": null,
-      "summary": "- AI technologies are rapidly evolving, leading to significant changes in the internet landscape.\n- Companies like Google and OpenAI are competing to enhance their AI offerings and applications.\n- The rise of AI chatbots like ChatGPT and technologies such as Gemini are reshaping how users interact online.",
-      "keywords": [
-        "AI",
-        "ChatGPT",
-        "Gemini",
-        "Google",
-        "OpenAI",
-        "internet",
-        "technology",
-        "chatbots"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-04T16:57:02.000Z"
-    },
-    {
-      "title": "Microsoft’s new Copilot app for Windows has an improved UI",
-      "link": "https://www.theverge.com/news/623889/microsoft-copilot-app-windows-native",
-      "author": "Tom Warren",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-      "summary": "- Microsoft has rolled out a native version of its Copilot Windows app after it was previously a basic web app.\n- The new app features native XAML, a side panel, and an improved user interface.\n- It matches the design of the recently launched Copilot app for macOS, supporting features like image upload, voice interaction, and conversation history access.\n- The update is available to Windows Insiders via the Microsoft Store and will roll out to all Windows 11 PCs in the coming weeks.",
-      "keywords": [
-        "Microsoft",
-        "Copilot",
-        "Windows",
-        "UI",
-        "App"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-04T16:56:35.000Z"
     }
   ]
 }

@@ -1,5 +1,73 @@
 [
   {
+    "title": "The hunt for the next Twitter: news about alternative social media platforms and Bluesky client development",
+    "id": "1f3ty3i060m6lj",
+    "summary": "- Tapbots is developing an iOS and Mac app for Bluesky called [Phoenix](https://tapbots.com/phoenix/), set to release this summer.\n- They plan to open a limited public alpha as soon as possible.\n- Tapbots will develop both Ivory (Mastodon) and Phoenix (Bluesky) concurrently to support their split customer base.\n- They will implement cross-posting between Mastodon and Bluesky while keeping the platforms separate for user experience.\n- Users can follow the [Phoenix account on Bluesky](https://bsky.app/profile/phoenix.tapbots.com) while awaiting the app's release.\n\n- Elon Musk took over Twitter (now X) over two years ago, prompting platforms like Threads, Mastodon, and Bluesky to emerge as alternatives.\n- Threads has grown to 275 million monthly users (as of October 2024), integrating features for ActivityPub to connect with the fediverse.\n- Bluesky, using AT Protocol, rose to popularity post-2024 elections, boasting over 14.5 million users, while Mastodon struggles to grow.\n- No clear successor to Twitter exists as X still functions as a primary platform for many users.\n- New features in Bluesky include a 'followers only' reply option and a video tab for easier post discovery.",
+    "thumbnails": [
+      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195819/JAY_PETERS.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25849088/verge_videotab.jpg?quality=90&strip=all&crop=0,0,100,100&w=2400"
+    ],
+    "scores": {
+      "scale": 6,
+      "impact": 7,
+      "novelty": 5.5,
+      "longTermSignificance": 5.5
+    },
+    "keywords": [
+      "tapbots",
+      "bluesky",
+      "phoenix",
+      "mastodon",
+      "ios app",
+      "mac app",
+      "social media",
+      "twitter",
+      "threads",
+      "alternatives",
+      "activitypub",
+      "at protocol"
+    ],
+    "sources": [
+      {
+        "title": "Tweetbot’s developers are making a Bluesky client",
+        "link": "https://www.theverge.com/news/624926/tweetbots-developers-are-making-a-bluesky-client"
+      },
+      {
+        "title": "The hunt for the next Twitter: all the news about alternative social media platforms",
+        "link": "https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol"
+      }
+    ],
+    "lastUpdated": "2025-03-05T22:11:35.624Z"
+  },
+  {
+    "title": "Eric Schmidt argues against a ‘Manhattan Project for AGI’",
+    "id": "0a26cwa1r3eml6",
+    "summary": "- Former Google CEO Eric Schmidt and co-authors argue against a U.S. Manhattan Project-style push for AGI development.\n- The policy paper warns that aggressive control over superintelligent AI could provoke retaliation from China and destabilize international relations.\n- They propose shifting focus from competing in superintelligence to developing strategies that deter other nations from creating it, like expanding cyberattacks to disable threatening AI projects.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 8,
+      "impact": 9,
+      "novelty": 7,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "AGI",
+      "AI safety",
+      "Eric Schmidt",
+      "cybersecurity",
+      "international relations",
+      "superintelligence",
+      "Mutual Assured AI Malfunction"
+    ],
+    "sources": [
+      {
+        "title": "Eric Schmidt argues against a ‘Manhattan Project for AGI’",
+        "link": "https://techcrunch.com/2025/03/05/eric-schmidt-argues-against-a-manhattan-project-for-agi/"
+      }
+    ],
+    "lastUpdated": "2025-03-05T22:11:35.624Z"
+  },
+  {
     "title": "Trump gives Big 3 automakers one month reprieve for Canada, Mexico tariffs",
     "id": "0k8niqg0wxyw5x",
     "summary": "- President Trump delays tariffs on automobile imports from Canada and Mexico for one month following requests from General Motors, Ford, and Stellantis.\n- The tariffs were initially set at 25% on goods from Canada and Mexico, impacting complex automotive supply chains.\n- Car prices are at historic highs, with the tariffs potentially increasing sticker prices by $12,000, threatening demand and leaving dealers with unsold vehicles.\n- Trump urged manufacturers to move operations to the U.S., but Ford CEO expressed concerns about the lack of excess capacity at plants.",
@@ -39878,129 +39946,5 @@
       }
     ],
     "lastUpdated": "2025-02-19T23:11:22.499Z"
-  },
-  {
-    "title": "Limited Run says potentially damaging NES carts are supplier's fault",
-    "id": "1pfb9s21ygvg1y",
-    "summary": "- Limited Run Games apologized for potential issues with NES cartridges for <em>Rugrats: Adventures in Gameland</em> and <em>Piopow</em> that could damage consoles.  \n- The issue is due to improper voltage regulation from a supplier not regularly used by Limited Run.  \n- Further shipments of the affected games are halted for re-manufacturing.  \n- Customers can request refunds and will receive new versions if they purchased the games.  \n- The company is reviewing other NES titles produced by the same manufacturer for similar issues.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195819/JAY_PETERS.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
-    ],
-    "scores": {
-      "scale": 5,
-      "impact": 7,
-      "novelty": 6,
-      "longTermSignificance": 5
-    },
-    "keywords": [
-      "Limited Run Games",
-      "NES cartridges",
-      "Rugrats: Adventures in Gameland",
-      "Piopow",
-      "voltage regulation",
-      "game damage",
-      "refunds",
-      "re-manufacturing"
-    ],
-    "sources": [
-      {
-        "title": "Limited Run says potentially damaging NES carts are supplier's fault",
-        "link": "https://www.theverge.com/news/616001/limited-run-games-nes-carts-issue-supplier"
-      }
-    ],
-    "lastUpdated": "2025-02-19T22:11:05.128Z"
-  },
-  {
-    "title": "Mark Zuckerberg’s charity U-turns, ends DEI efforts",
-    "id": "0b9xj1f09ypntr",
-    "summary": "- Mark Zuckerberg’s charity, the Chan-Zuckerberg Initiative (CZI), has ended its Diversity, Equity, and Inclusion (DEI) programs despite previous commitments to staff. \n- CZI will no longer provide social advocacy funding, which included grants for racial equity and immigration reforms. \n- Internal programs such as the Science Diversity Leadership Awards and the Diverse Slate Practice have been canceled. \n- The decision comes amidst shifts in the regulatory landscape and aims to align CZI's focus with its mission as a science philanthropy. \n- This change follows a similar move by Meta, raising concerns among CZI employees about its commitment to DEI values.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 6,
-      "novelty": 5,
-      "longTermSignificance": 4
-    },
-    "keywords": [
-      "Mark Zuckerberg",
-      "Chan-Zuckerberg Initiative",
-      "DEI",
-      "social advocacy",
-      "philanthropy",
-      "science funding"
-    ],
-    "sources": [
-      {
-        "title": "Mark Zuckerberg’s charity U-turns, ends DEI efforts",
-        "link": "https://techcrunch.com/2025/02/19/mark-zuckerbergs-charity-u-turns-ends-dei-efforts/"
-      }
-    ],
-    "lastUpdated": "2025-02-19T22:11:05.127Z"
-  },
-  {
-    "title": "The Last of Us Season 2 Premiere Date and Key Details",
-    "id": "0afi6ja0yq4gle",
-    "summary": "- HBO announced that season 2 of *The Last of Us* will premiere on April 13th on HBO and Max.\n- The second season will adapt parts of *The Last of Us Part II* and will consist of seven episodes, shorter than the first season.\n- Season 2 takes place five years after the first season and introduces new characters, including Kaitlyn Dever as Abby and Isabela Merced as Dina.\n- New teaser trailer for season 2 reveals that Joel and Ellie are in for a challenging time.\n- Catherine O'Hara has been cast in an undisclosed role for the second season.\n- The Last of Us Part II Remastered adds new features like guitar playing mode and various outfits.\n- Neil Druckmann hints at a potential third installment in the series, expressing excitement about concepts for a new chapter.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/bella-ramsey-as-ellie.jpg?quality=90&strip=all&w=2400",
-      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25449081/bella_ramsey.jpg?quality=90&strip=all&w=2400"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 9,
-      "novelty": 7,
-      "longTermSignificance": 8
-    },
-    "keywords": [
-      "the last of us",
-      "season 2",
-      "hbo",
-      "premiere date",
-      "kaitlyn dever",
-      "abby",
-      "isabela merced",
-      "dina",
-      "video game adaptation",
-      "naughty dog",
-      "remaster",
-      "catherine o'hara"
-    ],
-    "sources": [
-      {
-        "title": "The Last of Us season 2 finally has a premiere date",
-        "link": "https://www.theverge.com/news/616016/the-last-of-us-season-2-date-hbo"
-      },
-      {
-        "title": "The Last of Us: All the News About the Video Game Franchise Turned TV Series",
-        "link": "https://www.theverge.com/24036366/the-last-of-us-news-video-game-tv-series-trailers"
-      }
-    ],
-    "lastUpdated": "2025-02-19T22:11:05.127Z"
-  },
-  {
-    "title": "Brand new women’s focused Swizzle Ventures skyrockets past its fundraising target",
-    "id": "10dk39z0giyxqg",
-    "summary": "- Swizzle Ventures closed its Fund I at $6.6 million, surpassing its initial target of $3 million.\n- Fund I will focus on women’s health and wealth, addressing issues like caregiving and finances.\n- 70% of the fund’s LPs are women, and 50% are experts in the firm's focus areas.\n- The firm intends to invest between $100,000 and $200,000 at pre-seed and seed levels and has already backed 11 companies.\n- Swizzle Ventures launched in 2023 and aims to invest in a total of 30 companies from this fund.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 6,
-      "novelty": 5,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "Swizzle Ventures",
-      "women's health",
-      "women's wealth",
-      "fundraising",
-      "venture capital"
-    ],
-    "sources": [
-      {
-        "title": "Brand new women’s focused Swizzle Ventures skyrockets past its fundraising target",
-        "link": "https://techcrunch.com/2025/02/19/brand-new-womens-focused-swizzle-ventures-skyrockets-past-its-fundraising-target/"
-      }
-    ],
-    "lastUpdated": "2025-02-19T22:11:05.126Z"
   }
 ]
