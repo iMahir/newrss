@@ -4,6 +4,31 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Volvo’s ES90 is a high-riding electric sedan with 434 miles of range",
+      "link": "https://www.theverge.com/news/623945/volvo-es90-ev-sedan-range-battery-power-specs-photos",
+      "author": "Andrew J. Hawkins",
+      "thumbnail": null,
+      "summary": "• Volvo announced the ES90 electric sedan featuring a range of 434 miles.\n• It includes a dual setup of Nvidia’s Drive AGX Orin computer and an 800-volt architecture for fast charging.\n• The sedan is available in three variants, with power outputs ranging from 329 hp to 670 hp.\n• The ES90 can gain 186 miles of range in just 10 minutes of charging and can fully charge from 10 to 80 percent in 20 minutes.\n• It boasts a zero to 60 mph time of 3.9 seconds for the Performance trim.\n• The vehicle is designed to blur the lines between a sedan and SUV, featuring a height of 60.9 inches.\n• The ES90 has significant cargo space, advanced infotainment systems from Google, and utilizes Volvo's new Superset tech stack.\n• Starting orders for the ES90 are available in Europe; pricing and US availability are yet to be announced.",
+      "keywords": [
+        "Volvo",
+        "ES90",
+        "electric sedan",
+        "Nvidia",
+        "automotive",
+        "EV",
+        "fast charging",
+        "battery",
+        "tech stack"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-05T10:10:00.000Z"
+    },
+    {
       "title": "Cadillac’s new electric Escalade IQL will be the longest SUV in production",
       "link": "https://www.theverge.com/news/624127/cadillac-escalade-iql-electric-longest-suv-more-cargo-storage",
       "author": "Umar Shakir",
@@ -1120,31 +1145,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-03T21:23:11.000Z"
-    },
-    {
-      "title": "Self-driving cars: Google and others map the road to automated vehicles",
-      "link": "https://www.theverge.com/2012/12/23/3797260/self-driving-cars-automated-vehicles",
-      "author": "Verge Staff",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195793/ANDREW_HAWKINS.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-      "summary": "- GM has ceased funding its Cruise robotaxi service due to high costs and regulatory challenges.\n- CEO Mary Barra stated the shift to personally owned driverless vehicles aligns better with GM's core business.\n- The Cruise division incurred a significant loss of $3.48 billion in 2023, prompting GM to realign resources towards developing autonomous vehicles for personal use.\n- Waymo is upgrading its software to reduce excessive honking in parking lots following complaints from neighbors.\n- Federal investigations are ongoing into several traffic incidents involving Waymo's robotaxis, focusing on compliance with safety regulations.",
-      "keywords": [
-        "self-driving cars",
-        "autonomous vehicles",
-        "Cruise",
-        "Waymo",
-        "GM",
-        "robotaxis",
-        "technology",
-        "automotive",
-        "driverless cars"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-03T20:49:52.000Z"
     }
   ]
 }
