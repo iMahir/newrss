@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Meta brings its anti-fraud facial recognition test to the UK after getting a thumbs up from regulators",
+      "link": "https://techcrunch.com/2025/03/04/meta-brings-its-anti-fraud-facial-recognition-test-to-the-uk-after-getting-a-thumbs-up-from-regulators/",
+      "author": "Ingrid Lunden",
+      "thumbnail": null,
+      "summary": "- Meta expands its facial recognition test to the UK, which includes tools to prevent scams and help users recover compromised accounts.\n- The company received approval from UK regulators after discussions about AI technology.\n- In-app notifications will inform public figures in the UK about opting in to receive facial recognition-enabled protection against celebrity bait scams.\n- Meta assures that any facial data generated will be deleted after one-time use for comparison.\n- The rollout comes amidst a broader push for AI integration in Meta's services, while the company faces scrutiny over past facial recognition practices and lawsuits.",
+      "keywords": [
+        "Meta",
+        "facial recognition",
+        "UK",
+        "anti-fraud",
+        "scams",
+        "AI technology",
+        "public figures"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-03-05T06:05:14.000Z"
+    },
+    {
       "title": "Defense tech startup Epirus raises $250M Series D to counter drone swarms",
       "link": "https://techcrunch.com/2025/03/04/defense-tech-startup-epirus-raises-250m-series-d-to-counter-drone-swarms/",
       "author": "Charles Rollet",
@@ -1160,30 +1183,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-03T19:22:12.000Z"
-    },
-    {
-      "title": "Lee Enterprises ransomware attack hits freelance and contractor payments",
-      "link": "https://techcrunch.com/2025/03/03/lee-enterprises-ransomware-attack-hits-freelance-and-contractor-payments/",
-      "author": "Zack Whittaker",
-      "thumbnail": null,
-      "summary": "- A ransomware attack on Lee Enterprises, ongoing since February 3, has disrupted payments to freelancers and contractors.\n- The cyberattack has resulted in widescale outages across the U.S., affecting print editions and critical operations like billing and vendor payments.\n- Some contractors report not being paid for over a month, causing anxiety and uncertainty about the situation.\n- Lee confirmed that salaried staff are unaffected, although some internal reimbursement systems remain inaccessible.\n- The Qilin ransomware gang has claimed responsibility for the attack, which may have a significant impact on Lee's financial condition.",
-      "keywords": [
-        "Lee Enterprises",
-        "ransomware",
-        "freelance payments",
-        "contractors",
-        "cyberattack",
-        "vendor payments",
-        "Qilin ransomware",
-        "financial impact"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-03T19:20:52.000Z"
     }
   ]
 }
