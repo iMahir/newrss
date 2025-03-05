@@ -4,6 +4,98 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "OpenAI’s GPT-4.5 AI model comes to more ChatGPT users",
+      "link": "https://techcrunch.com/2025/03/05/openais-gpt-4-5-ai-model-comes-to-more-chatgpt-users/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- OpenAI is rolling out GPT-4.5 to ChatGPT Plus users, with a rollout period of 1-3 days.\n- GPT-4.5 is the company's largest model, but it faces competition from other AI models on several benchmarks.\n- The model is costly to run, prompting OpenAI to evaluate the business case for its long-term API service, with high token costs for users.",
+      "keywords": [
+        "OpenAI",
+        "GPT-4.5",
+        "ChatGPT",
+        "AI model",
+        "technology news",
+        "artificial intelligence"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-05T18:12:25.000Z"
+    },
+    {
+      "title": "Former NSA official says federal worker cuts will have ‘devastating impact’ on cyber and national security",
+      "link": "https://techcrunch.com/2025/03/05/former-nsa-official-says-federal-worker-cuts-will-have-devastating-impact-on-cyber-and-national-security/",
+      "author": "Rob Joyce",
+      "thumbnail": null,
+      "summary": "- Former cybersecurity official Rob Joyce warns of devastating impacts on national security due to cuts in federal probationary employees.\n- Testified before the U.S. House Committee on the Chinese Communist Party regarding hacking campaigns by China.\n- Joyce emphasized that eliminating probationary employees would jeopardize the pipeline of talent needed to address cybersecurity threats.",
+      "keywords": [
+        "cybersecurity",
+        "national security",
+        "federal employees",
+        "China hacking",
+        "Rob Joyce"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-05T17:38:56.000Z"
+    },
+    {
+      "title": "Ryan Breslow is back as CEO of fintech Bolt, after years of controversy",
+      "link": "https://techcrunch.com/2025/03/05/ryan-breslow-is-back-as-ceo-of-fintech-bolt-after-years-of-controversy/",
+      "author": "Mary Ann Azevedo",
+      "thumbnail": null,
+      "summary": "- Ryan Breslow has been reinstated as CEO of Bolt with unanimous approval from the board.\n- Justin Grooms, interim CEO since last March, will now serve as president of the company.\n- Breslow thanked investors for their support and has faced previous controversies, including legal issues and allegations of misleading investors.\n- Bolt was reportedly trying to raise $200 million in equity and an additional $250 million in marketing credits at a $14 billion valuation prior to Breslow's reinstatement.\n- As of March 2024, Bolt's annualized run rate was $28 million in revenue, with $7 million in gross profit.",
+      "keywords": [
+        "Ryan Breslow",
+        "Bolt",
+        "fintech",
+        "CEO",
+        "investors",
+        "controversy",
+        "fundraising"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-05T17:36:32.000Z"
+    },
+    {
+      "title": "Ahead of a possible $4 billion IPO, CoreWeave’s founders already pocketed $488 million",
+      "link": "https://techcrunch.com/2025/03/05/ahead-of-a-possible-4-billion-ipo-coreweaves-founders-already-pocketed-488-million/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- CoreWeave’s S-1 filing for its upcoming IPO indicates a valuation goal of over $4 billion.\n- The company, backed by Nvidia, operates 32 data centers equipped with over 250,000 Nvidia GPUs, recently adding the Blackwell product for AI.\n- Founders Michael Intrator, Brian Venturo, and Brannin McBee have cashed out nearly $488 million in shares before the IPO.\n- The trio retains control of the company through Class B shares despite owning less than 3% of Class A shares.\n- CoreWeave is experiencing significant revenue growth, nearly 8-fold from $228,943 in 2023 to $1.9 billion in 2024, but is still unprofitable with $863 million in losses and $7.9 billion in debt.\n- Microsoft accounts for 62% of its revenue and is both a customer and a competitor.",
+      "keywords": [
+        "CoreWeave",
+        "IPO",
+        "Nvidia",
+        "founders",
+        "AI cloud service",
+        "financial expertise",
+        "debt",
+        "revenue growth",
+        "Microsoft",
+        "Blackwell"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-05T17:19:30.000Z"
+    },
+    {
       "title": "Google Search’s new ‘AI Mode’ lets users ask complex, multi-part questions",
       "link": "https://techcrunch.com/2025/03/05/google-searchs-new-ai-mode-lets-users-ask-complex-multi-part-questions/",
       "author": "Aisha Malik",
@@ -1090,99 +1182,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-04T16:38:31.000Z"
-    },
-    {
-      "title": "Cohere claims its new Aya Vision AI model is best-in-class",
-      "link": "https://techcrunch.com/2025/03/04/cohere-claims-its-new-aya-vision-ai-model-is-best-in-class/",
-      "author": "Kyle Wiggers",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Aya-Vision-Examples-1-.webp?w=680",
-      "summary": "- Cohere released Aya Vision, a multimodal AI model claimed to be best-in-class for tasks like image captioning, Q&A, translation, and summarization in 23 languages.\n- The model is available for free via WhatsApp and aims to bridge performance gaps in AI across languages.\n- Aya Vision comes in two versions, 32B and 8B, with 32B outperforming larger models on certain benchmarks.\n- Both models are accessible via Hugging Face under a Creative Commons license, but not for commercial use.\n- Synthetic annotations were used in training to enhance efficiency and support for the research community.\n- Cohere also introduced AyaVisionBench for evaluating vision-language tasks and addressing concerns in AI benchmarking.",
-      "keywords": [
-        "Cohere",
-        "AI model",
-        "Aya Vision",
-        "multimodal",
-        "image captioning",
-        "translation",
-        "benchmark",
-        "synthetic data"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-04T16:33:25.000Z"
-    },
-    {
-      "title": "Solar installer Sunnova races to raise cash as it issues ‘going concern’ warning",
-      "link": "https://techcrunch.com/2025/03/04/solar-installer-sunnova-races-to-raise-cash-as-it-issues-going-concern-warning/",
-      "author": "Tim De Chant",
-      "thumbnail": null,
-      "summary": "- Sunnova issued a 'going concern' warning due to cash shortages.\n- The company’s stock is down approximately 68%, raising bankruptcy concerns.\n- Sunnova plans to refinance debt, raise new debt, and cut expenses to avoid insolvency.\n- The company reported a net loss of $447 million in 2024, down from previous losses, and its market cap has plummeted to around $63 million from a previous valuation of $4.5 billion.\n- High interest rates and uncertainty about the Inflation Reduction Act are contributing to the instability of the solar industry.\n- Sunrun, the largest U.S. installer, recently lowered cash generation guidance, indicating a challenging outlook for installations.\n- Despite challenges, First Solar reportedly exceeded earnings expectations, highlighting some positive aspects in the industry.",
-      "keywords": [
-        "Sunnova",
-        "solar installer",
-        "going concern",
-        "bankruptcy",
-        "cash flow",
-        "debt restructuring",
-        "solar industry",
-        "Inflation Reduction Act",
-        "market cap"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-04T16:29:20.000Z"
-    },
-    {
-      "title": "Didi reportedly seeking funds for self-driving unit at $5B valuation",
-      "link": "https://techcrunch.com/2025/03/04/didi-reportedly-seeking-funds-for-self-driving-unit-at-5b-valuation/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1233804921.jpg?w=1024",
-      "summary": "- Didi is seeking new funding for its autonomous vehicle unit, potentially valuing it at $5 billion.\n- High investor interest in self-driving technology is noted, influenced by recent IPOs from WeRide and Pony AI.\n- Didi's self-driving unit has raised $1.55 billion to date and is in discussions to raise more funds.\n- Currently testing around 200 autonomous vehicles in major Chinese cities but has not yet launched commercial operations.\n- Funds may aid in further development of AV technology and mass production of electric robotaxis, expected to begin in 2025.",
-      "keywords": [
-        "Didi",
-        "self-driving",
-        "autonomous vehicles",
-        "funding",
-        "robotaxis"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-04T16:17:51.000Z"
-    },
-    {
-      "title": "On a quest to revive the woolly mammoth, Colossal Biosciences has created a woolly mouse",
-      "link": "https://techcrunch.com/2025/03/04/on-a-quest-to-revive-the-woolly-mammoth-colossal-biosciences-has-created-a-woolly-mouse/",
-      "author": "Marina Temkin",
-      "thumbnail": null,
-      "summary": "[Colossal Biosciences aims to resurrect the woolly mammoth by 2028](https://techcrunch.com/2025/03/04/on-a-quest-to-revive-the-woolly-mammoth-colossal-biosciences-has-created-a-woolly-mouse/) and has made progress by creating a genetically engineered woolly mouse.\n[Scientists used CRISPR](https://techcrunch.com/2025/03/04/on-a-quest-to-revive-the-woolly-mammoth-colossal-biosciences-has-created-a-woolly-mouse/) to edit mouse embryos to exhibit mammoth-like fur traits, adapting them to survive in cold climates.\nApproval from the [Institutional Animal Care and Use Committee (IACUC)](https://olaw.nih.gov/resources/tutorial/iacuc.htm) is required before further experiments on these engineered mice can occur.",
-      "keywords": [
-        "Colossal Biosciences",
-        "woolly mammoth",
-        "genetic engineering",
-        "CRISPR",
-        "animal conservation",
-        "de-extinction",
-        "woolly mouse"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 9,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-04T14:53:54.000Z"
     }
   ]
 }
