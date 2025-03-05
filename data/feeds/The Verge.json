@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Google is adding more AI Overviews and a new ‘AI Mode’ to Search",
+      "link": "https://www.theverge.com/news/624064/google-ai-mode-overviews-search",
+      "author": "David Pierce",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/AI-Mode-Boston-example-1-1.png?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "- Google is expanding AI Overviews to more queries and even to users logged out of Google.\n- AI Mode is a new feature that will introduce a search-centric chatbot experience for Google One AI Premium users.\n- Users can switch to AI Mode to get AI-generated answers along with links based on Google's search index.\n- The Gemini 2.0 model will enhance AI Overviews for complex queries in areas like math and coding.\n- Google emphasizes that AI tools are designed to drive users to websites, not detract from them, aiming to create a better context for users before they click through.",
+      "keywords": [
+        "Google",
+        "AI Overviews",
+        "AI Mode",
+        "Search",
+        "Gemini 2.0",
+        "Chatbot",
+        "Google One",
+        "Search Experience"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-05T17:00:00.000Z"
+    },
+    {
       "title": "Delta Airlines bets on ‘blended-wing’ flight to reduce emissions",
       "link": "https://www.theverge.com/news/624587/delta-jetzero-blended-wing-aircraft-demonstrator-2027",
       "author": "Andrew J. Hawkins",
@@ -1144,29 +1168,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-04T14:08:05.000Z"
-    },
-    {
-      "title": "Apple launches a new M3-powered iPad Air",
-      "link": "https://www.theverge.com/ipad/623027/apple-ipad-air-2025-launch-price-specs",
-      "author": "David Pierce",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195807/DAVID_PIERCE.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Apple announced the new iPad Air, featuring an upgraded M3 chip.\n- The M3 chip is reportedly twice as fast as the previous M1 model.\n- Available in 11- and 13-inch models, starting at $599 and $799 respectively.\n- New Magic Keyboard attachment adds function keys and larger trackpad.\n- Tim Cook teased the announcement with a graphic on social media.\n- Apple aims to leverage recent momentum in the tablet market following success with last year's iPad models.\n- The update raises questions about the iPad's purpose and whether the upgrades significantly improve user experience.",
-      "keywords": [
-        "iPad Air",
-        "M3 chip",
-        "Apple",
-        "tablet",
-        "Tech news",
-        "Tim Cook",
-        "Magic Keyboard"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-04T14:04:41.000Z"
     }
   ]
 }

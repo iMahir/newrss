@@ -4,6 +4,124 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Google Search’s new ‘AI Mode’ lets users ask complex, multi-part questions",
+      "link": "https://techcrunch.com/2025/03/05/google-searchs-new-ai-mode-lets-users-ask-complex-multi-part-questions/",
+      "author": "Aisha Malik",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/AI-Mode-experiment-Sleep-tracker-example-desktop.gif?w=680",
+      "summary": "- Google is launching an experimental feature called 'AI Mode' in Search to allow multi-part questions.\n- The feature rolls out to Google One AI Premium subscribers via [Search Labs](https://labs.google.com/search/).\n- AI Mode uses [Gemini 2.0](https://techcrunch.com/2024/12/11/gemini-2-0-googles-newest-flagship-ai-can-generate-text-images-and-speech/) for advanced reasoning and comparative searches, enabling detailed comparisons of products and topics.\n- Users can ask follow-up questions, enhancing search depth and user engagement.\n- Google states that users are asking longer and more complex queries in testing.\n- AI Mode employs a 'query fan-out' technique for concurrent searches across data sources to produce consolidated responses.\n- The model prioritizes factual accuracy, especially in sensitive topics like health, and may provide links when uncertain.\n- Google plans to refine the user experience and incorporate diverse content sources over time.",
+      "keywords": [
+        "Google",
+        "AI Mode",
+        "Search",
+        "Gemini 2.0",
+        "technology",
+        "multi-part questions",
+        "Search Labs",
+        "advanced reasoning"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-05T17:00:00.000Z"
+    },
+    {
+      "title": "Anna Patterson’s Ceramic.ai looks to help enterprises build AI models faster and more efficiently",
+      "link": "https://techcrunch.com/2025/03/05/anna-pattersons-ceramic-ai-looks-to-help-enterprises-build-models-faster-and-more-efficiently/",
+      "author": "Becca Szkutak",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2020/09/48839381122_71652ae5bb_o.jpg?w=680",
+      "summary": "- Anna Patterson, founder of Ceramic.ai, previously worked at Google and started multiple startups.\n- After a breast cancer diagnosis, she founded Ceramic.ai in January 2024 to simplify AI model training for enterprises.\n- Ceramic.ai aims to improve efficiency in training large language models, and has signed partnerships with AWS and Lambda without generating revenue yet.\n- The startup raised a $12 million seed round led by NEA, with investments from IBM, Samsung Next, and Earthshot Ventures.\n- Patterson's experience as a VC has influenced her approach, emphasizing quicker customer feedback and product iteration.",
+      "keywords": [
+        "Ceramic.ai",
+        "AI models",
+        "Anna Patterson",
+        "startups",
+        "technology",
+        "venture capital",
+        "enterprise solutions"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-05T17:00:00.000Z"
+    },
+    {
+      "title": "Hyundai pairs up with Yandex spinoff Avride to develop robotaxis",
+      "link": "https://techcrunch.com/2025/03/05/hyundai-pairs-up-with-yandex-spinoff-avride-to-develop-robotaxis/",
+      "author": "Kirsten Korosec",
+      "thumbnail": null,
+      "summary": "- Hyundai Motor Company and Avride will jointly develop autonomous vehicles for robotaxi services.\n- The partnership includes expanding Avride's fleet of Hyundai Ioniq 5 vehicles, which will feature Avride's autonomous technology.\n- Robotaxis are expected to launch later this year in Dallas and will be accessed through the Uber app.\n- The collaboration aims to explore additional applications such as autonomous delivery services.\n- Hyundai is also backing Motional, another autonomous vehicle venture, which has faced challenges but continues to pursue Level 4 autonomy.",
+      "keywords": [
+        "Hyundai",
+        "Avride",
+        "robotaxis",
+        "autonomous vehicles",
+        "Yandex spinoff",
+        "delivery services",
+        "Ioniq 5"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-05T16:57:07.000Z"
+    },
+    {
+      "title": "Justice Department charges Chinese hackers-for-hire linked to Treasury breach",
+      "link": "https://techcrunch.com/2025/03/05/justice-department-charges-chinese-hackers-for-hire-linked-to-treasury-breach/",
+      "author": "Carly Page",
+      "thumbnail": null,
+      "summary": "- The Department of Justice has charged 12 Chinese hackers linked to over 100 U.S. organizations hacked in a decade, including the U.S. Treasury.\n- The hackers include contract hackers and law enforcement officials targeting free speech and religious freedoms.\n- Two indicted individuals, Yin Kecheng and Zhou Shuai, are associated with the APT27 hacking group and exploited security flaws in major enterprise software.\n- The hackers targeted various U.S. organizations, including tech firms and government entities, and stole data for profit.\n- Rewards of up to $10 million and $2 million are offered for information leading to I-Soon employees and the arrest of Yin and Zhou respectively.",
+      "keywords": [
+        "cybersecurity",
+        "hackers-for-hire",
+        "Chinese government",
+        "U.S. Treasury",
+        "DOJ charges",
+        "APT27",
+        "data breach",
+        "I-Soon"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-05T16:56:05.000Z"
+    },
+    {
+      "title": "Anthropic quietly removes Biden-era AI policy commitments from its website",
+      "link": "https://techcrunch.com/2025/03/05/anthropic-quietly-removes-biden-era-ai-policy-commitments-from-its-website/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Anthropic has removed voluntary AI safety commitments made with the Biden Administration in 2023 from its website.\n- The deleted commitments included sharing information on AI risk management and research on AI bias.\n- The removals were noted by AI watchdog group The Midas Project, and other commitments related to AI-generated abuse remain.\n- The Biden Administration aimed to signal AI policy priorities ahead of an AI Executive Order issued months later.\n- Trump's administration is taking a different approach, having repealed the AI Executive Order and promoting AI development free from ideological bias.",
+      "keywords": [
+        "Anthropic",
+        "AI policy",
+        "Biden Administration",
+        "artificial intelligence",
+        "commitments",
+        "AI safety",
+        "Trump Administration",
+        "AI governance"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-03-05T16:40:38.000Z"
+    },
+    {
       "title": "Flex, a Brex for business owners, has raised $25M at a $250M valuation",
       "link": "https://techcrunch.com/2025/03/05/flex-a-brex-for-business-owners-has-raised-25m-at-a-250m-valuation/",
       "author": "Mary Ann Azevedo",
@@ -1065,125 +1183,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-04T14:53:54.000Z"
-    },
-    {
-      "title": "OpenAI launches $50M grant program to help fund academic research",
-      "link": "https://techcrunch.com/2025/03/04/openai-launches-50m-grant-program-to-help-fund-academic-research/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- OpenAI announced a $50 million grant program to support AI-assisted research through a new consortium called NextGenAI.\n- NextGenAI, comprising 15 academic partners including Harvard, Oxford, and MIT, aims to fuel AI discoveries and prepare future generations.\n- The initiative comes amid challenges in U.S. AI research funding, particularly following staffing changes in the National Science Foundation under the Trump Administration.",
-      "keywords": [
-        "OpenAI",
-        "NextGenAI",
-        "academic research",
-        "AI funding",
-        "research grants"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-04T14:30:23.000Z"
-    },
-    {
-      "title": "Funding to women-founded startups declined 12% in 2024, but that wasn’t far behind the broader market",
-      "link": "https://techcrunch.com/2025/03/04/funding-to-women-founded-startups-declined-12-in-2024-but-that-wasnt-far-behind-the-broader-market/",
-      "author": "Mike Butcher",
-      "thumbnail": null,
-      "summary": "- Venture investment in startups run by women in Europe declined 12% in 2024, mirroring an 11% decline in overall venture investment.\n- Women founded deep tech startups are raising more venture capital than their male counterparts, with 33% of capital raised by female entrepreneurs going into this sector.\n- Female-founded businesses in Europe raised €5.76 billion in 2024, a decrease from €6.56 billion in 2023.\n- Key areas of innovation driving female investment include synthetic biology, generative AI, and drug development.\n- The U.K., France, and Germany lead in investment into female-founded companies, with Finland and Denmark having the highest proportion of venture capital allocated to these startups.",
-      "keywords": [
-        "women-founded startups",
-        "venture investment",
-        "deep tech",
-        "female entrepreneurs",
-        "Female Innovation Index",
-        "investment trends",
-        "Europe",
-        "venture capital",
-        "synthetic biology",
-        "generative AI",
-        "drug development"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-04T14:27:44.000Z"
-    },
-    {
-      "title": "Polish space agency says it’s investigating a cyberattack",
-      "link": "https://techcrunch.com/2025/03/04/polish-space-agency-says-its-investigating-a-cyberattack/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-200202056-001-e1734350881653.jpg?w=1024",
-      "summary": "- Poland's space agency (POLSA) is investigating a cyberattack detected on March 2, 2025.\n- POLSA disconnected its network from the internet immediately after the attack and its website remains offline.\n- Poland's digital minister confirmed unauthorized access to POLSA's IT infrastructure and state cybersecurity services are working to identify the attackers.\n- Poland has been identified as the most attacked EU country regarding cyberspace incidents, largely attributed to Russia.",
-      "keywords": [
-        "Poland",
-        "POLSA",
-        "cyberattack",
-        "cybersecurity",
-        "digital minister",
-        "Krzysztof Gawkowski",
-        "APT28",
-        "Russia",
-        "IT infrastructure"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-03-04T14:18:22.000Z"
-    },
-    {
-      "title": "Apple launches a new iPad Air with M3 chip",
-      "link": "https://techcrunch.com/2025/03/04/apple-launches-a-new-ipad-air-with-m3-chip/",
-      "author": "Aisha Malik",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/magic-keyboard.jpg?w=680",
-      "summary": "- Apple has launched new 11-inch and 13-inch iPad Air models with M3 chip, available for pre-order starting Tuesday and launching on March 12.\n- Prices start at $599 for the 11-inch model and $799 for the 13-inch model, available in four colors and various storage configurations.\n- The M3 chip offers significant performance improvements, being nearly 2x faster than the M1 and up to 3.5x than the A14 Bionic, with a new Magic Keyboard introduced as well.",
-      "keywords": [
-        "iPad Air",
-        "M3 chip",
-        "Apple",
-        "technology",
-        "Magic Keyboard",
-        "performance"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-04T14:15:01.000Z"
-    },
-    {
-      "title": "Swap banks $40M to build tools for merchants to deal with tariffs and other cross-border trading nightmares",
-      "link": "https://techcrunch.com/2025/03/04/swap-banks-40m-to-build-tools-for-merchants-to-deal-with-tariffs-and-other-cross-border-trading-nightmares/",
-      "author": "Ingrid Lunden",
-      "thumbnail": null,
-      "summary": "- Swap, a London startup, raised $40 million in Series B funding led by ICONIQ Growth to build logistics tools for e-commerce amid new tariffs.\n- The expansion plan includes markets in Europe, the U.S., Australia, and Canada, aiming to enhance services for 500 brands already using its platform.\n- The startup's founders, Sam Atkinson and Zach Bailet, leverage their experience in online commerce to address challenges in international shipping and tariffs.",
-      "keywords": [
-        "cross-border trade",
-        "tariffs",
-        "e-commerce",
-        "funding",
-        "logistics",
-        "startup",
-        "Swap",
-        "international shipping"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-04T14:06:31.000Z"
     }
   ]
 }
