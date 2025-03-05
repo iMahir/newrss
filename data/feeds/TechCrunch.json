@@ -4,6 +4,55 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Defense tech startup Epirus raises $250M Series D to counter drone swarms",
+      "link": "https://techcrunch.com/2025/03/04/defense-tech-startup-epirus-raises-250m-series-d-to-counter-drone-swarms/",
+      "author": "Charles Rollet",
+      "thumbnail": null,
+      "summary": "- Epirus raises an oversubscribed $250 million in Series D funding for anti-drone systems.\n- Previous valuation was $1.35 billion during the Series C in 2022, with the current valuation confirmed to be over $1 billion.\n- Major investors include 8VC, Washington Harbour Partners, Gaingels, and General Dynamics Land Systems.\n- The funding will be used to expand internationally, improve supply chain resiliency, and establish a new simulation center in Oklahoma.\n- Epirus' flagship product, Leonidas, uses high-powered electromagnetic pulses against drones and is a popular choice among U.S. military contracts, including a $66 million deal in 2023.",
+      "keywords": [
+        "defense tech",
+        "Epirus",
+        "funding",
+        "Series D",
+        "anti-drone systems",
+        "Leonidas",
+        "military contracts",
+        "drone swarms"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-05T05:01:00.000Z"
+    },
+    {
+      "title": "Quantexa nabs $175M at a $2.6B valuation to double down on data analytics for AI",
+      "link": "https://techcrunch.com/2025/03/04/quantexa-nabs-175m-at-a-2-6b-valuation-to-double-down-on-data-analytics-for-ai/",
+      "author": "Ingrid Lunden",
+      "thumbnail": null,
+      "summary": "- Quantexa raises $175 million in Series F funding, valuing the company at $2.6 billion.\n- The funding helps expand data analytics for AI and improve anti-money laundering efforts.\n- Major clients include Prudential, Vodafone, HSBC, and the U.K. government.\n- License revenue up 40% year over year, now has 800 employees across 16 global offices.\n- Plans to strengthen partnerships with Microsoft and Databricks to enhance AI capabilities.",
+      "keywords": [
+        "Quantexa",
+        "funding",
+        "data analytics",
+        "AI",
+        "money laundering",
+        "enterprise technology",
+        "investment",
+        "Microsoft",
+        "Databricks"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-05T05:00:00.000Z"
+    },
+    {
       "title": "Key ex-OpenAI researcher subpoenaed in AI copyright case",
       "link": "https://techcrunch.com/2025/03/04/key-ex-openai-researcher-subpoenaed-in-ai-copyright-case/",
       "author": "Kyle Wiggers",
@@ -1135,51 +1184,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-03T19:20:52.000Z"
-    },
-    {
-      "title": "Podcastle launches a text-to-speech model with over 450 AI voices",
-      "link": "https://techcrunch.com/2025/03/03/podcasting-platform-podcastle-launches-a-text-to-speech-model-with-more-than-450-ai-voices/",
-      "author": "Ivan Mehta",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Screenshot-2025-02-19-at-7.56.28PM.png?w=680",
-      "summary": "- Podcastle has introduced a new AI text-to-speech model named [Asyncflow v1.0](https://podcastle.ai/ai-voices) with over 450 AI voices.\n- The company aims to offer low training and inference costs, providing a competitive edge.\n- Podcastle's founder, Arto Yeritsyan, emphasizes the achievement was made possible by advancements in large language models, reducing previous cost barriers.\n- The text-to-speech service is priced at approximately $40 for 500 minutes, which is lower than competitors like ElevenLabs.\n- Voice cloning capabilities have improved, requiring only a few seconds of recording instead of 70 different sentences for training.\n- Podcastle plans to integrate audio, video, and AI narration tools on a redesigned platform to enhance user experience.",
-      "keywords": [
-        "Podcastle",
-        "text-to-speech",
-        "AI voices",
-        "Asyncflow v1.0",
-        "voice cloning",
-        "artificial intelligence",
-        "audio technology",
-        "startup news"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-03T18:24:42.000Z"
-    },
-    {
-      "title": "Google upgrades Colab with an AI agent tool",
-      "link": "https://techcrunch.com/2025/03/03/google-upgrades-colab-with-an-ai-agent-tool/",
-      "author": "Jagmeet Singh",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/google-data-science-agent.jpg",
-      "summary": "- Google Colab introduces the Data Science Agent tool to assist users in data analysis and visualization.\n- Originally launched as a standalone project, it is now integrated into Colab for easier access.\n- The tool is free but limited for free users; paid plans start at $9.99 with higher limits.\n- Supports CSV, JSON, or .txt files under 1GB and analyzes approximately 120,000 tokens in prompts.\n- Currently utilizes Google's Gemini 2.0 AI model for backend processing and feature engineering.\n- Future integrations with other Google apps are considered for expanding user accessibility.",
-      "keywords": [
-        "Google Colab",
-        "Data Science Agent",
-        "AI tools",
-        "data analysis",
-        "Gemini 2.0"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-03T17:41:06.000Z"
     }
   ]
 }
