@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "CoreWeave partner EcoDataCenter racks up half a billion dollars to build more sustainable buildings for AI",
+      "link": "https://techcrunch.com/2025/03/04/coreweave-partner-ecodatacenter-racks-up-half-a-billion-dollars-to-build-more-sustainable-buildings-for-ai/",
+      "author": "Ingrid Lunden",
+      "thumbnail": null,
+      "summary": "- EcoDataCenter raised $478 million in funding to develop eco-friendly data centers for AI demand.\n- Funding will support new technologies for greener data centers and construction of facilities.\n- The company has raised a total of €910 million ($966 million) in equity; no IPO plans currently.\n- EDC focuses on sustainable colocation spaces and uses renewable energy in its operations.\n- EDC's significant customer base includes major clients like CoreWeave and others in various industries.\n- The fundraising reflects the increasing demand for data centers amid a global AI boom.",
+      "keywords": [
+        "EcoDataCenter",
+        "sustainable buildings",
+        "AI",
+        "data centers",
+        "funding",
+        "CoreWeave",
+        "renewable energy"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-05T06:30:00.000Z"
+    },
+    {
       "title": "Meta brings its anti-fraud facial recognition test to the UK after getting a thumbs up from regulators",
       "link": "https://techcrunch.com/2025/03/04/meta-brings-its-anti-fraud-facial-recognition-test-to-the-uk-after-getting-a-thumbs-up-from-regulators/",
       "author": "Ingrid Lunden",
@@ -1160,29 +1183,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-03T19:40:00.000Z"
-    },
-    {
-      "title": "Google releases SpeciesNet, an AI model designed to identify wildlife",
-      "link": "https://techcrunch.com/2025/03/03/google-releases-speciesnet-an-ai-model-designed-to-identify-wildlife/",
-      "author": "Kyle Wiggers",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/sample_image_oct.jpg?w=680",
-      "summary": "- Google has open-sourced SpeciesNet, an AI model for identifying animal species from camera trap photos.\n- SpeciesNet was trained on over 65 million images, including data from organizations like the Smithsonian and the Wildlife Conservation Society.\n- The model can classify images into over 2,000 labels, assisting in biodiversity monitoring efforts.\n- The release is part of Google's Wildlife Insights initiative, which aids researchers in analyzing wildlife population data.\n- SpeciesNet is available on GitHub under an Apache 2.0 license, allowing broad commercial use.",
-      "keywords": [
-        "AI",
-        "SpeciesNet",
-        "wildlife",
-        "biodiversity",
-        "camera traps",
-        "image analysis",
-        "open source"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-03T19:22:12.000Z"
     }
   ]
 }
