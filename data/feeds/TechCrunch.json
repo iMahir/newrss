@@ -4,6 +4,55 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Key ex-OpenAI researcher subpoenaed in AI copyright case",
+      "link": "https://techcrunch.com/2025/03/04/key-ex-openai-researcher-subpoenaed-in-ai-copyright-case/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Alec Radford, ex-OpenAI researcher, subpoenaed in a copyright case against OpenAI on February 25.\n- Plaintiffs include authors Paul Tremblay, Sarah Silverman, and Michael Chabon, alleging copyright infringement related to OpenAI's AI models.\n- OpenAI claims its use falls under fair use; previous claims against OpenAI were dismissed, but the direct infringement claim continues.",
+      "keywords": [
+        "Alec Radford",
+        "OpenAI",
+        "copyright case",
+        "GPT",
+        "AI",
+        "fair use",
+        "Paul Tremblay",
+        "Sarah Silverman",
+        "Michael Chabon"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-05T02:14:01.000Z"
+    },
+    {
+      "title": "Judge rejects Musk’s attempt to block OpenAI’s for-profit transition",
+      "link": "https://techcrunch.com/2025/03/04/judge-rejects-musks-attempt-to-block-openais-for-profit-transition/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- A federal judge denied Elon Musk's motion for an injunction against OpenAI's transition to a for-profit company.\n- U.S. District Court Judge Yvonne Gonzalez Rogers noted Musk did not provide sufficient evidence for the injunction.\n- The court is willing to hold an expedited trial based on claims that OpenAI's conversion is unlawful.\n- Musk's lawsuit claims OpenAI abandoned its original nonprofit mission.\n- Recently, Musk made a $97.4 billion unsolicited bid to purchase OpenAI, which was rejected by OpenAI's board.",
+      "keywords": [
+        "Elon Musk",
+        "OpenAI",
+        "for-profit",
+        "court ruling",
+        "lawsuit",
+        "nonprofit",
+        "AI research",
+        "Sam Altman"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-05T01:53:56.000Z"
+    },
+    {
       "title": "Aspiration co-founder and board member defrauded investors of $145M, prosecutors say",
       "link": "https://techcrunch.com/2025/03/04/aspiration-co-founder-and-board-member-defrauded-investors-of-145m-prosecutors-say/",
       "author": "Tim De Chant",
@@ -1131,57 +1180,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-03T17:41:06.000Z"
-    },
-    {
-      "title": "Reddit co-founder Alexis Ohanian joins Frank McCourt’s TikTok bid",
-      "link": "https://techcrunch.com/2025/03/03/reddit-co-founder-alexis-ohanian-joins-frank-mccourts-tiktok-bid/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/alexis-ohanian.jpg?w=1024",
-      "summary": "- Alexis Ohanian has joined Frank McCourt's bid to acquire TikTok as a strategic adviser.\n- McCourt emphasizes Ohanian's extensive experience and understanding of social media's evolution.\n- Ohanian's role will focus on validating and socializing the bid efforts.\n- McCourt's Project Liberty has proposed a consortium called The People's Bid to acquire TikTok's U.S. assets, advocating for user data control.\n- Other interested parties in the TikTok acquisition include Jesse Tinsley, Microsoft, Oracle, and Bobby Kotick.\n- TikTok experienced a brief outage in January 2025 but was restored after an executive order from President Trump postponed a TikTok ban.",
-      "keywords": [
-        "Alexis Ohanian",
-        "TikTok",
-        "Frank McCourt",
-        "Project Liberty",
-        "social media",
-        "data control",
-        "acquisition bid",
-        "投资",
-        "社交媒体"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-03T17:38:18.000Z"
-    },
-    {
-      "title": "No part of Amazon is ‘unaffected’ by AI, says its head of AGI",
-      "link": "https://techcrunch.com/2025/03/03/no-part-of-amazon-is-unaffected-by-ai-says-its-head-of-agi/",
-      "author": "Vishal Sharma",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Mike-Butcher-TechCrunch-and-Vishal-Sharma-Amazon.jpg?w=680",
-      "summary": "- Vishal Sharma, Amazon’s VP of Artificial General Intelligence, stated that AI impacts every part of Amazon during his speech at Mobile World Congress in Barcelona.\n- Amazon is deploying its foundational models across AWS, robotics, and Alexa, with a fleet of about 750,000 robots.\n- The company has introduced a new family of multimodal generative AI models called Nova.\n- Sharma noted that smaller open-source AI models will not reduce compute resource needs and are varied in application.\n- Amazon has launched Bedrock for companies to use and mix foundational models.\n- The company is building a large AI compute cluster on Trainium 2 chips in partnership with Anthropic.\n- Sharma argued that Amazon has been focused on AI for about 25 years, dispelling the notion they were caught off guard by competitors like OpenAI.",
-      "keywords": [
-        "Amazon",
-        "AI",
-        "Artificial Intelligence",
-        "Mobile World Congress",
-        "Vishal Sharma",
-        "AWS",
-        "Generative AI",
-        "Robotics",
-        "Alexa",
-        "Open Source Models"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-03T17:34:47.000Z"
     }
   ]
 }

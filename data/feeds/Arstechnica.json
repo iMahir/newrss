@@ -4,6 +4,30 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Eerily realistic AI voice demo sparks amazement and discomfort online",
+      "link": "https://arstechnica.com/ai/2025/03/users-report-emotional-bonds-with-startlingly-realistic-ai-voice-demo/",
+      "author": "Benj Edwards",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/benj_ega.png",
+      "summary": "- Sesame AI's new Conversational Speech Model (CSM) impressively simulates human-like speech, leaving users feeling emotionally connected.\n- Released in February 2025, the CSM uses a multimodal transformer model trained on approximately 1 million hours of audio.\n- User interactions have proved polarizing, with some feeling unnerved by its realistic features and others showcasing emotional responses during conversations.",
+      "keywords": [
+        "AI",
+        "voice assistant",
+        "Sesame AI",
+        "Conversational Speech Model",
+        "human-like speech",
+        "emotional connection",
+        "technology risks",
+        "voice phishing"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 9,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-04T23:35:01.000Z"
+    },
+    {
       "title": "Threat posed by new VMware hyperjacking vulnerabilities is hard to overstate",
       "link": "https://arstechnica.com/security/2025/03/vmware-patches-3-critical-vulnerabilities-in-multiple-product-lines/",
       "author": null,
