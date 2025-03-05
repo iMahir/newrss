@@ -4,6 +4,76 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Apply to speak at TechCrunch Sessions: AI before time runs out",
+      "link": "https://techcrunch.com/2025/03/05/apply-to-speak-at-techcrunch-sessions-ai-before-time-runs-out/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/Kanu-Gulati-khosla-ventures_Headshot.jpg?w=680",
+      "summary": "- TechCrunch Sessions: AI is seeking speakers to shape the future of AI on June 5, 2025, at UC Berkeley.\n- Up to four speakers can lead a dynamic 50-minute session that includes a presentation and Q&A.\n- The deadline to apply to speak is March 7, 2025, at 11:59 p.m. PT.",
+      "keywords": [
+        "TechCrunch Sessions",
+        "AI",
+        "speaking opportunity",
+        "innovation",
+        "networking",
+        "conference"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-05T15:00:00.000Z"
+    },
+    {
+      "title": "Broadcom urges VMware customers to patch ‘emergency’ zero-day bugs under active exploitation",
+      "link": "https://techcrunch.com/2025/03/05/broadcom-urges-vmware-customers-to-patch-emergency-zero-day-bugs-under-active-exploitation/",
+      "author": "Carly Page",
+      "thumbnail": null,
+      "summary": "- Broadcom warns of three actively exploited VMware vulnerabilities affecting ESXi, Workstation, and Fusion hypervisors.\n- The vulnerabilities, labeled “ESXicape,” allow attackers to escape virtual machines to gain access to the hypervisor.\n- Broadcom has released patches and categorized these vulnerabilities as “zero-day” bugs, urging immediate application by customers.\n- U.S. Cybersecurity and Infrastructure Security Agency (CISA) has also warned federal agencies to patch against these vulnerabilities.",
+      "keywords": [
+        "Broadcom",
+        "VMware",
+        "zero-day",
+        "cybersecurity",
+        "vulnerabilities",
+        "ransomware",
+        "CISA",
+        "ESXicape"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-05T14:53:26.000Z"
+    },
+    {
+      "title": "Apple updates the Mac Studio with M4 Max and M3 Ultra options",
+      "link": "https://techcrunch.com/2025/03/05/apple-updates-the-new-mac-studio-with-m4-max-or-m3-ultra/",
+      "author": "Romain Dillet",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Apple-Mac-Studio-M4-Max-3D-software-250305.jpg?w=680",
+      "summary": "- Apple launched a new Mac Studio with M4 Max and M3 Ultra options, starting at $1,999.\n- Pre-orders begin today, with availability in the Apple Store on March 12.\n- The M3 Ultra features a 32-core CPU, up to 80 graphics cores, and boasts up to 2x better performance than M2 Ultra.\n- The M4 Max has a 14-core CPU and a 32-core GPU.\n- Custom configurations allow up to 512GB of RAM and 16TB of storage.\n- The design remains similar, featuring multiple ports including Thunderbolt 5 and traditional USB-A ports.\n- An M3 Ultra can support up to eight 6K displays or four 8K displays.",
+      "keywords": [
+        "Apple",
+        "Mac Studio",
+        "M4 Max",
+        "M3 Ultra",
+        "technology",
+        "hardware",
+        "performance",
+        "pre-order"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-05T14:21:36.000Z"
+    },
+    {
       "title": "Apple launches new MacBook Air with M4 chip",
       "link": "https://techcrunch.com/2025/03/05/apple-launches-a-new-macbook-air-with-m4-chip/",
       "author": "Romain Dillet",
@@ -1113,77 +1183,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-04T11:00:00.000Z"
-    },
-    {
-      "title": "Cino cracks bill-splitting at the moment of payment, raises seed round",
-      "link": "https://techcrunch.com/2025/03/04/cino-has-cracked-bill-splitting-at-the-moment-of-payment-raises-seed/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/cino-app-1.jpg?w=532",
-      "summary": "- Cino, a European startup, raised €3.5m in Seed funding led by Balderton Capital.\n- The app allows real-time bill-splitting directly at the point of payment from various accounts.\n- Founded in Estonia, Cino plans to expand to the U.K. after operating in Europe since 2023.\n- Users can create payment groups with adjustable split ratios and all payments are visible in the group feed.\n- The app has shown 100% month-over-month growth in Finland and Italy, with customers averaging 17 uses a month.",
-      "keywords": [
-        "Cino",
-        "bill-splitting",
-        "payment app",
-        "startup",
-        "funding",
-        "Gen Z",
-        "financial technology",
-        "group payments",
-        "Estonia",
-        "U.K. expansion"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-03-04T09:00:00.000Z"
-    },
-    {
-      "title": "Dutch startup QuantWare seeks to fast-track quantum computing",
-      "link": "https://techcrunch.com/2025/03/03/dutch-startup-quantware-seeks-to-fast-track-quantum-computing/",
-      "author": "Anna Heim",
-      "thumbnail": null,
-      "summary": "- QuantWare, established in 2020, has raised €20 million ($19.27 million) in a Series A round.\n- The startup focuses on scaling bottlenecks in quantum processing units (QPUs) through its VIO technology.\n- Contralto-A, their first QPU for quantum error correction, is designed to be upgradeable and is significantly larger than existing solutions.",
-      "keywords": [
-        "quantum computing",
-        "QuantWare",
-        "VC funding",
-        "startup",
-        "quantum chips",
-        "technology",
-        "error correction"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-04T07:59:00.000Z"
-    },
-    {
-      "title": "Moonwatt secures $8.3M to dial up solar’s staying power with sodium-ion storage",
-      "link": "https://techcrunch.com/2025/03/03/moonwatt-secures-8-3m-to-dial-up-solars-staying-power-with-sodium-ion-storage/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Moonwatt is a clean tech startup from the Netherlands focused on sodium-ion battery storage for solar plants.\n- The company secured €8 million ($8.3 million) in seed funding to develop its storage technology, aiming for pilot installations in 2024 and commercial deployments in 2027.\n- Their system can potentially double the internal rate of return for solar power plants, increasing capacity factors up to 80%.",
-      "keywords": [
-        "Moonwatt",
-        "solar energy",
-        "sodium-ion batteries",
-        "energy storage",
-        "clean tech",
-        "seed funding"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-04T07:00:00.000Z"
     }
   ]
 }
