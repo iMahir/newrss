@@ -4,6 +4,31 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "UK quietly scrubs encryption advice from government websites",
+      "link": "https://techcrunch.com/2025/03/06/uk-quietly-scrubs-encryption-advice-from-government-websites/",
+      "author": "Carly Page",
+      "thumbnail": null,
+      "summary": "- The U.K. government has removed encryption advice from its websites following a demand for backdoor access to encrypted data on iCloud.\n- The change was noticed by security expert Alec Muffet, indicating that the National Cyber Security Centre no longer recommends encryption for high-risk individuals.\n- Previously recommended tools like Apple's Advanced Data Protection (ADP) have been replaced with a suggestion to use Lockdown Mode, which limits access to functions.\n- The original guidance document has been deleted, while Apple has confirmed it will no longer offer end-to-end encryption for new U.K. users.",
+      "keywords": [
+        "encryption",
+        "UK government",
+        "Apple",
+        "iCloud",
+        "cybersecurity",
+        "NCSC",
+        "data protection",
+        "Lockdown Mode",
+        "Alec Muffet"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-06T10:34:26.000Z"
+    },
+    {
       "title": "A quarter of startups in YC’s current cohort have codebases that are almost entirely AI-generated",
       "link": "https://techcrunch.com/2025/03/06/a-quarter-of-startups-in-ycs-current-cohort-have-codebases-that-are-almost-entirely-ai-generated/",
       "author": null,
@@ -1136,29 +1161,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-05T06:30:00.000Z"
-    },
-    {
-      "title": "Meta brings its anti-fraud facial recognition test to the UK after getting a thumbs up from regulators",
-      "link": "https://techcrunch.com/2025/03/04/meta-brings-its-anti-fraud-facial-recognition-test-to-the-uk-after-getting-a-thumbs-up-from-regulators/",
-      "author": "Ingrid Lunden",
-      "thumbnail": null,
-      "summary": "- Meta expands its facial recognition test to the UK, which includes tools to prevent scams and help users recover compromised accounts.\n- The company received approval from UK regulators after discussions about AI technology.\n- In-app notifications will inform public figures in the UK about opting in to receive facial recognition-enabled protection against celebrity bait scams.\n- Meta assures that any facial data generated will be deleted after one-time use for comparison.\n- The rollout comes amidst a broader push for AI integration in Meta's services, while the company faces scrutiny over past facial recognition practices and lawsuits.",
-      "keywords": [
-        "Meta",
-        "facial recognition",
-        "UK",
-        "anti-fraud",
-        "scams",
-        "AI technology",
-        "public figures"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-03-05T06:05:14.000Z"
     }
   ]
 }
