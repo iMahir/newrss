@@ -4,6 +4,146 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "OpenAI’s ex-policy lead criticizes the company for ‘rewriting’ its AI safety history",
+      "link": "https://techcrunch.com/2025/03/06/openais-ex-policy-lead-criticizes-the-company-for-rewriting-its-ai-safety-history/",
+      "author": "Miles Brundage",
+      "thumbnail": null,
+      "summary": "- Miles Brundage, ex-OpenAI policy researcher, criticized OpenAI for altering its AI safety history.\n- OpenAI recently released a document outlining its philosophy on AI safety, emphasizing iterative deployment.\n- Brundage argued that the release of GPT-2 was consistent with cautious deployment, contrary to OpenAI's claims.\n- He expressed concern that the new document demonstrates a dangerous mentality towards safety in AI systems.\n- Competitive pressures and financial losses could lead OpenAI to prioritize speed over safety in its product releases.",
+      "keywords": [
+        "OpenAI",
+        "AI safety",
+        "Miles Brundage",
+        "GPT-2",
+        "AI ethics",
+        "iterative deployment",
+        "technology competition",
+        "DeepSeek",
+        "AGI"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-06T17:09:36.000Z"
+    },
+    {
+      "title": "Mistral’s new OCR API turns any PDF document into an AI-ready Markdown file",
+      "link": "https://techcrunch.com/2025/03/06/mistrals-new-ocr-api-turns-any-pdf-document-into-an-ai-ready-markdown-file/",
+      "author": "Romain Dillet",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Screenshot-2025-03-06-at-6.00.11PM.png?w=680",
+      "summary": "- Mistral launched a new optical character recognition API called [Mistral OCR](https://mistral.ai/news/mistral-ocr) for developers handling complex PDF documents.\n- The API converts PDFs into formatted Markdown text including bounding boxes for illustrations and photos.\n- Mistral OCR claims superior performance compared to Google, Microsoft, and OpenAI APIs, especially with complex documents and non-English text.\n- It is designed for organizations to streamline access to large amounts of internal documentation, enhancing capabilities for AI assistants.",
+      "keywords": [
+        "OCR",
+        "Mistral",
+        "Markdown",
+        "API",
+        "Artificial Intelligence",
+        "PDF Processing"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-06T17:01:37.000Z"
+    },
+    {
+      "title": "Intangible AI, a no-code 3D creation tool for filmmakers and game designers, raises $4M",
+      "link": "https://techcrunch.com/2025/03/06/intangible-ai-a-no-code-3d-creation-tool-for-filmmakers-and-game-designers-raises-4m/",
+      "author": "Lauren Forristal",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Intangible-AI-GIF.gif?w=640",
+      "summary": "- Intangible AI has raised $4 million in seed funding for its AI-powered 3D creation tool, targeting filmmakers, game designers, and everyday users.\n- The tool allows users to create 3D concepts with text prompts, without the need for coding.\n- It is set to officially launch in June, offering both free and paid subscription tiers ranging from $15 to $50 per month.\n- The company is co-founded by Charles Migos, a former Apple designer, and Bharat Vasan, an entrepreneur previously with Basis.\n- Their product currently in closed beta has attracted interest from numerous creatives, including major film and gaming studios.\n- Funding will support product development and hiring, aiming to double the team size this year.",
+      "keywords": [
+        "AI",
+        "3D creation",
+        "no-code",
+        "filmmakers",
+        "game designers",
+        "seed funding",
+        "Intangible AI"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-06T17:00:00.000Z"
+    },
+    {
+      "title": "Why VCs ghost founders, or reject deals and never speak to the founder again",
+      "link": "https://techcrunch.com/2025/03/06/why-vcs-ghost-founders-or-reject-deals-and-never-speak-to-the-founder-again/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Ghosting by VCs signifies a lack of interest in a founder's pitch.\n- Time constraints and increased volume of pitches lead to less communication from VCs.\n- Red flags that may lead to rejection include unrealistic expectations, visible team issues, and dishonesty.",
+      "keywords": [
+        "VCs",
+        "founders",
+        "ghosting",
+        "investing",
+        "rejection",
+        "startup funding",
+        "red flags",
+        "founder behavior"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-03-06T16:30:00.000Z"
+    },
+    {
+      "title": "DuckDuckGo leans further into GenAI as its AI chat interface exits beta",
+      "link": "https://techcrunch.com/2025/03/06/duckduckgo-leans-further-into-genai-as-its-ai-chat-interface-exits-beta/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Screenshot-2025-03-06-at-16.21.39.png?w=680",
+      "summary": "- DuckDuckGo is expanding its generative AI capabilities with the launch of Duck.ai, now out of beta.\n- Users can access AI models from Anthropic, OpenAI, and Meta through a chatbot interface.\n- The service features daily query limits, with plans for a paid option for more extensive AI chat capabilities.\n- DuckDuckGo's search engine now includes AI-assisted answers, appearing over 20% of the time if opted for frequently.\n- Users can control the level of AI responses, with options like 'sometimes,' 'often,' 'on-demand,' and 'never.'\n- Notably, DuckDuckGo promises privacy, allowing use of AI models without tracking or account creation.\n- The service allows seamless switching between chat and traditional search results with an easy-to-use chat button.",
+      "keywords": [
+        "DuckDuckGo",
+        "Generative AI",
+        "Duck.ai",
+        "AI chat interface",
+        "Privacy",
+        "Search engine"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-06T16:20:20.000Z"
+    },
+    {
+      "title": "Armis buys Otorio for $120M to beef up cybersecurity in physical spaces",
+      "link": "https://techcrunch.com/2025/03/06/armis-buys-otorio-for-120m-to-beef-up-cybersecurity-in-physical-spaces/",
+      "author": "Ingrid Lunden",
+      "thumbnail": null,
+      "summary": "- Armis acquires Otorio for $120 million in cash and shares, enhancing cybersecurity in industrial and physical environments.\n- Otorio’s flagship product, Titan, will integrate into Armis’ Centrix platform.\n- This acquisition marks Armis’ third purchase in a year, following Silk Security and CTCI acquisitions.\n- The move is part of a trend where early-stage cyber startups opt for acquisitions as funding becomes concentrated in late-stage companies.",
+      "keywords": [
+        "Armis",
+        "Otorio",
+        "cybersecurity",
+        "acquisition",
+        "industrial",
+        "physical environments",
+        "Titan",
+        "Centrix"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-06T16:15:21.000Z"
+    },
+    {
       "title": "How Uber’s new product chief is gearing up for robotaxis",
       "link": "https://techcrunch.com/2025/03/06/how-ubers-new-product-chief-is-gearing-up-for-robotaxis/",
       "author": null,
@@ -954,145 +1094,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-05T14:53:26.000Z"
-    },
-    {
-      "title": "Apple updates the Mac Studio with M4 Max and M3 Ultra options",
-      "link": "https://techcrunch.com/2025/03/05/apple-updates-the-new-mac-studio-with-m4-max-or-m3-ultra/",
-      "author": "Romain Dillet",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Apple-Mac-Studio-M4-Max-3D-software-250305.jpg?w=680",
-      "summary": "- Apple launched a new Mac Studio with M4 Max and M3 Ultra options, starting at $1,999.\n- Pre-orders begin today, with availability in the Apple Store on March 12.\n- The M3 Ultra features a 32-core CPU, up to 80 graphics cores, and boasts up to 2x better performance than M2 Ultra.\n- The M4 Max has a 14-core CPU and a 32-core GPU.\n- Custom configurations allow up to 512GB of RAM and 16TB of storage.\n- The design remains similar, featuring multiple ports including Thunderbolt 5 and traditional USB-A ports.\n- An M3 Ultra can support up to eight 6K displays or four 8K displays.",
-      "keywords": [
-        "Apple",
-        "Mac Studio",
-        "M4 Max",
-        "M3 Ultra",
-        "technology",
-        "hardware",
-        "performance",
-        "pre-order"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-03-05T14:21:36.000Z"
-    },
-    {
-      "title": "Apple launches new MacBook Air with M4 chip",
-      "link": "https://techcrunch.com/2025/03/05/apple-launches-a-new-macbook-air-with-m4-chip/",
-      "author": "Romain Dillet",
-      "thumbnail": null,
-      "summary": "- Apple has introduced a new MacBook Air featuring the M4 chip, offering improved performance.\n- Available in 13-inch and 15-inch models, starting at $999.\n- Maintains 16GB of RAM in the base configuration and features upgraded Thunderbolt ports to Thunderbolt 4.\n- Lighter and more affordable than the MacBook Pro, but with trade-offs like shorter battery life and display quality.\n- The M4 chip was first introduced with the iPad Pro in May 2024 and has since been phased into various Apple products.",
-      "keywords": [
-        "Apple",
-        "MacBook Air",
-        "M4 chip",
-        "technology",
-        "laptops",
-        "Thunderbolt 4"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-05T14:09:09.000Z"
-    },
-    {
-      "title": "GibberLink lets AI agents call each other in robo-language",
-      "link": "https://techcrunch.com/2025/03/05/gibberlink-lets-ai-agents-call-each-other-in-robo-language/",
-      "author": "Boris Starkov, Anton Pidkuiko, Maxwell Zeff",
-      "thumbnail": null,
-      "summary": "- GibberLink allows AI agents to communicate over the phone using a robotic language incomprehensible to humans.\n- The project was created by Meta engineers during a hackathon in London and uses the GGWave protocol for efficient AI-to-AI communication.\n- The demonstration has gone viral, attracting over 15 million views and sparking discussions about the future of AI communication.",
-      "keywords": [
-        "GibberLink",
-        "AI communication",
-        "hackathon",
-        "GGWave",
-        "robotic language",
-        "Meta",
-        "AI agents"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-05T14:00:00.000Z"
-    },
-    {
-      "title": "CIA director says US has paused sharing intelligence with Ukraine",
-      "link": "https://techcrunch.com/2025/03/05/cia-director-says-us-has-paused-sharing-intelligence-with-ukraine/",
-      "author": "Zack Whittaker",
-      "thumbnail": null,
-      "summary": "- CIA director John Ratcliffe confirmed the pause in U.S. intelligence sharing with Ukraine following a disagreement between leaders.\n- President Trump requested a “pause” after questioning Ukrainian President Zelenskyy’s commitment to the peace process.\n- The pause could affect Ukraine's ability to defend against Russian attacks, though Ratcliffe believes it will be temporary.",
-      "keywords": [
-        "CIA",
-        "intelligence sharing",
-        "Ukraine",
-        "Trump administration",
-        "Zelenskyy",
-        "Russia",
-        "cyberattacks",
-        "U.S. foreign policy"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-05T13:55:16.000Z"
-    },
-    {
-      "title": "Experts Don’t Think AI Is Ready to Be a ‘Co-Scientist’",
-      "link": "https://techcrunch.com/2025/03/05/experts-dont-think-ai-is-ready-to-be-a-co-scientist/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Google announced an AI co-scientist to aid in scientific research but experts believe it lacks practicality and empirical support.\n- Researchers like Sarah Beery from MIT and Favia Dubyk from Arizona criticize the AI co-scientist for being vague and not trustworthy.\n- The scientific community highlights AI's limitations in replicating human intuition and the hands-on nature of scientific research.\n- Experts caution that AI could flood academic literature with low-quality research unless proper monitoring is enforced.",
-      "keywords": [
-        "AI co-scientist",
-        "Google",
-        "scientific research",
-        "expert opinions",
-        "limitations of AI",
-        "scientific community"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-05T13:30:00.000Z"
-    },
-    {
-      "title": "U.K.’s competition authority says Microsoft’s OpenAI partnership doesn’t qualify for investigation",
-      "link": "https://techcrunch.com/2025/03/05/u-k-s-competition-authority-says-microsofts-openai-partnership-doesnt-quality-for-investigation/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- The U.K.'s Competition and Markets Authority (CMA) stated that Microsoft’s partnership with OpenAI doesn't qualify for investigation under the Enterprise Act 2002.\n- The CMA concluded there is no change of control over OpenAI's commercial policy, only a material influence by Microsoft.\n- The investigation into the partnership began in December 2023 due to concerns that Microsoft might restrict rivals' access to OpenAI's models.\n- Recent developments indicated a reduction in Microsoft’s control over OpenAI.\n- Microsoft has renegotiated its cloud computing agreement with OpenAI, allowing more independent operational space for OpenAI.",
-      "keywords": [
-        "UK",
-        "competition authority",
-        "Microsoft",
-        "OpenAI",
-        "CMA",
-        "merger investigation",
-        "AI technology",
-        "cloud computing"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-05T12:57:40.000Z"
     }
   ]
 }
