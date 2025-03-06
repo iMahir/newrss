@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Our first look at Apple’s sky blue MacBook Air",
+      "link": "https://www.theverge.com/news/625082/macbook-air-sky-blue-photos-hands-on-studio-ipad",
+      "author": "Antonio G. Di Benedetto",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/1vpavic_20250305__0803.jpg?quality=90&strip=all&crop=0,0,100,100&w=2400",
+      "summary": "- The new M4 MacBook Air features a sky blue color replacing space gray, alongside existing colors like starlight, silver, and midnight.\n- The M4 model has a 10-core CPU and 8-core GPU, with a 12-megapixel Center Stage webcam designed to track the user.\n- Two external monitor support is now included.\n- Pricing: 13-inch model starts at $999, and 15-inch model starts at $1,199, marking a return to previous pricing levels for the 13-inch model.\n- Available for order next week; hands-on experience and photos have been shared.",
+      "keywords": [
+        "Apple",
+        "MacBook Air",
+        "M4",
+        "tech",
+        "sky blue",
+        "laptop",
+        "release"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-06T01:30:59.000Z"
+    },
+    {
       "title": "Handheld PC Gaming Revolution: Updates on Steam Deck, ROG Ally, and More",
       "link": "https://www.theverge.com/22579493/valve-steam-deck-gaming-handheld-pc",
       "author": "Verge Staff",
@@ -166,6 +189,32 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-05T22:38:57.000Z"
+    },
+    {
+      "title": "Trump’s first 100 days: all the news affecting the tech industry",
+      "link": "https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news",
+      "author": "Verge Staff",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/0007835275_20.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "summary": "- The Trump administration ended an air monitoring program that saved millions in medical costs.\n- Trump's proposed tariffs could increase car prices by up to $12,000, leading to a potential crisis in dealerships.\n- The Consumer Financial Protection Bureau dropped a lawsuit against Zelle, allowing banks to escape accountability for fraud.\n- TSMC plans a $100 billion investment in US chipmaking, starting two new facilities in Arizona.\n- The National Oceanic and Atmospheric Administration cut hundreds of jobs, jeopardizing weather forecasting capabilities.",
+      "keywords": [
+        "Trump",
+        "technology",
+        "policy",
+        "automotive",
+        "chipmaking",
+        "regulations",
+        "finance",
+        "climate",
+        "consumer protection",
+        "fraud"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-05T22:23:38.000Z"
     },
     {
       "title": "AI-generated review summaries are coming to Apple’s app store",
@@ -1127,53 +1176,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-04T22:43:33.000Z"
-    },
-    {
-      "title": "YouTube warns creators an AI-generated video of its CEO is being used for phishing scams",
-      "link": "https://www.theverge.com/news/624159/youtube-ai-generated-neal-mohan-phishing-scam",
-      "author": "Emma Roth",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- YouTube alerts creators of a phishing scam using an AI-generated video of CEO Neal Mohan.\n- The fake video claims changes in monetization policy to steal user credentials.\n- YouTube emphasizes it will never share information through private videos.\n- Users reported similar scams on Reddit, indicating phishing attempts mimicking YouTube.\n- Phishing emails often come from deceptive sources, such as \"no-reply@youtube.com.\"",
-      "keywords": [
-        "YouTube",
-        "phishing",
-        "AI-generated video",
-        "Neal Mohan",
-        "scam",
-        "monetization policy",
-        "deepfake"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-04T21:39:08.000Z"
-    },
-    {
-      "title": "The crypto industry got what it paid for",
-      "link": "https://www.theverge.com/cryptocurrency/624108/crypto-reserve-bitcoin-trump-grift",
-      "author": "Elizabeth Lopatto",
-      "thumbnail": null,
-      "summary": "- President Trump announced plans for a U.S. Crypto Reserve on Truth Social, aiming to support the crypto industry.\n- The proposed stockpile includes cryptocurrencies like Bitcoin, Ethereum, and Ripple's XRP, raising concerns about how it would be managed.\n- Critics argue it undermines the U.S. dollar, with potential negative impacts on fiscal policy, inflation, and international standing.\n- A crypto stockpile is seen as benefitting Trump's crypto donors while risking taxpayer investment in volatile assets.\n- The future of crypto is uncertain, with significant involvement from hackers and speculation on its viability as a currency.",
-      "keywords": [
-        "crypto",
-        "Trump",
-        "U.S. Crypto Reserve",
-        "Bitcoin",
-        "Ethereum",
-        "economic impact",
-        "cryptocurrency",
-        "market manipulation"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-03-04T21:33:58.000Z"
     }
   ]
 }
