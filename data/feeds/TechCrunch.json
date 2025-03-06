@@ -4,6 +4,62 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Christie’s AI art auction reportedly exceeds expectations",
+      "link": "https://techcrunch.com/2025/03/06/christies-ai-art-auction-reportedly-exceeds-expectations/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1432105459.jpg?w=1024",
+      "summary": "- Nearly 6,500 artists petitioned Christie’s to cancel its AI art auction, Augmented Intelligence.\n- The auction generated over $700,000, surpassing expectations.\n- Top sale was Anadol’s “Machine Hallucinations — ISS Dreams — A” which sold for $277,200.\n- Nicole Sales Giles, Christie’s VP, states the auction success indicates recognition for innovative artists.\n- Concerns remain over the use of copyrighted material in AI-generated art, according to artists' open letter.",
+      "keywords": [
+        "AI art",
+        "Christie's",
+        "auction",
+        "digital art",
+        "artists",
+        "copyright"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-06T18:38:57.000Z"
+    },
+    {
+      "title": "ChatGPT on macOS can now directly edit code",
+      "link": "https://techcrunch.com/2025/03/06/chatgpt-on-macos-can-now-directly-edit-code/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- ChatGPT can now directly edit code on macOS in tools like Xcode, VS Code, and JetBrains.\n- An “auto-apply” mode allows for edits without additional clicks.\n- Available for ChatGPT Plus, Pro, and Team subscribers as of March 6, 2025; Enterprise, Edu, and free users will receive it next week.\n- The feature builds on the “work with apps” capability launched in November 2024.\n- The move positions ChatGPT against AI coding tools like Cursor and GitHub Copilot.\n- AI coding assistants are gaining popularity, with many developers using AI-generated code; however, there are associated risks.",
+      "keywords": [
+        "ChatGPT",
+        "macOS",
+        "code editing",
+        "OpenAI",
+        "AI coding tools",
+        "Xcode",
+        "VS Code",
+        "JetBrains"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-06T18:36:00.000Z"
+    },
+    {
+      "title": "Spotify says it’s fixing the bug that caused Premium users to hear ads",
+      "link": "https://techcrunch.com/2025/03/06/spotify-says-its-fixing-the-bug-that-caused-premium-users-to-hear-ads/",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-03-06T18:31:46.000Z"
+    },
+    {
       "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
       "link": "https://techcrunch.com/2025/03/06/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
       "author": null,
@@ -1014,76 +1070,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-05T16:00:00.000Z"
-    },
-    {
-      "title": "Growth at all costs is destroying the internet. PR maven Ed Zitron says that’s an opportunity for startups",
-      "link": "https://techcrunch.com/2025/03/05/growth-at-all-costs-is-destroying-the-internet-pr-maven-ed-zitron-says-thats-an-opportunity-for-startups/",
-      "author": "Ed Zitron",
-      "thumbnail": null,
-      "summary": "- Ed Zitron critiques the internet's deteriorating user experience due to the dominance of ads and subscription models.\n- He describes this situation as the \"rot economy,\" emphasizing that customers have become secondary in big tech's push for growth.\n- Zitron identifies various sectors ripe for disruption, including social media, enterprise software, and email, encouraging startups to challenge failing incumbents.\n- Platforms like Bluesky and Mastodon are emerging as alternatives to established social networks like Instagram and X.\n- Zitron argues that the stagnation of major companies offers a crucial opportunity for new startups to provide better user experiences and products.",
-      "keywords": [
-        "internet",
-        "Ed Zitron",
-        "growth",
-        "startups",
-        "user experience",
-        "Big Tech",
-        "disruption",
-        "social media",
-        "enterprise software",
-        "email"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-05T15:55:33.000Z"
-    },
-    {
-      "title": "EU must ‘fully’ apply its market fairness rulebook on Google, search rivals urge",
-      "link": "https://techcrunch.com/2025/03/05/eu-must-fully-apply-its-market-fairness-rulebook-on-google-search-rivals-urge/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- The EU is urged to expand its investigation of Google under the Digital Markets Act (DMA) to ensure compliance.\n- Alternative search engines DuckDuckGo and Seznam.cz are accusing Google of violating the DMA rules.\n- An open letter was sent to EU Commission EVPs urging full application of DMA on Google, addressing concerns over Google's choice screen implementation and data sharing related to search queries.\n- The letter arrives as the EU faces pressure from the U.S. regarding fairness in regulations, highlighting the complex dynamics of international tech regulations.",
-      "keywords": [
-        "EU",
-        "Google",
-        "Digital Markets Act",
-        "DuckDuckGo",
-        "search engines"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-05T15:39:59.000Z"
-    },
-    {
-      "title": "AI pioneers scoop Turing Award for reinforcement learning work",
-      "link": "https://techcrunch.com/2025/03/05/ai-pioneers-scoop-turing-award-for-reinforcement-learning-work/",
-      "author": "Paul Sawers",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Turing.jpg?w=680",
-      "summary": "- Andrew G. Barto and Richard S. Sutton won the 2024 [Turing Award](https://amturing.acm.org/) for their work in reinforcement learning.\n- Their research includes significant algorithms and theories dating back to the 1980s, including [temporal difference learning](https://en.wikipedia.org/wiki/Temporal_difference_learning).\n- The Turing Award, often called the 'Nobel Prize for computing', emphasizes the importance and ongoing relevance of their contributions to AI and machine learning.\n- Barto and Sutton will share a $1 million cash prize, supported by Google.",
-      "keywords": [
-        "Turing Award",
-        "reinforcement learning",
-        "AI",
-        "Andrew Barto",
-        "Richard Sutton",
-        "machine learning",
-        "temporal difference learning"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 9
-      },
-      "pubDate": "2025-03-05T15:27:57.000Z"
     }
   ]
 }
