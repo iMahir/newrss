@@ -4,6 +4,30 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Will the future of software development run on vibes?",
+      "link": "https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/",
+      "author": "Benj Edwards",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/karpathy_vibecode_screenshot.png",
+      "summary": "- The term \"vibe coding\" was popularized by former OpenAI researcher Andrej Karpathy, referring to coding without fully understanding the code.\n- AI tools like ChatGPT, Cursor Composer, GitHub Copilot, and Replit Agent enable this method by allowing users to describe programs in natural language.\n- While vibe coding simplifies software creation for non-programmers, it raises concerns about code reliability and understanding, particularly in professional environments.",
+      "keywords": [
+        "vibe coding",
+        "AI coding",
+        "Andrej Karpathy",
+        "software development",
+        "natural language programming",
+        "AI tools",
+        "GitHub Copilot",
+        "Cursor Composer"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-05T23:41:59.000Z"
+    },
+    {
       "title": "Eerily realistic AI voice demo sparks amazement and discomfort online",
       "link": "https://arstechnica.com/ai/2025/03/users-report-emotional-bonds-with-startlingly-realistic-ai-voice-demo/",
       "author": "Benj Edwards",
@@ -1147,29 +1171,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2024-12-26T12:00:25.000Z"
-    },
-    {
-      "title": "Health care giant Ascension says 5.6 million patients affected in cyberattack",
-      "link": "https://arstechnica.com/information-technology/2024/12/health-care-giant-ascension-says-5-6-million-patients-affected-in-cyberattack/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Ascension experienced a cyberattack affecting 5.6 million individuals' sensitive data.\n- The attack was linked to a notorious ransomware gang and disrupted operations in May.\n- Affected data included names, medical information, payment details, insurance information, and government identification numbers.\n- Most services were restored by mid-June after staff transitioned to manual processes due to the attack.\n- A filing in December confirmed the scale of the breach and types of data compromised.",
-      "keywords": [
-        "cyberattack",
-        "Ascension",
-        "data breach",
-        "health care",
-        "ransomware",
-        "patient information",
-        "security breach"
-      ],
-      "scores": {
-        "scale": 9,
-        "impact": 10,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2024-12-23T17:21:39.000Z"
     }
   ]
 }

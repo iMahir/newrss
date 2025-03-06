@@ -1,5 +1,196 @@
 [
   {
+    "title": "12 Chinese Hackers Charged with US Treasury Breach and Data Breaches by Financially Motivated Groups",
+    "id": "0jkdise1aqrpzl",
+    "summary": "- Ransomware payments fell over a third to $813 million in 2024, down from $1.25 billion in 2023.\n- Significant attacks were reported against NHS trusts and Krispy Kreme.\n- Decrease attributed to victims refusing payments and increased law enforcement actions against cybercriminals.\n- Payments in 2024 lower than previous years, indicating averted 'ransomware apocalypse'.\n- UK ministers are considering a ban on ransomware payments by public entities.\n- Law enforcement targeted ransomware groups like BlackCat and Lockbit, leading to multiple arrests and seizures.\n- Operation Phobos Aetor targeted the 8base group; major seizures included servers and chat logs.\n- Phobos ransomware was warned to target critical U.S. infrastructure.\n- Genea, an IVF provider, suffered a data breach by the Termite ransomware gang, exposing sensitive patient information.\n- 12 Chinese nationals charged with hacking over 100 US organizations since 2013, linked to APT27 or Silk Typhoon.\n- U.S. authorities are offering rewards up to $10 million for information on the accused hackers.",
+    "thumbnails": [
+      "https://techcrunch.com/wp-content/uploads/2025/02/8base-takedown.png",
+      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461726/STK432_Government__CVirginia_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8.61,
+      "novelty": 6.78,
+      "longTermSignificance": 7.03
+    },
+    "keywords": [
+      "ransomware",
+      "cybercrime",
+      "payments",
+      "law enforcement",
+      "cybersecurity",
+      "genea",
+      "data breach",
+      "ivf",
+      "chinese hackers",
+      "us treasury",
+      "apt27",
+      "espionage",
+      "8base",
+      "phobos",
+      "blackcat",
+      "lockbit",
+      "termite",
+      "symantec"
+    ],
+    "sources": [
+      {
+        "title": "Global ransomware payments plunge by a third amid crackdown",
+        "link": "https://www.theguardian.com/technology/2025/feb/05/global-ransomware-payments-plunge-by-a-third-amid-crackdown"
+      },
+      {
+        "title": "Ransomware payments dropped in 2024 as victims refused to pay hackers",
+        "link": "https://techcrunch.com/2025/02/05/ransomware-payments-dropped-in-2024-as-victims-refused-to-pay-hackers/"
+      },
+      {
+        "title": "Ransomware payments declined in 2024 despite massive well-known hacks",
+        "link": "https://arstechnica.com/security/2025/02/ransomware-payments-declined-in-2024-despite-well-known-massive-hacks/"
+      },
+      {
+        "title": "Global police operation seizes 8base ransomware gang leak site",
+        "link": "https://techcrunch.com/2025/02/10/global-police-operation-seizes-8base-ransomware-gang-leak-site/"
+      },
+      {
+        "title": "Authorities arrest four suspected 8base ransomware operators in global takedown",
+        "link": "https://techcrunch.com/2025/02/11/authorities-arrest-four-suspected-8base-ransomware-operators-in-global-takedown/"
+      },
+      {
+        "title": "Leaked chat logs expose inner workings of secretive ransomware group",
+        "link": "https://arstechnica.com/security/2025/02/leaked-chat-logs-expose-inner-workings-of-secretive-ransomware-group/"
+      },
+      {
+        "title": "Hackers publish sensitive patient data allegedly stolen from Australian IVF provider Genea",
+        "link": "https://techcrunch.com/2025/02/26/hackers-publish-sensitive-patient-data-allegedly-stolen-from-australian-ivf-provider-genea/"
+      },
+      {
+        "title": "Financially motivated hackers are helping their espionage counterparts and vice versa",
+        "link": "https://arstechnica.com/security/2025/02/financially-motivated-hackers-are-helping-their-espionage-counterparts-and-vice-versa/"
+      },
+      {
+        "title": "12 Chinese hackers charged with US Treasury breach — and much, much more",
+        "link": "https://www.theverge.com/news/625081/doj-criminal-charges-chinese-government-hackers-treasury-silk-typhoon"
+      }
+    ],
+    "lastUpdated": "2025-03-06T00:52:14.869Z"
+  },
+  {
+    "title": "A cheat sheet of M&As in Southeast Asia",
+    "id": "1jmk5731bxc9sl",
+    "summary": "- Since 2006, Tech in Asia has tracked M&A activity in Southeast Asia.\n- The article compiles trends and milestones in the region's M&A landscape.\n- Highlights the average and median deal sizes and variations in deal structures.\n- Discusses the most active M&A sectors and identifies top acquirers in the region.",
+    "thumbnails": [
+      "https://cdn.techinasia.com/wp-content/uploads/2023/05/1684115689_hiddensquid_map_malacca_strait_3D_clay_art_024ec50d-e0e5-40bd-84e5-177abd7c2583.png"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 5,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "M&A",
+      "Southeast Asia",
+      "Tech in Asia",
+      "mergers",
+      "acquisitions",
+      "business trends"
+    ],
+    "sources": [
+      {
+        "title": "A cheat sheet of M&As in Southeast Asia",
+        "link": "https://www.techinasia.com/visual-story/cheat-sheet-mas-southeast-asia"
+      }
+    ],
+    "lastUpdated": "2025-03-06T00:52:14.868Z"
+  },
+  {
+    "title": "Will the future of software development run on vibes?",
+    "id": "0mxo8ow191r1u1",
+    "summary": "- The term \"vibe coding\" was popularized by former OpenAI researcher Andrej Karpathy, referring to coding without fully understanding the code.\n- AI tools like ChatGPT, Cursor Composer, GitHub Copilot, and Replit Agent enable this method by allowing users to describe programs in natural language.\n- While vibe coding simplifies software creation for non-programmers, it raises concerns about code reliability and understanding, particularly in professional environments.",
+    "thumbnails": [
+      "https://cdn.arstechnica.net/wp-content/uploads/2025/03/karpathy_vibecode_screenshot.png"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 7,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "vibe coding",
+      "AI coding",
+      "Andrej Karpathy",
+      "software development",
+      "natural language programming",
+      "AI tools",
+      "GitHub Copilot",
+      "Cursor Composer"
+    ],
+    "sources": [
+      {
+        "title": "Will the future of software development run on vibes?",
+        "link": "https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/"
+      }
+    ],
+    "lastUpdated": "2025-03-06T00:52:14.867Z"
+  },
+  {
+    "title": "Reddit will warn users who repeatedly upvote banned content",
+    "id": "1dd7wwk0bxhr95",
+    "summary": "- Reddit will begin warning users who upvote banned content repeatedly within a certain timeframe, starting with violent content.\n- Most users will not be impacted, as they already downvote or report abusive content.\n- Concerns about users becoming paranoid about voting are noted, but Reddit aims to monitor and address this issue.\n- Previous experiments suggested that similar warnings helped reduce exposure to bad content in quarantined communities, prompting a sitewide rollout of this feature.",
+    "thumbnails": [
+      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195819/JAY_PETERS.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
+    ],
+    "scores": {
+      "scale": 6,
+      "impact": 7,
+      "novelty": 5,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "Reddit",
+      "content moderation",
+      "upvote",
+      "banned content",
+      "warnings",
+      "policy changes"
+    ],
+    "sources": [
+      {
+        "title": "Reddit will warn users who repeatedly upvote banned content",
+        "link": "https://www.theverge.com/news/625075/reddit-will-warn-users-who-repeatedly-upvote-banned-content"
+      }
+    ],
+    "lastUpdated": "2025-03-06T00:52:14.866Z"
+  },
+  {
+    "title": "Russia-aligned hackers are targeting Signal users with device-linking QR codes",
+    "id": "0iey8fk0j5l773",
+    "summary": "- Signal's popularity as an encrypted messaging app is attracting manipulation by Russia-affiliated hackers.\n- Hackers attempt to trick users into linking devices via malicious QR codes, using tactics such as group invites and security alerts.\n- Apt44, a Russian state hacking group, is reportedly enabling linked accounts on devices captured on the battlefield for exploitation.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "Signal",
+      "Russia",
+      "hackers",
+      "QR codes",
+      "secure messaging",
+      "social engineering",
+      "Apt44"
+    ],
+    "sources": [
+      {
+        "title": "Russia-aligned hackers are targeting Signal users with device-linking QR codes",
+        "link": "https://arstechnica.com/information-technology/2025/02/russia-aligned-hackers-are-targeting-signal-users-with-device-linking-qr-codes/"
+      }
+    ],
+    "lastUpdated": "2025-03-06T00:52:14.855Z"
+  },
+  {
     "title": "The Trump administration wants to review all prospective citizens’ social media accounts",
     "id": "0pdljbe0h0npc1",
     "summary": "- The Trump administration may require social media accounts from applicants for green cards, citizenship, asylum, and refugee status.\n- This policy was proposed by USCIS as essential for thorough vetting per President Trump's executive order regarding national security.\n- The public can comment on the proposal until May 5, affecting over 3.5 million people applying for immigration benefits.\n- Advocacy groups criticize the policy as a form of authoritarianism and surveillance targeting immigrants.\n- This new requirement surpasses the State Department’s earlier policy mandating five years of social media history for visa applicants.",
@@ -19396,78 +19587,6 @@
       }
     ],
     "lastUpdated": "2025-02-27T14:11:53.493Z"
-  },
-  {
-    "title": "Financially Motivated Hackers Collaborate with Espionage Groups and Data Breach at Genea IVF Provider",
-    "id": "0jkdise1aqrpzl",
-    "summary": "- Ransomware payments fell by over a third to $813 million in 2024, down from $1.25 billion in 2023.\n- Major incidents included attacks on NHS trusts and Krispy Kreme.\n- Decline attributed to victims refusing to pay and intensified law enforcement actions against [cybercriminals](https://pollinations.ai/referral?topic=cybercrime).\n- Payments for 2024 lower than previous years, below 2020's $999 million and 2019's $1.1 billion.\n- Expert Jacqueline Burns Koven suggests this indicates averted 'ransomware apocalypse' due to effective collaboration and victim resistance.\n- UK ministers consider a ban on ransomware payments by public entities.\n- Payments dropped more than 35% in 2024, with hacker demands 53% higher than actual payments in the year's second half.\n- Law enforcement targeted major ransomware groups like BlackCat and Lockbit in 2024.\n- International law enforcement seized the 8base ransomware gang's dark web leak site.\n- Global operation arrested four Russian nationals linked to over 1,000 ransomware attacks.\n- Named “Phobos Aetor,” the operation targeted the 8base group in Phuket, Thailand.\n- Evidence includes over 40 pieces seized and more than 100 servers shut down.\n- The FBI warned that Phobos ransomware targeted critical infrastructure in the U.S.\n- Charges were unsealed against two suspects for operating the 8base affiliate.\n- Leaked chat logs revealed internal tensions within the Black Basta group.\n- Hackers published sensitive data from IVF patients after a cyberattack on Genea.\n- Genea CEO confirmed data was published externally following the breach.\n- Termite ransomware gang claimed responsibility, breaching Genea’s Citrix environment on January 31.\n- Data breach involved about 940 GB of data, accessing patient management information without compromising financial details.\n- Genea is working to restore systems and communicate with affected patients.\n- Researchers from Symantec report a collaboration between financially motivated hackers and espionage groups, particularly the RA World ransomware group using tools previously seen in Chinese espionage.\n- The toolset, a variant of PlugX, was linked to attacks on governments and telecom operators in Southeastern Europe and Asia from July to January.\n- Theories exist on why espionage-linked actors may engage in ransomware, with speculation about financial motives or attempts to cover up intrusions, but this behavior is uncommon for Chinese threat actors.",
-    "thumbnails": [
-      "https://techcrunch.com/wp-content/uploads/2025/02/8base-takedown.png"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8.21,
-      "novelty": 6.55,
-      "longTermSignificance": 6.05
-    },
-    "keywords": [
-      "ransomware",
-      "cybercrime",
-      "payments",
-      "law enforcement",
-      "cybersecurity",
-      "uk",
-      "victims",
-      "8base",
-      "genea",
-      "data breach",
-      "ivf",
-      "sensitive data",
-      "phobos",
-      "dark web",
-      "hacking",
-      "espionage",
-      "symantec",
-      "plugx",
-      "china",
-      "threat actors",
-      "mandiant"
-    ],
-    "sources": [
-      {
-        "title": "Global ransomware payments plunge by a third amid crackdown",
-        "link": "https://www.theguardian.com/technology/2025/feb/05/global-ransomware-payments-plunge-by-a-third-amid-crackdown"
-      },
-      {
-        "title": "Ransomware payments dropped in 2024 as victims refused to pay hackers",
-        "link": "https://techcrunch.com/2025/02/05/ransomware-payments-dropped-in-2024-as-victims-refused-to-pay-hackers/"
-      },
-      {
-        "title": "Ransomware payments declined in 2024 despite massive well-known hacks",
-        "link": "https://arstechnica.com/security/2025/02/ransomware-payments-declined-in-2024-despite-well-known-massive-hacks/"
-      },
-      {
-        "title": "Global police operation seizes 8base ransomware gang leak site",
-        "link": "https://techcrunch.com/2025/02/10/global-police-operation-seizes-8base-ransomware-gang-leak-site/"
-      },
-      {
-        "title": "Authorities arrest four suspected 8base ransomware operators in global takedown",
-        "link": "https://techcrunch.com/2025/02/11/authorities-arrest-four-suspected-8base-ransomware-operators-in-global-takedown/"
-      },
-      {
-        "title": "Leaked chat logs expose inner workings of secretive ransomware group",
-        "link": "https://arstechnica.com/security/2025/02/leaked-chat-logs-expose-inner-workings-of-secretive-ransomware-group/"
-      },
-      {
-        "title": "Hackers publish sensitive patient data allegedly stolen from Australian IVF provider Genea",
-        "link": "https://techcrunch.com/2025/02/26/hackers-publish-sensitive-patient-data-allegedly-stolen-from-australian-ivf-provider-genea/"
-      },
-      {
-        "title": "Financially motivated hackers are helping their espionage counterparts and vice versa",
-        "link": "https://arstechnica.com/security/2025/02/financially-motivated-hackers-are-helping-their-espionage-counterparts-and-vice-versa/"
-      }
-    ],
-    "lastUpdated": "2025-02-27T14:11:53.485Z"
   },
   {
     "title": "Instagram’s Reels May Become a Standalone App",
@@ -39980,118 +40099,5 @@
       }
     ],
     "lastUpdated": "2025-02-20T02:13:52.028Z"
-  },
-  {
-    "title": "AI-coding startup Codeium in talks to raise at an almost $3B valuation, sources say",
-    "id": "1xbzqe305bnk9v",
-    "summary": "- Codeium is raising funds at a $2.85 billion valuation, led by Kleiner Perkins.\n- The new funding round follows a $150 million Series C funding at a $1.25 billion valuation just six months ago.\n- Codeium's annualized recurring revenue (ARR) is about $30 million, resulting in a valuation of approximately 95 times ARR; higher than competitors.\n- The startup focuses on enterprise customers and boasts over 1,000 enterprise clients like Anduril, Zillow, and Dell.\n- Founded in 2021 by Varun Mohan and Douglas Chen, Codeium differentiates itself with its AI-enabled coding tools.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "Codeium",
-      "AI coding startup",
-      "funding",
-      "valuation",
-      "Kleiner Perkins",
-      "enterprise customers"
-    ],
-    "sources": [
-      {
-        "title": "AI-coding startup Codeium in talks to raise at an almost $3B valuation, sources say",
-        "link": "https://techcrunch.com/2025/02/19/ai-coding-startup-codeium-in-talks-to-raise-at-an-almost-3b-valuation-sources-say/"
-      }
-    ],
-    "lastUpdated": "2025-02-20T00:49:44.991Z"
-  },
-  {
-    "title": "Saronic raises $600M to mass-produce autonomous warships",
-    "id": "0hpdqdt1tofo20",
-    "summary": "- Austin-based defense startup Saronic raised $600 million in Series C funding to establish an autonomous ship factory called \"Port Alpha.\"\n- The funding was led by investor Elad Gil and increased Saronic's valuation to $4 billion.\n- Saronic aims to construct large unmanned ships to enhance U.S. shipbuilding capabilities and compete with China.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 8,
-      "impact": 9,
-      "novelty": 7,
-      "longTermSignificance": 8
-    },
-    "keywords": [
-      "Saronic",
-      "autonomous warships",
-      "defense technology",
-      "funding",
-      "Port Alpha",
-      "shipbuilding",
-      "U.S. Navy"
-    ],
-    "sources": [
-      {
-        "title": "Saronic raises $600M to mass-produce autonomous warships",
-        "link": "https://techcrunch.com/2025/02/19/saronic-raises-600m-to-mass-produce-autonomous-warships/"
-      }
-    ],
-    "lastUpdated": "2025-02-20T00:49:44.990Z"
-  },
-  {
-    "title": "Patreon Speaks Out Against Algorithmic Feeds in Creator Economy",
-    "id": "1rr9r6g12jth6b",
-    "summary": "- Patreon released its 'State of Create' report highlighting challenges faced by creators due to algorithmic feeds.\n- 53% of creators believe it's harder to reach followers than five years ago; fans prefer long-form content.\n- 78% of creators say 'The Algorithm' influences their content, impacting their creative freedom and income potential.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "Patreon",
-      "creator economy",
-      "algorithmic feeds",
-      "content creators",
-      "social media",
-      "long-form content",
-      "State of Create"
-    ],
-    "sources": [
-      {
-        "title": "Patreon Speaks Out Against Algorithmic Feeds in Creator Economy",
-        "link": "https://techcrunch.com/2025/02/19/for-you-feeds-are-not-for-creators-patreon-says/"
-      }
-    ],
-    "lastUpdated": "2025-02-20T00:49:44.990Z"
-  },
-  {
-    "title": "7-Zip 0-day exploited amid Russia’s invasion of Ukraine",
-    "id": "0r8knvf115q2r4",
-    "summary": "- A zero-day vulnerability in 7-Zip was exploited by a Russian cybercrime group during the invasion of Ukraine.\n- The vulnerability bypassed Windows protection mechanisms, known as Mark of the Web (MotW), by embedding executable files within nested archives.\n- The flaw, tracked as CVE-2025-0411, was addressed in the release of 7-Zip version 24.09 in late November 2025.",
-    "thumbnails": [
-      "https://cdn.arstechnica.net/wp-content/uploads/2025/02/outer-archive-file-without-motw-tag.png"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "7-Zip",
-      "zero-day vulnerability",
-      "CVE-2025-0411",
-      "Russia",
-      "Ukraine",
-      "cybersecurity",
-      "Mark of the Web"
-    ],
-    "sources": [
-      {
-        "title": "7-Zip 0-day exploited amid Russia’s invasion of Ukraine",
-        "link": "https://arstechnica.com/security/2025/02/7-zip-0-day-was-exploited-in-russias-ongoing-invasion-of-ukraine/"
-      }
-    ],
-    "lastUpdated": "2025-02-20T00:49:44.984Z"
   }
 ]
