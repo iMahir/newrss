@@ -4,6 +4,32 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Massive botnet that appeared overnight is delivering record-size DDoSes",
+      "link": "https://arstechnica.com/security/2025/03/massive-botnet-that-appeared-overnight-is-delivering-record-size-ddoses/",
+      "author": "Jérôme Meyer",
+      "thumbnail": null,
+      "summary": "- A botnet named Eleven11bot includes approximately 30,000 webcams and video recorders, primarily in the US.\n- Discovered in late February, it is capable of executing hyper-volumetric denial-of-service attacks.\n- The largest attack peaked at 6.5 terabits per second on February 27, surpassing the previous record of 5.6 Tbps.\n- Eleven11bot targets various sectors including communication service providers and gaming infrastructure.\n- Attacks have caused service degradation lasting multiple days, with some still ongoing.",
+      "keywords": [
+        "botnet",
+        "DDoS",
+        "cybersecurity",
+        "hyper-volumetric attacks",
+        "Eleven11bot",
+        "network security",
+        "Nokia",
+        "Jérôme Meyer",
+        "terabits per second",
+        "service degradation"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-06T13:21:57.000Z"
+    },
+    {
       "title": "Will the future of software development run on vibes?",
       "link": "https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/",
       "author": "Benj Edwards",
@@ -1145,32 +1171,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2024-12-30T12:00:53.000Z"
-    },
-    {
-      "title": "2024: The year AI drove everyone crazy",
-      "link": "https://arstechnica.com/ai/2024/12/2024-the-year-ai-drove-everyone-crazy/",
-      "author": null,
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/robot_haywire_hero_2-640x360.jpg",
-      "summary": "- 2024 showcased bizarre interactions between humans and AI, leading to strange incidents and public behavior.\n- ChatGPT experienced a significant malfunction early in the year, producing incoherent, nonsensical outputs.\n- Scottish families were misled by AI-generated images for an event titled 'Willy's Chocolate Experience,' resulting in disappointment and a police call.\n- An AI-generated image of a rat with oversized genitals was published in a peer-reviewed paper, raising concerns in the scientific community.\n- Air Canada faced legal repercussions due to its chatbot providing incorrect refund policy information.\n- Will Smith humorously responded to a viral AI-generated video of himself by creating a parody.\n- Robotic dogs with AI targeting systems were evaluated by the US Marines, integrating weapons with AI capabilities.\n- Microsoft introduced a controversial feature called 'Recall,' raising privacy concerns by capturing user activities.\n- Google's AI Overview feature misled users by suggesting it was safe to eat rocks and providing other dangerous misinformation.",
-      "keywords": [
-        "AI",
-        "2024",
-        "technology",
-        "ChatGPT",
-        "Willy Wonka",
-        "peer review",
-        "robotics",
-        "privacy concerns",
-        "Google AI",
-        "humor"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 9,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2024-12-26T12:00:25.000Z"
     }
   ]
 }

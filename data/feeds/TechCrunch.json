@@ -4,6 +4,77 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Turing, a key coding provider for OpenAI and other LLM producers, raises $111M at a $2.2B valuation",
+      "link": "https://techcrunch.com/2025/03/06/turing-a-key-coding-provider-for-openai-and-other-llm-producers-raises-111m-at-a-2-2b-valuation/",
+      "author": "Ingrid Lunden",
+      "thumbnail": null,
+      "summary": "- Turing raises $111 million in Series E funding, doubling its valuation to $2.2 billion.\n- The company reports an annualized revenue run rate of $167 million and is profitable.\n- Khazanah Nasional Berhad leads the funding round, joined by several other investors.\n- Turing originally started as an HR tech startup but shifted focus to developing AI coding solutions after working with OpenAI.",
+      "keywords": [
+        "Turing",
+        "funding",
+        "OpenAI",
+        "LLMs",
+        "artificial intelligence",
+        "startup",
+        "coding",
+        "investment",
+        "Series E",
+        "valuation"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-06T14:00:54.000Z"
+    },
+    {
+      "title": "A year later, OpenAI still hasn’t released its voice cloning tool",
+      "link": "https://techcrunch.com/2025/03/06/a-year-later-openai-still-hasnt-released-its-voice-cloning-tool/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- OpenAI announced a preview of its voice cloning tool, Voice Engine, in March 2024, but it remains in preview a year later without a public launch date.\n- The company remains cautious about the tool's release, citing concerns over potential misuse and regulatory scrutiny.\n- Voice Engine has been in development since 2022 and aims to generate realistic speech while ensuring user safety through features like watermarking and consent requirements.",
+      "keywords": [
+        "OpenAI",
+        "Voice Engine",
+        "voice cloning",
+        "AI technology",
+        "synthetic voices",
+        "regulatory scrutiny"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-06T13:30:00.000Z"
+    },
+    {
+      "title": "Crogl, armed with $30M, takes the wraps off a new AI ‘Iron Man suit’ for security analysts",
+      "link": "https://techcrunch.com/2025/03/06/crogl-armed-with-30m-takes-the-wraps-off-a-new-ai-iron-man-suit-for-security-analysts/",
+      "author": "Ingrid Lunden",
+      "thumbnail": null,
+      "summary": "- Crogl debuts an autonomous assistant for cybersecurity researchers, dubbed an 'Iron Man suit' for analysts.\n- The startup has raised $30 million, including a $25 million Series A led by Menlo Ventures.\n- The tool helps analysts manage a large volume of security alerts, aiming to enhance their decision-making capabilities.\n- Crogl's CEO Monzy Merza brings extensive security industry experience from roles at Sandia, Splunk, and HSBC.",
+      "keywords": [
+        "AI",
+        "cybersecurity",
+        "Crogl",
+        "funding",
+        "technology",
+        "security alerts",
+        "autonomous assistant"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-06T13:26:14.000Z"
+    },
+    {
       "title": "UK quietly scrubs encryption advice from government websites",
       "link": "https://techcrunch.com/2025/03/06/uk-quietly-scrubs-encryption-advice-from-government-websites/",
       "author": "Carly Page",
@@ -1089,78 +1160,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-05T08:39:37.000Z"
-    },
-    {
-      "title": "From high school science project to $18.3M: AI-accelerated enzymes are coming for fast fashion’s plastic waste",
-      "link": "https://techcrunch.com/2025/03/05/from-high-school-science-project-to-18-3m-ai-accelerated-enzymes-are-coming-for-fast-fashions-plastic-waste/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- U.K. startup, Epoch Biodesign, raised $18.3 million in oversubscribed Series A funding to accelerate production of plastic-eating enzymes.\n- Founded in 2019, the company is moving to its first production facility, aiming to process 150 tonnes of plastic waste per year.\n- Enzymes developed target nylon and polyester, addressing a growing global plastic waste problem exacerbated by insufficient recycling efforts.\n- Epoch uses generative AI to enhance enzyme design, leading to significant speed improvements and cost reductions in the recycling process.\n- Strategic investment from Inditex, owner of Zara, emphasizes collaboration for sustainability in the fashion industry.",
-      "keywords": [
-        "plastic waste",
-        "biotechnology",
-        "enzymes",
-        "recycling",
-        "sustainability",
-        "fast fashion",
-        "AI",
-        "Epoch Biodesign",
-        "investment",
-        "environmental impact"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 9,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-05T08:00:00.000Z"
-    },
-    {
-      "title": "CoreWeave acquires AI developer platform Weights & Biases",
-      "link": "https://techcrunch.com/2025/03/04/coreweave-acquires-ai-developer-platform-weights-biases/",
-      "author": "Lukas Biewald, Chris Van Pelt, Shawn Lewis",
-      "thumbnail": null,
-      "summary": "- CoreWeave has acquired AI developer platform [Weights & Biases](https://techcrunch.com/2023/08/09/weights-biases-who-counts-openai-as-a-customer-lands-50m/) for an undisclosed amount.\n- The acquisition cost is reported to be **$1.7 billion** according to [The Information](https://www.theinformation.com/articles/coreweave-in-talks-to-buy-ai-startup-weights-biases-for-around-1-7-billion).\n- Weights & Biases was valued at **$1.25 billion** in 2023 and had recently filed for an IPO.\n- Founded in 2017, Weights & Biases provides tools for developing AI applications used by over **1,400 organizations** including AstraZeneca and Nvidia.\n- The acquisition will allow CoreWeave to offer enhanced cloud services and infrastructure for AI development workflows.",
-      "keywords": [
-        "CoreWeave",
-        "Weights & Biases",
-        "AI developer platform",
-        "acquisition",
-        "cloud services",
-        "AI applications",
-        "IPO"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-05T07:37:52.000Z"
-    },
-    {
-      "title": "CoreWeave partner EcoDataCenter racks up half a billion dollars to build more sustainable buildings for AI",
-      "link": "https://techcrunch.com/2025/03/04/coreweave-partner-ecodatacenter-racks-up-half-a-billion-dollars-to-build-more-sustainable-buildings-for-ai/",
-      "author": "Ingrid Lunden",
-      "thumbnail": null,
-      "summary": "- EcoDataCenter raised $478 million in funding to develop eco-friendly data centers for AI demand.\n- Funding will support new technologies for greener data centers and construction of facilities.\n- The company has raised a total of €910 million ($966 million) in equity; no IPO plans currently.\n- EDC focuses on sustainable colocation spaces and uses renewable energy in its operations.\n- EDC's significant customer base includes major clients like CoreWeave and others in various industries.\n- The fundraising reflects the increasing demand for data centers amid a global AI boom.",
-      "keywords": [
-        "EcoDataCenter",
-        "sustainable buildings",
-        "AI",
-        "data centers",
-        "funding",
-        "CoreWeave",
-        "renewable energy"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-05T06:30:00.000Z"
     }
   ]
 }
