@@ -1,5 +1,69 @@
 [
   {
+    "title": "Anthropic Launches Claude 3.7 Sonnet AI Model and Addresses Claude Code Tool Bug",
+    "id": "0cx8bms1hb9yu0",
+    "summary": "- Anthropic released the Claude 3.7 Sonnet model, focusing on speed and 'chain of thought' reasoning.\n- The model features an 'extended thinking' mode for detailed responses and a faster mode for simpler questions.\n- It outperforms competitors in benchmark tests but lags in areas like math and visual reasoning.\n- Claude Code tool for coding tasks faced issues due to buggy auto-update commands, rendering some systems unstable.\n- The problematic commands altered access permissions of critical system files, leading to significant user issues.\n- Anthropic removed the faulty commands and provided a troubleshooting guide for affected users.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 7.5,
+      "novelty": 7,
+      "longTermSignificance": 5.5
+    },
+    "keywords": [
+      "claude 3.7 sonnet",
+      "anthropic",
+      "ai model",
+      "coding tool",
+      "extended thinking mode",
+      "benchmark tests",
+      "ai reasoning",
+      "claude code",
+      "bug",
+      "systems",
+      "auto-update",
+      "permissions"
+    ],
+    "sources": [
+      {
+        "title": "Anthropic’s new Claude AI model can decide between speed and deep thinking",
+        "link": "https://www.fastcompany.com/91283751/anthropic-new-claude-3-7-sonnet-ai-chain-of-thought?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
+      },
+      {
+        "title": "Anthropic’s Claude Code tool had a bug that ‘bricked’ some systems",
+        "link": "https://techcrunch.com/2025/03/06/anthropics-claude-code-tool-had-a-bug-that-bricked-some-systems/"
+      }
+    ],
+    "lastUpdated": "2025-03-06T22:11:21.813Z"
+  },
+  {
+    "title": "Scale AI is being investigated by the US Department of Labor",
+    "id": "0eq30xt1kw5a1b",
+    "summary": "- The U.S. Department of Labor is investigating Scale AI for compliance with the Fair Labor Standards Act.\n- The investigation began in August 2024 and concerns unpaid wages and misclassification of employees.\n- Scale AI claims to have worked with the DOL to clarify its business practices and insists it provides flexible job opportunities.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "Scale AI",
+      "Department of Labor",
+      "investigation",
+      "Fair Labor Standards Act",
+      "employee misclassification",
+      "gig economy"
+    ],
+    "sources": [
+      {
+        "title": "Scale AI is being investigated by the US Department of Labor",
+        "link": "https://techcrunch.com/2025/03/06/scale-ai-is-being-investigated-by-the-us-department-of-labor/"
+      }
+    ],
+    "lastUpdated": "2025-03-06T22:11:21.812Z"
+  },
+  {
     "title": "Hacked Health Firm HCRG and Cyber Crime Developments",
     "id": "0jkdise1aqrpzl",
     "summary": "- Ransomware payments fell over a third to $813 million in 2024 from $1.25 billion in 2023.\n- Notable attacks were reported against NHS trusts and Krispy Kreme.\n- Decrease in payments attributed to victims refusing to pay and increased law enforcement actions.\n- Payments in 2024 indicate an averted 'ransomware apocalypse'.\n- UK ministers are considering a ban on ransomware payments by public entities.\n- Law enforcement targeted groups like BlackCat and Lockbit, resulting in multiple arrests.\n- Operation Phobos Aetor focused on the 8base group, leading to significant seizures.\n- Phobos ransomware warned to target critical U.S. infrastructure.\n- Genea, an IVF provider, was breached by the Termite ransomware gang, exposing sensitive data.\n- 12 Chinese nationals charged with hacking over 100 US organizations since 2013, linked to APT27.\n- U.S. authorities offering up to $10 million for information on the accused hackers.\n- A U.S. journalist refused to comply with a U.K. court injunction regarding the HCRG data breach reporting.\n- HCRG was attacked on February 20, losing two terabytes of data, affecting over 5,000 employees.\n- The injunction could limit cybersecurity breach reporting involving U.K. entities.",
@@ -31461,35 +31525,6 @@
     "lastUpdated": "2025-02-24T20:13:35.830Z"
   },
   {
-    "title": "Anthropic’s new Claude AI model can decide between speed and deep thinking",
-    "id": "0cx8bms1hb9yu0",
-    "summary": "- Anthropic released the Claude 3.7 Sonnet model, focusing on speed and 'chain of thought' reasoning.\n- The model features an 'extended thinking' mode for detailed responses and a faster mode for simpler questions.\n- It outperforms competitors like OpenAI's o1 and DeepSeek-R1 in benchmark tests but lags in specific areas like math and visual reasoning.\n- Claude Code, a tool for coding tasks, can autonomously handle development tasks, claimed to save significant time.\n- The model is available across all Claude subscription plans, with some features restricted to paid tiers.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 9,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "Claude 3.7 Sonnet",
-      "Anthropic",
-      "AI model",
-      "coding tool",
-      "extended thinking mode",
-      "benchmark tests",
-      "AI reasoning",
-      "Claude Code"
-    ],
-    "sources": [
-      {
-        "title": "Anthropic’s new Claude AI model can decide between speed and deep thinking",
-        "link": "https://www.fastcompany.com/91283751/anthropic-new-claude-3-7-sonnet-ai-chain-of-thought?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
-      }
-    ],
-    "lastUpdated": "2025-02-24T20:13:35.830Z"
-  },
-  {
     "title": "Khosla Ventures seeks $3.5B in fresh capital",
     "id": "1vjfycs0yg0xdv",
     "summary": "- Khosla Ventures aims to raise $3.5 billion across three funds, 17% larger than their previous 2023 total of $3 billion.\n- Approximately half of the new funds will be allocated to its ninth core venture fund, with $1.1 billion for a growth fund and $650 million for a seed-stage fund.\n- Founded in 2004 by Vinod Khosla, the firm has notable managing directors including Keith Rabois, who has a history with investments in companies like DoorDash and Affirm.",
@@ -38915,61 +38950,5 @@
       }
     ],
     "lastUpdated": "2025-02-20T23:11:09.503Z"
-  },
-  {
-    "title": "Rivian reports first quarter of ‘positive gross profit’",
-    "id": "0ttm73u0nhjmt5",
-    "summary": "- Rivian reported its first positive gross profit in Q4 2024, amounting to $170 million on $1.7 billion in revenue.\n- The net loss for Q4 2024 was $743 million, an improvement from $1.5 billion in Q4 2023.\n- For the full year of 2024, Rivian's revenue was $4.5 billion with a net loss of $4.7 billion, down from $5.4 billion in 2023.\n- The increase in revenue was partly due to a $260 million rise in regulatory credit sales.\n- Rivian projects vehicle sales between 46,000 and 51,000 for 2025, expecting modest gross profit despite a challenging demand environment.\n- The company is launching sales of its electric delivery van to all commercial fleet owners and has introduced a special edition R1 vehicle.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 5,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "Rivian",
-      "electric vehicles",
-      "profit",
-      "net loss",
-      "regulatory credits",
-      "Q4 2024",
-      "automotive industry"
-    ],
-    "sources": [
-      {
-        "title": "Rivian reports first quarter of ‘positive gross profit’",
-        "link": "https://www.theverge.com/news/616967/rivian-earnings-q4-2024-profit-loss-ev"
-      }
-    ],
-    "lastUpdated": "2025-02-20T22:11:10.155Z"
-  },
-  {
-    "title": "Rivian inches closer to profitability but warns ‘changes to government policies’ could hurt",
-    "id": "1s89u7h131l6vt",
-    "summary": "- Rivian's cost-cutting measures bring it closer to profitability, despite challenges expected in 2025.\n- The company plans to deliver between 46,000 and 51,000 EVs in 2025, but warns of potential impacts from changes in government policies, particularly from the new Trump Administration.\n- Rivian generated $1.7 billion in revenue for Q4 2024, a 32% increase from Q4 2023, with significant revenue from both vehicle sales and software services.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 8,
-      "impact": 7,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "Rivian",
-      "profitability",
-      "electric vehicles",
-      "government policies",
-      "Trump Administration",
-      "financial results",
-      "software revenue"
-    ],
-    "sources": [
-      {
-        "title": "Rivian inches closer to profitability but warns ‘changes to government policies’ could hurt",
-        "link": "https://techcrunch.com/2025/02/20/rivian-inches-closer-to-profitability-but-warns-changes-to-government-policies-could-hurt/"
-      }
-    ],
-    "lastUpdated": "2025-02-20T22:11:10.154Z"
   }
 ]

@@ -4,6 +4,52 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Anthropic’s Claude Code tool had a bug that ‘bricked’ some systems",
+      "link": "https://techcrunch.com/2025/03/06/anthropics-claude-code-tool-had-a-bug-that-bricked-some-systems/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Anthropic’s coding tool, Claude Code, experienced issues after launch due to buggy auto-update commands.\n- Reports indicated that these commands rendered some workstations unstable and broken, particularly when installed with superuser permissions.\n- The commands altered access permissions of critical system files, leading to significant issues for users, prompting fixes through a rescue instance.\n- Anthropic has since removed the problematic commands and provided a troubleshooting guide for affected users, correcting an initial typo in the link.",
+      "keywords": [
+        "Claude Code",
+        "Anthropic",
+        "coding tool",
+        "bug",
+        "systems",
+        "auto-update",
+        "GitHub",
+        "permissions"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-03-06T21:47:34.000Z"
+    },
+    {
+      "title": "Scale AI is being investigated by the US Department of Labor",
+      "link": "https://techcrunch.com/2025/03/06/scale-ai-is-being-investigated-by-the-us-department-of-labor/",
+      "author": "Charles Rollet",
+      "thumbnail": null,
+      "summary": "- The U.S. Department of Labor is investigating Scale AI for compliance with the Fair Labor Standards Act.\n- The investigation began in August 2024 and concerns unpaid wages and misclassification of employees.\n- Scale AI claims to have worked with the DOL to clarify its business practices and insists it provides flexible job opportunities.",
+      "keywords": [
+        "Scale AI",
+        "Department of Labor",
+        "investigation",
+        "Fair Labor Standards Act",
+        "employee misclassification",
+        "gig economy"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-06T21:27:53.000Z"
+    },
+    {
       "title": "ChatGPT doubled its weekly active users in under 6 months, thanks to new releases",
       "link": "https://techcrunch.com/2025/03/06/chatgpt-doubled-its-weekly-active-users-in-under-6-months-thanks-to-new-releases/",
       "author": "Sarah Perez",
@@ -1004,56 +1050,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-05T17:36:32.000Z"
-    },
-    {
-      "title": "Ahead of a possible $4 billion IPO, CoreWeave’s founders already pocketed $488 million",
-      "link": "https://techcrunch.com/2025/03/05/ahead-of-a-possible-4-billion-ipo-coreweaves-founders-already-pocketed-488-million/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- CoreWeave’s S-1 filing for its upcoming IPO indicates a valuation goal of over $4 billion.\n- The company, backed by Nvidia, operates 32 data centers equipped with over 250,000 Nvidia GPUs, recently adding the Blackwell product for AI.\n- Founders Michael Intrator, Brian Venturo, and Brannin McBee have cashed out nearly $488 million in shares before the IPO.\n- The trio retains control of the company through Class B shares despite owning less than 3% of Class A shares.\n- CoreWeave is experiencing significant revenue growth, nearly 8-fold from $228,943 in 2023 to $1.9 billion in 2024, but is still unprofitable with $863 million in losses and $7.9 billion in debt.\n- Microsoft accounts for 62% of its revenue and is both a customer and a competitor.",
-      "keywords": [
-        "CoreWeave",
-        "IPO",
-        "Nvidia",
-        "founders",
-        "AI cloud service",
-        "financial expertise",
-        "debt",
-        "revenue growth",
-        "Microsoft",
-        "Blackwell"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-03-05T17:19:30.000Z"
-    },
-    {
-      "title": "Google Search’s new ‘AI Mode’ lets users ask complex, multi-part questions",
-      "link": "https://techcrunch.com/2025/03/05/google-searchs-new-ai-mode-lets-users-ask-complex-multi-part-questions/",
-      "author": "Aisha Malik",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/AI-Mode-experiment-Sleep-tracker-example-desktop.gif?w=680",
-      "summary": "- Google is launching an experimental feature called 'AI Mode' in Search to allow multi-part questions.\n- The feature rolls out to Google One AI Premium subscribers via [Search Labs](https://labs.google.com/search/).\n- AI Mode uses [Gemini 2.0](https://techcrunch.com/2024/12/11/gemini-2-0-googles-newest-flagship-ai-can-generate-text-images-and-speech/) for advanced reasoning and comparative searches, enabling detailed comparisons of products and topics.\n- Users can ask follow-up questions, enhancing search depth and user engagement.\n- Google states that users are asking longer and more complex queries in testing.\n- AI Mode employs a 'query fan-out' technique for concurrent searches across data sources to produce consolidated responses.\n- The model prioritizes factual accuracy, especially in sensitive topics like health, and may provide links when uncertain.\n- Google plans to refine the user experience and incorporate diverse content sources over time.",
-      "keywords": [
-        "Google",
-        "AI Mode",
-        "Search",
-        "Gemini 2.0",
-        "technology",
-        "multi-part questions",
-        "Search Labs",
-        "advanced reasoning"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-05T17:00:00.000Z"
     }
   ]
 }
