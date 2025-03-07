@@ -4,6 +4,32 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "SpaceX Starship spirals out of control in second straight test flight failure",
+      "link": "https://techcrunch.com/2025/03/06/spacex-starship-spirals-out-of-control-in-second-straight-test-flight-failure/",
+      "author": "Sean O’Kane",
+      "thumbnail": null,
+      "summary": "- SpaceX's Starship experienced a out-of-control flight during a test on Thursday, marking a second consecutive failure.\n- The FAA briefly halted flights into major Florida airports due to concerns over space launch debris.\n- The vehicle lost multiple Raptor engines approximately eight minutes into the flight and began to spiral, leading to a loss of contact with it shortly thereafter.\n- Footage showed the Starship breaking up over the Bahamas and Dominican Republic shortly after the failure.\n- SpaceX was attempting to deploy four dummy Starlink satellites during this test flight.\n- This test followed a previous failure that prompted an FAA investigation into propellant leaks causing a communications blackout.",
+      "keywords": [
+        "SpaceX",
+        "Starship",
+        "test flight",
+        "FAA",
+        "debri",
+        "Elon Musk",
+        "aeronautics",
+        "failure",
+        "Raptor engines",
+        "Starlink"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-06T23:59:26.000Z"
+    },
+    {
       "title": "Google co-founder Larry Page reportedly has a new AI startup",
       "link": "https://techcrunch.com/2025/03/06/google-co-founder-larry-page-reportedly-has-a-new-ai-startup/",
       "author": null,
@@ -1030,28 +1056,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-05T18:16:37.000Z"
-    },
-    {
-      "title": "OpenAI’s GPT-4.5 AI model comes to more ChatGPT users",
-      "link": "https://techcrunch.com/2025/03/05/openais-gpt-4-5-ai-model-comes-to-more-chatgpt-users/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- OpenAI is rolling out GPT-4.5 to ChatGPT Plus users, with a rollout period of 1-3 days.\n- GPT-4.5 is the company's largest model, but it faces competition from other AI models on several benchmarks.\n- The model is costly to run, prompting OpenAI to evaluate the business case for its long-term API service, with high token costs for users.",
-      "keywords": [
-        "OpenAI",
-        "GPT-4.5",
-        "ChatGPT",
-        "AI model",
-        "technology news",
-        "artificial intelligence"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-05T18:12:25.000Z"
     }
   ]
 }

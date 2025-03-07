@@ -4,6 +4,29 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "CMU research shows compression alone may unlock AI puzzle-solving abilities",
+      "link": "https://arstechnica.com/ai/2025/03/compression-conjures-apparent-intelligence-in-new-puzzle-solving-ai-approach/",
+      "author": "Benj Edwards",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/three_arcagi_examples.png",
+      "summary": "- Carnegie Mellon University researchers Isaac Liao and Albert Gu suggest that lossless information compression can contribute to AI problem-solving capabilities without needing pre-training on large datasets.\n- Their system, CompressARC, demonstrates the ability to solve abstract reasoning tasks from the Abstraction and Reasoning Corpus (ARC-AGI) by compressing the necessary information from the puzzles themselves.\n- CompressARC achieved an accuracy of 34.75% on the ARC-AGI training set and 20% on an evaluation set, with notable differences compared to traditional AI approaches that rely on massive datasets and extensive pre-training.",
+      "keywords": [
+        "AI",
+        "compression",
+        "Carnegie Mellon University",
+        "CompressARC",
+        "machine learning",
+        "puzzle-solving",
+        "ARC-AGI"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-06T23:22:05.000Z"
+    },
+    {
       "title": "Massive botnet that appeared overnight is delivering record-size DDoSes",
       "link": "https://arstechnica.com/security/2025/03/massive-botnet-that-appeared-overnight-is-delivering-record-size-ddoses/",
       "author": "Jérôme Meyer",
@@ -1148,29 +1171,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-01-03T12:15:47.000Z"
-    },
-    {
-      "title": "Passkey Technology: Elegant but Not Usable Security",
-      "link": "https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Passkeys are a promising alternative to traditional passwords, aimed at enhancing security against phishing attacks.\n- Despite widespread support across various platforms, the implementation of passkeys leads to confusion and inconsistencies in user experience.\n- Issues arise from the competing workflows among different operating systems and browsers, making passkeys less user-friendly than intended.",
-      "keywords": [
-        "passkeys",
-        "password security",
-        "FIDO2",
-        "WebAuthn",
-        "authentication",
-        "user experience",
-        "technology"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2024-12-30T12:00:53.000Z"
     }
   ]
 }
