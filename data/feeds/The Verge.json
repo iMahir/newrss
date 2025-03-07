@@ -4,6 +4,53 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Go Read This: The Verge’s favorite reads from all over the web",
+      "link": "https://www.theverge.com/24188803/best-tech-reads-articles-books",
+      "author": "Verge Staff",
+      "thumbnail": null,
+      "summary": "- The Verge provides a continuously updated list of recommended articles from across the internet, including journalism, analyses, studies, and fiction.\n- The list aims to help users discover high-quality content amidst the overwhelming amount of information available online.\n- Featured articles cover diverse topics, including workplace experiences, game development, the history of fonts, and current events in politics and technology.",
+      "keywords": [
+        "reading",
+        "articles",
+        "journalism",
+        "technology",
+        "recommendations",
+        "The Verge"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-03-07T20:58:28.000Z"
+    },
+    {
+      "title": "US tariffs: how Trump’s tax is hitting Big Tech and beyond",
+      "link": "https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates",
+      "author": "Emma Roth",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "summary": "- President Trump’s tariffs impact goods from Mexico, Canada, and China.\n- Automakers fear significant effects due to tariffs on imported parts and materials.\n- Big Tech companies largely remain silent on tariffs despite potential business impacts.\n- CEOs from Best Buy and Target warn of imminent price increases due to tariffs, especially on food items from Mexico.\n- Trump confirms tariffs will take effect as scheduled, increasing costs on various imports including electronics and auto parts.",
+      "keywords": [
+        "tariffs",
+        "Trump",
+        "Big Tech",
+        "imports",
+        "automakers",
+        "price increases",
+        "Mexico",
+        "Canada",
+        "China"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-07T20:49:39.000Z"
+    },
+    {
       "title": "The best wireless earbuds to buy right now",
       "link": "https://www.theverge.com/21309820/best-wireless-earbuds",
       "author": "Chris Welch",
@@ -868,49 +915,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-06T14:00:00.000Z"
-    },
-    {
-      "title": "1Password is making it easier to find passwords based on your location",
-      "link": "https://www.theverge.com/news/624138/1password-app-mobile-ios-android-location-gps",
-      "author": "Andrew Liszewski",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197412/headshot_andrewL_blackwhite.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- 1Password introduces a new feature allowing users to find passwords based on their physical location.\n- Users can add locations to items using a map view or while at a specific location.\n- The app will present relevant passwords in the 'Nearby' section based on proximity.\n- Users can limit visible items to locations within a specified range (50 feet to 10 miles).\n- Location data is stored locally on devices and is not shared or tracked, ensuring user privacy.\n- This feature was previously available in 1Password labs, where users could test new functionalities.",
-      "keywords": [
-        "1Password",
-        "password management",
-        "location-based services",
-        "mobile app",
-        "user privacy"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-06T14:00:00.000Z"
-    },
-    {
-      "title": "NASA is making sacrifices to keep the Voyager mission alive",
-      "link": "https://www.theverge.com/news/625182/nasa-voyager-mission-instruments-shut-down-power",
-      "author": "Jess Weatherbed",
-      "thumbnail": null,
-      "summary": "- The twin Voyager spacecraft have been on a historic mission for 47 years, traveling farther than any human-made objects.\n- Due to depleting nuclear batteries, NASA is shutting down some science instruments to conserve power.\n- On February 25th, Voyager 1’s cosmic ray subsystem was turned off, with Voyager 2’s low-energy charged particle instrument scheduled for shutdown on March 24th.\n- Each probe will then have three out of ten original scientific instruments still operational.\n- NASA anticipates the shutdowns will extend the mission's life for another year.\n- The Voyagers are expected to continue functioning into the 2030s with careful power management and further planned shutdowns of instruments.",
-      "keywords": [
-        "NASA",
-        "Voyager",
-        "spacecraft",
-        "interstellar",
-        "power conservation",
-        "science instruments"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-06T13:30:56.000Z"
     }
   ]
 }
