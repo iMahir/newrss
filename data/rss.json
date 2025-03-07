@@ -1,5 +1,240 @@
 [
   {
+    "title": "India gov’t launches AI compute portal, offers subsidies",
+    "id": "0mn55k01l92o8e",
+    "summary": "- Union IT minister Ashwini Vaishnaw announced initiatives under the 10,300 crore rupee (US$1.1 billion) IndiaAI mission on Mar. 6.\n- The IndiaAI compute portal launched to enhance AI development in India.\n- The portal will provide cost-effective AI computing resources, networking, storage, and cloud services to startups, researchers, students, and government agencies.\n- Eligible users can access services at discounted rates, with a subsidy of up to 40%.\n- The portal aims to help lower the costs of developing foundational models compared to other countries.",
+    "thumbnails": [
+      "https://cdn.techinasia.com/wp-content/uploads/2025/01/1738067929_shutterstock_419551480-scaled.jpg"
+    ],
+    "scores": {
+      "scale": 8,
+      "impact": 7,
+      "novelty": 5,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "IndiaAI",
+      "AI compute portal",
+      "subsidies",
+      "Ashwini Vaishnaw",
+      "AI development",
+      "government initiatives"
+    ],
+    "sources": [
+      {
+        "title": "India gov’t launches AI compute portal, offers subsidies",
+        "link": "https://www.techinasia.com/news/india-govt-launches-ai-compute-portal-offers-subsidies"
+      }
+    ],
+    "lastUpdated": "2025-03-07T07:12:21.793Z"
+  },
+  {
+    "title": "Mistral Launches New OCR Tool for Fast Document Processing",
+    "id": "1ho5cfi0wframu",
+    "summary": "- Mistral launched a new optical character recognition API called [Mistral OCR](https://mistral.ai/news/mistral-ocr) for developers handling complex PDF documents.\n- The API converts PDFs into formatted Markdown text including bounding boxes for illustrations and photos.\n- Mistral OCR claims superior performance compared to Google, Microsoft, and OpenAI APIs, especially with complex documents and non-English text.\n- It is designed for organizations to streamline access to large amounts of internal documentation, enhancing capabilities for AI assistants.\n- The tool processes images and PDFs, extracting various elements at speeds of up to 2,000 pages per minute.\n- It supports multiple languages and can output structured JSON data, with a self-hosting option for data compliance.\n- Pricing is set at US$1 for every 1,000 pages processed.",
+    "thumbnails": [
+      "https://techcrunch.com/wp-content/uploads/2025/03/Screenshot-2025-03-06-at-6.00.11PM.png?w=680",
+      "https://cdn.techinasia.com/wp-content/uploads/2025/02/1739247438_shutterstock_2552683149-scaled.jpg"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "ocr",
+      "mistral",
+      "markdown",
+      "api",
+      "artificial intelligence",
+      "pdf processing",
+      "document processing",
+      "optical character recognition",
+      "data compliance",
+      "structured json"
+    ],
+    "sources": [
+      {
+        "title": "Mistral’s new OCR API turns any PDF document into an AI-ready Markdown file",
+        "link": "https://techcrunch.com/2025/03/06/mistrals-new-ocr-api-turns-any-pdf-document-into-an-ai-ready-markdown-file/"
+      },
+      {
+        "title": "Mistral launches OCR tool for fast document processing",
+        "link": "https://www.techinasia.com/news/mistral-launches-ocr-tool-fast-document-processing"
+      }
+    ],
+    "lastUpdated": "2025-03-07T07:12:21.792Z"
+  },
+  {
+    "title": "Vietnam's Rising Startups and Significant Funding Events",
+    "id": "040bcri1sfpfy6",
+    "summary": "- Sawmills raises US$10 million in seed funding led by Team8 for AI-powered telemetry data management.\n- Companies incur median annual observability costs of US$2 million, facing unexpected charges.\n- Funding will enhance Sawmills' platform to address financial and operational observability challenges.\n- Bridgetown Research secures $19M in Series A funding to streamline due diligence using AI agents.\n- Founded in December 2023, Bridgetown's AI agents can analyze data within 24 hours.\n- Quantum Machines raises US$170 million in Series C funding to advance quantum computing technology.\n- Israeli startups raised over US$550 million in February 2025, marking an 85% increase from February 2024.\n- Team8 Capital secures $1 billion in funding, known for notable tech sector exits.\n- Firsthand, a New York startup, raised US$26 million in Series A funding led by Radical Ventures.\n- Vintage Investment Partners, a $4B venture capital firm in Israel, appoints Iren Reznikov as a partner.\n- Reznikov has a background in enterprise infrastructure software and cybersecurity, managing a $100M venture fund at SentinelOne.\n- A list of startups in Vietnam that have recently raised funding, indicating their potential for growth.\n- The focus is on companies up to the series E stage.\n- Detailed information about each funding round is included in the list.",
+    "thumbnails": [
+      "https://cdn.techinasia.com/wp-content/uploads/2025/01/1736491393_shutterstock_2165546425-scaled.jpg",
+      "https://cdn.techinasia.com/wp-content/uploads/2023/05/1683260248_Top-funded-tech-companies-in-Southeast-Asia.png",
+      "https://cdn.techinasia.com/wp-content/uploads/2024/06/1718958831_VC-Newsletter-GIF-A-guessing-game-of-top-funded-startups-1200x640-1.gif",
+      "https://cdn.techinasia.com/wp-content/uploads/2024/11/1731307486_shutterstock_2336765429-scaled.jpg",
+      "https://cdn.techinasia.com/wp-content/uploads/2025/03/1741127489_1740000836813.jpg",
+      "https://cdn.techinasia.com/wp-content/uploads/2021/03/rising-vietnam.jpg"
+    ],
+    "scores": {
+      "scale": 6,
+      "impact": 7,
+      "novelty": 5.5,
+      "longTermSignificance": 6.47
+    },
+    "keywords": [
+      "sawmills",
+      "telemetry",
+      "funding",
+      "ai",
+      "observability",
+      "data management",
+      "startups",
+      "due diligence",
+      "bridgetown research",
+      "investment",
+      "quantum computing",
+      "israeli startups",
+      "venture capital",
+      "cybersecurity",
+      "iren reznikov",
+      "sentinelone",
+      "team8",
+      "vietnam",
+      "series e",
+      "growth"
+    ],
+    "sources": [
+      {
+        "title": "Israeli telemetry startup Sawmills raises $10m seed funding",
+        "link": "https://www.techinasia.com/news/israeli-telemetry-startup-sawmills-raises-10m-seed-funding"
+      },
+      {
+        "title": "Bridgetown Research raises $19M to speed up due diligence with AI",
+        "link": "https://techcrunch.com/2025/02/26/bridgetown-research-raises-19m-to-speed-up-due-diligence-with-ai/"
+      },
+      {
+        "title": "Meet the 80 top-funded startups and tech companies in Southeast Asia",
+        "link": "https://www.techinasia.com/top-funded-startups-tech-companies-southeast-asia"
+      },
+      {
+        "title": "The quantum question",
+        "link": "https://www.techinasia.com/quantum-question"
+      },
+      {
+        "title": "AI, quantum computing drive $550m Israeli startup funding",
+        "link": "https://www.techinasia.com/news/ai-quantum-computing-drive-550m-israeli-startup-funding"
+      },
+      {
+        "title": "Israeli VC firm Team8 secures $1b",
+        "link": "https://www.techinasia.com/news/israeli-vc-firm-team8-secures-1b"
+      },
+      {
+        "title": "AI brand agent platform Firsthand nets $26m series A",
+        "link": "https://www.techinasia.com/news/ai-brand-agent-platform-firsthand-nets-26m-series"
+      },
+      {
+        "title": "Ex-SentinelOne executive joins $4b Israel VC firm as partner",
+        "link": "https://www.techinasia.com/news/ex-sentinelone-executive-joins-4b-israel-vc-firm-as-partner"
+      },
+      {
+        "title": "50 rising startups in Vietnam",
+        "link": "https://www.techinasia.com/top-50-rising-startups-vietnam"
+      }
+    ],
+    "lastUpdated": "2025-03-07T07:12:21.792Z"
+  },
+  {
+    "title": "Nickel for your thoughts",
+    "id": "1g8nja6082y2d2",
+    "summary": "- Nickel is essential for electric vehicle (EV) batteries, with Indonesia producing 61% of the world's refined nickel supply in 2024.\n- The nickel mining boom poses environmental and geopolitical challenges, including sustainability issues and supply chain risks due to China's influence.\n- Indonesia's role in the nickel market will significantly shape the development of the EV industry going forward.",
+    "thumbnails": [
+      "https://cdn.techinasia.com/wp-content/uploads/2025/03/1741257271_The-Offset-GIF-Nickel-for-your-thoughts-1200x640-1.gif"
+    ],
+    "scores": {
+      "scale": 8,
+      "impact": 9,
+      "novelty": 7,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "nickel",
+      "electric vehicles",
+      "sustainability",
+      "Indonesia",
+      "geopolitical tensions",
+      "environmental concerns"
+    ],
+    "sources": [
+      {
+        "title": "Nickel for your thoughts",
+        "link": "https://www.techinasia.com/nickel-thoughts"
+      }
+    ],
+    "lastUpdated": "2025-03-07T07:12:21.792Z"
+  },
+  {
+    "title": "Chinese tech firm Monica unveils autonomous AI agent Manus",
+    "id": "1o6ugme172btcc",
+    "summary": "- Tech firm Monica.im launched Manus, an autonomous AI agent that performs complex tasks independently.\n- Manus operates with a multisignature system powered by independent models.\n- Monica.im plans to open-source parts of the technology later this year, including Manus’ inference capabilities for enhanced transparency.\n- A demo showcased Manus' ability to screen candidates for a reinforcement learning engineer position by reviewing resumes and summarizing information like a human.",
+    "thumbnails": [
+      "https://cdn.techinasia.com/wp-content/uploads/2025/01/1737368670_shutterstock_2187906165-scaled.jpg"
+    ],
+    "scores": {
+      "scale": 6,
+      "impact": 7,
+      "novelty": 8,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "Monica.im",
+      "autonomous AI",
+      "Manus",
+      "Xiao Hong",
+      "AI agent",
+      "open-source technology",
+      "recruitment",
+      "reinforcement learning"
+    ],
+    "sources": [
+      {
+        "title": "Chinese tech firm Monica unveils autonomous AI agent Manus",
+        "link": "https://www.techinasia.com/news/chinese-tech-firm-monica-unveils-autonomous-ai-agent-manus"
+      }
+    ],
+    "lastUpdated": "2025-03-07T07:12:21.791Z"
+  },
+  {
+    "title": "LG Uplus eyes $300m AI revenue in Google partnership",
+    "id": "06akij11chc4r0",
+    "summary": "- LG Uplus aims to generate $300 million in AI revenue through its partnership with Google.\n- The collaboration focuses on enhancing services and offerings in AI technology.\n- The initiative underscores the growing trend of telecom companies investing in AI solutions.",
+    "thumbnails": [
+      "https://cdn.techinasia.com/wp-content/uploads/2024/12/1735096452_depositphotos_726852422-stock-photo-google-gemini-logo-google-background.jpeg"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "LG Uplus",
+      "AI revenue",
+      "Google partnership",
+      "telecom",
+      "technology"
+    ],
+    "sources": [
+      {
+        "title": "LG Uplus eyes $300m AI revenue in Google partnership",
+        "link": "https://www.techinasia.com/news/lg-uplus-eyes-300m-ai-revenue-google-partnership"
+      }
+    ],
+    "lastUpdated": "2025-03-07T07:12:21.790Z"
+  },
+  {
     "title": "US Labor Department Investigates Scale AI for Pay Compliance",
     "id": "0iqxll60tyt5mz",
     "summary": "- The US Department of Labor is investigating Scale AI for compliance with the Fair Labor Standards Act.\n- The investigation focuses on issues such as unpaid wages, worker misclassification, and retaliation against employees.\n- Active since at least August 2024, the probe does not imply any wrongdoing, and outcomes may be favorable to Scale AI or result in dismissal.\n- Scale AI faces lawsuits from former employees regarding misclassification as contractors, which deprived them of overtime pay and sick leave benefits.\n- Scale AI has been engaged in discussions with regulators to clarify its business practices.",
@@ -1988,35 +2223,6 @@
       }
     ],
     "lastUpdated": "2025-03-06T17:11:37.935Z"
-  },
-  {
-    "title": "Mistral’s new OCR API turns any PDF document into an AI-ready Markdown file",
-    "id": "1ho5cfi0wframu",
-    "summary": "- Mistral launched a new optical character recognition API called [Mistral OCR](https://mistral.ai/news/mistral-ocr) for developers handling complex PDF documents.\n- The API converts PDFs into formatted Markdown text including bounding boxes for illustrations and photos.\n- Mistral OCR claims superior performance compared to Google, Microsoft, and OpenAI APIs, especially with complex documents and non-English text.\n- It is designed for organizations to streamline access to large amounts of internal documentation, enhancing capabilities for AI assistants.",
-    "thumbnails": [
-      "https://techcrunch.com/wp-content/uploads/2025/03/Screenshot-2025-03-06-at-6.00.11PM.png?w=680"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "OCR",
-      "Mistral",
-      "Markdown",
-      "API",
-      "Artificial Intelligence",
-      "PDF Processing"
-    ],
-    "sources": [
-      {
-        "title": "Mistral’s new OCR API turns any PDF document into an AI-ready Markdown file",
-        "link": "https://techcrunch.com/2025/03/06/mistrals-new-ocr-api-turns-any-pdf-document-into-an-ai-ready-markdown-file/"
-      }
-    ],
-    "lastUpdated": "2025-03-06T17:11:37.934Z"
   },
   {
     "title": "What went wrong with Skype? + Microsoft to shut down Skype in 2025, shifts focus to Teams",
@@ -8356,78 +8562,6 @@
       }
     ],
     "lastUpdated": "2025-03-05T03:21:26.492Z"
-  },
-  {
-    "title": "Ex-SentinelOne Executive Joins $4B Israel VC Firm as Partner Amid Startup Funding Surge",
-    "id": "040bcri1sfpfy6",
-    "summary": "- Sawmills raises US$10 million in seed funding led by Team8 for AI-powered telemetry data management.\n- Companies incur median annual observability costs of US$2 million, facing unexpected charges.\n- Funding will enhance Sawmills' platform to address financial and operational observability challenges.\n- Bridgetown Research secures $19M in Series A funding to streamline due diligence using AI agents.\n- Founded in December 2023, Bridgetown's AI agents can analyze data within 24 hours.\n- Quantum Machines raises US$170 million in Series C funding to advance quantum computing technology.\n- Israeli startups raised over US$550 million in February 2025, marking an 85% increase from February 2024.\n- Team8 Capital secures $1 billion in funding, known for notable tech sector exits.\n- Firsthand, a New York startup, raised US$26 million in Series A funding led by Radical Ventures.\n- Vintage Investment Partners, a $4B venture capital firm in Israel, appoints Iren Reznikov as a partner.\n- Reznikov has a background in enterprise infrastructure software and cybersecurity, managing a $100M venture fund at SentinelOne.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/01/1736491393_shutterstock_2165546425-scaled.jpg",
-      "https://cdn.techinasia.com/wp-content/uploads/2023/05/1683260248_Top-funded-tech-companies-in-Southeast-Asia.png",
-      "https://cdn.techinasia.com/wp-content/uploads/2024/06/1718958831_VC-Newsletter-GIF-A-guessing-game-of-top-funded-startups-1200x640-1.gif",
-      "https://cdn.techinasia.com/wp-content/uploads/2024/11/1731307486_shutterstock_2336765429-scaled.jpg",
-      "https://cdn.techinasia.com/wp-content/uploads/2025/03/1741127489_1740000836813.jpg"
-    ],
-    "scores": {
-      "scale": 6,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 6.93
-    },
-    "keywords": [
-      "sawmills",
-      "telemetry",
-      "funding",
-      "ai",
-      "observability",
-      "data management",
-      "startups",
-      "due diligence",
-      "bridgetown research",
-      "investment",
-      "quantum computing",
-      "israeli startups",
-      "venture capital",
-      "cybersecurity",
-      "iren reznikov",
-      "sentinelone",
-      "team8"
-    ],
-    "sources": [
-      {
-        "title": "Israeli telemetry startup Sawmills raises $10m seed funding",
-        "link": "https://www.techinasia.com/news/israeli-telemetry-startup-sawmills-raises-10m-seed-funding"
-      },
-      {
-        "title": "Bridgetown Research raises $19M to speed up due diligence with AI",
-        "link": "https://techcrunch.com/2025/02/26/bridgetown-research-raises-19m-to-speed-up-due-diligence-with-ai/"
-      },
-      {
-        "title": "Meet the 80 top-funded startups and tech companies in Southeast Asia",
-        "link": "https://www.techinasia.com/top-funded-startups-tech-companies-southeast-asia"
-      },
-      {
-        "title": "The quantum question",
-        "link": "https://www.techinasia.com/quantum-question"
-      },
-      {
-        "title": "AI, quantum computing drive $550m Israeli startup funding",
-        "link": "https://www.techinasia.com/news/ai-quantum-computing-drive-550m-israeli-startup-funding"
-      },
-      {
-        "title": "Israeli VC firm Team8 secures $1b",
-        "link": "https://www.techinasia.com/news/israeli-vc-firm-team8-secures-1b"
-      },
-      {
-        "title": "AI brand agent platform Firsthand nets $26m series A",
-        "link": "https://www.techinasia.com/news/ai-brand-agent-platform-firsthand-nets-26m-series"
-      },
-      {
-        "title": "Ex-SentinelOne executive joins $4b Israel VC firm as partner",
-        "link": "https://www.techinasia.com/news/ex-sentinelone-executive-joins-4b-israel-vc-firm-as-partner"
-      }
-    ],
-    "lastUpdated": "2025-03-05T03:21:26.491Z"
   },
   {
     "title": "Key ex-OpenAI researcher subpoenaed in AI copyright case",
@@ -38854,132 +38988,5 @@
       }
     ],
     "lastUpdated": "2025-02-21T08:14:58.588Z"
-  },
-  {
-    "title": "Brazil fines X $1.4m for failing to share YouTuber’s data",
-    "id": "0xq98140av0xo1",
-    "summary": "- Brazil's Supreme Court fined X (formerly Twitter) 8.1 million reais (US$1.4 million) for not providing user data on a conservative YouTuber.\n- The YouTuber was accused of threatening justices.\n- X previously argued it does not collect registration data.\n- X was also fined 50,000 reais (US$8,768) per day for failing to block the YouTuber's account and payment transfers.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2024/12/1733102940_shutterstock_2341306523-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 6,
-      "impact": 7,
-      "novelty": 5,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "Brazil",
-      "X",
-      "Twitter",
-      "fine",
-      "YouTuber",
-      "Supreme Court",
-      "threat",
-      "data privacy"
-    ],
-    "sources": [
-      {
-        "title": "Brazil fines X $1.4m for failing to share YouTuber’s data",
-        "link": "https://www.techinasia.com/news/brazil-fines-14m-failing-share-youtubers-data"
-      }
-    ],
-    "lastUpdated": "2025-02-21T07:11:20.558Z"
-  },
-  {
-    "title": "Investors in Southeast Asia's AI and Biotech Startups",
-    "id": "0jqk07n0h123p6",
-    "summary": "- Overview of active investors in Southeast Asia’s AI sector over the last two years.\n- Focus on early-stage investors with three or more investments in the region.\n- Detailed list of firms arranged by deal volume in the biotech sector.\n- Continuous data updates to reflect investment impacts in biotech.\n- Readers encouraged to report data inaccuracies to the publisher.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2023/09/1695622507_hiddensquid8707_Artificial_intelligence_in_the_form_of_a_brainy_7148cd3d-73cb-4262-a4f2-7e4b0ecd5872.png",
-      "https://cdn.techinasia.com/wp-content/uploads/2024/05/1716623629_fi-series-sea-whos-investing-in-the-regions-biotech-startups.png"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 7,
-      "novelty": 5.5,
-      "longTermSignificance": 6.5
-    },
-    "keywords": [
-      "southeast asia",
-      "ai startups",
-      "investors",
-      "investment data",
-      "venture capital",
-      "biotech",
-      "startups"
-    ],
-    "sources": [
-      {
-        "title": "Series SEA: Who’s investing in the region’s AI startups?",
-        "link": "https://www.techinasia.com/top-sea-investors-ai"
-      },
-      {
-        "title": "Series SEA: Who’s investing in the region’s biotech startups?",
-        "link": "https://www.techinasia.com/top-sea-investors-biotech"
-      }
-    ],
-    "lastUpdated": "2025-02-21T07:11:20.557Z"
-  },
-  {
-    "title": "CATL, Volkswagen partner on EV battery development",
-    "id": "16yqieh10y9qza",
-    "summary": "- CATL and Volkswagen signed a memorandum of understanding (MOU) on Feb. 20 for battery R&D.\n- Focuses on new materials, component production, and cost-effective battery products.\n- The partnership will also explore battery recycling and swapping initiatives.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/01/1737533563_shutterstock_2437084715-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "CATL",
-      "Volkswagen",
-      "EV battery",
-      "partnership",
-      "electric vehicles",
-      "battery recycling",
-      "MOU"
-    ],
-    "sources": [
-      {
-        "title": "CATL, Volkswagen partner on EV battery development",
-        "link": "https://www.techinasia.com/news/catl-volkswagen-partner-ev-battery-development"
-      }
-    ],
-    "lastUpdated": "2025-02-21T07:11:20.557Z"
-  },
-  {
-    "title": "US healthtech AI startup OpenEvidence bags $75m",
-    "id": "14ozn3w0e1ppwz",
-    "summary": "- OpenEvidence, a Massachusetts-based AI healthcare startup, raised US$75 million in a funding round led by Sequoia Capital, reaching a valuation of US$1 billion.\n- This is the startup's first institutional funding since it was founded in 2021.\n- The startup has developed a chatbot to assist physicians, currently used by a quarter of US doctors, that is trained exclusively on peer-reviewed medical journals.\n- The funds will be used for strategic partnerships and to expand adoption in the healthcare sector.\n- OpenEvidence offers its chatbot for free and generates revenue through advertising.\n- Founder Daniel Nadler stated the mission is to reduce physician burnout and address healthcare system shortages.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/02/1739946493_shutterstock_2406139043-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "OpenEvidence",
-      "healthtech",
-      "AI startup",
-      "funding",
-      "Sequoia Capital",
-      "physician burnout",
-      "chatbot",
-      "healthcare"
-    ],
-    "sources": [
-      {
-        "title": "US healthtech AI startup OpenEvidence bags $75m",
-        "link": "https://www.techinasia.com/news/us-healthtech-ai-startup-openevidence-bags-75m"
-      }
-    ],
-    "lastUpdated": "2025-02-21T07:11:20.556Z"
   }
 ]
