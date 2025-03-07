@@ -4,6 +4,28 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "X now lets you query Grok by mentioning it in replies",
+      "link": "https://techcrunch.com/2025/03/07/x-now-lets-you-query-grok-by-mentioning-it-in-replies/",
+      "author": "Ivan Mehta",
+      "thumbnail": null,
+      "summary": "- X expands accessibility of xAI’s Grok model by allowing users to mention Grok in replies for explanations.\n- Users can previously access Grok via a sidebar button and get explanations for posts.\n- The Grok chatbot now has a standalone app for iOS and Android, as well as a dedicated site and a new SuperGrok plan offering extra features.",
+      "keywords": [
+        "Grok",
+        "xAI",
+        "Elon Musk",
+        "AI chatbot",
+        "social media",
+        "TechCrunch"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-07T14:04:44.000Z"
+    },
+    {
       "title": "FBI says scammers are targeting US executives with fake BianLian ransom notes",
       "link": "https://techcrunch.com/2025/03/07/fbi-says-scammers-are-targeting-us-executives-with-fake-bianlian-ransom-notes/",
       "author": null,
@@ -1028,30 +1050,6 @@
       "scores": {
         "scale": 8,
         "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-05T18:54:39.000Z"
-    },
-    {
-      "title": "Not all cancer patients need chemo. Ataraxis AI raised $20M to fix that.",
-      "link": "https://techcrunch.com/2025/03/05/not-all-cancer-patients-need-chemo-ataraxis-ai-raised-20m-to-fix-that/",
-      "author": "Charles Rollet",
-      "thumbnail": null,
-      "summary": "- Ataraxis AI focuses on predicting cancer outcomes using AI, potentially avoiding unnecessary chemotherapy.\n- The startup plans to launch its first commercial test for breast cancer in the U.S. soon.\n- It raised $20.4 million in Series A funding led by AIX Ventures to expand its technology and services.\n- The technology is 30% more accurate than current breast cancer standards, trained on extensive patient image data.\n- Long-term ambitions include impacting at least half of new cancer cases by 2030 and expanding into multiple cancer types.",
-      "keywords": [
-        "cancer",
-        "chemo",
-        "AI",
-        "Ataraxis AI",
-        "funding",
-        "healthcare",
-        "breast cancer",
-        "precision medicine"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
         "novelty": 7,
         "longTermSignificance": 8
       },
