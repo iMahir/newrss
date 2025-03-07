@@ -1,5 +1,186 @@
 [
   {
+    "title": "Data Breach Affects Nearly 18,000 Organizations and Insights on Stalkerware Apps",
+    "id": "0pjx7bb1qm8zab",
+    "summary": "- Consumer-grade spyware apps can monitor private messages, photos, calls, and location on Android devices.\n- A guide aids in identifying and removing stalkerware like [TheTruthSpy](https://techcrunch.com/2022/10/26/inside-thetruthspy-stalkerware/), [Cocospy](https://techcrunch.com/2025/02/20/stalkerware-apps-cocospy-spyic-exposing-phone-data-of-millions-of-people/), and [Spyic](https://techcrunch.com/2025/02/20/stalkerware-apps-cocospy-spyic-exposing-phone-data-of-millions-of-people/).\n- Stalkerware often masquerades as child monitoring software, sometimes installed without consent.\n- Symptoms of infection can include odd phone behavior, excessive data consumption, and performance degradation.\n- To mitigate stalkerware risks, users should enable [Google Play Protect](https://techcrunch.com/2023/11/04/google-play-android-real-time-app-scanning-sideload-apps/), check accessibility services, and audit notification access settings.\n- The stalkerware industry thrives, marketing apps to jealous partners, with at least 24 companies experiencing data breaches since 2017, affecting millions.\n- Recent hacks involved companies like Spyzie and Cocospy, leaking over 3.2 million email addresses and sensitive data.\n- Security expert Eva Galperin highlights the stalkerware industry's vulnerability, calling it a 'soft target' for hackers.\n- Usage of stalkerware is illegal in many jurisdictions and poses risks to victims’ data security.\n- Zapier has suffered a data breach that may expose customer data, impacting user privacy and security.\n- Users are encouraged to change passwords and monitor accounts for suspicious activity; however, Zapier has not revealed the number of affected users or specific data compromised.\n- NTT Communications confirmed unauthorized access to the data of nearly 18,000 corporate customers in a cyberattack discovered on February 5.\n- Stolen data includes names, contract numbers, and contact details for 17,891 organizations, with NTT Com serving over 100,000 corporate customers across 70 countries.\n- Access was restricted to compromised devices post-breach detection, with a second compromised device found on February 15.\n- Details about the attackers and the nature of the cyberattack remain unclear.",
+    "thumbnails": [
+      "https://techcrunch.com/wp-content/uploads/2022/02/stalkerware-google-play-protect-final.jpeg",
+      "https://cdn.techinasia.com/wp-content/uploads/2025/03/1740955383_Zaoier.jpg"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 5.75,
+      "longTermSignificance": 6.75
+    },
+    "keywords": [
+      "stalkerware",
+      "spyware",
+      "android",
+      "privacy",
+      "security",
+      "removal guide",
+      "google play protect",
+      "accessibility features",
+      "data breach",
+      "cybersecurity",
+      "mobile apps",
+      "data exposure",
+      "zapier",
+      "customer data",
+      "automation platform",
+      "ntt com",
+      "cyberattack",
+      "japan",
+      "telecommunications"
+    ],
+    "sources": [
+      {
+        "title": "Your Android phone could have stalkerware. Here’s how to remove it",
+        "link": "https://techcrunch.com/2025/02/20/remove-android-spyware/"
+      },
+      {
+        "title": "Hacked, leaked, exposed: Why you should never use stalkerware apps",
+        "link": "https://techcrunch.com/2025/02/27/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/"
+      },
+      {
+        "title": "Automation platform Zapier breach may expose customer data",
+        "link": "https://www.techinasia.com/news/automation-platform-zapier-breach-expose-customer-data"
+      },
+      {
+        "title": "NTT Com Confirms Data Breach Affected Nearly 18,000 Organizations",
+        "link": "https://techcrunch.com/2025/03/07/japanese-telco-giant-ntt-com-says-hackers-accessed-details-of-almost-18000-organizations/"
+      }
+    ],
+    "lastUpdated": "2025-03-07T16:14:24.772Z"
+  },
+  {
+    "title": "CollX raises $10M to grow its card collection marketplace",
+    "id": "1n6neq31ibi6vh",
+    "summary": "- CollX has raised $10 million in Series A funding.\n- The funding round was co-led by Brand Foundry Ventures and 114 Ventures, with participation from Next Coast Ventures, FJ Labs, and Ben Franklin Technology Partners.\n- Kansas City Royals player Bobby Witt Jr. joins as an investor and brand ambassador.\n- CollX has raised over $15 million in total and has grown its user base to over 3 million.\n- The marketplace hosts 30,000 buyers and 20,000 sellers, with 400,000 monthly active users.\n- CollX offers features like card scanning, trading, and new revenue streams including card grading referrals and partnerships for live shopping.\n- The company has launched a pro subscription service and an AI feature to assist users with their collections.",
+    "thumbnails": [
+      "https://techcrunch.com/wp-content/uploads/2025/03/CollX-Marketplace-Buyer.jpg?w=680"
+    ],
+    "scores": {
+      "scale": 8,
+      "impact": 7,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "CollX",
+      "funding",
+      "trading cards",
+      "marketplace",
+      "Bobby Witt Jr.",
+      "collectibles",
+      "technology"
+    ],
+    "sources": [
+      {
+        "title": "CollX raises $10M to grow its card collection marketplace",
+        "link": "https://techcrunch.com/2025/03/07/collx-raises-10m-to-grow-its-card-collection-marketplace/"
+      }
+    ],
+    "lastUpdated": "2025-03-07T16:14:24.772Z"
+  },
+  {
+    "title": "Russian propaganda reportedly influencing AI chatbot results",
+    "id": "143hewq1ve6ufr",
+    "summary": "- Russian propaganda may be influencing AI chatbot responses, particularly OpenAI’s ChatGPT and Meta’s Meta AI.\n- A report from NewsGuard reveals a Moscow-based network named “Pravda” is publishing false claims to skew AI models' outputs.\n- Pravda published 3.6 million misleading articles in 2024, utilizing search engine optimization to increase the visibility of pro-Russian narratives.\n- AI chatbots repeated false Russian disinformation narratives 33% of the time based on NewsGuard's analysis.",
+    "thumbnails": [
+      "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1499457607.jpg?w=1024"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "AI",
+      "chatbot",
+      "propaganda",
+      "disinformation",
+      "NewsGuard",
+      "Pravda",
+      "OpenAI",
+      "Meta",
+      "search engine optimization"
+    ],
+    "sources": [
+      {
+        "title": "Russian propaganda reportedly influencing AI chatbot results",
+        "link": "https://techcrunch.com/2025/03/07/russian-propoganda-is-reportely-influencing-ai-chatbot-results/"
+      }
+    ],
+    "lastUpdated": "2025-03-07T16:14:24.772Z"
+  },
+  {
+    "title": "Atomfall, the survival game that draws from classic British sci-fi",
+    "id": "0447dz40se14ag",
+    "summary": "- Set in 1962, around Windscale nuclear power station after a meltdown.\n- Players must survive against cultists, monsters, and dangerous creatures while exploring a quarantine zone.\n- Inspired by classic British sci-fi themes, drawing from works like Dr Who and The Wicker Man.\n- Gameplay involves scavenging, crafting makeshift weapons, and stealth mechanics.\n- Various enemies include territorial bees and a gang of druids.\n- Skill points can be used to enhance stealth, health, and combat efficiency.\n- Atomfall releases on 27 March 2025.",
+    "thumbnails": [
+      "https://i.guim.co.uk/img/media/e4698e882129dec06db625543b63208f4efc44e5/134_0_3600_2160/master/3600.jpg?width=445&amp;dpr=1&amp;s=none&amp;crop=none"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 6,
+      "novelty": 5,
+      "longTermSignificance": 4
+    },
+    "keywords": [
+      "Atomfall",
+      "survival game",
+      "British sci-fi",
+      "Rebellion Developments",
+      "video game",
+      "nuclear power",
+      "Lake District",
+      "cultists",
+      "game mechanics",
+      "March 2025"
+    ],
+    "sources": [
+      {
+        "title": "Atomfall, the survival game that draws from classic British sci-fi",
+        "link": "https://www.theguardian.com/games/2025/mar/07/atomfall-video-game-draws-from-classic-british-sci-fi"
+      }
+    ],
+    "lastUpdated": "2025-03-07T16:14:24.771Z"
+  },
+  {
+    "title": "Google screwed up Pixel vibrations again",
+    "id": "1ppvaha1aw7i0s",
+    "summary": "- Following the March 2025 update, Pixel devices are experiencing unusual changes in notification and call vibrations.\n- Users report a 'hollow feeling' vibration with reduced intensity, as discussed on the Google Pixel subreddit.\n- This issue recalls a previous incident in 2022 when an update weakened notification vibrations in Pixel 6 phones, which was later fixed.\n- Staffers at Verge notice similar changes on Pixel 8 Pro devices, while discrepancies appear across different models, with the Pixel 9 series reportedly unaffected.\n- It's currently unclear if this alteration is a bug or an intentional change; Google has been contacted for clarification.",
+    "thumbnails": [
+      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195848/UMAR_SHAKIR.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
+    ],
+    "scores": {
+      "scale": 6,
+      "impact": 7,
+      "novelty": 5,
+      "longTermSignificance": 4
+    },
+    "keywords": [
+      "Google",
+      "Pixel",
+      "vibrations",
+      "haptics",
+      "March 2025 update",
+      "notification",
+      "call",
+      "smartphones"
+    ],
+    "sources": [
+      {
+        "title": "Google screwed up Pixel vibrations again",
+        "link": "https://www.theverge.com/news/625871/google-pixel-vibration-haptics-issue-march-2025-update"
+      }
+    ],
+    "lastUpdated": "2025-03-07T16:14:24.771Z"
+  },
+  {
     "title": "Last day to apply to be a TechCrunch Sessions: AI speaker",
     "id": "13tybuh0sg1aur",
     "summary": "- TechCrunch Sessions: AI takes place on June 5 at Zellerbach Hall, UC Berkeley.\n- Apply to be a speaker by 11:59 p.m. PT tonight to lead breakout sessions and discussions.\n- Applicants can submit a topic via the TC Sessions: AI event page for audience voting on sessions.",
@@ -16549,53 +16730,6 @@
       }
     ],
     "lastUpdated": "2025-03-03T02:19:02.618Z"
-  },
-  {
-    "title": "Zapier Data Breach and Stalkerware Apps: Key Insights",
-    "id": "0pjx7bb1qm8zab",
-    "summary": "- Consumer-grade spyware apps can monitor private messages, photos, calls, and location on Android devices.\n- This guide helps identify and remove stalkerware such as [TheTruthSpy](https://techcrunch.com/2022/10/26/inside-thetruthspy-stalkerware/), [Cocospy](https://techcrunch.com/2025/02/20/stalkerware-apps-cocospy-spyic-exposing-phone-data-of-millions-of-people/), and [Spyic](https://techcrunch.com/2025/02/20/stalkerware-apps-cocospy-spyic-exposing-phone-data-of-millions-of-people/).\n- Stalkerware is disguised as child monitoring or family-tracking software, often installed without consent.\n- Possible signs of infection include unusual phone behavior, excessive data use, and performance issues.\n- Key steps to mitigate stalkerware include enabling [Google Play Protect](https://techcrunch.com/2023/11/04/google-play-android-real-time-app-scanning-sideload-apps/), checking accessibility services, and reviewing notification access settings.\n- Industry for monitoring and spying on families exists with stalkerware apps marketed to jealous partners.\n- At least 24 stalkerware companies have been hacked or leaked customer data since 2017, exposing sensitive information of millions.\n- Recent data leaks include Spyzie, Cocospy, and Spyic, revealing over 3.2 million email addresses and personal data.\n- Security expert Eva Galperin notes that the stalkerware industry is a 'soft target' for hackers due to negligence in data protection.\n- Using stalkerware is illegal in many places and poses risks to victims' data security.\n- Zapier experienced a data breach potentially exposing customer data.\n- The breach impacts user security and privacy due to unauthorized access to sensitive information.\n- Users are advised to change passwords and monitor their accounts for suspicious activity.\n- Zapier has not disclosed the number of affected users or the exact data compromised.",
-    "thumbnails": [
-      "https://techcrunch.com/wp-content/uploads/2022/02/stalkerware-google-play-protect-final.jpeg",
-      "https://cdn.techinasia.com/wp-content/uploads/2025/03/1740955383_Zaoier.jpg"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 5.5,
-      "longTermSignificance": 6.5
-    },
-    "keywords": [
-      "stalkerware",
-      "spyware",
-      "android",
-      "privacy",
-      "security",
-      "removal guide",
-      "google play protect",
-      "accessibility features",
-      "data breach",
-      "cybersecurity",
-      "mobile apps",
-      "data exposure",
-      "zapier",
-      "customer data",
-      "automation platform"
-    ],
-    "sources": [
-      {
-        "title": "Your Android phone could have stalkerware. Here’s how to remove it",
-        "link": "https://techcrunch.com/2025/02/20/remove-android-spyware/"
-      },
-      {
-        "title": "Hacked, leaked, exposed: Why you should never use stalkerware apps",
-        "link": "https://techcrunch.com/2025/02/27/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/"
-      },
-      {
-        "title": "Automation platform Zapier breach may expose customer data",
-        "link": "https://www.techinasia.com/news/automation-platform-zapier-breach-expose-customer-data"
-      }
-    ],
-    "lastUpdated": "2025-03-03T02:19:02.617Z"
   },
   {
     "title": "Malaysia's Growing AI Data Center Market Faces Sustainability Challenges",

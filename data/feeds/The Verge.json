@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Google screwed up Pixel vibrations again",
+      "link": "https://www.theverge.com/news/625871/google-pixel-vibration-haptics-issue-march-2025-update",
+      "author": "Umar Shakir",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195848/UMAR_SHAKIR.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Following the March 2025 update, Pixel devices are experiencing unusual changes in notification and call vibrations.\n- Users report a 'hollow feeling' vibration with reduced intensity, as discussed on the Google Pixel subreddit.\n- This issue recalls a previous incident in 2022 when an update weakened notification vibrations in Pixel 6 phones, which was later fixed.\n- Staffers at Verge notice similar changes on Pixel 8 Pro devices, while discrepancies appear across different models, with the Pixel 9 series reportedly unaffected.\n- It's currently unclear if this alteration is a bug or an intentional change; Google has been contacted for clarification.",
+      "keywords": [
+        "Google",
+        "Pixel",
+        "vibrations",
+        "haptics",
+        "March 2025 update",
+        "notification",
+        "call",
+        "smartphones"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-03-07T15:10:02.000Z"
+    },
+    {
       "title": "Four book logging apps to keep you reading",
       "link": "https://www.theverge.com/tech/625223/book-log-read-goodreads",
       "author": "Barbara Krasnoff",
@@ -935,30 +959,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-03-05T21:47:40.000Z"
-    },
-    {
-      "title": "Apple Expands AI Features with iOS 18, macOS Sequoia and More",
-      "link": "https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16",
-      "author": "Verge Staff",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25626313/247263_iphone_16_pro_AKrales_1062.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-      "summary": "- iOS 18.2 introduces Apple's AI starter kit and ChatGPT integration.\n- New features include homepage customization and RCS support.\n- Siri receives a major upgrade with ChatGPT capabilities.\n- iOS 18.4 beta adds Matter support for robot vacuums.\n- Apple is preparing to launch new AI features in China in collaboration with Alibaba.",
-      "keywords": [
-        "Apple",
-        "AI",
-        "iOS 18",
-        "macOS Sequoia",
-        "ChatGPT",
-        "Siri",
-        "robot vacuums",
-        "technology updates"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-05T20:22:35.000Z"
     }
   ]
 }
