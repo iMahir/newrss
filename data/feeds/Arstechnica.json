@@ -4,6 +4,29 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Nearly 1 million Windows devices targeted in advanced “malvertising” spree",
+      "link": "https://arstechnica.com/security/2025/03/nearly-1-million-windows-devices-targeted-in-advanced-malvertising-spree/",
+      "author": null,
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/4-stage-malvertising-infection-640x445.webp",
+      "summary": "- Nearly 1 million devices affected, targeting individuals and various organizations.\n- The campaign used GitHub, Discord, and Dropbox to distribute malicious payloads.\n- Malware harvested sensitive data from browsers and cloud services, including login information and cryptocurrency wallet data.\n- Microsoft suspects the malicious ads were on streaming sites offering unauthorized content.\n- Microsoft Defender now detects the malicious files used in the attack and provides guidance for users.",
+      "keywords": [
+        "malvertising",
+        "Windows devices",
+        "cybersecurity",
+        "Microsoft",
+        "malware",
+        "data theft",
+        "unauthorized content streaming"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-07T20:23:58.000Z"
+    },
+    {
       "title": "CMU research shows compression alone may unlock AI puzzle-solving abilities",
       "link": "https://arstechnica.com/ai/2025/03/compression-conjures-apparent-intelligence-in-new-puzzle-solving-ai-approach/",
       "author": "Benj Edwards",
@@ -1148,29 +1171,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-01-06T17:18:01.000Z"
-    },
-    {
-      "title": "Time to check if you ran any of these 33 malicious Chrome extensions",
-      "link": "https://arstechnica.com/security/2025/01/dozens-of-backdoored-chrome-extensions-discovered-on-2-6-million-devices/",
-      "author": "Dan Goodin",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/cyberhaven-phishing-email.webp",
-      "summary": "- At least 33 malicious browser extensions in the Chrome Web Store compromised 2.6 million devices for 18 months.\n- Cyberhaven researchers found a malicious update on December 25 that allowed data theft from users who installed it.\n- The malicious version (24.10.4) was pushed through a spear phishing email to developers.\n- Other affected extensions were identified, totaling 19 having 1.46 million downloads.\n- Organizations are encouraged to re-evaluate security protocols for browser extensions due to these vulnerabilities.",
-      "keywords": [
-        "Chrome extensions",
-        "malware",
-        "data theft",
-        "Cyberhaven",
-        "spear phishing",
-        "security",
-        "browser vulnerabilities"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-03T12:15:47.000Z"
     }
   ]
 }
