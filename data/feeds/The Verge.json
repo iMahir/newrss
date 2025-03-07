@@ -4,6 +4,28 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Android phones are getting lock screen widgets this year",
+      "link": "https://www.theverge.com/news/625789/android-phones-lock-screen-widgets-16-qpr1",
+      "author": "Dominic Preston",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197794/dominic-preston.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Google announced that lock screen widgets will be introduced in Android 16 later this year.\n- The feature has been available on the Pixel Tablet since last year and will now extend to phones and more tablets.\n- All widgets will support lock screen functions by default, with app developers having the option to disable it.\n- Certain actions for widgets will still require user authentication via fingerprint, PIN, or face unlock.\n- Lock screen widgets will be added to the Android Open Source Project in the first quarterly update after Android 16's release, scheduled for late summer.\n- Android 16 is currently in beta and set to release in June.\n- Currently, lock screen widgets for phones are only accessible through the screensaver mode and not yet enabled in the latest beta.",
+      "keywords": [
+        "Android 16",
+        "lock screen widgets",
+        "Google",
+        "Pixel Tablet",
+        "user authentication",
+        "AOSP"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-07T09:55:46.000Z"
+    },
+    {
       "title": "Apple has 90 days to allow app sideloading in Brazil",
       "link": "https://www.theverge.com/news/625753/apple-ios-alternative-app-stores-sideloading-brazil",
       "author": "Jay Peters",
@@ -941,29 +963,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-05T19:28:44.000Z"
-    },
-    {
-      "title": "Kia's EV9 will soon be able to power your home",
-      "link": "https://www.theverge.com/news/624811/kia-ev9-bi-directional-wallbox-home-power-backup-preorder",
-      "author": "Umar Shakir",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195848/UMAR_SHAKIR.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Kia EV9 owners can access the SUV’s Vehicle to Home power capabilities with a new charger available in June.\n- The Wallbox Quasar 2 is the first home EV charger in the US compatible with the EV9 and is available for preorder.\n- The Quasar 2 enables power to be drawn from or fed to the EV9’s battery to power homes during blackouts.\n- Owners need a 200-amp service at home and may require utility company approval for full functionality.\n- The charger supports solar power integration, allowing for energy flow management between solar panels, the car battery, and the grid.",
-      "keywords": [
-        "Kia",
-        "EV9",
-        "Vehicle to Home",
-        "Wallbox Quasar 2",
-        "bidirectional charger",
-        "solar energy",
-        "home power backup"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-05T19:10:17.000Z"
     }
   ]
 }
