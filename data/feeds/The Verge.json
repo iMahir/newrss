@@ -4,6 +4,27 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Apple has 90 days to allow app sideloading in Brazil",
+      "link": "https://www.theverge.com/news/625753/apple-ios-alternative-app-stores-sideloading-brazil",
+      "author": "Jay Peters",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK071_APPLE_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "summary": "- Apple must allow alternative app stores on iOS in Brazil within 90 days as per the antitrust ruling.\n- The ruling follows a complaint filed by Mercado Livre in 2022 and references similar obligations Apple meets in other countries.\n- Apple plans to appeal the ruling, arguing it can maintain competitive markets without significant harm.",
+      "keywords": [
+        "Apple",
+        "app sideloading",
+        "Brazil",
+        "antitrust ruling",
+        "alternative app stores"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-07T01:41:25.000Z"
+    },
+    {
       "title": "Gundam GQuuuuuuX will stream on Amazon next month",
       "link": "https://www.theverge.com/tv/625672/gundam-gquuuuuux-amazon-premiere-date",
       "author": "Charles Pulliam-Moore",
@@ -943,31 +964,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-05T19:10:17.000Z"
-    },
-    {
-      "title": "All the news about EV charging in the US",
-      "link": "https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure",
-      "author": "Verge Staff",
-      "thumbnail": "null",
-      "summary": "- The electric vehicle charging landscape in North America is evolving, with Tesla's North American Charging Standard (NACS) gaining acceptance.\n- Numerous automakers, including Ford, GM, and Toyota, are adopting the NACS in their future models, with rollout expected by 2026.\n- Tesla plans to install Superchargers at Steak ‘n Shake locations, starting with agreements for over six sites and potentially expanding to 100.\n- The US government has allocated $7.5 billion to improve EV infrastructure and reliability for charging networks.\n- Kia will gain Tesla Supercharger access in March 2025, using CCS to NACS adapters, with new Ioniq 5 models already equipped with NACS ports.",
-      "keywords": [
-        "electric vehicles",
-        "EV charging",
-        "Tesla",
-        "NACS",
-        "charging infrastructure",
-        "Ford",
-        "GM",
-        "Kia",
-        "government funding"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-05T19:07:28.000Z"
     }
   ]
 }
