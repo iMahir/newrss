@@ -4,6 +4,77 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "DeepSeek: Everything you need to know about the AI chatbot app",
+      "link": "https://techcrunch.com/2025/03/07/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- DeepSeek has become popular after topping the Apple App Store and Google Play charts.\n- The company is backed by High-Flyer Capital Management, a Chinese hedge fund co-founded by Liang Wenfeng.\n- DeepSeek's AI models have led to significant scrutiny over the U.S. maintaining its AI leadership.\n- The company launched its first models in November 2023, with notable performance improvements in the subsequent DeepSeek-V2 and V3. \n- DeepSeek's R1 model reportedly performs well on reasoning tasks but avoids sensitive topics due to regulations.\n- Its pricing strategy disrupts the market, but some experts question its cost figures.\n- DeepSeek has faced bans from various companies and countries due to data security concerns, including New York State and South Korea.\n- The U.S. government is considering a ban on DeepSeek for government devices amid national security concerns.",
+      "keywords": [
+        "DeepSeek",
+        "AI chatbot",
+        "artificial intelligence",
+        "China",
+        "High-Flyer Capital",
+        "market disruption",
+        "Nvidia",
+        "national security",
+        "reasoning model"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-07T16:45:37.000Z"
+    },
+    {
+      "title": "US charges admins of Garantex for allegedly facilitating crypto money laundering for terrorists and hackers",
+      "link": "https://techcrunch.com/2025/03/07/us-charges-admins-of-garantex-for-allegedly-facilitating-crypto-money-laundering-for-terrorists-and-hackers/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/garantex-org-seizure-notice.png?w=680",
+      "summary": "- The U.S. Department of Justice charged Garantex administrators for facilitating money laundering by criminal organizations and violating U.S. sanctions.\n- Administrators Aleksej Besciokov and Aleksandr Mira Serda face up to 20 years in prison for money laundering, with additional charges for Besciokov.\n- Garantex allegedly processed at least $96 billion in cryptocurrency transactions since 2019 and received hundreds of millions in criminal proceeds.\n- Law enforcement seized $26 million and took down Garantex’s official websites just a day prior to the indictment.",
+      "keywords": [
+        "Garantex",
+        "crypto",
+        "money laundering",
+        "DOJ",
+        "sanctions",
+        "cryptocurrency",
+        "terrorist financing",
+        "cybercrime"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-07T16:33:48.000Z"
+    },
+    {
+      "title": "Google adds a Gemini panel to Calendar to help you manage your schedule",
+      "link": "https://techcrunch.com/2025/03/07/google-adds-a-gemini-panel-to-calendar-to-help-you-manage-your-schedule/",
+      "author": "Aisha Malik",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/google-calendar-gemini.gif?w=680",
+      "summary": "- Google is testing a new AI-powered Gemini side panel in Google Calendar for scheduling tasks.\n- Users can check their schedule, create events, and retrieve event details conversationally.\n- The feature is part of Google Workspace Labs’ early access testing program.\n- Gemini can be accessed via the “Ask Gemini” icon and offers suggested prompts or allows custom queries.\n- This feature aims to streamline calendar management and reduce manual searching for events.\n- Gemini panels are already available in other Google apps such as Gmail and Google Drive. Rollout details for other users are unspecified.",
+      "keywords": [
+        "Google Calendar",
+        "Gemini panel",
+        "AI",
+        "scheduling",
+        "Google Workspace",
+        "tech news"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-07T16:17:19.000Z"
+    },
+    {
       "title": "NTT Com Confirms Data Breach Affected Nearly 18,000 Organizations",
       "link": "https://techcrunch.com/2025/03/07/japanese-telco-giant-ntt-com-says-hackers-accessed-details-of-almost-18000-organizations/",
       "author": "Carly Page",
@@ -983,80 +1054,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-05T21:54:41.000Z"
-    },
-    {
-      "title": "Trump gives Big 3 automakers one month reprieve for Canada, Mexico tariffs",
-      "link": "https://techcrunch.com/2025/03/05/trump-gives-big-3-automakers-one-month-reprieve-for-canada-mexico-tariffs/",
-      "author": "Rebecca Bellan",
-      "thumbnail": null,
-      "summary": "- President Trump delays tariffs on automobile imports from Canada and Mexico for one month following requests from General Motors, Ford, and Stellantis.\n- The tariffs were initially set at 25% on goods from Canada and Mexico, impacting complex automotive supply chains.\n- Car prices are at historic highs, with the tariffs potentially increasing sticker prices by $12,000, threatening demand and leaving dealers with unsold vehicles.\n- Trump urged manufacturers to move operations to the U.S., but Ford CEO expressed concerns about the lack of excess capacity at plants.",
-      "keywords": [
-        "Trump",
-        "tariffs",
-        "automakers",
-        "Canada",
-        "Mexico",
-        "General Motors",
-        "Ford",
-        "Stellantis",
-        "automobile imports",
-        "economics"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-05T20:39:37.000Z"
-    },
-    {
-      "title": "The hottest AI models, what they do, and how to use them",
-      "link": "https://techcrunch.com/2025/03/05/the-hottest-ai-models-what-they-do-and-how-to-use-them/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- AI models are rapidly being developed by major companies like Google and startups like OpenAI and Anthropic.\n- The article provides an overview of advanced AI models released since 2024 and includes ongoing updates.\n- Notable models include Cohere’s Aya Vision, OpenAI’s GPT 4.5 ‘Orion’, Claude Sonnet 3.7 from Anthropic, and xAI’s Grok 3.\n- Each model has unique features, availability, and pricing structures, often requiring subscriptions.\n- The list includes models for tasks like coding, image captioning, reasoning, and personal assistance, catering to various needs in industry and research.",
-      "keywords": [
-        "AI models",
-        "Cohere",
-        "OpenAI",
-        "Anthropic",
-        "xAI",
-        "technology",
-        "machine learning",
-        "artificial intelligence"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-05T19:35:16.000Z"
-    },
-    {
-      "title": "Volkswagen’s cheapest EV ever is the first to use Rivian software",
-      "link": "https://techcrunch.com/2025/03/05/volkswagens-cheapest-ev-ever-is-the-first-to-use-rivian-software/",
-      "author": "Kirsten Korosec, Sean O’Kane",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/vw-every1-inside.jpg?w=680",
-      "summary": "- Volkswagen revealed the ID EVERY1, its ultra-cheap EV, expected to launch in 2027 at a starting price of 20,000 euros ($21,500).\n- The ID EVERY1 will be the first to utilize Rivian's software and architecture as part of a $5.8 billion joint venture.\n- Production of the EV will involve facilities in North America and Europe, with the vehicle targeting the European market.",
-      "keywords": [
-        "Volkswagen",
-        "EV",
-        "Rivian",
-        "ID EVERY1",
-        "joint venture",
-        "electric vehicle",
-        "2027",
-        "European market"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-05T19:33:44.000Z"
     }
   ]
 }
