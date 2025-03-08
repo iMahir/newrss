@@ -4,6 +4,33 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Week in Review: OpenAI could charge $20K a month for an AI agent",
+      "link": "https://techcrunch.com/2025/03/08/week-in-review-openai-could-charge-20k-a-month-for-an-ai-agent/",
+      "author": "Cody Corrall",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Digg-e1741173132141.jpg?w=680",
+      "summary": "- OpenAI might charge $20,000 per month for specialized AI agents aimed at PhD-level research.\n- Last year, OpenAI incurred losses of approximately $5 billion due to costs associated with running its services.\n- The U.S. Department of Labor is investigating Scale AI for compliance with the Fair Labor Standards Act since August 2024.\n- A federal judge denied Elon Musk's request to halt OpenAI's transition to a for-profit entity but will expedite a trial regarding its legality.\n- The original founders of Digg are reviving the site, promising it won't resemble its old format.\n- Google introduced a new feature called “Screenshare” for its Gemini AI at Mobile World Congress 2025.\n- Deutsche Telekom unveiled plans for an “AI Phone” set to launch in 2026 for under $1,000.\n- Wildlife researchers now use SpeciesNet, an AI model released by Google, to identify animal species in wildlife studies.\n- YouTube introduced a new subscription tier, YouTube Lite, allowing ad-free viewing for $7.99 per month.\n- Colossal Biosciences is working towards reviving the woolly mammoth by creating genetically engineered mice with mammoth-like fur.",
+      "keywords": [
+        "OpenAI",
+        "AI agents",
+        "$20K subscription",
+        "Digg",
+        "Scale AI",
+        "Elon Musk",
+        "Gemini",
+        "AI Phone",
+        "SpeciesNet",
+        "YouTube Lite",
+        "Colossal Biosciences"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-08T18:05:00.000Z"
+    },
+    {
       "title": "9 US AI startups have raised $100M or more in 2025",
       "link": "https://techcrunch.com/2025/03/08/9-us-ai-startups-have-raised-100m-or-more-in-2025/",
       "author": "Becca Szkutak",
@@ -1098,28 +1125,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-06T17:09:36.000Z"
-    },
-    {
-      "title": "Mistral’s new OCR API turns any PDF document into an AI-ready Markdown file",
-      "link": "https://techcrunch.com/2025/03/06/mistrals-new-ocr-api-turns-any-pdf-document-into-an-ai-ready-markdown-file/",
-      "author": "Romain Dillet",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Screenshot-2025-03-06-at-6.00.11PM.png?w=680",
-      "summary": "- Mistral launched a new optical character recognition API called [Mistral OCR](https://mistral.ai/news/mistral-ocr) for developers handling complex PDF documents.\n- The API converts PDFs into formatted Markdown text including bounding boxes for illustrations and photos.\n- Mistral OCR claims superior performance compared to Google, Microsoft, and OpenAI APIs, especially with complex documents and non-English text.\n- It is designed for organizations to streamline access to large amounts of internal documentation, enhancing capabilities for AI assistants.",
-      "keywords": [
-        "OCR",
-        "Mistral",
-        "Markdown",
-        "API",
-        "Artificial Intelligence",
-        "PDF Processing"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-06T17:01:37.000Z"
     }
   ]
 }
