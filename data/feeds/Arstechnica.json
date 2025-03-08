@@ -4,6 +4,29 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "What does “PhD-level” AI mean? OpenAI’s rumored $20,000 agent plan explained.",
+      "link": "https://arstechnica.com/ai/2025/03/what-does-phd-level-ai-mean-openais-rumored-20000-agent-plan-explained/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- OpenAI's model o3 achieved 25.2% success on the Frontier Math benchmark, significantly outperforming other models.\n- Potential applications include medical research analysis and climate modeling, reflecting high value for businesses.\n- OpenAI faces financial pressures, reporting a $5 billion loss last year, influencing their high pricing strategy.\n- The proposed $20,000 monthly fee for AI services contrasts sharply with more affordable options like ChatGPT Plus ($20/month) and Claude Pro ($30/month).\n- Concerns persist about AI generating factually incorrect information, crucial in research settings where accuracy is vital.\n- Critics point out that hiring a real PhD student could be a more cost-effective solution compared to these AI systems.",
+      "keywords": [
+        "OpenAI",
+        "PhD-level AI",
+        "AI pricing",
+        "Frontier Math benchmark",
+        "business applications",
+        "AI capabilities",
+        "machine learning"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-07T22:54:09.000Z"
+    },
+    {
       "title": "Nearly 1 million Windows devices targeted in advanced “malvertising” spree",
       "link": "https://arstechnica.com/security/2025/03/nearly-1-million-windows-devices-targeted-in-advanced-malvertising-spree/",
       "author": null,
@@ -1149,28 +1172,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-07T14:00:28.000Z"
-    },
-    {
-      "title": "Sam Altman says “we are now confident we know how to build AGI”",
-      "link": "https://arstechnica.com/information-technology/2025/01/sam-altman-says-we-are-now-confident-we-know-how-to-build-agi/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- OpenAI CEO Sam Altman announced confidence in building AGI in a recent blog post titled \"Reflections.\"\n- He predicts AI agents may start joining the workforce in 2025, significantly impacting productivity.\n- Altman's comments faced criticism, particularly from Gary Marcus, who questioned the authenticity of these claims.\n- AGI, or artificial general intelligence, is defined as AI systems that outperform humans at economically valuable tasks.\n- Microsoft and OpenAI's agreement defines AGI as an AI model generating at least $100 billion in profits.\n- The societal impact of AGI could lead to increased automation and may necessitate universal basic income as a solution for job displacement.",
-      "keywords": [
-        "AGI",
-        "Sam Altman",
-        "OpenAI",
-        "artificial intelligence",
-        "AI agents",
-        "universal basic income"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-06T17:18:01.000Z"
     }
   ]
 }
