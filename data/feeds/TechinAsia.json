@@ -4,6 +4,16 @@
   "feedUrl": "https://www.techinasia.com/feed",
   "items": [
     {
+      "title": "50 rising startups in Israel",
+      "link": "https://www.techinasia.com/top-50-rising-startups-israel",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-03-09T07:00:00.000Z"
+    },
+    {
       "title": "Crypto exchange Kraken plans 2026 IPO",
       "link": "https://www.techinasia.com/news/crypto-exchange-kraken-plans-2026-ipo",
       "author": null,
@@ -1102,29 +1112,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-07T07:00:00.000Z"
-    },
-    {
-      "title": "Mistral launches OCR tool for fast document processing",
-      "link": "https://www.techinasia.com/news/mistral-launches-ocr-tool-fast-document-processing",
-      "author": null,
-      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/02/1739247438_shutterstock_2552683149-scaled.jpg",
-      "summary": "- Mistral has launched an Optical Character Recognition (OCR) tool named Mistral OCR.\n- The tool processes images and PDFs, extracting various elements at speeds of up to 2,000 pages per minute.\n- It supports multiple languages and can output structured JSON data, with a self-hosting option for data compliance.\n- Pricing is set at US$1 for every 1,000 pages processed.",
-      "keywords": [
-        "Mistral",
-        "OCR",
-        "document processing",
-        "API",
-        "Optical Character Recognition",
-        "data compliance",
-        "structured JSON"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-07T06:50:31.000Z"
     }
   ]
 }
