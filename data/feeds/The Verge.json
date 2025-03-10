@@ -4,6 +4,100 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Sony is experimenting with AI-powered PlayStation characters",
+      "link": "https://www.theverge.com/news/626695/sony-playstation-ai-characters-aloy-horizon-forbidden-west-prototype",
+      "author": "Tom Warren",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/aloydemo.gif?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "- Sony is developing an AI-powered prototype of Aloy from *Horizon Forbidden West*.\n- The demo shows Aloy interacting via voice prompts using AI for speech and facial movements.\n- The technology employs OpenAI’s whisper, GPT-4, and Llama 3 for conversation.\n- Sony has run demo tests on PC and PS5 with minimal overhead.\n- Concerns identified about the impact of such technology on voice actors and game developers.\n- Similar AI initiatives by Nvidia and Microsoft are mentioned, highlighting industry trends in AI application.\n- A GDC 2024 survey indicates a significant interest in generative AI tools among game developers.",
+      "keywords": [
+        "AI",
+        "PlayStation",
+        "Aloy",
+        "Horizon Forbidden West",
+        "game development",
+        "Nvidia",
+        "Microsoft",
+        "generative AI",
+        "video games"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-10T19:08:20.000Z"
+    },
+    {
+      "title": "Microsoft is holding a 50th anniversary and Copilot event in April",
+      "link": "https://www.theverge.com/news/627077/microsoft-50th-anniversary-copilot-ai-event",
+      "author": "Tom Warren",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197777/profilephoto.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Microsoft is inviting attendees to its 50th anniversary and Copilot event in Redmond, Washington on April 4, 2025.\n- The event coincides with the company's founding in 1975 by Bill Gates and Paul Allen.\n- It will feature an employee celebration and discussions on future developments for the Copilot AI.\n- Notable speakers include CEO Satya Nadella and AI CEO Mustafa Suleyman.\n- The event may showcase Microsoft’s in-house AI models aimed at competing with OpenAI.",
+      "keywords": [
+        "Microsoft",
+        "50th anniversary",
+        "Copilot",
+        "AI event",
+        "Satya Nadella",
+        "Mustafa Suleyman",
+        "Redmond",
+        "AI models"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-10T18:52:32.000Z"
+    },
+    {
+      "title": "Google's New AI Button in Gmail Automatically Adds Events to Google Calendar",
+      "link": "https://www.theverge.com/news/626951/google-calendar-gmail-ai-gemini-automatically-add-events-from-emails",
+      "author": "Wes Davis",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196306/unnamed.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Google introduces a new AI feature in Gmail that uses Gemini AI to add events directly to Google Calendar based on email content.\n- The feature includes an 'Add to Calendar' button for emails that describe events, streamlining the process of adding those events via a sidebar confirmation.\n- This change is currently being rolled out for Workspace users, business, education, and Google One AI Premium subscribers, enhancing the functionality of previous non-AI event additions.",
+      "keywords": [
+        "Google",
+        "Gmail",
+        "AI",
+        "Gemini",
+        "Google Calendar",
+        "automation",
+        "email events",
+        "technology"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-10T18:41:27.000Z"
+    },
+    {
+      "title": "Longer-lasting laptops: the modular hardware you can upgrade and repair yourself",
+      "link": "https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy",
+      "author": "Verge Staff",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196092/sean-nerf-profile-pic..0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "summary": "- The article discusses the growing trend of modular laptops that allow users to upgrade and repair their devices easily.\n- Framework is highlighted as a leading company in this movement, producing laptops designed for longevity and upgradability.\n- Other manufacturers, such as Lenovo, are beginning to adopt similar designs, driven by consumer demand for sustainable electronics.\n- Past attempts by companies like Dell and Intel with modular products faced issues, paving the way for Framework's success.\n- The focus is on making laptops more user-friendly regarding repairs and upgrades, contrasting with the ultrathin models that have dominated the market.",
+      "keywords": [
+        "modular laptops",
+        "repairability",
+        "sustainability",
+        "Framework",
+        "upgradability"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-03-10T18:15:29.000Z"
+    },
+    {
       "title": "Infinity Nikki's New Interactive Map Makes It Easier to Find What You Need",
       "link": "https://www.theverge.com/news/627006/infinity-nikki-interactive-map-update-infold-games",
       "author": "Ash Parrish",
@@ -1043,71 +1137,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-03-07T19:01:06.000Z"
-    },
-    {
-      "title": "JD Vance is posting through it",
-      "link": "https://www.theverge.com/tech/626076/jd-vance-x-twitter-arguments",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-03-07T19:00:00.000Z"
-    },
-    {
-      "title": "DeepSeek: all the news about the startup that’s shaking up AI stocks",
-      "link": "https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-03-07T18:53:11.000Z"
-    },
-    {
-      "title": "LG’s new air conditioner directs cool air towards people it detects",
-      "link": "https://www.theverge.com/news/626065/lg-artcool-ai-air-conditioner-room-occupant-sensing",
-      "author": "Andrew Liszewski",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/lg_artcool_1.jpg?quality=90&amp;strip=all&amp;crop=0.012518778167248%2C0%2C99.974962443666%2C100&amp;w=2400",
-      "summary": "- The LG Artcool AI Air uses occupant sensing to improve energy efficiency by directing airflow to detected individuals.\n- It does not include design elements of previous models but focuses on comfort and efficiency.\n- Pricing and availability have yet to be announced, and the technology behind its sensing capabilities remains unspecified, though mmWave radar sensing is suggested.",
-      "keywords": [
-        "LG",
-        "air conditioner",
-        "Artcool AI Air",
-        "occupant sensing",
-        "energy efficiency"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-07T18:50:13.000Z"
-    },
-    {
-      "title": "Trump’s First 100 Days: Impacts on the Tech Industry",
-      "link": "https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news",
-      "author": "Verge Staff",
-      "thumbnail": "null",
-      "summary": "- President Trump signed an executive order to create a Strategic Bitcoin Reserve for digital assets seized by the government.\n- The reserve is likened to a ‘digital Fort Knox’ and is expected to hold around 200,000 Bitcoin.\n- The executive order mandates exploration of additional Bitcoin acquisitions without using taxpayer funds.\n- Trump’s tariffs on Mexico and Canada are mostly suspended, repealing previous protections claimed as necessary against drug and migrant flows.\n- AI technology will be used by the State Department to revoke student visas of students involved in pro-Palestine protests.\n- Social Security Administration staff are barred from accessing general news sites on government devices.\n- Criticism arises over the government's move to regulate crypto assets and the perceived connections between crypto donations and political power.",
-      "keywords": [
-        "Trump presidency",
-        "Bitcoin reserve",
-        "Executive order",
-        "Crypto assets",
-        "Tech industry",
-        "State Department",
-        "AI technology",
-        "Tariffs"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-07T18:11:52.000Z"
     }
   ]
 }
