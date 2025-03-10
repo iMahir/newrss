@@ -4,6 +4,54 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Following takedown operation, Garantex invites customers to ‘face-to-face’ Moscow meeting",
+      "link": "https://techcrunch.com/2025/03/10/following-takedown-operation-garantex-invites-customers-to-face-to-face-moscow-meeting/",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "thumbnail": null,
+      "summary": "- Russian crypto exchange Garantex experienced a significant setback following Tether blocking access to $28 million in funds.\n- U.S. law enforcement seized Garantex's official websites and charged two administrators for facilitating money laundering.\n- Garantex is inviting customers with positive account balances to face-to-face meetings in Moscow to discuss solutions for blocked assets, despite risks involved in attending.",
+      "keywords": [
+        "Garantex",
+        "crypto exchange",
+        "Tether",
+        "money laundering",
+        "facilitating terrorism",
+        "meeting",
+        "Moscow",
+        "cryptocurrency"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-10T15:55:16.000Z"
+    },
+    {
+      "title": "Gmail gains an ‘Add to calendar’ button, powered by Gemini",
+      "link": "https://techcrunch.com/2025/03/10/gmail-gains-an-add-to-calendar-button-powered-by-gemini/",
+      "author": "Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Add-to-Calendar_.png?w=680",
+      "summary": "- A new feature in Gmail allows users to add events to Google Calendar directly from emails using Google’s Gemini AI, starting Monday.\n- The ‘Add to calendar’ button automatically detects calendar-related content in emails.\n- Current availability is only in English and on the web, with limitations for guest inclusion and existing extracted events.\n- Users on specific Google Workspace tiers and plans can access this feature, which can be enabled by admins from the Workspace console.",
+      "keywords": [
+        "Gmail",
+        "Google",
+        "Gemini",
+        "calendar",
+        "AI",
+        "Google Workspace",
+        "new feature",
+        "technology"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-10T15:44:03.000Z"
+    },
+    {
       "title": "Applications are open for Startup Battlefield 200 — apply today!",
       "link": "https://techcrunch.com/2025/03/10/applications-are-open-for-startup-battlefield-200-apply-today/",
       "author": null,
@@ -1079,52 +1127,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-07T16:45:37.000Z"
-    },
-    {
-      "title": "US charges admins of Garantex for allegedly facilitating crypto money laundering for terrorists and hackers",
-      "link": "https://techcrunch.com/2025/03/07/us-charges-admins-of-garantex-for-allegedly-facilitating-crypto-money-laundering-for-terrorists-and-hackers/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/garantex-org-seizure-notice.png?w=680",
-      "summary": "- The U.S. Department of Justice charged Garantex administrators for facilitating money laundering by criminal organizations and violating U.S. sanctions.\n- Administrators Aleksej Besciokov and Aleksandr Mira Serda face up to 20 years in prison for money laundering, with additional charges for Besciokov.\n- Garantex allegedly processed at least $96 billion in cryptocurrency transactions since 2019 and received hundreds of millions in criminal proceeds.\n- Law enforcement seized $26 million and took down Garantex’s official websites just a day prior to the indictment.",
-      "keywords": [
-        "Garantex",
-        "crypto",
-        "money laundering",
-        "DOJ",
-        "sanctions",
-        "cryptocurrency",
-        "terrorist financing",
-        "cybercrime"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-07T16:33:48.000Z"
-    },
-    {
-      "title": "Google adds a Gemini panel to Calendar to help you manage your schedule",
-      "link": "https://techcrunch.com/2025/03/07/google-adds-a-gemini-panel-to-calendar-to-help-you-manage-your-schedule/",
-      "author": "Aisha Malik",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/google-calendar-gemini.gif?w=680",
-      "summary": "- Google is testing a new AI-powered Gemini side panel in Google Calendar for scheduling tasks.\n- Users can check their schedule, create events, and retrieve event details conversationally.\n- The feature is part of Google Workspace Labs’ early access testing program.\n- Gemini can be accessed via the “Ask Gemini” icon and offers suggested prompts or allows custom queries.\n- This feature aims to streamline calendar management and reduce manual searching for events.\n- Gemini panels are already available in other Google apps such as Gmail and Google Drive. Rollout details for other users are unspecified.",
-      "keywords": [
-        "Google Calendar",
-        "Gemini panel",
-        "AI",
-        "scheduling",
-        "Google Workspace",
-        "tech news"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-07T16:17:19.000Z"
     }
   ]
 }
