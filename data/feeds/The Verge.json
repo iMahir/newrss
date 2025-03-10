@@ -4,6 +4,50 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "All the news about Sony’s PS5 Pro",
+      "link": "https://www.theverge.com/24240801/ps5-pro-details-playstation-event-september-2024",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-03-10T16:49:55.000Z"
+    },
+    {
+      "title": "The Tesla protests are getting bigger — and rowdier",
+      "link": "https://www.theverge.com/news/626851/tesla-takedown-protests-elon-musk",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-03-10T16:39:09.000Z"
+    },
+    {
+      "title": "Fortnite is set to return to Brazilian iPhones",
+      "link": "https://www.theverge.com/news/626935/epic-games-fortnite-store-brazil-apple-ios",
+      "author": "Jay Peters",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195819/JAY_PETERS.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Epic Games plans to bring Fortnite to iOS users in Brazil in July 2024.\n- This follows a Brazilian ruling requiring Apple to allow sideloading within 90 days.\n- In August 2023, Epic launched the mobile Epic Games Store on iOS in the EU after Apple was forced to comply with the Digital Markets Act.\n- The Brazilian judge noted that Apple has complied with similar obligations in other countries without significant harm to its economic model, and Apple intends to appeal this ruling.\n- The Epic Games Store is already available on Android and was launched on iPad in the EU in September 2024.",
+      "keywords": [
+        "Fortnite",
+        "Epic Games",
+        "iOS",
+        "Brazil",
+        "Apple",
+        "sideloading",
+        "mobile gaming",
+        "Digital Markets Act"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-10T16:27:28.000Z"
+    },
+    {
       "title": "Why the internet still needs Section 230",
       "link": "https://www.theverge.com/policy/626326/ron-wyden-section-230-history-it-takes-chutzpah-excerpt",
       "author": "Ron Wyden",
@@ -1065,77 +1109,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-07T17:54:57.000Z"
-    },
-    {
-      "title": "Crypto funds seized by the government may go into a ‘digital Fort Knox’",
-      "link": "https://www.theverge.com/news/626025/crypto-seized-funds-government-reserve-trump",
-      "author": "Emma Roth",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- President Trump signed an executive order to establish a Bitcoin reserve for the US government, including around 200,000 Bitcoin from forfeitures.\n- The reserve will function like a 'digital Fort Knox' and will also include other digital assets.\n- The US government will explore ways to acquire more Bitcoin without using taxpayer dollars.\n- David Sacks stated that the bitcoin will be kept as a store of value, aiming to avoid past losses incurred from premature sales.\n- Bitcoin price is currently at $86,000, having faced significant volatility in the past.",
-      "keywords": [
-        "Bitcoin",
-        "digital assets",
-        "government reserve",
-        "executive order",
-        "crypto",
-        "forfeitures",
-        "Treasury Secretary"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-07T17:41:01.000Z"
-    },
-    {
-      "title": "AMD is launching its latest Ryzen 9 X3D gaming processors on March 12th",
-      "link": "https://www.theverge.com/news/625984/amd-ryzen-9-x3d-9950-9900-16-zen-5-cores-launch",
-      "author": "Umar Shakir",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK081_amd_02.jpg.webp?quality=90&strip=all&crop=0.1%2C0%2C99.8%2C100&w=2400",
-      "summary": "- AMD announces launch of Ryzen 9 9950X3D and 9900X3D processors on March 12th.\n- New processors feature 16 Zen 5 cores and second-generation 3D V-Cache technology, enhancing both gaming and content creation.\n- The Ryzen 9 9950X3D is priced at $699, with 4.3 GHz base clock speed and 5.7 GHz boost, offering 144MB cache and a TDP of 170W.\n- The entry-level 9900X3D will cost $599, slightly above Intel’s comparable offering.\n- The announcement follows AMD’s recent launch of competitive GPUs, Radeon RX 9070 and 9070 XT.",
-      "keywords": [
-        "AMD",
-        "Ryzen 9 X3D",
-        "gaming processors",
-        "cpu",
-        "technology",
-        "launch",
-        "performance",
-        "content creation",
-        "Radeon"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-07T17:15:01.000Z"
-    },
-    {
-      "title": "The Nintendo Switch 2 will have NFC and Wi-Fi 6, FCC filings show",
-      "link": "https://www.theverge.com/news/625931/nintendo-switch-2-fcc-nfc-wi-fi-6-usb",
-      "author": "Sean Hollister",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/nintendo-fcc-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "- The Nintendo Switch 2 will support NFC for Amiibo figurines, confirmed by FCC filings.\n- It is designated BEE-001 and will have a right Joy-Con for NFC like the original Switch.\n- The console will support Wi-Fi 6 (802.11ax) with up to 80MHz bandwidth, but not Wi-Fi 7 or 6E.\n- Charging will be possible via a top USB-C port in addition to the bottom one.\n- The original Switch's charging specs will still apply, with a possibility of faster or more powerful charging.\n- The exact release date for the Nintendo Switch 2 is still to be announced by Nintendo later this year.",
-      "keywords": [
-        "Nintendo",
-        "Switch 2",
-        "NFC",
-        "Wi-Fi 6",
-        "FCC",
-        "gaming",
-        "console"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-07T17:07:31.000Z"
     }
   ]
 }
