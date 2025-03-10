@@ -4,6 +4,28 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Six thoughts on Apple’s new M3 iPad Air",
+      "link": "https://www.theverge.com/ipad/626647/apple-ipad-air-review-2025",
+      "author": "David Pierce",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/M3-iPad-Air-11-inch-Press-Image.jpg?quality=90&strip=all&crop=16.65243381725%2C0%2C66.6951323655%2C100&w=2400",
+      "summary": "- Apple launched the new iPad Air with M3 chip, priced at $599 (11-inch) and $799 (13-inch).\n- Performance increase is about 12-15% compared to the M2 chip.\n- The new Magic Keyboard includes function keys and passthrough charging, costing $269.\n- No Face ID, only Touch ID available, which is seen as less convenient.\n- 11-inch model is more portable compared to the 13-inch model.\n- Apple Intelligence features are present but not pivotal for device choice currently.",
+      "keywords": [
+        "Apple",
+        "iPad Air",
+        "M3 chip",
+        "Magic Keyboard",
+        "Touch ID",
+        "Apple Intelligence"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-10T13:00:00.000Z"
+    },
+    {
       "title": "Death Stranding 2 is coming on June 26th",
       "link": "https://www.theverge.com/news/610946/death-stranding-2-trailer-ps5-state-of-play-on-the-beach",
       "author": "Andrew Webster",
@@ -1111,28 +1133,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-07T11:46:10.000Z"
-    },
-    {
-      "title": "Android phones are getting lock screen widgets this year",
-      "link": "https://www.theverge.com/news/625789/android-phones-lock-screen-widgets-16-qpr1",
-      "author": "Dominic Preston",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197794/dominic-preston.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Google announced that lock screen widgets will be introduced in Android 16 later this year.\n- The feature has been available on the Pixel Tablet since last year and will now extend to phones and more tablets.\n- All widgets will support lock screen functions by default, with app developers having the option to disable it.\n- Certain actions for widgets will still require user authentication via fingerprint, PIN, or face unlock.\n- Lock screen widgets will be added to the Android Open Source Project in the first quarterly update after Android 16's release, scheduled for late summer.\n- Android 16 is currently in beta and set to release in June.\n- Currently, lock screen widgets for phones are only accessible through the screensaver mode and not yet enabled in the latest beta.",
-      "keywords": [
-        "Android 16",
-        "lock screen widgets",
-        "Google",
-        "Pixel Tablet",
-        "user authentication",
-        "AOSP"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-07T09:55:46.000Z"
     }
   ]
 }
