@@ -4,6 +4,61 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "OpenAI launches new tools to help businesses build AI agents",
+      "link": "https://techcrunch.com/2025/03/11/openai-launches-new-tools-to-help-businesses-build-ai-agents/",
+      "author": "Maxwell Zeff",
+      "thumbnail": null,
+      "summary": "- OpenAI released new tools for developers and businesses to build AI agents using its own AI models.\n- The tools are part of the new Responses API, replacing the old Assistants API.\n- The hype around AI agents has increased, but technical challenges remain for adoption and usability.\n- New offerings include highly accurate web search models (GPT-4o search and GPT-4o mini search) and a file search utility for company databases.\n- OpenAI introduced an open-source Agents SDK for integrating models and monitoring AI agent activities.\n- OpenAI aims for 2025 to be a pivotal year for AI agents in the workforce.",
+      "keywords": [
+        "OpenAI",
+        "AI agents",
+        "Responses API",
+        "GPT-4o",
+        "technology",
+        "developers",
+        "business tools"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-11T17:00:00.000Z"
+    },
+    {
+      "title": "Mark Cuban says AI is ‘never the answer,’ it’s a ‘tool’",
+      "link": "https://techcrunch.com/2025/03/11/mark-cuban-says-ai-is-never-the-answer-its-a-tool/",
+      "author": "Sarah Perez",
+      "thumbnail": null,
+      "summary": "- Mark Cuban spoke at the SXSW conference about AI's role in aiding small businesses.\n- He emphasized that AI should serve as a tool, not an answer by itself.\n- Cuban encouraged entrepreneurs to learn about AI to leverage its potential in business.",
+      "keywords": [
+        "Mark Cuban",
+        "AI",
+        "SXSW",
+        "small business",
+        "technology",
+        "entrepreneurship"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-11T16:54:42.000Z"
+    },
+    {
+      "title": "Hugging Face expands its LeRobot platform with training data for self-driving machines",
+      "link": "https://techcrunch.com/2025/03/11/hugging-face-expands-its-lerobot-platform-with-training-data-for-self-driving-machines/",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-03-11T16:30:46.000Z"
+    },
+    {
       "title": "Waymo expands its robotaxi service across Silicon Valley",
       "link": "https://techcrunch.com/2025/03/11/waymo-expands-its-robotaxi-service-across-silicon-valley/",
       "author": null,
@@ -952,72 +1007,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-10T14:53:00.000Z"
-    },
-    {
-      "title": "X is experiencing outages on Monday morning",
-      "link": "https://techcrunch.com/2025/03/10/x-is-experiencing-outages-on-monday-morning/",
-      "author": "Amanda Silberling",
-      "thumbnail": null,
-      "summary": "- X was inaccessible on Monday morning for thousands of users, especially in the U.S.\n- Outages started around 5:30 AM ET with over 20,000 users reporting issues.\n- The outages seemed to resolve but returned around 9:30 AM ET with over 40,000 reports.\n- As of 10:30 AM ET, outages were ongoing, with some users regaining access.\n- X has not provided any comment on the cause of the outages.",
-      "keywords": [
-        "X",
-        "outages",
-        "Elon Musk",
-        "Downdetector",
-        "technology",
-        "social media"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 4,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-03-10T14:31:42.000Z"
-    },
-    {
-      "title": "Consumer Reports finds popular voice cloning tools lack safeguards",
-      "link": "https://techcrunch.com/2025/03/10/consumer-reports-finds-popular-voice-cloning-tools-lack-safeguards/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Several popular voice cloning tools were found to lack meaningful safeguards against fraud or abuse according to a new study by [Consumer Reports](https://www.consumerreports.org/media-room/press-releases/2025/03/consumer-reports-assessment-of-ai-voice-cloning-products/).\n- The study examined products from six companies: Descript, ElevenLabs, Lovo, PlayHT, Resemble AI, and Speechify, revealing only Descript and Resemble AI implemented measures to prevent misuse.\n- Grace Gedye highlighted the risks of AI voice cloning tools facilitating impersonation scams without adequate safety features.",
-      "keywords": [
-        "voice cloning",
-        "Consumer Reports",
-        "fraud prevention",
-        "AI tools",
-        "impersonation scams"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-10T14:28:22.000Z"
-    },
-    {
-      "title": "Showcase your innovation — exhibit at TechCrunch Sessions: AI",
-      "link": "https://techcrunch.com/2025/03/10/showcase-your-innovation-exhibit-at-techcrunch-sessions-ai/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Event: TechCrunch Sessions: AI on June 5 at Zellerbach Hall, UC Berkeley.\n- Audience: 1,200 AI experts, investors, and enthusiasts expected.\n- Opportunity: Showcase your startup's AI innovations and connect with key industry players.\n- Includes: 6 full conference passes, space for exhibit, and visibility on the event platform.\n- Cost: $7,500 for an exhibit table with limited availability (only 12 tables).",
-      "keywords": [
-        "TechCrunch",
-        "AI",
-        "innovation",
-        "startup",
-        "exhibit",
-        "networking",
-        "event"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-03-10T14:00:00.000Z"
     }
   ]
 }
