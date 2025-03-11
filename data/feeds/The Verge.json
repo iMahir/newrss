@@ -4,6 +4,54 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Go Read This: The Verge’s favorite reads from all over the web",
+      "link": "https://www.theverge.com/24188803/best-tech-reads-articles-books",
+      "author": "Verge Staff",
+      "thumbnail": null,
+      "summary": "- The Verge curates a list of recommended articles and books from various sources.\n- Highlights include a controversial EV battery plant proposal by a Chinese company and its implications.\n- Other topics cover working outside, gaming industry developments, and the evolving landscape of US politics and technology.",
+      "keywords": [
+        "reading",
+        "articles",
+        "tech",
+        "curation",
+        "Verge",
+        "recommendations",
+        "politics",
+        "gaming",
+        "technology"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-11T18:53:40.000Z"
+    },
+    {
+      "title": "All the smart home news, reviews, and gadgets you need to know about",
+      "link": "https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets",
+      "author": "Verge Staff",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10817641/acastro_180510_1777_alexa_0003.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "summary": "- The smart home offers convenience and safety, but it can also be complex and confusing.\n- Verge provides reviews, guides, and news on smart home technologies and gadgets.\n- New features and devices for smart homes are frequently released by companies like Apple, Amazon, and Google.\n- Abode launched a new app for controlling its security system via Apple TV.\n- Ikea registered a Matter-over-Thread temperature sensor called Timmerflotte with the FCC.\n- Amazon introduced Alexa Plus, a generative AI-powered voice assistant, aiming to enhance user interaction.",
+      "keywords": [
+        "smart home",
+        "technology",
+        "gadgets",
+        "Amazon",
+        "Ikea",
+        "Abode",
+        "Alexa"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-11T18:32:32.000Z"
+    },
+    {
       "title": "CFPB official tells judge he’s still not sure if agency will shut down",
       "link": "https://www.theverge.com/politics/627724/cfpb-adam-martinez-testimony-doge",
       "author": null,
@@ -874,54 +922,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-10T16:27:28.000Z"
-    },
-    {
-      "title": "Why the internet still needs Section 230",
-      "link": "https://www.theverge.com/policy/626326/ron-wyden-section-230-history-it-takes-chutzpah-excerpt",
-      "author": "Ron Wyden",
-      "thumbnail": null,
-      "summary": "- Section 230 of the Communications Decency Act is often blamed for internet issues, but it remains crucial today.\n- Trump and other politicians challenge Section 230, claiming it allows tech companies too much control.\n- The law provides a liability shield for tech platforms, essential for their existence, especially for new competitors like Bluesky.\n- Section 230 allows individuals to control what they see online without intrusive government regulation.\n- The law emphasizes that distributors (like websites) are not liable for user-generated content.\n- In 1996, Wyden and Chris Cox crafted Section 230 amidst government censorship fears and rising internet use.\n- The law was passed after a critic's failed bid to impose strict regulations on internet content.\n- It provides essential protections to both content creators and distributors, enabling free expression online.",
-      "keywords": [
-        "Section 230",
-        "internet law",
-        "Ron Wyden",
-        "free speech",
-        "communications act",
-        "Big Tech",
-        "content moderation",
-        "internet regulation"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-10T16:00:00.000Z"
-    },
-    {
-      "title": "Space collisions could become a bigger risk thanks to greenhouse gas pollution",
-      "link": "https://www.theverge.com/news/626810/space-collision-satellite-greenhouse-gas-emissions",
-      "author": "Justine Calma",
-      "thumbnail": null,
-      "summary": "- Greenhouse gas emissions could increase satellite collision risks by contracting Earth's upper atmosphere.\n- The study published in *Nature Sustainability* explores the implications of pollution on satellite operations.\n- Research estimates that satellite carrying capacity could decline by 50 to 66 percent in 75 years under high emissions scenarios.\n- Current satellite numbers exceed 20,650; growing concerns over collisions as more satellites crowd lower Earth orbit.\n- The findings underscore the need for space sustainability awareness among satellite operators and the public.",
-      "keywords": [
-        "greenhouse gas",
-        "satellite collisions",
-        "space sustainability",
-        "atmospheric contraction",
-        "fossil fuel emissions",
-        "satellite capacity",
-        "lower Earth orbit",
-        "pollution effects"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-10T16:00:00.000Z"
     }
   ]
 }

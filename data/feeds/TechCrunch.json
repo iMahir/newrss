@@ -4,6 +4,51 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "DOGE axes CISA ‘red team’ staffers amid ongoing federal cuts",
+      "link": "https://techcrunch.com/2025/03/11/doge-axes-cisa-red-team-staffers-amid-ongoing-federal-cuts/",
+      "author": "Carly Page",
+      "thumbnail": null,
+      "summary": "- Elon Musk’s Department of Government Efficiency (DOGE) has laid off over a hundred employees from CISA, including red team staffers.\n- Layoffs occurred in late February and early March, with affected employees cut immediately without prior warning.\n- More than 80 employees in continuous monitoring and 30-50 in incident response were affected, marking the third known round of layoffs at CISA since January 20.",
+      "keywords": [
+        "CISA",
+        "DOGE",
+        "layoffs",
+        "cybersecurity",
+        "Elon Musk",
+        "red team",
+        "staff cuts"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-11T18:44:23.000Z"
+    },
+    {
+      "title": "Podcast app Pocket Casts makes its web player free",
+      "link": "https://techcrunch.com/2025/03/11/podcast-app-pocket-casts-makes-its-web-player-free/",
+      "author": "Sarah Perez",
+      "thumbnail": null,
+      "summary": "- Pocket Casts, a podcast app owned by Automattic, has made its web player free to use.\n- Users can stream episodes without a subscription or account, but can create a free account for additional features.\n- The company's Pocket Casts Plus subscription offers extra tools and customization options.\n- Unlike competitors, Pocket Casts does not use AI-driven content suggestions, promoting user choice instead.\n- Free streaming will also be available on Pocket Casts’ Mac and Windows apps, challenging services like Apple Podcasts.",
+      "keywords": [
+        "Pocket Casts",
+        "podcast",
+        "web player",
+        "free streaming",
+        "Automattic",
+        "Apple Podcasts"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-11T18:22:07.000Z"
+    },
+    {
       "title": "Flower Labs’ launches a new service that automatically switches from local to cloud AI",
       "link": "https://techcrunch.com/2025/03/11/flower-labs-launches-a-new-service-that-automatically-switches-from-local-to-cloud-ai/",
       "author": null,
@@ -922,53 +967,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-10T15:55:16.000Z"
-    },
-    {
-      "title": "Gmail gains an ‘Add to calendar’ button, powered by Gemini",
-      "link": "https://techcrunch.com/2025/03/10/gmail-gains-an-add-to-calendar-button-powered-by-gemini/",
-      "author": "Kyle Wiggers",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Add-to-Calendar_.png?w=680",
-      "summary": "- A new feature in Gmail allows users to add events to Google Calendar directly from emails using Google’s Gemini AI, starting Monday.\n- The ‘Add to calendar’ button automatically detects calendar-related content in emails.\n- Current availability is only in English and on the web, with limitations for guest inclusion and existing extracted events.\n- Users on specific Google Workspace tiers and plans can access this feature, which can be enabled by admins from the Workspace console.",
-      "keywords": [
-        "Gmail",
-        "Google",
-        "Gemini",
-        "calendar",
-        "AI",
-        "Google Workspace",
-        "new feature",
-        "technology"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-03-10T15:44:03.000Z"
-    },
-    {
-      "title": "Applications are open for Startup Battlefield 200 — apply today!",
-      "link": "https://techcrunch.com/2025/03/10/applications-are-open-for-startup-battlefield-200-apply-today/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Startup-Battlefield-200-contestant_Disrupt-2024.jpg?w=680",
-      "summary": "- Applications for TechCrunch Startup Battlefield 200 are now open for pre-Series A startups.\n- Participants can gain exposure and pitch to VCs at TechCrunch Disrupt 2025, taking place from October 27-29 at Moscone West, San Francisco.\n- The competition includes perks such as a free exhibit table, tickets to the event, and access to masterclass sessions, with a chance to win a $100,000 equity-free prize.",
-      "keywords": [
-        "Startup Battlefield 200",
-        "TechCrunch Disrupt 2025",
-        "pitch competition",
-        "pre-Series A",
-        "startup exposure",
-        "venture capital",
-        "equity-free prize"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-10T15:00:00.000Z"
     }
   ]
 }
