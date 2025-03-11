@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "‘A lot worse than expected’: AI Pac-Man clones, reviewed",
+      "link": "https://www.theguardian.com/games/2025/mar/11/ai-pac-man-clones-reviewed-grok",
+      "author": "John Hester, Justin Martin, Jimmy, Stiven, Matt, ₿lackthorne, Rich Pelley",
+      "thumbnail": "https://i.guim.co.uk/img/media/1126207fb5b7b16e512a88830102fbf695a78c44/0_0_744_744/master/744.jpg?width=620&amp;dpr=2&amp;s=none&amp;crop=none",
+      "summary": "- Microsoft and Google have developed models that generate video games.\n- Users created Pac-Man clones using xAI's Grok chatbot, often with mixed results.\n- Feedback from various users highlights ease of use but also significant bugs in the gameplay.\n- Overall scores for the Pac-Man clones varied, with many getting 3 stars for their attempts, while some received lower evaluations.",
+      "keywords": [
+        "AI",
+        "Pac-Man",
+        "Grok",
+        "video games",
+        "game development",
+        "user feedback",
+        "xAI"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 7,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-03-11T12:00:46.000Z"
+    },
+    {
       "title": "Where has the left’s technological audacity gone? | Leigh Phillips",
       "link": "https://www.theguardian.com/commentisfree/ng-interactive/2025/mar/11/democrats-liberal-technology-innovation",
       "author": null,
@@ -1092,30 +1115,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-04T07:00:39.000Z"
-    },
-    {
-      "title": "Tightly choreographed Two Sessions opens in Beijing as the world order roils",
-      "link": "https://www.theguardian.com/world/2025/mar/04/china-two-sessions-beijing-opening-parliament",
-      "author": "Not given",
-      "thumbnail": null,
-      "summary": "- Thousands of delegates arrive in Beijing for the annual parliamentary session known as the Two Sessions.\n- Heightened security is noticeable with increased police presence and random ID scans at busy locations.\n- China's economic situation is tense, with consumer goods sales down 4% in Chaoyang district and rising unemployment.\n- Analysts are watching for Li Qiang's government work report, particularly the GDP target for 2025.\n- China's economic strategy is shifting from a focus on GDP growth to investment in innovation and high-tech sectors, with AI firm DeepSeek leading the way.",
-      "keywords": [
-        "Two Sessions",
-        "China",
-        "Beijing",
-        "politics",
-        "economy",
-        "DeepSeek",
-        "innovation",
-        "security"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-04T03:48:43.000Z"
     }
   ]
 }
