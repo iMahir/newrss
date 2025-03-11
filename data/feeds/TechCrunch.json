@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Meta is reportedly testing in-house chips for AI training",
+      "link": "https://techcrunch.com/2025/03/11/meta-is-reportedly-testing-in-house-chips-for-ai-training/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "• Meta is testing an in-house chip for AI training to reduce dependency on Nvidia.\n• The chip was manufactured in collaboration with TSMC and is designed for AI-specific tasks.\n• Meta plans to pilot a small deployment and scale production based on test results.\n• Previous custom AI chips were used for running models, not training them.\n• Meta's capital expenditure for the year is $65 billion, largely for Nvidia GPUs, indicating significant potential cost savings if in-house chips succeed.",
+      "keywords": [
+        "Meta",
+        "AI training",
+        "in-house chips",
+        "Nvidia",
+        "TSMC",
+        "technology",
+        "hardware"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-11T23:03:13.000Z"
+    },
+    {
       "title": "Bolt CEO Ryan Breslow explains his troubled $30M personal loan, announces new ‘super app’",
       "link": "https://techcrunch.com/2025/03/11/bolt-ceo-ryan-breslow-explains-his-troubled-30m-personal-loan-announces-new-super-app/",
       "author": "Charles Rollet, Mary Ann Azevedo",
@@ -950,30 +973,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-10T19:12:15.000Z"
-    },
-    {
-      "title": "At SXSW, Bluesky CEO Jay Graber pokes fun at Mark Zuckerberg with Latin phrase T-shirt",
-      "link": "https://techcrunch.com/2025/03/10/at-sxsw-bluesky-ceo-jay-graber-pokes-fun-at-mark-zuckerberg-with-latin-phrase-t-shirt/",
-      "author": "Amanda Silberling",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/09/Meta-Connect-2024-09-25-at-1.50.52PM.jpg?w=680",
-      "summary": "- Bluesky CEO Jay Graber wore a T-shirt with the phrase 'Mundus sine caesaribus' at SXSW 2025, mocking Mark Zuckerberg’s 'Aut Zuck aut nihil'.\n- Graber's shirt suggests a world without centralized control, contrasting Bluesky’s decentralized platform with Meta’s legacy systems.\n- Bluesky is nearing 33 million users, while Meta boasts 3.35 billion daily active users, emphasizing the challenges ahead for Bluesky.",
-      "keywords": [
-        "Bluesky",
-        "Jay Graber",
-        "Mark Zuckerberg",
-        "SXSW",
-        "social network",
-        "decentralization",
-        "Latin phrases",
-        "Meta"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-10T18:48:06.000Z"
     }
   ]
 }

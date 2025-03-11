@@ -4,6 +4,55 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "OpenAI pushes AI agent capabilities with new developer API",
+      "link": "https://arstechnica.com/ai/2025/03/openai-pushes-ai-agent-capabilities-with-new-developer-api/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Developers can utilize the Responses API to access GPT-4o and GPT-4o mini models for web browsing and answering questions.\n- These models achieved 90% and 88% accuracy on the SimpleQA benchmark, surpassing the performance of GPT-4.5 without search.\n- Despite improvements, the AI still makes factual mistakes 10% of the time.\n- OpenAI also released the Agents SDK for developers to integrate AI models with internal systems.\n- The AI agent field is evolving, but unrealistic claims and limitations remain, as highlighted by the issues with the Manus AI platform.",
+      "keywords": [
+        "OpenAI",
+        "AI agents",
+        "developer API",
+        "GPT-4o",
+        "Responses API",
+        "web search",
+        "accuracy",
+        "Agents SDK",
+        "Machine Learning"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-11T20:42:17.000Z"
+    },
+    {
+      "title": "Apple patches 0-day exploited in “extremely sophisticated attack”",
+      "link": "https://arstechnica.com/security/2025/03/apple-patches-0-day-exploited-in-extremely-sophisticated-attack/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Apple patched a critical zero-day vulnerability in iPhones and iPads, tracked as CVE-2025-24201.\n- The vulnerability affects multiple devices, including iPhone XS and later models, and iPads from various generations.\n- Exploited in a sophisticated attack against specific individuals using older iOS versions.\n- The fix is a supplementary measure following blocking in iOS 17.2, with advisory details lacking specific exploit detection information.\n- Latest updates bring iOS and iPadOS to version 18.3.2; immediate installation is recommended for most at-risk users.",
+      "keywords": [
+        "Apple",
+        "zero-day vulnerability",
+        "iPhone",
+        "iPad",
+        "iOS",
+        "Webkit",
+        "security update",
+        "CVE-2025-24201"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-11T20:26:11.000Z"
+    },
+    {
       "title": "Why extracting data from PDFs is still a nightmare for data experts",
       "link": "https://arstechnica.com/ai/2025/03/why-extracting-data-from-pdfs-is-still-a-nightmare-for-data-experts/",
       "author": "Benj Edwards",
@@ -1126,53 +1175,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-01-09T17:11:54.000Z"
-    },
-    {
-      "title": "Here’s how hucksters are manipulating Google to promote shady Chrome extensions",
-      "link": "https://arstechnica.com/security/2025/01/googles-chrome-web-store-has-a-serious-spam-problem-promoting-shady-extensions/",
-      "author": null,
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/norton-password-manager-chrome-extension.jpg",
-      "summary": "- Google forbids third-party extension developers from manipulating extension presentation in the Chrome Web Store.\n- Researcher Wladimir Palant found developers violating these terms with hundreds of extensions.\n- Some extensions may appear in search results that are unrelated or abusive, misrepresenting their functionality.",
-      "keywords": [
-        "Google",
-        "Chrome",
-        "web store",
-        "extensions",
-        "security",
-        "manipulation",
-        "spam",
-        "abuse"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-08T23:46:10.000Z"
-    },
-    {
-      "title": "Nvidia unveils $3,000 desktop AI computer for home researchers",
-      "link": "https://arstechnica.com/ai/2025/01/nvidias-first-desktop-pc-can-run-local-ai-models-for-3000/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Nvidia announced Project DIGITS, a $3,000 desktop AI computer for researchers and students at CES 2025.\n- The computer features the GB10 Grace Blackwell Superchip, a combination of an Nvidia Blackwell GPU and a 20-core Grace CPU.\n- Project DIGITS can run AI models with up to 200 billion parameters, and two linked units can handle models with 405 billion parameters, aiming to provide local AI capabilities.",
-      "keywords": [
-        "Nvidia",
-        "AI computer",
-        "Project DIGITS",
-        "GB10 chip",
-        "CES 2025",
-        "local AI models",
-        "researchers"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-07T16:33:05.000Z"
     }
   ]
 }
