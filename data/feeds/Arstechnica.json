@@ -4,6 +4,29 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Why extracting data from PDFs is still a nightmare for data experts",
+      "link": "https://arstechnica.com/ai/2025/03/why-extracting-data-from-pdfs-is-still-a-nightmare-for-data-experts/",
+      "author": "Benj Edwards",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/robot_reading_a_book-1024x576.jpg",
+      "summary": "- Extracting usable data from PDFs remains challenging for businesses, governments, and researchers due to their rigid format.\n- Many PDFs contain images of text, requiring Optical Character Recognition (OCR) to convert them into machine-readable data.\n- Traditional OCR has limitations with complex layouts, unusual fonts, and poor image quality.\n- Approximately 80-90% of organizational data is unstructured and locked in documents like PDFs.\n- The issue severely impacts industries relying on documentation like insurance and journalism, especially for information older than 20 years.\n- AI advancements are providing new solutions but come with drawbacks such as hallucinations and misinterpretation of data.\n- Models like Google's Gemini 2.0 currently excel in document processing, handling diverse text and layouts with fewer errors.",
+      "keywords": [
+        "PDF",
+        "data extraction",
+        "OCR",
+        "artificial intelligence",
+        "document processing",
+        "machine learning",
+        "data analysis"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-11T11:15:36.000Z"
+    },
+    {
       "title": "What does “PhD-level” AI mean? OpenAI’s rumored $20,000 agent plan explained.",
       "link": "https://arstechnica.com/ai/2025/03/what-does-phd-level-ai-mean-openais-rumored-20000-agent-plan-explained/",
       "author": null,
@@ -1150,28 +1173,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-07T16:33:05.000Z"
-    },
-    {
-      "title": "Widely used DNA sequencer still doesn’t enforce Secure Boot",
-      "link": "https://arstechnica.com/security/2025/01/widely-used-dna-sequencer-still-doesnt-enforce-secure-boot/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- In 2012, an industry coalition adopted Secure Boot to protect devices against malware.\n- Secure Boot uses public-key cryptography to prevent unauthorized code from loading.\n- Microsoft requires Secure Boot for Windows devices, but not for specialized devices like the Illumina iSeq 100 DNA sequencer.\n- The iSeq 100 can boot from legacy BIOS and uses outdated firmware with critical vulnerabilities.\n- Firmware Read/Write protections are not enabled, allowing potential firmware modifications by attackers.\n- The vulnerabilities could affect a broad range of devices using similar OEM motherboards.",
-      "keywords": [
-        "DNA sequencing",
-        "Secure Boot",
-        "firmware vulnerabilities",
-        "Illumina iSeq 100",
-        "malware",
-        "medical devices"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-07T14:00:28.000Z"
     }
   ]
 }
