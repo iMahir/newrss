@@ -1,5 +1,38 @@
 [
   {
+    "title": "Apple Chips Vulnerabilities Allow Data Leak from Browsers",
+    "id": "04iqmdb1utrswz",
+    "summary": "- Apple-designed chips in Macs, iPhones, and iPads have two vulnerabilities leaking sensitive data from Chrome and Safari.  \n- Vulnerabilities enable side channel attacks via speculative execution optimizations, affecting A- and M-series chip sets.  \n- The more significant attack, FLOP, can read sensitive data like location history and credit card info from targeted sites.  \n- SLAP is limited to reading adjacent strings from another webpage.  \n- Affected devices include recent Mac laptops, desktops, iPads, and iPhones since 2021.  \n- Researchers suggest potential mitigations and await patch plans from Apple, although Apple claims there's no immediate risk.",
+    "thumbnails": [
+      "https://cdn.arstechnica.net/wp-content/uploads/2025/01/flop-attack-illustration.jpg"
+    ],
+    "scores": {
+      "scale": 8,
+      "impact": 9,
+      "novelty": 7,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "Apple",
+      "vulnerabilities",
+      "chips",
+      "browser security",
+      "data leakage",
+      "FLOP",
+      "SLAP",
+      "side-channel attack",
+      "speculative execution",
+      "cybersecurity"
+    ],
+    "sources": [
+      {
+        "title": "Apple Chips Vulnerabilities Allow Data Leak from Browsers",
+        "link": "https://arstechnica.com/security/2025/01/newly-discovered-flaws-in-apple-chips-leak-secrets-in-safari-and-chrome/"
+      }
+    ],
+    "lastUpdated": "2025-03-12T03:22:03.319Z"
+  },
+  {
     "title": "New hack uses prompt injection to corrupt Gemini’s long-term memory",
     "id": "03tthkv0ljdv5b",
     "summary": "- Researcher Johann Rehberger demonstrated a new hack using indirect prompt injection on Google’s Gemini chatbot.\n- The hack allows permanent false memories to be stored in the chatbot, affecting future interactions.\n- Users can unknowingly upload untrusted documents containing hidden instructions that manipulate summarization and trigger the storage of false information in long-term memory.",
@@ -37314,262 +37347,5 @@
       }
     ],
     "lastUpdated": "2025-02-26T04:14:29.207Z"
-  },
-  {
-    "title": "Apple Shareholders Reject DEI Program Termination Amidst Broader Anti-DEI Movement",
-    "id": "1jg7kyo1xk2d8z",
-    "summary": "- OpenAI has replaced its DEI webpage with a new focus on 'building dynamic teams'.\n- This change was implemented between January 22 and January 27, shifting away from diversity to collaboration.\n- Conservatives are rallying against DEI initiatives, using it as a distraction from broader agendas.\n- Right-wing think tanks are promoting campaigns against DEI, linking it to perceived governmental waste.\n- The Chan Zuckerberg Initiative (CZI) ended its DEI efforts, citing a changing regulatory environment, and removed such commitments from its website.\n- Apple shareholders voted on February 25 against terminating DEI initiatives, following their board's recommendation to reject the proposal.\n- Other tech companies like Meta, Amazon, and Google are reevaluating their DEI efforts.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/01/1736490783_shutterstock_2568457807-scaled.jpg",
-      "https://cdn.techinasia.com/wp-content/uploads/2024/05/1714724175_Apple_Changsha_NewStore_09012021_Full-Bleed-Image.jpg.medium.jpg"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 6.38,
-      "novelty": 5,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "openai",
-      "dei",
-      "diversity",
-      "collaboration",
-      "equity",
-      "musk",
-      "conservatives",
-      "civil rights",
-      "racism",
-      "chan zuckerberg initiative",
-      "apple",
-      "shareholders"
-    ],
-    "sources": [
-      {
-        "title": "OpenAI replaces DEI page with focus on ‘dynamic teams’",
-        "link": "https://www.techinasia.com/news/openai-replaces-dei-page-focus-dynamic-teams"
-      },
-      {
-        "title": "The war on DEI is a smoke screen",
-        "link": "https://www.theverge.com/politics/613660/war-on-dei-smoke-screen-civil-rights-racism-eugenics"
-      },
-      {
-        "title": "Mark Zuckerberg’s charity guts DEI after assuring staff it would continue",
-        "link": "https://www.theguardian.com/technology/2025/feb/19/mark-zuckerberg-chan-dei"
-      },
-      {
-        "title": "Apple shareholders vote to keep DEI initiatives",
-        "link": "https://www.techinasia.com/news/apple-shareholders-vote-to-keep-dei-initiatives"
-      }
-    ],
-    "lastUpdated": "2025-02-26T03:19:33.242Z"
-  },
-  {
-    "title": "Nazara acquires 60% stake in kids play center Funky Monkey",
-    "id": "1cntv240egqhhv",
-    "summary": "- Nazara Technologies acquires 60% stake in Funky Monkeys Play Centers for 43.7 crore rupee (US$5.01 million).\n- The deal includes subscription of 3.61 lakh equity shares and purchase of 6.51 lakh shares.\n- Funky Monkeys operates 11 indoor play centers in India and is now a subsidiary of Nazara.\n- The acquisition aligns with Nazara’s expansion strategy announced in December 2024.\n- Nazara reported record revenue of 534.7 crore rupee (US$61.37 million) in Q3 FY25, but net profit fell to 13.7 crore rupee (US$1.57 million).",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2024/03/1710320209_Nitish-M-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "Nazara Technologies",
-      "Funky Monkeys",
-      "acquisition",
-      "children's entertainment",
-      "India",
-      "investments"
-    ],
-    "sources": [
-      {
-        "title": "Nazara acquires 60% stake in kids play center Funky Monkey",
-        "link": "https://www.techinasia.com/news/nazara-acquires-60-stake-in-kids-play-center-funky-monkey"
-      }
-    ],
-    "lastUpdated": "2025-02-26T03:19:33.242Z"
-  },
-  {
-    "title": "German startup wins accolade for its fusion reactor design",
-    "id": "0pbg0mm1o6w7xa",
-    "summary": "- Proxima Fusion, a German nuclear fusion startup, published plans for a working fusion power plant in a peer-reviewed journal.\n- Its ‘Stellaris’ design aims to operate reliably and continuously without the instabilities of other fusion reactors like tokamaks.\n- The company has raised $35 million from the EU and German government, targeting a fully operational reactor by 2031.\n- Competitors include Commonwealth Fusion Systems, backed by Bill Gates’s venture fund.\n- The findings were published in ‘Fusion Engineering and Design’ to support open-source science.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 8,
-      "impact": 9,
-      "novelty": 8,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "Proxima Fusion",
-      "fusion reactor",
-      "nuclear fusion",
-      "renewable energy",
-      "Stellaris design",
-      "clean energy",
-      "peer-reviewed journal",
-      "Germany"
-    ],
-    "sources": [
-      {
-        "title": "German startup wins accolade for its fusion reactor design",
-        "link": "https://techcrunch.com/2025/02/25/german-startup-wins-accolade-for-its-fusion-reactor-design/"
-      }
-    ],
-    "lastUpdated": "2025-02-26T03:19:33.242Z"
-  },
-  {
-    "title": "Flipkart-backed fintech super.money acquires BNPL startup",
-    "id": "09zxwew103b5sn",
-    "summary": "- super.money, supported by Flipkart, has acquired a Buy Now Pay Later (BNPL) startup.\n- This acquisition aims to enhance super.money's financial services offerings.\n- The deal indicates growing interest in BNPL solutions in the fintech sector.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/02/1740534871_gallery-9.png"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "super.money",
-      "Flipkart",
-      "fintech",
-      "BNPL",
-      "acquisition"
-    ],
-    "sources": [
-      {
-        "title": "Flipkart-backed fintech super.money acquires BNPL startup",
-        "link": "https://www.techinasia.com/news/flipkart-backed-fintech-super-money-acquires-bnpl-startup"
-      }
-    ],
-    "lastUpdated": "2025-02-26T03:19:33.242Z"
-  },
-  {
-    "title": "Elevation Capital chief operating officer steps down",
-    "id": "1rpdys91nebbq3",
-    "summary": "- Vivek Mathur steps down as COO of Elevation Capital after 14 years.\n- He plans to focus on advisory and mentorship roles.\n- Mathur supported various startups including ACKO, FirstCry, and Paytm.\n- He has over 30 years of experience in leadership roles at notable companies.\n- His departure coincides with Elevation Capital strengthening its leadership team.\n- Former Meta executive Krishna Mehra was appointed to lead SaaS and AI investments.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2022/04/1649395165_Elevation-Investment-Team-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 7,
-      "novelty": 5,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "Elevation Capital",
-      "Vivek Mathur",
-      "startup",
-      "leadership",
-      "mentorship",
-      "Krishna Mehra"
-    ],
-    "sources": [
-      {
-        "title": "Elevation Capital chief operating officer steps down",
-        "link": "https://www.techinasia.com/news/elevation-capital-chief-operating-officer-steps-down"
-      }
-    ],
-    "lastUpdated": "2025-02-26T03:19:33.241Z"
-  },
-  {
-    "title": "OpenAI expands deep research tool for all paid ChatGPT users",
-    "id": "1ta3lvw15ia5u4",
-    "summary": "- OpenAI expands its deep research tool to all paying ChatGPT users including Plus, Team, Enterprise, and Edu subscribers.\n- New users can now conduct up to 10 deep research queries monthly; Pro users have increased access to 120 queries.\n- The feature was previously reserved for Pro subscribers costing US$200 per month.\n- OpenAI continues to test and refine persuasive AI use cases amidst growing AI subscriptions.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/01/1737190385_shutterstock_2297562861-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 5,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "OpenAI",
-      "ChatGPT",
-      "research tool",
-      "AI subscriptions",
-      "deep research queries"
-    ],
-    "sources": [
-      {
-        "title": "OpenAI expands deep research tool for all paid ChatGPT users",
-        "link": "https://www.techinasia.com/news/openai-expands-deep-research-tool-paid-chatgpt-users"
-      }
-    ],
-    "lastUpdated": "2025-02-26T03:19:33.240Z"
-  },
-  {
-    "title": "India’s smartwatch shipments drop 30% as Apple jumps 141%",
-    "id": "1l376nr1wfkr0b",
-    "summary": "- In 2024, smartwatch shipments in India dropped 30% year-on-year, with Apple experiencing a 141% increase in shipments.\n- This surge follows a decline of 57% for Apple in 2023.\n- Counterpoint analysts predict the trend of consumers moving to advanced smartwatches will continue into 2025.\n- Apple holds about 2% of India’s smartwatch market, which shipped 35 million units last year.\n- The Apple Watch led the premium smartwatch segment, comprising 50% of total sales priced above $230.",
-    "thumbnails": [
-      "https://techcrunch.com/wp-content/uploads/2025/02/apple-watch-shipments-india.jpg",
-      "https://cdn.techinasia.com/wp-content/uploads/2025/02/1740528191_shutterstock_2365297039-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 7,
-      "novelty": 5.5,
-      "longTermSignificance": 5.5
-    },
-    "keywords": [
-      "apple watch",
-      "smartwatch",
-      "india",
-      "shipments",
-      "counterpoint",
-      "technology",
-      "market trends",
-      "apple"
-    ],
-    "sources": [
-      {
-        "title": "Apple Watch shipments surge in India",
-        "link": "https://techcrunch.com/2025/02/25/apple-watch-shipments-surge-in-india/"
-      },
-      {
-        "title": "India’s smartwatch shipments drop 30% as Apple jumps 141%",
-        "link": "https://www.techinasia.com/news/indias-smartwatch-shipments-drop-30-as-apple-jumps-141"
-      }
-    ],
-    "lastUpdated": "2025-02-26T03:19:33.239Z"
-  },
-  {
-    "title": "Emtek’s subsidiary boosts Bukalapak stake in $81.88m deal",
-    "id": "0mn6joz1pynbfc",
-    "summary": "- Kreatif Media Karya (KMK) increased its stake in PT Bukalapak.com Tbk by acquiring shares on Feb. 24, 2025.\n- KMK bought 9.73 billion shares at 138 rupiah (US$0.01), totaling 1.34 trillion rupiah (US$81.88 million).\n- KMK's ownership in Bukalapak rose from 24.61% to 34.05%, amounting to 35.12 billion shares controlled.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2023/10/1698032940_bukalapak-hq.jpg"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "Emtek",
-      "Bukalapak",
-      "KMK",
-      "stake acquisition",
-      "shares",
-      "investment",
-      "Indonesia"
-    ],
-    "sources": [
-      {
-        "title": "Emtek’s subsidiary boosts Bukalapak stake in $81.88m deal",
-        "link": "https://www.techinasia.com/news/emteks-subsidiary-boosts-bukalapak-stake-in-81-88m-deal"
-      }
-    ],
-    "lastUpdated": "2025-02-26T03:19:33.239Z"
   }
 ]
