@@ -4,6 +4,50 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Pokémon Go developer Niantic to sell gaming business to Saudi group",
+      "link": "https://www.theverge.com/news/615267/niantic-pokemon-go-scopely-acquisition-deal",
+      "author": "Jess Weatherbed",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195820/JESSICA_WEATHERBED.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Niantic Labs is selling its video game division to Saudi-owned Scopely for $3.5 billion.\n- The deal includes Niantic’s titles like Pokémon Go, Monster Hunter Now, and Pikmin Bloom.\n- The acquisition requires regulatory approval and will also include social apps Campfire and Wayfarer.\n- Pokémon Go attracted over 500 million players in its first year, but faced challenges during the COVID-19 pandemic.\n- The deal aligns with Saudi Arabia's investments in the gaming industry through its Public Investment Fund.",
+      "keywords": [
+        "Niantic",
+        "Scopely",
+        "Pokémon Go",
+        "gaming acquisition",
+        "Saudi investment",
+        "augmented reality games"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-12T12:00:00.000Z"
+    },
+    {
+      "title": "Google is fixing broken incoming images and videos in Messages",
+      "link": "https://www.theverge.com/news/628006/google-messages-media-issues-update-fix",
+      "author": "Jess Weatherbed",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25842654/STK093_GOOGLE_E.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "summary": "- Google Messages is updating to improve media receiving performance.\n- Updates address issues with slowdowns and failures in receiving images and videos.\n- Users reported problems with RCS, including slow loading, blurry images, and total failures to load attachments.\n- Google's community manager stated they are working on a solution and recently rolled out improvements.\n- Users are encouraged to provide feedback if issues persist after updates.",
+      "keywords": [
+        "Google Messages",
+        "media update",
+        "RCS issues",
+        "image loading",
+        "video loading",
+        "user feedback"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-12T11:11:32.000Z"
+    },
+    {
       "title": "Google calls Gemma 3 the most powerful AI model you can run on one GPU",
       "link": "https://www.theverge.com/ai-artificial-intelligence/627968/google-gemma-3-open-ai-model",
       "author": "Richard Lawler",
@@ -859,39 +903,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-03-10T21:48:49.000Z"
-    },
-    {
-      "title": "The entire story of Twitter / X under Elon Musk",
-      "link": "https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-03-10T21:36:30.000Z"
-    },
-    {
-      "title": "Nintendo's Alarmo uses the tech that could solve Joy-Con stick drift",
-      "link": "https://www.theverge.com/news/627171/nintendo-alarmo-alarm-clock-ifixit-teardown-magnetic-hall-effect-sensor",
-      "author": "Andrew Liszewski",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197412/headshot_andrewL_blackwhite.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=48",
-      "summary": "- Nintendo continues to use older Joy-Con hardware potentially causing joystick drift issues.\n- iFixit reveals Hall effect sensors in the new Alarmo alarm clock during a teardown.\n- Alarmo features a 2.4-inch LCD screen, 24GHz mmWave presence sensor, and a replaceable CR2032 battery for backup.\n- The inclusion of a magnet and Hall effect sensor is aimed at improving the durability and accuracy of its rotary dial.",
-      "keywords": [
-        "Nintendo",
-        "Alarmo",
-        "Joy-Con",
-        "teardown",
-        "Hall effect sensor",
-        "technology",
-        "gaming accessories"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-10T20:10:23.000Z"
     }
   ]
 }
