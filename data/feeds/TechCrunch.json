@@ -4,6 +4,28 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Dapr’s Microservices Runtime Now Supports AI Agents",
+      "link": "https://techcrunch.com/2025/03/12/daprs-microservices-runtime-now-supports-ai-agents/",
+      "author": "Frederic Lardinois",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/dapr_agents.png?w=680",
+      "summary": "- Dapr, an open-source runtime for microservices, now introduces Dapr Agents to help developers build AI agents.\n- Dapr's core feature of virtual actors allows for efficient processing of AI agent tasks, enabling scalability and resource efficiency.\n- The project originated from Floki, which enhanced Dapr for AI use cases; it is now integrated into Dapr's framework.\n- Dapr Agents can interface with popular model providers including AWS Bedrock and OpenAI, with support for local LLMs coming soon.\n- Currently, Dapr Agents supports Python, with plans to include .NET, Java, JavaScript, and Go shortly.",
+      "keywords": [
+        "Dapr",
+        "AI agents",
+        "microservices",
+        "open-source",
+        "cloud",
+        "developer tools"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-12T16:26:29.000Z"
+    },
+    {
       "title": "Sakana claims its AI-generated paper passed peer review — but it’s a bit more nuanced than that",
       "link": "https://techcrunch.com/2025/03/12/sakana-claims-its-ai-paper-passed-peer-review-but-its-a-bit-more-nuanced-than-that/",
       "author": "Kyle Wiggers",
@@ -921,30 +943,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-11T14:00:00.000Z"
-    },
-    {
-      "title": "Musk’s Starlink to launch in India through Airtel",
-      "link": "https://techcrunch.com/2025/03/11/starlink-india-launch-airtel-partnership/",
-      "author": "Jagmeet Singh",
-      "thumbnail": null,
-      "summary": "- Airtel partners with SpaceX to launch Starlink's satellite internet services in India.\n- Services depend on receiving regulatory approvals from IN-SPACe and the Department of Telecommunications.\n- SpaceX has previously faced issues for starting service rollouts without licenses.\n- Airtel plans to sell Starlink equipment through its stores and offer services to business customers.\n- Indian government has made moves to facilitate satellite services, including a new telecom bill in late 2023.\n- Starlink aims to enhance Airtel's product offerings to provide reliable broadband across India.",
-      "keywords": [
-        "Starlink",
-        "Airtel",
-        "SpaceX",
-        "satellite internet",
-        "India",
-        "telecommunications",
-        "regulatory approval",
-        "broadband services"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-11T13:27:32.000Z"
     }
   ]
 }
