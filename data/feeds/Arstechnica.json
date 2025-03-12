@@ -4,6 +4,52 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "New Intel CEO Lip-Bu Tan will pick up where Pat Gelsinger left off",
+      "link": "https://arstechnica.com/gadgets/2025/03/new-intel-ceo-lip-bu-tan-will-pick-up-where-pat-gelsinger-left-off/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Intel appoints Lip-Bu Tan as the new CEO effective March 18th, replacing interim co-CEOs David Zisner and Michelle Johnston Holthaus.\n- Former CEO Pat Gelsinger was ousted on December 2 after significant losses and layoffs, following his attempts to pivot Intel into a foundry business.\n- Zisner remains as executive vice president and CFO, while Johnston Holthaus continues as CEO of the Intel Products Group.\n- Tan has prior experience on Intel's board and with other technology firms like Hewlett Packard Enterprise and SMIC.",
+      "keywords": [
+        "Intel",
+        "CEO",
+        "Lip-Bu Tan",
+        "Pat Gelsinger",
+        "technology",
+        "chip manufacturing"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-12T22:12:39.000Z"
+    },
+    {
+      "title": "Android apps laced with North Korean spyware found in Google Play",
+      "link": "https://arstechnica.com/security/2025/03/researchers-find-north-korean-spy-apps-hosted-in-google-play/",
+      "author": null,
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/google-play-hosting-north-korean-spy-app-640x402.png",
+      "summary": "- Researchers found Android apps on Google Play that uploaded user information to North Korean spies.\n- The malware, named KoSpy, disguised itself as utility apps like file managers and security managers.\n- It collects sensitive data including SMS messages, call logs, and location, targeting English and Korean speakers.\n- Apps were also available on third-party markets like Apkpure.\n- Developer contact details included a Gmail address, and a dubious privacy policy was noted.",
+      "keywords": [
+        "North Korea",
+        "spyware",
+        "Android apps",
+        "Google Play",
+        "malware",
+        "privacy",
+        "security",
+        "KoSpy"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-12T22:03:11.000Z"
+    },
+    {
       "title": "Google’s new robot AI can fold delicate origami, close zipper bags without damage",
       "link": "https://arstechnica.com/ai/2025/03/googles-origami-folding-ai-brain-may-power-new-wave-of-humanoid-robots/",
       "author": null,
@@ -1130,55 +1176,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-01-10T23:10:57.000Z"
-    },
-    {
-      "title": "AI could create 78 million more jobs than it eliminates by 2030—report",
-      "link": "https://arstechnica.com/ai/2025/01/ai-could-create-78-million-more-jobs-than-it-eliminates-by-2030-report/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- The World Economic Forum's Future of Jobs Report 2025 estimates AI could create 170 million new jobs while eliminating 92 million by 2030, leading to a net increase of 78 million jobs.\n- 40% of companies plan workforce reductions due to AI, but two-thirds aim to hire talent with specific AI skills.\n- The report identifies growing demand for skills in AI, big data, networks, cybersecurity, and technological literacy.",
-      "keywords": [
-        "AI",
-        "jobs",
-        "World Economic Forum",
-        "Future of Jobs Report",
-        "automation",
-        "employment",
-        "skills",
-        "job market"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-10T17:52:29.000Z"
-    },
-    {
-      "title": "Ongoing attacks on Ivanti VPNs install a ton of sneaky, well-written malware",
-      "link": "https://arstechnica.com/security/2025/01/ivanti-vpn-users-are-getting-hacked-by-actors-exploiting-a-critical-vulnerability/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Ivanti VPN networks are under active attack exploiting the critical vulnerability CVE-2025-0282.\n- This vulnerability allows complete control over network-connected devices with no authentication required.\n- A security patch was released, upgrading Connect Secure devices to version 22.7R2.5.\n- Attackers exploit this vulnerability to install new malware packages, DRYHOOK and PHASEJAM.\n- PHASEJAM creates a web shell for remote access and simulates the upgrade process to deceive administrators.\n- SPAWNANT malware is also used to disable Ivanti's integrity checker for device files.",
-      "keywords": [
-        "Ivanti",
-        "VPN",
-        "cybersecurity",
-        "malware",
-        "vulnerability",
-        "CVE-2025-0282",
-        "DRYHOOK",
-        "PHASEJAM",
-        "SPAWNANT"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 9,
-        "novelty": 8,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-09T22:17:26.000Z"
     }
   ]
 }
