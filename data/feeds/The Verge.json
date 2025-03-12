@@ -4,6 +4,55 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Google calls Gemma 3 the most powerful AI model you can run on one GPU",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/627968/google-gemma-3-open-ai-model",
+      "author": "Richard Lawler",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/0007835275_20.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Google updates the Gemma AI model family with **Gemma 3**, targeting developers for creating versatile AI applications.\n- Claimed to be the **best single-accelerator model** globally, it outperforms **Facebook’s Llama**, **DeepSeek**, and **OpenAI** on a single GPU.\n- Introduces an updated vision encoder for high-res images and includes the **ShieldGemma 2** image safety classifier for filtering harmful content.\n- Despite advanced capabilities, tests indicate a **low risk** for misuse in creating harmful substances.\n- Google is offering **Cloud credits** and a **$10,000 Gemma 3 Academic program** for research.",
+      "keywords": [
+        "AI",
+        "Gemma 3",
+        "Google",
+        "Llama",
+        "DeepSeek",
+        "OpenAI",
+        "GPU",
+        "Machine Learning",
+        "Image Safety"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-12T07:46:13.000Z"
+    },
+    {
+      "title": "From ChatGPT to Gemini: how AI is rewriting the internet",
+      "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
+      "author": "Verge Staff",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/0007835275_20.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "summary": "- AI technology is reshaping online communication and user interaction.\n- Google's Gemini model claims to be the leading AI on a single GPU, integrating advanced functionalities and safety classifiers.\n- Major tech firms are competing intensely in AI development, with implications for user experience and operational capabilities.\n- AI tools are being deployed in various fields including healthcare, where Microsoft's Dragon Copilot is introduced to assist with clinical documentation.",
+      "keywords": [
+        "AI",
+        "Gemini",
+        "ChatGPT",
+        "Google",
+        "Microsoft",
+        "Healthcare",
+        "Technology",
+        "AI Models"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-12T07:46:13.000Z"
+    },
+    {
       "title": "All the news about Netflix’s gaming efforts",
       "link": "https://www.theverge.com/22772589/netflix-video-games-app-news-updates",
       "author": null,
@@ -843,54 +892,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-10T20:10:23.000Z"
-    },
-    {
-      "title": "How the EU’s DMA is changing Big Tech: all of the news and updates",
-      "link": "https://www.theverge.com/24040543/eu-dma-digital-markets-act-big-tech-antitrust",
-      "author": "Verge Staff",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25336519/STK450_EU_G.jpg?quality=90&amp;strip=all&amp;crop=0.95588235294118%2C0%2C98.088235294118%2C100&amp;w=2400",
-      "summary": "- The EU's Digital Markets Act (DMA) enforces stricter regulations on Big Tech, affecting companies like Apple and Google.\n- Apple plans to introduce sideloading and alternative app stores on the iPhone to comply with EU regulations.\n- Meta and Apple may soon face modest fines due to alleged violations; Google also rumored to face charges.\n- The EU aims for enhanced competition by implementing interoperability measures for major tech companies.",
-      "keywords": [
-        "EU",
-        "Digital Markets Act",
-        "Big Tech",
-        "Apple",
-        "Google",
-        "Meta",
-        "interoperability",
-        "sideloading",
-        "antitrust"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-10T19:43:26.000Z"
-    },
-    {
-      "title": "Apple is reportedly planning a design overhaul for iOS, iPadOS, and macOS",
-      "link": "https://www.theverge.com/news/627149/apple-ios-ipados-macos-design-overhaul",
-      "author": "Jay Peters",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195819/JAY_PETERS.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Apple plans a significant redesign for iOS 19, iPadOS 19, and macOS 16 later this year.\n- Changes will include updates to icons, menus, apps, windows, and system buttons to simplify user experience.\n- The design takes inspiration from Vision Pro’s visionOS, marking the biggest changes since macOS Big Sur and iOS 7.\n- Expected announcement at June's Worldwide Developers Conference, date not yet announced.",
-      "keywords": [
-        "Apple",
-        "iOS 19",
-        "iPadOS 19",
-        "macOS 16",
-        "design overhaul",
-        "Vision Pro",
-        "software updates"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-10T19:34:50.000Z"
     }
   ]
 }
