@@ -4,6 +4,32 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Google’s new robot AI can fold delicate origami, close zipper bags without damage",
+      "link": "https://arstechnica.com/ai/2025/03/googles-origami-folding-ai-brain-may-power-new-wave-of-humanoid-robots/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Google DeepMind announced two new AI models, Gemini Robotics and Gemini Robotics-ER, aimed at improving robot interactions with the physical world.\n- These models use a foundation from the Gemini 2.0 large language model and feature vision-language-action capabilities for better task execution.\n- Gemini Robotics can perform complex tasks, such as folding origami and packing snacks, showcasing significant advancements over previous models like RT-2.\n- The system reportedly shows improved generalization, allowing it to adapt to novel tasks without specific training.\n- Google partnered with Apptronik to develop humanoid robots using the new Gemini models, marking a new direction in robotics.\n- The initiative also emphasizes robot safety, inspired by Asimov's Three Laws of Robotics, and introduces a dataset called ASIMOV for evaluating robotic safety implications.",
+      "keywords": [
+        "Google",
+        "DeepMind",
+        "robotics",
+        "AI models",
+        "Gemini Robotics",
+        "origami",
+        "humanoid robots",
+        "robot safety",
+        "visible-action",
+        "generalization"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 9,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-12T19:38:57.000Z"
+    },
+    {
       "title": "OpenAI pushes AI agent capabilities with new developer API",
       "link": "https://arstechnica.com/ai/2025/03/openai-pushes-ai-agent-capabilities-with-new-developer-api/",
       "author": null,
@@ -1153,28 +1179,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-01-09T22:17:26.000Z"
-    },
-    {
-      "title": "How the UK was connected to the Internet for the first time",
-      "link": "https://arstechnica.com/culture/2025/01/how-the-uk-was-connected-to-the-internet-for-the-first-time/",
-      "author": "Peter Kirstein, Michael Parker, Jon Crowcroft",
-      "thumbnail": "null",
-      "summary": "- Peter Kirstein reflects on the challenges faced in connecting the UK to the early Internet in the 1970s.\n- The Internet's origins trace back to defense needs during the Cold War, evolving from Arpanet.\n- In July 1973, the first connection from the UK to Arpanet was successfully established via a link to Norway.\n- The first password on the Internet was implemented by Kirstein to secure access to UK resources on Arpanet.",
-      "keywords": [
-        "UK",
-        "Internet",
-        "Arpanet",
-        "Peter Kirstein",
-        "history",
-        "telecommunications"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-09T17:11:54.000Z"
     }
   ]
 }
