@@ -1,5 +1,33 @@
 [
   {
+    "title": "New hack uses prompt injection to corrupt Gemini’s long-term memory",
+    "id": "03tthkv0ljdv5b",
+    "summary": "- Researcher Johann Rehberger demonstrated a new hack using indirect prompt injection on Google’s Gemini chatbot.\n- The hack allows permanent false memories to be stored in the chatbot, affecting future interactions.\n- Users can unknowingly upload untrusted documents containing hidden instructions that manipulate summarization and trigger the storage of false information in long-term memory.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 6,
+      "impact": 7,
+      "novelty": 8,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "AI hacking",
+      "prompt injection",
+      "Google Gemini",
+      "long-term memory",
+      "cybersecurity",
+      "data exfiltration",
+      "malicious prompts"
+    ],
+    "sources": [
+      {
+        "title": "New hack uses prompt injection to corrupt Gemini’s long-term memory",
+        "link": "https://arstechnica.com/security/2025/02/new-hack-uses-prompt-injection-to-corrupt-geminis-long-term-memory/"
+      }
+    ],
+    "lastUpdated": "2025-03-12T02:17:59.790Z"
+  },
+  {
     "title": "Vergil is out for blood in the latest trailer for Netflix’s Devil May Cry series",
     "id": "1jcugq907m4zbg",
     "summary": "- Netflix released a new trailer for the upcoming adaptation of *Devil May Cry*, debuting on April 3rd.\n- The trailer reveals various characters and their intentions against the demon hunter, Dante, voiced by Johnny Yong Bosch.\n- Human soldiers, like Lady, see Dante as a threat due to his demonic heritage, adding complexity to the storyline.\n- The series will incorporate elements from the *Devil May Cry* games and official manga, promising a richer narrative.",
@@ -37543,322 +37571,5 @@
       }
     ],
     "lastUpdated": "2025-02-26T03:19:33.239Z"
-  },
-  {
-    "title": "Agentic AI could usher in a new era of AI capabilities",
-    "id": "0u7ujva1vgtwbf",
-    "summary": "- Agentic AI can make its own decisions to fulfill objectives without human prompting.\n- Unlike traditional AI, which requires step-by-step instructions, agentic AI operates with broader end goals.\n- Christopher Cai from AngelHack highlights the importance of policy and governance for agentic AI reliability.\n- A self-directed learning aspect allows models to check their own outputs for accuracy.\n- Implementing agentic AI in organizations faces challenges due to data integration across many existing systems.\n- Adoption of agentic AI technologies may occur gradually, influenced by established regulations and policies.\n- Significant industry interest from companies like Nvidia suggests rapid advancement and integration of this technology.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2024/11/1732263331_VC-Newsletter-GIF-AI-here-there-and-everywhere-1200x640-1.gif"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 9,
-      "longTermSignificance": 8
-    },
-    "keywords": [
-      "agentic AI",
-      "AI capabilities",
-      "self-directed learning",
-      "automation",
-      "technology integration",
-      "Nvidia"
-    ],
-    "sources": [
-      {
-        "title": "Agentic AI could usher in a new era of AI capabilities",
-        "link": "https://www.techinasia.com/agentic-ai-usher-era-ai-capabilities"
-      }
-    ],
-    "lastUpdated": "2025-02-26T02:16:26.848Z"
-  },
-  {
-    "title": "Alibaba to launch open-source video AI model",
-    "id": "0sjso1a13perbe",
-    "summary": "- Alibaba plans to release an open-source version of its video and image-generating AI model, Wan 2.1.\n- A recorded video detailing the launch will be shared on Feb. 25 at 11 p.m. local time.\n- This initiative comes amid rising competition in China's AI sector from companies like DeepSeek.\n- The model is known for its capability to produce realistic visuals, having been introduced as Wanx in January before rebranding to Wan.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2023/02/1676883811_alibaba.jpg"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 7,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "Alibaba",
-      "AI",
-      "open-source",
-      "video generation",
-      "image generation"
-    ],
-    "sources": [
-      {
-        "title": "Alibaba to launch open-source video AI model",
-        "link": "https://www.techinasia.com/news/alibaba-launch-opensource-video-ai-model"
-      }
-    ],
-    "lastUpdated": "2025-02-26T02:16:26.847Z"
-  },
-  {
-    "title": "Israeli AI Recruitment Startup Perfect Secures $23M Seed Funding",
-    "id": "0n3hy1i1aafm9k",
-    "summary": "- 79% of legal firms utilized some form of AI for casework in 2024, up from 19% in 2023.\n- SpotDraft, founded in 2017, offers contract automation solutions and has around 400 customers.\n- CEO Shashank Bijapur sees 2025 as a pivotal year for advancing AI in their offerings.\n- SpotDraft raised $54 million in a Series B round, bringing total funding to over $80 million for R&D and market expansion.\n- The legaltech sector saw $2.6 billion in VC funding in 2024, rebounding from a low of under $1 billion in 2023.\n\n- Startup Perfect, based in Israel, has raised $23 million in seed funding to improve recruitment processes using AI.\n- The platform helps recruiters by saving them up to 25 hours of work per week and has grown its customer base from 20 to 200 businesses, including Fiverr and eToro.\n- Perfect's founder, Eylon Etshtein, aims to replace outdated recruitment methods with proprietary data and automation to enhance recruitment efficiency.\n\n- Funding will be used to develop an AI-driven recruitment platform that enhances sourcing and hiring processes.\n- The platform assists hiring teams with drafting job postings, selecting distribution channels, and managing applications.\n- It aims to compete with tools like Indeed, Recruiter, and LinkedIn.\n- Perfect was founded by Eylon Etshtein, who has a background in facial recognition technology.",
-    "thumbnails": [
-      "https://techcrunch.com/wp-content/uploads/2025/02/spotdraft-screenshot-2.webp?w=680",
-      "https://cdn.techinasia.com/wp-content/uploads/2024/12/1735011218_shutterstock_1956837997-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 7,
-      "novelty": 5.5,
-      "longTermSignificance": 6.5
-    },
-    "keywords": [
-      "ai",
-      "contract management",
-      "legaltech",
-      "spotdraft",
-      "funding",
-      "automation",
-      "in-house counsel",
-      "recruitment",
-      "startup",
-      "technology",
-      "israel",
-      "perfect"
-    ],
-    "sources": [
-      {
-        "title": "SpotDraft taps AI to help streamline contract management",
-        "link": "https://techcrunch.com/2025/02/12/spotdraft-taps-ai-to-help-streamline-contract-management/"
-      },
-      {
-        "title": "Perfect taps $23M to fix the flaws in recruitment with AI",
-        "link": "https://techcrunch.com/2025/02/25/perfect-taps-23m-to-fix-the-flaws-in-recruitment-with-ai/"
-      },
-      {
-        "title": "Israeli AI recruitment startup secures $23m seed funding",
-        "link": "https://www.techinasia.com/news/israeli-ai-recruitment-startup-secures-23m-seed-funding"
-      }
-    ],
-    "lastUpdated": "2025-02-26T02:16:26.846Z"
-  },
-  {
-    "title": "Claude: Everything you need to know about Anthropic’s AI",
-    "id": "0ogttzs16epzj5",
-    "summary": "- Anthropic's Claude models can perform various tasks like captioning, writing, and solving challenges.  \n- Latest models include Claude 3.5 Haiku, Claude 3.7 Sonnet, and Claude 3 Opus; with Sonnet being the flagship model optimized for reasoning.  \n- Pricing: Claude 3.5 Haiku ($0.80/million input tokens), Claude 3.7 Sonnet ($3/million input tokens), Claude 3 Opus ($15/million input tokens).  \n- Available through Anthropic's API and platforms like Amazon Bedrock and Google Cloud.  \n- Users can choose reasoning modes with Claude 3.7 Sonnet, enhancing its ability to analyze prompts.  \n- Risks of AI models include potential inaccuracies, hallucinations, and copyright concerns from training data.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "Claude",
-      "Anthropic",
-      "AI models",
-      "generative AI",
-      "AI capabilities",
-      "AI pricing",
-      "reasoning models"
-    ],
-    "sources": [
-      {
-        "title": "Claude: Everything you need to know about Anthropic’s AI",
-        "link": "https://techcrunch.com/2025/02/25/claude-everything-you-need-to-know-about-anthropics-ai/"
-      }
-    ],
-    "lastUpdated": "2025-02-26T02:16:26.846Z"
-  },
-  {
-    "title": "‘We’re nowhere near done with Framework Laptop 16’ says Framework CEO",
-    "id": "0h051z619o02j6",
-    "summary": "- Framework Laptop 16 was initially highlighted two years ago as an ambitious upgradable graphics laptop.\n- At a recent event, the focus shifted to the new Framework Desktop, with little mention of Laptop 16's advancements.\n- A new One Key Module will allow the community to create custom keyboards for the Laptop 16.\n- The Framework CEO, Nirav Patel, affirmed that they are still working on Laptop 16, but declined to provide details on GPU upgrades or future mainboard updates.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/SCR-20250225-osmm.jpeg?quality=90&strip=all&crop=0,0,100,100"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 6,
-      "novelty": 5,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "Framework Laptop 16",
-      "Nirav Patel",
-      "upgradable GPU",
-      "One Key Module",
-      "Framework Desktop"
-    ],
-    "sources": [
-      {
-        "title": "‘We’re nowhere near done with Framework Laptop 16’ says Framework CEO",
-        "link": "https://www.theverge.com/news/619586/framework-laptop-16-update-one-key-but-not-done"
-      }
-    ],
-    "lastUpdated": "2025-02-26T02:16:26.846Z"
-  },
-  {
-    "title": "DeepSeek Reopens API Access After Three-Week Suspension",
-    "id": "0xqtnay0rleapy",
-    "summary": "- Chinese AI startup DeepSeek resumes API access after a three-week service pause due to capacity issues.\n- Customers can start topping up credits for API use from February 25, 2025.\n- DeepSeek's R1 reasoning model is noteworthy for its competitiveness with OpenAI models, prompting OpenAI to consider more open-source options.\n- Alibaba introduces a preview of its reasoning AI model, QwQ-Max, aiming for open-source release, indicating increased competition in the AI sector of China.",
-    "thumbnails": [
-      "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2195739346.jpg?w=1024",
-      "https://cdn.techinasia.com/wp-content/uploads/2025/02/1738558424_shutterstock_2578067769-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 7,
-      "novelty": 6,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "deepseek",
-      "api",
-      "artificial intelligence",
-      "openai",
-      "alibaba",
-      "reasoning model",
-      "technology",
-      "ai",
-      "suspension",
-      "china"
-    ],
-    "sources": [
-      {
-        "title": "DeepSeek reopens access to its API after three-week pause",
-        "link": "https://techcrunch.com/2025/02/25/deepseek-reopens-access-to-its-api-after-three-week-pause/"
-      },
-      {
-        "title": "DeepSeek reopens AI model access after suspension",
-        "link": "https://www.techinasia.com/news/deepseek-reopens-ai-model-access-suspension"
-      }
-    ],
-    "lastUpdated": "2025-02-26T02:16:26.845Z"
-  },
-  {
-    "title": "Vanguard warns Trump’s tariffs may raise inflation",
-    "id": "1qs0ced0olpvuf",
-    "summary": "- Vanguard International Semiconductor warns that US tariffs on semiconductor imports could lead to inflation and slow global economic growth.\n- The company's direct exposure to these tariffs is expected to be minimal.\n- Chairman Leuh Fang expressed uncertainty regarding the US administration’s tariff proposals, amidst ongoing trade tensions due to a proposed 25% tariff on imports including semiconductors.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2024/06/1717575969_Vanguard-International-Semiconductor-Corporation.jpeg"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 5,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "Vanguard",
-      "tariffs",
-      "inflation",
-      "semiconductors",
-      "US tariffs",
-      "trade tensions"
-    ],
-    "sources": [
-      {
-        "title": "Vanguard warns Trump’s tariffs may raise inflation",
-        "link": "https://www.techinasia.com/news/vanguard-warns-trumps-tariffs-raise-inflation"
-      }
-    ],
-    "lastUpdated": "2025-02-26T02:16:26.845Z"
-  },
-  {
-    "title": "Razer’s new Blade 18 offers Nvidia RTX 50-series GPUs and a dual mode display",
-    "id": "0umvaae1o3zaxy",
-    "summary": "- Razer launches the new Blade 18 gaming laptop now available for preorder.\n- Features include Nvidia RTX 50-series GPUs and Intel Arrow Lake CPUs.\n- The 18-inch display offers dual modes: 3840 x 2400 at 240Hz or 1920 x 1200 at 440Hz.\n- Starting price is $3,199.99 for RTX 5070 Ti, up to $4,499.99 for RTX 5090.\n- Shipping expected by late-April for both Blade 18 and Blade 16.\n- Competing laptops with RTX 50-series GPUs are also being offered by ASUS, MSI, and HP.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/asus-rog-2025-lineup.webp?quality=90&strip=all&crop=0,4.1218637992831,100,91.756272401434&w=2400"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "Razer",
-      "Blade 18",
-      "gaming laptop",
-      "Nvidia RTX 50-series",
-      "Intel Arrow Lake",
-      "dual mode display",
-      "preorder",
-      "Asus",
-      "MSI",
-      "HP"
-    ],
-    "sources": [
-      {
-        "title": "Razer’s new Blade 18 offers Nvidia RTX 50-series GPUs and a dual mode display",
-        "link": "https://www.theverge.com/news/619052/razer-blade-18-nvidia-rtx-5090-gaming-laptop-preorder-asus-msi"
-      }
-    ],
-    "lastUpdated": "2025-02-26T02:16:26.845Z"
-  },
-  {
-    "title": "Consumers are connected more than ever before",
-    "id": "1y0y3220ug9fbw",
-    "summary": "- Technology is rapidly integrating into society, impacting consumer relationships.\n- Verizon’s annual <a href=\"https://www.verizon.com/about/connections?CMP=OLA_CON_OTH_44444_NA_20240208_NA_NM20240021_00001\"><em>Consumer Connections Report</em></a> explores digital and physical shopping experiences and home connectivity trends.\n- Parents are using technology to monitor children's usage, focusing on apps like Tumblr and Snapchat.\n- Monthly data usage per Verizon Home Internet household increased to 656 GB.\n- Brick-and-mortar retail is rebounding, with 62% of Verizon customers purchasing in-store.\n- Fans utilize 5G technology to enhance their NFL game experience, with data use rising by 37% this season.\n- Holiday season data use at airports peaked at 17.7 million GB, with significant video usage.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 8,
-      "impact": 7,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "technology",
-      "consumer behavior",
-      "home connectivity",
-      "5G",
-      "retail trends",
-      "data usage"
-    ],
-    "sources": [
-      {
-        "title": "Consumers are connected more than ever before",
-        "link": "https://www.fastcompany.com/91284232/consumers-are-connected-more-than-ever-before?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
-      }
-    ],
-    "lastUpdated": "2025-02-26T02:16:26.844Z"
-  },
-  {
-    "title": "Apple Chips Vulnerabilities Allow Data Leak from Browsers",
-    "id": "0vk64gw017t562",
-    "summary": "- Apple-designed chips in Macs, iPhones, and iPads have two vulnerabilities leaking sensitive data from Chrome and Safari.  \n- Vulnerabilities enable side channel attacks via speculative execution optimizations, affecting A- and M-series chip sets.  \n- The more significant attack, FLOP, can read sensitive data like location history and credit card info from targeted sites.  \n- SLAP is limited to reading adjacent strings from another webpage.  \n- Affected devices include recent Mac laptops, desktops, iPads, and iPhones since 2021.  \n- Researchers suggest potential mitigations and await patch plans from Apple, although Apple claims there's no immediate risk.",
-    "thumbnails": [
-      "https://cdn.arstechnica.net/wp-content/uploads/2025/01/flop-attack-illustration.jpg"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 9,
-      "novelty": 7,
-      "longTermSignificance": 8
-    },
-    "keywords": [
-      "Apple",
-      "vulnerabilities",
-      "chips",
-      "browser security",
-      "data leakage",
-      "FLOP",
-      "SLAP",
-      "side-channel attack",
-      "speculative execution",
-      "cybersecurity"
-    ],
-    "sources": [
-      {
-        "title": "Apple Chips Vulnerabilities Allow Data Leak from Browsers",
-        "link": "https://arstechnica.com/security/2025/01/newly-discovered-flaws-in-apple-chips-leak-secrets-in-safari-and-chrome/"
-      }
-    ],
-    "lastUpdated": "2025-02-26T02:16:26.833Z"
   }
 ]
