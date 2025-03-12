@@ -4,6 +4,102 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Sakana claims its AI-generated paper passed peer review — but it’s a bit more nuanced than that",
+      "link": "https://techcrunch.com/2025/03/12/sakana-claims-its-ai-paper-passed-peer-review-but-its-a-bit-more-nuanced-than-that/",
+      "author": "Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/paper_abstract.png?w=680",
+      "summary": "- Japanese startup Sakana claimed its AI-generated paper is the first to pass peer review, but with caveats.  \n- Sakana used AI called The AI Scientist-v2 to generate and submit three papers to an ICLR workshop, with one accepted before withdrawal for transparency.  \n- Critics note the acceptance rate is higher for workshops; many believe AI isn't ready to independently contribute to science yet.",
+      "keywords": [
+        "Sakana",
+        "AI-generated papers",
+        "peer review",
+        "science",
+        "ICLR",
+        "artificial intelligence",
+        "research"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-12T16:00:02.000Z"
+    },
+    {
+      "title": "Moonvalley releases a video generator it claims was trained on licensed content",
+      "link": "https://techcrunch.com/2025/03/12/moonvalley-releases-a-video-generator-it-claims-was-trained-on-licensed-content/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Moonvalley launches 'Marey', an AI video-generating model trained on openly licensed data.\n- Marey offers customization options for in-scene movements, enabling nuanced control.\n- The model generates HD clips up to 30 seconds and emphasizes lower legal risks compared to competitors.\n- Moonvalley is making licensing arrangements to mitigate copyright concerns, similar to Adobe's approach.\n- Concerns exist among artists about the impact of AI on jobs in the film and television industry.\n- The company allows creators to remove their content from models and offers protective policies for users against copyright challenges.",
+      "keywords": [
+        "Moonvalley",
+        "AI video generation",
+        "licensed content",
+        "creative rights",
+        "Naeem Talukdar",
+        "Marey",
+        "animation industry",
+        "copyright concerns",
+        "video generator"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-12T16:00:00.000Z"
+    },
+    {
+      "title": "Snap introduces AI Video Lenses powered by its in-house generative model",
+      "link": "https://techcrunch.com/2025/03/12/snap-introduces-ai-video-lenses-powered-by-its-in-house-generative-model/",
+      "author": "Aisha Malik",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Img2Video-Lenses-3.gif?w=680",
+      "summary": "- Snapchat launches its first AI Video Lenses, powered by an in-house generative video model.\n- Available exclusively to Snapchat Platinum subscribers for $15.99/month.\n- Initial offerings include \"Raccoon,\" \"Fox,\" and \"Spring Flowers\" Lenses.\n- New Lenses allow for AI-generated videos that save automatically to Memories.\n- Snap aims to stay competitive against platforms like Instagram and TikTok with these innovative features.\n- The company plans to introduce additional Lenses weekly.",
+      "keywords": [
+        "Snapchat",
+        "AI Video Lenses",
+        "generative AI",
+        "Snapchat Platinum",
+        "social media",
+        "AR",
+        "video generation"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-12T16:00:00.000Z"
+    },
+    {
+      "title": "Garantex administrator arrested in India under extradition law",
+      "link": "https://techcrunch.com/2025/03/12/garantex-administrator-arrested-in-india-under-extradition-law/",
+      "author": "Jagmeet Singh, Lorenzo Franceschi-Bicchierai",
+      "thumbnail": "null",
+      "summary": "• Indian police arrested Aleksej Besciokov, co-founder of Garantex, under India’s extradition law.\n• Arrest occurred in Varkala, Kerala, following a warrant issued by the Patiala House Court in New Delhi.\n• U.S. Department of Justice charged Besciokov for facilitating money laundering linked to North Korean hackers.\n• Besciokov will be transferred to Patiala Court to face unspecified extradition charges.\n• Garantex has temporarily halted operations since the U.S. seizure of its websites and freezing of over $26 million in cryptocurrency assets.\n• The exchange plans to compensate users for blocked assets through rehabilitation procedures once completed.",
+      "keywords": [
+        "Garantex",
+        "cryptocurrency",
+        "arrest",
+        "extradition",
+        "Aleksej Besciokov",
+        "money laundering",
+        "North Korea",
+        "police",
+        "India"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-12T15:55:29.000Z"
+    },
+    {
       "title": "Why Onyx thinks its open-source solution will win enterprise search",
       "link": "https://techcrunch.com/2025/03/12/why-onyx-thinks-its-open-source-solution-will-win-enterprise-search/",
       "author": "Becca Szkutak",
@@ -849,100 +945,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-11T13:27:32.000Z"
-    },
-    {
-      "title": "Junction, an API to link health wearables with labs, raises $18M",
-      "link": "https://techcrunch.com/2025/03/11/junction-an-api-to-link-health-wearables-with-labs-raises-18m/",
-      "author": "Mike Butcher",
-      "thumbnail": null,
-      "summary": "- Junction, formerly known as Vital, raised $18 million in Series A funding led by [Creandum](https://creandum.com/).  \n- The company provides an API to integrate health wearables with laboratory services to improve healthcare outcomes.  \n- Junction's platform connects over 500 devices and plans to facilitate a million lab tests this year across 50 US states.",
-      "keywords": [
-        "health wearables",
-        "medical devices",
-        "API",
-        "lab testing",
-        "healthcare integration",
-        "Junction",
-        "funding",
-        "chronic diseases"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-11T13:00:00.000Z"
-    },
-    {
-      "title": "General Fusion fires up its newest steampunk fusion reactor",
-      "link": "https://techcrunch.com/2025/03/11/general-fusion-fires-up-its-newest-steampunk-fusion-reactor/",
-      "author": "Tim De Chant",
-      "thumbnail": null,
-      "summary": "- General Fusion has successfully created plasma inside its prototype reactor, Lawson Machine 26 (LM26).\n- This achievement marks the start of a 93-week quest to demonstrate the viability of their steampunk fusion approach.\n- The reactor was assembled in 16 months and aims to reach breakeven by 2026.\n- General Fusion, founded in 2002, has raised $440 million and is one of the oldest fusion companies still operational.\n- Important milestones for fusion involve commercial and scientific breakeven; only the U.S. Department of Energy's National Ignition Facility has achieved scientific breakeven.\n- General Fusion's magnetized target fusion (MTF) differs from traditional methods, using steam-driven pistons rather than lasers.\n- LM26 currently lacks a liquid lithium wall, utilizing solid lithium, which limits testing capabilities.",
-      "keywords": [
-        "fusion",
-        "plasma",
-        "fusion reactor",
-        "General Fusion",
-        "Lawson Machine 26",
-        "fusion technology",
-        "energy",
-        "MTF"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-11T11:38:51.000Z"
-    },
-    {
-      "title": "Zolve, a neobank for global citizens moving to the US, raises $51M and secures $200M debt",
-      "link": "https://techcrunch.com/2025/03/11/zolve-a-neobank-for-global-citizens-moving-to-the-us-raises-51m-and-secures-200m-debt/",
-      "author": "Jagmeet Singh",
-      "thumbnail": null,
-      "summary": "- Zolve, a neobank for global citizens relocating to the U.S., raised $251 million to expand its services.\n- The startup provides financial services without requiring U.S. credit history, using home country credit data.\n- Zolve aims to introduce loans and expand operations to Canada, the UK, and Australia in the next year.",
-      "keywords": [
-        "Zolve",
-        "neobank",
-        "global citizens",
-        "funding",
-        "financial services",
-        "credit history"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-11T11:30:00.000Z"
-    },
-    {
-      "title": "Sola emerges from stealth with $30M to build the ‘Stripe for security’",
-      "link": "https://techcrunch.com/2025/03/11/sola-emerges-from-stealth-with-30m-to-build-the-stripe-for-security/",
-      "author": "Ingrid Lunden",
-      "thumbnail": null,
-      "summary": "- Sola has developed a low/no-code platform for creating custom cybersecurity apps.\n- The startup has secured $30 million in seed funding to enhance its services.\n- Co-founders Guy Flechter and Ron Peled aim to democratize security app development.\n- They propose a third option for security solutions, combining features of commercial and open-source tools.\n- The platform utilizes AI and big data to assist users without extensive technical skills.\n- It offers capabilities for querying existing security app data and includes pre-made apps for various functions.",
-      "keywords": [
-        "cybersecurity",
-        "Sola",
-        "low-code",
-        "AI",
-        "seed funding",
-        "custom applications",
-        "information security",
-        "startups"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-11T11:10:42.000Z"
     }
   ]
 }
