@@ -4,6 +4,30 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "North Korean government hackers snuck spyware on Android app store",
+      "link": "https://techcrunch.com/2025/03/12/north-korean-government-hackers-snuck-spyware-on-android-app-store/",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/kospy-google-play-screenshot.png?w=680",
+      "summary": "- North Korean hackers uploaded spyware (KoSpy) on the Google Play app store.\n- The campaign is suspected to target individuals, possibly in South Korea.\n- KoSpy collects sensitive data like SMS, call logs, location, and media from devices.\n- The malware was downloaded over 10 times before being removed by Google.\n- Lookout, the cybersecurity firm, detailed the findings in a report shared with TechCrunch.\n- Google responded by removing the identified apps and deactivating associated projects.",
+      "keywords": [
+        "North Korea",
+        "hackers",
+        "spyware",
+        "Android",
+        "Google Play",
+        "KoSpy",
+        "cybersecurity",
+        "Lookout"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-12T10:00:00.000Z"
+    },
+    {
       "title": "Elea AI Targets Pathology Labs to Boost Healthcare Productivity",
       "link": "https://techcrunch.com/2025/03/12/elea-ai-is-chasing-the-healthcare-productivity-opportunity-by-targeting-pathology-labs-legacy-systems/",
       "author": null,
@@ -923,16 +947,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-03-10T20:55:59.000Z"
-    },
-    {
-      "title": "In another chess move with Microsoft, OpenAI is pouring $12B into CoreWeave",
-      "link": "https://techcrunch.com/2025/03/10/in-another-chess-move-with-microsoft-openai-is-pouring-12b-into-coreweave/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-03-10T20:50:27.000Z"
     }
   ]
 }
