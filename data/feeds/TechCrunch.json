@@ -4,6 +4,32 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Sesame, the startup behind the viral virtual assistant Maya, releases its base AI model",
+      "link": "https://techcrunch.com/2025/03/13/sesame-the-startup-behind-the-viral-virtual-assistant-maya-releases-its-base-ai-model/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- AI company [Sesame](https://www.sesame.com/) releases the base model, CSM-1B, for its voice assistant Maya.\n- CSM-1B has 1 billion parameters and is available under an Apache 2.0 license for commercial use.\n- The model utilizes residual vector quantization (RVQ) for encoding audio, similar to technologies used by Google and Meta.\n- It generates audio codes from text and has the potential for various voices but is not fine-tuned for specific ones.\n- Sesame warns users against misusing the model for voice imitation or creating misleading content.\n- The company, co-founded by Brendan Iribe, has recently gained popularity for its advanced assistant technologies.",
+      "keywords": [
+        "Sesame",
+        "Maya",
+        "AI model",
+        "voice assistant",
+        "RVQ",
+        "CSM-1B",
+        "Brendan Iribe",
+        "speech synthesis",
+        "audio technology",
+        "finetuning"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-13T22:45:29.000Z"
+    },
+    {
       "title": "Rad Power Bikes already has a new CEO",
       "link": "https://techcrunch.com/2025/03/13/rad-power-bikes-already-has-a-new-ceo/",
       "author": "Sean O’Kane",
@@ -1161,34 +1187,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-12T20:09:46.000Z"
-    },
-    {
-      "title": "The people in Elon Musk’s DOGE universe",
-      "link": "https://techcrunch.com/2025/03/12/the-people-in-elon-musk-doge-universe/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Elon Musk's ecosystem includes experienced engineers, advisors, and new talent from his companies like Tesla and SpaceX.\n- Recent interactions between Musk's team and the U.S. federal government show a significant melding of private and public sectors.\n- TechCrunch's investigation reveals details about DOGE's operations and its workforce, including recent staff cuts in response to federal budget constraints.\n- Key figures include Elon Musk as DOGE Lead and various employees from Musk's ventures, highlighting a tight-knit network of professionals.\n- The article outlines the roles of several individuals, illustrating Musk's influence and connections across the tech industry and government.",
-      "keywords": [
-        "Elon Musk",
-        "DOGE",
-        "government",
-        "Silicon Valley",
-        "SpaceX",
-        "Tesla",
-        "technology",
-        "federal government",
-        "Trump administration",
-        "engineering",
-        "advisors",
-        "cybersecurity"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-12T19:15:40.000Z"
     }
   ]
 }
