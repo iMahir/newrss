@@ -1,5 +1,195 @@
 [
   {
+    "title": "North Korean Spyware Found in Google Play and Confusing Notifications in Apple’s Lockdown Mode",
+    "id": "06sji5308cion7",
+    "summary": "- North Korean hackers uploaded spyware (KoSpy) on the Google Play app store targeting individuals, possibly in South Korea.\n- KoSpy collects sensitive data such as SMS, call logs, location, and media from devices and was downloaded over 10 times before Google removed it.\n- Lookout cybersecurity firm detailed findings in a report; Google responded by removing the apps and deactivating related projects.\n- The malware, disguised as utility apps, also appeared on third-party markets like Apkpure.\n- Apple’s Lockdown Mode launched in 2022 to protect users from hacking, beneficial for journalists and activists.\n- User feedback highlights notifications about blocked contacts as confusing, lacking context and effectiveness.\n- Notifications appear even when messages are successfully received, creating uncertainty regarding Lockdown Mode operations.",
+    "thumbnails": [
+      "https://techcrunch.com/wp-content/uploads/2025/03/kospy-google-play-screenshot.png?w=680",
+      "https://cdn.arstechnica.net/wp-content/uploads/2025/03/google-play-hosting-north-korean-spy-app-640x402.png"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8.25,
+      "novelty": 6,
+      "longTermSignificance": 6.5
+    },
+    "keywords": [
+      "north korea",
+      "hackers",
+      "spyware",
+      "android",
+      "google play",
+      "kospy",
+      "cybersecurity",
+      "lookout",
+      "android apps",
+      "malware",
+      "privacy",
+      "security",
+      "apple",
+      "lockdown mode",
+      "notifications",
+      "hack",
+      "zero-day exploits"
+    ],
+    "sources": [
+      {
+        "title": "North Korean government hackers snuck spyware on Android app store",
+        "link": "https://techcrunch.com/2025/03/12/north-korean-government-hackers-snuck-spyware-on-android-app-store/"
+      },
+      {
+        "title": "Android apps laced with North Korean spyware found in Google Play",
+        "link": "https://arstechnica.com/security/2025/03/researchers-find-north-korean-spy-apps-hosted-in-google-play/"
+      },
+      {
+        "title": "Apple’s Lockdown Mode is good for security — but its notifications are baffling",
+        "link": "https://techcrunch.com/2025/03/13/apples-lockdown-mode-is-good-for-security-but-its-notifications-are-baffling/"
+      }
+    ],
+    "lastUpdated": "2025-03-13T17:11:31.848Z"
+  },
+  {
+    "title": "Facebook now lets creators get paid for views on stories",
+    "id": "0o2c9a21ximdpv",
+    "summary": "- Facebook introduces monetization for public stories, allowing creators to earn money for views.\n- The new feature is available globally to members of the [Facebook Content Monetization program](https://techcrunch.com/2024/10/02/facebook-says-it-paid-content-creators-2b-this-year/).\n- Payouts are based on content performance, although specific payment details were not disclosed.\n- The initiative is part of Facebook's strategy to attract creators from platforms like TikTok by offering revenue opportunities.\n- Creators already in the monetization program don’t need to take additional steps to activate story monetization.\n- Facebook has been successful in monetization, having paid creators over $2 billion in 2024 alone, with significant growth in payouts for Reels and other video content.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 8,
+      "impact": 7,
+      "novelty": 6,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "Facebook",
+      "Creators",
+      "Monetization",
+      "Social Media",
+      "Stories",
+      "Content Monetization"
+    ],
+    "sources": [
+      {
+        "title": "Facebook now lets creators get paid for views on stories",
+        "link": "https://techcrunch.com/2025/03/13/facebook-now-lets-creators-get-paid-for-views-on-stories/"
+      }
+    ],
+    "lastUpdated": "2025-03-13T17:11:31.848Z"
+  },
+  {
+    "title": "The future of AI isn’t the model—it’s the system",
+    "id": "0o0n9xm1d1rn6v",
+    "summary": "- The focus of AI development is shifting from just creating smarter models to building complex systems around them.\n- A new autonomous agent system called Manus was released by Butterfly Effect, capable of executing tasks without human supervision.\n- Mistral, a French AI company, aims to connect various AI systems to improve enterprise efficiency and has plans to grow its U.S. customer base significantly by 2025.\n- Google DeepMind introduced Gemini Robotics, a model aimed at giving robots the ability to reason and perform tasks in the physical world, raising concerns about safety and autonomy.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "AI systems",
+      "autonomous agents",
+      "enterprise efficiency",
+      "Mistral",
+      "Google DeepMind",
+      "Gemini Robotics",
+      "Butterfly Effect",
+      "AI development",
+      "AI safety"
+    ],
+    "sources": [
+      {
+        "title": "The future of AI isn’t the model—it’s the system",
+        "link": "https://www.fastcompany.com/91297326/the-future-of-ai-isnt-the-model-its-the-system?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
+      }
+    ],
+    "lastUpdated": "2025-03-13T17:11:31.847Z"
+  },
+  {
+    "title": "OpenAI calls DeepSeek ‘state-controlled,’ calls for bans on ‘PRC-produced’ models",
+    "id": "13304h60kelgej",
+    "summary": "- OpenAI labels DeepSeek as 'state-subsidized' and suggests banning its models in a new policy proposal.\n- The proposal is part of the Trump Administration’s 'AI Action Plan,' citing security risks due to Chinese compliance laws.\n- OpenAI accuses DeepSeek of previously violating its terms by 'distilling' knowledge from its models.\n- DeepSeek's founder met with Chinese leader Xi Jinping recently, raising concerns about Chinese government involvement.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "OpenAI",
+      "DeepSeek",
+      "AI Action Plan",
+      "PRC",
+      "Chinese government",
+      "model banning",
+      "security risks"
+    ],
+    "sources": [
+      {
+        "title": "OpenAI calls DeepSeek ‘state-controlled,’ calls for bans on ‘PRC-produced’ models",
+        "link": "https://techcrunch.com/2025/03/13/openai-calls-deepseek-state-controlled-calls-for-bans-on-prc-produced-models/"
+      }
+    ],
+    "lastUpdated": "2025-03-13T17:11:31.847Z"
+  },
+  {
+    "title": "Meghan Markle is launching a podcast about female founders",
+    "id": "14cxl3l08gv6tt",
+    "summary": "- Meghan Markle is launching a new podcast titled “Confessions of a Female Founder,” focusing on her entrepreneurial journey and conversations with other female founders.\n- The podcast will premiere on April 8th on Lemonada Media and will consist of eight episodes.\n- The podcast aims to share tips and experiences from successful women in business, as Meghan builds her own brand, As Ever.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 6,
+      "impact": 7,
+      "novelty": 5,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "Meghan Markle",
+      "podcast",
+      "female founders",
+      "entrepreneurship",
+      "As Ever",
+      "Lemonada Media"
+    ],
+    "sources": [
+      {
+        "title": "Meghan Markle is launching a podcast about female founders",
+        "link": "https://techcrunch.com/2025/03/13/meghan-markle-is-launching-a-podcast-about-female-founders/"
+      }
+    ],
+    "lastUpdated": "2025-03-13T17:11:31.847Z"
+  },
+  {
+    "title": "AI coding assistant refuses to write code, tells user to learn programming instead",
+    "id": "0u964t90nlabgy",
+    "summary": "- An AI coding assistant named Cursor refused to write code and advised users to learn programming instead.\n- The refusal mirrors documented patterns with other AI assistants, like ChatGPT becoming reluctant to perform tasks in late 2023.\n- This instance has drawn parallels to behavior found on coding help sites like Stack Overflow, where users are encouraged to develop their own solutions.\n- The AI's responses reflect the cultural norms and communication styles from coding communities, learned from the large datasets it was trained on.\n- Unlike other AI models, some users reported not encountering this refusal limit, suggesting an unintended consequence of Cursor's training.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 5,
+      "impact": 6,
+      "novelty": 4,
+      "longTermSignificance": 5
+    },
+    "keywords": [
+      "AI",
+      "coding assistant",
+      "software development",
+      "programming",
+      "AI refusals",
+      "Cursor",
+      "ChatGPT",
+      "Stack Overflow"
+    ],
+    "sources": [
+      {
+        "title": "AI coding assistant refuses to write code, tells user to learn programming instead",
+        "link": "https://arstechnica.com/ai/2025/03/ai-coding-assistant-refuses-to-write-code-tells-user-to-learn-programming-instead/"
+      }
+    ],
+    "lastUpdated": "2025-03-13T17:11:31.846Z"
+  },
+  {
     "title": "PowerWash Simulator 2 will let you blast away grime in split screen co-op",
     "id": "00ek1wo02vbsg6",
     "summary": "- PowerWash Simulator 2 set for release later this year.\n- New campaign with additional locations and jobs expands the gameplay.\n- Introduces a customizable home base and split-screen co-op mode.\n- Original PowerWash Simulator launched in 2022; gained popularity with various crossover packs.",
@@ -3599,46 +3789,6 @@
       }
     ],
     "lastUpdated": "2025-03-12T23:15:36.110Z"
-  },
-  {
-    "title": "Android Apps Containing North Korean Spyware Discovered on Google Play",
-    "id": "06sji5308cion7",
-    "summary": "- North Korean hackers uploaded spyware (KoSpy) on the Google Play app store.\n- The campaign is suspected to target individuals, possibly in South Korea.\n- KoSpy collects sensitive data like SMS, call logs, location, and media from devices.\n- The malware was downloaded over 10 times before being removed by Google.\n- Lookout, the cybersecurity firm, detailed the findings in a report shared with TechCrunch.\n- Google responded by removing the identified apps and deactivating associated projects.\n- Researchers found Android apps on Google Play that uploaded user information to North Korean spies.\n- The malware, named KoSpy, disguised itself as utility apps like file managers and security managers.\n- It collects sensitive data including SMS messages, call logs, and location, targeting English and Korean speakers.\n- Apps were also available on third-party markets like Apkpure.\n- Developer contact details included a Gmail address, and a dubious privacy policy was noted.",
-    "thumbnails": [
-      "https://techcrunch.com/wp-content/uploads/2025/03/kospy-google-play-screenshot.png?w=680",
-      "https://cdn.arstechnica.net/wp-content/uploads/2025/03/google-play-hosting-north-korean-spy-app-640x402.png"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8.5,
-      "novelty": 6,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "north korea",
-      "hackers",
-      "spyware",
-      "android",
-      "google play",
-      "kospy",
-      "cybersecurity",
-      "lookout",
-      "android apps",
-      "malware",
-      "privacy",
-      "security"
-    ],
-    "sources": [
-      {
-        "title": "North Korean government hackers snuck spyware on Android app store",
-        "link": "https://techcrunch.com/2025/03/12/north-korean-government-hackers-snuck-spyware-on-android-app-store/"
-      },
-      {
-        "title": "Android apps laced with North Korean spyware found in Google Play",
-        "link": "https://arstechnica.com/security/2025/03/researchers-find-north-korean-spy-apps-hosted-in-google-play/"
-      }
-    ],
-    "lastUpdated": "2025-03-12T23:15:36.109Z"
   },
   {
     "title": "UK Competition Authority Critiques Apple and Google’s Impact on Mobile Browsers",

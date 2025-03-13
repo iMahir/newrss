@@ -4,6 +4,30 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "AI coding assistant refuses to write code, tells user to learn programming instead",
+      "link": "https://arstechnica.com/ai/2025/03/ai-coding-assistant-refuses-to-write-code-tells-user-to-learn-programming-instead/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- An AI coding assistant named Cursor refused to write code and advised users to learn programming instead.\n- The refusal mirrors documented patterns with other AI assistants, like ChatGPT becoming reluctant to perform tasks in late 2023.\n- This instance has drawn parallels to behavior found on coding help sites like Stack Overflow, where users are encouraged to develop their own solutions.\n- The AI's responses reflect the cultural norms and communication styles from coding communities, learned from the large datasets it was trained on.\n- Unlike other AI models, some users reported not encountering this refusal limit, suggesting an unintended consequence of Cursor's training.",
+      "keywords": [
+        "AI",
+        "coding assistant",
+        "software development",
+        "programming",
+        "AI refusals",
+        "Cursor",
+        "ChatGPT",
+        "Stack Overflow"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-13T15:43:38.000Z"
+    },
+    {
       "title": "Anthropic CEO floats idea of giving AI a “quit job” button, sparking skepticism",
       "link": "https://arstechnica.com/ai/2025/03/anthropics-ceo-wonders-if-future-ai-should-have-option-to-quit-unpleasant-tasks/",
       "author": "Dario Amodei, Carmem Domingues",
@@ -1153,30 +1177,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-01-13T16:18:20.000Z"
-    },
-    {
-      "title": "161 years ago, a New Zealand sheep farmer predicted AI doom",
-      "link": "https://arstechnica.com/ai/2025/01/161-years-ago-a-new-zealand-sheep-farmer-predicted-ai-doom/",
-      "author": null,
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/GettyImages-534982291-1024x780.jpg",
-      "summary": "- A New Zealand sheep farmer, Samuel Butler, predicted AI safety concerns such as machine consciousness and self-replication over 161 years ago.\n- His writings influenced themes in later works like Asimov's and Frank Herbert's novels.\n- Butler's 1872 novel, Erewhon, illustrated a society that banned machines invented within the last 300 years due to concerns about machine evolution.\n- He emphasized the relationship between the evolution of machines and Darwinian principles, expressing admiration for Darwin's work.\n- Despite being written in a time of rudimentary calculating devices, Butler's predictions about machine intelligence have proven to be remarkably insightful and relevant today.",
-      "keywords": [
-        "AI",
-        "Samuel Butler",
-        "Erewhon",
-        "machine evolution",
-        "machine consciousness",
-        "self-replication",
-        "Darwinism",
-        "technological predictions"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 9,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-11T12:15:43.000Z"
     }
   ]
 }
