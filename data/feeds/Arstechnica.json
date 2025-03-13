@@ -4,6 +4,29 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Anthropic CEO floats idea of giving AI a “quit job” button, sparking skepticism",
+      "link": "https://arstechnica.com/ai/2025/03/anthropics-ceo-wonders-if-future-ai-should-have-option-to-quit-unpleasant-tasks/",
+      "author": "Dario Amodei, Carmem Domingues",
+      "thumbnail": null,
+      "summary": "- Dario Amodei, CEO of Anthropic, suggested that future AI might have a button to quit unpleasant tasks during a Council on Foreign Relations interview.\n- He acknowledged that the concept sounds 'crazy' but emphasized the need to consider if AIs should have the ability to 'quit' like humans.\n- This idea emerged in response to a question on AI welfare and sentience from data scientist Carmem Domingues, following the hiring of Kyle Fish to explore moral considerations for AI.",
+      "keywords": [
+        "AI",
+        "Anthropic",
+        "Dario Amodei",
+        "quit job button",
+        "sentience",
+        "AI welfare",
+        "moral consideration"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-13T11:15:51.000Z"
+    },
+    {
       "title": "New Intel CEO Lip-Bu Tan will pick up where Pat Gelsinger left off",
       "link": "https://arstechnica.com/gadgets/2025/03/new-intel-ceo-lip-bu-tan-will-pick-up-where-pat-gelsinger-left-off/",
       "author": null,
@@ -1154,28 +1177,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-01-11T12:15:43.000Z"
-    },
-    {
-      "title": "Microsoft sues service for creating illicit content with its AI platform",
-      "link": "https://arstechnica.com/security/2025/01/microsoft-sues-service-for-creating-illicit-content-with-its-ai-platform/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Microsoft prohibits the use of its AI to create illicit content, including sexual exploitation, abusive behavior, and discriminatory materials.\n- The company has faced issues with its guardrails being bypassed by hackers and malicious actors over the years.\n- The lawsuit claims violations of several acts, seeking an injunction against the defendants from continuing their activities.",
-      "keywords": [
-        "Microsoft",
-        "AI",
-        "lawsuit",
-        "illicit content",
-        "Computer Fraud and Abuse Act",
-        "Cybersecurity"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-10T23:10:57.000Z"
     }
   ]
 }
