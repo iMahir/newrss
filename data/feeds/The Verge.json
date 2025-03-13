@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Revisiting Windows 1.0: how Microsoft’s first desktop gracefully failed",
+      "link": "https://www.theverge.com/2012/11/20/3671922/windows-1-0-microsoft-history-desktop-gracefully-failed",
+      "author": "Sean Hollister",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2012/11/windows-1.0.jpg?quality=90&strip=all&crop=0,0,100,100&w=2400",
+      "summary": "- Windows 1.0 launched on November 20, 1985, amid skepticism about its capabilities and design.\n- It was Microsoft's first attempt at a graphical user interface (GUI), competing against Apple's established market.\n- Initially sold for $99, it included basic applications like Notepad and Windows Paint but required significant memory and resources to operate effectively.\n- Critics gave Windows 1.0 mixed reviews, with concerns regarding its speed and capability to handle multitasking on standard PCs.\n- The OS sold poorly and required two more versions before it gained traction in the market, highlighting the challenges of introducing new paradigms in technology.",
+      "keywords": [
+        "Windows 1.0",
+        "Microsoft",
+        "operating system",
+        "graphical user interface",
+        "historical analysis",
+        "personal computing",
+        "tech history"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 6,
+        "novelty": 7,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-13T05:38:02.000Z"
+    },
+    {
       "title": "Spectre Divide and Its Developer Are Shutting Down",
       "link": "https://www.theverge.com/news/628698/spectre-divide-mountaintop-studios-shutting-down",
       "author": "Jay Peters",
@@ -1067,31 +1090,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-11T20:01:00.000Z"
-    },
-    {
-      "title": "Go Read This: The Verge’s favorite reads from all over the web",
-      "link": "https://www.theverge.com/24188803/best-tech-reads-articles-books",
-      "author": "Verge Staff",
-      "thumbnail": null,
-      "summary": "- The Verge curates a list of recommended articles and books from various sources.\n- Highlights include a controversial EV battery plant proposal by a Chinese company and its implications.\n- Other topics cover working outside, gaming industry developments, and the evolving landscape of US politics and technology.",
-      "keywords": [
-        "reading",
-        "articles",
-        "tech",
-        "curation",
-        "Verge",
-        "recommendations",
-        "politics",
-        "gaming",
-        "technology"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-11T18:53:40.000Z"
     }
   ]
 }
