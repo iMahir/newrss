@@ -4,6 +4,74 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Oracle is reportedly a top choice for helping run TikTok",
+      "link": "https://techcrunch.com/2025/03/13/oracle-is-reportedly-a-top-choice-for-storing-u-s-tiktok-user-data/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-528022874.jpg?w=1024",
+      "summary": "- TikTok has until April to finalize a sale to a U.S.-based buyer amidst uncertainties about its future.\n- Oracle is reported to be the leading candidate as the cloud technology partner for TikTok in the U.S.\n- Sources indicate that ByteDance prefers Oracle over other cloud providers, with Oracle already storing data for U.S. users since 2022.\n- ByteDance aims to maintain a hands-on role in TikTok's operations with Oracle as a partner.\n- Former President Trump has expressed support for Oracle's involvement in this deal.",
+      "keywords": [
+        "Oracle",
+        "TikTok",
+        "Cloud Technology",
+        "ByteDance",
+        "Data Storage"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-13T19:55:07.000Z"
+    },
+    {
+      "title": "Bluesky quickly sold out of the T-shirt its CEO wore to troll Mark Zuckerberg",
+      "link": "https://techcrunch.com/2025/03/13/bluesky-quickly-sold-out-of-the-t-shirt-its-ceo-wore-to-troll-mark-zuckerberg/",
+      "author": "Amanda Silberling",
+      "thumbnail": null,
+      "summary": "- Bluesky CEO Jay Graber wore a T-shirt with the phrase *Mundus sine Caesaribus* at SXSW, poking fun at Mark Zuckerberg without mentioning Meta.\n- The shirt sold out in approximately 30 minutes after users expressed excitement on the Bluesky platform.\n- Graber's shirt is a response to Zuckerberg's T-shirt that said *Aut Zuck aut nihil*, referencing comparisons made to Julius Caesar and emphasizing Bluesky's commitment to decentralization and user empowerment.",
+      "keywords": [
+        "Bluesky",
+        "Jay Graber",
+        "Mark Zuckerberg",
+        "SXSW",
+        "social media",
+        "T-shirt",
+        "decentralization",
+        "user empowerment"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-13T19:19:58.000Z"
+    },
+    {
+      "title": "Google calls for weakened copyright and export rules in AI policy proposal",
+      "link": "https://techcrunch.com/2025/03/13/google-calls-for-weakened-copyright-and-export-rules-in-ai-policy-proposal/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Google submitted a policy proposal advocating for weakened copyright restrictions on AI training.\n- The proposal emphasizes the necessity of \"fair use\" and text-and-data mining exceptions for AI development.\n- It criticizes export controls imposed under the Biden Administration as burdensome for U.S. cloud service providers.\n- Google calls for increased federal investment in domestic R&D and comprehensive AI legislation to clarify regulations.\n- The proposal also opposes overly broad disclosure requirements and emphasizes the need to protect trade secrets.",
+      "keywords": [
+        "Google",
+        "AI policy",
+        "copyright",
+        "export controls",
+        "fair use",
+        "AI training",
+        "R&D funding"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-13T19:11:20.000Z"
+    },
+    {
       "title": "Move over, Apple: Meet the alternative app stores coming to the EU",
       "link": "https://techcrunch.com/2025/03/13/move-over-apple-meet-the-alternative-app-stores-coming-to-the-eu/",
       "author": "Sarah Perez",
@@ -1127,71 +1195,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-12T17:37:41.000Z"
-    },
-    {
-      "title": "OpenStack comes to the Linux Foundation",
-      "link": "https://techcrunch.com/2025/03/12/openstack-comes-to-the-linux-foundation/",
-      "author": "Frederic Lardinois",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/IMG_20161025_090744-2.jpg?w=680",
-      "summary": "- OpenStack, initially launched by Rackspace and NASA in 2010, is transitioning to the Linux Foundation via the Open Infrastructure Foundation.\n- The Open Infrastructure Foundation aims to integrate with the Linux Foundation alongside major projects like Kubernetes and Linux.\n- The collaboration is expected to bolster resources for development in a rapidly changing data center landscape influenced by AI and digital sovereignty.\n- The OpenInfra Foundation’s community has grown by 15% with increased adoption for projects like OpenStack, Kata Containers, and StarlingX.",
-      "keywords": [
-        "OpenStack",
-        "Linux Foundation",
-        "Open Infrastructure Foundation",
-        "cloud computing",
-        "open source software"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-12T17:13:09.000Z"
-    },
-    {
-      "title": "A comprehensive list of 2025 tech layoffs",
-      "link": "https://techcrunch.com/2025/03/12/tech-layoffs-2025-list/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- In 2025, over 22,000 tech workers have been laid off, with 16,084 cuts in February alone.\n- Major companies like NASA, Wayfair, and TikTok announced significant layoffs impacting hundreds of jobs.\n- The tech industry is experiencing ongoing reductions as companies adapt to market conditions and automation.",
-      "keywords": [
-        "tech layoffs",
-        "2025",
-        "job cuts",
-        "automation",
-        "AI",
-        "technology industry"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-12T17:00:00.000Z"
-    },
-    {
-      "title": "Dapr’s Microservices Runtime Now Supports AI Agents",
-      "link": "https://techcrunch.com/2025/03/12/daprs-microservices-runtime-now-supports-ai-agents/",
-      "author": "Frederic Lardinois",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/dapr_agents.png?w=680",
-      "summary": "- Dapr, an open-source runtime for microservices, now introduces Dapr Agents to help developers build AI agents.\n- Dapr's core feature of virtual actors allows for efficient processing of AI agent tasks, enabling scalability and resource efficiency.\n- The project originated from Floki, which enhanced Dapr for AI use cases; it is now integrated into Dapr's framework.\n- Dapr Agents can interface with popular model providers including AWS Bedrock and OpenAI, with support for local LLMs coming soon.\n- Currently, Dapr Agents supports Python, with plans to include .NET, Java, JavaScript, and Go shortly.",
-      "keywords": [
-        "Dapr",
-        "AI agents",
-        "microservices",
-        "open-source",
-        "cloud",
-        "developer tools"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-12T16:26:29.000Z"
     }
   ]
 }
