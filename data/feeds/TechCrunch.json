@@ -4,6 +4,103 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Move over, Apple: Meet the alternative app stores coming to the EU",
+      "link": "https://techcrunch.com/2025/03/13/move-over-apple-meet-the-alternative-app-stores-coming-to-the-eu/",
+      "author": "Sarah Perez",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/08/altstore.jpg?w=680",
+      "summary": "- The European Union's Digital Markets Act (DMA) allows access to alternative app stores.\n- Developers must accept Apple's DMA-compliant terms, including a fee of €0.50 for each first annual install.\n- Several alternative app stores available include AltStore PAL, Setapp Mobile, Epic Games Store, Aptoide, Mobivention, and Skich.\n- Setapp Mobile, a subscription app store, offers curated apps without ads or in-app purchases, while AltStore PAL enables indie developers to distribute apps directly.\n- Epic Games launched its app store allowing downloads for games like Fortnite.\n- Aptoide is an open-source solution for app distribution, scanning apps for safety.",
+      "keywords": [
+        "European Union",
+        "Digital Markets Act",
+        "alternative app stores",
+        "Apple",
+        "Setapp",
+        "Epic Games",
+        "Aptoide",
+        "AltStore"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-13T19:05:00.000Z"
+    },
+    {
+      "title": "Amazon is still hosting stalkerware victims’ data weeks after breach alert",
+      "link": "https://techcrunch.com/2025/03/13/amazon-is-still-hosting-stalkerware-victims-data-weeks-after-breach-alert/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Amazon is under scrutiny for hosting data from stalkerware apps despite being notified of a breach.\n- Three apps, Cocospy, Spyic, and Spyzie, continue to store private phone data on Amazon Web Services.\n- A security researcher indicated that the apps have exposed data from 3.1 million individuals, many of whom are unaware of the compromise.\n- Amazon's response has been procedural, stating it has clear terms that require compliance with laws and policies but has not acted on the breach notifications from TechCrunch.\n- The storage buckets for the apps remain active, and concerns arise about Amazon's enforcement of its own policies against spyware.",
+      "keywords": [
+        "Amazon",
+        "stalkerware",
+        "data breach",
+        "Cocospy",
+        "Spyic",
+        "Spyzie",
+        "AWS",
+        "privacy",
+        "security"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-13T19:05:00.000Z"
+    },
+    {
+      "title": "Ex-Twitter AI ethics lead Rumman Chowdhury is worried about Musk’s impact on the federal government",
+      "link": "https://techcrunch.com/2025/03/13/ex-twitter-ai-ethics-lead-rumman-chowdhury-is-worried-about-musks-impact-on-the-federal-government/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Rumman Chowdhury, former director of Twitter’s machine ethics team, expressed concerns about Elon Musk's influence on U.S. governance during an SXSW panel.\n- She highlighted the chaotic management style attributed to Musk and its effects on federal agencies, including significant staff cuts that may compromise cybersecurity.\n- Chowdhury recalled similar experiences at Twitter after Musk's acquisition, noting that culture deteriorated under his leadership, and warned that the same could happen in government.",
+      "keywords": [
+        "Rumman Chowdhury",
+        "Elon Musk",
+        "U.S. government",
+        "Twitter",
+        "SXSW",
+        "federal agencies",
+        "staff cuts",
+        "cybersecurity",
+        "government efficiency"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-13T18:30:41.000Z"
+    },
+    {
+      "title": "Minimalist Light Phone III launches March 27",
+      "link": "https://techcrunch.com/2025/03/13/minimalist-light-phone-iii-launches-march-27/",
+      "author": "Sarah Perez",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/06/LightPhoneIII.Text_.jpg?w=680",
+      "summary": "- Light will launch the Light Phone III on March 27.\n- Features a 3.92-inch AMOLED display, camera, and NFC chip for payments.\n- The price is initially $599, increasing to $799 later.\n- Offers capabilities for calls, texts, navigation, alarms, and more without distractions from apps.\n- Customers can choose to use it as their main phone or a backup device to disconnect.",
+      "keywords": [
+        "Light Phone III",
+        "launch",
+        "minimalist phone",
+        "smartphone",
+        "feature phone",
+        "technology",
+        "distraction-free"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-13T18:15:20.000Z"
+    },
+    {
       "title": "10 startups to watch from Y Combinator’s W25 Demo Day",
       "link": "https://techcrunch.com/2025/03/13/10-startups-to-watch-from-y-combinators-w25-demo-day/",
       "author": "Maxwell Zeff, Charles Rollet",
@@ -1095,102 +1192,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-12T16:26:29.000Z"
-    },
-    {
-      "title": "Sakana claims its AI-generated paper passed peer review — but it’s a bit more nuanced than that",
-      "link": "https://techcrunch.com/2025/03/12/sakana-claims-its-ai-paper-passed-peer-review-but-its-a-bit-more-nuanced-than-that/",
-      "author": "Kyle Wiggers",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/paper_abstract.png?w=680",
-      "summary": "- Japanese startup Sakana claimed its AI-generated paper is the first to pass peer review, but with caveats.  \n- Sakana used AI called The AI Scientist-v2 to generate and submit three papers to an ICLR workshop, with one accepted before withdrawal for transparency.  \n- Critics note the acceptance rate is higher for workshops; many believe AI isn't ready to independently contribute to science yet.",
-      "keywords": [
-        "Sakana",
-        "AI-generated papers",
-        "peer review",
-        "science",
-        "ICLR",
-        "artificial intelligence",
-        "research"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-03-12T16:00:02.000Z"
-    },
-    {
-      "title": "Moonvalley releases a video generator it claims was trained on licensed content",
-      "link": "https://techcrunch.com/2025/03/12/moonvalley-releases-a-video-generator-it-claims-was-trained-on-licensed-content/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- Moonvalley launches 'Marey', an AI video-generating model trained on openly licensed data.\n- Marey offers customization options for in-scene movements, enabling nuanced control.\n- The model generates HD clips up to 30 seconds and emphasizes lower legal risks compared to competitors.\n- Moonvalley is making licensing arrangements to mitigate copyright concerns, similar to Adobe's approach.\n- Concerns exist among artists about the impact of AI on jobs in the film and television industry.\n- The company allows creators to remove their content from models and offers protective policies for users against copyright challenges.",
-      "keywords": [
-        "Moonvalley",
-        "AI video generation",
-        "licensed content",
-        "creative rights",
-        "Naeem Talukdar",
-        "Marey",
-        "animation industry",
-        "copyright concerns",
-        "video generator"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-12T16:00:00.000Z"
-    },
-    {
-      "title": "Snap introduces AI Video Lenses powered by its in-house generative model",
-      "link": "https://techcrunch.com/2025/03/12/snap-introduces-ai-video-lenses-powered-by-its-in-house-generative-model/",
-      "author": "Aisha Malik",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Img2Video-Lenses-3.gif?w=680",
-      "summary": "- Snapchat launches its first AI Video Lenses, powered by an in-house generative video model.\n- Available exclusively to Snapchat Platinum subscribers for $15.99/month.\n- Initial offerings include \"Raccoon,\" \"Fox,\" and \"Spring Flowers\" Lenses.\n- New Lenses allow for AI-generated videos that save automatically to Memories.\n- Snap aims to stay competitive against platforms like Instagram and TikTok with these innovative features.\n- The company plans to introduce additional Lenses weekly.",
-      "keywords": [
-        "Snapchat",
-        "AI Video Lenses",
-        "generative AI",
-        "Snapchat Platinum",
-        "social media",
-        "AR",
-        "video generation"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-12T16:00:00.000Z"
-    },
-    {
-      "title": "Garantex administrator arrested in India under extradition law",
-      "link": "https://techcrunch.com/2025/03/12/garantex-administrator-arrested-in-india-under-extradition-law/",
-      "author": "Jagmeet Singh, Lorenzo Franceschi-Bicchierai",
-      "thumbnail": "null",
-      "summary": "• Indian police arrested Aleksej Besciokov, co-founder of Garantex, under India’s extradition law.\n• Arrest occurred in Varkala, Kerala, following a warrant issued by the Patiala House Court in New Delhi.\n• U.S. Department of Justice charged Besciokov for facilitating money laundering linked to North Korean hackers.\n• Besciokov will be transferred to Patiala Court to face unspecified extradition charges.\n• Garantex has temporarily halted operations since the U.S. seizure of its websites and freezing of over $26 million in cryptocurrency assets.\n• The exchange plans to compensate users for blocked assets through rehabilitation procedures once completed.",
-      "keywords": [
-        "Garantex",
-        "cryptocurrency",
-        "arrest",
-        "extradition",
-        "Aleksej Besciokov",
-        "money laundering",
-        "North Korea",
-        "police",
-        "India"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-12T15:55:29.000Z"
     }
   ]
 }

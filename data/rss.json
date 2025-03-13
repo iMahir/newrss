@@ -1,5 +1,297 @@
 [
   {
+    "title": "Amazon Hosts Stalkerware Data Despite Breach Alerts",
+    "id": "0pjx7bb1qm8zab",
+    "summary": "- Consumer-grade spyware apps can monitor private messages, photos, calls, and location on Android devices.\n- A guide aids in identifying and removing stalkerware like [TheTruthSpy](https://techcrunch.com/2022/10/26/inside-thetruthspy-stalkerware/), [Cocospy](https://techcrunch.com/2025/02/20/stalkerware-apps-cocospy-spyic-exposing-phone-data-of-millions-of-people/), and [Spyic](https://techcrunch.com/2025/02/20/stalkerware-apps-cocospy-spyic-exposing-phone-data-of-millions-of-people/).\n- Stalkerware masquerades as child monitoring software, often installed without consent.\n- Symptoms of infection can include odd phone behavior, excessive data consumption, and performance degradation.\n- Users should enable [Google Play Protect](https://techcrunch.com/2023/11/04/google-play-android-real-time-app-scanning-sideload-apps/), check accessibility services, and audit notification access.\n- The stalkerware industry thrives, marketing apps to jealous partners, with at least 24 companies suffering data breaches since 2017.\n- Recent hacks have leaked over 3.2 million email addresses and sensitive data from companies like Spyzie and Cocospy.\n- Security expert Eva Galperin calls the stalkerware industry a 'soft target' for hackers.\n- Usage of stalkerware is illegal in many jurisdictions and poses risks to victims’ data security.\n- Zapier suffered a data breach impacting user privacy; specific details on affected users remain undisclosed.\n- NTT Communications confirmed unauthorized data access affecting nearly 18,000 corporate customers, with stolen data including names and contact details.\n- Amazon is under scrutiny for not acting on breach notifications and continues to host data from apps like Cocospy and Spyic.\n- The apps have exposed data from 3.1 million individuals; Amazon claims to follow compliance but has not acted on alerts.",
+    "thumbnails": [
+      "https://techcrunch.com/wp-content/uploads/2022/02/stalkerware-google-play-protect-final.jpeg",
+      "https://cdn.techinasia.com/wp-content/uploads/2025/03/1740955383_Zaoier.jpg"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8.5,
+      "novelty": 5.88,
+      "longTermSignificance": 6.88
+    },
+    "keywords": [
+      "stalkerware",
+      "spyware",
+      "android",
+      "privacy",
+      "security",
+      "data breach",
+      "cybersecurity",
+      "amazon",
+      "zapier",
+      "ntt com",
+      "cyberattack"
+    ],
+    "sources": [
+      {
+        "title": "Your Android phone could have stalkerware. Here’s how to remove it",
+        "link": "https://techcrunch.com/2025/02/20/remove-android-spyware/"
+      },
+      {
+        "title": "Hacked, leaked, exposed: Why you should never use stalkerware apps",
+        "link": "https://techcrunch.com/2025/02/27/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/"
+      },
+      {
+        "title": "Automation platform Zapier breach may expose customer data",
+        "link": "https://www.techinasia.com/news/automation-platform-zapier-breach-expose-customer-data"
+      },
+      {
+        "title": "NTT Com Confirms Data Breach Affected Nearly 18,000 Organizations",
+        "link": "https://techcrunch.com/2025/03/07/japanese-telco-giant-ntt-com-says-hackers-accessed-details-of-almost-18000-organizations/"
+      },
+      {
+        "title": "Amazon is still hosting stalkerware victims’ data weeks after breach alert",
+        "link": "https://techcrunch.com/2025/03/13/amazon-is-still-hosting-stalkerware-victims-data-weeks-after-breach-alert/"
+      }
+    ],
+    "lastUpdated": "2025-03-13T19:11:57.479Z"
+  },
+  {
+    "title": "The best Garmin watches for training and everyday life",
+    "id": "1hfmwe802jjewv",
+    "summary": "- Garmin watches are popular among various athletes and outdoor enthusiasts, known for fitness tracking and rugged durability.\n- Recent Garmin models cater to both athletes and general users, emphasizing fitness metrics, GPS navigation, and long battery life.\n- Notably, Garmin watches have features such as offline maps, advanced training metrics, and safety capabilities like fall detection.\n- The Forerunner 265/265S offers a balance of price and features, including an OLED display and long battery life, priced at about $450.\n- The Epix Pro provides extensive fitness features, available in multiple sizes, combining the best of Garmin's offerings starting at $720.",
+    "thumbnails": [
+      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24483626/236554_Garmin_Forerunner_265S_AKrales_0168.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400"
+    ],
+    "scores": {
+      "scale": 8,
+      "impact": 7,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "Garmin",
+      "smartwatches",
+      "fitness trackers",
+      "training",
+      "GPS",
+      "outdoor sports",
+      "battery life",
+      "Forerunner",
+      "Epix Pro"
+    ],
+    "sources": [
+      {
+        "title": "The best Garmin watches for training and everyday life",
+        "link": "https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables"
+      }
+    ],
+    "lastUpdated": "2025-03-13T19:11:57.479Z"
+  },
+  {
+    "title": "WinRing0: Why Windows is flagging your PC monitoring and fan control apps as a threat",
+    "id": "1wajtxs0l23kfz",
+    "summary": "- Windows Defender flagged a tool called WinRing0 as a HackTool, affecting many PC monitoring and fan control applications.\n- The detection led to various software misbehaving, such as fans running excessively.\n- Programs affected include Fan Control, Razer Synapse, and MSI Afterburner, all of which used WinRing0 for hardware monitoring.\n- Developers express concern as WinRing0 poses a real vulnerability that could be exploited, although its current use in these applications is not malicious.\n- Microsoft has been pressured to tighten security around kernel-level drivers after previous incidents and may not have communicated the changes clearly.\n- Developers have explored alternatives but face challenges due to high costs associated with getting drivers signed by Microsoft, restricting open-source projects.\n- Some companies are finding ways to address this issue, hoping to create a signed version of WinRing0 to help affected applications.",
+    "thumbnails": [
+      "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/ApplicationFrameHost_nk5uPl4IJ6_1d663f.jpg?quality=90&strip=all&crop=0,0,100,100"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "WinRing0",
+      "Windows Defender",
+      "PC monitoring apps",
+      "fan control",
+      "security threat",
+      "kernel-level software",
+      "open-source",
+      "Razer Synapse",
+      "MSI Afterburner"
+    ],
+    "sources": [
+      {
+        "title": "WinRing0: Why Windows is flagging your PC monitoring and fan control apps as a threat",
+        "link": "https://www.theverge.com/report/629259/winring0-windows-defender-fan-control-pc-monitoring-alert-quarantine"
+      }
+    ],
+    "lastUpdated": "2025-03-13T19:11:57.479Z"
+  },
+  {
+    "title": "Move over, Apple: Meet the alternative app stores coming to the EU",
+    "id": "1rhzqre0h1nm8x",
+    "summary": "- The European Union's Digital Markets Act (DMA) allows access to alternative app stores.\n- Developers must accept Apple's DMA-compliant terms, including a fee of €0.50 for each first annual install.\n- Several alternative app stores available include AltStore PAL, Setapp Mobile, Epic Games Store, Aptoide, Mobivention, and Skich.\n- Setapp Mobile, a subscription app store, offers curated apps without ads or in-app purchases, while AltStore PAL enables indie developers to distribute apps directly.\n- Epic Games launched its app store allowing downloads for games like Fortnite.\n- Aptoide is an open-source solution for app distribution, scanning apps for safety.",
+    "thumbnails": [
+      "https://techcrunch.com/wp-content/uploads/2024/08/altstore.jpg?w=680"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "European Union",
+      "Digital Markets Act",
+      "alternative app stores",
+      "Apple",
+      "Setapp",
+      "Epic Games",
+      "Aptoide",
+      "AltStore"
+    ],
+    "sources": [
+      {
+        "title": "Move over, Apple: Meet the alternative app stores coming to the EU",
+        "link": "https://techcrunch.com/2025/03/13/move-over-apple-meet-the-alternative-app-stores-coming-to-the-eu/"
+      }
+    ],
+    "lastUpdated": "2025-03-13T19:11:57.479Z"
+  },
+  {
+    "title": "Ex-Twitter AI ethics lead Rumman Chowdhury is worried about Musk’s impact on the federal government",
+    "id": "0xf893n0hyo232",
+    "summary": "- Rumman Chowdhury, former director of Twitter’s machine ethics team, expressed concerns about Elon Musk's influence on U.S. governance during an SXSW panel.\n- She highlighted the chaotic management style attributed to Musk and its effects on federal agencies, including significant staff cuts that may compromise cybersecurity.\n- Chowdhury recalled similar experiences at Twitter after Musk's acquisition, noting that culture deteriorated under his leadership, and warned that the same could happen in government.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 9,
+      "novelty": 6,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "Rumman Chowdhury",
+      "Elon Musk",
+      "U.S. government",
+      "Twitter",
+      "SXSW",
+      "federal agencies",
+      "staff cuts",
+      "cybersecurity",
+      "government efficiency"
+    ],
+    "sources": [
+      {
+        "title": "Ex-Twitter AI ethics lead Rumman Chowdhury is worried about Musk’s impact on the federal government",
+        "link": "https://techcrunch.com/2025/03/13/ex-twitter-ai-ethics-lead-rumman-chowdhury-is-worried-about-musks-impact-on-the-federal-government/"
+      }
+    ],
+    "lastUpdated": "2025-03-13T19:11:57.478Z"
+  },
+  {
+    "title": "The Olympics will stay on NBC for at least another decade",
+    "id": "03anp6v1vz7lux",
+    "summary": "- NBC has extended its media rights deal with the International Olympic Committee (IOC) to air the Olympics until 2036.\n- The previous agreement allowed NBC to stream the Olympics through 2032; the new deal is valued at $3 billion for the 2033 to 2036 cycle.\n- Last year's Olympics led to a 33% increase in viewers on Peacock, indicating the importance of the event for NBC's streaming platform.",
+    "thumbnails": [
+      "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK477_2024_OLYMPICS_2_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+    ],
+    "scores": {
+      "scale": 8,
+      "impact": 9,
+      "novelty": 7,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "NBC",
+      "Olympics",
+      "IOC",
+      "Peacock",
+      "Streaming Rights",
+      "Comcast"
+    ],
+    "sources": [
+      {
+        "title": "The Olympics will stay on NBC for at least another decade",
+        "link": "https://www.theverge.com/news/629377/olympics-nbc-peacock-rights-deal-2036"
+      }
+    ],
+    "lastUpdated": "2025-03-13T19:11:57.478Z"
+  },
+  {
+    "title": "Flatiron Books says it will keep publishing book from ex-Meta employee",
+    "id": "197l4ks1dc1v9i",
+    "summary": "- Flatiron Books will continue to publish the book \"Careless People\" by ex-Meta staffer Sarah Wynn-Williams despite a recent arbitration order.\n- The arbitration ruling instructed the author to stop making \"disparaging\" remarks against Meta and cease promoting the book.\n- Macmillan, Flatiron's parent company, condemned Meta's tactics to silence the author and affirmed their commitment to the book after thorough editing and vetting.",
+    "thumbnails": [
+      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195819/JAY_PETERS.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
+    ],
+    "scores": {
+      "scale": 6,
+      "impact": 8,
+      "novelty": 5,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "Flatiron Books",
+      "Meta",
+      "publishing",
+      "arbitration",
+      "Sarah Wynn-Williams",
+      "Careless People"
+    ],
+    "sources": [
+      {
+        "title": "Flatiron Books says it will keep publishing book from ex-Meta employee",
+        "link": "https://www.theverge.com/news/629347/meta-careless-people-flatiron-books-macmillan"
+      }
+    ],
+    "lastUpdated": "2025-03-13T19:11:57.477Z"
+  },
+  {
+    "title": "Minimalist Light Phone III launches March 27",
+    "id": "13ihqd70kaynmo",
+    "summary": "- Light will launch the Light Phone III on March 27.\n- Features a 3.92-inch AMOLED display, camera, and NFC chip for payments.\n- The price is initially $599, increasing to $799 later.\n- Offers capabilities for calls, texts, navigation, alarms, and more without distractions from apps.\n- Customers can choose to use it as their main phone or a backup device to disconnect.",
+    "thumbnails": [
+      "https://techcrunch.com/wp-content/uploads/2024/06/LightPhoneIII.Text_.jpg?w=680"
+    ],
+    "scores": {
+      "scale": 5,
+      "impact": 7,
+      "novelty": 6,
+      "longTermSignificance": 5
+    },
+    "keywords": [
+      "Light Phone III",
+      "launch",
+      "minimalist phone",
+      "smartphone",
+      "feature phone",
+      "technology",
+      "distraction-free"
+    ],
+    "sources": [
+      {
+        "title": "Minimalist Light Phone III launches March 27",
+        "link": "https://techcrunch.com/2025/03/13/minimalist-light-phone-iii-launches-march-27/"
+      }
+    ],
+    "lastUpdated": "2025-03-13T19:11:57.476Z"
+  },
+  {
+    "title": "Match Group’s new CEO admits the company’s dating apps have too often ‘felt like a numbers game’",
+    "id": "09mvudl0in3570",
+    "summary": "- Match Group's new CEO Spencer Rascoff addressed employee concerns about user experience in a letter.\n- Rascoff acknowledges dating apps feeling like a 'numbers game', prioritizing metrics over user connections.\n- He emphasizes that future decisions must prioritize user experience and trust.\n- Outlined five priorities for transformation: Users first, innovate quickly, details matter, prioritizing transparency, safety & authenticity, and the significance of human connection.\n- The company saw success during the pandemic but has faced challenges as users shifted back to in-person interactions.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 5,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "Match Group",
+      "CEO Spencer Rascoff",
+      "dating apps",
+      "user experience",
+      "Tinder",
+      "Hinge",
+      "company vision"
+    ],
+    "sources": [
+      {
+        "title": "Match Group’s new CEO admits the company’s dating apps have too often ‘felt like a numbers game’",
+        "link": "https://www.fastcompany.com/91297030/match-group-ceo-spencer-rascoff-outlines-vision?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
+      }
+    ],
+    "lastUpdated": "2025-03-13T19:11:57.475Z"
+  },
+  {
     "title": "Android 16 is getting a major hearing accessibility feature",
     "id": "1yyftq10yujii3",
     "summary": "- Android will soon support Auracast, enhancing audio broadcasts for Bluetooth LE hearing aids.\n- This feature will allow users to connect directly to audio streams in challenging listening environments like airports and concerts.\n- Samsung Galaxy and Pixel 9 devices will support Auracast with an Android 16 beta update, allowing users to scan QR codes for connections.\n- Google announced Android 16 has reached platform stability, nearing full launch, with a focus on I/O developments.",
@@ -16226,61 +16518,6 @@
       }
     ],
     "lastUpdated": "2025-03-07T17:11:37.127Z"
-  },
-  {
-    "title": "Data Breach Affects Nearly 18,000 Organizations and Insights on Stalkerware Apps",
-    "id": "0pjx7bb1qm8zab",
-    "summary": "- Consumer-grade spyware apps can monitor private messages, photos, calls, and location on Android devices.\n- A guide aids in identifying and removing stalkerware like [TheTruthSpy](https://techcrunch.com/2022/10/26/inside-thetruthspy-stalkerware/), [Cocospy](https://techcrunch.com/2025/02/20/stalkerware-apps-cocospy-spyic-exposing-phone-data-of-millions-of-people/), and [Spyic](https://techcrunch.com/2025/02/20/stalkerware-apps-cocospy-spyic-exposing-phone-data-of-millions-of-people/).\n- Stalkerware often masquerades as child monitoring software, sometimes installed without consent.\n- Symptoms of infection can include odd phone behavior, excessive data consumption, and performance degradation.\n- To mitigate stalkerware risks, users should enable [Google Play Protect](https://techcrunch.com/2023/11/04/google-play-android-real-time-app-scanning-sideload-apps/), check accessibility services, and audit notification access settings.\n- The stalkerware industry thrives, marketing apps to jealous partners, with at least 24 companies experiencing data breaches since 2017, affecting millions.\n- Recent hacks involved companies like Spyzie and Cocospy, leaking over 3.2 million email addresses and sensitive data.\n- Security expert Eva Galperin highlights the stalkerware industry's vulnerability, calling it a 'soft target' for hackers.\n- Usage of stalkerware is illegal in many jurisdictions and poses risks to victims’ data security.\n- Zapier has suffered a data breach that may expose customer data, impacting user privacy and security.\n- Users are encouraged to change passwords and monitor accounts for suspicious activity; however, Zapier has not revealed the number of affected users or specific data compromised.\n- NTT Communications confirmed unauthorized access to the data of nearly 18,000 corporate customers in a cyberattack discovered on February 5.\n- Stolen data includes names, contract numbers, and contact details for 17,891 organizations, with NTT Com serving over 100,000 corporate customers across 70 countries.\n- Access was restricted to compromised devices post-breach detection, with a second compromised device found on February 15.\n- Details about the attackers and the nature of the cyberattack remain unclear.",
-    "thumbnails": [
-      "https://techcrunch.com/wp-content/uploads/2022/02/stalkerware-google-play-protect-final.jpeg",
-      "https://cdn.techinasia.com/wp-content/uploads/2025/03/1740955383_Zaoier.jpg"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 5.75,
-      "longTermSignificance": 6.75
-    },
-    "keywords": [
-      "stalkerware",
-      "spyware",
-      "android",
-      "privacy",
-      "security",
-      "removal guide",
-      "google play protect",
-      "accessibility features",
-      "data breach",
-      "cybersecurity",
-      "mobile apps",
-      "data exposure",
-      "zapier",
-      "customer data",
-      "automation platform",
-      "ntt com",
-      "cyberattack",
-      "japan",
-      "telecommunications"
-    ],
-    "sources": [
-      {
-        "title": "Your Android phone could have stalkerware. Here’s how to remove it",
-        "link": "https://techcrunch.com/2025/02/20/remove-android-spyware/"
-      },
-      {
-        "title": "Hacked, leaked, exposed: Why you should never use stalkerware apps",
-        "link": "https://techcrunch.com/2025/02/27/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/"
-      },
-      {
-        "title": "Automation platform Zapier breach may expose customer data",
-        "link": "https://www.techinasia.com/news/automation-platform-zapier-breach-expose-customer-data"
-      },
-      {
-        "title": "NTT Com Confirms Data Breach Affected Nearly 18,000 Organizations",
-        "link": "https://techcrunch.com/2025/03/07/japanese-telco-giant-ntt-com-says-hackers-accessed-details-of-almost-18000-organizations/"
-      }
-    ],
-    "lastUpdated": "2025-03-07T16:14:24.772Z"
   },
   {
     "title": "CollX raises $10M to grow its card collection marketplace",

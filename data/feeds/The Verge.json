@@ -4,6 +4,100 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "WinRing0: Why Windows is flagging your PC monitoring and fan control apps as a threat",
+      "link": "https://www.theverge.com/report/629259/winring0-windows-defender-fan-control-pc-monitoring-alert-quarantine",
+      "author": "Sean Hollister",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/ApplicationFrameHost_nk5uPl4IJ6_1d663f.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "- Windows Defender flagged a tool called WinRing0 as a HackTool, affecting many PC monitoring and fan control applications.\n- The detection led to various software misbehaving, such as fans running excessively.\n- Programs affected include Fan Control, Razer Synapse, and MSI Afterburner, all of which used WinRing0 for hardware monitoring.\n- Developers express concern as WinRing0 poses a real vulnerability that could be exploited, although its current use in these applications is not malicious.\n- Microsoft has been pressured to tighten security around kernel-level drivers after previous incidents and may not have communicated the changes clearly.\n- Developers have explored alternatives but face challenges due to high costs associated with getting drivers signed by Microsoft, restricting open-source projects.\n- Some companies are finding ways to address this issue, hoping to create a signed version of WinRing0 to help affected applications.",
+      "keywords": [
+        "WinRing0",
+        "Windows Defender",
+        "PC monitoring apps",
+        "fan control",
+        "security threat",
+        "kernel-level software",
+        "open-source",
+        "Razer Synapse",
+        "MSI Afterburner"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-13T18:51:38.000Z"
+    },
+    {
+      "title": "The best Garmin watches for training and everyday life",
+      "link": "https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables",
+      "author": "Victoria Song",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24483626/236554_Garmin_Forerunner_265S_AKrales_0168.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400",
+      "summary": "- Garmin watches are popular among various athletes and outdoor enthusiasts, known for fitness tracking and rugged durability.\n- Recent Garmin models cater to both athletes and general users, emphasizing fitness metrics, GPS navigation, and long battery life.\n- Notably, Garmin watches have features such as offline maps, advanced training metrics, and safety capabilities like fall detection.\n- The Forerunner 265/265S offers a balance of price and features, including an OLED display and long battery life, priced at about $450.\n- The Epix Pro provides extensive fitness features, available in multiple sizes, combining the best of Garmin's offerings starting at $720.",
+      "keywords": [
+        "Garmin",
+        "smartwatches",
+        "fitness trackers",
+        "training",
+        "GPS",
+        "outdoor sports",
+        "battery life",
+        "Forerunner",
+        "Epix Pro"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-13T18:48:58.000Z"
+    },
+    {
+      "title": "The Olympics will stay on NBC for at least another decade",
+      "link": "https://www.theverge.com/news/629377/olympics-nbc-peacock-rights-deal-2036",
+      "author": "Emma Roth",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK477_2024_OLYMPICS_2_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "summary": "- NBC has extended its media rights deal with the International Olympic Committee (IOC) to air the Olympics until 2036.\n- The previous agreement allowed NBC to stream the Olympics through 2032; the new deal is valued at $3 billion for the 2033 to 2036 cycle.\n- Last year's Olympics led to a 33% increase in viewers on Peacock, indicating the importance of the event for NBC's streaming platform.",
+      "keywords": [
+        "NBC",
+        "Olympics",
+        "IOC",
+        "Peacock",
+        "Streaming Rights",
+        "Comcast"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-13T18:48:37.000Z"
+    },
+    {
+      "title": "Flatiron Books says it will keep publishing book from ex-Meta employee",
+      "link": "https://www.theverge.com/news/629347/meta-careless-people-flatiron-books-macmillan",
+      "author": "Jay Peters",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195819/JAY_PETERS.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Flatiron Books will continue to publish the book \"Careless People\" by ex-Meta staffer Sarah Wynn-Williams despite a recent arbitration order.\n- The arbitration ruling instructed the author to stop making \"disparaging\" remarks against Meta and cease promoting the book.\n- Macmillan, Flatiron's parent company, condemned Meta's tactics to silence the author and affirmed their commitment to the book after thorough editing and vetting.",
+      "keywords": [
+        "Flatiron Books",
+        "Meta",
+        "publishing",
+        "arbitration",
+        "Sarah Wynn-Williams",
+        "Careless People"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-13T18:29:11.000Z"
+    },
+    {
       "title": "Mercedes-Benz is hedging its bets with rebooted CLA sedan",
       "link": "https://www.theverge.com/news/628464/mercedes-benz-cla-ev-hybrid-mma-platform",
       "author": "Abigail Bassett",
@@ -2113,103 +2207,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-03-12T17:21:25.000Z"
-    },
-    {
-      "title": "Moft’s new origami case elevates the iPad for improved ergonomics",
-      "link": "https://www.theverge.com/news/628261/moft-dynamic-folio-apple-ipad-tablet-case-folding-origami",
-      "author": "Andrew Liszewski",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197412/headshot_andrewL_blackwhite.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Moft has unveiled the Dynamic Folio case for iPads, designed to enhance ergonomics for users working with Apple Pencil or watching videos.\n- The case utilizes an origami design to provide elevation of up to three inches and can support a smartphone simultaneously.\n- Available through Kickstarter, the campaign has exceeded its $10,000 goal; prices range from $34 for the Mini size to $55 for the 13-inch version, with shipping starting as early as May 2025.\n- Made from a lightweight fiberglass and MOVAS vegan leather, the case weighs 292 grams, lighter than Apple's iPad cases.\n- Features include floating modes for different angles and the ability to fold it for portrait or landscape use; an optional holder for Apple Pencil can be added.",
-      "keywords": [
-        "iPad",
-        "Moft",
-        "Dynamic Folio",
-        "case",
-        "ergonomics",
-        "Apple Pencil",
-        "Kickstarter",
-        "vegan leather"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-03-12T17:10:43.000Z"
-    },
-    {
-      "title": "Microsoft isn’t launching its Xbox handheld this year, but Asus might be",
-      "link": "https://www.theverge.com/notepad-microsoft-newsletter/628073/microsoft-xbox-handheld-project-kennan-notepad",
-      "author": "Tom Warren",
-      "thumbnail": null,
-      "summary": "- Microsoft Gaming CEO Phil Spencer stated the Xbox handheld is still a prototype and won't launch soon.\n- A report suggested an Xbox handheld named Project Keenan in development for a later release, but Microsoft clarifies plans are not solidified yet.\n- Asus is involved in producing this handheld, likely debuting later this year, under Microsoft’s broader goal to unify Windows and Xbox.\n- The handheld will run Windows but feature an Xbox-like interface, aiming for a universal game library.\n- Microsoft is focusing on game preservation and compatibility across platforms, which could reshape the future of Xbox consoles.\n- Competing with Valve's SteamOS is also a motive behind these changes, especially given their recent popularity in the handheld market.",
-      "keywords": [
-        "Xbox",
-        "handheld",
-        "Microsoft",
-        "Asus",
-        "gaming",
-        "Project Kennan",
-        "SteamOS",
-        "Windows",
-        "game preservation",
-        "platform unification"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-12T17:00:00.000Z"
-    },
-    {
-      "title": "Poker Face season 2 is coming to Peacock this May",
-      "link": "https://www.theverge.com/news/628186/poker-face-season-2-trailer-date-peacock",
-      "author": "Charles Pulliam-Moore",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195801/CHARLES_PULLIAM-MOORE.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Season 2 of *Poker Face* is set to premiere on May 8th on Peacock.\n- Natasha Lyonne returns as Charlie Cale, solving murder mysteries.\n- The new season will include celebrity guest stars like Cynthia Erivo, Katie Holmes, Giancarlo Esposito, Method Man, and John Mulaney.",
-      "keywords": [
-        "Poker Face",
-        "Peacock",
-        "season 2",
-        "Natasha Lyonne",
-        "murder mystery",
-        "TV shows",
-        "Celebrity guest stars"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-03-12T16:35:59.000Z"
-    },
-    {
-      "title": "Google apologizes for Chromecast outage in email to users",
-      "link": "https://www.theverge.com/news/628194/google-chromecast-second-gen-audio-outage-fix-email",
-      "author": "Wes Davis",
-      "thumbnail": null,
-      "summary": "- Google is emailing Chromecast users to apologize for ongoing issues affecting certain models.\n- The problems began over the weekend, with devices displaying 'Untrusted device' errors.\n- Google is working on a fix and has communicated updates via the [Nest Community page](https://www.googlenestcommunity.com/t5/Streaming/Regarding-an-issue-with-Chromecast-2nd-gen-and-Chromecast-Audio/td-p/686992).\n- A Reddit user speculated that the issue may be due to an expired certificate, which became invalid just before the failures began.",
-      "keywords": [
-        "Google",
-        "Chromecast",
-        "outage",
-        "apology",
-        "device issues",
-        "streaming devices",
-        "Nest Community",
-        "tech support"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 3,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-03-12T16:07:21.000Z"
     }
   ]
 }
