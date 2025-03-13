@@ -4,6 +4,30 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Could deeptech serve as Europe’s path to autonomy from the US?",
+      "link": "https://techcrunch.com/2025/03/13/could-europes-16b-deeptech-bet-be-a-path-to-autonomy-from-the-us/",
+      "author": "Mike Butcher",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Deeptech-Europe-2024.jpeg?w=680",
+      "summary": "- A report suggests that deeptech could be crucial for Europe’s security and autonomy from the US amidst geopolitical tensions.\n- In 2024, deeptech attracted €15 billion ($16.3 billion) in venture investments, making up nearly one-third of all VC investment in Europe.\n- The M&A activity in deeptech reached $12.2 billion, yet European startups still depend on the US for exits and 50% of their growth capital comes from outside Europe.\n- Co-author Lukas Leitner emphasizes the need for Europe to embrace deeptech to achieve resilience despite challenges.\n- The US deeptech scene benefits from a “flywheel effect,” while Europe’s ecosystem is still developing.\n- Europe shows promise in photonics computing and could attract scientists from the US due to budget cuts in American science funding.",
+      "keywords": [
+        "deeptech",
+        "Europe",
+        "venture capital",
+        "autonomy",
+        "geopolitics",
+        "M&A",
+        "innovation",
+        "technology"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-13T09:00:00.000Z"
+    },
+    {
       "title": "Xiaomi to preinstall PhonePe’s app store on smartphones sold in India",
       "link": "https://techcrunch.com/2025/03/13/xiaomi-to-preinstall-phonepes-app-store-on-smartphones-sold-in-india/",
       "author": "Ivan Mehta",
@@ -1074,29 +1098,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-03-11T19:24:37.000Z"
-    },
-    {
-      "title": "Apple fixes new security flaw used in ‘extremely sophisticated attack’",
-      "link": "https://techcrunch.com/2025/03/11/apple-fixes-new-security-flaw-used-in-extremely-sophisticated-attack/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1237753209.jpg?w=1024",
-      "summary": "- Apple released patches for a zero-day bug in WebKit, affecting Safari and other apps.\n- The flaw allowed hackers to escape WebKit's protective sandbox, potentially compromising targeted devices.\n- The patch was issued for various Apple devices including Macs, iPhones, iPads, Safari, and the Vision Pro headset on March 11, 2025.\n- The attack targeted devices running software prior to iOS 17.2, though no specifics about the hackers or targets were disclosed.\n- This is at least the second mention of an 'extremely sophisticated attack' by Apple in recent times regarding vulnerabilities, with no evidence linking the two incidents.",
-      "keywords": [
-        "Apple",
-        "security",
-        "WebKit",
-        "zero-day bug",
-        "Safari",
-        "cybersecurity",
-        "patch update"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-11T19:16:15.000Z"
     }
   ]
 }
