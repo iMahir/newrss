@@ -4,6 +4,100 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Microsoft’s new Xbox Copilot will act as an AI gaming coach",
+      "link": "https://www.theverge.com/news/628666/microsoft-xbox-copilot-for-gaming",
+      "author": "Tom Warren",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197777/profilephoto.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Microsoft announces the upcoming launch of **Copilot for Gaming**, an AI assistant for Xbox players.\n- Initially available through the Xbox mobile app, it will guide players and assist with game downloads.\n- During a demo, Copilot provided coaching for **Overwatch 2**, analyzing player mistakes and suggesting hero picks.\n- It can also answer crafting-related questions in **Minecraft** and help locate materials.\n- Early testing will start with Xbox Insiders in April, with a broader release planned later.",
+      "keywords": [
+        "Xbox",
+        "AI",
+        "gaming coach",
+        "Copilot",
+        "Microsoft",
+        "Overwatch 2",
+        "Minecraft",
+        "mobile app"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-13T15:00:00.000Z"
+    },
+    {
+      "title": "Trump’s first 100 days: all the news affecting the tech industry",
+      "link": "https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news",
+      "author": "Verge Staff",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197292/2023-05-07_16.33.21_-_Lauren_Feiner_Headshot_-_8X10_-_001.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "summary": "- The FTC clarified it has enough staff to proceed with its case against Amazon despite earlier claims of needing a delay.\n- The lawsuit involves accusations that Amazon misled consumers regarding its Prime subscription practices.\n- A federal judge is reviewing plans of the Trump administration's actions towards the Consumer Financial Protection Bureau (CFPB).",
+      "keywords": [
+        "Trump",
+        "FTC",
+        "Amazon",
+        "CFPB",
+        "technology",
+        "regulation",
+        "consumer protection"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-13T14:53:38.000Z"
+    },
+    {
+      "title": "The FTC has enough staff to pursue its case against Amazon after all",
+      "link": "https://www.theverge.com/news/628981/ftc-amazon-prime-delay-resource-constraints",
+      "author": "Lauren Feiner",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197292/2023-05-07_16.33.21_-_Lauren_Feiner_Headshot_-_8X10_-_001.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- The FTC clarifies that it has sufficient staffing to pursue its case against Amazon, contradicting an earlier statement requesting a trial delay due to staff losses.\n- An FTC attorney, Jonathan Cohen, initially sought a two-month delay in the trial set for September 22nd, citing resource constraints but later retracted this statement.\n- The case involves allegations of deceptive practices by Amazon regarding its Prime sign-up and cancellation process.",
+      "keywords": [
+        "FTC",
+        "Amazon",
+        "staffing",
+        "lawsuit",
+        "deceptive practices",
+        "Prime membership",
+        "trial delay"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-13T14:53:38.000Z"
+    },
+    {
+      "title": "Warner Bros. is turning All You Need Is Kill into a stunning new anime movie",
+      "link": "https://www.theverge.com/news/628878/all-you-need-is-kill-kenichiro-akimoto-warner-bros",
+      "author": "Charles Pulliam-Moore",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195801/CHARLES_PULLIAM-MOORE.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Warner Bros. Japan announced development of a new anime movie based on the novel *All You Need Is Kill* by Hiroshi Sakurazaka.\n- Directed by Kenichiro Akimoto, known for *Children of the Sea* and *Harmony*.\n- The story focuses on soldiers Keiji Kiriya and Rita Vrataski trapped in a time loop during an alien invasion, shifting the narrative perspective to Rita.\n- A trailer suggests a visually stunning film, though no casting or release date has been revealed.",
+      "keywords": [
+        "All You Need Is Kill",
+        "Warner Bros.",
+        "anime movie",
+        "Kenichiro Akimoto",
+        "Studio 4°C",
+        "sci-fi",
+        "time loop",
+        "Hiroshi Sakurazaka"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-13T14:23:43.000Z"
+    },
+    {
       "title": "Sigma BF review: the perfect camera for a minimalist",
       "link": "https://www.theverge.com/camera-review/628519/sigma-bf-camera-review-photography-specs",
       "author": "Vjeran Pavic",
@@ -2083,60 +2177,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-12T07:46:13.000Z"
-    },
-    {
-      "title": "From ChatGPT to Gemini: how AI is rewriting the internet",
-      "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
-      "author": "Verge Staff",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/0007835275_20.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-      "summary": "- AI technology is reshaping online communication and user interaction.\n- Google's Gemini model claims to be the leading AI on a single GPU, integrating advanced functionalities and safety classifiers.\n- Major tech firms are competing intensely in AI development, with implications for user experience and operational capabilities.\n- AI tools are being deployed in various fields including healthcare, where Microsoft's Dragon Copilot is introduced to assist with clinical documentation.",
-      "keywords": [
-        "AI",
-        "Gemini",
-        "ChatGPT",
-        "Google",
-        "Microsoft",
-        "Healthcare",
-        "Technology",
-        "AI Models"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 8,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-12T07:46:13.000Z"
-    },
-    {
-      "title": "All the news about Netflix’s gaming efforts",
-      "link": "https://www.theverge.com/22772589/netflix-video-games-app-news-updates",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-03-12T00:11:36.000Z"
-    },
-    {
-      "title": "Honey: all the news about PayPal’s alleged scam coupon app",
-      "link": "https://www.theverge.com/24343913/paypal-honey-megalag-coupon-scam-affiliate-fees",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-03-12T00:01:24.000Z"
-    },
-    {
-      "title": "Google changes Chrome extension policies following the Honey link scandal",
-      "link": "https://www.theverge.com/news/627940/google-chrome-extensions-paypal-honey-affiliate",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-03-12T00:01:24.000Z"
     }
   ]
 }
