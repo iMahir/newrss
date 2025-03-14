@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Apple to Enable Encrypted RCS Messaging with Android Users",
+      "link": "https://www.theverge.com/news/629620/apple-iphone-e2ee-encryption-rcs-messaging-android",
+      "author": "Jess Weatherbed",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195820/JESSICA_WEATHERBED.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Apple and Android users will soon exchange end-to-end encrypted RCS messages thanks to updated RCS specifications.\n- The latest RCS standard includes E2EE based on the Messaging Layer Security (MLS) protocol, marking the first interoperable encryption across different platforms.\n- Apple will add E2EE support for RCS messages in iOS, iPadOS, macOS, and watchOS in future updates, enhancing privacy and security in messaging.",
+      "keywords": [
+        "Apple",
+        "Android",
+        "RCS",
+        "encrypted messaging",
+        "E2EE",
+        "privacy",
+        "security",
+        "iOS 18"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-14T09:57:30.000Z"
+    },
+    {
       "title": "T-Mobile is raising prices on some of its prized legacy plans",
       "link": "https://www.theverge.com/news/629598/t-mobile-legacy-plan-price-increase",
       "author": "Umar Shakir",
@@ -2187,28 +2211,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-12T21:08:27.000Z"
-    },
-    {
-      "title": "Intel Appoints Lip-Bu Tan as New CEO",
-      "link": "https://www.theverge.com/news/628539/intel-new-ceo-lip-bu-tan-pat-gelsinger",
-      "author": "Jay Peters",
-      "thumbnail": null,
-      "summary": "- Intel has appointed Lip-Bu Tan as the new CEO, effective March 18th.\n- Lip-Bu Tan previously served as CEO at Cadence and was on Intel’s board from 2022 to 2024.\n- Former CEO Pat Gelsinger was reportedly pushed out by the board after losing faith in his strategy.\n- Tan aims to strengthen Intel's manufacturing and computing platform.",
-      "keywords": [
-        "Intel",
-        "CEO",
-        "Lip-Bu Tan",
-        "Pat Gelsinger",
-        "chip manufacturing",
-        "Cadence"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-12T21:07:41.000Z"
     }
   ]
 }
