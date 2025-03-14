@@ -4,6 +4,79 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "DeepSeek: Everything you need to know about the AI chatbot app",
+      "link": "https://techcrunch.com/2025/03/14/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- DeepSeek’s AI chatbot app has achieved significant popularity, ranking at the top of both the Apple App Store and Google Play Store.\n- Founded in 2023 by High-Flyer Capital Management, DeepSeek specializes in efficient AI model development.\n- The company unveiled DeepSeek-V2 and DeepSeek-V3 models, which are known for low operational costs and competitive performance compared to other models.\n- DeepSeek’s products have driven rivals like ByteDance and Alibaba to adjust their pricing strategies.\n- The AI models, including the reasoning model R1, face regulatory scrutiny in China that restricts certain topics in responses.\n- Microsoft has integrated DeepSeek’s models into its Azure AI Foundry service, influencing AI infrastructure investment strategies across companies.\n- Despite its success, DeepSeek faces bans and restrictions from various governments and companies due to national security concerns.\n- The future of DeepSeek remains uncertain, especially with potential U.S. government actions against its use.",
+      "keywords": [
+        "DeepSeek",
+        "AI chatbot",
+        "technology",
+        "China",
+        "artificial intelligence",
+        "app store",
+        "Nvidia",
+        "OpenAI",
+        "government bans",
+        "reasoning model"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-14T16:11:10.000Z"
+    },
+    {
+      "title": "What to know about TikTok’s uncertain future in the US and the people who want to buy it",
+      "link": "https://techcrunch.com/2025/03/14/what-to-know-about-tiktoks-uncertain-future-in-the-us-and-the-people-who-want-to-buy-it/",
+      "author": "Lauren Forristal",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1229173793.jpg?w=680",
+      "summary": "- TikTok, owned by ByteDance, faces controversy over user data security concerns in the U.S.\n- In February 2025, TikTok briefly withdrew from the U.S. App Store and Google Play before returning.\n- Valuation estimates for TikTok's U.S. business are upwards of $60 billion amid competing investor interests.\n- Significant events include Trump’s 2020 executive order aimed to ban TikTok, leading to legal battles, especially during the Biden administration.\n- The U.S. Supreme Court upheld the TikTok ban, while Trump recently expressed a desire to find a solution to keep the app in the U.S.\n- Various groups, including The People’s Bid led by Frank McCourt and a consortium led by Jesse Tinsley, are potential buyers of TikTok.",
+      "keywords": [
+        "TikTok",
+        "ByteDance",
+        "US",
+        "data security",
+        "bidding",
+        "Trump",
+        "investors"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-14T16:01:42.000Z"
+    },
+    {
+      "title": "iPhone and Android users will soon be able to send encrypted RCS messages to each other",
+      "link": "https://techcrunch.com/2025/03/14/iphone-and-android-users-will-soon-be-able-to-send-encrypted-rcs-messages-to-each-other/",
+      "author": "Paul Sawers",
+      "thumbnail": null,
+      "summary": "- Text messages between iPhones and Android devices will soon have end-to-end encryption (E2EE).\n- The GSMA published new specifications for the RCS protocol to support cross-platform E2EE.\n- RCS provides features like group messaging and read receipts, similar to WhatsApp.\n- Apple is now including RCS support, following the introduction of iOS 18.\n- The new E2EE mechanism is based on the Messaging Layer Security (MLS) protocol.\n- RCS will be the first large-scale messaging service to offer interoperable E2EE between different platforms.",
+      "keywords": [
+        "RCS",
+        "end-to-end encryption",
+        "iPhone",
+        "Android",
+        "messaging",
+        "GSMA",
+        "Messaging Layer Security",
+        "cross-platform"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-14T15:31:53.000Z"
+    },
+    {
       "title": "Developer of Lockbit ransomware gets extradited to the United States",
       "link": "https://techcrunch.com/2025/03/14/developer-of-lockbit-ransomware-gets-extradited-to-the-united-states/",
       "author": null,
@@ -1112,77 +1185,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-13T08:10:20.000Z"
-    },
-    {
-      "title": "Estonia-based Blackwall raises €45 million Series B to protect SMBs from malicious online traffic",
-      "link": "https://techcrunch.com/2025/03/12/estonia-based-blackwall-raises-e45-million-series-b-to-protect-smbs-from-malicious-online-traffic/",
-      "author": "Anna Heim",
-      "thumbnail": null,
-      "summary": "- Blackwall, an Estonia-based cybersecurity startup, raised €45 million (~$49.2 million) in Series B funding to protect SMBs from online threats.\n- The startup focuses on filtering malicious traffic, with products like GateKeeper, a reverse proxy using AI for real-time analysis.\n- Blackwall aims to expand to U.S. and APAC markets while growing its team and product offerings.",
-      "keywords": [
-        "Blackwall",
-        "cybersecurity",
-        "SMBs",
-        "malicious traffic",
-        "Series B",
-        "AI",
-        "DDoS attacks",
-        "ad fraud prevention",
-        "startup funding"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-13T06:59:00.000Z"
-    },
-    {
-      "title": "Vento rolls out new €75M fund for Italian founders, no matter where they live",
-      "link": "https://techcrunch.com/2025/03/12/vento-hopes-new-e75m-fund-for-italian-founders-anywhere-will-kick-italys-ecosystem-into-life/",
-      "author": "Mike Butcher",
-      "thumbnail": null,
-      "summary": "- Vento launches its second fund, capped at €75 million, targeting Italian founders regardless of their location.\n- The fund aims to foster the Italian startup ecosystem by replicating a model pioneered in Europe.\n- Vento plans to make 375 investments over five years, having already invested in 100 startups including Bee and JetHR.\n- Italian Tech Week plays a critical role in evaluating startups and enhancing visibility for Italian entrepreneurs.\n- The fund addresses the gap in Italy's tech ecosystem, aiming to attract and support exceptional Italian founders globally.\n- Venture capital investment in Italian startups has increased, totaling $5.72 billion from 2020 to 2024.",
-      "keywords": [
-        "Vento",
-        "Italian founders",
-        "venture capital",
-        "startup ecosystem",
-        "funding",
-        "entrepreneurship",
-        "Italy",
-        "Tech Week"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-13T06:00:00.000Z"
-    },
-    {
-      "title": "Travis Kalanick thinks Uber screwed up: “Wish we had an autonomous ride-sharing product”",
-      "link": "https://techcrunch.com/2025/03/12/travis-kalanick-thinks-uber-screwed-up-wish-we-had-an-autonomous-ride-sharing-product/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-488595694.jpg?w=1024",
-      "summary": "- Travis Kalanick, former CEO of Uber, stated that abandoning the autonomous driving program was a mistake during the Abundance Summit in L.A.\n- He mentioned that at the time of cancellation, Uber was close to catching up to Waymo's technology.\n- Uber sold its self-driving unit to Aurora in 2020 amid high costs and bleeding cash from the project.\n- Currently, Waymo's self-driving cars are operational in several markets including the Bay Area and Los Angeles.\n- Waymo has partnered with Uber in Austin, but Uber risks losing its position if partnerships do not continue to thrive.",
-      "keywords": [
-        "Travis Kalanick",
-        "Uber",
-        "autonomous driving",
-        "Waymo",
-        "ride-sharing",
-        "technology"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-13T01:28:20.000Z"
     }
   ]
 }
