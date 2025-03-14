@@ -4,6 +4,74 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "NASA’s SpaceX Crew-10 Mission Set to Return Starliner Astronauts Home",
+      "link": "https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex",
+      "author": "Andrew Liszewski",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/0007835275_20.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "summary": "- NASA’s SpaceX Crew-10 mission was rescheduled for launch on March 14th after a hydraulic issue was resolved.\n- The mission will bring home astronauts Butch Wilmore and Suni Williams, who have been stranded on the ISS for nine months due to problems with their original spacecraft, Boeing Starliner.\n- Crew-9 will also return to Earth two astronauts from its mission, scheduled for March 19th, 2025.",
+      "keywords": [
+        "NASA",
+        "SpaceX",
+        "Crew-10",
+        "Boeing Starliner",
+        "Astronauts",
+        "ISS",
+        "Space Mission"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-14T14:00:38.000Z"
+    },
+    {
+      "title": "How to go back in time using Google Maps",
+      "link": "https://www.theverge.com/how-to/628861/google-maps-earth-time-how-to",
+      "author": "David Nield",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/01-maps.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "- Google Maps allows users to explore historical imagery on Street View, with available dates going back to 2007 in some areas.\n- On desktop, access Street View by clicking on a location and selecting the 'Street View' panel, then use the 'See more dates' link to view available historical pictures.\n- Mobile users can tap and hold on the map or select a location’s info card to see Street View and the associated historical images.\n- Historical satellite imagery can be accessed via Google Earth with options to view imagery by specific years and use a timelapse feature, with some images dating back to the 1970s.",
+      "keywords": [
+        "Google Maps",
+        "Street View",
+        "historical imagery",
+        "Google Earth",
+        "satellite imagery",
+        "time travel"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-14T13:00:00.000Z"
+    },
+    {
+      "title": "The fake promise of better Siri",
+      "link": "https://www.theverge.com/the-vergecast/629652/siri-delay-bad-apple-tesla-trump-vergecast",
+      "author": "David Pierce",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195807/DAVID_PIERCE.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Apple claims to have transformed Siri into an AI-powered helper but it is currently non-existent.\n- Siri was promoted as a flagship feature of the iPhone 16 lineup, which has led to consumer disappointment.\n- The Vergecast episode discusses the failures of Siri and the gadget industry’s excessive focus on AI without delivering quality products.\n- Also features a discussion on Tesla's political implications and challenges faced by the brand under Elon Musk’s influence.",
+      "keywords": [
+        "Siri",
+        "Apple",
+        "AI",
+        "gadget industry",
+        "Tesla",
+        "Elon Musk",
+        "Vergecast"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-14T12:50:21.000Z"
+    },
+    {
       "title": "Apple to Enable Encrypted RCS Messaging with Android Users",
       "link": "https://www.theverge.com/news/629620/apple-iphone-e2ee-encryption-rcs-messaging-android",
       "author": "Jess Weatherbed",
@@ -2137,80 +2205,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-12T22:12:52.000Z"
-    },
-    {
-      "title": "UK investigation says Apple and Google are ‘holding back’ mobile browsers",
-      "link": "https://www.theverge.com/news/628472/apple-safari-ios-google-android-chrome-cma-competition",
-      "author": "Jess Weatherbed",
-      "thumbnail": null,
-      "summary": "- The UK’s Competition and Markets Authority (CMA) investigation reveals Apple and Google hinder competition in mobile browsers.\n- Apple requires all iOS browsers to use its WebKit engine, limiting competition, while Google’s Android also restricts options.\n- Concerns include Safari being default on iPhones and Chrome on Android, reducing user awareness of alternatives.\n- Both companies made some changes to improve browser choice since the provisional findings in November.\n- CMA suggests remedies including allowing alternative engines on iOS and a browser choice screen at setup, though currently unenforceable.\n- Separate CMA investigations into Apple and Google’s ecosystems are ongoing, with potential to designate them as having strategic market status (SMS).",
-      "keywords": [
-        "Apple",
-        "Google",
-        "CMA",
-        "mobile browsers",
-        "competition",
-        "iOS",
-        "Safari",
-        "WebKit",
-        "Android",
-        "Chrome",
-        "strategic market status",
-        "antitrust"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-12T21:36:06.000Z"
-    },
-    {
-      "title": "AMD’s partners are already scalping their ‘MSRP’ 9070 and 9070 XT",
-      "link": "https://www.theverge.com/news/628332/amd-9070-xt-gpu-retailer-partner-scalping",
-      "author": "Sean Hollister",
-      "thumbnail": null,
-      "summary": "- AMD’s Radeon 9070 and 9070 XT graphics cards are being scalped by retailers, with prices rising $50-$130 above their original MSRPs of $550 and $600.\n- Retailers like Newegg and Overclockers UK have raised prices on certain models ahead of new shipments, with notable increases: 9070 XT Reaper at $700, 9070 XT Swift at $730, and 9070 Gaming OC at $670.\n- Not all retailers have updated prices yet; Best Buy has not changed its MSRP listings, although it is out of stock.\n- In contrast, Nvidia cards remain at MSRP with no significant scalping detected at major US retailers.",
-      "keywords": [
-        "AMD",
-        "Radeon",
-        "9070",
-        "9070 XT",
-        "scalping",
-        "graphics cards",
-        "retailers",
-        "pricing"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-12T21:25:52.000Z"
-    },
-    {
-      "title": "Amtrak's Revamped App Makes It Easier to Find Your Train Status",
-      "link": "https://www.theverge.com/news/628538/amtrak-app-update-ticket-homescreen-schedule-seat-reservation",
-      "author": "Umar Shakir",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195848/UMAR_SHAKIR.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Amtrak is revamping its mobile app to enhance user experience with features for tracking train status and schedule changes.\n- The app now displays train status and schedule changes directly on the reservation screen, improving accessibility for users.\n- Updates include the ability for business class riders to select preferred seating, a redesigned homescreen separating tickets from marketing, and a new My Trips tab for easier trip management.\n- The updated app is available for download on [iOS](https://apps.apple.com/us/app/amtrak/id405074003) and [Android](https://go.skimresources.com/?id=1025X1701640&xs=1&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.amtrak.rider%26hl%3Den_US%26pli%3D1).",
-      "keywords": [
-        "Amtrak",
-        "mobile app",
-        "train status",
-        "travel",
-        "passenger experience",
-        "app update"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-12T21:08:27.000Z"
     }
   ]
 }
