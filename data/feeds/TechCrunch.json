@@ -4,6 +4,30 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Anti-aging zealot Bryan Johnson wants to start ‘foodome sequencing’",
+      "link": "https://techcrunch.com/2025/03/13/anti-aging-zealot-bryan-johnson-wants-to-start-foodome-sequencing/",
+      "author": "Rebecca Bellan",
+      "thumbnail": null,
+      "summary": "- Bryan Johnson aims to initiate 'foodome' sequencing to analyze 20% of foods that constitute 80% of the American diet.\n- His approach includes testing foods for toxins and creating a public database for accountability in food safety.\n- Johnson has unconventional health practices, like blood transfusions with his son, and promotes a lifestyle aimed at extending lifespan.",
+      "keywords": [
+        "Bryan Johnson",
+        "foodome sequencing",
+        "longevity",
+        "health",
+        "toxins",
+        "food safety",
+        "AI",
+        "Blueprint Protocol"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 8,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-13T23:57:33.000Z"
+    },
+    {
       "title": "Sesame, the startup behind the viral virtual assistant Maya, releases its base AI model",
       "link": "https://techcrunch.com/2025/03/13/sesame-the-startup-behind-the-viral-virtual-assistant-maya-releases-its-base-ai-model/",
       "author": "Kyle Wiggers",
@@ -1164,29 +1188,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-12T20:20:27.000Z"
-    },
-    {
-      "title": "Google DeepMind unveils new AI models for controlling robots",
-      "link": "https://techcrunch.com/2025/03/12/google-deepmind-unveils-new-ai-models-for-controlling-robots/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Screenshot-2025-03-12-at-3.34.00PM.png?w=1024",
-      "summary": "- Google DeepMind announced new AI models called [Gemini Robotics](https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/?utm_source=keywordsnippet&utm_medium=referral) for real-world machine interaction.\n- Demo videos show robots performing tasks like folding paper and responding to voice commands.\n- Gemini Robotics is designed to generalize behaviors across various robotics hardware and connect visual inputs to actionable tasks.\n- The system performed well in untrained environments and includes a slimmed-down version, Gemini Robotics-ER, for researchers.",
-      "keywords": [
-        "Google",
-        "DeepMind",
-        "AI",
-        "Gemini Robotics",
-        "robotics",
-        "technology",
-        "machine learning"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 9,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-12T20:09:46.000Z"
     }
   ]
 }
