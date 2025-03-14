@@ -4,6 +4,28 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Waymo was slapped with nearly 600 parking tickets last year in SF alone",
+      "link": "https://techcrunch.com/2025/03/13/waymo-was-slapped-with-nearly-600-parking-tickets-last-year-in-sf-alone/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Waymo's driverless vehicles in San Francisco received 589 parking tickets last year, amounting to $65,065 in fines.\n- Violations included blocking traffic, street-cleaning restrictions, and parking in prohibited areas.\n- The parking ticket issuance in San Francisco is high, with approximately 1.2 million tickets given in the previous year.\n- Waymo is reportedly working on addressing this parking issue, but challenges remain until all cars are driverless.",
+      "keywords": [
+        "Waymo",
+        "parking tickets",
+        "San Francisco",
+        "driverless vehicles",
+        "fines",
+        "traffic violations"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-14T04:48:25.000Z"
+    },
+    {
       "title": "Anti-aging zealot Bryan Johnson wants to start ‘foodome sequencing’",
       "link": "https://techcrunch.com/2025/03/13/anti-aging-zealot-bryan-johnson-wants-to-start-foodome-sequencing/",
       "author": "Rebecca Bellan",
@@ -1165,29 +1187,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-12T20:20:40.000Z"
-    },
-    {
-      "title": "Nvidia GTC 2025: What to expect from this year’s show",
-      "link": "https://techcrunch.com/2025/03/12/nvidia-gtc-2025-what-to-expect-from-this-years-show/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- Nvidia's GTC conference runs from Monday to Friday in San Jose, emphasizing AI and accelerated computing.\n- CEO Jensen Huang's keynote is set for Tuesday at 10 a.m. Pacific, highlighting developments in AI, robotics, and more.\n- Anticipation for the release of Blackwell B300 series GPUs later this year, featuring 288GB memory.\n- Next-gen GPU series, Rubin, expected to be discussed, aiming for a significant performance jump in 2026.\n- Nvidia will host a 'quantum day' to explore advancements in quantum computing.\n- Recent challenges include overheating issues with Blackwell cards and competitive pressure from rivals like DeepSeek and AMD.\n- Despite challenges, Nvidia reported a record $39.3 billion revenue last quarter, maintaining 82% of the GPU market share.",
-      "keywords": [
-        "Nvidia",
-        "GTC 2025",
-        "AI",
-        "GPU",
-        "Rubin",
-        "Blackwell",
-        "quantum computing"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-12T20:20:27.000Z"
     }
   ]
 }
