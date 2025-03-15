@@ -4,6 +4,54 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "How to watch Nvidia GTC 2025, including CEO Jensen Huang’s keynote",
+      "link": "https://techcrunch.com/2025/03/15/how-to-watch-nvidia-gtc-2025-including-ceo-jensen-huangs-keynote/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Nvidia’s GTC, the biggest conference of the year, starts Monday with major announcements expected on Tuesday.\n- CEO Jensen Huang will deliver a keynote on Tuesday at 10 a.m. PT, available for streaming on [Nvidia.com](https://www.nvidia.com/gtc/keynote/?ncid=ref-pr-257117) and [YouTube](https://youtu.be/_waPvOwL9Z8).\n- Anticipated topics include the next flagship GPU series, Blackwell Ultra, next-gen Rubin chip architecture, and updates on AI, robotics, and automotive developments.",
+      "keywords": [
+        "Nvidia",
+        "GTC 2025",
+        "keynote",
+        "Jensen Huang",
+        "AI",
+        "Blackwell Ultra",
+        "Rubin chip architecture"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-15T18:59:26.000Z"
+    },
+    {
+      "title": "Nvidia GTC 2025: What to expect from this year’s show",
+      "link": "https://techcrunch.com/2025/03/15/nvidia-gtc-2025-what-to-expect-from-this-years-show/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- GTC, Nvidia’s major conference, runs from Monday to Friday in San Jose.\n- CEO Jensen Huang will deliver a keynote on Tuesday at 10 a.m. Pacific, highlighting AI and computing technologies.\n- Nvidia is expected to unveil the Blackwell B300 series with 288GB memory and mentions of the Rubin GPU series.\n- A 'quantum day' event will also take place to discuss advancements in quantum computing.\n- Nvidia faces challenges from overheating issues in Blackwell cards and competition from AI labs like DeepSeek but has reported strong financial performance.",
+      "keywords": [
+        "Nvidia",
+        "GTC 2025",
+        "Jensen Huang",
+        "AI",
+        "computing technologies",
+        "Blackwell GPU",
+        "Rubin GPU",
+        "quantum computing",
+        "financial performance"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-15T18:57:29.000Z"
+    },
+    {
       "title": "Bluesky users debate plans around user data and AI training",
       "link": "https://techcrunch.com/2025/03/15/bluesky-users-debate-plans-around-user-data-and-ai-training/",
       "author": "Anthony Ha",
@@ -220,6 +268,31 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-14T19:49:34.000Z"
+    },
+    {
+      "title": "‘Open’ AI model licenses often carry concerning restrictions",
+      "link": "https://techcrunch.com/2025/03/14/open-ai-model-licenses-often-carry-concerning-restrictions/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Google released the Gemma 3 open AI models, praised for efficiency but criticized for restrictive licenses.\n- Concerns arise from custom licensing terms by large companies that deter commercial use and create uncertainty for developers.\n- Critics argue that licenses like Gemma and Meta’s Llama cannot be considered truly 'open source' due to legal limitations and potential threats of enforcement.",
+      "keywords": [
+        "AI models",
+        "Gemma 3",
+        "licensing",
+        "open source",
+        "legal restrictions",
+        "Meta",
+        "Llama",
+        "commercial use",
+        "developers"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-14T19:48:24.000Z"
     },
     {
       "title": "‘Open’ model licenses often carry concerning restrictions",
@@ -1118,75 +1191,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-13T16:49:10.000Z"
-    },
-    {
-      "title": "OpenAI calls DeepSeek ‘state-controlled,’ calls for bans on ‘PRC-produced’ models",
-      "link": "https://techcrunch.com/2025/03/13/openai-calls-deepseek-state-controlled-calls-for-bans-on-prc-produced-models/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- OpenAI labels DeepSeek as 'state-subsidized' and suggests banning its models in a new policy proposal.\n- The proposal is part of the Trump Administration’s 'AI Action Plan,' citing security risks due to Chinese compliance laws.\n- OpenAI accuses DeepSeek of previously violating its terms by 'distilling' knowledge from its models.\n- DeepSeek's founder met with Chinese leader Xi Jinping recently, raising concerns about Chinese government involvement.",
-      "keywords": [
-        "OpenAI",
-        "DeepSeek",
-        "AI Action Plan",
-        "PRC",
-        "Chinese government",
-        "model banning",
-        "security risks"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-13T16:21:30.000Z"
-    },
-    {
-      "title": "Google wants Gemini to get to know you better",
-      "link": "https://techcrunch.com/2025/03/13/google-wants-gemini-to-get-to-know-you-better/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Connect-to-Seach-history.png?w=680",
-      "summary": "- Google announces Gemini with personalization as a new capability for its chatbot.\n- Gemini will utilize user preferences and activities to offer tailored responses.\n- The feature is currently available for web users and will gradually roll out to mobile.\n- Gemini with personalization is powered by the experimental Gemini 2.0 Flash Thinking AI model.\n- Users will need to opt-in and must be over 18 for personalization features.\n- It will also be integrated with Google Search and expand to more services like YouTube and Photos.\n- Future usage limits and potential costs for the feature may apply.",
-      "keywords": [
-        "Google",
-        "Gemini",
-        "AI",
-        "personalization",
-        "chatbot",
-        "technology"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-13T16:00:00.000Z"
-    },
-    {
-      "title": "Google introduces new developer tools and titles for games on mobile and PC",
-      "link": "https://techcrunch.com/2025/03/13/google-introduces-new-developer-tools-and-titles-for-games-on-mobile-and-pc/",
-      "author": "Ivan Mehta",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Google-Play-games-PC-mobile.gif?w=680",
-      "summary": "- Google announced new features for PC and mobile gaming ahead of the Game Developers Conference (GDC).\n- New tools for developers include a dedicated SDK for native PC games and an updated Play Console.\n- Google will make all mobile games available on PC by default, with an option for developers to opt out.\n- New graphics API 'Vilkan' introduced for better visuals and smoother frame rates.\n- New game titles announced include “Game of Thrones: Kingsroad” and “Sonic Rumble.”\n- Custom control features for PC games will allow players to remap controls.\n- User acquisition campaigns for mobile emulated and native PC titles will launch later this year.",
-      "keywords": [
-        "Google",
-        "gaming",
-        "developer tools",
-        "mobile games",
-        "PC gaming",
-        "GDC",
-        "new titles",
-        "graphics API"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-13T15:45:00.000Z"
     }
   ]
 }
