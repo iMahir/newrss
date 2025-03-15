@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Bluesky users debate plans around user data and AI training",
+      "link": "https://techcrunch.com/2025/03/15/bluesky-users-debate-plans-around-user-data-and-ai-training/",
+      "author": "Anthony Ha",
+      "thumbnail": null,
+      "summary": "- Bluesky published a [proposal on GitHub](https://github.com/bluesky-social/proposals/tree/main/0008-user-intents) regarding user data usage for AI training and public archiving.\n- CEO Jay Graber presented the proposal at [South by Southwest](https://techcrunch.com/2025/03/10/bluesky-is-weighing-a-proposal-that-gives-users-consent-over-how-their-data-is-used-for-ai/) and garnered reactions from users concerned about data privacy policies.\n- Users can specify their preferences regarding data usage across four categories: generative AI, protocol bridging, bulk datasets, and web archiving.\n- The proposal aims to provide a [mechanism](https://en.wikipedia.org/wiki/Robots.txt) for user consent similar to how websites manage data scraping but is not legally enforceable.",
+      "keywords": [
+        "Bluesky",
+        "user data",
+        "AI training",
+        "generative AI",
+        "privacy",
+        "social media",
+        "data policies"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-15T17:50:18.000Z"
+    },
+    {
       "title": "Week in Review: SXSW week comes to a close",
       "link": "https://techcrunch.com/2025/03/15/week-in-review-sxsw-week-comes-to-a-close/",
       "author": "Karyne Levy",
@@ -1164,28 +1187,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-13T15:45:00.000Z"
-    },
-    {
-      "title": "Geothermal unicorn Fervo Energy may IPO as early as next year",
-      "link": "https://techcrunch.com/2025/03/13/geothermal-unicorn-fervo-energy-may-ipo-as-early-as-next-year/",
-      "author": "Tim De Chant",
-      "thumbnail": null,
-      "summary": "- Fervo Energy is considering an initial public offering (IPO) within the next two years due to rising power demand from data centers.\n- The company recently raised $244 million in February 2024 and another $255 million in December 2024.\n- Fervo is collaborating with Google on Project Red, a geothermal power plant that can produce 3.5 megawatts of electricity for the Nevada grid.",
-      "keywords": [
-        "Fervo Energy",
-        "IPO",
-        "geothermal energy",
-        "data centers",
-        "Project Red",
-        "power demand"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-13T15:43:06.000Z"
     }
   ]
 }
