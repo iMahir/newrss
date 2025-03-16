@@ -4,6 +4,28 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "People are using Google’s new AI model to remove watermarks from images",
+      "link": "https://techcrunch.com/2025/03/16/people-are-using-googles-new-ai-model-to-remove-watermarks-from-images/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Users are utilizing Google’s Gemini AI model to remove watermarks from images, including those from Getty Images.\n- The Gemini 2.0 Flash model was recently expanded and features powerful image editing capabilities with few restrictions on usage.\n- Some users report that Gemini can fill gaps left by watermarks but struggles with semi-transparent ones.\n- The feature is labeled as experimental and not for production use; it may have legal implications regarding copyright laws.",
+      "keywords": [
+        "AI",
+        "watermarks",
+        "Google",
+        "Gemini 2.0",
+        "copyright",
+        "image editing"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-16T20:34:15.000Z"
+    },
+    {
       "title": "Baidu launches two new versions of its AI model Ernie",
       "link": "https://techcrunch.com/2025/03/16/baidu-launches-two-new-versions-of-its-ai-model-ernie/",
       "author": null,
@@ -1170,31 +1192,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-13T19:05:00.000Z"
-    },
-    {
-      "title": "Ex-Twitter AI ethics lead Rumman Chowdhury is worried about Musk’s impact on the federal government",
-      "link": "https://techcrunch.com/2025/03/13/ex-twitter-ai-ethics-lead-rumman-chowdhury-is-worried-about-musks-impact-on-the-federal-government/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- Rumman Chowdhury, former director of Twitter’s machine ethics team, expressed concerns about Elon Musk's influence on U.S. governance during an SXSW panel.\n- She highlighted the chaotic management style attributed to Musk and its effects on federal agencies, including significant staff cuts that may compromise cybersecurity.\n- Chowdhury recalled similar experiences at Twitter after Musk's acquisition, noting that culture deteriorated under his leadership, and warned that the same could happen in government.",
-      "keywords": [
-        "Rumman Chowdhury",
-        "Elon Musk",
-        "U.S. government",
-        "Twitter",
-        "SXSW",
-        "federal agencies",
-        "staff cuts",
-        "cybersecurity",
-        "government efficiency"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-13T18:30:41.000Z"
     }
   ]
 }
