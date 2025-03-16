@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "You don't need code to be a programmer. But you do need expertise",
+      "link": "https://www.theguardian.com/technology/2025/mar/16/ai-software-coding-programmer-expertise-jobs-threat",
+      "author": "John Naughton",
+      "thumbnail": null,
+      "summary": "- Andrej Karpathy claims the hottest programming language is English, thanks to LLMs making coding more accessible.\n- New concept of 'vibe coding' is introduced, which relies on intuition and LLM support rather than traditional coding knowledge.\n- Kevin Roose shares his experience using AI to code without knowing programming languages, highlighting AI's potential but drawing criticism for lack of originality.\n- Experts warn against overemphasizing AI's ability to create software, stressing the importance of human skills in programming.\n- Tim O'Reilly asserts that AI will transform programming rather than replace programmers, impacting many elite professions.",
+      "keywords": [
+        "programming",
+        "AI",
+        "LLMs",
+        "vibe coding",
+        "technology",
+        "human skills",
+        "software development",
+        "expertise"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-16T05:30:09.000Z"
+    },
+    {
       "title": "How an obscure US government office has become a target of Elon Musk",
       "link": "https://www.theguardian.com/technology/2025/mar/15/elon-musk-18f-x-false-claims",
       "author": null,
@@ -1087,30 +1111,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-09T13:00:03.000Z"
-    },
-    {
-      "title": "Who bought this smoked salmon? How ‘AI agents’ will change the internet (and shopping lists)",
-      "link": "https://www.theguardian.com/technology/2025/mar/09/who-bought-this-smoked-salmon-how-ai-agents-will-change-the-internet-and-shopping-lists",
-      "author": null,
-      "thumbnail": "https://i.guim.co.uk/img/media/8cbd3fcc922acdac53ab2cfeaa4141a3b6358f0f/0_91_5348_3209/master/5348.jpg?width=620&dpr=2&s=none&crop=none",
-      "summary": "- OpenAI's new AI agent, Operator, can autonomously shop online using a grocery list.\n- Operator is accessible to UK users and can complete tasks like searching and ordering items from supermarket websites.\n- AI agents are considered the next step in technology, helping automate mundane tasks, though they are still experimental.\n- Limitations include needing user intervention for login and handling sensitive information.\n- Users experienced mixed results with grocery orders, sometimes receiving incorrect items.\n- The technology aims to evolve, enabling agents to perform more tasks and learning user preferences over time.",
-      "keywords": [
-        "AI agents",
-        "OpenAI",
-        "online shopping",
-        "grocery delivery",
-        "automation",
-        "technology",
-        "ChatGPT",
-        "Operator"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 8,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-09T11:00:49.000Z"
     }
   ]
 }
