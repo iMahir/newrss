@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "A bad movie full of big ideas about tech",
+      "link": "https://www.theverge.com/installer-newsletter/629893/electric-state-mickey-17-mulaney-netflix-installer",
+      "author": "David Pierce",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Tina-Nguyen-homescreen.jpg?quality=90&strip=all&crop=0,0,100,100&w=2400",
+      "summary": "- The Electric State is a poorly received new movie that may still achieve cultural relevance in discussions about tech movies.\n- Mickey 17 is a new film from the director of Parasite, blending action and thematic exploration of humanity.\n- Everybody’s Live with John Mulaney is a new Netflix show that returns to a quirky style liked by fans.\n- Skich is a new alternative iOS app store in the EU promising lower fees and better discovery for users.\n- A new podcast series from Vox called Good Robot explores the implications of AI.",
+      "keywords": [
+        "Electric State",
+        "Mickey 17",
+        "John Mulaney",
+        "Netflix",
+        "AI",
+        "podcast",
+        "Skich",
+        "tech movies"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-16T12:00:00.000Z"
+    },
+    {
       "title": "Joby will launch UK air taxi service with Virgin Atlantic",
       "link": "https://www.theverge.com/news/629857/joby-virgin-atlantic-air-taxi-uk",
       "author": "Andrew J. Hawkins",
@@ -1147,31 +1171,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-13T19:24:21.000Z"
-    },
-    {
-      "title": "WinRing0: Why Windows is flagging your PC monitoring and fan control apps as a threat",
-      "link": "https://www.theverge.com/report/629259/winring0-windows-defender-fan-control-pc-monitoring-alert-quarantine",
-      "author": "Sean Hollister",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/ApplicationFrameHost_nk5uPl4IJ6_1d663f.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "- Windows Defender flagged a tool called WinRing0 as a HackTool, affecting many PC monitoring and fan control applications.\n- The detection led to various software misbehaving, such as fans running excessively.\n- Programs affected include Fan Control, Razer Synapse, and MSI Afterburner, all of which used WinRing0 for hardware monitoring.\n- Developers express concern as WinRing0 poses a real vulnerability that could be exploited, although its current use in these applications is not malicious.\n- Microsoft has been pressured to tighten security around kernel-level drivers after previous incidents and may not have communicated the changes clearly.\n- Developers have explored alternatives but face challenges due to high costs associated with getting drivers signed by Microsoft, restricting open-source projects.\n- Some companies are finding ways to address this issue, hoping to create a signed version of WinRing0 to help affected applications.",
-      "keywords": [
-        "WinRing0",
-        "Windows Defender",
-        "PC monitoring apps",
-        "fan control",
-        "security threat",
-        "kernel-level software",
-        "open-source",
-        "Razer Synapse",
-        "MSI Afterburner"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-13T18:51:38.000Z"
     }
   ]
 }
