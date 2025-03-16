@@ -4,6 +4,53 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Apple reportedly considered building the iPhone 17 Air without ports",
+      "link": "https://techcrunch.com/2025/03/16/apple-reportedly-considered-building-the-iphone-17-air-without-ports/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/iphone-usb-lighting-charging-cable.jpg?w=1024",
+      "summary": "- Apple is planning to launch the iPhone 17 Air in fall 2025, featuring a slimmer design and a combination of high-end and low-end features.\n- The development of a skinnier phone involved significant engineering efforts, focusing on maximizing battery life with thinner batteries.\n- Apple contemplated making the iPhone 17 Air completely port-free, relying on wireless charging and cloud-based data syncing, but decided against it due to regulatory concerns in Europe regarding USB-C support.",
+      "keywords": [
+        "Apple",
+        "iPhone 17 Air",
+        "wireless charging",
+        "USB-C",
+        "smartphone regulations",
+        "Mark Gurman",
+        "Bloomberg"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-16T21:51:57.000Z"
+    },
+    {
+      "title": "Meta takes aim at ex-employee’s memoir ‘Careless People’",
+      "link": "https://techcrunch.com/2025/03/16/meta-takes-aim-at-ex-employees-memoir-careless-people/",
+      "author": "Anthony Ha",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/9781250391230.jpg?w=447",
+      "summary": "- Meta won a legal victory against ex-employee Sarah Wynn-Williams, author of the memoir \"Careless People.\"\n- An arbitrator ruled Wynn-Williams may have violated a non-disparagement agreement.\n- Despite the ruling, the book remains a bestseller on Amazon, potentially due to the \"Streisand Effect.\"\n- Macmillan, the publisher, supports the book and criticizes Meta's attempt to silence the author.\n- Wynn-Williams claims her memoir offers insights into Facebook's operations and her experiences there from 2011 to 2017.\n- Meta has dismissed the memoir as a mix of outdated claims and false accusations about executives.",
+      "keywords": [
+        "Meta",
+        "Sarah Wynn-Williams",
+        "memoir",
+        "Careless People",
+        "legal ruling",
+        "non-disparagement",
+        "Macmillan",
+        "whistleblower"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-16T21:10:44.000Z"
+    },
+    {
       "title": "People are using Google’s new AI model to remove watermarks from images",
       "link": "https://techcrunch.com/2025/03/16/people-are-using-googles-new-ai-model-to-remove-watermarks-from-images/",
       "author": "Kyle Wiggers",
@@ -1143,55 +1190,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-13T19:11:20.000Z"
-    },
-    {
-      "title": "Move over, Apple: Meet the alternative app stores coming to the EU",
-      "link": "https://techcrunch.com/2025/03/13/move-over-apple-meet-the-alternative-app-stores-coming-to-the-eu/",
-      "author": "Sarah Perez",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/08/altstore.jpg?w=680",
-      "summary": "- The European Union's Digital Markets Act (DMA) allows access to alternative app stores.\n- Developers must accept Apple's DMA-compliant terms, including a fee of €0.50 for each first annual install.\n- Several alternative app stores available include AltStore PAL, Setapp Mobile, Epic Games Store, Aptoide, Mobivention, and Skich.\n- Setapp Mobile, a subscription app store, offers curated apps without ads or in-app purchases, while AltStore PAL enables indie developers to distribute apps directly.\n- Epic Games launched its app store allowing downloads for games like Fortnite.\n- Aptoide is an open-source solution for app distribution, scanning apps for safety.",
-      "keywords": [
-        "European Union",
-        "Digital Markets Act",
-        "alternative app stores",
-        "Apple",
-        "Setapp",
-        "Epic Games",
-        "Aptoide",
-        "AltStore"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-13T19:05:00.000Z"
-    },
-    {
-      "title": "Amazon is still hosting stalkerware victims’ data weeks after breach alert",
-      "link": "https://techcrunch.com/2025/03/13/amazon-is-still-hosting-stalkerware-victims-data-weeks-after-breach-alert/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Amazon is under scrutiny for hosting data from stalkerware apps despite being notified of a breach.\n- Three apps, Cocospy, Spyic, and Spyzie, continue to store private phone data on Amazon Web Services.\n- A security researcher indicated that the apps have exposed data from 3.1 million individuals, many of whom are unaware of the compromise.\n- Amazon's response has been procedural, stating it has clear terms that require compliance with laws and policies but has not acted on the breach notifications from TechCrunch.\n- The storage buckets for the apps remain active, and concerns arise about Amazon's enforcement of its own policies against spyware.",
-      "keywords": [
-        "Amazon",
-        "stalkerware",
-        "data breach",
-        "Cocospy",
-        "Spyic",
-        "Spyzie",
-        "AWS",
-        "privacy",
-        "security"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-13T19:05:00.000Z"
     }
   ]
 }
