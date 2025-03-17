@@ -4,6 +4,65 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "TechCrunch All Stage unveils a powerhouse agenda for founders",
+      "link": "https://techcrunch.com/2025/03/17/techcrunch-all-stage-unveils-a-powerhouse-agenda-for-founders/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-849201940.jpg?w=680",
+      "summary": "- **Event Date**: July 15, 2025, in Boston.\n- **Foundation Stage Topics**: Includes sessions on VC evaluations at Pre-Seed, MVP in AI, TAM Myth, and crafting pitch decks.\n- **Scale Stage Introduction**: New full-day track focused on scaling from Series A and beyond, covering themes like sustainable companies and raising funds for Series C.\n- **Speaker Format**: Unlike traditional events, speakers present expertise and answer audience questions; transcripts provided to all attendees.\n- **Networking Opportunities**: Roundtable discussions and Braindate platform for mingling with founders and investors.",
+      "keywords": [
+        "TechCrunch",
+        "All Stage",
+        "founders",
+        "Boston",
+        "startup",
+        "investment",
+        "event",
+        "agenda"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-17T14:00:00.000Z"
+    },
+    {
+      "title": "Palmetto wants software developers to electrify America using its AI building models",
+      "link": "https://techcrunch.com/2025/03/17/palmetto-wants-software-developers-to-electrify-america-using-its-ai-building-models/",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-03-17T14:00:00.000Z"
+    },
+    {
+      "title": "Roblox releases its open-source model that can create 3D objects using AI",
+      "link": "https://techcrunch.com/2025/03/17/roblox-releases-its-open-source-model-that-can-create-3d-objects-using-ai/",
+      "author": "Lauren Forristal",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Cube-3D-Roblox.gif?w=680",
+      "summary": "- Roblox announced the launch of its 3D model named \"Cube\" that utilizes generative AI for creating 3D objects.\n- An open-source version of Cube will be available for external developers to customize and build on.\n- Cube features 3D mesh generation, allowing creators to generate objects like cars using simple prompts.\n- Additional AI tools for Roblox include text generation, text-to-speech, and speech-to-text, with further developments planned.\n- Future features aim to enhance complexity in mesh generation and scene creation, including dynamic seasonal changes in environments.",
+      "keywords": [
+        "Roblox",
+        "Cube",
+        "3D modeling",
+        "AI",
+        "open-source",
+        "game development",
+        "generative AI",
+        "technology",
+        "tools"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-03-17T13:30:00.000Z"
+    },
+    {
       "title": "Discord launches SDK to help developers enhance social experiences in their games",
       "link": "https://techcrunch.com/2025/03/17/discord-launches-sdk-to-help-developers-enhance-social-experiences-in-their-games/",
       "author": "Aisha Malik",
@@ -1122,79 +1181,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-03-13T23:57:33.000Z"
-    },
-    {
-      "title": "Sesame, the startup behind the viral virtual assistant Maya, releases its base AI model",
-      "link": "https://techcrunch.com/2025/03/13/sesame-the-startup-behind-the-viral-virtual-assistant-maya-releases-its-base-ai-model/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- AI company [Sesame](https://www.sesame.com/) releases the base model, CSM-1B, for its voice assistant Maya.\n- CSM-1B has 1 billion parameters and is available under an Apache 2.0 license for commercial use.\n- The model utilizes residual vector quantization (RVQ) for encoding audio, similar to technologies used by Google and Meta.\n- It generates audio codes from text and has the potential for various voices but is not fine-tuned for specific ones.\n- Sesame warns users against misusing the model for voice imitation or creating misleading content.\n- The company, co-founded by Brendan Iribe, has recently gained popularity for its advanced assistant technologies.",
-      "keywords": [
-        "Sesame",
-        "Maya",
-        "AI model",
-        "voice assistant",
-        "RVQ",
-        "CSM-1B",
-        "Brendan Iribe",
-        "speech synthesis",
-        "audio technology",
-        "finetuning"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-13T22:45:29.000Z"
-    },
-    {
-      "title": "Rad Power Bikes already has a new CEO",
-      "link": "https://techcrunch.com/2025/03/13/rad-power-bikes-already-has-a-new-ceo/",
-      "author": "Sean O’Kane",
-      "thumbnail": null,
-      "summary": "- Rad Power Bikes appoints Kathi Lentzsch as new CEO amid strategic shift.\n- This change follows the resignation of previous CEO Phil Molyneux.\n- The company is transitioning from a direct-to-consumer model to a retail-focused approach, leading to multiple layoffs.\n- Lentzsch becomes the third CEO in three years as the company faces industry challenges similar to other e-bike brands like Cake and VanMoof.\n- The shift aims to enhance customer relationships and brand evolution.",
-      "keywords": [
-        "Rad Power Bikes",
-        "CEO",
-        "Kathi Lentzsch",
-        "e-bike",
-        "retail strategy",
-        "Phil Molyneux",
-        "business model"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-13T21:16:39.000Z"
-    },
-    {
-      "title": "Y Combinator’s police surveillance darling Flock Safety raises $275M at $7.5B valuation",
-      "link": "https://techcrunch.com/2025/03/13/y-combinators-police-surveillance-darling-flock-safety-raises-275m-at-7-5b-valuation/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Flock Safety raised $275 million at a $7.5 billion valuation, announced by Flock and Bedrock Capital.\n- Founded in 2017 and a Y Combinator alum, Flock provides computer vision-enabled video surveillance used by law enforcement and businesses.\n- The company has crossed $300 million in annual recurring revenue, a 70% increase year-over-year.\n- Total funding for Flock exceeds $950 million with participation from notable investors like Andreessen Horowitz and GreenOaks.\n- Flock has faced controversies regarding mass surveillance and privacy concerns, notably from the ACLU.\n- Currently involved in a wrongful termination lawsuit initiated by a sitting mayor of a California town.",
-      "keywords": [
-        "Flock Safety",
-        "surveillance",
-        "Y Combinator",
-        "investment",
-        "technology",
-        "privacy",
-        "controversy",
-        "funding"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-13T21:12:42.000Z"
     }
   ]
 }

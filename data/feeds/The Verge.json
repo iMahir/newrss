@@ -4,6 +4,120 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Xbox 360 consoles can now be hacked with just a USB key",
+      "link": "https://www.theverge.com/news/631102/xbox-360-hack-homebrew-badupdate-exploit-usb",
+      "author": "Tom Warren",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197777/profilephoto.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Xbox 360 modders have a new software exploit called [BadUpdate](https://github.com/grimdoomer/Xbox360BadUpdate) that allows running unsigned code via a USB key.\n- The method enables access to the homebrew store, which includes games, apps, emulators, and utilities without opening the console.\n- Limitations include needing to manually patch executables and the exploit’s reliability can vary, requiring reactivation on each console boot.",
+      "keywords": [
+        "Xbox 360",
+        "hacking",
+        "BadUpdate",
+        "homebrew",
+        "technology",
+        "gaming"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 8,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-17T14:01:44.000Z"
+    },
+    {
+      "title": "How Trump's tariff chaos is already changing global trade",
+      "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel/631082/trump-tariffs-iphone-altana-ceo-evan-smith-interview",
+      "author": "Nilay Patel",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24792604/The_Verge_Decoder_Tileart.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "- Evan Smith, cofounder and CEO of Altana, discusses how tariffs and supply chains are evolving.\n- Altana predicts the breakdown of globalization due to geopolitical tensions and climate issues.\n- The conversation highlights the impact of tariffs on supply chains and global trade dynamics.",
+      "keywords": [
+        "Trump",
+        "tariffs",
+        "global trade",
+        "supply chain",
+        "Altana",
+        "Evan Smith",
+        "geopolitics",
+        "manufacturing"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-17T14:00:00.000Z"
+    },
+    {
+      "title": "All the smart home news, reviews, and gadgets you need to know about",
+      "link": "https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets",
+      "author": "Verge Staff",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195964/akrales_220906_5191_3741__1_.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "summary": "- The smart home technology includes devices that enhance convenience and safety, like smart lights, locks, and vacuums.\n- New devices and features are constantly emerging, making it challenging to stay updated.\n- The article promises to provide continuous updates on smart home technology from major brands like Apple, Amazon, Samsung, and Google.\n- A focus is on the integration of new standards like Matter and Thread for improved device interoperability.",
+      "keywords": [
+        "smart home",
+        "technology",
+        "devices",
+        "Amazon",
+        "Apple",
+        "Matter",
+        "Thread"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-17T13:48:50.000Z"
+    },
+    {
+      "title": "Roblox’s new AI model can generate 3D objects",
+      "link": "https://www.theverge.com/news/630977/roblox-cube-3d-objects-mesh-ai-text-prompt",
+      "author": "Jay Peters",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195819/JAY_PETERS.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Roblox launches and open-sources Cube 3D, its foundational AI model for generating 3D objects.\n- Cube aims to enhance 3D creation efficiency, allowing developers to explore creative options quickly.\n- The model tokenizes 3D objects to predict shapes and build complete models.\n- It is trained on a mix of licensed, publicly available datasets, and internal Roblox experience data.\n- Future plans include generating objects from images and integrating various input types like text and video.",
+      "keywords": [
+        "Roblox",
+        "AI",
+        "3D generation",
+        "Cube 3D",
+        "technology",
+        "gaming",
+        "3D objects"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 9,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-17T13:30:00.000Z"
+    },
+    {
+      "title": "Zoom’s AI will soon help you do busywork, too",
+      "link": "https://www.theverge.com/news/630156/zoom-ai-companion-agentic-update",
+      "author": "Emma Roth",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Zoom’s AI Companion is getting an “agentic” upgrade, launching at the end of this month.\n- This upgrade will allow the AI to identify and perform tasks such as scheduling meetings and generating documents.\n- A new Tasks tab in the Zoom Workplace will provide access to these features at no additional cost to users.\n- Additional updates include a voice recorder for mobile that transcribes and summarizes meetings, and a live notes feature generating real-time summaries, launching in May.\n- Zoom will also introduce a $12/month Custom AI Companion add-on next month, including an AI avatar feature.",
+      "keywords": [
+        "Zoom",
+        "AI Companion",
+        "update",
+        "productivity",
+        "automation",
+        "meetings"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-17T13:21:57.000Z"
+    },
+    {
       "title": "Discord Integrates Social Features Directly Into Games",
       "link": "https://www.theverge.com/news/630823/discord-social-directly-games-sdk",
       "author": "Jay Peters",
@@ -1053,123 +1167,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-03-14T15:03:28.000Z"
-    },
-    {
-      "title": "Tesla registrations — and public opinion — are in free fall",
-      "link": "https://www.theverge.com/news/629667/tesla-elon-musk-donald-trump-doge-polling-data",
-      "author": "Mia Sato",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195839/MIA_SATO.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Tesla's stock has dropped over 50% since December, with significant declines in sales, especially in California.\n- Cybertruck deliveries are reportedly paused due to quality issues, leading to protests outside Tesla showrooms nationwide.\n- Public sentiment towards Tesla is at an all-time low, with a negative net impression of -12.8, particularly among liberals, who have dropped to 8% considering a purchase, down from 12%.",
-      "keywords": [
-        "Tesla",
-        "public opinion",
-        "Elon Musk",
-        "stock market",
-        "sales decline",
-        "Cybertruck",
-        "protests",
-        "YouGov",
-        "consumer sentiment"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-14T14:58:55.000Z"
-    },
-    {
-      "title": "Ford hires a Twitch and PlayStation veteran to run its digital services",
-      "link": "https://www.theverge.com/news/629710/ford-digital-integrated-services-mike-aragon-subscriptions",
-      "author": "Umar Shakir",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195848/UMAR_SHAKIR.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Ford has appointed Mike Aragon, a former Twitch and PlayStation executive, to lead its digital services business.\n- Aragon will oversee the development and marketing of services across Ford Pro, Ford Blue, and Ford Model e.\n- The automaker currently has over 800,000 paid subscriptions, offering services such as BlueCruise hands-free driving.\n- Ford CEO Jim Farley emphasized Aragon's experience in building valuable digital ecosystems as key to the role.\n- Aragon succeeds Peter Stern, who contributed to Apple’s services and is now the CEO of Peloton.",
-      "keywords": [
-        "Ford",
-        "digital services",
-        "Mike Aragon",
-        "Twitch",
-        "PlayStation",
-        "subscriptions",
-        "BlueCruise",
-        "automaker",
-        "digital ecosystems"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-14T14:40:48.000Z"
-    },
-    {
-      "title": "Newsmax will pay $40 million to settle Smartmatic voting machine allegations",
-      "link": "https://www.theverge.com/news/629695/newsmax-smartmatic-40-million-settlement-agreement",
-      "author": "Emma Roth",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/gettyimages-2161947676.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-      "summary": "- Smartmatic sued Newsmax for spreading false claims regarding its voting machines in the 2020 election.\n- Newsmax will pay $40 million to settle the allegations.\n- The settlement was announced on March 14, 2025.",
-      "keywords": [
-        "Smartmatic",
-        "Newsmax",
-        "settlement",
-        "voting machines",
-        "2020 election",
-        "false claims"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-14T14:25:49.000Z"
-    },
-    {
-      "title": "Ted Lasso is coming back for season 4",
-      "link": "https://www.theverge.com/news/629679/ted-lasso-season-4-apple-tv-plus",
-      "author": "Andrew Webster",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195977/akrales220919_5191_3621.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Ted Lasso confirmed to return for a fourth season on Apple TV Plus.\n- Jason Sudeikis stated season 4 is currently being written and will follow a new women’s soccer team.\n- The creative team, including Brett Goldstein, is expected to return, but details on other characters are still unclear.\n- The season themes center around the idea of 'leaping before looking'.\n- Ted Lasso remains a significant success for Apple TV Plus, coinciding with other returning series.",
-      "keywords": [
-        "Ted Lasso",
-        "season 4",
-        "Apple TV Plus",
-        "Jason Sudeikis",
-        "women's soccer",
-        "returning series"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-03-14T14:21:42.000Z"
-    },
-    {
-      "title": "NASA’s SpaceX Crew-10 Mission Set to Return Starliner Astronauts Home",
-      "link": "https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex",
-      "author": "Andrew Liszewski",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/0007835275_20.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-      "summary": "- NASA’s SpaceX Crew-10 mission was rescheduled for launch on March 14th after a hydraulic issue was resolved.\n- The mission will bring home astronauts Butch Wilmore and Suni Williams, who have been stranded on the ISS for nine months due to problems with their original spacecraft, Boeing Starliner.\n- Crew-9 will also return to Earth two astronauts from its mission, scheduled for March 19th, 2025.",
-      "keywords": [
-        "NASA",
-        "SpaceX",
-        "Crew-10",
-        "Boeing Starliner",
-        "Astronauts",
-        "ISS",
-        "Space Mission"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-14T14:00:38.000Z"
     }
   ]
 }
