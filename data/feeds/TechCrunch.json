@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "TikTok rolls out a ‘Security Checkup’ tool to help users secure their accounts",
+      "link": "https://techcrunch.com/2025/03/17/tiktok-rolls-out-a-security-checkup-tool-to-help-users-secure-their-accounts/",
+      "author": "Aisha Malik",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/tiktok-security-checkup.jpeg?w=314",
+      "summary": "- TikTok introduces a new “Security Checkup” tool for users to review and update their account security settings.\n- The tool can be accessed via “Settings and privacy” and “Security and permissions” from the user’s profile.\n- It guides users through security features, encouraging them to enable enhanced security options like phone number linking and two-step verification.\n- Users are reminded to check active devices and may enable biometric authentication for secure logins.\n- TikTok monitors for unusual behavior, notifying users through the app.\n- The rollout happens amidst ongoing uncertainty regarding TikTok's operation in the U.S. following a deadline extension to the app's ban by President Trump.",
+      "keywords": [
+        "TikTok",
+        "security checkup",
+        "user accounts",
+        "account security",
+        "two-step verification",
+        "biometric authentication",
+        "privacy settings"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-17T16:41:57.000Z"
+    },
+    {
       "title": "Hackers are exploiting Fortinet firewall bugs to plant ransomware",
       "link": "https://techcrunch.com/2025/03/17/hackers-are-exploiting-fortinet-firewall-bugs-to-plant-ransomware/",
       "author": null,
@@ -1110,30 +1133,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-14T16:01:42.000Z"
-    },
-    {
-      "title": "iPhone and Android users will soon be able to send encrypted RCS messages to each other",
-      "link": "https://techcrunch.com/2025/03/14/iphone-and-android-users-will-soon-be-able-to-send-encrypted-rcs-messages-to-each-other/",
-      "author": "Paul Sawers",
-      "thumbnail": null,
-      "summary": "- Text messages between iPhones and Android devices will soon have end-to-end encryption (E2EE).\n- The GSMA published new specifications for the RCS protocol to support cross-platform E2EE.\n- RCS provides features like group messaging and read receipts, similar to WhatsApp.\n- Apple is now including RCS support, following the introduction of iOS 18.\n- The new E2EE mechanism is based on the Messaging Layer Security (MLS) protocol.\n- RCS will be the first large-scale messaging service to offer interoperable E2EE between different platforms.",
-      "keywords": [
-        "RCS",
-        "end-to-end encryption",
-        "iPhone",
-        "Android",
-        "messaging",
-        "GSMA",
-        "Messaging Layer Security",
-        "cross-platform"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-14T15:31:53.000Z"
     }
   ]
 }
