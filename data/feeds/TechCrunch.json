@@ -4,6 +4,74 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "A Google-backed weapon to battle wildfires made it into orbit",
+      "link": "https://techcrunch.com/2025/03/17/a-google-backed-weapon-to-battle-wildfires-made-it-into-orbit/",
+      "author": "Tim De Chant",
+      "thumbnail": null,
+      "summary": "- The first satellite of the FireSat constellation successfully made it to orbit on March 14, 2025.\n- The constellation aims to improve wildfire detection with over 50 satellites imaging Earth's surface every 20 minutes when fully operational.\n- The first satellite was launched by SpaceX and equipped with six-band multispectral infrared cameras.\n- FireSat provides five-meter resolution imagery and near real-time updates on wildfires, solving issues with current tracking methods.\n- The project is a collaboration between Muon Space and the Earth Fire Alliance, which includes support from Google and other foundations.",
+      "keywords": [
+        "wildfires",
+        "FireSat",
+        "satellite",
+        "Google",
+        "Muon Space",
+        "environment",
+        "climate technology"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-17T20:58:43.000Z"
+    },
+    {
+      "title": "These fintech companies are hiring in 2025 after a turbulent year",
+      "link": "https://techcrunch.com/2025/03/17/these-fintech-companies-are-hiring-in-2025-after-a-turbulent-year/",
+      "author": "Mary Ann Azevedo",
+      "thumbnail": null,
+      "summary": "- The fintech sector experienced significant growth during the pandemic but faced challenges in 2024, including the shutdown of accounting startup Bench.\n- Despite a slowdown in funding, many fintech firms are still hiring, with some companies opening even more roles than in previous months.\n- Various fintech companies are listed with their available job openings, serving as a resource for those seeking employment in the industry.",
+      "keywords": [
+        "fintech",
+        "hiring",
+        "job openings",
+        "2025",
+        "Bench",
+        "Mary Ann Azevedo"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-17T20:57:39.000Z"
+    },
+    {
+      "title": "People are using Google’s new AI model to remove watermarks from images",
+      "link": "https://techcrunch.com/2025/03/17/people-are-using-googles-new-ai-model-to-remove-watermarks-from-images/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Users are exploiting Google’s Gemini AI model to remove watermarks from images, including those from Getty Images.\n- Gemini 2.0 Flash’s image generation feature allows it to create and edit content, but lacks effective guardrails.\n- The model can fill in gaps left by removed watermarks, which has raised copyright concerns.\n- This capability is labeled experimental and not intended for production use, yet some copyright holders might take issue with its unrestricted use.\n- Removing watermarks without consent is illegal under U.S. copyright law.",
+      "keywords": [
+        "Google",
+        "AI",
+        "Gemini 2.0",
+        "watermarks",
+        "copyright",
+        "image generation",
+        "stock media"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-17T20:49:00.000Z"
+    },
+    {
       "title": "Flexport accuses former employees of stealing its source code to create a rival startup",
       "link": "https://techcrunch.com/2025/03/17/flexport-accuses-former-employees-of-stealing-its-source-code-to-create-a-rival-startup/",
       "author": "Charles Rollet",
@@ -1052,77 +1120,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-14T19:48:24.000Z"
-    },
-    {
-      "title": "TechCrunch Mobility: Testing the Uber-Waymo robotaxi, Rivian goes hands-free, and Travis Kalanick has AV FOMO",
-      "link": "https://techcrunch.com/2025/03/14/techcrunch-mobility-testing-the-uber-waymo-robotaxi-rivian-goes-hands-free-and-travis-kalanick-has-av-fomo/",
-      "author": "Kirsten Korosec, Sean O’Kane, Rebecca Bellan",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2019/10/blinky-cat-bird-green.gif?w=680",
-      "summary": "- TechCrunch Mobility newsletter switches to Fridays for broader weekly news coverage.\n- Coverage includes SXSW highlights, emphasizing Austin as an autonomous vehicle hub.\n- Reviews of Waymo robotaxi rides successfully facilitated via Uber app.\n- Rivian introduces hands-free driver-assistance system; competes with Ford and GM.\n- Travis Kalanick criticizes Uber's decision to end its autonomous driving program.\n- Waymo expands robotaxi services in Silicon Valley, faced with parking tickets.",
-      "keywords": [
-        "Uber",
-        "Waymo",
-        "robotaxi",
-        "Rivian",
-        "autonomous vehicles",
-        "SXSW",
-        "driver-assistance",
-        "Kalanick",
-        "electric vehicles"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-14T19:15:00.000Z"
-    },
-    {
-      "title": "AT&T technician Mark Klein, who exposed secret NSA spying, dies",
-      "link": "https://techcrunch.com/2025/03/14/att-technician-mark-klein-who-exposed-secret-nsa-spying-dies/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Mark Klein, a former AT&T technician and whistleblower, died at age 79.\n- He revealed NSA's mass surveillance via a secret room in an AT&T hub in 2006.\n- The operation involved optical splitting wiretaps in <a href=\"https://en.wikipedia.org/wiki/Room_641A\" target=\"_blank\" rel=\"noreferrer noopener nofollow\">Room 641A</a> to copy internet traffic for the NSA.\n- His disclosures confirmed government access to data of millions post-9/11.\n- Klein's death was confirmed by the <a href=\"https://www.eff.org/deeplinks/2025/03/memoriam-mark-klein-att-whistleblower-about-nsa-mass-spying\" target=\"_blank\" rel=\"noreferrer noopener nofollow\">Electronic Frontier Foundation</a>.",
-      "keywords": [
-        "Mark Klein",
-        "NSA",
-        "whistleblower",
-        "mass surveillance",
-        "AT&T",
-        "Room 641A",
-        "Electronic Frontier Foundation"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-14T18:50:00.000Z"
-    },
-    {
-      "title": "Tern AI’s low-cost GPS alternative actually works",
-      "link": "https://techcrunch.com/2025/03/14/tern-ais-low-cost-gps-alternative-actually-works/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Tern AI introduces a low-cost GPS alternative that doesn't rely on satellite positioning.\n- The system uses map information and vehicle sensor data to locate vehicles, providing a more reliable option.\n- Demonstrated at SXSW, Tern's system was able to derive a position without triangulation or external signals, significantly improving navigation.\n- The company highlights the commercial importance of their solution for industries reliant on accurate positioning, including ride-hail and delivery services.\n- Tern's technology is designed to be scalable and can be integrated into vehicles from model year 2009 onward with just a software download.",
-      "keywords": [
-        "Tern AI",
-        "GPS alternative",
-        "navigation",
-        "vehicle sensors",
-        "SXSW 2025",
-        "positioning technology",
-        "scalable solutions"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 8,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-14T18:13:57.000Z"
     }
   ]
 }
