@@ -4,6 +4,52 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Elon Musk’s AI company, xAI, acquires a generative AI video startup",
+      "link": "https://techcrunch.com/2025/03/17/elon-musks-ai-company-xai-acquires-a-generative-ai-video-startup/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Elon Musk’s AI company, xAI, has acquired Hotshot, a startup focusing on AI-powered video generation tools.\n- Hotshot's CEO, Aakash Sastry, announced the acquisition via a post on X.\n- The startup had developed three video foundation models over the past 2 years: Hotshot-XL, Hotshot Act One, and Hotshot.\n- Hotshot was initially centered on AI-powered photo tools before pivoting to text-to-video models.\n- The acquisition might lead to xAI developing competitive video generation models against Sora and Google’s Veo 2.\n- Hotshot had previously received investments from notable VCs but undisclosed its funding rounds.\n- Customers have until March 30 to download videos created using Hotshot, which began sunsetting new video creation on March 14.",
+      "keywords": [
+        "Elon Musk",
+        "xAI",
+        "Hotshot",
+        "generative AI",
+        "video generation",
+        "AI startup",
+        "Aakash Sastry"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-17T18:29:58.000Z"
+    },
+    {
+      "title": "OpenAI to start testing ChatGPT connectors for Google Drive and Slack",
+      "link": "https://techcrunch.com/2025/03/17/openai-to-start-testing-chatgpt-connectors-for-google-drive-and-slack/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- OpenAI is beta testing a feature called ChatGPT Connectors for business customers.\n- The feature will enable integration with Google Drive and Slack for enhanced responses based on internal data.\n- Future expansions to include platforms like Microsoft SharePoint and Box are planned.\n- ChatGPT Connectors aims to facilitate use of internal knowledge similarly to web search.\n- Concerns exist about ChatGPT accessing sensitive information; some businesses are cautious, while others are supportive.\n- The connectors will sync encrypted copies of company files with ChatGPT, while maintaining strict adherence to user access permissions.\n- Limitations include inability to analyze certain data types and restrictions on accessing private Slack messages.\n- Companies interested in beta testing must provide 100 documents which will not be used for training but may help in synthetic data creation.",
+      "keywords": [
+        "OpenAI",
+        "ChatGPT",
+        "Google Drive",
+        "Slack",
+        "Connectors",
+        "AI integration",
+        "business tools"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-17T18:29:25.000Z"
+    },
+    {
       "title": "Klarna nabs Walmart away from Affirm and boosts its IPO prospects",
       "link": "https://techcrunch.com/2025/03/17/klarna-nabs-walmart-away-from-affirm-and-boosts-its-ipo-prospects/",
       "author": "Mary Ann Azevedo",
@@ -1079,53 +1125,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-14T17:44:21.000Z"
-    },
-    {
-      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-      "link": "https://techcrunch.com/2025/03/14/chatgpt-everything-to-know-about-the-ai-chatbot/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- ChatGPT, launched in November 2022, now boasts over 300 million weekly active users.\n- In 2024, OpenAI formed a partnership with Apple and released major updates, such as GPT-4o with voice capabilities.\n- OpenAI faced internal challenges with high-profile executive exits and lawsuits over copyright infringement issues.\n- The company is also contending with competition from Chinese AI firms and working on significant funding rounds and data center projects.\n- Major product updates include new tools for businesses, the ability to edit code directly, and plans to charge up to $20,000 per month for specialized AI agents.",
-      "keywords": [
-        "ChatGPT",
-        "OpenAI",
-        "AI chatbot",
-        "technology",
-        "GPT-4o",
-        "Apple partnership",
-        "AI agents",
-        "user statistics",
-        "business tools"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-14T17:20:45.000Z"
-    },
-    {
-      "title": "China is reportedly keeping DeepSeek under close watch",
-      "link": "https://techcrunch.com/2025/03/14/china-is-reportedly-keeping-deepseek-under-close-watch/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2196333417_75e106.jpg?w=1024",
-      "summary": "- China is closely monitoring the AI startup DeepSeek, which gained popularity after releasing its open reasoning model, R1, in January 2025.\n- The company now faces tighter government regulations, including restrictions on employee travel and scrutiny of potential investors.\n- DeepSeek's parent company, High-Flyer, is reportedly withholding employee passports to enforce travel restrictions, following advice from the government aimed at safeguarding trade secrets related to AI research.",
-      "keywords": [
-        "DeepSeek",
-        "China",
-        "AI startup",
-        "government regulations",
-        "travel restrictions",
-        "trade secrets"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-14T17:06:59.000Z"
     }
   ]
 }
