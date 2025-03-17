@@ -4,6 +4,75 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Google is switching legacy G Suite users to pooled Workspace storage",
+      "link": "https://www.theverge.com/news/631058/google-g-suite-legacy-pooled-workspace-storage-update",
+      "author": "Jess Weatherbed",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195820/JESSICA_WEATHERBED.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Google is transitioning G Suite legacy free edition users to pooled storage starting May 1st.\n- Previously, individual users had 15GB of free storage, ideal for families sharing a domain.\n- The move aims to simplify storage management, allowing shared access across all users in an organization.\n- No action is needed from users, and opting out is not available.\n- Users can purchase additional storage at discounted rates, starting at increments of 100GB for $15.\n- Storage limits can still be set for individual users by account admins after the transition.\n- This change was anticipated, as Google had previously announced plans for pooled storage in January 2022 but allowed free legacy accounts to continue.",
+      "keywords": [
+        "Google",
+        "G Suite",
+        "Workspace",
+        "storage",
+        "pooled storage",
+        "legacy accounts",
+        "transition"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-17T12:18:53.000Z"
+    },
+    {
+      "title": "Bambu Lab launches 3D-printable toys with reusable, programmable electronics",
+      "link": "https://www.theverge.com/news/631060/bambu-labs-makerworld-cyberbrick-3d-printed-toys-programmable-kickstarter",
+      "author": "Dominic Preston",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197794/dominic-preston.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Bambu Lab has launched CyberBrick, a toy system that combines reusable and programmable electronics with 3D-printable models.\n- The initial Kickstarter campaign has surpassed its funding goal; kits are expected to reach backers by May 2025.\n- Official toys include a forklift, truck, and soccer bot, starting at $29.99, with options for pre-printed kits.\n- Community designs for CyberBrick include a lunar rover, walking table, and replica Tesla Cybertruck, showcasing the system's flexibility.\n- Bambu aims to create a cohesive ecosystem, expanding beyond toys to include components for timelapse 3D printing. \n- CyberBrick designs are compatible with various 3D printers, not limited to Bambu's products, addressing past user concerns regarding printing restrictions.",
+      "keywords": [
+        "Bambu Lab",
+        "3D printing",
+        "toys",
+        "CyberBrick",
+        "MakerWorld",
+        "Kickstarter",
+        "programmable electronics",
+        "community designs"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-17T12:18:15.000Z"
+    },
+    {
+      "title": "Microsoft accidentally wipes out Copilot in latest Windows 11 update",
+      "link": "https://www.theverge.com/news/631053/microsoft-windows-11-update-uninstall-copilot",
+      "author": "Tom Warren",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "summary": "- Microsoft’s Copilot app is unintentionally uninstalled on some Windows 11 devices due to the latest March update.\n- The issue started with the Patch Tuesday updates on March 11th, 2025.\n- Microsoft acknowledges the issue and advises affected users to reinstall Copilot from the [Microsoft Store](https://apps.microsoft.com/detail/9nht9rb2f4hd).\n- Microsoft is rolling out a new version of Copilot with improved UI and new features like a press-to-talk hotkey.\n- A special event is planned for April 4th, 2025, where new Copilot features will be announced by Microsoft AI CEO Mustafa Suleyman.",
+      "keywords": [
+        "Microsoft",
+        "Windows 11",
+        "Copilot",
+        "update",
+        "software issue",
+        "AI assistant"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-17T11:57:26.000Z"
+    },
+    {
       "title": "Alphabet spins off Starlink competitor Taara",
       "link": "https://www.theverge.com/news/631049/alphabet-spins-off-starlink-competitor-taara",
       "author": "Dominic Preston",
@@ -1103,73 +1172,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-03-14T12:50:21.000Z"
-    },
-    {
-      "title": "Apple to Enable Encrypted RCS Messaging with Android Users",
-      "link": "https://www.theverge.com/news/629620/apple-iphone-e2ee-encryption-rcs-messaging-android",
-      "author": "Jess Weatherbed",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195820/JESSICA_WEATHERBED.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Apple and Android users will soon exchange end-to-end encrypted RCS messages thanks to updated RCS specifications.\n- The latest RCS standard includes E2EE based on the Messaging Layer Security (MLS) protocol, marking the first interoperable encryption across different platforms.\n- Apple will add E2EE support for RCS messages in iOS, iPadOS, macOS, and watchOS in future updates, enhancing privacy and security in messaging.",
-      "keywords": [
-        "Apple",
-        "Android",
-        "RCS",
-        "encrypted messaging",
-        "E2EE",
-        "privacy",
-        "security",
-        "iOS 18"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-14T09:57:30.000Z"
-    },
-    {
-      "title": "T-Mobile is raising prices on some of its prized legacy plans",
-      "link": "https://www.theverge.com/news/629598/t-mobile-legacy-plan-price-increase",
-      "author": "Umar Shakir",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23962440/acastro_STK067__01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-      "summary": "- T-Mobile will increase prices by $5 per line for some legacy plan customers starting April 2nd, 2025.\n- Affected customers were notified via text messages about the price increase.\n- The increase is part of adjustments addressing 'rising costs'; specific legacy plans affected are currently unclear, but newer plans like Go5G are not included.\n- T-Mobile assures that most customers will not be affected and maintains its commitment to low prices and value across all plans.",
-      "keywords": [
-        "T-Mobile",
-        "price increase",
-        "legacy plans",
-        "Go5G",
-        "telecommunications",
-        "Umar Shakir"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 4,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-03-13T23:47:03.000Z"
-    },
-    {
-      "title": "Apple’s AirPods 4 are down to their lowest price to date",
-      "link": "https://www.theverge.com/good-deals/629335/apple-airpods-4-earbuds-lowest-price-deal-sale",
-      "author": "Todd Haselton",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197789/Screenshot_2025-01-02_at_10.20.28_AM.0.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Apple’s AirPods 4 are discounted to $99.99 at major retailers, a 22% reduction from the original price of $129.\n- They feature spatial audio with dynamic head tracking and an open design for comfort.\n- An upgraded model with Active Noise Cancellation is available for $148.99, offering additional features like Adaptive Audio and wireless charging.",
-      "keywords": [
-        "Apple",
-        "AirPods 4",
-        "discount",
-        "spatial audio",
-        "noise cancellation"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-03-13T23:17:55.000Z"
     }
   ]
 }
