@@ -4,6 +4,30 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Discord launches SDK to help developers enhance social experiences in their games",
+      "link": "https://techcrunch.com/2025/03/17/discord-launches-sdk-to-help-developers-enhance-social-experiences-in-their-games/",
+      "author": "Aisha Malik",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/01-Communication-Direct-Message-Integration.png?w=680",
+      "summary": "- Discord launched the **Discord Social SDK**, a free toolkit for developers to enhance social and multiplayer experiences in games.\n- The SDK features **integrated friends lists** allowing in-game access to Discord friends and vice versa.\n- Includes **deep-linked game invites**, cross-platform messaging, and the ability to link in-game chats to Discord channels.\n- Compatible with **C++, Unreal Engine, and Unity**; supports **Windows 11+ and macOS**, with plans for console and mobile support.\n- Currently utilized by developers like **Tencent Games** and **Scopely**.\n- Discord boasts **200 million monthly active users** who spend over **1.5 billion hours** playing games each month.",
+      "keywords": [
+        "Discord",
+        "SDK",
+        "game development",
+        "social experience",
+        "multiplayer",
+        "game integration",
+        "developers",
+        "gaming community"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-17T13:00:00.000Z"
+    },
+    {
       "title": "UK’s internet watchdog puts storage and file-sharing services on watch over CSAM",
       "link": "https://techcrunch.com/2025/03/17/uks-internet-watchdog-puts-storage-and-file-sharing-services-on-watch-over-csam/",
       "author": null,
@@ -1171,31 +1195,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-13T21:12:42.000Z"
-    },
-    {
-      "title": "Android is adding Auracast support, which allows hearing aids to connect to public audio broadcasts",
-      "link": "https://techcrunch.com/2025/03/13/android-is-adding-auracast-support-which-allows-hearing-aids-to-connect-to-public-audio-broadcasts/",
-      "author": "Aisha Malik",
-      "thumbnail": null,
-      "summary": "- Google announced support for Auracast in Android, enabling direct connections from hearing aids to audio broadcasts.\n- Compatible devices include Samsung Galaxy phones with One UI 7 and Google Pixel 9 with Android 16 beta.\n- Users can personalize audio streams to their hearing with hearing aid presets.\n- Pixel 9 can connect to broadcasts via QR codes, enhancing accessibility.\n- Android 16 is expected to launch in June, featuring new accessibility options and Local Network Protection.",
-      "keywords": [
-        "Android",
-        "Auracast",
-        "hearing aids",
-        "Bluetooth",
-        "audio broadcasts",
-        "accessibility",
-        "Google Pixel 9",
-        "One UI 7",
-        "LE Audio"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-13T21:07:40.000Z"
     }
   ]
 }

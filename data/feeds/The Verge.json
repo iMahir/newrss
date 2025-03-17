@@ -4,6 +4,49 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Discord Integrates Social Features Directly Into Games",
+      "link": "https://www.theverge.com/news/630823/discord-social-directly-games-sdk",
+      "author": "Jay Peters",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195819/JAY_PETERS.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Discord launches a new Social SDK for game developers to integrate social features directly into games.\n- The SDK offers functionalities like friends lists, cross-platform messaging, voice communication, and more, available even for users without a Discord account.\n- Account linking is available for a more integrated experience.\n- Compatible with C++, Unreal Engine, Unity, and supports Windows 11+ and macOS, with console and mobile support coming soon.\n- Developers like Theorycraft Games and Tencent Games are already implementing the SDK.",
+      "keywords": [
+        "Discord",
+        "Social SDK",
+        "gaming",
+        "integration",
+        "developers",
+        "cross-platform"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-17T13:00:00.000Z"
+    },
+    {
+      "title": "The OneXSugar asks: what if Nintendo Switch could transform into Nintendo DS?",
+      "link": "https://www.theverge.com/news/631005/qualcomm-snapdragon-g3-gen-3-onexsugar-handheld-ayaneo-pocket",
+      "author": "Sean Hollister",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/onexsugar-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+      "summary": "- The OneXSugar is a transforming device with swing-out gamepads and screens, inspired by the Nintendo Switch and Nintendo DS.\n- It will be available for preorder in May and features Qualcomm's Snapdragon G3 Gen 3 processor.\n- Designed by OneXPlayer, it aims to cater to the popular Android gaming market, particularly in China.",
+      "keywords": [
+        "OneXSugar",
+        "gaming handheld",
+        "Nintendo Switch",
+        "Nintendo DS",
+        "Qualcomm Snapdragon"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 8,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-17T13:00:00.000Z"
+    },
+    {
       "title": "Google is switching legacy G Suite users to pooled Workspace storage",
       "link": "https://www.theverge.com/news/631058/google-g-suite-legacy-pooled-workspace-storage-update",
       "author": "Jess Weatherbed",
@@ -1127,51 +1170,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-14T14:00:38.000Z"
-    },
-    {
-      "title": "How to go back in time using Google Maps",
-      "link": "https://www.theverge.com/how-to/628861/google-maps-earth-time-how-to",
-      "author": "David Nield",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/01-maps.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "- Google Maps allows users to explore historical imagery on Street View, with available dates going back to 2007 in some areas.\n- On desktop, access Street View by clicking on a location and selecting the 'Street View' panel, then use the 'See more dates' link to view available historical pictures.\n- Mobile users can tap and hold on the map or select a location’s info card to see Street View and the associated historical images.\n- Historical satellite imagery can be accessed via Google Earth with options to view imagery by specific years and use a timelapse feature, with some images dating back to the 1970s.",
-      "keywords": [
-        "Google Maps",
-        "Street View",
-        "historical imagery",
-        "Google Earth",
-        "satellite imagery",
-        "time travel"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-14T13:00:00.000Z"
-    },
-    {
-      "title": "The fake promise of better Siri",
-      "link": "https://www.theverge.com/the-vergecast/629652/siri-delay-bad-apple-tesla-trump-vergecast",
-      "author": "David Pierce",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195807/DAVID_PIERCE.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Apple claims to have transformed Siri into an AI-powered helper but it is currently non-existent.\n- Siri was promoted as a flagship feature of the iPhone 16 lineup, which has led to consumer disappointment.\n- The Vergecast episode discusses the failures of Siri and the gadget industry’s excessive focus on AI without delivering quality products.\n- Also features a discussion on Tesla's political implications and challenges faced by the brand under Elon Musk’s influence.",
-      "keywords": [
-        "Siri",
-        "Apple",
-        "AI",
-        "gadget industry",
-        "Tesla",
-        "Elon Musk",
-        "Vergecast"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-03-14T12:50:21.000Z"
     }
   ]
 }
