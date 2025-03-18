@@ -4,6 +4,79 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Google brings a ‘canvas’ feature to Gemini, plus Audio Overview",
+      "link": "https://techcrunch.com/2025/03/18/google-brings-a-canvas-feature-to-gemini-plus-audio-overview/",
+      "author": "Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Canvas_Coding-TTT.png?w=680",
+      "summary": "- Google has introduced a new feature called Canvas to its Gemini AI chatbot, enabling users to collaborate on writing and coding projects.\n- Canvas allows for interactive editing, tone adjustment, and real-time code previews, similar to OpenAI's Canvas for ChatGPT.\n- In addition to Canvas, Google has added the Audio Overview feature from NotebookLM, offering audio summaries of documents and content.\n- Both features are available for free to Gemini users globally, with some limitations on code previews and language for audio summaries.",
+      "keywords": [
+        "Google",
+        "Gemini",
+        "Canvas",
+        "AI",
+        "Audio Overview",
+        "Chatbot",
+        "Productivity Tools"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-18T16:00:00.000Z"
+    },
+    {
+      "title": "CISA scrambles to contact fired employees after court rules layoffs ‘unlawful’",
+      "link": "https://techcrunch.com/2025/03/18/cisa-scrambles-to-contact-fired-employees-after-court-rules-layoffs-unlawful/",
+      "author": "Carly Page",
+      "thumbnail": null,
+      "summary": "- The U.S. government’s cybersecurity agency, CISA, is trying to reach over 130 former employees after a court ruling deemed their layoffs 'unlawful'.\n- U.S. District Judge James Bredar ordered reinstatement of employees fired by the Trump administration, particularly probationary workers hired within the last three years.\n- CISA had previously cut 130 probationary employees in February, during a federal workforce reduction.\n- The agency lacks contact information for all affected employees and is urging those impacted to reach out directly.\n- Re-hired employees will be placed on administrative leave with full pay and benefits as per CISA's new directive.",
+      "keywords": [
+        "CISA",
+        "court ruling",
+        "layoffs",
+        "Trump administration",
+        "cybersecurity",
+        "federal employees",
+        "reinstatement",
+        "employment"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-18T15:57:20.000Z"
+    },
+    {
+      "title": "Al Gore’s Just Climate fund raises $175M from Microsoft and CalSTRS for nature-based climate investments",
+      "link": "https://techcrunch.com/2025/03/18/al-gores-just-climate-fund-raises-175m-from-microsoft-and-calstrs-for-nature-based-climate-investments/",
+      "author": "Tim De Chant",
+      "thumbnail": null,
+      "summary": "- Just Climate has raised $175 million from Microsoft’s Climate Innovation Fund and CalSTRS.\n- The fund will focus on nature-based climate solutions like farming and forestry.\n- Only $35 billion was invested in nature-based solutions in 2022, compared to $1.46 trillion for other climate finance.\n- Nature-based solutions can address about 15% of annual global emissions.\n- Microsoft invested in a startup called Chestnut Carbon for reforestation projects.\n- Just Climate’s first investment was in NatureMetrics, which surveys biodiversity using environmental DNA (eDNA).",
+      "keywords": [
+        "Al Gore",
+        "Just Climate",
+        "Microsoft",
+        "CalSTRS",
+        "nature-based solutions",
+        "climate finance",
+        "biodiversity",
+        "emissions",
+        "investment",
+        "sustainability"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-18T15:56:18.000Z"
+    },
+    {
       "title": "Anthropic-backed AI-powered code review platform Graphite raises cash",
       "link": "https://techcrunch.com/2025/03/18/anthropic-backed-ai-powered-code-review-platform-graphite-raises-cash/",
       "author": "Kyle Wiggers",
@@ -1005,77 +1078,6 @@
         "longTermSignificance": 9
       },
       "pubDate": "2025-03-17T13:30:00.000Z"
-    },
-    {
-      "title": "Discord launches SDK to help developers enhance social experiences in their games",
-      "link": "https://techcrunch.com/2025/03/17/discord-launches-sdk-to-help-developers-enhance-social-experiences-in-their-games/",
-      "author": "Aisha Malik",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/01-Communication-Direct-Message-Integration.png?w=680",
-      "summary": "- Discord launched the **Discord Social SDK**, a free toolkit for developers to enhance social and multiplayer experiences in games.\n- The SDK features **integrated friends lists** allowing in-game access to Discord friends and vice versa.\n- Includes **deep-linked game invites**, cross-platform messaging, and the ability to link in-game chats to Discord channels.\n- Compatible with **C++, Unreal Engine, and Unity**; supports **Windows 11+ and macOS**, with plans for console and mobile support.\n- Currently utilized by developers like **Tencent Games** and **Scopely**.\n- Discord boasts **200 million monthly active users** who spend over **1.5 billion hours** playing games each month.",
-      "keywords": [
-        "Discord",
-        "SDK",
-        "game development",
-        "social experience",
-        "multiplayer",
-        "game integration",
-        "developers",
-        "gaming community"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-17T13:00:00.000Z"
-    },
-    {
-      "title": "UK’s internet watchdog puts storage and file-sharing services on watch over CSAM",
-      "link": "https://techcrunch.com/2025/03/17/uks-internet-watchdog-puts-storage-and-file-sharing-services-on-watch-over-csam/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- The U.K.’s Online Safety Act (OSA) enforcement program launched on March 17, 2025.\n- Ofcom's program focuses on file-sharing and file-storage services due to their susceptibility to sharing image-based child sexual abuse material (CSAM).\n- Services have been notified to prepare for formal information requests regarding their safety measures against CSAM.\n- Non-compliance with the OSA may result in penalties of up to 10% of global annual turnover.",
-      "keywords": [
-        "UK",
-        "Ofcom",
-        "Online Safety Act",
-        "CSAM",
-        "file-sharing",
-        "file-storage",
-        "enforcement program"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-17T10:14:11.000Z"
-    },
-    {
-      "title": "Google adds its HD voice model Chirp 3 to its Vertex AI platform",
-      "link": "https://techcrunch.com/2025/03/17/google-adds-its-hd-voice-model-chirp-3-to-its-vertex-ai-platform/",
-      "author": "Ingrid Lunden",
-      "thumbnail": null,
-      "summary": "- Google announced the addition of Chirp 3, an HD voice interface, to its Vertex AI platform, starting next week.\n- Chirp 3 will include 8 new voices for 31 languages, aimed at creating voice assistants, audiobooks, and video voice-overs.\n- The announcement was made at an event at Google’s DeepMind offices in London, amid competition from startups like Sesame.\n- Usage restrictions will be implemented to prevent misuse, as stated by Google Cloud CEO Thomas Kurian.\n- Google first launched Vertex AI in 2021 to facilitate cloud-based machine learning services, now competing with Microsoft and Amazon in generative AI.",
-      "keywords": [
-        "Google",
-        "Chirp 3",
-        "Vertex AI",
-        "voice interface",
-        "generative AI",
-        "DeepMind",
-        "AI applications",
-        "machine learning"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-17T09:58:55.000Z"
     }
   ]
 }
