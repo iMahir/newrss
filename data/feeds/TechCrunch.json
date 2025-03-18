@@ -4,6 +4,53 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Nerdio nabs $500M to power virtual desktops on Azure",
+      "link": "https://techcrunch.com/2025/03/18/nerdio-nabs-500m-to-power-virtual-desktops-on-azure/",
+      "author": "Paul Sawers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Nerdio-e1742218082449.png?w=680",
+      "summary": "- Nerdio raises $500 million in Series C funding to enhance Microsoft cloud technology management.\n- Valuation has more than quadrupled since Series B, now estimated above $1 billion.\n- The company targets optimization of cloud infrastructure and costs for enterprises.\n- Investors include General Atlantic, Lead Edge Capital, and Stepstone, with the founders retaining a significant stake.\n- Plans to expand product offerings and workforce of currently 300 employees to support growth.",
+      "keywords": [
+        "Nerdio",
+        "Azure",
+        "virtual desktops",
+        "cloud management",
+        "funding",
+        "Series C",
+        "Microsoft"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-18T10:04:00.000Z"
+    },
+    {
+      "title": "YC-backed food supply startup Vendease restructures employees’ salaries",
+      "link": "https://techcrunch.com/2025/03/18/vendease-restructures-employees-salaries/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Vendease, a Y Combinator-backed Nigerian food procurement startup, has changed its pay structure to a performance-based system after laying off 44% of its workforce.\n- The new compensation model includes a five-phase salary recovery plan, aiming for full salary restoration by December 2025 based on performance targets.\n- Vendease is seeking fresh capital and aims to become profitable by leveraging its software-driven operations and a buy now, pay later (BNPL) product to support food businesses.",
+      "keywords": [
+        "Vendease",
+        "Y Combinator",
+        "food supply",
+        "salary restructuring",
+        "Nigerian startups",
+        "performance-based pay",
+        "buy now pay later",
+        "BNPL"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-18T09:36:04.000Z"
+    },
+    {
       "title": "GrubMarket raises $50M at a $3.5B+ valuation to build AI for the $1 trillion food distribution industry",
       "link": "https://techcrunch.com/2025/03/18/grubmarket-raises-50m-at-a-3-5b-valuation-to-build-ai-for-the-1-trillion-food-distribution-industry/",
       "author": null,
@@ -1063,55 +1110,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-15T18:57:29.000Z"
-    },
-    {
-      "title": "Bluesky users debate plans around user data and AI training",
-      "link": "https://techcrunch.com/2025/03/15/bluesky-users-debate-plans-around-user-data-and-ai-training/",
-      "author": "Anthony Ha",
-      "thumbnail": null,
-      "summary": "- Bluesky published a [proposal on GitHub](https://github.com/bluesky-social/proposals/tree/main/0008-user-intents) regarding user data usage for AI training and public archiving.\n- CEO Jay Graber presented the proposal at [South by Southwest](https://techcrunch.com/2025/03/10/bluesky-is-weighing-a-proposal-that-gives-users-consent-over-how-their-data-is-used-for-ai/) and garnered reactions from users concerned about data privacy policies.\n- Users can specify their preferences regarding data usage across four categories: generative AI, protocol bridging, bulk datasets, and web archiving.\n- The proposal aims to provide a [mechanism](https://en.wikipedia.org/wiki/Robots.txt) for user consent similar to how websites manage data scraping but is not legally enforceable.",
-      "keywords": [
-        "Bluesky",
-        "user data",
-        "AI training",
-        "generative AI",
-        "privacy",
-        "social media",
-        "data policies"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-15T17:50:18.000Z"
-    },
-    {
-      "title": "Week in Review: SXSW week comes to a close",
-      "link": "https://techcrunch.com/2025/03/15/week-in-review-sxsw-week-comes-to-a-close/",
-      "author": "Karyne Levy",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2022/12/rqad-power-bikes-trike-and-van.jpg?w=680",
-      "summary": "- Coverage of SXSW highlights including Waymo, Intel, and TikTok's sale deadline.\n- Waymo expands its robotaxi program across Silicon Valley, adding new territories.\n- Intel appoints Lip-Bu Tan as CEO, focusing on engineering-led initiatives.\n- TikTok’s parent company favors Oracle as a potential buyer amidst upcoming sale deadline.\n- FBI and EPA frozen funds investigation involving multiple nonprofits revealed in court.\n- Rad Power Bikes appoints new CEO Kathi Lentzsch as retail strategy shifts.\n- Meta to enhance its fact-checking process with Community Notes in the U.S.",
-      "keywords": [
-        "SXSW",
-        "Waymo",
-        "Intel",
-        "TikTok",
-        "Karyne Levy",
-        "robotaxi",
-        "CEO",
-        "digital markets",
-        "rad power bikes",
-        "backdoor policies"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-15T17:05:00.000Z"
     }
   ]
 }
