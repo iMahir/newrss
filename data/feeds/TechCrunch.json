@@ -4,6 +4,79 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Nvidia and Google DeepMind will help power Disney’s cute robots",
+      "link": "https://techcrunch.com/2025/03/18/nvidia-and-google-deepmind-will-help-power-disneys-cute-robots/",
+      "author": "Maxwell Zeff",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761755.jpg?w=680",
+      "summary": "- Nvidia collaborates with Disney Research and Google DeepMind to develop Newton, a physics engine for robotics.\n- Newton will be used to power Disney's next-generation entertainment robots, including Star Wars-inspired BDX droids.\n- An open-source version of Newton is set to release later in 2025.\n- Disney plans to showcase its robots at theme parks starting next year, citing readiness due to Newton.\n- Newton helps robots handle complex tasks and enhances interactivity with deformable objects.\n- The engine is compatible with Google DeepMind’s tools and technologies for robotic development.\n- Nvidia announced other products at GTC 2025, including Groot N1, a foundation model for humanoid robots.",
+      "keywords": [
+        "Nvidia",
+        "Google DeepMind",
+        "Disney",
+        "robots",
+        "Newton",
+        "GTC 2025",
+        "AI",
+        "simulation",
+        "technology"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-18T22:39:42.000Z"
+    },
+    {
+      "title": "JD Vance claims freeing AI from regulation is good for American workers and tech innovators",
+      "link": "https://techcrunch.com/2025/03/18/jd-vance-claims-freeing-ai-from-regulation-is-good-for-american-workers-and-tech-innovators/",
+      "author": "Marina Temkin",
+      "thumbnail": null,
+      "summary": "• Vice President JD Vance emphasized AI and tech innovations benefiting both populists and tech investors at the Andreessen Horowitz American Dynamism Summit in Washington, D.C.\n• Vance noted that fears of AI replacing jobs overlook that innovation often creates higher-paying jobs, citing the historical example of bank tellers displaced by ATMs.\n• He criticized past government actions and proposed fewer regulations on AI to stimulate tech innovation while suggesting adjustments to trade and immigration policies to discourage offshoring.",
+      "keywords": [
+        "JD Vance",
+        "AI regulation",
+        "tech innovation",
+        "American workers",
+        "populism",
+        "Trump administration",
+        "offshoring",
+        "trade policy",
+        "immigration"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-18T22:33:32.000Z"
+    },
+    {
+      "title": "Elon Musk’s DOGE leadership likely violates constitution’s appointments clause, judge says",
+      "link": "https://techcrunch.com/2025/03/18/elon-musks-doge-leadership-likely-violates-constitutions-appointments-clause-judge-says/",
+      "author": "Sean O’Kane",
+      "thumbnail": null,
+      "summary": "- A federal judge, Theodore Chuang, ruled that Elon Musk's leadership of the Department of Government Efficiency likely violates the U.S. Constitution’s appointments clause.\n- Chuang's opinion was made in response to a lawsuit from workers at the USAID, suggesting Musk acts as DOGE's head despite being labeled as a special advisor.\n- The ruling emphasizes that Musk has exerted authority that only a properly appointed officer can exercise, and it orders the restoration of certain USAID operations, restricting further dismantling by Musk and DOGE.",
+      "keywords": [
+        "Elon Musk",
+        "DOGE",
+        "appointments clause",
+        "USAID",
+        "legal ruling",
+        "federal judge",
+        "government efficiency"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-18T22:11:42.000Z"
+    },
+    {
       "title": "New $5M deep tech fund aims to lure founders from universities",
       "link": "https://techcrunch.com/2025/03/18/new-5m-deep-tech-fund-aims-to-lure-founders-from-universities/",
       "author": "Tim De Chant",
@@ -1071,76 +1144,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-17T18:29:58.000Z"
-    },
-    {
-      "title": "OpenAI to start testing ChatGPT connectors for Google Drive and Slack",
-      "link": "https://techcrunch.com/2025/03/17/openai-to-start-testing-chatgpt-connectors-for-google-drive-and-slack/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- OpenAI is beta testing a feature called ChatGPT Connectors for business customers.\n- The feature will enable integration with Google Drive and Slack for enhanced responses based on internal data.\n- Future expansions to include platforms like Microsoft SharePoint and Box are planned.\n- ChatGPT Connectors aims to facilitate use of internal knowledge similarly to web search.\n- Concerns exist about ChatGPT accessing sensitive information; some businesses are cautious, while others are supportive.\n- The connectors will sync encrypted copies of company files with ChatGPT, while maintaining strict adherence to user access permissions.\n- Limitations include inability to analyze certain data types and restrictions on accessing private Slack messages.\n- Companies interested in beta testing must provide 100 documents which will not be used for training but may help in synthetic data creation.",
-      "keywords": [
-        "OpenAI",
-        "ChatGPT",
-        "Google Drive",
-        "Slack",
-        "Connectors",
-        "AI integration",
-        "business tools"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-17T18:29:25.000Z"
-    },
-    {
-      "title": "Klarna nabs Walmart away from Affirm and boosts its IPO prospects",
-      "link": "https://techcrunch.com/2025/03/17/klarna-nabs-walmart-away-from-affirm-and-boosts-its-ipo-prospects/",
-      "author": "Mary Ann Azevedo",
-      "thumbnail": null,
-      "summary": "- Klarna has announced a partnership to provide buy now, pay later loans for Walmart, taking over from Affirm.\n- Klarna will implement the loan service through OnePay towards the end of this year.\n- Affirm's stock fell 8% following the news, while Klarna's IPO filing indicates its recovery after a prior valuation drop.",
-      "keywords": [
-        "Klarna",
-        "Walmart",
-        "Affirm",
-        "fintech",
-        "partnership",
-        "IPO",
-        "buy now, pay later"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-17T18:06:39.000Z"
-    },
-    {
-      "title": "YC-backed ReactWise is applying AI to speed up drug manufacturing",
-      "link": "https://techcrunch.com/2025/03/17/yc-backed-reactwise-is-applying-ai-to-speed-up-drug-manufacturing/",
-      "author": "Alexander Pomberger, Daniel Wigh",
-      "thumbnail": null,
-      "summary": "- ReactWise, a YC-backed startup, is using AI to enhance chemical manufacturing, aiming to expedite drug production processes by 30 times.\n- The firm plans to automate predictions for ideal experimental setups, potentially achieving this in two years.\n- Founded in July 2024, ReactWise has secured $3.4 million in pre-seed funding and currently has 12 pilot trials with pharmaceutical companies, including some large players in the industry.",
-      "keywords": [
-        "AI",
-        "drug manufacturing",
-        "ReactWise",
-        "pharmaceuticals",
-        "process optimization",
-        "YC-backed",
-        "funding",
-        "automation"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 9
-      },
-      "pubDate": "2025-03-17T17:55:10.000Z"
     }
   ]
 }
