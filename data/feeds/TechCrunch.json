@@ -4,6 +4,83 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Anthropic-backed AI-powered code review platform Graphite raises cash",
+      "link": "https://techcrunch.com/2025/03/18/anthropic-backed-ai-powered-code-review-platform-graphite-raises-cash/",
+      "author": "Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/1727733182-comment-left.png?w=680",
+      "summary": "- Graphite raised $52 million in a Series B funding round led by Accel, with participation from Anthropic’s Anthology Fund, Menlo Ventures, and others.\n- Founded in 2020 by Tomas Reimers, Greg Foster, and Merrill Lutsky, Graphite initially focused on mobile development tools before pivoting to code review.\n- The platform uses AI to provide feedback on code, suggest code changes, and summarize code, with plans to launch a new AI tool named Diamond for automatic bug detection.\n- Graphite's revenue grew 20x in 2024, serving over 500 companies including Shopify, Snowflake, and Figma, and has made its core code review tool free for teams of all sizes.",
+      "keywords": [
+        "AI",
+        "code review",
+        "Graphite",
+        "venture capital",
+        "software development",
+        "Anthropic",
+        "funding",
+        "technology",
+        "startups"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-18T15:00:00.000Z"
+    },
+    {
+      "title": "Arcade raises $12M from Perplexity co-founder’s new fund to make AI agents less awful",
+      "link": "https://techcrunch.com/2025/03/18/arcade-raises-12m-from-perplexity-co-founders-new-fund-to-make-ai-agents-less-awful/",
+      "author": "Alex Salazar, Sam Partee, Andy Konwinski, Pete Sonsini",
+      "thumbnail": null,
+      "summary": "- Arcade, an AI agent infrastructure startup, raised $12 million from Laude Ventures, a fund founded by Perplexity co-founder Andy Konwinski.\n- Founded by Alex Salazar (former Okta exec) and Sam Partee (former Redis engineer) in February 2024, the startup aims to improve the functionality of AI agents.\n- The company addresses issues with existing AI agents that often do not work effectively due to reliance on public data rather than private data.\n- Arcade offers a tool-calling platform that allows AI agents to access apps and data with user-like privileges, integrating with OAuth for secure token management.",
+      "keywords": [
+        "Arcade",
+        "AI agents",
+        "funding",
+        "Laude Ventures",
+        "Andy Konwinski",
+        "tech startup",
+        "infrastructure",
+        "SaaS",
+        "OAuth",
+        "token management"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-18T15:00:00.000Z"
+    },
+    {
+      "title": "Mark Zuckerberg says that Meta’s Llama models have hit 1B downloads",
+      "link": "https://techcrunch.com/2025/03/18/mark-zuckerberg-says-that-metas-llama-models-have-hit-1b-downloads/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Meta CEO Mark Zuckerberg announced that the Llama AI model family has reached 1 billion downloads, a 53% increase from 650 million in December 2024.\n- Llama powers Meta AI across platforms like Facebook, Instagram, and WhatsApp and is available for free under a proprietary license.\n- Despite its success, Llama faces challenges, including an AI copyright lawsuit and data privacy concerns leading to cancellations of launch plans in Europe.\n- Meta plans to invest up to $80 billion in AI projects this year and aims to release new Llama models, including reasoning and multimodal capabilities, in the upcoming months.",
+      "keywords": [
+        "Meta",
+        "Llama models",
+        "AI downloads",
+        "Mark Zuckerberg",
+        "TechCrunch",
+        "artificial intelligence",
+        "data privacy",
+        "AI ecosystem",
+        "Meta AI",
+        "generative AI"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-18T14:16:37.000Z"
+    },
+    {
       "title": "Make your choice! Vote for the speaker you want to see at TechCrunch Sessions: AI",
       "link": "https://techcrunch.com/2025/03/18/make-your-choice-vote-for-the-speaker-you-want-to-see-at-techcrunch-sessions-ai/",
       "author": null,
@@ -999,78 +1076,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-17T09:58:55.000Z"
-    },
-    {
-      "title": "Google beefs up its UK AI business with Agentspace data residency and more",
-      "link": "https://techcrunch.com/2025/03/17/google-beefs-up-its-uk-ai-business-with-agentspace-data-residency-and-more/",
-      "author": "Ingrid Lunden",
-      "thumbnail": null,
-      "summary": "- Google is expanding its AI operations in the U.K., announcing plans by CEO Demis Hassabis and Google Cloud CEO Thomas Kurian.\n- The expansion includes UK data residency for Agentspace, allowing local hosting of AI services for enterprises.\n- Up to £280,000 in Google Cloud credits and expanded AI skills training will be offered to startups joining the UK's new accelerator.\n- Chirp 3, an audio generation model, will be added to the Vertex AI developer platform.\n- Google aims to position itself as a primary partner for businesses looking to utilize AI, amidst concerns about data usage by Big Tech.\n- The U.K. government is also promoting AI development, seeking to decrease reliance on non-local tech firms and enhance local AI initiatives.",
-      "keywords": [
-        "Google",
-        "AI",
-        "UK",
-        "Agentspace",
-        "data residency",
-        "Chirp 3",
-        "Vertex AI",
-        "cloud credits",
-        "AI startups",
-        "Demis Hassabis",
-        "Thomas Kurian"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-17T09:58:51.000Z"
-    },
-    {
-      "title": "European tech industry coalition calls for ‘radical action’ on digital sovereignty — starting with buying local",
-      "link": "https://techcrunch.com/2025/03/16/european-tech-industry-coalition-calls-for-radical-action-on-digital-sovereignty-starting-with-buying-local/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- A coalition of over 80 European tech organizations urges EU lawmakers for immediate action on digital sovereignty, focusing on local innovation.\n- The letter advocates for a shift in public procurement policies to favor European digital solutions, including a 'Buy European' mandate.\n- Companies like Airbus and Element support this initiative to reduce reliance on U.S. technology and ensure Europe's digital autonomy.\n- The coalition warns of dire consequences if reliance on foreign tech continues, predicting accelerated loss of digital innovation in Europe.\n- Recommendations include creating a Sovereign Infrastructure Fund and emphasizing the importance of pooling resources among European technologists.",
-      "keywords": [
-        "digital sovereignty",
-        "European tech",
-        "local innovation",
-        "public procurement",
-        "Euro stack",
-        "Sovereign Infrastructure Fund"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-17T05:00:00.000Z"
-    },
-    {
-      "title": "Apple reportedly considered building the iPhone 17 Air without ports",
-      "link": "https://techcrunch.com/2025/03/16/apple-reportedly-considered-building-the-iphone-17-air-without-ports/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/iphone-usb-lighting-charging-cable.jpg?w=1024",
-      "summary": "- Apple is planning to launch the iPhone 17 Air in fall 2025, featuring a slimmer design and a combination of high-end and low-end features.\n- The development of a skinnier phone involved significant engineering efforts, focusing on maximizing battery life with thinner batteries.\n- Apple contemplated making the iPhone 17 Air completely port-free, relying on wireless charging and cloud-based data syncing, but decided against it due to regulatory concerns in Europe regarding USB-C support.",
-      "keywords": [
-        "Apple",
-        "iPhone 17 Air",
-        "wireless charging",
-        "USB-C",
-        "smartphone regulations",
-        "Mark Gurman",
-        "Bloomberg"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-16T21:51:57.000Z"
     }
   ]
 }
