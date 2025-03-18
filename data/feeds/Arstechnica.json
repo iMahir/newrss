@@ -4,6 +4,30 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Farewell Photoshop? Google’s new AI lets you edit images by asking",
+      "link": "https://arstechnica.com/ai/2025/03/farewell-photoshop-googles-new-ai-lets-you-edit-images-by-asking/",
+      "author": null,
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/text_generation-1024x752.jpg",
+      "summary": "- Gemini 2.0 Flash introduces true multimodal output, allowing for interactive graphics and consistent illustration generation.  \n- The AI can generate images that maintain character and setting continuity across multiple images.  \n- Google’s benchmark indicates that Gemini 2.0 Flash outperforms other leading models in text rendering within images.  \n- Despite its potential, the technology is still in early development, with room for improvement in visual knowledge and output quality.",
+      "keywords": [
+        "AI",
+        "Google",
+        "Gemini 2.0 Flash",
+        "image editing",
+        "multimodal output",
+        "text rendering",
+        "artificial intelligence",
+        "technology"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-03-18T11:15:35.000Z"
+    },
+    {
       "title": "Large enterprises scramble after supply-chain attack spills their secrets",
       "link": "https://arstechnica.com/information-technology/2025/03/supply-chain-attack-exposing-credentials-affects-23k-users-of-tj-actions/",
       "author": "Dan Goodin",
@@ -1155,30 +1179,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-22T15:10:58.000Z"
-    },
-    {
-      "title": "Cutting-edge Chinese “reasoning” model rivals OpenAI o1—and it’s free to download",
-      "link": "https://arstechnica.com/ai/2025/01/china-is-catching-up-with-americas-best-reasoning-ai-models/",
-      "author": null,
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/benchmark-1024x607.jpg",
-      "summary": "- Chinese reasoning model R1 reportedly outperforms OpenAI's o1 on several benchmarks.\n- DeepSeek, Alibaba, and Moonshot AI claim their models match o1's capabilities.\n- R1 has restrictions on certain topics due to Chinese Internet regulations when run in the cloud.",
-      "keywords": [
-        "AI",
-        "reasoning model",
-        "DeepSeek",
-        "OpenAI",
-        "benchmark",
-        "China",
-        "regulations",
-        "performance"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-21T18:28:54.000Z"
     }
   ]
 }
