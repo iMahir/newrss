@@ -4,6 +4,106 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Our five favorite dunks from Drake’s label over his ‘Not Like Us’ lawsuit",
+      "link": "https://www.theverge.com/news/631902/drake-umg-not-like-us-lawsuit-response",
+      "author": "Emma Roth",
+      "thumbnail": null,
+      "summary": "- Universal Music Group (UMG) responds to Drake's lawsuit claiming defamation from Kendrick Lamar's diss track \"Not Like Us.\"\n- UMG argues that Drake's lawsuit should be dismissed as he is a \"sore loser\" in a rap battle.\n- Drake previously signed a letter opposing the use of his lyrics in criminal cases, highlighting irony in his current lawsuit.\n- UMG points out the expectation of aggressive lyrics in the context of the diss track due to prior exchanges between the artists.\n- UMG counters allegations that \"Not Like Us\" called for violence and claims Drake's own lyrics are equally harsh.\n- UMG states that controversies referenced in \"Not Like Us\" were already well-known and publicly documented.\n- UMG disputes Drake's claims of manipulated streaming through bots and payola, calling them unsupported and speculative.",
+      "keywords": [
+        "Drake",
+        "Kendrick Lamar",
+        "UMG",
+        "lawsuit",
+        "Not Like Us",
+        "defamation",
+        "rap battle",
+        "music industry",
+        "diss track",
+        "streaming manipulation"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-18T18:12:17.000Z"
+    },
+    {
+      "title": "Chip race: Microsoft, Meta, Google, and Nvidia battle it out for AI chip supremacy",
+      "link": "https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia",
+      "author": "Verge Staff",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195848/UMAR_SHAKIR.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "summary": "- Intel is testing its 18A chip process again after previous failures, involving both Nvidia and Broadcom.\n- Nvidia's upcoming AI chip, Blackwell Ultra, will be announced at its GTC keynote on March 18 and expected to launch in the second half of the year.\n- OpenAI plans to launch its in-house AI chip next year, produced by TSMC using advanced 3-nanometer technology.\n- Intel is canceling its Falcon Shores chip and focusing resources on Jaguar Shores instead.\n- Nvidia's market cap fell by almost $600 billion following competition from DeepSeek, a new Chinese AI startup.\n- An antitrust investigation has been opened in China regarding Nvidia's acquisition of Mellanox after concerns over compliance with previous commitments.",
+      "keywords": [
+        "AI chips",
+        "Nvidia",
+        "Intel",
+        "OpenAI",
+        "DeepSeek",
+        "Microsoft",
+        "Meta",
+        "Google",
+        "chip development",
+        "technology"
+      ],
+      "scores": {
+        "scale": 9,
+        "impact": 10,
+        "novelty": 8,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-03-18T17:55:14.000Z"
+    },
+    {
+      "title": "GM taps Nvidia to boost its embattled self-driving projects",
+      "link": "https://www.theverge.com/news/631951/gm-nvidia-gtc-deal-cars-robots-factories",
+      "author": "Andrew J. Hawkins",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/GM_NVIDIA-Logo-Image.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "summary": "- Nvidia partners with GM at its annual GTC conference to develop advanced automotive technologies.\n- GM will utilize Nvidia’s Omniverse and AI training software for robotics and manufacturing efficiency.\n- Enhanced vehicles will feature Nvidia’s Drive AGX system-on-a-chip for autonomous capabilities and high-performance compute.\n- GM's past efforts with autonomous vehicles have faced challenges and funding cuts following safety concerns.\n- Nvidia expects its automotive sector to grow significantly despite current low penetration in vehicle markets.\n- This partnership adds GM to a growing list of automakers collaborating with Nvidia.",
+      "keywords": [
+        "Nvidia",
+        "GM",
+        "self-driving",
+        "autonomous vehicles",
+        "AI",
+        "manufacturing",
+        "Drive AGX",
+        "technology partnership",
+        "robotics"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-18T17:54:11.000Z"
+    },
+    {
+      "title": "Wait, why is the White House using Starlink to ‘improve Wi-Fi’?",
+      "link": "https://www.theverge.com/news/631716/white-house-starlink-wi-fi-connectivity-musk",
+      "author": "Wes Davis",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196306/unnamed.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- The White House aims to improve Wi-Fi connectivity using Starlink due to poor cell service and strained Wi-Fi infrastructure.\n- Starlink service is being piped from a government data center rather than being installed directly.\n- Critics question the necessity of using Starlink when simpler solutions could suffice, and there are concerns about ethics and security.",
+      "keywords": [
+        "White House",
+        "Starlink",
+        "Wi-Fi",
+        "Elon Musk",
+        "SpaceX",
+        "internet connectivity",
+        "cybersecurity"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 4,
+        "longTermSignificance": 3
+      },
+      "pubDate": "2025-03-18T17:17:35.000Z"
+    },
+    {
       "title": "Assassin’s Creed Shadows finally showed me the appeal of Ubisoft’s tentpole franchise",
       "link": "https://www.theverge.com/games-review/631744/assassins-creed-shadows-review-ubisoft",
       "author": "Ash Parrish",
@@ -1049,101 +1149,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-03-17T13:00:00.000Z"
-    },
-    {
-      "title": "Google is switching legacy G Suite users to pooled Workspace storage",
-      "link": "https://www.theverge.com/news/631058/google-g-suite-legacy-pooled-workspace-storage-update",
-      "author": "Jess Weatherbed",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195820/JESSICA_WEATHERBED.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Google is transitioning G Suite legacy free edition users to pooled storage starting May 1st.\n- Previously, individual users had 15GB of free storage, ideal for families sharing a domain.\n- The move aims to simplify storage management, allowing shared access across all users in an organization.\n- No action is needed from users, and opting out is not available.\n- Users can purchase additional storage at discounted rates, starting at increments of 100GB for $15.\n- Storage limits can still be set for individual users by account admins after the transition.\n- This change was anticipated, as Google had previously announced plans for pooled storage in January 2022 but allowed free legacy accounts to continue.",
-      "keywords": [
-        "Google",
-        "G Suite",
-        "Workspace",
-        "storage",
-        "pooled storage",
-        "legacy accounts",
-        "transition"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 4,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-03-17T12:18:53.000Z"
-    },
-    {
-      "title": "Bambu Lab launches 3D-printable toys with reusable, programmable electronics",
-      "link": "https://www.theverge.com/news/631060/bambu-labs-makerworld-cyberbrick-3d-printed-toys-programmable-kickstarter",
-      "author": "Dominic Preston",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197794/dominic-preston.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Bambu Lab has launched CyberBrick, a toy system that combines reusable and programmable electronics with 3D-printable models.\n- The initial Kickstarter campaign has surpassed its funding goal; kits are expected to reach backers by May 2025.\n- Official toys include a forklift, truck, and soccer bot, starting at $29.99, with options for pre-printed kits.\n- Community designs for CyberBrick include a lunar rover, walking table, and replica Tesla Cybertruck, showcasing the system's flexibility.\n- Bambu aims to create a cohesive ecosystem, expanding beyond toys to include components for timelapse 3D printing. \n- CyberBrick designs are compatible with various 3D printers, not limited to Bambu's products, addressing past user concerns regarding printing restrictions.",
-      "keywords": [
-        "Bambu Lab",
-        "3D printing",
-        "toys",
-        "CyberBrick",
-        "MakerWorld",
-        "Kickstarter",
-        "programmable electronics",
-        "community designs"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-17T12:18:15.000Z"
-    },
-    {
-      "title": "Microsoft accidentally wipes out Copilot in latest Windows 11 update",
-      "link": "https://www.theverge.com/news/631053/microsoft-windows-11-update-uninstall-copilot",
-      "author": "Tom Warren",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-      "summary": "- Microsoft’s Copilot app is unintentionally uninstalled on some Windows 11 devices due to the latest March update.\n- The issue started with the Patch Tuesday updates on March 11th, 2025.\n- Microsoft acknowledges the issue and advises affected users to reinstall Copilot from the [Microsoft Store](https://apps.microsoft.com/detail/9nht9rb2f4hd).\n- Microsoft is rolling out a new version of Copilot with improved UI and new features like a press-to-talk hotkey.\n- A special event is planned for April 4th, 2025, where new Copilot features will be announced by Microsoft AI CEO Mustafa Suleyman.",
-      "keywords": [
-        "Microsoft",
-        "Windows 11",
-        "Copilot",
-        "update",
-        "software issue",
-        "AI assistant"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-17T11:57:26.000Z"
-    },
-    {
-      "title": "Alphabet spins off Starlink competitor Taara",
-      "link": "https://www.theverge.com/news/631049/alphabet-spins-off-starlink-competitor-taara",
-      "author": "Dominic Preston",
-      "thumbnail": null,
-      "summary": "- Taara, a light-based internet project, is spinning off from Alphabet’s X incubator into an independent company.\n- The technology utilizes lasers for data transmission, aiming to rival Starlink in connecting rural areas.\n- Alphabet retains a minority stake in Taara, which has raised funds from Series X Capital and operates in 12 countries.\n- Taara’s technology enables data transmission of up to 20 gigabits per second over distances of 20km using tower-mounted terminals, cheaper than fiber installation.\n- The company plans to launch a compact version of its technology in a chip by 2026.\n- Taara claims to offer significantly more bandwidth than Starlink for a lower cost.",
-      "keywords": [
-        "Taara",
-        "Alphabet",
-        "Starlink",
-        "internet",
-        "lasers",
-        "rural connectivity",
-        "X incubator",
-        "light-based technology",
-        "bandwidth",
-        "independent company"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-17T09:44:55.000Z"
     }
   ]
 }
