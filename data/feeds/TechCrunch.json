@@ -4,6 +4,50 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "An AI model from over a decade ago sparked Nvidia’s investment in autonomous vehicles",
+      "link": "https://techcrunch.com/2025/03/18/an-ai-model-from-over-a-decade-ago-sparked-nvidias-investment-in-autonomous-vehicles/",
+      "author": "Kirsten Korosec",
+      "thumbnail": null,
+      "summary": "- During the GTC 2025 conference, Nvidia CEO Jensen Huang highlighted the influence of AlexNet on their focus on autonomous vehicles.\n- AlexNet, created by Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton, achieved 84.7% accuracy in the ImageNET competition in 2012, reviving interest in deep learning.\n- Nvidia has partnered with numerous automakers, including GM, Tesla, and others, providing GPU technology for self-driving cars and digital twin technology for factories.",
+      "keywords": [
+        "Nvidia",
+        "AlexNet",
+        "autonomous vehicles",
+        "deep learning",
+        "machine learning"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-03-18T20:56:36.000Z"
+    },
+    {
+      "title": "Nvidia announces two ‘personal AI supercomputers’",
+      "link": "https://techcrunch.com/2025/03/18/nvidia-announces-two-personal-ai-supercomputers/",
+      "author": "Becca",
+      "thumbnail": null,
+      "summary": "- Nvidia revealed new AI personal supercomputers, DGX Spark and DGX Station, at GTC 2025.\n- The DGX Spark offers up to 1,000 trillion operations per second using the GB10 Grace Blackwell Superchip.\n- DGX Station will feature a GB300 Grace Blackwell Ultra Desktop Superchip with 784GB of memory, launching later this year.",
+      "keywords": [
+        "Nvidia",
+        "AI",
+        "supercomputers",
+        "GTC 2025",
+        "Grace Blackwell",
+        "DGX Spark",
+        "DGX Station"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-18T20:20:45.000Z"
+    },
+    {
       "title": "FTC removes posts critical of big tech from its website",
       "link": "https://techcrunch.com/2025/03/18/ftc-removes-posts-critical-of-big-tech-from-its-website/",
       "author": null,
@@ -1091,39 +1135,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-03-17T17:27:10.000Z"
-    },
-    {
-      "title": "TikTok rolls out a ‘Security Checkup’ tool to help users secure their accounts",
-      "link": "https://techcrunch.com/2025/03/17/tiktok-rolls-out-a-security-checkup-tool-to-help-users-secure-their-accounts/",
-      "author": "Aisha Malik",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/tiktok-security-checkup.jpeg?w=314",
-      "summary": "- TikTok introduces a new “Security Checkup” tool for users to review and update their account security settings.\n- The tool can be accessed via “Settings and privacy” and “Security and permissions” from the user’s profile.\n- It guides users through security features, encouraging them to enable enhanced security options like phone number linking and two-step verification.\n- Users are reminded to check active devices and may enable biometric authentication for secure logins.\n- TikTok monitors for unusual behavior, notifying users through the app.\n- The rollout happens amidst ongoing uncertainty regarding TikTok's operation in the U.S. following a deadline extension to the app's ban by President Trump.",
-      "keywords": [
-        "TikTok",
-        "security checkup",
-        "user accounts",
-        "account security",
-        "two-step verification",
-        "biometric authentication",
-        "privacy settings"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-17T16:41:57.000Z"
-    },
-    {
-      "title": "Hackers are exploiting Fortinet firewall bugs to plant ransomware",
-      "link": "https://techcrunch.com/2025/03/17/hackers-are-exploiting-fortinet-firewall-bugs-to-plant-ransomware/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-03-17T15:58:18.000Z"
     }
   ]
 }
