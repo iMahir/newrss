@@ -4,6 +4,54 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Nvidia announces DGX desktop “personal AI supercomputers”",
+      "link": "https://arstechnica.com/ai/2025/03/nvidia-announces-dgx-desktop-personal-ai-supercomputers/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Nvidia unveiled two personal AI supercomputers: DGX Spark and DGX Station, powered by the Grace Blackwell platform.\n- The systems are designed for running neural networks and target developers, researchers, and data scientists.\n- DGX Spark features up to 1,000 trillion operations per second; DGX Station includes 784GB of memory and high network speeds.\n- Major manufacturers like Asus, Dell, HP, and Lenovo will produce these systems, with DGX Spark reservations opening now and DGX Station expected later in 2025.\n- Pricing is not specified, but a base configuration for a similar system was previously estimated at around $3,000.",
+      "keywords": [
+        "Nvidia",
+        "DGX",
+        "AI supercomputers",
+        "Grace Blackwell",
+        "neural networks",
+        "AI developers",
+        "data scientists",
+        "tech news"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-18T21:19:53.000Z"
+    },
+    {
+      "title": "Nvidia announces “Rubin Ultra” and “Feynman” AI chips for 2027 and 2028",
+      "link": "https://arstechnica.com/ai/2025/03/nvidia-announces-rubin-ultra-and-feynman-ai-chips-for-2027-and-2028/",
+      "author": "Jensen Huang",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/vera_rubin-1024x575.jpg",
+      "summary": "- Nvidia announced new AI-accelerating GPUs at the GTC 2025 conference.\n- The Vera Rubin chip is scheduled for release in the second half of 2026, featuring tens of terabytes of memory and a custom CPU.\n- Vera Rubin will deliver 50 petaflops of FP4 inference performance per chip, with total system performance of 3.6 exaflops in a full NVL144 rack.\n- Rubin Ultra will release in the second half of 2027, providing 100 petaflops of FP4 precision and 15 exaflops of inference compute.\n- Each Rubin Ultra GPU will have 1TB of HBM4e memory in a rack containing 365TB of memory.",
+      "keywords": [
+        "Nvidia",
+        "AI chips",
+        "GPUs",
+        "Rubin Ultra",
+        "Feynman",
+        "GTC 2025",
+        "Vera Rubin",
+        "technology updates"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-18T21:10:57.000Z"
+    },
+    {
       "title": "Farewell Photoshop? Google’s new AI lets you edit images by asking",
       "link": "https://arstechnica.com/ai/2025/03/farewell-photoshop-googles-new-ai-lets-you-edit-images-by-asking/",
       "author": null,
@@ -1132,53 +1180,6 @@
         "longTermSignificance": 9
       },
       "pubDate": "2025-01-23T12:30:57.000Z"
-    },
-    {
-      "title": "Researchers say new attack could take down the European power grid",
-      "link": "https://arstechnica.com/security/2025/01/could-hackers-use-new-attack-to-take-down-european-power-grid/",
-      "author": null,
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/euripean-ripple-attack-flipper-zero.jpg",
-      "summary": "- Researchers discovered that renewable energy facilities in Central Europe use unencrypted radio signals for controlling power grid input and output.\n- The system allows for the control of approximately 60 GW of energy, including both generation and load management.\n- An optimally crafted series of messages could theoretically disable the entire European power grid, a potential risk they highlighted at the 38th Chaos Communication Congress.\n- The communication protocol utilized is called Radio Ripple Control, which is based on an older protocol dating back to the early 1900s.\n- No encryption is applied to the signals, allowing unauthorized users to intercept and manipulate them.",
-      "keywords": [
-        "power grid",
-        "cybersecurity",
-        "encryption",
-        "Radio Ripple Control",
-        "renewable energy",
-        "hacking",
-        "Central Europe"
-      ],
-      "scores": {
-        "scale": 9,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-23T12:00:42.000Z"
-    },
-    {
-      "title": "The Internet is (once again) awash with IoT botnets delivering record DDoSes",
-      "link": "https://arstechnica.com/security/2025/01/the-internet-is-once-again-awash-with-iot-botnets-delivering-record-ddoses/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- 2025 is witnessing a surge in IoT-driven DDoS attacks, infecting thousands of devices like routers and webcams.\n- Cloudflare reported a DDoS attack reaching 5.6 terabits per second, setting a new record, with 13,000 IoT devices involved.\n- Qualys has identified the Murdoc Botnet exploiting vulnerabilities to install Mirai variants on specific cameras and routers, with compromised devices rapidly increasing.\n- Trend Micro revealed an IoT botnet using Mirai and Bashlite variants attacking mainly in Japan since late 2024.\n- Infoblox reported another botnet with 13,000 MikroTik routers, primarily sending malicious spam emails.",
-      "keywords": [
-        "IoT",
-        "botnet",
-        "DDoS",
-        "Mirai",
-        "cybersecurity",
-        "security vulnerabilities",
-        "2025",
-        "Malware"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-22T15:10:58.000Z"
     }
   ]
 }
