@@ -4,6 +4,75 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "US music subscriptions cross 100 million as digital downloads drop",
+      "link": "https://www.theverge.com/news/632045/riaa-music-streaming-revenue-100-million-subscriptions",
+      "author": "Wes Davis",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196306/unnamed.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "• Music streaming services in the US surpassed 100 million subscribers in 2024, according to RIAA's revenue report.\n• Overall revenue from paid subscriptions and ad-supported services reached $14.9 billion, a 4% increase from the previous year.\n• Vinyl sales continue to grow, surpassing CDs for the third consecutive year with $1.4 billion in revenue, while digital downloads dropped by 14.9%.",
+      "keywords": [
+        "music streaming",
+        "RIAA",
+        "subscription services",
+        "vinyl sales",
+        "digital downloads"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-18T19:53:43.000Z"
+    },
+    {
+      "title": "Nvidia says ‘the age of generalist robotics is here’",
+      "link": "https://www.theverge.com/news/631743/nvidia-issac-groot-n1-robotics-foundation-model-available",
+      "author": "Andrew Liszewski",
+      "thumbnail": null,
+      "summary": "- Nvidia announced the availability of Isaac GR00T N1, an open-source, customizable foundation model for humanoid robots.\n- CEO Jensen Huang stated, \"The age of generalist robotics is here,\" highlighting advancements in AI-driven robot development.\n- The framework allows robotics developers to create more adaptable and capable robots, focusing on human-robot companionship rather than mere tool functionality.\n- Demonstrations included 1X’s NEO Gamma robot performing autonomous tasks using the GR00T N1 model.\n- Early users of GR00T N1 include Boston Dynamics, Agility Robotics, and Neura Robotics.\n- The model features a dual-system architecture: System 1 for quick reflexive actions and System 2 for reasoning and planning actions based on environmental understanding.\n- Developers can customize the GR00T N1 model using data from human demonstrations or simulations, with downloadable training data available on Hugging Face and GitHub.",
+      "keywords": [
+        "Nvidia",
+        "robotics",
+        "humanoid robots",
+        "Isaac GR00T N1",
+        "AI",
+        "open-source",
+        "foundation model"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 8,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-03-18T19:26:25.000Z"
+    },
+    {
+      "title": "Nvidia’s RTX Pro 6000 has 96GB of VRAM and 600W of power",
+      "link": "https://www.theverge.com/news/631868/nvidia-rtx-pro-6000-blackwell-gpu-professionals",
+      "author": "Tom Warren",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/NVIDIA-RTX-PRO-6000-Blackwell-_2.jpg?quality=90&strip=all&crop=0%2C0.81018518518518%2C100%2C98.37962962963&w=2400",
+      "summary": "- Nvidia announces the RTX Pro Blackwell series of GPUs, including the RTX Pro 6000 for workstations.\n- RTX Pro 6000 features 96GB of GDDR7 memory and requires 600W of power.\n- It supports PCIe Gen 5 and DisplayPort 2.1, with enhanced RT cores and Tensor cores.\n- Designed for professionals in game development and AI workloads, with variants in Max-Q and server editions.\n- Pricing for the RTX Pro 6000 is not yet set; it will be available in April through partners like PNY and TD Synnex, with manufacturer availability in May.\n- Cloud service providers will offer the server variant later this year, with the rest of the RTX Pro Blackwell lineup available in summer.",
+      "keywords": [
+        "Nvidia",
+        "RTX Pro 6000",
+        "GPU",
+        "Blackwell",
+        "workstations",
+        "96GB VRAM",
+        "600W power",
+        "AI",
+        "game development"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-18T19:13:54.000Z"
+    },
+    {
       "title": "Nvidia's New AI Supercomputers: DGX Spark and DGX Station Revealed",
       "link": "https://www.theverge.com/news/631957/nvidia-dgx-spark-station-grace-blackwell-ai-supercomputers-gtc",
       "author": "Umar Shakir",
@@ -1098,59 +1167,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-17T16:12:17.000Z"
-    },
-    {
-      "title": "Google’s Gemini AI is really good at watermark removal",
-      "link": "https://www.theverge.com/news/631203/google-gemini-flash-2-native-image-generation-watermark-removal",
-      "author": "Umar Shakir",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195848/UMAR_SHAKIR.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Google is expanding its experimental Gemini 2.0 Flash AI model to more developers globally.\n- The AI can generate images from text prompts and edit them, including removing watermarks with precision.\n- Tools like Watermark Remover.io can scrub marks from Shutterstock while Gemini 2.0 Flash is reportedly better at handling complex watermarks.\n- After watermark removal, it can add an “edited with AI” mark but that's also removable by AI tools.\n- It can add recognizable images of real people, unlike the full Gemini model.\n- Currently, these features are only available to developers via AI Studio with no confirmed safeguards against misuse.",
-      "keywords": [
-        "AI",
-        "Gemini",
-        "watermark removal",
-        "image generation",
-        "Google"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-17T15:50:22.000Z"
-    },
-    {
-      "title": "This hospital-grade snot sucker makes it easier to clear your baby’s nose",
-      "link": "https://www.theverge.com/news/631163/frida-baby-electric-nosefrida-pro-nasal-aspirator",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-03-17T15:19:35.000Z"
-    },
-    {
-      "title": "Xbox 360 consoles can now be hacked with just a USB key",
-      "link": "https://www.theverge.com/news/631102/xbox-360-hack-homebrew-badupdate-exploit-usb",
-      "author": "Tom Warren",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197777/profilephoto.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Xbox 360 modders have a new software exploit called [BadUpdate](https://github.com/grimdoomer/Xbox360BadUpdate) that allows running unsigned code via a USB key.\n- The method enables access to the homebrew store, which includes games, apps, emulators, and utilities without opening the console.\n- Limitations include needing to manually patch executables and the exploit’s reliability can vary, requiring reactivation on each console boot.",
-      "keywords": [
-        "Xbox 360",
-        "hacking",
-        "BadUpdate",
-        "homebrew",
-        "technology",
-        "gaming"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 8,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-03-17T14:01:44.000Z"
     }
   ]
 }

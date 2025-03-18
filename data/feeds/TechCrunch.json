@@ -4,6 +4,102 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "FTC removes posts critical of big tech from its website",
+      "link": "https://techcrunch.com/2025/03/18/ftc-removes-posts-critical-of-big-tech-from-its-website/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1240746545.jpg?w=1024",
+      "summary": "- The FTC has removed over 300 blog posts from its website published under former chair Lina Khan.\n- These posts included criticisms of significant tech companies like Amazon and Microsoft regarding customer data handling.\n- The removal may violate government data handling laws and aligns with the Trump administration's campaign to eliminate certain words from public documents.",
+      "keywords": [
+        "FTC",
+        "Lina Khan",
+        "Big Tech",
+        "Amazon",
+        "Microsoft",
+        "data handling",
+        "government policy"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-18T19:48:24.000Z"
+    },
+    {
+      "title": "GM teams up with Nvidia to bring AI to robots, factories, and self-driving cars",
+      "link": "https://techcrunch.com/2025/03/18/gm-teams-up-with-nvidia-to-bring-ai-to-robots-factories-and-self-driving-cars/",
+      "author": "Kirsten Korosec",
+      "thumbnail": null,
+      "summary": "- General Motors (GM) partners with Nvidia to integrate AI across its operations, including factories and self-driving cars.\n- Nvidia will supply AI infrastructure, including GPUs, and assist GM in building custom AI systems.\n- GM to utilize Nvidia Omniverse with Cosmos for training AI models to enhance factory design and robotics.\n- The collaboration aims to create a digital twin of factories to test production processes.\n- GM is also using Nvidia Drive AGX for advanced driver-assistance and safety features in future vehicles.",
+      "keywords": [
+        "GM",
+        "Nvidia",
+        "AI",
+        "robotics",
+        "self-driving cars",
+        "technology",
+        "automotive",
+        "collaboration",
+        "manufacturing"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-18T19:19:27.000Z"
+    },
+    {
+      "title": "Nvidia debuts Groot N1, a foundation model for humanoid robotics",
+      "link": "https://techcrunch.com/2025/03/18/nvidia-debuts-groot-n1-a-foundation-model-for-humanoid-robotics/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Nvidia announces Groot N1, an AI foundation model for humanoid robotics at GTC 2025 in San Jose.\n- Groot N1 features a dual system architecture for 'thinking fast and slow', inspired by human cognition.\n- The model expands from Nvidia's Project Groot to cover humanoid robots in various form factors.\n- Groot N1 is available as open source with simulation frameworks and blueprints for synthetic training data.\n- CEO Jensen Huang states that 'the age of generalist robotics is here.'\n- Other companies like X1 and Figure are aiming to create general-purpose humanoid robots, with technology advancing towards realistic mass production.",
+      "keywords": [
+        "Nvidia",
+        "Groot N1",
+        "humanoid robotics",
+        "AI foundation model",
+        "GTC 2025",
+        "synthetic data",
+        "robotics technology"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-18T19:17:46.000Z"
+    },
+    {
+      "title": "Here’s why Google pitched its $32B Wiz acquisition as ‘multicloud’",
+      "link": "https://techcrunch.com/2025/03/18/heres-why-google-pitched-its-32b-wiz-acquisition-as-multicloud/",
+      "author": "Ingrid Lunden",
+      "thumbnail": null,
+      "summary": "- Google announced its acquisition of security startup Wiz for $32 billion, positioning it as a multicloud offering.\n- Wiz has an annual revenue rate of $700 million and was on track to reach $1 billion before the acquisition news.\n- Google aims to retain Wiz’s existing customers who may not exclusively use Google Cloud, as many operate in a hybrid cloud environment.\n- The acquisition raises concerns about regulatory challenges, but Google’s multicloud positioning may mitigate antitrust scrutiny.\n- Google Cloud holds a 12% market share compared to AWS’s 30% and Azure’s 21%, prompting the emphasis on multicloud offerings.\n- Google Cloud CEO Thomas Kurian emphasized the importance of multicloud capabilities to prevent customer lock-in and meet existing IT investments.",
+      "keywords": [
+        "Google",
+        "Wiz",
+        "acquisition",
+        "multicloud",
+        "cloud services",
+        "cybersecurity",
+        "market share",
+        "antitrust",
+        "AI"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-18T19:14:48.000Z"
+    },
+    {
       "title": "Nvidia announces new GPUs at GTC 2025, including Vera Rubin",
       "link": "https://techcrunch.com/2025/03/18/nvidia-announces-new-gpus-at-gtc-2025-including-rubin/",
       "author": "Kyle Wiggers",
@@ -1028,59 +1124,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-03-17T15:58:18.000Z"
-    },
-    {
-      "title": "Nvidia GTC 2025: What to expect from this year’s show",
-      "link": "https://techcrunch.com/2025/03/17/nvidia-gtc-2025-what-to-expect-from-this-years-show/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-03-17T15:45:36.000Z"
-    },
-    {
-      "title": "How to watch Nvidia GTC 2025, including CEO Jensen Huang’s keynote",
-      "link": "https://techcrunch.com/2025/03/17/how-to-watch-nvidia-gtc-2025-including-ceo-jensen-huangs-keynote/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-03-17T15:41:47.000Z"
-    },
-    {
-      "title": "Bumble heightens safety measures with new ID verification feature",
-      "link": "https://techcrunch.com/2025/03/17/bumble-heightens-safety-measures-with-new-id-verification-feature/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-03-17T15:34:51.000Z"
-    },
-    {
-      "title": "DOGE staffer violated Treasury rules by emailing unencrypted personal data",
-      "link": "https://techcrunch.com/2025/03/17/doge-staffer-violated-treasury-rules-by-emailing-unencrypted-personal-data/",
-      "author": "Zack Whittaker",
-      "thumbnail": null,
-      "summary": "- A DOGE staffer, Marko Elez, violated Treasury policies by sending unencrypted personal information in an email to two Trump administration officials before resigning in February.\n- The security breach was revealed in a court filing by David Ambrose, treasury’s chief security and privacy officer, following an investigation into Elez's laptop and email account.\n- Elez’s actions were deemed contrary to department policy, and the shared data included transaction details like names and amounts of money.",
-      "keywords": [
-        "DOGE",
-        "Treasury",
-        "data breach",
-        "unencrypted email",
-        "cybersecurity",
-        "Marko Elez",
-        "personal data"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-17T15:20:04.000Z"
     }
   ]
 }
