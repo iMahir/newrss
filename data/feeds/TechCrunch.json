@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Waymo’s milestone SFO mapping permit comes with strings attached",
+      "link": "https://techcrunch.com/2025/03/17/waymos-milestone-sfo-mapping-permit-comes-with-strings-attached/",
+      "author": "Kirsten Korosec",
+      "thumbnail": null,
+      "summary": "- Waymo has received a temporary permit to map roadways at San Francisco International Airport, starting from March 14.\n- Employees will manually drive Waymo vehicles for mapping; this is the first step toward commercial operations.\n- The permit includes a data-sharing agreement requiring Waymo to provide specific data after mapping sessions\n- Waymo is prohibited from using autonomous vehicles for moving commercial goods; this aligns with past efforts to ensure job safety and community impact.\n- The temporary permit comes after Waymo's failed attempt to secure mapping rights in 2023 and requires a subsequent approval to operate commercially at SFO.",
+      "keywords": [
+        "Waymo",
+        "SFO",
+        "mapping permit",
+        "autonomous vehicles",
+        "robotaxis",
+        "data sharing",
+        "San Francisco International Airport"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-18T03:48:19.000Z"
+    },
+    {
       "title": "Google revives talks to acquire Wiz at higher valuation",
       "link": "https://techcrunch.com/2025/03/17/google-revives-talks-to-acquire-wiz-at-higher-valuation/",
       "author": "Marina Temkin, Ingrid Lunden",
@@ -1092,32 +1115,6 @@
         "longTermSignificance": 9
       },
       "pubDate": "2025-03-15T14:00:00.000Z"
-    },
-    {
-      "title": "Republican Congressman Jim Jordan asks Big Tech if Biden tried to censor AI",
-      "link": "https://techcrunch.com/2025/03/14/republican-congressman-jim-jordan-asks-big-tech-if-biden-tried-to-censor-ai/",
-      "author": "Maxwell Zeff",
-      "thumbnail": null,
-      "summary": "- House Judiciary Chair Jim Jordan sent letters to 16 tech firms, including Google and OpenAI, requesting communications with the Biden Administration regarding alleged censorship of lawful speech in AI products.\n- He previously led an investigation into potential collusion between the Biden Administration and Big Tech to silence conservative voices on social media.\n- The technology companies have until March 27 to respond, with a notable omission being Elon Musk's xAI.\n- Several tech companies have begun altering AI models in anticipation of scrutiny over AI censorship.\n- OpenAI announced changes to ensure broader representation of perspectives, while Anthropic's new model aims for increased openness in responses to controversial topics.",
-      "keywords": [
-        "Jim Jordan",
-        "Biden administration",
-        "AI censorship",
-        "Big Tech",
-        "OpenAI",
-        "Google",
-        "communications",
-        "conservatives",
-        "social media",
-        "2024 election"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-14T22:12:09.000Z"
     }
   ]
 }
