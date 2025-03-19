@@ -4,6 +4,75 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "OpenAI’s o1-pro is the company’s most expensive AI model yet",
+      "link": "https://techcrunch.com/2025/03/19/openais-o1-pro-is-its-most-expensive-model-yet/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- OpenAI has launched a more powerful version of its o1 AI model called o1-pro in its developer API.\n- The pricing for o1-pro is $150 per million input tokens and $600 per million generated tokens, making it significantly more expensive than previous models.\n- Early impressions of o1-pro have been mixed, with issues reported handling certain tasks like Sudoku puzzles.\n- Despite slight performance improvements over o1 on coding and math problems, the overall feedback has not been overwhelmingly positive.",
+      "keywords": [
+        "OpenAI",
+        "o1-pro",
+        "AI model",
+        "developer API",
+        "pricing",
+        "performance",
+        "feedback"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-19T22:40:45.000Z"
+    },
+    {
+      "title": "Hacked, leaked, exposed: Why you should never use stalkerware apps",
+      "link": "https://techcrunch.com/2025/03/19/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Stalkerware apps are designed for spying on partners, with over 25 known hacked companies since 2017.\n- The SpyX breach compromised the data of nearly 2 million victims, following previous breaches like Cocospy and mSpy.\n- Stalkerware companies often market their products for illegal surveillance, creating significant risks for victims' personal data.",
+      "keywords": [
+        "stalkerware",
+        "surveillance",
+        "data breach",
+        "privacy",
+        "cybersecurity"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-19T22:35:00.000Z"
+    },
+    {
+      "title": "Data breach at stalkerware SpyX affects close to 2 million, including thousands of Apple users",
+      "link": "https://techcrunch.com/2025/03/19/data-breach-at-stalkerware-spyx-affects-close-to-2-million-including-thousands-of-apple-users/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- A data breach at consumer-grade spyware SpyX affected nearly 2 million people, including many Apple users.\n- The breach occurred in June 2024 but was reported only recently, with no communication to affected customers.\n- The leaked data included 1.97 million records, most associated with SpyX and its clones MSafely and SpyPhone.\n- About 40% of the email addresses were already listed in Have I Been Pwned.\n- The breach featured plaintext Apple Account usernames and passwords, raising security concerns for Apple users.\n- Google removed a Chrome extension linked to SpyX to uphold store policies against unauthorized surveillance apps.",
+      "keywords": [
+        "data breach",
+        "SpyX",
+        "stalkerware",
+        "Apple users",
+        "consumer-grade spyware",
+        "security",
+        "email addresses",
+        "iCloud",
+        "malware"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-19T22:30:07.000Z"
+    },
+    {
       "title": "X users treating Grok like a fact-checker spark concerns over misinformation",
       "link": "https://techcrunch.com/2025/03/19/x-users-treating-grok-like-a-fact-checker-spark-concerns-over-misinformation/",
       "author": null,
@@ -1961,75 +2030,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-18T22:07:29.000Z"
-    },
-    {
-      "title": "NASA astronauts return from long Space Station stay prompted by Boeing problems",
-      "link": "https://techcrunch.com/2025/03/18/nasa-astronauts-return-from-long-space-station-stay-prompted-by-boeing-problems/",
-      "author": "Sean O'Kane",
-      "thumbnail": null,
-      "summary": "- Sunita Williams and Barry Wilmore returned to Earth after a nine-month stay on the ISS due to Boeing Starliner's issues.\n- They splashed down in the Gulf of Mexico in a SpaceX Dragon capsule after a 17-hour return journey.\n- The mission duration was extended because of leaks and thruster problems with the Starliner spacecraft.\n- Initially launched in June 2024, the mission was meant to help Boeing compete with SpaceX's historic crewed flights.\n- NASA and SpaceX coordinated to bring the astronauts back early in 2025 to avoid short-staffing the ISS.\n- Elon Musk claimed he offered to bring them home sooner, a statement disputed by former NASA officials and White House sources.",
-      "keywords": [
-        "NASA",
-        "SpaceX",
-        "Boeing",
-        "astronauts",
-        "International Space Station",
-        "Starliner",
-        "Sean O'Kane",
-        "spaceflight"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-18T22:01:44.000Z"
-    },
-    {
-      "title": "What Tesla can and can’t do in California with its new passenger transportation permit",
-      "link": "https://techcrunch.com/2025/03/18/what-tesla-can-and-cant-do-in-california-with-its-new-passenger-transportation-permit/",
-      "author": "Kirsten Korosec",
-      "thumbnail": null,
-      "summary": "- Tesla received a permit from the California Public Utilities Commission to operate a transportation service.\n- The permit does not cover autonomous vehicle testing or deployment and is different from ride-hailing companies' permits.\n- Tesla plans to use the permit initially to transport employees and will notify the CPUC when it starts transporting the public.\n- The company does not have permits for driverless rides in California yet but plans to launch a robotaxi service in Austin, Texas, in June with the “unsupervised” version of its Full Self-Driving software.",
-      "keywords": [
-        "Tesla",
-        "California",
-        "transportation permit",
-        "robotaxi",
-        "autonomous vehicles",
-        "CPUC",
-        "Full Self-Driving",
-        "Austin"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-18T21:39:03.000Z"
-    },
-    {
-      "title": "An AI model from over a decade ago sparked Nvidia’s investment in autonomous vehicles",
-      "link": "https://techcrunch.com/2025/03/18/an-ai-model-from-over-a-decade-ago-sparked-nvidias-investment-in-autonomous-vehicles/",
-      "author": "Kirsten Korosec",
-      "thumbnail": null,
-      "summary": "- During the GTC 2025 conference, Nvidia CEO Jensen Huang highlighted the influence of AlexNet on their focus on autonomous vehicles.\n- AlexNet, created by Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton, achieved 84.7% accuracy in the ImageNET competition in 2012, reviving interest in deep learning.\n- Nvidia has partnered with numerous automakers, including GM, Tesla, and others, providing GPU technology for self-driving cars and digital twin technology for factories.",
-      "keywords": [
-        "Nvidia",
-        "AlexNet",
-        "autonomous vehicles",
-        "deep learning",
-        "machine learning"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 9
-      },
-      "pubDate": "2025-03-18T20:56:36.000Z"
     }
   ]
 }

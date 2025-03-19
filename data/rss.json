@@ -1,5 +1,183 @@
 [
   {
+    "title": "OpenAI’s o1-pro is the company’s most expensive AI model yet",
+    "id": "01j8yzj026slpv",
+    "summary": "- OpenAI has launched a more powerful version of its o1 AI model called o1-pro in its developer API.\n- The pricing for o1-pro is $150 per million input tokens and $600 per million generated tokens, making it significantly more expensive than previous models.\n- Early impressions of o1-pro have been mixed, with issues reported handling certain tasks like Sudoku puzzles.\n- Despite slight performance improvements over o1 on coding and math problems, the overall feedback has not been overwhelmingly positive.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "OpenAI",
+      "o1-pro",
+      "AI model",
+      "developer API",
+      "pricing",
+      "performance",
+      "feedback"
+    ],
+    "sources": [
+      {
+        "title": "OpenAI’s o1-pro is the company’s most expensive AI model yet",
+        "link": "https://techcrunch.com/2025/03/19/openais-o1-pro-is-its-most-expensive-model-yet/"
+      }
+    ],
+    "lastUpdated": "2025-03-19T23:13:47.421Z"
+  },
+  {
+    "title": "Fired FTC commissioner warns of the ‘corrupting influence of billionaires’",
+    "id": "1e0kzte0lbpd5f",
+    "summary": "- Commissioner Alvaro Bedoya criticized President Trump for firing him and Rebecca Kelly Slaughter from the FTC, calling it unlawful and beneficial to tech billionaires.\n- Their removal raises concerns about the independence of government agencies; Bedoya questioned who benefits from their removal.\n- Bedoya linked his firing to his previous criticism of Amazon's Jeff Bezos and noted that many tech executives benefit from the dismissals, particularly those involved in active litigation with the FTC.\n- Over two dozen Democratic senators urged Trump to reverse the firings, emphasizing the violation of Supreme Court precedent and the undermining of consumer protection efforts.\n- Bedoya highlighted the broader issue of billionaires' influence in politics, remarking that it transcends party lines and impacts law enforcement and regulatory actions.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "FTC",
+      "Alvaro Bedoya",
+      "Trump",
+      "big tech",
+      "billionaires",
+      "consumer protection"
+    ],
+    "sources": [
+      {
+        "title": "Fired FTC commissioner warns of the ‘corrupting influence of billionaires’",
+        "link": "https://www.theverge.com/news/632944/democratic-ftc-commissioner-alvaro-bedoya-tech-billionaires-trump"
+      }
+    ],
+    "lastUpdated": "2025-03-19T23:13:47.421Z"
+  },
+  {
+    "title": "Rising Threat of Stalkerware: Data Breaches and Privacy Issues Uncovered",
+    "id": "0pjx7bb1qm8zab",
+    "summary": "- Consumer-grade spyware apps can monitor private messages, photos, calls, and location on Android devices.\n- A guide aids in identifying and removing stalkerware like [TheTruthSpy](https://techcrunch.com/2022/10/26/inside-thetruthspy-stalkerware/), [Cocospy](https://techcrunch.com/2025/02/20/stalkerware-apps-cocospy-spyic-exposing-phone-data-of-millions-of-people/), and [Spyic](https://techcrunch.com/2025/02/20/stalkerware-apps-cocospy-spyic-exposing-phone-data-of-millions-of-people/).\n- Stalkerware masquerades as child monitoring software, often installed without consent.\n- Symptoms of infection can include odd phone behavior, excessive data consumption, and performance degradation.\n- Users should enable [Google Play Protect](https://techcrunch.com/2023/11/04/google-play-android-real-time-app-scanning-sideload-apps/), check accessibility services, and audit notification access.\n- The stalkerware industry thrives, marketing apps to jealous partners, with at least 24 companies suffering data breaches since 2017.\n- Recent hacks have leaked over 3.2 million email addresses and sensitive data from companies like Spyzie and Cocospy.\n- Security expert Eva Galperin calls the stalkerware industry a 'soft target' for hackers.\n- Usage of stalkerware is illegal in many jurisdictions and poses risks to victims’ data security.\n- Zapier suffered a data breach impacting user privacy; specific details on affected users remain undisclosed.\n- NTT Communications confirmed unauthorized data access affecting nearly 18,000 corporate customers, with stolen data including names and contact details.\n- Amazon is under scrutiny for not acting on breach notifications and continues to host data from apps like Cocospy and Spyic.\n- The apps have exposed data from 3.1 million individuals; Amazon claims to follow compliance but has not acted on alerts.\n- A data breach at consumer-grade spyware SpyX affected nearly 2 million people, including many Apple users.\n- The breach occurred in June 2024 but was reported only recently, with no communication to affected customers.\n- The leaked data included 1.97 million records, most associated with SpyX and its clones MSafely and SpyPhone.\n- About 40% of the email addresses were already listed in Have I Been Pwned.\n- The breach featured plaintext Apple Account usernames and passwords, raising security concerns for Apple users.\n- Google removed a Chrome extension linked to SpyX to uphold store policies against unauthorized surveillance apps.\n- Stalkerware apps are designed for spying on partners, with over 25 known hacked companies since 2017.\n- The SpyX breach compromised the data of nearly 2 million victims, following previous breaches like Cocospy and mSpy.\n- Stalkerware companies often market their products for illegal surveillance, creating significant risks for victims' personal data.",
+    "thumbnails": [
+      "https://techcrunch.com/wp-content/uploads/2022/02/stalkerware-google-play-protect-final.jpeg",
+      "https://cdn.techinasia.com/wp-content/uploads/2025/03/1740955383_Zaoier.jpg"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8.88,
+      "novelty": 6.47,
+      "longTermSignificance": 7.47
+    },
+    "keywords": [
+      "stalkerware",
+      "spyware",
+      "android",
+      "privacy",
+      "security",
+      "data breach",
+      "cybersecurity",
+      "amazon",
+      "zapier",
+      "ntt com",
+      "cyberattack",
+      "spyx",
+      "apple users",
+      "consumer-grade spyware",
+      "email addresses",
+      "icloud",
+      "malware",
+      "surveillance"
+    ],
+    "sources": [
+      {
+        "title": "Your Android phone could have stalkerware. Here’s how to remove it",
+        "link": "https://techcrunch.com/2025/02/20/remove-android-spyware/"
+      },
+      {
+        "title": "Hacked, leaked, exposed: Why you should never use stalkerware apps",
+        "link": "https://techcrunch.com/2025/02/27/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/"
+      },
+      {
+        "title": "Automation platform Zapier breach may expose customer data",
+        "link": "https://www.techinasia.com/news/automation-platform-zapier-breach-expose-customer-data"
+      },
+      {
+        "title": "NTT Com Confirms Data Breach Affected Nearly 18,000 Organizations",
+        "link": "https://techcrunch.com/2025/03/07/japanese-telco-giant-ntt-com-says-hackers-accessed-details-of-almost-18000-organizations/"
+      },
+      {
+        "title": "Amazon is still hosting stalkerware victims’ data weeks after breach alert",
+        "link": "https://techcrunch.com/2025/03/13/amazon-is-still-hosting-stalkerware-victims-data-weeks-after-breach-alert/"
+      },
+      {
+        "title": "Data breach at stalkerware SpyX affects close to 2 million, including thousands of Apple users",
+        "link": "https://techcrunch.com/2025/03/19/data-breach-at-stalkerware-spyx-affects-close-to-2-million-including-thousands-of-apple-users/"
+      },
+      {
+        "title": "Hacked, leaked, exposed: Why you should never use stalkerware apps",
+        "link": "https://techcrunch.com/2025/03/19/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/"
+      }
+    ],
+    "lastUpdated": "2025-03-19T23:13:47.420Z"
+  },
+  {
+    "title": "The best noise-canceling headphones to buy right now",
+    "id": "0fl5drl0pkifat",
+    "summary": "- Noise-canceling headphones are essential for commuting, traveling, and working from home.\n- Major brands include Bose, Sony, Apple, Bowers & Wilkins, and Sennheiser.\n- Criteria for choosing the best headphones include noise cancellation, comfort, and battery life.\n- Over-ear and on-ear headphones can be more comfortable than earphones, and their battery life typically exceeds that of earbuds.\n- Noise-canceling technology has improved, with headphones like Sony’s WH-1000XM5 offering excellent sound quality and comfort.\n- Key features to consider include multipoint Bluetooth connectivity and unique manufacturer-specific features (e.g., Apple’s AirPods Max offer spatial audio).\n- Overall recommendation: Sony WH-1000XM5 for sound quality and comfort; others for travel or specific preferences.",
+    "thumbnails": [
+      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/hermano/verge/product/image/9872/DSCF7805.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+    ],
+    "scores": {
+      "scale": 8,
+      "impact": 9,
+      "novelty": 7,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "noise-canceling headphones",
+      "Bose",
+      "Sony",
+      "Apple",
+      "best headphones",
+      "Bluetooth",
+      "headphones reviews"
+    ],
+    "sources": [
+      {
+        "title": "The best noise-canceling headphones to buy right now",
+        "link": "https://www.theverge.com/21345733/best-noise-canceling-headphones"
+      }
+    ],
+    "lastUpdated": "2025-03-19T23:13:47.420Z"
+  },
+  {
+    "title": "March Madness: Disrupter bets $1 million that AI bracket will beat pro gambler",
+    "id": "1ci4j430bn4o25",
+    "summary": "- A CEO named Alan Levy is running a $1 million March Madness bracket challenge using AI picks against a professional gambler.\n- The challenge is hosted on his platform, 4C Predictions, which he believes can outperform human gamblers by leveraging data.\n- The gambling landscape has shifted since a Supreme Court ruling allowed sports betting in 38 states, increasing the popularity of bracket pools.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "March Madness",
+      "AI",
+      "sports betting",
+      "Alan Levy",
+      "bracket challenge",
+      "4C Predictions"
+    ],
+    "sources": [
+      {
+        "title": "March Madness: Disrupter bets $1 million that AI bracket will beat pro gambler",
+        "link": "https://www.fastcompany.com/91302377/march-madness-disrupter-bets-1-million-ai-bracket-professional-gambler?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
+      }
+    ],
+    "lastUpdated": "2025-03-19T23:13:47.418Z"
+  },
+  {
     "title": "Roborock opens pre-orders for its robot vacuum with an arm",
     "id": "0hggpo412i6ybd",
     "summary": "- Roborock's Saros Z70 robot vacuum is now available for pre-order at $1,899.\n- The Z70 features a robotic arm to pick up small items and offers 22,000Pa suction power.\n- Roborock has surpassed iRobot as the top-selling robot vacuum brand globally with a 16% market share in Q4 2023.\n- The robotic vacuum includes the new StarSight navigation system for advanced obstacle navigation.\n- The vacuum features two-in-one mopping and vacuuming capabilities and a multifunction dock that cleans and refills the robot.\n- Pre-ordering customers can choose a free second vacuum from various models, including the Qrevo S5V and Q10 S5 Plus.",
@@ -18283,57 +18461,6 @@
       }
     ],
     "lastUpdated": "2025-03-13T20:14:52.857Z"
-  },
-  {
-    "title": "Amazon Hosts Stalkerware Data Despite Breach Alerts",
-    "id": "0pjx7bb1qm8zab",
-    "summary": "- Consumer-grade spyware apps can monitor private messages, photos, calls, and location on Android devices.\n- A guide aids in identifying and removing stalkerware like [TheTruthSpy](https://techcrunch.com/2022/10/26/inside-thetruthspy-stalkerware/), [Cocospy](https://techcrunch.com/2025/02/20/stalkerware-apps-cocospy-spyic-exposing-phone-data-of-millions-of-people/), and [Spyic](https://techcrunch.com/2025/02/20/stalkerware-apps-cocospy-spyic-exposing-phone-data-of-millions-of-people/).\n- Stalkerware masquerades as child monitoring software, often installed without consent.\n- Symptoms of infection can include odd phone behavior, excessive data consumption, and performance degradation.\n- Users should enable [Google Play Protect](https://techcrunch.com/2023/11/04/google-play-android-real-time-app-scanning-sideload-apps/), check accessibility services, and audit notification access.\n- The stalkerware industry thrives, marketing apps to jealous partners, with at least 24 companies suffering data breaches since 2017.\n- Recent hacks have leaked over 3.2 million email addresses and sensitive data from companies like Spyzie and Cocospy.\n- Security expert Eva Galperin calls the stalkerware industry a 'soft target' for hackers.\n- Usage of stalkerware is illegal in many jurisdictions and poses risks to victims’ data security.\n- Zapier suffered a data breach impacting user privacy; specific details on affected users remain undisclosed.\n- NTT Communications confirmed unauthorized data access affecting nearly 18,000 corporate customers, with stolen data including names and contact details.\n- Amazon is under scrutiny for not acting on breach notifications and continues to host data from apps like Cocospy and Spyic.\n- The apps have exposed data from 3.1 million individuals; Amazon claims to follow compliance but has not acted on alerts.",
-    "thumbnails": [
-      "https://techcrunch.com/wp-content/uploads/2022/02/stalkerware-google-play-protect-final.jpeg",
-      "https://cdn.techinasia.com/wp-content/uploads/2025/03/1740955383_Zaoier.jpg"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8.5,
-      "novelty": 5.88,
-      "longTermSignificance": 6.88
-    },
-    "keywords": [
-      "stalkerware",
-      "spyware",
-      "android",
-      "privacy",
-      "security",
-      "data breach",
-      "cybersecurity",
-      "amazon",
-      "zapier",
-      "ntt com",
-      "cyberattack"
-    ],
-    "sources": [
-      {
-        "title": "Your Android phone could have stalkerware. Here’s how to remove it",
-        "link": "https://techcrunch.com/2025/02/20/remove-android-spyware/"
-      },
-      {
-        "title": "Hacked, leaked, exposed: Why you should never use stalkerware apps",
-        "link": "https://techcrunch.com/2025/02/27/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/"
-      },
-      {
-        "title": "Automation platform Zapier breach may expose customer data",
-        "link": "https://www.techinasia.com/news/automation-platform-zapier-breach-expose-customer-data"
-      },
-      {
-        "title": "NTT Com Confirms Data Breach Affected Nearly 18,000 Organizations",
-        "link": "https://techcrunch.com/2025/03/07/japanese-telco-giant-ntt-com-says-hackers-accessed-details-of-almost-18000-organizations/"
-      },
-      {
-        "title": "Amazon is still hosting stalkerware victims’ data weeks after breach alert",
-        "link": "https://techcrunch.com/2025/03/13/amazon-is-still-hosting-stalkerware-victims-data-weeks-after-breach-alert/"
-      }
-    ],
-    "lastUpdated": "2025-03-13T19:11:57.479Z"
   },
   {
     "title": "The best Garmin watches for training and everyday life",
@@ -37495,223 +37622,5 @@
       }
     ],
     "lastUpdated": "2025-03-06T00:52:14.855Z"
-  },
-  {
-    "title": "Tapbots teases a new Bluesky app, Phoenix, saying it can’t ‘survive on Mastodon alone’",
-    "id": "1dmegbh08y6q5j",
-    "summary": "- Tapbots is developing a new app called Phoenix for Bluesky, set to launch in summer 2025.\n- The company acknowledges the need to support both Bluesky and Mastodon, stating it can’t thrive on Mastodon alone.\n- Development on Ivory, the Mastodon client, will temporarily slow down during Phoenix’s creation, though both apps will receive future improvements.\n- Phoenix will likely follow a subscription model similar to Ivory, which costs $1.99 per month or $14.99 per year.\n- A limited public alpha phase for Phoenix will occur before its official launch.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 6,
-      "novelty": 5,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "Tapbots",
-      "Bluesky",
-      "Phoenix",
-      "Ivory",
-      "Mastodon",
-      "social networking",
-      "app development",
-      "subscription model"
-    ],
-    "sources": [
-      {
-        "title": "Tapbots teases a new Bluesky app, Phoenix, saying it can’t ‘survive on Mastodon alone’",
-        "link": "https://techcrunch.com/2025/03/05/tapbots-teases-a-new-bluesky-app-phoenix-saying-it-cant-survive-on-mastodon-alone/"
-      }
-    ],
-    "lastUpdated": "2025-03-05T23:12:48.559Z"
-  },
-  {
-    "title": "Senate votes to strip the CFPB of its power to regulate X",
-    "id": "1squrwf0mf4bo2",
-    "summary": "- The Senate voted to remove the CFPB's ability to monitor digital platforms like X.\n- The resolution aims to overturn a CFPB rule set last year for overseeing digital payment services.\n- Senators Elizabeth Warren and Adam Schiff have requested an ethics probe into Elon Musk's potential conflicts of interest related to his ownership of X and his government work.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "CFPB",
-      "Elon Musk",
-      "X",
-      "Senate",
-      "digital payment",
-      "government oversight",
-      "conflict of interest"
-    ],
-    "sources": [
-      {
-        "title": "Senate votes to strip the CFPB of its power to regulate X",
-        "link": "https://www.theverge.com/news/624904/cfpb-digital-payments-musk-x-conflict-doge"
-      }
-    ],
-    "lastUpdated": "2025-03-05T23:12:48.559Z"
-  },
-  {
-    "title": "AI-generated review summaries are coming to Apple’s app store + Apple adds AI-powered app review summaries with iOS 18.4",
-    "id": "0ez6tzz0gjxqvz",
-    "summary": "- Apple introduces AI-powered summaries of App Store reviews in iOS 18.4, currently in public beta.\n- Summaries are generated by large language models and highlight key information.\n- First available in the U.S. in English, with plans for expansion later in the year.\n- The feature may lead to issues with fake reviews being emphasized due to reliance on summaries over detailed reading.\n- Apple aims to parse negative comments effectively within these summaries.\n- The feature will be publicly released in April 2025, alongside additional enhancements.\n- Summaries compile highlights from user reviews into short paragraphs, focusing on both positive and negative feedback.\n- Initially available in the US for apps with sufficient reviews in English, expanding to other languages and countries later in 2023.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195964/akrales_220906_5191_3741__1_.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "apple",
-      "ai",
-      "app reviews",
-      "ios 18.4",
-      "summaries",
-      "technology",
-      "app store",
-      "review summaries",
-      "user reviews"
-    ],
-    "sources": [
-      {
-        "title": "Apple adds AI-powered app review summaries with iOS 18.4",
-        "link": "https://techcrunch.com/2025/03/05/apple-adds-ai-powered-app-review-summaries-with-ios-18-4/"
-      },
-      {
-        "title": "AI-generated review summaries are coming to Apple’s app store",
-        "link": "https://www.theverge.com/news/624891/ai-generated-review-summaries-coming-to-apples-app-store"
-      }
-    ],
-    "lastUpdated": "2025-03-05T23:12:48.558Z"
-  },
-  {
-    "title": "Bose’s noise-canceling QC Ultra Earbuds are on sale for their best price to date",
-    "id": "1mlbq061ez6oeg",
-    "summary": "- The Bose QuietComfort Ultra Earbuds are discounted by $80, now priced at $219 until March 31.\n- Available from retailers including [Amazon](https://www.amazon.com/Bose-QuietComfort-Cancelling-World-Class-Cancellation/dp/B0CD2FSRDD?tag=theverge02-20), [Best Buy](https://howl.link/hxp0khzug3pbr), [Walmart](https://goto.walmart.com/c/482924/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FBose-QuietComfort-Ultra-Wireless-Earbuds-Noise-Cancelling-Bluetooth-Headphones-Black%2F2655908227%2F), and [Bose](https://www.anrdoezrs.net/links/8836598/type/dlg/https://www.bose.com/p/earbuds/bose-quietcomfort-ultra-earbuds/QCUE-HEADPHONEIN.html).\n- Features include advanced noise cancellation, improved audio quality for calls, and new silicone wing designs for comfort. Supports aptX Adaptive Bluetooth codec for compatible Android devices.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24939904/DSCF3082_Enhanced_NR.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 7,
-      "novelty": 6,
-      "longTermSignificance": 5
-    },
-    "keywords": [
-      "Bose",
-      "QC Ultra Earbuds",
-      "noise-canceling",
-      "discount",
-      "Best Buy",
-      "Amazon",
-      "Walmart",
-      "Bluetooth",
-      "audio quality"
-    ],
-    "sources": [
-      {
-        "title": "Bose’s noise-canceling QC Ultra Earbuds are on sale for their best price to date",
-        "link": "https://www.theverge.com/good-deals/624975/bose-noise-canceling-quietcomfort-ultra-earbuds-spring-deal-sale"
-      }
-    ],
-    "lastUpdated": "2025-03-05T23:12:48.557Z"
-  },
-  {
-    "title": "Trump Delays Tariffs on Automobile Imports from Canada and Mexico",
-    "id": "0k8niqg0wxyw5x",
-    "summary": "- President Trump delays tariffs on automobile imports from Canada and Mexico for one month following requests from General Motors, Ford, and Stellantis.\n- The tariffs were initially set at 25% on goods from Canada and Mexico, impacting complex automotive supply chains.\n- Car prices are at historic highs, with the tariffs potentially increasing sticker prices by $12,000, threatening demand and leaving dealers with unsold vehicles.\n- Trump urged manufacturers to move operations to the U.S., but Ford CEO expressed concerns about the lack of excess capacity at plants.\n- Automakers must comply with the USMCA to qualify for the reprieve, and tariffs of 25% could resume after April 2.\n- Nearly half of new vehicles sold in the U.S. are U.S.-made, while 17.4% are made in Mexico and 7.4% in Canada.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 8,
-      "impact": 7,
-      "novelty": 5.5,
-      "longTermSignificance": 6.5
-    },
-    "keywords": [
-      "trump",
-      "tariffs",
-      "automakers",
-      "canada",
-      "mexico",
-      "general motors",
-      "ford",
-      "stellantis",
-      "automobile imports",
-      "economics",
-      "usmca"
-    ],
-    "sources": [
-      {
-        "title": "Trump gives Big 3 automakers one month reprieve for Canada, Mexico tariffs",
-        "link": "https://techcrunch.com/2025/03/05/trump-gives-big-3-automakers-one-month-reprieve-for-canada-mexico-tariffs/"
-      },
-      {
-        "title": "Trump gives automakers one-month tariff reprieve to move operations from Canada, Mexico to US",
-        "link": "https://techcrunch.com/2025/03/05/trump-gives-automakers-one-month-tariff-reprieve-to-move-operations-from-canada-mexico-to-us/"
-      }
-    ],
-    "lastUpdated": "2025-03-05T23:12:48.556Z"
-  },
-  {
-    "title": "The Last of Us: all the news about the video game franchise turned TV series",
-    "id": "1vkuj6z0anzduj",
-    "summary": "- HBO's The Last of Us season 2 has an official premiere date in 2025.\n- Neil Druckmann indicated that there might not be a third installment of The Last of Us, stating that fans should not expect more.\n- There's a new teaser trailer that highlights the challenges Joel and Ellie will face in the upcoming season.\n- The second season will be shorter than the first, potentially covering the sequel across multiple seasons due to its extensive story material.\n- The remaster of The Last of Us Part II features enhanced graphics and gameplay elements, attracting new and returning players.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25449081/bella_ramsey.jpg?quality=90&strip=all&w=2400"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 9,
-      "novelty": 7,
-      "longTermSignificance": 8
-    },
-    "keywords": [
-      "The Last of Us",
-      "HBO",
-      "video game",
-      "TV series",
-      "remaster",
-      "Neil Druckmann",
-      "season 2"
-    ],
-    "sources": [
-      {
-        "title": "The Last of Us: all the news about the video game franchise turned TV series",
-        "link": "https://www.theverge.com/24036366/the-last-of-us-news-video-game-tv-series-trailers"
-      }
-    ],
-    "lastUpdated": "2025-03-05T23:12:48.555Z"
-  },
-  {
-    "title": "Not all cancer patients need chemo — Ataraxis AI raised $20M to personalize treatment",
-    "id": "1mz4u300zo41v7",
-    "summary": "* Ataraxis AI is using AI to predict cancer outcomes and determine if chemotherapy is necessary.\n* The startup has raised $20.4 million in a Series A funding round to launch its first commercial test for breast cancer.\n* Ataraxis’ AI model is reportedly 30% more accurate than current care standards for breast cancer and aims to influence half of new cancer cases by 2030.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 8,
-      "impact": 9,
-      "novelty": 7,
-      "longTermSignificance": 8
-    },
-    "keywords": [
-      "Ataraxis AI",
-      "cancer treatment",
-      "chemotherapy",
-      "AI in healthcare",
-      "personalized medicine",
-      "fundraising"
-    ],
-    "sources": [
-      {
-        "title": "Not all cancer patients need chemo — Ataraxis AI raised $20M to personalize treatment",
-        "link": "https://techcrunch.com/2025/03/05/not-all-cancer-patients-need-chemo-ataraxis-ai-raised-20m-to-personalize-treatment/"
-      }
-    ],
-    "lastUpdated": "2025-03-05T23:12:48.555Z"
   }
 ]
