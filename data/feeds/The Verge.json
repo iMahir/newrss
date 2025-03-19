@@ -4,6 +4,76 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "All the smart home news, reviews, and gadgets you need to know about",
+      "link": "https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets",
+      "author": "Verge Staff",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195964/akrales_220906_5191_3741__1_.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "summary": "- The smart home offers convenience and safety with devices like smart lights and locks.\n- New gadgets are consistently being released, creating a need for updated guidelines and information.\n- Amazon's new approach includes accepting Matter test results to expedite the availability of Matter devices.\n- Users of Amazon Echo will now have all voice recordings sent to the cloud regardless of previous settings.\n- Amazon is launching premium Alexa devices with enhanced features and designs, including potential new products.\n- Home Assistant officially supports a broader range of Matter devices compared to other platforms.\n- Ikea has registered a Matter-over-Thread temperature sensor, expanding its smart home device offerings.",
+      "keywords": [
+        "Smart Home",
+        "Gadgets",
+        "Home Assistant",
+        "Amazon Echo",
+        "Matter",
+        "Ikea"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-19T19:26:08.000Z"
+    },
+    {
+      "title": "Netflix Games is getting its first MMO",
+      "link": "https://www.theverge.com/news/632526/spirit-crossing-netflix-games-mmo-spry-fox",
+      "author": "Ash Parrish",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195117/1.0.jpg?quality=90&strip=all&crop=0%2C10%2C100%2C80&w=96",
+      "summary": "- Netflix announced its first MMO, <em>Spirit Crossing</em>, developed by Spry Fox during GDC 2025.\n- The game will feature customizable housing, open-world exploration, and crafting elements, set in a cozy environment.\n- <em>Spirit Crossing</em> will launch later this year, with a closed alpha playtest available for sign-up.\n- Netflix has previously acquired Spry Fox as part of its gaming initiative and has launched various titles, emphasizing its commitment to gaming despite industry challenges.",
+      "keywords": [
+        "Netflix",
+        "MMO",
+        "Spirit Crossing",
+        "Spry Fox",
+        "gaming",
+        "cozy game"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 8,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-19T19:24:08.000Z"
+    },
+    {
+      "title": "Andor creator refuses to publish scripts thanks to AI",
+      "link": "https://www.theverge.com/news/632613/andor-tony-gilroy-ai-star-wars-training-copyright",
+      "author": "Kylie Robison",
+      "thumbnail": null,
+      "summary": "- Tony Gilroy, showrunner of *Andor*, decided not to publish the show's scripts to prevent them from being used as training data for AI.\n- Despite having a 1,500-page collection ready, Gilroy expressed concerns about the consequences of sharing his work with AI systems.\n- The decision reflects a broader anxiety among creatives about AI's impact on their professions, with notable figures like Christopher Nolan and Charlie Brooker also voicing their concerns about AI-generated content.\n- Major studios continue to form partnerships with AI companies, raising tensions with artistic communities, especially after recent strikes by WGA and SAG-AFTRA for protections against AI.\n- Legal challenges are emerging over the use of copyrighted materials for AI training, with lawsuits from *The New York Times* and a group of notable authors against OpenAI.",
+      "keywords": [
+        "Andor",
+        "Tony Gilroy",
+        "AI",
+        "scripts",
+        "Hollywood",
+        "copyright",
+        "WGA",
+        "SAG-AFTRA",
+        "AI training",
+        "legal challenges"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-03-19T19:19:25.000Z"
+    },
+    {
       "title": "Verizon’s free satellite messaging service is now available",
       "link": "https://www.theverge.com/news/632618/verizon-satellite-messaging-samsung-s25-pixel-9",
       "author": "Allison Johnson",
@@ -1106,74 +1176,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-18T18:53:26.000Z"
-    },
-    {
-      "title": "Oracle is reportedly in the lead to save TikTok from US ban",
-      "link": "https://www.theverge.com/news/631999/oracle-tiktok-ban-deal-project-texas",
-      "author": "Emma Roth",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Oracle is negotiating a deal to ensure TikTok's security in exchange for a minor stake in its US operations.\n- The agreement may include guarantees preventing a backdoor access for the Chinese government.\n- Concerns remain about TikTok’s algorithm potentially staying under the control of its parent company, ByteDance.\n- Previous efforts, known as Project Texas, aimed to address security issues but faced skepticism from US authorities.\n- A deadline is approaching, with Vice President JD Vance suggesting a high-level agreement to resolve national security concerns by April 5th.",
-      "keywords": [
-        "Oracle",
-        "TikTok",
-        "US ban",
-        "national security",
-        "Project Texas",
-        "ByteDance"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-18T18:50:55.000Z"
-    },
-    {
-      "title": "Nvidia announces Blackwell Ultra GB300 and Vera Rubin, its next AI ‘superchips’",
-      "link": "https://www.theverge.com/news/631835/nvidia-blackwell-ultra-ai-chip-gb300",
-      "author": "Sean Hollister",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/nvidia-ai-chip-roadmpa-2025.jpg?quality=90&strip=all&crop=0,0.06944444444445,100,99.861111111111",
-      "summary": "- Nvidia announces two new AI chips: Blackwell Ultra GB300 and Vera Rubin.\n- Blackwell Ultra GB300 expected to ship in the second half of 2025, while Vera Rubin is set for 2026 and Rubin Ultra for 2027.\n- Blackwell Ultra offers 20 petaflops of AI performance with 288GB of HBM3e memory.\n- a Blackwell Ultra DGX GB300 cluster features 288 CPUs, 576 GPUs, and 11.5 exaflops of FP4 computing.\n- New chips aim to provide improved performance over previous models, with Vera Rubin claiming up to 50 petaflops of FP4.\n- Nvidia's founder emphasizes the increasing demand for computing power, predicting the industry will need \"100 times more than then we thought we needed this time last year.\"",
-      "keywords": [
-        "Nvidia",
-        "Blackwell Ultra",
-        "Vera Rubin",
-        "AI chips",
-        "technology",
-        "supercomputing",
-        "HBM3e",
-        "FP4",
-        "performance"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-18T18:49:11.000Z"
-    },
-    {
-      "title": "Democratic FCC Commissioner Geoffrey Starks will resign this spring",
-      "link": "https://www.theverge.com/news/631833/democratic-fcc-commissioner-geoffrey-starks-resigns",
-      "author": "Lauren Feiner",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197292/2023-05-07_16.33.21_-_Lauren_Feiner_Headshot_-_8X10_-_001.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- FCC Commissioner Geoffrey Starks announced his resignation, effective spring 2024.\n- Starks' departure may enable a Republican majority on the commission prior to Senate confirmation of Olivia Trusty.\n- His resignation cuts his term short, which was originally set to expire in 2027.\n- Starks expressed that serving as a Commissioner was the honor of his life, highlighting the importance of listening to the American people.",
-      "keywords": [
-        "FCC",
-        "Geoffrey Starks",
-        "resignation",
-        "Republican majority",
-        "Olivia Trusty"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-18T18:30:11.000Z"
     }
   ]
 }
