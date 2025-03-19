@@ -4,6 +4,55 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Group co-led by Fei-Fei Li suggests that AI safety laws should anticipate future risks",
+      "link": "https://techcrunch.com/2025/03/19/group-co-led-by-fei-fei-li-suggests-that-ai-safety-laws-should-anticipate-future-risks/",
+      "author": "Fei-Fei Li, Jennifer Chayes, Mariano-Florentino Cuéllar",
+      "thumbnail": null,
+      "summary": "- A California policy group co-led by Fei-Fei Li recommends that AI laws address unseen future risks.\n- The report released on March 19, 2025, comes from the Joint California Policy Working Group on Frontier AI Models, organized by Governor Gavin Newsom.\n- It advocates for transparency from AI model developers regarding safety tests and data practices.\n- The report stresses that AI policy should anticipate future threats, similar to predicting nuclear weapon harm without witnessing its effects.\n- A two-pronged strategy of 'trust but verify' is recommended for AI developers to enhance safety accountability.\n- The report was positively received across the ideological spectrum of AI safety advocates and policymakers, indicating potential support for future legislation.",
+      "keywords": [
+        "AI safety",
+        "Fei-Fei Li",
+        "California policy",
+        "AI regulation",
+        "transparency",
+        "future risks",
+        "safety tests",
+        "cybersecurity",
+        "biological weapons"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-19T18:27:16.000Z"
+    },
+    {
+      "title": "Substack rival Ghost is now connected to the fediverse",
+      "link": "https://techcrunch.com/2025/03/19/substack-rival-ghost-is-now-connected-to-the-fediverse/",
+      "author": "Sarah Perez",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/activitypub-beta-1.png?w=680",
+      "summary": "- Newsletter platform [Ghost](https://ghost.org/) integrates with the fediverse, enhancing connectivity with the open social web.\n- The integration allows Ghost Pro subscribers to share and promote blog posts across federated apps like [Mastodon](https://techcrunch.com/2023/07/24/what-is-mastodon/), [Pixelfed](https://techcrunch.com/2025/01/14/decentralized-instagram-alternative-pixelfed-launches-mobile-apps/), and [Threads](https://techcrunch.com/2025/03/07/what-is-instagrams-threads-app-all-your-questions-answered/).\n- Ghost's social web beta enables users to follow accounts, interact with posts, and utilize a reader for social feeds, with a more finalized integration expected in Ghost 6.0.",
+      "keywords": [
+        "Ghost",
+        "fediverse",
+        "Substack",
+        "ActivityPub",
+        "newsletter",
+        "social web",
+        "Mastodon",
+        "integration"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-19T18:25:33.000Z"
+    },
+    {
       "title": "A key DeepMind robotics researcher left Google and Nvidia has already backed his stealth startup",
       "link": "https://techcrunch.com/2025/03/19/a-key-deepmind-robotics-researcher-left-google-and-nvidia-has-already-backed-his-stealth-startup/",
       "author": "Charles Rollet",
@@ -1981,52 +2030,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-18T19:14:48.000Z"
-    },
-    {
-      "title": "Nvidia announces new GPUs at GTC 2025, including Vera Rubin",
-      "link": "https://techcrunch.com/2025/03/18/nvidia-announces-new-gpus-at-gtc-2025-including-rubin/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- Nvidia announced new GPUs at GTC 2025, including the Vera Rubin, set for release in late 2026.\n- Vera Rubin will feature tens of terabytes of memory and a custom CPU, Vera, with performance uplifts for AI tasks.\n- Rubin can manage up to 50 petaflops for inference, surpassing the current Blackwell chips.\n- Blackwell Ultra is slated for release in the second half of 2025, offering 20 petaflops with increased memory.\n- Future releases include Rubin Ultra in 2027 and Feynman GPUs around 2028, also featuring a Vera CPU.",
-      "keywords": [
-        "Nvidia",
-        "GTC 2025",
-        "GPUs",
-        "Vera Rubin",
-        "AI performance",
-        "technology",
-        "Jensen Huang"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-18T18:40:14.000Z"
-    },
-    {
-      "title": "Tesla and Rivian charging networks have fewest problems by far, according to Consumer Reports",
-      "link": "https://techcrunch.com/2025/03/18/tesla-and-rivian-charging-networks-have-fewest-problems-by-far-according-to-consumer-reports/",
-      "author": "Sean O’Kane",
-      "thumbnail": null,
-      "summary": "- Tesla and Rivian charging networks are the most problem-free according to a Consumer Reports survey.\n- Surveyed 1,230 EV owners between March 2024 and February 2025; only 4% reported problems with Tesla's Superchargers and 5% with Rivian's chargers.\n- Shell's Recharge network had a 48% problem rate, followed by EVgo (43%) and Blink (41%).\n- Common issues involved payment processing and charging hardware problems, particularly with screen malfunctions.\n- Shift towards electric vehicles continues, with EVs making up over 8% of U.S. vehicle sales last year.",
-      "keywords": [
-        "EV charging",
-        "Tesla",
-        "Rivian",
-        "Consumer Reports",
-        "electric vehicles",
-        "charging networks",
-        "automotive technology"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-18T18:38:43.000Z"
     }
   ]
 }
