@@ -4,6 +4,79 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Roborock opens pre-orders for its robot vacuum with an arm",
+      "link": "https://www.theverge.com/news/632881/roborock-saros-z70-robot-vacuum-pre-orders-price",
+      "author": "Jennifer Pattison Tuohy",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/%E6%B0%B4%E7%AE%B1%E7%99%BD%E8%89%B2-%E6%8B%B7%E8%B4%9D.png?quality=90&strip=all&crop=0,0,100,100&w=2400",
+      "summary": "- Roborock's Saros Z70 robot vacuum is now available for pre-order at $1,899.\n- The Z70 features a robotic arm to pick up small items and offers 22,000Pa suction power.\n- Roborock has surpassed iRobot as the top-selling robot vacuum brand globally with a 16% market share in Q4 2023.\n- The robotic vacuum includes the new StarSight navigation system for advanced obstacle navigation.\n- The vacuum features two-in-one mopping and vacuuming capabilities and a multifunction dock that cleans and refills the robot.\n- Pre-ordering customers can choose a free second vacuum from various models, including the Qrevo S5V and Q10 S5 Plus.",
+      "keywords": [
+        "Roborock",
+        "Saros Z70",
+        "robot vacuum",
+        "pre-order",
+        "robotic arm",
+        "cleaning technology",
+        "StarSight navigation",
+        "market share"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-19T21:43:16.000Z"
+    },
+    {
+      "title": "Ghost connects its newsletters to the open web",
+      "link": "https://www.theverge.com/news/632880/ghost-newsletter-blog-fediverse-activitypub-beta-live",
+      "author": "Umar Shakir",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195848/UMAR_SHAKIR.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Ghost has launched fediverse connectivity, enabling blogs to share content via the ActivityPub protocol.\n- The feature is currently in beta for Ghost(Pro) users despite initial plans for a 2024 launch.\n- Ghost allows seamless content sharing across social platforms such as Mastodon, Pixelfed, and Threads, bringing more freedom compared to Substack.\n- An 'Inbox' feature aggregates articles from Ghost and WordPress, while a dedicated social web reader enhances user interaction.\n- Users can activate ActivityPub in Ghost Admin settings.",
+      "keywords": [
+        "Ghost",
+        "newsletter",
+        "ActivityPub",
+        "fediverse",
+        "open web",
+        "Mastodon",
+        "Pixelfed",
+        "Threads",
+        "blogging"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-19T21:28:52.000Z"
+    },
+    {
+      "title": "The airport panopticon is getting people deported and detained",
+      "link": "https://www.theverge.com/policy/632843/cbp-phone-search-airport-arrest-mass-deportations",
+      "author": "Gaby Del Valle",
+      "thumbnail": null,
+      "summary": "- A legal permanent resident reported torture by customs agents after returning from Europe.\n- CBP's surveillance capabilities are used to facilitate mass deportations, impacting even legal immigrants.\n- Recent incidents at Boston Logan International Airport involved violent interrogations and unjust detentions.\n- CBP's databases can flag noncitizens for past minor infractions, leading to serious consequences.\n- Rasha Alawieh, a professor on an H-1B visa, was deported after CBP found photos on her phone deemed controversial.\n- DHS's broad mandate effects a web of surveillance that puts all noncitizens at risk of interrogation and deportation.",
+      "keywords": [
+        "deportation",
+        "immigration",
+        "CBP",
+        "surveillance",
+        "legal residents",
+        "airport detention",
+        "Trump administration",
+        "H-1B visa"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-19T21:10:00.000Z"
+    },
+    {
       "title": "There’s a big sale on the Pixel 9 Pro and Pixel 9 Pro XL right now",
       "link": "https://www.theverge.com/good-deals/632645/google-pixel-9-pro-xl-eero-pro-6e-deal-sale",
       "author": "Todd Haselton",
@@ -1105,75 +1178,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-03-18T21:02:34.000Z"
-    },
-    {
-      "title": "US music subscriptions cross 100 million as digital downloads drop",
-      "link": "https://www.theverge.com/news/632045/riaa-music-streaming-revenue-100-million-subscriptions",
-      "author": "Wes Davis",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196306/unnamed.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "• Music streaming services in the US surpassed 100 million subscribers in 2024, according to RIAA's revenue report.\n• Overall revenue from paid subscriptions and ad-supported services reached $14.9 billion, a 4% increase from the previous year.\n• Vinyl sales continue to grow, surpassing CDs for the third consecutive year with $1.4 billion in revenue, while digital downloads dropped by 14.9%.",
-      "keywords": [
-        "music streaming",
-        "RIAA",
-        "subscription services",
-        "vinyl sales",
-        "digital downloads"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-18T19:53:43.000Z"
-    },
-    {
-      "title": "Nvidia says ‘the age of generalist robotics is here’",
-      "link": "https://www.theverge.com/news/631743/nvidia-issac-groot-n1-robotics-foundation-model-available",
-      "author": "Andrew Liszewski",
-      "thumbnail": null,
-      "summary": "- Nvidia announced the availability of Isaac GR00T N1, an open-source, customizable foundation model for humanoid robots.\n- CEO Jensen Huang stated, \"The age of generalist robotics is here,\" highlighting advancements in AI-driven robot development.\n- The framework allows robotics developers to create more adaptable and capable robots, focusing on human-robot companionship rather than mere tool functionality.\n- Demonstrations included 1X’s NEO Gamma robot performing autonomous tasks using the GR00T N1 model.\n- Early users of GR00T N1 include Boston Dynamics, Agility Robotics, and Neura Robotics.\n- The model features a dual-system architecture: System 1 for quick reflexive actions and System 2 for reasoning and planning actions based on environmental understanding.\n- Developers can customize the GR00T N1 model using data from human demonstrations or simulations, with downloadable training data available on Hugging Face and GitHub.",
-      "keywords": [
-        "Nvidia",
-        "robotics",
-        "humanoid robots",
-        "Isaac GR00T N1",
-        "AI",
-        "open-source",
-        "foundation model"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 8,
-        "longTermSignificance": 9
-      },
-      "pubDate": "2025-03-18T19:26:25.000Z"
-    },
-    {
-      "title": "Nvidia’s RTX Pro 6000 has 96GB of VRAM and 600W of power",
-      "link": "https://www.theverge.com/news/631868/nvidia-rtx-pro-6000-blackwell-gpu-professionals",
-      "author": "Tom Warren",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/NVIDIA-RTX-PRO-6000-Blackwell-_2.jpg?quality=90&strip=all&crop=0%2C0.81018518518518%2C100%2C98.37962962963&w=2400",
-      "summary": "- Nvidia announces the RTX Pro Blackwell series of GPUs, including the RTX Pro 6000 for workstations.\n- RTX Pro 6000 features 96GB of GDDR7 memory and requires 600W of power.\n- It supports PCIe Gen 5 and DisplayPort 2.1, with enhanced RT cores and Tensor cores.\n- Designed for professionals in game development and AI workloads, with variants in Max-Q and server editions.\n- Pricing for the RTX Pro 6000 is not yet set; it will be available in April through partners like PNY and TD Synnex, with manufacturer availability in May.\n- Cloud service providers will offer the server variant later this year, with the rest of the RTX Pro Blackwell lineup available in summer.",
-      "keywords": [
-        "Nvidia",
-        "RTX Pro 6000",
-        "GPU",
-        "Blackwell",
-        "workstations",
-        "96GB VRAM",
-        "600W power",
-        "AI",
-        "game development"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-18T19:13:54.000Z"
     }
   ]
 }

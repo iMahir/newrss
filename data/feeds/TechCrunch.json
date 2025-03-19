@@ -4,6 +4,79 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "X users treating Grok like a fact-checker spark concerns over misinformation",
+      "link": "https://techcrunch.com/2025/03/19/x-users-treating-grok-like-a-fact-checker-spark-concerns-over-misinformation/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Screenshot-2025-03-19-at-1.23.04AM.png",
+      "summary": "- Users on Elon Musk’s X are seeking fact-checking from Musk’s AI bot Grok, raising misinformation concerns.\n- In March 2025, X allowed users to ask Grok questions, initiating experiments with user-generated inquiries, particularly in politically charged contexts.\n- Fact-checkers worry that Grok can produce convincing yet potentially incorrect answers, exacerbating misinformation issues observed in prior instances.\n- Previous calls by five state secretaries urged Musk to enhance Grok's operations post misinformation incidents during U.S. electoral events.\n- Unlike AI, human fact-checkers rely on credible sources and bear accountability, addressing transparency issues that AI lacks.\n- Concerns arise regarding Grok's misrepresentation of information and its lack of disclaimers, leading to unverified claims.\n- There is skepticism about Grok's training data and quality control measures, impacting how it interprets user posts for valid responses.\n- Social media dynamics allow misleading information to spread rapidly, raising awareness of its potential social consequences.\n- Research shows AI can have error rates of up to 20%, leading to significant real-world repercussions when incorrect information is propagated.\n- The role of human fact-checkers remains vital despite advancements in AI, with efforts to incorporate crowdsourced verification models ongoing.",
+      "keywords": [
+        "Grok",
+        "fact-checking",
+        "misinformation",
+        "AI",
+        "Elon Musk",
+        "X",
+        "xAI",
+        "social media",
+        "crowdsourced",
+        "disinformation"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-19T21:23:08.000Z"
+    },
+    {
+      "title": "Sequoia shutters D.C. office, lets go of policy team",
+      "link": "https://techcrunch.com/2025/03/19/sequoia-shutters-d-c-office-lets-go-of-policy-team/",
+      "author": "Dominic-Madori Davis",
+      "thumbnail": null,
+      "summary": "- Sequoia will close its D.C. office and let go of its policy team by the end of March.\n- This decision contrasts with other Silicon Valley VC firms like Andreessen Horowitz, which are enhancing their policy teams.\n- Sequoia's D.C. office was opened five years ago to assist companies with regulatory challenges.\n- The firm claims it is well-positioned to maintain relationships in the U.S. and Europe.\n- The closure affects policy fellows and three full-time employees.",
+      "keywords": [
+        "Sequoia",
+        "D.C. office",
+        "policy team",
+        "venture capital",
+        "regulatory issues",
+        "Capitol Hill",
+        "Trump administration"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-03-19T21:15:00.000Z"
+    },
+    {
+      "title": "OpenAI research lead Noam Brown thinks AI ‘reasoning’ models could’ve arrived decades ago",
+      "link": "https://techcrunch.com/2025/03/19/openai-research-lead-noam-brown-thinks-ai-reasoning-models-couldve-arrived-decades-ago/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Noam Brown, leading AI reasoning research at OpenAI, believes reasoning AI models could have emerged 20 years earlier with the right approaches.\n- Speaking at Nvidia’s GTC conference, Brown highlighted the importance of reasoning in AI, inspired by human thought processes.\n- Brown is a key figure behind the o1 model, which employs test-time inference to enhance reasoning capabilities in AI.\n- While pre-training remains relevant, AI labs are increasingly focusing on complementing it with test-time inference.\n- He noted the growing challenges for academia in scaling experiments due to limited computing resources but emphasized potential collaborations with labs.\n- Brown criticized the current state of AI benchmarks, calling for improvements that do not require extensive computing power.",
+      "keywords": [
+        "AI",
+        "reasoning",
+        "Noam Brown",
+        "OpenAI",
+        "o1 model",
+        "test-time inference",
+        "Nvidia GTC",
+        "AI benchmarks"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-19T21:13:16.000Z"
+    },
+    {
       "title": "Nvidia reportedly acquires synthetic data startup Gretel",
       "link": "https://techcrunch.com/2025/03/19/nvidia-reportedly-acquires-synthetic-data-startup-gretel/",
       "author": "Alex Watson, Laszlo Bock, John Myers, Ali Golshan",
@@ -1957,77 +2030,6 @@
         "longTermSignificance": 9
       },
       "pubDate": "2025-03-18T20:56:36.000Z"
-    },
-    {
-      "title": "Nvidia announces two ‘personal AI supercomputers’",
-      "link": "https://techcrunch.com/2025/03/18/nvidia-announces-two-personal-ai-supercomputers/",
-      "author": "Becca",
-      "thumbnail": null,
-      "summary": "- Nvidia revealed new AI personal supercomputers, DGX Spark and DGX Station, at GTC 2025.\n- The DGX Spark offers up to 1,000 trillion operations per second using the GB10 Grace Blackwell Superchip.\n- DGX Station will feature a GB300 Grace Blackwell Ultra Desktop Superchip with 784GB of memory, launching later this year.",
-      "keywords": [
-        "Nvidia",
-        "AI",
-        "supercomputers",
-        "GTC 2025",
-        "Grace Blackwell",
-        "DGX Spark",
-        "DGX Station"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-18T20:20:45.000Z"
-    },
-    {
-      "title": "FTC removes posts critical of big tech from its website",
-      "link": "https://techcrunch.com/2025/03/18/ftc-removes-posts-critical-of-big-tech-from-its-website/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1240746545.jpg?w=1024",
-      "summary": "- The FTC has removed over 300 blog posts from its website published under former chair Lina Khan.\n- These posts included criticisms of significant tech companies like Amazon and Microsoft regarding customer data handling.\n- The removal may violate government data handling laws and aligns with the Trump administration's campaign to eliminate certain words from public documents.",
-      "keywords": [
-        "FTC",
-        "Lina Khan",
-        "Big Tech",
-        "Amazon",
-        "Microsoft",
-        "data handling",
-        "government policy"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-18T19:48:24.000Z"
-    },
-    {
-      "title": "GM teams up with Nvidia to bring AI to robots, factories, and self-driving cars",
-      "link": "https://techcrunch.com/2025/03/18/gm-teams-up-with-nvidia-to-bring-ai-to-robots-factories-and-self-driving-cars/",
-      "author": "Kirsten Korosec",
-      "thumbnail": null,
-      "summary": "- General Motors (GM) partners with Nvidia to integrate AI across its operations, including factories and self-driving cars.\n- Nvidia will supply AI infrastructure, including GPUs, and assist GM in building custom AI systems.\n- GM to utilize Nvidia Omniverse with Cosmos for training AI models to enhance factory design and robotics.\n- The collaboration aims to create a digital twin of factories to test production processes.\n- GM is also using Nvidia Drive AGX for advanced driver-assistance and safety features in future vehicles.",
-      "keywords": [
-        "GM",
-        "Nvidia",
-        "AI",
-        "robotics",
-        "self-driving cars",
-        "technology",
-        "automotive",
-        "collaboration",
-        "manufacturing"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-18T19:19:27.000Z"
     }
   ]
 }
