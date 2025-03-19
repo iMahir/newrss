@@ -4,6 +4,99 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Analytics company Dataminr secures $85M to fund growth",
+      "link": "https://techcrunch.com/2025/03/19/analytics-company-dataminr-secures-85m-to-fund-growth/",
+      "author": "Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/130c8fbab8e255a545605ea5ccca6227ae7e367c.webp?w=680",
+      "summary": "- Dataminr raised $85 million in convertible financing and credit, aimed at accelerating growth.\n- The company previously raised $475 million in 2021 at a $4.1 billion valuation but faced layoffs of 20% of staff in November 2023.\n- The new funding focuses on expanding operations in Europe, the Middle East, and Asia, as well as developing new AI-driven products.\n- CEO Ted Bailey highlighted that this round doesn't set a valuation and was led by NightDragon and HSBC.\n- Dataminr provides tools for real-time event monitoring and serves over 800 clients, including the U.S. Department of Defense.\n- The company faced controversy over its surveillance practices but claims to continuously improve its technology.",
+      "keywords": [
+        "Dataminr",
+        "funding",
+        "AI",
+        "data analytics",
+        "surveillance",
+        "tech news"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-19T17:00:00.000Z"
+    },
+    {
+      "title": "Streamer Plex raises subscription price for the first time in a decade",
+      "link": "https://techcrunch.com/2025/03/19/streamer-plex-raises-subscription-price-for-the-first-time-in-a-decade/",
+      "author": "Sarah Perez",
+      "thumbnail": null,
+      "summary": "- Plex announces its first price increase in a decade for its premium subscription service, Plex Pass.\n- Monthly subscription will rise from $4.99 to $6.99, and yearly cost from $39.99 to $69.99, effective April 29.\n- Lifetime Plex Pass price will increase from $119.99 to $249.99.\n- New features include changes to remote playback and the removal of a mobile unlock fee.\n- Users assured that personal media data will not be shared or sold, though new policies regarding Plex activity have been introduced.\n- Plex cites rising costs of operations as a reason for the price hike and mentions future features like integration with Common Sense Media and new server management tools.",
+      "keywords": [
+        "Plex",
+        "subscription price",
+        "Plex Pass",
+        "streaming services",
+        "price increase",
+        "remote playback",
+        "user data policy"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-19T16:41:57.000Z"
+    },
+    {
+      "title": "Google search, Play Store falling foul of Digital Markets Act rules, says EU",
+      "link": "https://techcrunch.com/2025/03/19/google-search-play-store-falling-foul-of-digital-markets-act-rules-says-eu/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Google Search and Play Store suspected of violating the EU's Digital Markets Act (DMA).\n- Preliminary findings suggest Google favors its own services over rivals in search results.\n- EU investigating Google's restrictions on app developers regarding directing users to better offers outside Play Store.\n- Violations of the DMA could lead to fines of up to 10% of Google's global annual turnover.\n- Google claims compliance changes may harm consumers and hinder innovation, potentially leading to safety risks.",
+      "keywords": [
+        "Google",
+        "Digital Markets Act",
+        "EU",
+        "Play Store",
+        "self-preferencing",
+        "competition",
+        "app developers",
+        "regulations",
+        "preliminary findings"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-19T16:32:02.000Z"
+    },
+    {
+      "title": "EPA was ‘arbitrary and capricious’ when it froze nonprofits’ Citibank accounts, judge finds",
+      "link": "https://techcrunch.com/2025/03/19/epa-was-arbitrary-and-capricious-when-it-froze-nonprofits-citibank-accounts-judge-finds/",
+      "author": "Tim De Chant",
+      "thumbnail": null,
+      "summary": "- A federal judge ruled the EPA acted arbitrarily when terminating contracts with three nonprofits, issuing a temporary restraining order.\n- The order requires the EPA and Citibank to restore access to frozen accounts linked to the Greenhouse Gas Reduction Fund.\n- The judge found the EPA's claims of waste and fraud were vague and lacked specific evidence, noting the nonprofits faced imminent harm without fund access.\n- Plaintiffs have committed substantial funds to renewable projects, now jeopardized by the account freezes.\n- The ruling indicates strong likelihood of success in the nonprofits' case against the EPA's actions.",
+      "keywords": [
+        "EPA",
+        "contract termination",
+        "nonprofits",
+        "Citibank",
+        "Greenhouse Gas Reduction Fund",
+        "court ruling",
+        "arbitrary and capricious"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-19T16:31:02.000Z"
+    },
+    {
       "title": "Researchers say they’ve discovered a new method of ‘scaling up’ AI, but there’s reason to be skeptical",
       "link": "https://techcrunch.com/2025/03/19/researchers-say-theyve-discovered-a-new-method-of-scaling-up-ai-but-theres-reason-to-be-skeptical/",
       "author": "Kyle Wiggers",
@@ -1929,78 +2022,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-18T15:00:00.000Z"
-    },
-    {
-      "title": "Arcade raises $12M from Perplexity co-founder’s new fund to make AI agents less awful",
-      "link": "https://techcrunch.com/2025/03/18/arcade-raises-12m-from-perplexity-co-founders-new-fund-to-make-ai-agents-less-awful/",
-      "author": "Alex Salazar, Sam Partee, Andy Konwinski, Pete Sonsini",
-      "thumbnail": null,
-      "summary": "- Arcade, an AI agent infrastructure startup, raised $12 million from Laude Ventures, a fund founded by Perplexity co-founder Andy Konwinski.\n- Founded by Alex Salazar (former Okta exec) and Sam Partee (former Redis engineer) in February 2024, the startup aims to improve the functionality of AI agents.\n- The company addresses issues with existing AI agents that often do not work effectively due to reliance on public data rather than private data.\n- Arcade offers a tool-calling platform that allows AI agents to access apps and data with user-like privileges, integrating with OAuth for secure token management.",
-      "keywords": [
-        "Arcade",
-        "AI agents",
-        "funding",
-        "Laude Ventures",
-        "Andy Konwinski",
-        "tech startup",
-        "infrastructure",
-        "SaaS",
-        "OAuth",
-        "token management"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-18T15:00:00.000Z"
-    },
-    {
-      "title": "Mark Zuckerberg says that Meta’s Llama models have hit 1B downloads",
-      "link": "https://techcrunch.com/2025/03/18/mark-zuckerberg-says-that-metas-llama-models-have-hit-1b-downloads/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- Meta CEO Mark Zuckerberg announced that the Llama AI model family has reached 1 billion downloads, a 53% increase from 650 million in December 2024.\n- Llama powers Meta AI across platforms like Facebook, Instagram, and WhatsApp and is available for free under a proprietary license.\n- Despite its success, Llama faces challenges, including an AI copyright lawsuit and data privacy concerns leading to cancellations of launch plans in Europe.\n- Meta plans to invest up to $80 billion in AI projects this year and aims to release new Llama models, including reasoning and multimodal capabilities, in the upcoming months.",
-      "keywords": [
-        "Meta",
-        "Llama models",
-        "AI downloads",
-        "Mark Zuckerberg",
-        "TechCrunch",
-        "artificial intelligence",
-        "data privacy",
-        "AI ecosystem",
-        "Meta AI",
-        "generative AI"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-18T14:16:37.000Z"
-    },
-    {
-      "title": "Make your choice! Vote for the speaker you want to see at TechCrunch Sessions: AI",
-      "link": "https://techcrunch.com/2025/03/18/make-your-choice-vote-for-the-speaker-you-want-to-see-at-techcrunch-sessions-ai/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-03-18T14:00:00.000Z"
-    },
-    {
-      "title": "Coreshell has a plan to slash the price of American made batteries",
-      "link": "https://techcrunch.com/2025/03/18/coreshell-has-a-plan-to-slash-the-price-of-american-made-batteries/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-03-18T13:45:32.000Z"
     }
   ]
 }
