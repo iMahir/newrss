@@ -4,6 +4,143 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Researchers say they’ve discovered a new method of ‘scaling up’ AI, but there’s reason to be skeptical",
+      "link": "https://techcrunch.com/2025/03/19/researchers-say-theyve-discovered-a-new-method-of-scaling-up-ai-but-theres-reason-to-be-skeptical/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Researchers explore a new AI scaling law called 'inference-time search' that may improve model performance.\n- Inference-time search generates multiple answers in parallel and chooses the best one, claiming to enhance Google's Gemini 1.5 Pro model's performance.\n- Experts are skeptical about the method's practicality, stating it may not be effective for general language interactions where clear evaluation isn't possible.",
+      "keywords": [
+        "AI",
+        "scaling laws",
+        "inference-time search",
+        "model performance",
+        "AI reasoning"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-03-19T16:03:54.000Z"
+    },
+    {
+      "title": "Tera AI comes out of stealth with $7.8M to provide visual navigation for robots",
+      "link": "https://techcrunch.com/2025/03/19/teraai-comes-out-of-stealth-with-7-8m-to-provide-visual-navigation-for-robots/",
+      "author": "Kate Park",
+      "thumbnail": null,
+      "summary": "- Tera AI raises $7.8 million in seed funding to develop zero-shot navigation for robots.\n- The company aims to provide affordable, software-based visual navigation that is hardware agnostic.\n- CEO Tony Zhang believes this technology can enable robots to operate in various environments without expensive sensors.",
+      "keywords": [
+        "Tera AI",
+        "robot navigation",
+        "seed funding",
+        "zero-shot learning",
+        "AI",
+        "autonomous robots",
+        "hardware agnostic"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-19T16:00:00.000Z"
+    },
+    {
+      "title": "US teachers’ union says hackers stole sensitive personal data on over 500,000 members",
+      "link": "https://techcrunch.com/2025/03/19/us-teachers-union-says-hackers-stole-sensitive-personal-data-on-over-500000-members/",
+      "author": "Carly Page",
+      "thumbnail": null,
+      "summary": "- The Pennsylvania State Education Association (PSEA) reported a data breach affecting over 517,000 members' sensitive personal information.\n- The breach, confirmed in a filing with Maine’s attorney general, occurred during a cyberattack in July 2024.\n- Stolen data includes government IDs, Social Security numbers, passport numbers, medical information, and financial details like card numbers and PINs.\n- PSEA indicated some data elements were not acquired for every individual and took steps to ensure data was deleted post-breach, hinting at a ransomware or data extortion attack.\n- There is no guarantee that paying the ransom ensures the deletion of the stolen data, as seen in previous ransomware incidents.",
+      "keywords": [
+        "PSEA",
+        "data breach",
+        "cyberattack",
+        "personal information",
+        "ransomware",
+        "hackers"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-19T15:42:35.000Z"
+    },
+    {
+      "title": "EU sends Apple first DMA interoperability instructions for apps and connected devices",
+      "link": "https://techcrunch.com/2025/03/19/eu-sends-apple-first-dma-interoperability-instructions-for-apps-and-connected-devices/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- The EU has sent Apple preliminary instructions to comply with interoperability provisions in the Digital Markets Act (DMA).\n- Apple must enable access to nine iOS connectivity features for third-party devices, improving compatibility.\n- Apple argues the DMA's regulations could threaten user privacy and restrict innovation, calling them anti-competitive.",
+      "keywords": [
+        "EU",
+        "Apple",
+        "Digital Markets Act",
+        "interoperability",
+        "iOS",
+        "DMA",
+        "third-party devices",
+        "privacy",
+        "innovation"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-19T15:28:18.000Z"
+    },
+    {
+      "title": "‘The Last of Us’ to stream in American Sign Language on Max",
+      "link": "https://techcrunch.com/2025/03/19/the-last-of-us-to-stream-in-american-sign-language-on-max/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Max announced the HBO series \"The Last of Us\" will stream in American Sign Language (ASL).\n- This is the first time HBO’s content is available in ASL, enhancing accessibility for deaf and hard-of-hearing viewers.\n- Season 2 premieres on April 13, 2025, and the first season will be available in ASL starting March 31, 2025.\n- ASL versions will feature performances by ‘Coda’ actor Daniel Durant and ASL performer Leila Hanaumi.\n- Other titles available in ASL on Max include \"Barbie,\" \"Beetlejuice,\" and \"Godzilla x Kong: The New Empire.\"",
+      "keywords": [
+        "The Last of Us",
+        "HBO",
+        "American Sign Language",
+        "ASL",
+        "inclusivity",
+        "deaf viewers",
+        "streaming"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-19T15:25:20.000Z"
+    },
+    {
+      "title": "Hugging Face’s new iOS app taps AI to describe what you’re looking at",
+      "link": "https://techcrunch.com/2025/03/19/hugging-faces-new-ios-app-taps-ai-to-describe-what-youre-looking-at/",
+      "author": "Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Screenshot-2025-03-19-at-10.58.12AM-1.png?w=680",
+      "summary": "- Hugging Face launched an iOS app called [HuggingSnap](https://apps.apple.com/us/app/huggingsnap/id6742157364) that uses offline AI to describe camera views in real-time.\n- The app employs Hugging Face’s in-house vision model, smolvlm2, to identify objects and explain scenes without sending data to the cloud.\n- It requires iOS 18 or later and also works with macOS devices and Apple Vision Pro for broader compatibility.",
+      "keywords": [
+        "Hugging Face",
+        "HuggingSnap",
+        "iOS app",
+        "AI",
+        "offline AI",
+        "object recognition",
+        "tech news"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-19T15:16:42.000Z"
+    },
+    {
       "title": "The AI leaders bringing the AGI debate down to Earth",
       "link": "https://techcrunch.com/2025/03/19/the-ai-leaders-bringing-the-agi-debate-down-to-earth/",
       "author": null,
@@ -1864,137 +2001,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-03-18T13:45:32.000Z"
-    },
-    {
-      "title": "Anthropic is reportedly prepping a voice mode for Claude",
-      "link": "https://techcrunch.com/2025/03/18/anthropic-is-reportedly-prepping-a-voice-mode-for-claude/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-03-18T13:22:10.000Z"
-    },
-    {
-      "title": "WhatsApp will soon limit number of broadcast messages users and businesses can send",
-      "link": "https://techcrunch.com/2025/03/18/whatsapp-will-soon-limit-number-of-broadcast-messages-users-and-businesses-can-send/",
-      "author": "Ivan Mehta",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/WhatsApp-Business-New-Icon.jpg?w=680",
-      "summary": "- WhatsApp will limit the number of broadcast messages that users and businesses can send to reduce spam.\n- Testing will begin soon, with a suggested limit of 30 messages per month for individual users.\n- Business accounts will see the introduction of a paid version for broadcast messaging, previously unlimited.\n- Merchants will be able to send customized broadcast messages and schedule them, with 250 free messages available during the pilot.\n- The changes aim to help users receive fewer overwhelming messages while still allowing businesses to communicate effectively.\n- WhatsApp Business has become an important revenue source for Meta, with the new limits introducing a potential additional revenue stream for the company.",
-      "keywords": [
-        "WhatsApp",
-        "broadcast messages",
-        "spam",
-        "Meta",
-        "business accounts",
-        "user limits",
-        "customized messages",
-        "revenue"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-18T13:00:00.000Z"
-    },
-    {
-      "title": "Exist is a new social wellness app that wants to help middle-age users find community",
-      "link": "https://techcrunch.com/2025/03/18/exist-is-a-new-social-wellness-app-that-wants-to-help-middle-age-users-find-community/",
-      "author": "Jason Jardim, Alicia Waldner",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/exist-app.jpeg?w=680",
-      "summary": "- Exist is an iOS social wellness app aimed at helping middle-aged users connect and build communities.\n- The app features social journaling, daily mood tracking, audio exercises, and guided meditations.\n- Founded by Jason Jardim and Alicia Waldner, it originally targeted Gen Z but shifted focus to middle-aged users as the average sign-up age became 40.\n- Exist includes a TikTok-like feed for sharing journal entries and receiving community responses.\n- Offers a free community journaling experience, with a subscription option for additional features at $5.99 per month.\n- Future plans include enhancing human connection, adding sleep habit tracking, and personalized journal prompts.",
-      "keywords": [
-        "social wellness app",
-        "middle-aged community",
-        "journaling",
-        "mental health",
-        "community building",
-        "Exist app",
-        "Jason Jardim",
-        "Alicia Waldner"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-18T13:00:00.000Z"
-    },
-    {
-      "title": "Google plans to release new ‘open’ AI models for drug discovery",
-      "link": "https://techcrunch.com/2025/03/18/google-plans-to-release-new-open-ai-models-for-drug-discovery/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- Google announced the development of new open AI models called TxGemma for drug discovery at a health-focused event in New York.\n- The models will be released through its Health AI Developer Foundations program later this month.\n- TxGemma can analyze both text and the structures of therapeutic entities, aiding researchers in predicting properties of new therapies.\n- There is no clarification yet on whether the models will allow for commercial use or customization.\n- The move follows a trend where many companies are investing in AI for drug research but face challenges in clinical trial success.\n- Over 460 AI startups are working on drug discovery, with $60 billion invested in the space so far.",
-      "keywords": [
-        "Google",
-        "AI",
-        "drug discovery",
-        "TxGemma",
-        "healthcare",
-        "machine learning",
-        "pharma",
-        "research"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-18T13:00:00.000Z"
-    },
-    {
-      "title": "Google launches new healthcare-related features for Search, Android",
-      "link": "https://techcrunch.com/2025/03/18/google-adds-new-healthcare-related-features-in-search/",
-      "author": "Ivan Mehta",
-      "thumbnail": null,
-      "summary": "• Google announced new healthcare-related features for Search, including expanded knowledge panels for health queries.\n• A new mobile feature called 'What People Suggest' highlights user-generated content about health conditions.\n• Google launched new medical records APIs globally for its Health Connect platform to streamline health data access.\n• The Pixel Watch 3 will introduce a 'Loss of Pulse Detection' feature by the end of March, pending FDA clearance.\n• Google is set to release new open AI models for drug discovery named TxGemma in the coming weeks.",
-      "keywords": [
-        "Google",
-        "healthcare",
-        "Search",
-        "AI",
-        "medical records",
-        "health data",
-        "Pixel Watch 3",
-        "drug discovery",
-        "health technology"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-18T13:00:00.000Z"
-    },
-    {
-      "title": "TurinTech reveals $20M in backing to fix problems in ‘vibe coding’",
-      "link": "https://techcrunch.com/2025/03/18/turintech-reveals-20m-in-backing-to-fix-problems-in-vibe-coding/",
-      "author": "Mike Butcher",
-      "thumbnail": null,
-      "summary": "- TurinTech has raised $20 million to launch its Artemis product at NVIDIA’s GTC event.\n- Artemis is an ‘evolutionary AI’ platform aimed at optimizing and validating enterprise codebases, addressing inefficiencies in AI-generated code.\n- The funding includes a $15 million Series A, led by Oxford Capital, with previous seed funding of $5 million.\n- AI-generated code is predicted to transform software development, with Gartner projecting that 75% of enterprise software engineers will use AI code assistants by 2028.",
-      "keywords": [
-        "AI",
-        "software development",
-        "funding",
-        "TurinTech",
-        "Artemis",
-        "vibe coding",
-        "enterprise",
-        "code optimization"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-18T12:50:00.000Z"
     }
   ]
 }
