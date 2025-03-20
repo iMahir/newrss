@@ -4,6 +4,50 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Federal judge blocks DOGE’s access to Social Security Administration’s banks of personal information",
+      "link": "https://techcrunch.com/2025/03/20/federal-judge-blocks-doges-access-to-social-security-administrations-banks-of-personal-information/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/social-security-admin-dark-night.jpg?w=1024",
+      "summary": "- A federal judge blocked Elon Musk’s Department of Government Efficiency (DOGE) from accessing the Social Security Administration’s (SSA) personal information.\n- Judge Ellen Hollander described DOGE's request as a \"fishing expedition\" without proper justification.\n- The blocked access included sensitive data such as Social Security numbers and medical records, citing violations of federal privacy laws and cybersecurity risks.",
+      "keywords": [
+        "DOGE",
+        "Social Security Administration",
+        "privacy",
+        "federal judge",
+        "Elon Musk",
+        "cybersecurity"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-20T21:13:02.000Z"
+    },
+    {
+      "title": "Apple is reportedly losing $1B per year on its streaming service",
+      "link": "https://techcrunch.com/2025/03/20/apple-is-reportedly-losing-1b-per-year-on-its-streaming-service/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/12/apple-tv-plus-logo.jpg?w=1024",
+      "summary": "- Apple is losing over $1 billion annually on its streaming service, Apple TV+.\n- The company has spent around $5 billion on content each year since 2019, which was reduced to $4.5 billion in 2024.\n- Apple TV+ has approximately 45 million subscribers, significantly fewer than competitors like Netflix, which leads with 301 million subscribers.",
+      "keywords": [
+        "Apple",
+        "streaming service",
+        "Apple TV+",
+        "financial loss",
+        "content production",
+        "subscriber count"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-20T21:11:19.000Z"
+    },
+    {
       "title": "A high schooler built a website that lets you challenge AI models to a Minecraft build-off",
       "link": "https://techcrunch.com/2025/03/20/a-high-schooler-built-a-website-that-lets-you-challenge-ai-models-to-a-minecraft-build-off/",
       "author": "Amanda Silberling",
@@ -1124,55 +1168,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-19T18:27:16.000Z"
-    },
-    {
-      "title": "Substack rival Ghost is now connected to the fediverse",
-      "link": "https://techcrunch.com/2025/03/19/substack-rival-ghost-is-now-connected-to-the-fediverse/",
-      "author": "Sarah Perez",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/activitypub-beta-1.png?w=680",
-      "summary": "- Newsletter platform [Ghost](https://ghost.org/) integrates with the fediverse, enhancing connectivity with the open social web.\n- The integration allows Ghost Pro subscribers to share and promote blog posts across federated apps like [Mastodon](https://techcrunch.com/2023/07/24/what-is-mastodon/), [Pixelfed](https://techcrunch.com/2025/01/14/decentralized-instagram-alternative-pixelfed-launches-mobile-apps/), and [Threads](https://techcrunch.com/2025/03/07/what-is-instagrams-threads-app-all-your-questions-answered/).\n- Ghost's social web beta enables users to follow accounts, interact with posts, and utilize a reader for social feeds, with a more finalized integration expected in Ghost 6.0.",
-      "keywords": [
-        "Ghost",
-        "fediverse",
-        "Substack",
-        "ActivityPub",
-        "newsletter",
-        "social web",
-        "Mastodon",
-        "integration"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-19T18:25:33.000Z"
-    },
-    {
-      "title": "A key DeepMind robotics researcher left Google and Nvidia has already backed his stealth startup",
-      "link": "https://techcrunch.com/2025/03/19/a-key-deepmind-robotics-researcher-left-google-and-nvidia-has-already-backed-his-stealth-startup/",
-      "author": "Charles Rollet",
-      "thumbnail": null,
-      "summary": "- Pete Florence, a senior researcher at DeepMind, has left Google to establish a robotics startup named [Generalist AI](https://generalistai.com/).\n- The startup has received backing from Nvidia, as announced during a panel at the GTC conference.\n- Florence aims to develop general-purpose robots, stating a desire to reduce the marginal cost of physical labor to zero.\n- Other DeepMind alumni have similarly founded companies in robotics and AI.",
-      "keywords": [
-        "DeepMind",
-        "robotics",
-        "startup",
-        "Nvidia",
-        "AI",
-        "Generalist AI",
-        "Pete Florence",
-        "investment",
-        "technology"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-19T18:12:17.000Z"
     }
   ]
 }
