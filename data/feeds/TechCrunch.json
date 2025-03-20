@@ -4,6 +4,27 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Pruna AI open sources its AI model optimization framework",
+      "link": "https://techcrunch.com/2025/03/20/pruna-ai-open-sources-its-ai-model-optimization-framework/",
+      "author": "Romain Dillet",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Pruna-AI-Co-founders.jpg",
+      "summary": "- Pruna AI has open-sourced its AI model optimization framework, which utilizes various efficiency methods like caching, pruning, quantization, and distillation.\n- Co-founder John Rachwan highlights the framework's ability to evaluate quality loss post-compression and improve model performance.\n- The framework aims to simplify the use and combination of multiple compression methods, unlike typical single-method open-source tools.\n- Pruna AI focuses on supporting image and video generation models but accommodates various model types.\n- The company has raised $6.5 million in seed funding with notable investors and offers both open-source and enterprise solutions for AI model optimization.",
+      "keywords": [
+        "Pruna AI",
+        "AI model optimization",
+        "open source",
+        "compression algorithms",
+        "AI compression methods"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-20T08:00:00.000Z"
+    },
+    {
       "title": "Evroc Raises $55M to Build Hyperscale Cloud in Europe",
       "link": "https://techcrunch.com/2025/03/20/amid-calls-for-sovereign-eu-tech-stack-evroc-raises-55m-to-build-a-hyperscale-cloud-in-europe/",
       "author": null,
@@ -239,6 +260,29 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-19T21:23:08.000Z"
+    },
+    {
+      "title": "Sequoia shutters Washington, D.C., office, lets go of policy team",
+      "link": "https://techcrunch.com/2025/03/19/sequoia-shutters-washington-d-c-office-lets-go-of-policy-team/",
+      "author": "Dominic-Madori Davis",
+      "thumbnail": null,
+      "summary": "- Sequoia will close its Washington, D.C., office and dissolve its policy team by the end of March.\n- This decision contrasts with other VC firms like Andreessen Horowitz, which are enhancing their political connections.\n- Sequoia opened its D.C. office five years ago to assist companies with regulatory matters and improve relationships with policymakers.\n- The policy team's efforts have led Sequoia to feel prepared to continue these relationships without a dedicated function.\n- The closure affects policy fellows and three full-time employees at the firm.",
+      "keywords": [
+        "Sequoia",
+        "Washington D.C. office",
+        "policy team",
+        "venture capital",
+        "regulatory issues",
+        "Capitol Hill",
+        "Trump administration"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-19T21:15:00.000Z"
     },
     {
       "title": "Sequoia shutters D.C. office, lets go of policy team",
@@ -1981,54 +2025,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-19T10:57:39.000Z"
-    },
-    {
-      "title": "Aletiq secures $6.5M for its SaaS tool focused on product lifecycle management",
-      "link": "https://techcrunch.com/2025/03/19/aletiq-secures-65m-for-its-saas-tool-focused-on-product-lifecycle-management/",
-      "author": "Romain Dillet",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Aletiq.png",
-      "summary": "- Aletiq has secured €6 million ($6.5 million) in funding led by Point Nine.\n- The startup focuses on developing SaaS-based product lifecycle management (PLM) software for industrial sectors like aerospace and automotive.\n- Aletiq aims to provide an intuitive and quickly deployable solution, differentiating itself from existing complex PLM systems.",
-      "keywords": [
-        "Aletiq",
-        "funding",
-        "SaaS",
-        "product lifecycle management",
-        "PLM",
-        "startup",
-        "industrial companies",
-        "Point Nine"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-19T10:36:55.000Z"
-    },
-    {
-      "title": "Factorial, a HR unicorn, snaps up $120M from General Catalyst to boost sales and marketing",
-      "link": "https://techcrunch.com/2025/03/19/factorial-snaps-up-120m-from-general-catalyst-to-boost-its-hr-sales-and-marketing/",
-      "author": "Ingrid Lunden",
-      "thumbnail": null,
-      "summary": "- Factorial, based in Barcelona, raised $120 million from General Catalyst for sales and marketing initiatives.\n- The company experienced significant growth, with 13,000 paying businesses and sixfold revenue increase over the past year.\n- This funding is a non-dilutive loan from General Catalyst's Customer Value fund, intended to help boost Factorial's go-to-market strategy, not an equity investment.\n- The funds come amid legal challenges in the HR sector, specifically involving competitors Deel and Rippling.\n- Factorial has previously raised $200 million from General Catalyst under similar non-dilutive terms, indicating strong investor interest in its growth potential.",
-      "keywords": [
-        "Factorial",
-        "HR",
-        "General Catalyst",
-        "fundraising",
-        "startups",
-        "sales",
-        "marketing",
-        "non-dilutive loan"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-19T08:18:20.000Z"
     }
   ]
 }
