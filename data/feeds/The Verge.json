@@ -4,6 +4,27 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Bluetti’s Handsfree 1 is the solar backpack I love hating",
+      "link": "https://www.theverge.com/reviews/633112/bluetti-handfree-backpack-review-solar-battery-price-specs",
+      "author": "Thomas Ricker",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/IMG_7071.jpeg?quality=90&strip=all&crop=0%2C5.5555555555556%2C100%2C88.888888888889&w=2400",
+      "summary": "- The Bluetti Handsfree 1 Backpack costs $349 and combines a 42L backpack with a 268.8Wh solar generator.\n- The backpack can recharge with up to 200W of solar power and has multiple USB and AC ports for powering devices.\n- Weighing 5kg (11 pounds), it is designed to carry a full remote office setup but is criticized for its bulky and unattractive design.\n- The Good: Powers entire remote office setups, rechargeable with solar, affordable.\n- The Bad: Unattractive design, heavy when full, lacks waterproofing.\n- The backpack supports loads up to 30kg (66 pounds) with adjustable weight distribution features.",
+      "keywords": [
+        "Bluetti",
+        "solar backpack",
+        "Handsfree 1",
+        "review",
+        "portable power"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-03-20T09:12:59.000Z"
+    },
+    {
       "title": "Meta AI is Rolling Out in Europe After Delay",
       "link": "https://www.theverge.com/news/632876/meta-ai-europe-whatsapp-facebook-instagram-rollout",
       "author": "Emma Roth",
@@ -1155,29 +1176,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-03-18T22:13:27.000Z"
-    },
-    {
-      "title": "All the news about Nvidia’s RTX 50-series GPUs",
-      "link": "https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors",
-      "author": "Verge Staff",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/0007835275_20.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-      "summary": "- Nvidia updates its Game Ready GPU driver to 572.83, enhancing support for DLSS 4 features in over 100 games.\n- A demo for Half-Life 2 RTX Remix launches on March 18, 2025, showcasing RTX 50's capabilities with advanced features.\n- Nvidia denies reports of missing ROPs in RTX 50 laptop GPUs while acknowledging issues in some desktop GPUs causing performance losses.\n- Nvidia admits early RTX 5080 cards had manufacturing issues related to render units, inviting affected users to seek replacements.\n- A hotfix is in development to address black screen issues for RTX graphics card owners.",
-      "keywords": [
-        "Nvidia",
-        "RTX 50-series",
-        "DLSS 4",
-        "graphics cards",
-        "GPU",
-        "hardware issues",
-        "Half-Life 2 RTX"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-18T22:00:20.000Z"
     }
   ]
 }
