@@ -1,5 +1,368 @@
 [
   {
+    "title": "Anthropic adds web search to its Claude chatbot",
+    "id": "1ojujsu0vjy33r",
+    "summary": "- Anthropic's AI chatbot Claude can now perform web searches, a previously unavailable feature.\n- Web search is currently in preview for paid users in the U.S.; support for free users and additional countries will follow.\n- Users can enable web search in their profile settings from the Claude web app, which will provide direct citations for information.\n- This feature allows Claude to offer answers based on real-time insights, positioning it on par with competitors like ChatGPT, Google’s Gemini, and others.\n- There are risks involved, such as the potential for hallucinations or incorrect citations from web sources, which is a common issue among chatbots.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "Anthropic",
+      "Claude",
+      "web search",
+      "AI chatbot",
+      "real-time insights",
+      "ChatGPT",
+      "Gemini",
+      "technology news"
+    ],
+    "sources": [
+      {
+        "title": "Anthropic adds web search to its Claude chatbot",
+        "link": "https://techcrunch.com/2025/03/20/anthropic-adds-web-search-to-its-claude-chatbot/"
+      }
+    ],
+    "lastUpdated": "2025-03-20T17:12:42.332Z"
+  },
+  {
+    "title": "Threads Introduces New Features Amid AI Content Concerns on Facebook",
+    "id": "0qp4y721kzzkv3",
+    "summary": "- A Meta executive raised concerns about AI-generated profiles on Facebook.\n- Users reported an increase in AI-generated posts with strange imagery and narratives.\n- Authenticity of interactions is questioned as many comments seem directed at AI personas.\n- Users are concerned about AI content cluttering feeds and blurring lines between real and AI posts.\n- Ongoing debate about prioritizing real user presence over AI integration.\n- Threads is testing an 'interests' feature to enhance user engagement and discussions, currently in mobile testing.\n- The update aims to attract new users and boost engagement by offering customizable feeds.\n- Users can now set following or custom feeds as their default option as part of the update.\n- Additional features include limiting replies to followers and a better video player. \n- Custom feed options started rolling out after user feedback since Threads' launch in December 2023.",
+    "thumbnails": [
+      "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024,h_1024/wp-cms-2/2025/03/p-1-91289861-facebooks-ai-hellscape-is-already-here.jpg",
+      "https://techcrunch.com/wp-content/uploads/2025/03/threads-interests.webp?w=680",
+      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197777/profilephoto.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
+    ],
+    "scores": {
+      "scale": 6,
+      "impact": 7.25,
+      "novelty": 5.5,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "facebook",
+      "ai",
+      "social media",
+      "meta",
+      "technology",
+      "user engagement",
+      "profiles",
+      "digital content",
+      "threads",
+      "interests",
+      "bluesky",
+      "custom feeds",
+      "video player"
+    ],
+    "sources": [
+      {
+        "title": "Facebook’s AI slop hellscape is already here",
+        "link": "https://www.fastcompany.com/91289861/facebook-ai-slop?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
+      },
+      {
+        "title": "Threads tests adding ‘interests’ on profiles to connect users with topical discussions",
+        "link": "https://techcrunch.com/2025/03/07/threads-tests-adding-interests-on-profiles-to-connect-users-with-topical-discussions/"
+      },
+      {
+        "title": "Threads finally lets you set the following feed as default",
+        "link": "https://www.theverge.com/news/633135/threads-limit-replies-followers-custom-feed-default"
+      }
+    ],
+    "lastUpdated": "2025-03-20T17:12:42.331Z"
+  },
+  {
+    "title": "OpenAI upgrades its transcription and voice-generating AI models",
+    "id": "0zkhx5q11xyq2k",
+    "summary": "- OpenAI introduces new transcription and voice-generating models, enhancing its API capabilities.\n- The text-to-speech model, gpt-4o-mini-tts, enables developers to customize the tone and style of speech.\n- New speech-to-text models, gpt-4o-transcribe and gpt-4o-mini-transcribe, replace the older Whisper model, providing improved accuracy, especially in noisy environments.\n- OpenAI won’t release the new models for open use, stating they are larger and necessitate careful consideration for an open-source release.\n- Internal benchmarks show the new transcription models struggle with certain languages, obtaining a word error rate of nearly 30% for languages like Tamil and Telugu.",
+    "thumbnails": [
+      "https://techcrunch.com/wp-content/uploads/2025/03/Screenshot-2025-03-20-at-12.03.12AM.png?w=680"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "OpenAI",
+      "transcription",
+      "voice-generating AI",
+      "gpt-4o-mini-tts",
+      "gpt-4o-transcribe",
+      "AI models",
+      "speech recognition",
+      "voice synthesis",
+      "machine learning"
+    ],
+    "sources": [
+      {
+        "title": "OpenAI upgrades its transcription and voice-generating AI models",
+        "link": "https://techcrunch.com/2025/03/20/openai-upgrades-its-transcription-and-voice-generating-ai-models/"
+      }
+    ],
+    "lastUpdated": "2025-03-20T17:12:42.331Z"
+  },
+  {
+    "title": "Threads adds new features to highlight topics and limit replies",
+    "id": "0aluk4b1t14roi",
+    "summary": "- Meta's Threads rolls out new features to enhance user engagement and content relevance.\n- Users can now add up to 10 topics of interest to their profiles for better post suggestions.\n- New reply controls allow only followers to respond to specific posts, building on quote control features launched previously.\n- Redesigned topic tags introduced for easier navigation of interest-based content.\n- Enhanced video playback features include a more user-friendly player with better control options.\n- Meta is reintroducing political content suggestions based on user preferences after a previous halt.",
+    "thumbnails": [
+      "https://techcrunch.com/wp-content/uploads/2025/03/Threads-topics.jpg?w=680"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 7,
+      "novelty": 6,
+      "longTermSignificance": 5
+    },
+    "keywords": [
+      "Threads",
+      "Meta",
+      "social network",
+      "features",
+      "user engagement",
+      "political content"
+    ],
+    "sources": [
+      {
+        "title": "Threads adds new features to highlight topics and limit replies",
+        "link": "https://techcrunch.com/2025/03/20/threads-adds-new-features-to-highlight-topics-and-limit-replies/"
+      }
+    ],
+    "lastUpdated": "2025-03-20T17:12:42.331Z"
+  },
+  {
+    "title": "Apple Puts Vision Pro Leader in Charge of Siri Amid AI Challenges",
+    "id": "0qxivqc192zt60",
+    "summary": "- Apple claims to have transformed Siri into an AI-powered helper but it is currently non-existent.\n- Siri was promoted as a flagship feature of the iPhone 16 lineup, leading to consumer disappointment.\n- The Vergecast discusses the failures of Siri and the gadget industry’s excessive focus on AI without delivering quality products.\n- Apple is replacing John Giannandrea as head of Siri and AI with Mike Rockwell, following Tim Cook's loss of confidence in Giannandrea’s leadership.\n- Apple has delayed generative AI upgrades for Siri, now expected to launch next year.\n- Paule Meade will take over as head of the Vision Pro Group after Rockwell's promotion.",
+    "thumbnails": [
+      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195807/DAVID_PIERCE.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "siri",
+      "apple",
+      "ai",
+      "gadget industry",
+      "tesla",
+      "elon musk",
+      "vergecast",
+      "mike rockwell",
+      "john giannandrea",
+      "vision pro",
+      "technology"
+    ],
+    "sources": [
+      {
+        "title": "The fake promise of better Siri",
+        "link": "https://www.theverge.com/the-vergecast/629652/siri-delay-bad-apple-tesla-trump-vergecast"
+      },
+      {
+        "title": "Apple puts the Vision Pro guy in charge of Siri",
+        "link": "https://www.theverge.com/news/633358/apple-replace-siri-leader-john-giannandrea"
+      }
+    ],
+    "lastUpdated": "2025-03-20T17:12:42.330Z"
+  },
+  {
+    "title": "Bluesky makes it easier for publishers to track referrals",
+    "id": "12v6vfj05swumi",
+    "summary": "- Bluesky has introduced a change to help publishers track referral traffic from posts on its platform.\n- Links shared on Bluesky now pass through the “go” subdomain, allowing publishers to easily identify traffic coming from there.\n- Reports show increased referral traffic from Bluesky, surpassing that from platforms like Threads and X for some publishers.\n- Major news outlets like The Boston Globe and The Guardian have reported significant traffic increases from Bluesky.\n- Bluesky’s approach allows better visibility for links, contrasting with other platforms that de-promote shared links.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "Bluesky",
+      "referral traffic",
+      "publishers",
+      "social media",
+      "news",
+      "analytics"
+    ],
+    "sources": [
+      {
+        "title": "Bluesky makes it easier for publishers to track referrals",
+        "link": "https://techcrunch.com/2025/03/20/bluesky-makes-it-easier-for-publishers-to-track-referrals/"
+      }
+    ],
+    "lastUpdated": "2025-03-20T17:12:42.330Z"
+  },
+  {
+    "title": "Rerun’s open-source AI platform for robots, drones and cars revs up with $17M seed",
+    "id": "0snuspb0usgymz",
+    "summary": "- Rerun, a Stockholm-based startup, secured $17 million in seed funding for its open-source platform designed for 'Physical AI'.\n- The funding round was led by Point Nine capital, increasing total funding to $20.2 million.\n- Rerun's platform manages multimodal data including video, 3D scenes, and more to aid AI in physical environments, addressing issues between AI and physical data integration.\n- Its tools enable better debugging by allowing developers to visualize bot movements and data from real-world sensors.\n- The company aims to create a 'data flywheel' for improved AI training outcomes as more robots are deployed.\n- Rerun's visualizations have been utilized in projects by Meta, Google, and Hugging Face, among others.\n- The startup's team includes veterans from major tech companies like Apple, AWS, and Unity, focusing on specialized tools for AI developers.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "Open-source",
+      "AI",
+      "Funding",
+      "Robots",
+      "Drones",
+      "Startup",
+      "Tech",
+      "Physical AI"
+    ],
+    "sources": [
+      {
+        "title": "Rerun’s open-source AI platform for robots, drones and cars revs up with $17M seed",
+        "link": "https://techcrunch.com/2025/03/20/reruns-open-source-ai-platform-for-robots-drones-and-cars-revs-up-with-17m-seed/"
+      }
+    ],
+    "lastUpdated": "2025-03-20T17:12:42.330Z"
+  },
+  {
+    "title": "Nvidia thinks AI can solve electrical grid problems caused by AI",
+    "id": "1ifqoha0yy09h5",
+    "summary": "- Nvidia is partnering with EPRI to use AI for addressing electrical grid challenges caused by increased power demand from AI.\n- The Open Power AI Consortium will deploy domain-specific AI models and make them open source for research purposes.\n- Electricity demand is expected to rise by 4% annually, almost doubling from 2023 figures, largely driven by data center needs.\n- The consortium includes major players like PG&E, Con Edison, Microsoft, and Oracle, focusing on renewable energy solutions.\n- New strategies, such as load shifting during peak demands, could potentially unlock an additional 76 GW of capacity in the U.S.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "Nvidia",
+      "EPRI",
+      "AI",
+      "electrical grid",
+      "renewable energy",
+      "data centers",
+      "power demand",
+      "Open Power AI Consortium"
+    ],
+    "sources": [
+      {
+        "title": "Nvidia thinks AI can solve electrical grid problems caused by AI",
+        "link": "https://techcrunch.com/2025/03/20/nvidia-thinks-ai-can-solve-electrical-grid-problems-caused-by-ai/"
+      }
+    ],
+    "lastUpdated": "2025-03-20T17:12:42.329Z"
+  },
+  {
+    "title": "X sues India over ‘unrestrained censorship’",
+    "id": "176ove41un3qyi",
+    "summary": "- Elon Musk-owned X is suing the Indian government for unlawfully expanding its powers to remove online content.\n- The lawsuit follows prior government orders to remove content, which X complied with despite filing a legal challenge.\n- X accuses the government of creating an unlawful mechanism for removing content that bypasses legal safeguards.\n- The company seeks to quash the directive amid ongoing state censorship efforts.\n- A court hearing was held earlier this month; another is expected next week in Karnataka's High Court.",
+    "thumbnails": [
+      "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-2.jpg?w=1024"
+    ],
+    "scores": {
+      "scale": 8,
+      "impact": 9,
+      "novelty": 7,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "X",
+      "India",
+      "censorship",
+      "lawsuit",
+      "Elon Musk",
+      "social media",
+      "content removal",
+      "legal challenge"
+    ],
+    "sources": [
+      {
+        "title": "X sues India over ‘unrestrained censorship’",
+        "link": "https://techcrunch.com/2025/03/20/x-sues-india-over-unrestrained-censorship/"
+      }
+    ],
+    "lastUpdated": "2025-03-20T17:12:42.329Z"
+  },
+  {
+    "title": "One of Tesla’s top Wall Street supporters says Elon Musk faces a ‘moment of truth’",
+    "id": "135t7vx1tv614m",
+    "summary": "- Analyst Dan Ives from Wedbush warns Elon Musk is facing a 'moment of truth' due to a crisis created by his political involvement, particularly with DOGE.\n- Ives expressed concern over Tesla's stock price, which has dropped to around $230, less than half of its peak.\n- Calls for Musk to balance his roles at DOGE and Tesla, and to provide a clearer roadmap for new affordable models and robotaxi services.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 8,
+      "impact": 7,
+      "novelty": 6,
+      "longTermSignificance": 5
+    },
+    "keywords": [
+      "Tesla",
+      "Elon Musk",
+      "Dan Ives",
+      "Wedbush",
+      "DOGE",
+      "stock price",
+      "investor concerns",
+      "political involvement"
+    ],
+    "sources": [
+      {
+        "title": "One of Tesla’s top Wall Street supporters says Elon Musk faces a ‘moment of truth’",
+        "link": "https://techcrunch.com/2025/03/20/one-of-teslas-top-wall-street-supporters-says-elon-musk-faces-a-moment-of-truth/"
+      }
+    ],
+    "lastUpdated": "2025-03-20T17:12:42.328Z"
+  },
+  {
+    "title": "Nvidia Unveils RTX Pro 6000 GPU and Vera Rubin Platform for AI Advancements",
+    "id": "18yw89e1rct11e",
+    "summary": "- Nvidia announces the RTX Pro Blackwell series of GPUs, including the RTX Pro 6000 for workstations.\n- RTX Pro 6000 features 96GB of GDDR7 memory and requires 600W of power.\n- It supports PCIe Gen 5 and DisplayPort 2.1, with enhanced RT cores and Tensor cores.\n- Designed for professionals in game development and AI workloads, with variants in Max-Q and server editions.\n- Pricing for the RTX Pro 6000 is not yet set; it will be available in April through partners like [PNY](https://www.theverge.com/news/631868/nvidia-rtx-pro-6000-blackwell-gpu-professionals) and [TD Synnex](https://www.theverge.com/news/631868/nvidia-rtx-pro-6000-blackwell-gpu-professionals), with manufacturer availability in May.\n- Cloud service providers will offer the server variant later this year, with the rest of the RTX Pro Blackwell lineup available in summer.\n\n- Nvidia CEO Jensen Huang introduced the new Vera Rubin platform at the GTC developer event in San Jose.\n- The platform includes Nvidia’s first custom-designed CPU, “Vera,” and two new “Rubin” GPUs, doubling inference performance compared to last year’s Blackwell.\n- Huang noted a growing demand for rapid data processing in AI inference, stating that the computation needed is 100 times more than previously anticipated.\n- Nvidia also announced Blackwell Ultra, a more powerful GPU expected to launch in the second half of 2025.\n- Project Digits will launch summer 2025 with versions for developers to run AI models more efficiently.\n- A new family of open-source reasoning models called Nemotron was introduced, optimized for enterprise tasks.",
+    "thumbnails": [
+      "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/NVIDIA-RTX-PRO-6000-Blackwell-_2.jpg?quality=90&strip=all&crop=0%2C0.81018518518518%2C100%2C98.37962962963&w=2400"
+    ],
+    "scores": {
+      "scale": 8,
+      "impact": 9,
+      "novelty": 7,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "nvidia",
+      "rtx pro 6000",
+      "gpu",
+      "blackwell",
+      "workstations",
+      "96gb vram",
+      "600w power",
+      "ai",
+      "game development",
+      "real-time reasoning",
+      "jensen huang",
+      "vera rubin",
+      "cpu",
+      "inference performance",
+      "project digits",
+      "nemotron"
+    ],
+    "sources": [
+      {
+        "title": "Nvidia’s RTX Pro 6000 has 96GB of VRAM and 600W of power",
+        "link": "https://www.theverge.com/news/631868/nvidia-rtx-pro-6000-blackwell-gpu-professionals"
+      },
+      {
+        "title": "Nvidia’s Vera Rubin represents a big bet on real-time AI reasoning",
+        "link": "https://www.fastcompany.com/91302325/nvidias-vera-rubin-represents-a-big-bet-on-real-time-ai-reasoning?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
+      }
+    ],
+    "lastUpdated": "2025-03-20T17:12:42.327Z"
+  },
+  {
     "title": "Hackers are ramping up attacks using year-old ServiceNow security bugs to target unpatched systems",
     "id": "09kmz4o087hvzf",
     "summary": "- Hackers exploiting three ServiceNow vulnerabilities (CVE-2024-4879, CVE-2024-5178, CVE-2024-5217).\n- Vulnerabilities disclosed in May 2024 and patched in July 2024.\n- 70% of recent activity targeted systems in Israel; also observed in Germany, Japan, and Lithuania.\n- Vulnerabilities can provide full database access to ServiceNow instances.\n- ServiceNow reports no observed customer impact from attacks.\n- Targeted sectors include private companies and government agencies worldwide.",
@@ -8449,38 +8812,6 @@
       }
     ],
     "lastUpdated": "2025-03-18T20:13:51.039Z"
-  },
-  {
-    "title": "Nvidia’s RTX Pro 6000 has 96GB of VRAM and 600W of power",
-    "id": "18yw89e1rct11e",
-    "summary": "- Nvidia announces the RTX Pro Blackwell series of GPUs, including the RTX Pro 6000 for workstations.\n- RTX Pro 6000 features 96GB of GDDR7 memory and requires 600W of power.\n- It supports PCIe Gen 5 and DisplayPort 2.1, with enhanced RT cores and Tensor cores.\n- Designed for professionals in game development and AI workloads, with variants in Max-Q and server editions.\n- Pricing for the RTX Pro 6000 is not yet set; it will be available in April through partners like PNY and TD Synnex, with manufacturer availability in May.\n- Cloud service providers will offer the server variant later this year, with the rest of the RTX Pro Blackwell lineup available in summer.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/NVIDIA-RTX-PRO-6000-Blackwell-_2.jpg?quality=90&strip=all&crop=0%2C0.81018518518518%2C100%2C98.37962962963&w=2400"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 9,
-      "novelty": 7,
-      "longTermSignificance": 8
-    },
-    "keywords": [
-      "Nvidia",
-      "RTX Pro 6000",
-      "GPU",
-      "Blackwell",
-      "workstations",
-      "96GB VRAM",
-      "600W power",
-      "AI",
-      "game development"
-    ],
-    "sources": [
-      {
-        "title": "Nvidia’s RTX Pro 6000 has 96GB of VRAM and 600W of power",
-        "link": "https://www.theverge.com/news/631868/nvidia-rtx-pro-6000-blackwell-gpu-professionals"
-      }
-    ],
-    "lastUpdated": "2025-03-18T20:13:51.038Z"
   },
   {
     "title": "JD Vance tries to mend the MAGA-Tech divide",
@@ -18959,36 +19290,6 @@
       {
         "title": "Developer of Lockbit ransomware gets extradited to the United States",
         "link": "https://techcrunch.com/2025/03/14/developer-of-lockbit-ransomware-gets-extradited-to-the-united-states/"
-      }
-    ],
-    "lastUpdated": "2025-03-14T14:12:51.976Z"
-  },
-  {
-    "title": "The fake promise of better Siri",
-    "id": "0qxivqc192zt60",
-    "summary": "- Apple claims to have transformed Siri into an AI-powered helper but it is currently non-existent.\n- Siri was promoted as a flagship feature of the iPhone 16 lineup, which has led to consumer disappointment.\n- The Vergecast episode discusses the failures of Siri and the gadget industry’s excessive focus on AI without delivering quality products.\n- Also features a discussion on Tesla's political implications and challenges faced by the brand under Elon Musk’s influence.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195807/DAVID_PIERCE.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 5
-    },
-    "keywords": [
-      "Siri",
-      "Apple",
-      "AI",
-      "gadget industry",
-      "Tesla",
-      "Elon Musk",
-      "Vergecast"
-    ],
-    "sources": [
-      {
-        "title": "The fake promise of better Siri",
-        "link": "https://www.theverge.com/the-vergecast/629652/siri-delay-bad-apple-tesla-trump-vergecast"
       }
     ],
     "lastUpdated": "2025-03-14T14:12:51.976Z"
@@ -34828,46 +35129,6 @@
     "lastUpdated": "2025-03-07T20:13:13.069Z"
   },
   {
-    "title": "Threads Tests New Interests Feature and Concerns Over AI Content on Facebook",
-    "id": "0qp4y721kzzkv3",
-    "summary": "- A Meta executive suggested that AI-generated profiles could mimic real accounts on Facebook.\n- Users report a rise in AI-generated posts featuring odd imagery and narratives, leading to unusual engagement.\n- The authenticity of user interactions is being questioned as many comments appear directed at AI personas.\n- Users are worried about AI-generated content cluttering their feeds, causing confusion between real and AI-generated posts.\n- There is a debate on whether Meta should focus on real user presence over introducing AI members.\n- Meta’s Threads is currently testing a feature that allows users to add interests to their profiles.\n- This feature aims to help users find topical discussions more easily and currently in mobile testing.\n- The update is intended to boost user engagement and attract new users to Threads.\n- Threads is competing with platforms like Bluesky by offering personalized features like interests and custom feeds.",
-    "thumbnails": [
-      "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024,h_1024/wp-cms-2/2025/03/p-1-91289861-facebooks-ai-hellscape-is-already-here.jpg",
-      "https://techcrunch.com/wp-content/uploads/2025/03/threads-interests.webp?w=680"
-    ],
-    "scores": {
-      "scale": 6,
-      "impact": 6.5,
-      "novelty": 5,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "facebook",
-      "ai",
-      "social media",
-      "meta",
-      "technology",
-      "user engagement",
-      "profiles",
-      "digital content",
-      "threads",
-      "interests",
-      "bluesky",
-      "custom feeds"
-    ],
-    "sources": [
-      {
-        "title": "Facebook’s AI slop hellscape is already here",
-        "link": "https://www.fastcompany.com/91289861/facebook-ai-slop?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
-      },
-      {
-        "title": "Threads tests adding ‘interests’ on profiles to connect users with topical discussions",
-        "link": "https://techcrunch.com/2025/03/07/threads-tests-adding-interests-on-profiles-to-connect-users-with-topical-discussions/"
-      }
-    ],
-    "lastUpdated": "2025-03-07T20:13:13.068Z"
-  },
-  {
     "title": "Instagram Threads App: Key Features and Updates",
     "id": "172oz750770b8d",
     "summary": "- Instagram launched its Twitter competitor, Threads, on July 6, 2023.\n- Threads allows users to share custom feeds, with options to pin favorite topics or accounts.\n- The platform is testing ads, with initial ads appearing in user feeds in the US and Japan.\n- Users can now schedule posts up to 75 days in advance, improving content planning.\n- A new feature lets users reshare media without quoting the original post, crediting the creator instead.\n- Threads is requesting user feedback on its content moderation policies.\n- Threads is tied to Instagram accounts and saw rapid growth, hitting over 100 million users in five days.\n- Currently lacks features like direct messages and long videos, but allows posts of up to 500 characters.\n- As of November 2024, Threads has over 275 million monthly active users.\n- Not available in the EU until December 2023 due to privacy concerns, with browsing options without an account.\n- Users can customize their experience and have limitations due to spam attacks.\n- API launched in June 2024 aims to facilitate developer tools but has limitations.\n- Threads partially integrates with the fediverse, allowing users to share posts and follow others from compatible networks.",
@@ -37983,160 +38244,5 @@
       }
     ],
     "lastUpdated": "2025-03-06T18:16:00.362Z"
-  },
-  {
-    "title": "OpenAI’s ex-policy lead criticizes the company for ‘rewriting’ its AI safety history",
-    "id": "04pcdtg0espu4j",
-    "summary": "- Miles Brundage, ex-OpenAI policy researcher, criticized OpenAI for altering its AI safety history.\n- OpenAI recently released a document outlining its philosophy on AI safety, emphasizing iterative deployment.\n- Brundage argued that the release of GPT-2 was consistent with cautious deployment, contrary to OpenAI's claims.\n- He expressed concern that the new document demonstrates a dangerous mentality towards safety in AI systems.\n- Competitive pressures and financial losses could lead OpenAI to prioritize speed over safety in its product releases.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "OpenAI",
-      "AI safety",
-      "Miles Brundage",
-      "GPT-2",
-      "AI ethics",
-      "iterative deployment",
-      "technology competition",
-      "DeepSeek",
-      "AGI"
-    ],
-    "sources": [
-      {
-        "title": "OpenAI’s ex-policy lead criticizes the company for ‘rewriting’ its AI safety history",
-        "link": "https://techcrunch.com/2025/03/06/openais-ex-policy-lead-criticizes-the-company-for-rewriting-its-ai-safety-history/"
-      }
-    ],
-    "lastUpdated": "2025-03-06T17:11:37.935Z"
-  },
-  {
-    "title": "What went wrong with Skype? + Microsoft to shut down Skype in 2025, shifts focus to Teams",
-    "id": "1k778me1v26zk1",
-    "summary": "- Microsoft will discontinue Skype in May 2025, transitioning users to Teams.\n- Daily Skype users decreased from 300 million in 2016 to 36 million in 2023.\n- Teams now boasts 320 million monthly users, bolstered by AI features.\n- Microsoft acquired Skype for $8.5 billion in 2011 but failed to maintain its relevance, especially during the pandemic when users shifted to Zoom.\n- Skype was once popular, with over 41 million concurrent users in 2012, but mismanagement and integration challenges with Microsoft led to a decline.\n- Microsoft's focus shifted to Teams, set to replace Skype in May 2025, as Teams has become more central to its communications strategy despite ongoing user complaints.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/01/1738221439_shutterstock_2519856553-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 7,
-      "novelty": 5,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "microsoft",
-      "skype",
-      "teams",
-      "workplace communication",
-      "artificial intelligence",
-      "acquisition",
-      "communication tools",
-      "zoom",
-      "technology",
-      "communication"
-    ],
-    "sources": [
-      {
-        "title": "Microsoft to shut down Skype in 2025, shifts focus to Teams",
-        "link": "https://www.techinasia.com/news/microsoft-to-shut-down-skype-in-2025-shifts-focus-to-teams"
-      },
-      {
-        "title": "What went wrong with Skype?",
-        "link": "https://www.theverge.com/notepad-microsoft-newsletter/625180/skype-retirement-end-of-support-may-microsoft-notepad"
-      }
-    ],
-    "lastUpdated": "2025-03-06T17:11:37.933Z"
-  },
-  {
-    "title": "Intangible AI, a no-code 3D creation tool for filmmakers and game designers, raises $4M",
-    "id": "09y7cpc0ay63mx",
-    "summary": "- Intangible AI has raised $4 million in seed funding for its AI-powered 3D creation tool, targeting filmmakers, game designers, and everyday users.\n- The tool allows users to create 3D concepts with text prompts, without the need for coding.\n- It is set to officially launch in June, offering both free and paid subscription tiers ranging from $15 to $50 per month.\n- The company is co-founded by Charles Migos, a former Apple designer, and Bharat Vasan, an entrepreneur previously with Basis.\n- Their product currently in closed beta has attracted interest from numerous creatives, including major film and gaming studios.\n- Funding will support product development and hiring, aiming to double the team size this year.",
-    "thumbnails": [
-      "https://techcrunch.com/wp-content/uploads/2025/03/Intangible-AI-GIF.gif?w=640"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "AI",
-      "3D creation",
-      "no-code",
-      "filmmakers",
-      "game designers",
-      "seed funding",
-      "Intangible AI"
-    ],
-    "sources": [
-      {
-        "title": "Intangible AI, a no-code 3D creation tool for filmmakers and game designers, raises $4M",
-        "link": "https://techcrunch.com/2025/03/06/intangible-ai-a-no-code-3d-creation-tool-for-filmmakers-and-game-designers-raises-4m/"
-      }
-    ],
-    "lastUpdated": "2025-03-06T17:11:37.933Z"
-  },
-  {
-    "title": "DuckDuckGo leans further into GenAI as its AI chat interface exits beta",
-    "id": "0qs08dd15drtp2",
-    "summary": "- DuckDuckGo is expanding its generative AI capabilities with the launch of Duck.ai, now out of beta.\n- Users can access AI models from Anthropic, OpenAI, and Meta through a chatbot interface.\n- The service features daily query limits, with plans for a paid option for more extensive AI chat capabilities.\n- DuckDuckGo's search engine now includes AI-assisted answers, appearing over 20% of the time if opted for frequently.\n- Users can control the level of AI responses, with options like 'sometimes,' 'often,' 'on-demand,' and 'never.'\n- Notably, DuckDuckGo promises privacy, allowing use of AI models without tracking or account creation.\n- The service allows seamless switching between chat and traditional search results with an easy-to-use chat button.",
-    "thumbnails": [
-      "https://techcrunch.com/wp-content/uploads/2025/03/Screenshot-2025-03-06-at-16.21.39.png?w=680"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 7,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "DuckDuckGo",
-      "Generative AI",
-      "Duck.ai",
-      "AI chat interface",
-      "Privacy",
-      "Search engine"
-    ],
-    "sources": [
-      {
-        "title": "DuckDuckGo leans further into GenAI as its AI chat interface exits beta",
-        "link": "https://techcrunch.com/2025/03/06/duckduckgo-leans-further-into-genai-as-its-ai-chat-interface-exits-beta/"
-      }
-    ],
-    "lastUpdated": "2025-03-06T17:11:37.932Z"
-  },
-  {
-    "title": "Why VCs ghost founders, or reject deals and never speak to the founder again",
-    "id": "01ogi970c64jqe",
-    "summary": "- Ghosting by VCs signifies a lack of interest in a founder's pitch.\n- Time constraints and increased volume of pitches lead to less communication from VCs.\n- Red flags that may lead to rejection include unrealistic expectations, visible team issues, and dishonesty.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 6,
-      "novelty": 5,
-      "longTermSignificance": 4
-    },
-    "keywords": [
-      "VCs",
-      "founders",
-      "ghosting",
-      "investing",
-      "rejection",
-      "startup funding",
-      "red flags",
-      "founder behavior"
-    ],
-    "sources": [
-      {
-        "title": "Why VCs ghost founders, or reject deals and never speak to the founder again",
-        "link": "https://techcrunch.com/2025/03/06/why-vcs-ghost-founders-or-reject-deals-and-never-speak-to-the-founder-again/"
-      }
-    ],
-    "lastUpdated": "2025-03-06T17:11:37.932Z"
   }
 ]
