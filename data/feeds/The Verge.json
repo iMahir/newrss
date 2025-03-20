@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Honda and Acura EV owners will get Tesla Supercharger access this summer",
+      "link": "https://www.theverge.com/news/633372/honda-prologue-acura-zdx-tesla-supercharger",
+      "author": "Umar Shakir",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195848/UMAR_SHAKIR.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "[Honda and Acura EV owners will gain access to over 20,000 Tesla Superchargers in June for the Prologue and ZDX models.]\n[New charging adapters will be available for purchase to connect CCS1 ports to Tesla's NACS.]\n[Honda has not announced free adapters, unlike competitors Ford and Hyundai, but charging is still possible at Superchargers with Magic Dock capabilities.]",
+      "keywords": [
+        "Honda",
+        "Acura",
+        "Tesla",
+        "Supercharger",
+        "EV",
+        "NACS",
+        "charging adapters"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-20T17:18:37.000Z"
+    },
+    {
       "title": "Threads finally lets you set the following feed as default",
       "link": "https://www.theverge.com/news/633135/threads-limit-replies-followers-custom-feed-default",
       "author": "Tom Warren",
@@ -1134,32 +1157,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-19T15:12:50.000Z"
-    },
-    {
-      "title": "Razer launches new Wyvrn game dev platform with automated AI bug tester",
-      "link": "https://www.theverge.com/news/632121/razer-wyvrn-developer-ai-qa-gamer-copilot-sensa-haptics-thx",
-      "author": "Antonio G. Di Benedetto",
-      "thumbnail": null,
-      "summary": "- Razer introduces the Wyvrn developer platform featuring tools like AI QA Copilot for game testing and AI Gamer Copilot for real-time in-game tips.\n- AI QA Copilot is a cloud-based plug-in designed to enhance quality assurance by automatically identifying bugs and optimizing testing time and costs.\n- The platform also integrates Razer's Chroma RGB, THX Spatial Audio Plus, and Sensa HD Haptics software, with a partnership planned with Side for QA integration.",
-      "keywords": [
-        "Razer",
-        "Wyvrn",
-        "AI",
-        "game development",
-        "quality assurance",
-        "AI QA Copilot",
-        "AI Gamer Copilot",
-        "haptics",
-        "game testing",
-        "THX Spatial Audio"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-19T15:00:00.000Z"
     }
   ]
 }
