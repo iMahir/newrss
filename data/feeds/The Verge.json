@@ -4,6 +4,50 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Discord is bringing mobile ads to its platform",
+      "link": "https://www.theverge.com/news/633166/discord-mobile-video-ads-quests-ipo",
+      "author": "Jess Weatherbed",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195820/JESSICA_WEATHERBED.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "* Discord will launch a mobile pilot for Video Quests in June 2025.\n* Users can earn rewards by watching ads, which will appear as a Quest bar at the bottom of the screen.\n* Discord had previously been ad-free and relied on subscriptions for revenue.\n* This rollout follows earlier tests and comes amid rumors of an upcoming IPO.",
+      "keywords": [
+        "Discord",
+        "mobile ads",
+        "Video Quests",
+        "gaming",
+        "advertising",
+        "IPO",
+        "in-app promotions"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-20T13:00:00.000Z"
+    },
+    {
+      "title": "YouTube is investigating a bug causing low-res videos",
+      "link": "https://www.theverge.com/news/633214/youtube-fix-low-res-videos-bug",
+      "author": "Emma Roth",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK092_03.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "summary": "- YouTube is experiencing a bug causing videos and shorts to stream at 144p or 360p for some users.\n- This issue is reported on iOS, desktop, and smart TVs, regardless of internet connection strength.\n- Users have reported that attempts to manually change video quality lead to it reverting back to low resolution.\n- YouTube is aware of the problem and is actively investigating it, promising updates on their support thread.",
+      "keywords": [
+        "YouTube",
+        "video quality",
+        "streaming issues",
+        "low resolution",
+        "tech news"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-03-20T12:51:15.000Z"
+    },
+    {
       "title": "Trump’s first 100 days: all the news affecting the tech industry",
       "link": "https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news",
       "author": "Verge Staff",
@@ -1129,52 +1173,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-19T11:35:36.000Z"
-    },
-    {
-      "title": "Windows 11 will soon let you know why your PC hardware sucks",
-      "link": "https://www.theverge.com/news/632327/microsoft-windows-11-system-device-specs-recommendations",
-      "author": "Tom Warren",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197777/profilephoto.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Microsoft is introducing a new FAQ feature in Windows 11 to explain how hardware like RAM and GPU affects performance.\n- The feature was found in the latest preview builds and provides answers related to GPU memory and system RAM.\n- The FAQ will flag if the OS version is outdated and may include dynamic responses based on configurations.\n- Previous hardware scoring systems like the Windows Experience Index have been referenced as a comparison to this new feature.\n- The feature could be available to all users soon, as Microsoft tests it in the Dev Channel ahead of the 24H2 update.",
-      "keywords": [
-        "Windows 11",
-        "Microsoft",
-        "PC performance",
-        "GPU",
-        "RAM",
-        "FAQ feature",
-        "hardware specifications"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-19T10:16:11.000Z"
-    },
-    {
-      "title": "Samsung’s One UI 7 is rolling out to Galaxy phones in April",
-      "link": "https://www.theverge.com/news/632318/samsung-one-ui-7-rollout-april-galaxy-s24-fold-6-flip-6",
-      "author": "Dominic Preston",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197794/dominic-preston.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- One UI 7, based on Android 15, starts rolling out from April 7th worldwide.\n- US rollout begins on April 10th, first for Galaxy S24 models, Fold 6, and Flip 6.\n- Other devices to receive the update include S23 series, S24 FE, Fold 5, Flip 5, and Tab S10/S9 lines.\n- Main features include AI integration with Google Gemini, natural language search, dynamic lock screen widgets, and a new Audio Eraser for videos.\n- One UI 7 has been available on Galaxy S25 series since February and includes updates on Galaxy A56, A36, and A26 models.",
-      "keywords": [
-        "Samsung",
-        "One UI 7",
-        "Galaxy phones",
-        "Android 15",
-        "AI update",
-        "software rollout",
-        "mobile technology"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-19T09:38:04.000Z"
     }
   ]
 }
