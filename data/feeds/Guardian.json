@@ -4,6 +4,31 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "AI-driven weather prediction breakthrough reported",
+      "link": "https://www.theguardian.com/technology/2025/mar/20/ai-aardvark-weather-prediction-forecasting-artificial-intelligence",
+      "author": "Dr. Anna Allen, Richard Turner, Dr. Scott Hosking",
+      "thumbnail": "https://i.guim.co.uk/img/media/f53d9dc2908534675f2330b3267e50624211c877/0_0_4783_2869/master/4783.jpg?width=445&amp;dpr=1&amp;s=none&amp;crop=none",
+      "summary": "- New AI weather prediction method by Aardvark Weather is significantly faster and more efficient than traditional systems.\n- The approach allows a single researcher with a desktop computer to provide accurate forecasts using raw data from various sources globally.\n- The findings published in Nature suggest improvements in forecast speed, accuracy, and cost, and the model may produce accurate eight-day forecasts and hyper-local predictions.\n- The method can democratize forecasting for developing nations and improve predictions for natural disasters and climatic issues.\n- Aardvark could outperform the US national GFS forecasting system using only 10% of the data that existing systems require.",
+      "keywords": [
+        "AI",
+        "weather prediction",
+        "forecasting",
+        "Aardvark Weather",
+        "climate change",
+        "natural disasters",
+        "machine learning",
+        "University of Cambridge",
+        "Alan Turing Institute"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-20T16:00:33.000Z"
+    },
+    {
       "title": "Australian government agencies could be customers of Israeli spyware, research suggests",
       "link": "https://www.theguardian.com/technology/2025/mar/21/australian-government-agencies-could-be-customers-of-israeli-spyware-research-suggests-ntwnfb",
       "author": null,
@@ -2247,29 +2272,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-14T16:00:23.000Z"
-    },
-    {
-      "title": "The best rice cookers for gloriously fluffy grains at home: nine tried and tested favourites",
-      "link": "https://www.theguardian.com/thefilter/2025/mar/14/best-rice-cooker",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Most Britons cook and eat rice a few times a week, but cooking it can be tricky.\n- Rice cookers help achieve perfectly cooked rice, adjusting time and water ratios automatically.\n- The article reviews nine rice cookers, highlighting their features and performance.\n- The best overall rice cooker is the Yum Asia Bamboo rice cooker, with advanced settings and even cooking.\n- Other top choices include the budget-friendly Russell Hobbs large rice cooker and the multifunctional Ninja Foodi 8-in-1 PossibleCooker.\n- Testing involved cooking different types of rice, evaluating taste, texture, and safety.",
-      "keywords": [
-        "rice cookers",
-        "kitchen appliances",
-        "cooking",
-        "Yum Asia",
-        "Russell Hobbs",
-        "Ninja Foodi",
-        "reviews"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-14T10:33:43.000Z"
     }
   ]
 }
