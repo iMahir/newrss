@@ -4,6 +4,31 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "The Best Wireless Earbuds to Buy Right Now",
+      "link": "https://www.theverge.com/21309820/best-wireless-earbuds",
+      "author": "Chris Welch",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24805768/DSCF2242.jpg?quality=90&strip=all&crop=16.666666666667,0,66.666666666667,100&w=2400",
+      "summary": "- The market for wireless earbuds has improved significantly, offering better sound quality and performance.\n- Companies like Sony, Apple, and Samsung are leading with impressive models.\n- Key considerations include noise cancellation, sound quality, fit, and compatibility with devices.\n- The article features recommendations for various budgets and needs, highlighting:\n  - [Sony WF-1000XM5](https://www.amazon.com/Sony-WF-1000XM5-Bluetooth-Canceling-Headphones/dp/B0C33XXS56/?tag=theverge02-20): Best overall, priced at $248, notable for enhanced ANC and sound quality.\n  - [Nothing Ear (a)](https://www.amazon.com/Nothing-Ear-Integration-Cancelling-Equaliser/dp/B0CXPR5412/?tag=theverge02-20): Budget pick at $99, features great performance and design.\n  - [Bose QuietComfort Ultra Earbuds](https://www.amazon.com/Bose-QuietComfort-Cancelling-World-Class-Cancellation/dp/B0CD2FSRDD/?tag=theverge02-20): Excellent ANC with a price of $219.\n  - [Beats Powerbeats Pro 2](https://www.amazon.com/Beats-Powerbeats-Wireless-Bluetooth-Earbuds/dp/B0DT2344N3/?tag=theverge02-20): Fitness-focused with heart rate monitoring, priced at $249.",
+      "keywords": [
+        "wireless earbuds",
+        "Sony",
+        "Apple",
+        "Samsung",
+        "noise cancellation",
+        "sound quality",
+        "recommendations",
+        "budget",
+        "audio"
+      ],
+      "scores": {
+        "scale": 9,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-19T23:42:50.000Z"
+    },
+    {
       "title": "Fired FTC commissioner warns of the ‘corrupting influence of billionaires’",
       "link": "https://www.theverge.com/news/632944/democratic-ftc-commissioner-alvaro-bedoya-tech-billionaires-trump",
       "author": "Lauren Feiner",
@@ -1152,29 +1177,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-18T21:53:21.000Z"
-    },
-    {
-      "title": "Apple reveals Passwords app vulnerability exposed to phishing attacks for three months.",
-      "link": "https://www.theverge.com/news/632108/apple-ios-passwords-app-bug-vulnerability-phishing-attacks",
-      "author": "Wes Davis",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK071_APPLE_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-      "summary": "- Apple fixed a vulnerability in the iOS 18.2 Passwords app that lasted for three months, making users susceptible to phishing attacks.\n- The vulnerability allowed unencrypted requests for icons next to stored passwords, allowing attackers on the same network to direct users to phishing sites.\n- Discovered by Mysk in September 2024, Apple confirmed the bug's existence in their security updates on March 17, 2025.",
-      "keywords": [
-        "Apple",
-        "Passwords app",
-        "vulnerability",
-        "phishing attacks",
-        "iOS",
-        "security",
-        "tech news"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-03-18T21:27:22.000Z"
     }
   ]
 }

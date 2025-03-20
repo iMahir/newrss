@@ -4,6 +4,28 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Study finds AI-generated meme captions funnier than human ones on average",
+      "link": "https://arstechnica.com/ai/2025/03/ai-beats-humans-at-meme-humor-but-the-best-joke-is-still-human-made/",
+      "author": null,
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/meme_workflow-1024x792.jpg",
+      "summary": "- AI-generated meme captions rated funnier, more creative, and more shareable than those created by humans.\n- Human-created memes still produced the funniest individual examples, even though AI memes performed better overall.\n- Human-AI collaborations resulted in more creative and shareable memes, but not necessarily better rated.\n- Participants found it easier to generate meme ideas with AI assistance but felt less ownership over their creations.",
+      "keywords": [
+        "AI",
+        "meme",
+        "humor",
+        "captions",
+        "creativity",
+        "shareability"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-19T22:12:47.000Z"
+    },
+    {
       "title": "Nvidia announces DGX desktop “personal AI supercomputers”",
       "link": "https://arstechnica.com/ai/2025/03/nvidia-announces-dgx-desktop-personal-ai-supercomputers/",
       "author": null,
@@ -1157,29 +1179,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-01-23T23:42:29.000Z"
-    },
-    {
-      "title": "Data breach hitting PowerSchool looks very, very bad",
-      "link": "https://arstechnica.com/security/2025/01/students-parents-and-teachers-still-smarting-from-breach-exposing-their-info/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- A major data breach affecting PowerSchool, impacting schools across North America.\n- The breach exposed sensitive personal data for millions of students and school staff, including Social Security numbers and medical information.\n- The Toronto District School Board reported that data from all students between 1985 and 2024 was compromised.\n- Stolen information included names, contact info, dates of birth, medical alerts, gender, health card numbers, and detailed student records.",
-      "keywords": [
-        "data breach",
-        "PowerSchool",
-        "student information",
-        "cybersecurity",
-        "North America",
-        "personal data",
-        "Toronto District School Board"
-      ],
-      "scores": {
-        "scale": 10,
-        "impact": 10,
-        "novelty": 7,
-        "longTermSignificance": 9
-      },
-      "pubDate": "2025-01-23T12:30:57.000Z"
     }
   ]
 }

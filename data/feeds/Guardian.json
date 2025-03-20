@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "UK cybersecurity agency warns over risk of quantum hackers",
+      "link": "https://www.theguardian.com/technology/2025/mar/20/uk-cybersecurity-agency-quantum-hackers",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- The UK’s cybersecurity agency warns organizations to guard against quantum hackers by 2035.\n- The National Cyber Security Centre (NCSC) recommends implementing post-quantum cryptography for critical infrastructures like energy and transport.\n- Quantum computers could potentially break current encryption methods used in banking and secure communications due to their ability to process complex calculations quickly.\n- Organizations are advised to complete upgrades by 2028, with major changes by 2031 and fully migrate to new systems by 2035.\n- The guidance aims to help safeguard confidential information before quantum computing capabilities are fully realized.",
+      "keywords": [
+        "cybersecurity",
+        "quantum computing",
+        "encryption",
+        "NCSC",
+        "post-quantum cryptography",
+        "data protection",
+        "UK"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-20T00:01:10.000Z"
+    },
+    {
       "title": "The Guardian view on modern masculinity: boys need mentors, not marketers | Editorial",
       "link": "https://www.theguardian.com/commentisfree/2025/mar/19/the-guardian-view-on-modern-masculinity-boys-need-mentors-not-marketers",
       "author": null,
@@ -2241,27 +2264,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-03-13T17:32:05.000Z"
-    },
-    {
-      "title": "Crypto reaps political rewards after spending big to boost Trump",
-      "link": "https://www.theguardian.com/technology/2025/mar/10/crypto-trump-techscape",
-      "author": null,
-      "thumbnail": "https://i.guim.co.uk/img/media/1cb9db275d2c10ef786eca536f179a3c466ab6ae/0_0_3000_1800/master/3000.png?width=620&dpr=2&s=none&crop=none",
-      "summary": "- The US president hosted crypto leaders at the White House, following major political wins for the crypto industry.\n- Trump signed an executive order to create a 'strategic reserve' of cryptocurrency, promoting a friendly approach towards the industry.\n- US oversight agencies dropped investigations into major crypto companies and fraud charges were dismissed against a Trump meme coin entrepreneur.\n- Trump renewed his pledge to make the US 'the bitcoin superpower' and welcomed crypto investment in politics, with donors contributing $11 million to his inauguration.\n- Despite political support, the price of Bitcoin is down 13% since the start of the year, reflecting broader stock market trends amid economic uncertainty.",
-      "keywords": [
-        "Crypto",
-        "Trump",
-        "political investment",
-        "cryptocurrency",
-        "US politics"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-13T17:20:24.000Z"
     }
   ]
 }
