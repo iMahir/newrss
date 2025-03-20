@@ -4,6 +4,53 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Hackers are ramping up attacks using year-old ServiceNow security bugs to target unpatched systems",
+      "link": "https://techcrunch.com/2025/03/20/hackers-are-ramping-up-attacks-using-year-old-servicenow-security-bugs-to-break-into-unpatched-systems/",
+      "author": "Carly Page",
+      "thumbnail": null,
+      "summary": "- Hackers exploiting three ServiceNow vulnerabilities (CVE-2024-4879, CVE-2024-5178, CVE-2024-5217).\n- Vulnerabilities disclosed in May 2024 and patched in July 2024.\n- 70% of recent activity targeted systems in Israel; also observed in Germany, Japan, and Lithuania.\n- Vulnerabilities can provide full database access to ServiceNow instances.\n- ServiceNow reports no observed customer impact from attacks.\n- Targeted sectors include private companies and government agencies worldwide.",
+      "keywords": [
+        "ServiceNow",
+        "cybersecurity",
+        "vulnerabilities",
+        "CVE-2024-4879",
+        "CVE-2024-5178",
+        "CVE-2024-5217",
+        "hacking",
+        "data breach"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-20T16:04:18.000Z"
+    },
+    {
+      "title": "Airbyte launches new connectors to help companies better leverage their data",
+      "link": "https://techcrunch.com/2025/03/20/airbyte-launches-new-connectors-to-help-companies-better-leverage-their-data/",
+      "author": "Michel Tricot, Jean Lafleur",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/iceberg.png?w=680",
+      "summary": "- Open-source data movement company [Airbyte](https://airbyte.com/) is launching new connectors for enterprises to utilize data effectively in the age of AI.\n- New features include support for unstructured data transfer from Google Drive and SharePoint, along with compatibility with [Apache Iceberg](https://iceberg.apache.org/).\n- A new connector bundle for enterprise customers includes data connector pipelines for applications like NetSuite, SAP, ServiceNow, and Workday.\n- Airbyte provides enterprises with control over their data, allowing them to protect sensitive information during data transfer.\n- The company was founded in 2020 and has raised over $181 million in venture capital, serving more than 7,000 enterprise customers.",
+      "keywords": [
+        "Airbyte",
+        "data connectors",
+        "enterprise data",
+        "Apache Iceberg",
+        "AI applications",
+        "data sovereignty",
+        "data management"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-20T16:00:00.000Z"
+    },
+    {
       "title": "VC investment in European startups passed $52B in 2024, continuing long-term growth trend",
       "link": "https://techcrunch.com/2025/03/20/vc-investment-in-european-startups-passed-52b-in-2024-continuing-long-term-growth-trend/",
       "author": "Mike Butcher",
@@ -1983,52 +2030,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-03-19T15:00:00.000Z"
-    },
-    {
-      "title": "Google unveils redesigned $499 Pixel 9a",
-      "link": "https://techcrunch.com/2025/03/19/google-unveils-redesigned-499-pixel-9a/",
-      "author": "Aisha Malik",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/pixel-9a-colors.png?w=680",
-      "summary": "- Google has unveiled the Pixel 9a smartphone, priced at $499.\n- The new model features a redesigned appearance without the camera bar.\n- It is powered by Google’s Tensor G4 processor, offering over 30 hours of battery life and comes with 8GB RAM and storage options of 128GB or 256GB.\n- Available starting in April in four colors: Peony, Iris, Porcelain, and Obsidian.\n- The 6.3-inch Actua display is 35% brighter than the previous model and has a 120 Hz adaptive refresh rate.\n- The upgraded dual rear camera system includes a 13MP ultrawide and a 48MP main camera with Macro Focus.\n- AI-powered photography features include various editing tools and enhanced night modes.\n- The Pixel 9a is reportedly more durable with an IP68 rating.",
-      "keywords": [
-        "Google",
-        "Pixel 9a",
-        "smartphone",
-        "Tensor G4",
-        "AI photography",
-        "midrange phone"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-19T14:38:18.000Z"
-    },
-    {
-      "title": "Zoox recalls software on 258 self-driving cars over unexpected braking",
-      "link": "https://techcrunch.com/2025/03/19/zoox-recalls-258-self-driving-cars-over-unexpected-braking/",
-      "author": "Rebecca Bellan",
-      "thumbnail": null,
-      "summary": "- Zoox issues a voluntary recall for 258 self-driving cars due to hard braking issues in its autonomous driving system.\n- The recall follows a preliminary investigation by the NHTSA after reports of motorcyclist collisions with Zoox vehicles.\n- Affected vehicles include those with software versions released before November 5, 2024; a software update was implemented by November 7, 2024.\n- Recall includes purpose-built robotaxis, which are being tested in San Francisco and Las Vegas.\n- The decision comes amid increased regulatory scrutiny following prior safety incidents in the autonomous vehicle industry.",
-      "keywords": [
-        "Zoox",
-        "self-driving cars",
-        "recall",
-        "autonomous driving",
-        "NHTSA",
-        "software update",
-        "robotaxi",
-        "safety incidents"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-19T14:26:34.000Z"
     }
   ]
 }
