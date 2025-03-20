@@ -4,6 +4,28 @@
   "feedUrl": "https://www.fastcompany.com/technology/rss",
   "items": [
     {
+      "title": "5 critical trends to watch in DevOps",
+      "link": "https://www.fastcompany.com/91303397/5-critical-trends-to-watch-in-devops?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "author": "Jyoti Bansal",
+      "thumbnail": null,
+      "summary": "- Software complexity and outages are increasing, prompting developers to enhance software resilience.\n- AI is becoming integral to software development, expected to deliver higher productivity gains.\n- Security threats are escalating, with AI potentially enhancing hacker capabilities, necessitating stronger API security measures.\n- A need for integrated DevOps platforms arises as developers face tool overload, pushing for platform engineering in 2025.\n- Managing cloud costs is crucial, with AI tools expected to greatly improve efficiency and reduce expenses.",
+      "keywords": [
+        "DevOps",
+        "AI",
+        "software development",
+        "security",
+        "cloud costs",
+        "platform engineering"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-20T22:35:00.000Z"
+    },
+    {
       "title": "Nvidia, Microsoft, and AWS join utilities firms to launch an AI power grid consortium",
       "link": "https://www.fastcompany.com/91303256/nvidia-microsoft-aws-utilities-firms-ai-power-grid-consortium?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
       "author": null,
@@ -1158,27 +1180,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-03-17T17:20:06.000Z"
-    },
-    {
-      "title": "Netflix built an army of servers to stream TV—now it’s powering games",
-      "link": "https://www.fastcompany.com/91299135/netflix-built-an-army-of-servers-to-stream-tv-now-its-powering-games?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Netflix established its own content delivery network, Open Connect, distributing over 18,000 servers across 175 countries.\n- The company is developing cloud gaming infrastructure to enable Netflix members to play games on smart TVs without consoles.\n- Netflix's servers have evolved significantly, improving performance by 40 times since their inception in 2011, incorporating modern technology for efficient streaming.",
-      "keywords": [
-        "Netflix",
-        "cloud gaming",
-        "Open Connect",
-        "streaming technology",
-        "content delivery network"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-17T16:36:30.000Z"
     }
   ]
 }
