@@ -4,6 +4,52 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "ChatGPT Hit with Privacy Complaint Over Defamatory Hallucinations",
+      "link": "https://techcrunch.com/2025/03/19/chatgpt-hit-with-privacy-complaint-over-defamatory-hallucinations/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- OpenAI faces a new privacy complaint in Europe about ChatGPT's false information generation.\n- A Norwegian individual was falsely claimed to have been convicted of murdering his children.\n- Noyb, a privacy rights group, argues ChatGPT's errors violate GDPR's requirement for accurate personal data.\n- The individual has a right to rectification under EU law, but OpenAI provides no means to correct such errors.\n- Confirmed GDPR breaches can incur fines of up to 4% of global annual turnover.\n- Previous GDPR interventions have led to changes in ChatGPT's operations following similar complaints.",
+      "keywords": [
+        "OpenAI",
+        "ChatGPT",
+        "privacy complaint",
+        "GDPR",
+        "defamatory hallucinations",
+        "Noyb",
+        "false information",
+        "AI ethics",
+        "data protection"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-03-20T06:00:00.000Z"
+    },
+    {
+      "title": "Michael Seibel is leaving Y Combinator",
+      "link": "https://techcrunch.com/2025/03/19/michael-seibel-is-leaving-y-combinator/",
+      "author": "Loizos",
+      "thumbnail": null,
+      "summary": "- Michael Seibel announced he is moving to a “partner emeritus” role at Y Combinator after over 12 years.\n- Seibel has been part of YC since his time as a founder, having gone through the program twice.\n- He previously served as a group partner, managing director, and CEO of the accelerator.\n- The transition follows a previous step back into a less operational role, indicated in a blog post last year.\n- His departure may be linked to changes in leadership when Garry Tan became CEO in 2022.\n- Seibel plans to take the summer off and then focus on government initiatives.",
+      "keywords": [
+        "Michael Seibel",
+        "Y Combinator",
+        "partner emeritus",
+        "leadership transition",
+        "Silicon Valley"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-20T05:32:53.000Z"
+    },
+    {
       "title": "ClearGrid, armed with a fresh $10M, is developing AI to improve debt collection in MENA",
       "link": "https://techcrunch.com/2025/03/19/cleargrid-armed-with-10m-uses-ai-to-fix-debt-collection-in-mena/",
       "author": "Mohammed Al Zaben, Khalid Bin Bader Al Saud, Mohammed Khalili",
@@ -1981,55 +2027,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-19T07:33:00.000Z"
-    },
-    {
-      "title": "Trump Fires FTC Commissioners, Setting Up a Legal Battle",
-      "link": "https://techcrunch.com/2025/03/18/trump-fires-ftc-commissioners-setting-up-a-legal-battle/",
-      "author": "Not given",
-      "thumbnail": null,
-      "summary": "- President Trump fired two Democratic members of the FTC, Rebecca Kelly Slaughter and Alvaro Bedoya.\n- This action challenges a 1935 Supreme Court precedent that protects FTC commissioners from being fired without \"good cause.\"\n- Slaughter described the firings as \"illegal,\" claiming they violate statutory language and Court precedent.\n- The FTC is responsible for enforcing consumer protection and antitrust laws, and typically has five members.",
-      "keywords": [
-        "Trump",
-        "FTC",
-        "commissioners",
-        "fire",
-        "legal battle",
-        "consumer protection",
-        "antitrust laws",
-        "politics"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-18T23:23:19.000Z"
-    },
-    {
-      "title": "Nvidia and Google DeepMind will help power Disney’s cute robots",
-      "link": "https://techcrunch.com/2025/03/18/nvidia-and-google-deepmind-will-help-power-disneys-cute-robots/",
-      "author": "Maxwell Zeff",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761755.jpg?w=680",
-      "summary": "- Nvidia collaborates with Disney Research and Google DeepMind to develop Newton, a physics engine for robotics.\n- Newton will be used to power Disney's next-generation entertainment robots, including Star Wars-inspired BDX droids.\n- An open-source version of Newton is set to release later in 2025.\n- Disney plans to showcase its robots at theme parks starting next year, citing readiness due to Newton.\n- Newton helps robots handle complex tasks and enhances interactivity with deformable objects.\n- The engine is compatible with Google DeepMind’s tools and technologies for robotic development.\n- Nvidia announced other products at GTC 2025, including Groot N1, a foundation model for humanoid robots.",
-      "keywords": [
-        "Nvidia",
-        "Google DeepMind",
-        "Disney",
-        "robots",
-        "Newton",
-        "GTC 2025",
-        "AI",
-        "simulation",
-        "technology"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-18T22:39:42.000Z"
     }
   ]
 }

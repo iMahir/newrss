@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Meta AI is Rolling Out in Europe After Delay",
+      "link": "https://www.theverge.com/news/632876/meta-ai-europe-whatsapp-facebook-instagram-rollout",
+      "author": "Emma Roth",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Meta AI is launching in Europe after a delay of almost one year.\n- The rollout includes 41 European countries and 21 overseas territories, limited to text-based chat features.\n- Previous launch attempts were paused due to privacy concerns raised by Ireland's regulations.\n- Users can brainstorm, plan trips, and answer questions using the web, but cannot generate or edit images.\n- The assistant has not been trained on EU user data.\n- Meta is committed to collaborate with regulators for future expansions of AI capabilities in Europe.",
+      "keywords": [
+        "Meta AI",
+        "Europe",
+        "rollout",
+        "WhatsApp",
+        "Facebook",
+        "Instagram",
+        "privacy",
+        "chatbot"
+      ],
+      "scores": {
+        "scale": 9,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-20T06:00:00.000Z"
+    },
+    {
       "title": "Tesla Protesters Plan Global Demonstrations on March 29th",
       "link": "https://www.theverge.com/news/633091/tesla-takedown-protesters-planning-biggest-day-of-action",
       "author": "Andrew J. Hawkins",
@@ -1154,30 +1178,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-18T22:00:20.000Z"
-    },
-    {
-      "title": "Tesla awarded ride-hail permit in California, a first step for robotaxis",
-      "link": "https://www.theverge.com/news/632185/tesla-ride-hail-permit-california-cpuc-robotaxis",
-      "author": "Andrew J. Hawkins",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195793/ANDREW_HAWKINS.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- The California Public Utilities Commission (CPUC) granted Tesla a ride-hail permit, a necessary step for launching a robotaxi service.\n- Tesla's permit allows it to transport employees in its vehicles but must notify CPUC before transporting the public.\n- The company is not yet part of CPUC's autonomous vehicle passenger program, which is required for commercial driverless car services.\n- CEO Elon Musk indicated that testing driverless operations would begin in Texas during the summer.\n- Tesla has faced criticism over its optimistic timelines for fully autonomous vehicles and questions regarding the technology's readiness.",
-      "keywords": [
-        "Tesla",
-        "robotaxi",
-        "ride-hail permit",
-        "California",
-        "CPUC",
-        "autonomous vehicles",
-        "Elon Musk",
-        "transportation"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-18T21:53:21.000Z"
     }
   ]
 }
