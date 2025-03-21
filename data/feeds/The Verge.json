@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Heathrow airport shutdown creates travel chaos",
+      "link": "https://www.theverge.com/news/633687/heathrow-airport-closure-fire-power-outage-flights",
+      "author": "Jess Weatherbed",
+      "thumbnail": null,
+      "summary": "- Heathrow airport closed due to a major fire at a nearby electrical substation, affecting thousands of flights.\n- The airport will remain closed until at least midnight on Friday for safety reasons.\n- 1,357 flights scheduled for today have been disrupted, with 120 flights returning to origin or diverted.\n- Passengers advised not to travel to the airport and to check with airlines for information.\n- This is the first complete closure of Heathrow since the 2010 Eyjafjallajokull volcano eruption.\n- Over 16,000 homes in the area are also facing power outages due to the fire, which is now under control but under investigation.",
+      "keywords": [
+        "Heathrow",
+        "airport",
+        "closure",
+        "travel chaos",
+        "fire",
+        "power outage",
+        "flights",
+        "disruption"
+      ],
+      "scores": {
+        "scale": 10,
+        "impact": 9,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-21T10:48:19.000Z"
+    },
+    {
       "title": "The crypto bars are invading Washington",
       "link": "https://www.theverge.com/cryptocurrency/633590/crypto-bar-pubkey-washington",
       "author": "Tina Nguyen",
@@ -1142,30 +1166,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-19T19:06:39.000Z"
-    },
-    {
-      "title": "Here are all the Nvidia DGX Spark versions so far",
-      "link": "https://www.theverge.com/news/632685/asus-ascent-gx10-dell-pro-max-gb10-hp-zgx-nano-nvidia-ai",
-      "author": "Umar Shakir",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195848/UMAR_SHAKIR.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Nvidia introduced the DGX Spark and allows third-party manufacturers to create their own versions.\n- Asus launched the Ascent GX10 with 1,000 AI TOPS processing power and 128GB memory, no price or preorder info yet.\n- Dell is unveiling the Pro Max with GB10 and is expected to arrive in early summer 2025, featuring 20 petaflops of AI performance.\n- HP is developing the ZGX Nano AI Station G1n, styled more premium, also with no release date.\n- Lenovo plans to produce its own version but has not revealed details yet.",
-      "keywords": [
-        "Nvidia",
-        "DGX Spark",
-        "Asus",
-        "Dell",
-        "HP",
-        "AI supercomputers",
-        "GB10 mini PC",
-        "Lenovo"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-19T18:28:52.000Z"
     }
   ]
 }
