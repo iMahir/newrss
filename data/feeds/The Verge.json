@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "ChatGPT accused of saying an innocent man murdered his children",
+      "link": "https://www.theverge.com/news/633700/chatgpt-openai-child-murderer-ai-hallucination-norway-noyb",
+      "author": "Dominic Preston",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197794/dominic-preston.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- A Norwegian man, Arve Hjalmar Holmen, filed a privacy complaint against OpenAI after ChatGPT falsely claimed he was a convicted murderer.\n- The chatbot included fictitious details about his life, alleging he had killed two children and attempted to kill a third.\n- Advocacy group Noyb filed the complaint, arguing OpenAI violated GDPR by spreading false information.\n- Noyb demands a fine and improvements to prevent such errors.\n- This is Noyb’s second complaint regarding ChatGPT’s inaccuracies, following a prior incident involving a public figure's incorrect date of birth.",
+      "keywords": [
+        "ChatGPT",
+        "OpenAI",
+        "GDPR",
+        "false information",
+        "privacy complaint",
+        "Arve Hjalmar Holmen",
+        "AI inaccuracies",
+        "Norwegian law"
+      ],
+      "scores": {
+        "scale": 4,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-21T11:45:15.000Z"
+    },
+    {
       "title": "Heathrow airport shutdown creates travel chaos",
       "link": "https://www.theverge.com/news/633687/heathrow-airport-closure-fire-power-outage-flights",
       "author": "Jess Weatherbed",
@@ -1144,28 +1168,6 @@
         "longTermSignificance": 9
       },
       "pubDate": "2025-03-19T19:19:25.000Z"
-    },
-    {
-      "title": "Verizon’s free satellite messaging service is now available",
-      "link": "https://www.theverge.com/news/632618/verizon-satellite-messaging-samsung-s25-pixel-9",
-      "author": "Allison Johnson",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25594451/STK066_VERIZON_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-      "summary": "- Verizon's satellite messaging service launched on March 19, 2025.\n- Available to Google Pixel 9 and Samsung Galaxy S25 users at no extra charge.\n- Enables sending and receiving texts via satellite when outside cellular range.\n- Competitors like Apple and T-Mobile have introduced similar services recently.\n- Verizon is upgrading its systems to support this service over the next two weeks.",
-      "keywords": [
-        "Verizon",
-        "satellite messaging",
-        "Google Pixel 9",
-        "Samsung Galaxy S25",
-        "communication technology",
-        "texting via satellite"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-19T19:06:39.000Z"
     }
   ]
 }
