@@ -4,6 +4,77 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "link": "https://techcrunch.com/2025/03/21/chatgpt-everything-to-know-about-the-ai-chatbot/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- ChatGPT, launched by OpenAI in November 2022, has gained popularity with over [300 million weekly active users](https://www.theinformation.com/briefings/openai-surpasses-300-million-weekly-active-users).\n- In 2024, OpenAI announced partnerships (e.g., with Apple for generative AI) and new releases like [GPT-4o with voice capabilities](https://techcrunch.com/2024/12/12/chatgpt-now-understands-real-time-video-seven-months-after-openai-first-demoed-it/) and the text-to-video model Sora.\n- OpenAI faced legal challenges, including lawsuits and scrutiny over its transition to a for-profit structure, and internal departures of execs like [Ilya Sutskever](https://techcrunch.com/2024/05/14/ilya-sutskever-openai-co-founder-and-longtime-chief-scientist-departs/?utm_medium=newsletter&utm_source=tc&utm_campaign=tc_week_in_review).\n- Notable developments in 2025 include a [privacy complaint in Europe](https://techcrunch.com/2025/03/19/chatgpt-hit-with-privacy-complaint-over-defamatory-hallucinations/) and upgrades to transcription and voice-generating models.\n- OpenAI reported plans to [charge up to $20,000 a month](https://techcrunch.com/2025/03/05/openai-reportedly-plans-to-charge-up-to-20000-a-month-for-specialized-ai-agents/?utm_campaign=tc_week_in_review&utm_medium=newsletter&_hsenc=p2ANqtz-8FzNR8H1_dsObV2gcIx4Q_s93NalU5zuUUx-jctJ62xqnRwNGxc2gr5utyX0DuL-91VpBVongHzoJ8hJ3OehgsNFdCBQ&_hsmi=350636795&utm_source=tc) for AI agents aimed at various applications.",
+      "keywords": [
+        "ChatGPT",
+        "OpenAI",
+        "AI chatbot",
+        "GPT-4o",
+        "Apple partnership",
+        "artificial intelligence",
+        "AI users",
+        "technology news"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-21T15:46:45.000Z"
+    },
+    {
+      "title": "Wayve CEO shares his key ingredients for scaling autonomous driving tech",
+      "link": "https://techcrunch.com/2025/03/21/wayve-ceo-shares-his-key-ingredients-for-scaling-autonomous-driving-tech/",
+      "author": "Rebecca Bellan",
+      "thumbnail": null,
+      "summary": "- Wayve's CEO Alex Kendall outlines a strategy for scaling autonomous driving tech focusing on affordability and hardware flexibility.\n- The company utilizes a data-driven learning approach relying on sensors without HD maps.\n- Wayve has raised over $1.3 billion and is in discussions with multiple OEMs to integrate its software into various vehicle types.\n- The software works with existing sensors, making it cost-effective for automotive partners.\n- Wayve's AI aims to achieve Level 4 autonomy and incorporates lidar for improved performance.\n- Kendall reveals GAIA-2, an advanced generative world model for training autonomous driving AI.",
+      "keywords": [
+        "Wayve",
+        "autonomous driving",
+        "Alex Kendall",
+        "ADAS",
+        "self-driving technology",
+        "data-driven learning",
+        "generative AI"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-21T15:18:11.000Z"
+    },
+    {
+      "title": "Microsoft is exploring a way to credit contributors to AI training data",
+      "link": "https://techcrunch.com/2025/03/21/microsoft-is-exploring-a-way-to-credit-contributors-to-ai-training-data/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Microsoft is launching a research project to estimate the influence of specific training examples on AI model outputs.\n- The project aims to provide recognition and potential compensation for contributors of training data.\n- There are ongoing legal challenges against Microsoft regarding AI training data usage, with major firms advocating for fair use in AI practices.\n- Jaron Lanier, a prominent technologist, is involved, emphasizing the concept of 'data dignity'.\n- Current large AI labs have limited programs to compensate data contributors.\n- Microsoft's initiative stands out amidst calls from other labs to weaken copyright protections related to AI.",
+      "keywords": [
+        "AI training data",
+        "data dignity",
+        "Microsoft",
+        "intellectual property",
+        "copyright",
+        "Jaron Lanier",
+        "AI models",
+        "fair use"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-21T15:15:21.000Z"
+    },
+    {
       "title": "Meta Spotted Testing AI-Generated Comments on Instagram",
       "link": "https://techcrunch.com/2025/03/21/meta-spotted-testing-ai-generated-comments-on-instagram/",
       "author": "Aisha Malik",
@@ -1095,75 +1166,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-20T00:21:13.000Z"
-    },
-    {
-      "title": "OpenAI’s o1-pro is the company’s most expensive AI model yet",
-      "link": "https://techcrunch.com/2025/03/19/openais-o1-pro-is-its-most-expensive-model-yet/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- OpenAI has launched a more powerful version of its o1 AI model called o1-pro in its developer API.\n- The pricing for o1-pro is $150 per million input tokens and $600 per million generated tokens, making it significantly more expensive than previous models.\n- Early impressions of o1-pro have been mixed, with issues reported handling certain tasks like Sudoku puzzles.\n- Despite slight performance improvements over o1 on coding and math problems, the overall feedback has not been overwhelmingly positive.",
-      "keywords": [
-        "OpenAI",
-        "o1-pro",
-        "AI model",
-        "developer API",
-        "pricing",
-        "performance",
-        "feedback"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-19T22:40:45.000Z"
-    },
-    {
-      "title": "Hacked, leaked, exposed: Why you should never use stalkerware apps",
-      "link": "https://techcrunch.com/2025/03/19/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Stalkerware apps are designed for spying on partners, with over 25 known hacked companies since 2017.\n- The SpyX breach compromised the data of nearly 2 million victims, following previous breaches like Cocospy and mSpy.\n- Stalkerware companies often market their products for illegal surveillance, creating significant risks for victims' personal data.",
-      "keywords": [
-        "stalkerware",
-        "surveillance",
-        "data breach",
-        "privacy",
-        "cybersecurity"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-19T22:35:00.000Z"
-    },
-    {
-      "title": "Data breach at stalkerware SpyX affects close to 2 million, including thousands of Apple users",
-      "link": "https://techcrunch.com/2025/03/19/data-breach-at-stalkerware-spyx-affects-close-to-2-million-including-thousands-of-apple-users/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- A data breach at consumer-grade spyware SpyX affected nearly 2 million people, including many Apple users.\n- The breach occurred in June 2024 but was reported only recently, with no communication to affected customers.\n- The leaked data included 1.97 million records, most associated with SpyX and its clones MSafely and SpyPhone.\n- About 40% of the email addresses were already listed in Have I Been Pwned.\n- The breach featured plaintext Apple Account usernames and passwords, raising security concerns for Apple users.\n- Google removed a Chrome extension linked to SpyX to uphold store policies against unauthorized surveillance apps.",
-      "keywords": [
-        "data breach",
-        "SpyX",
-        "stalkerware",
-        "Apple users",
-        "consumer-grade spyware",
-        "security",
-        "email addresses",
-        "iCloud",
-        "malware"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-19T22:30:07.000Z"
     }
   ]
 }
