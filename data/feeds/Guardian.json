@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "Norwegian files complaint after ChatGPT falsely said he had murdered his children",
+      "link": "https://www.theguardian.com/technology/2025/mar/21/norwegian-files-complaint-after-chatgpt-falsely-said-he-had-murdered-his-children",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- A Norwegian man named Arve Hjalmar Holmen filed a complaint against OpenAI after ChatGPT falsely claimed he murdered his two children.\n- ChatGPT's response to a query about Holmen inaccurately stated that he received a 21-year prison sentence for the alleged murders, which were described as a shocking event in Norway.\n- Holmen, who has never been accused of any crime, stated that the false information could harm his private life and is seeking action from the Norwegian Data Protection Authority.\n- The complaint argues that the response violates accuracy provisions within GDPR and requests adjustments to prevent similar inaccuracies in the future.",
+      "keywords": [
+        "ChatGPT",
+        "complaint",
+        "defamation",
+        "GDPR",
+        "OpenAI",
+        "Norway",
+        "AI ethics"
+      ],
+      "scores": {
+        "scale": 4,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-21T13:08:02.000Z"
+    },
+    {
       "title": "X sues Modi's government over content removal in new India censorship fight",
       "link": "https://www.theguardian.com/technology/2025/mar/20/x-india-censorship-lawsuit-modi-musk",
       "author": null,
@@ -2249,30 +2272,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-15T04:00:38.000Z"
-    },
-    {
-      "title": "Apple’s UK encryption legal challenge heard behind closed doors",
-      "link": "https://www.theguardian.com/technology/2025/mar/14/apple-uk-encryption-legal-challenge-heard-behind-closed-doors",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Apple’s legal battle with the UK government regarding access to customer data was recently held behind closed doors.\n- The Home Office requested access to encrypted data in Apple’s cloud servers, leading to Apple's appeal at the investigatory powers tribunal.\n- UK media organizations attempted to gain entry to the hearing but were denied access due to public interest grounds.\n- Apple is challenging a technology capability notice under the Investigatory Powers Act, which requires companies to help law enforcement.\n- The notice sought access to Apple’s Advanced Data Protection (ADP) service, which uses end-to-end encryption.\n- Apple withdrew ADP from the UK last month, maintaining it does not build backdoors in its products.\n- A bipartisan group of US lawmakers urged for the hearing to be made public, expressing concerns about secrecy surrounding the UK government’s order.",
-      "keywords": [
-        "Apple",
-        "UK",
-        "encryption",
-        "data privacy",
-        "legal challenge",
-        "Home Office",
-        "Advanced Data Protection",
-        "Investigatory Powers Act"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-14T18:49:06.000Z"
     }
   ]
 }
