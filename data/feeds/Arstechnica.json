@@ -4,6 +4,30 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Anthropic’s new AI search feature digs through the web for answers",
+      "link": "https://arstechnica.com/ai/2025/03/anthropics-new-ai-search-feature-digs-through-the-web-for-answers/",
+      "author": null,
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/anthropic_sources.jpg",
+      "summary": "- Claude users are cautioned about potential inaccuracies in citations from large language models, with recent studies showing a 60% error rate in AI-generated citations.\n- Claude provides citations for information sourced online, though no accuracy benchmarks have been released by Anthropic.\n- The new search feature appears to be powered by Brave Search, a private search engine, as revealed by a recent update to Anthropic's subprocessor list.",
+      "keywords": [
+        "Anthropic",
+        "AI",
+        "search feature",
+        "Brave Search",
+        "citations",
+        "accuracy",
+        "large language models",
+        "Claude"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-21T19:08:56.000Z"
+    },
+    {
       "title": "Study finds AI-generated meme captions funnier than human ones on average",
       "link": "https://arstechnica.com/ai/2025/03/ai-beats-humans-at-meme-humor-but-the-best-joke-is-still-human-made/",
       "author": null,
@@ -1156,29 +1180,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-01-27T18:36:31.000Z"
-    },
-    {
-      "title": "Backdoor infecting VPNs used “magic packets” for stealth and security",
-      "link": "https://arstechnica.com/security/2025/01/backdoor-infecting-vpns-used-magic-packets-for-stealth-and-security/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Researchers revealed a new backdoor, J-Magic, affecting enterprise VPNs using Juniper's Junos OS.\n- The backdoor remains dormant until it receives a 'magic packet', which includes a challenge encrypted with an RSA key.\n- J-Magic only exists in memory, making it harder to detect and has been identified in 36 organizations' networks.",
-      "keywords": [
-        "backdoor",
-        "VPN",
-        "Junos OS",
-        "magic packets",
-        "cybersecurity",
-        "network security",
-        "malware"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-01-23T23:42:29.000Z"
     }
   ]
 }

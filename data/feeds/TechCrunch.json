@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Valve removes video game demo suspected of being malware",
+      "link": "https://techcrunch.com/2025/03/21/valve-removes-video-game-demo-suspected-of-being-malware/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/sniper-phantoms-resolution-valve-steam.png?w=1024",
+      "summary": "- Valve removed the video game demo for Sniper: Phantom’s Resolution from its online store, Steam, after user reports of malware installation.\n- The game promised realistic first-person shooter mechanics, dynamic storytelling, and high-stakes missions.\n- Reports of the malware stemmed from Reddit users who analyzed the demo, leading to its removal, reminiscent of a previous incident with PirateFi in February.",
+      "keywords": [
+        "Valve",
+        "malware",
+        "Steam",
+        "Sniper: Phantom’s Resolution",
+        "gaming",
+        "cybersecurity",
+        "PirateFi"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-21T19:58:54.000Z"
+    },
+    {
       "title": "DeepSeek: Everything you need to know about the AI chatbot app",
       "link": "https://techcrunch.com/2025/03/21/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/",
       "author": null,
@@ -1143,29 +1166,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-20T08:00:00.000Z"
-    },
-    {
-      "title": "Evroc Raises $55M to Build Hyperscale Cloud in Europe",
-      "link": "https://techcrunch.com/2025/03/20/amid-calls-for-sovereign-eu-tech-stack-evroc-raises-55m-to-build-a-hyperscale-cloud-in-europe/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Evroc, a Swedish startup, has raised €50.6 million ($55 million) in Series A funding to create a secure and sustainable hyperscale cloud in Europe.\n- The funding aims to establish eight data centers by 2028, with two facilities already operational in Stockholm and Paris.\n- The company plans to open two additional facilities in Frankfurt by mid-2025 and is focused on AI workloads in its upcoming data centers, expected to be completed by 2026.",
-      "keywords": [
-        "Evroc",
-        "cloud computing",
-        "hyperscale cloud",
-        "EU tech stack",
-        "Series A funding",
-        "data centers",
-        "digital sovereignty"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-20T07:00:00.000Z"
     }
   ]
 }
