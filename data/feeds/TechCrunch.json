@@ -4,6 +4,50 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Meta has revenue sharing agreements with Llama AI model hosts, filing reveals",
+      "link": "https://techcrunch.com/2025/03/21/meta-has-revenue-sharing-agreements-with-llama-ai-model-hosts-filing-reveals/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Meta CEO Mark Zuckerberg stated that selling access to Llama AI models is not their primary business model, but they do have revenue-sharing agreements.\n- A court filing reveals Meta shares a portion of revenue from companies hosting Llama models, although specific hosts are not detailed.\n- Notable Llama host partners include AWS, Nvidia, Databricks, Groq, Dell, Azure, Google Cloud, and Snowflake.\n- Developers can run Llama models independently but often utilize hosts for additional services.\n- Zuckerberg mentioned potential monetization strategies for Llama, including licensing and ads.\n- The revenue generation is significant due to ongoing copyright litigation regarding alleged training on pirated materials.\n- Meta plans large capital expenditures for AI, estimating $60 billion-$80 billion in 2025 primarily for data centers and AI development.",
+      "keywords": [
+        "Meta",
+        "Llama AI",
+        "revenue sharing",
+        "Zuckerberg",
+        "AI development",
+        "copyright lawsuit"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-21T20:40:53.000Z"
+    },
+    {
+      "title": "How BYD plans to make EV charging as fast as filling a gas tank",
+      "link": "https://techcrunch.com/2025/03/21/how-byd-plans-to-make-ev-charging-as-fast-as-filling-a-gas-tank/",
+      "author": "Tim De Chant",
+      "thumbnail": null,
+      "summary": "- BYD's Han L sedan can add up to 248 miles of range in just five minutes of charging.\n- The vehicle features an 83.2 kWh lithium-iron-phosphate battery operating at approximately 945 volts.\n- BYD's dual gun charging system allows the car to charge at 1 megawatt, utilizing two ports simultaneously.\n- Realistic range from a five-minute charge is approximately 160 miles due to optimistic testing cycles.\n- BYD plans to install over 4,000 charging stations across China, with significant upgrades needed for existing infrastructure.\n- Current U.S. market challenges may delay BYD's entry due to tariffs on Chinese EVs.",
+      "keywords": [
+        "BYD",
+        "EV charging",
+        "Han L sedan",
+        "electric vehicles",
+        "battery technology",
+        "fast charging"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-21T20:30:30.000Z"
+    },
+    {
       "title": "Valve removes video game demo suspected of being malware",
       "link": "https://techcrunch.com/2025/03/21/valve-removes-video-game-demo-suspected-of-being-malware/",
       "author": null,
@@ -1121,51 +1165,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-20T13:35:30.000Z"
-    },
-    {
-      "title": "TikTok to start pushing Amber Alerts to users’ For You feeds",
-      "link": "https://techcrunch.com/2025/03/20/tiktok-to-start-pushing-amber-alerts-to-users-for-you-feeds/",
-      "author": "Aisha Malik",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/AMBER-Alert-image.png?w=314",
-      "summary": "- TikTok partners with the National Center for Missing & Exploited Children (NCMEC) to deliver Amber Alerts in users’ For You feeds in the U.S.\n- Alerts will activate based on users' location via IP address and include key details like child’s photo and last known location.\n- Nationwide launch follows a successful pilot in Texas with over 20 million views and 2.5 million visits to NCMEC’s website from August to December 2024.\n- TikTok is donating advertising credits to help amplify NCMEC’s messaging on missing children and youth safety.\n- The initiative aims to leverage TikTok's massive teen user base, potentially increasing awareness and responsiveness to Amber Alerts.",
-      "keywords": [
-        "TikTok",
-        "Amber Alerts",
-        "NCMEC",
-        "missing children",
-        "social media",
-        "advertising",
-        "youth safety",
-        "tech news"
-      ],
-      "scores": {
-        "scale": 9,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-20T13:00:00.000Z"
-    },
-    {
-      "title": "Pruna AI open sources its AI model optimization framework",
-      "link": "https://techcrunch.com/2025/03/20/pruna-ai-open-sources-its-ai-model-optimization-framework/",
-      "author": "Romain Dillet",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Pruna-AI-Co-founders.jpg",
-      "summary": "- Pruna AI has open-sourced its AI model optimization framework, which utilizes various efficiency methods like caching, pruning, quantization, and distillation.\n- Co-founder John Rachwan highlights the framework's ability to evaluate quality loss post-compression and improve model performance.\n- The framework aims to simplify the use and combination of multiple compression methods, unlike typical single-method open-source tools.\n- Pruna AI focuses on supporting image and video generation models but accommodates various model types.\n- The company has raised $6.5 million in seed funding with notable investors and offers both open-source and enterprise solutions for AI model optimization.",
-      "keywords": [
-        "Pruna AI",
-        "AI model optimization",
-        "open source",
-        "compression algorithms",
-        "AI compression methods"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-20T08:00:00.000Z"
     }
   ]
 }
