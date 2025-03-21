@@ -4,6 +4,30 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Cloudflare turns AI against itself with endless maze of irrelevant facts",
+      "link": "https://arstechnica.com/ai/2025/03/cloudflare-turns-ai-against-itself-with-endless-maze-of-irrelevant-facts/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Cloudflare has launched a new feature called [AI Labyrinth](https://blog.cloudflare.com/ai-labyrinth/) to combat unauthorized AI data scraping.\n- The tool serves fake AI-generated content to bots, wasting their resources rather than blocking them.\n- This approach is a shift from traditional strategies and aims to protect websites by enticing crawlers into a maze of irrelevant pages.\n- The AI-generated content is based on real scientific facts to avoid spreading misinformation.\n- AI Labyrinth operates as a next-generation honeypot, designed to deceive modern bots more effectively by embedding false links that are invisible to human visitors.",
+      "keywords": [
+        "Cloudflare",
+        "AI Labyrinth",
+        "data scraping",
+        "AI-generated content",
+        "website protection",
+        "fake content",
+        "bots",
+        "honeypot"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-21T21:14:35.000Z"
+    },
+    {
       "title": "Anthropic’s new AI search feature digs through the web for answers",
       "link": "https://arstechnica.com/ai/2025/03/anthropics-new-ai-search-feature-digs-through-the-web-for-answers/",
       "author": null,
@@ -1155,31 +1179,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-01-28T20:56:32.000Z"
-    },
-    {
-      "title": "A long, costly road ahead for customers abandoning Broadcom’s VMware",
-      "link": "https://arstechnica.com/information-technology/2025/01/a-long-costly-road-ahead-for-customers-abandoning-broadcoms-vmware/",
-      "author": "Scharon Harding",
-      "thumbnail": null,
-      "summary": "- Broadcom's acquisition of VMware has caused significant dissatisfaction among customers.\n- Customers are forced to choose between committing to VMware subscriptions or exploring alternatives due to rising costs and changes in support.\n- Broadcom has reportedly increased VMware prices by 3–6x, with some customers experiencing price hikes as high as twentyfold.\n- The migration process from VMware to other platforms is expected to be complex and costly, taking 18 to 48 months for large-scale migrations.\n- VMware support concerns have arisen since Broadcom's acquisition, with users reporting difficulties accessing timely assistance.",
-      "keywords": [
-        "Broadcom",
-        "VMware",
-        "customers",
-        "acquisition",
-        "virtualization",
-        "support",
-        "migration",
-        "costs",
-        "subscription"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-01-27T18:36:31.000Z"
     }
   ]
 }

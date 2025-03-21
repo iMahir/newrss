@@ -1,5 +1,166 @@
 [
   {
+    "title": "People keep putting fake walls in front of Teslas + Mark Rober’s Tesla Video: Controversy and Analysis",
+    "id": "1tnfqk30dim4sx",
+    "summary": "- Mark Rober's video tests Tesla’s Autopilot against lidar-equipped vehicles, showcasing a crash with the Model Y.\n- The video achieved 10 million views rapidly, highlighting Autopilot flaws but attracting criticism for possible deception.\n- Viewers claim inconsistencies, questioning Autopilot's status during testing; Rober released footage showing it was engaged before the crash.\n- Concerns about Rober's possible sponsorship by lidar company Luminar have been raised, despite his denial of a paid promotion.\n- Following Rober's test, Kyle Paul created a response video analyzing FSD's obstacle detection with various Tesla models; the Model Y failed to detect a fake wall, unlike the Cybertruck which stopped in time.",
+    "thumbnails": [
+      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195848/UMAR_SHAKIR.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 7,
+      "novelty": 5.5,
+      "longTermSignificance": 4.5
+    },
+    "keywords": [
+      "mark rober",
+      "tesla",
+      "autopilot",
+      "lidar",
+      "youtube",
+      "driver assistance",
+      "luminar",
+      "self-driving cars",
+      "fsd",
+      "wile e. coyote"
+    ],
+    "sources": [
+      {
+        "title": "Mark Rober’s Tesla Video: Controversy and Analysis",
+        "link": "https://www.theverge.com/tesla/631308/mark-rober-tesla-youtube-autopilot-lidar-fake-claims"
+      },
+      {
+        "title": "People keep putting fake walls in front of Teslas",
+        "link": "https://www.theverge.com/news/634130/tesla-fsd-wile-e-coyote-youtube-test-cybertruck"
+      }
+    ],
+    "lastUpdated": "2025-03-21T23:11:46.556Z"
+  },
+  {
+    "title": "Cloudflare turns AI against itself with endless maze of irrelevant facts",
+    "id": "12qhyz21hqsvrf",
+    "summary": "- Cloudflare has launched a new feature called [AI Labyrinth](https://blog.cloudflare.com/ai-labyrinth/) to combat unauthorized AI data scraping.\n- The tool serves fake AI-generated content to bots, wasting their resources rather than blocking them.\n- This approach is a shift from traditional strategies and aims to protect websites by enticing crawlers into a maze of irrelevant pages.\n- The AI-generated content is based on real scientific facts to avoid spreading misinformation.\n- AI Labyrinth operates as a next-generation honeypot, designed to deceive modern bots more effectively by embedding false links that are invisible to human visitors.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "Cloudflare",
+      "AI Labyrinth",
+      "data scraping",
+      "AI-generated content",
+      "website protection",
+      "fake content",
+      "bots",
+      "honeypot"
+    ],
+    "sources": [
+      {
+        "title": "Cloudflare turns AI against itself with endless maze of irrelevant facts",
+        "link": "https://arstechnica.com/ai/2025/03/cloudflare-turns-ai-against-itself-with-endless-maze-of-irrelevant-facts/"
+      }
+    ],
+    "lastUpdated": "2025-03-21T23:11:46.554Z"
+  },
+  {
+    "title": "Microsoft Warns of Upgraded XCSSET Malware and Malvertising Campaign Targeting Nearly 1 Million Devices",
+    "id": "0ence0r1izqlxw",
+    "summary": "- Microsoft reports that XCSSET macOS malware has been upgraded with enhanced features.\n- New capabilities include targeting digital wallets, collecting data from the Notes app, and exfiltrating system information.\n- Microsoft Defender for Endpoint on Mac now detects this new variant, with future indicators of compromise to be provided.\n- Developers are advised to inspect all Xcode projects downloaded from repositories to avoid malware infections.\n\n- Nearly 1 million devices affected, targeting individuals and various organizations.\n- The campaign used GitHub, Discord, and Dropbox to distribute malicious payloads.\n- Malware harvested sensitive data from browsers and cloud services, including login information and cryptocurrency wallet data.\n- Microsoft suspects the malicious ads were on streaming sites offering unauthorized content.\n- Microsoft Defender now detects the malicious files used in the attack and provides guidance for users.",
+    "thumbnails": [
+      "https://cdn.arstechnica.net/wp-content/uploads/2025/03/4-stage-malvertising-infection-640x445.webp"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8.5,
+      "novelty": 6.5,
+      "longTermSignificance": 6.5
+    },
+    "keywords": [
+      "xcsset",
+      "macos",
+      "malware",
+      "microsoft",
+      "cybersecurity",
+      "data exfiltration",
+      "xcode",
+      "developers",
+      "malicious software",
+      "malvertising",
+      "windows devices",
+      "data theft",
+      "unauthorized content streaming"
+    ],
+    "sources": [
+      {
+        "title": "Microsoft warns that the powerful XCSSET macOS malware is back with new tricks",
+        "link": "https://arstechnica.com/security/2025/02/microsoft-warns-that-the-powerful-xcsset-macos-malware-is-back-with-new-tricks/"
+      },
+      {
+        "title": "Nearly 1 million Windows devices targeted in advanced “malvertising” spree",
+        "link": "https://arstechnica.com/security/2025/03/nearly-1-million-windows-devices-targeted-in-advanced-malvertising-spree/"
+      }
+    ],
+    "lastUpdated": "2025-03-21T23:11:46.548Z"
+  },
+  {
+    "title": "Copilot exposes private GitHub pages, some removed by Microsoft",
+    "id": "1vogg4u01kejfl",
+    "summary": "- Microsoft’s Copilot AI assistant exposed over 20,000 private GitHub repositories from major companies including Google, Intel, and Microsoft itself.\n- These repositories were previously public but switched to private due to sensitive information being present.\n- AI security firm Lasso discovered the issue in late 2024, finding Copilot continued to access and expose these private repositories.\n- The problem was traced to Bing's cache, which did not remove entries when repositories changed from public to private.\n- Microsoft has made changes following Lasso's report in November, but a repository related to a lawsuit against Microsoft remained exposed until removed.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 8,
+      "impact": 9,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "Microsoft",
+      "GitHub",
+      "Copilot",
+      "AI",
+      "data privacy",
+      "security breach",
+      "repositories"
+    ],
+    "sources": [
+      {
+        "title": "Copilot exposes private GitHub pages, some removed by Microsoft",
+        "link": "https://arstechnica.com/information-technology/2025/02/copilot-exposes-private-github-pages-some-removed-by-microsoft/"
+      }
+    ],
+    "lastUpdated": "2025-03-21T23:11:46.546Z"
+  },
+  {
+    "title": "As the Kernel Turns: Rust in Linux saga reaches the “Linus in all-caps” phase",
+    "id": "04l3pom0swjl2s",
+    "summary": "- Rust, a memory-safe programming language, is making its way into the Linux kernel amidst ongoing debates.\n- Linus Torvalds approved Rust code support in the kernel in October 2022, but progress has faced frustrations and stalls.\n- Hector Martin resigned from the Linux maintainers list, citing burnout and roadblocks in implementing Rust for efficient driver work.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 8,
+      "impact": 7,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "Rust",
+      "Linux kernel",
+      "Linus Torvalds",
+      "C programming",
+      "open source",
+      "software development"
+    ],
+    "sources": [
+      {
+        "title": "As the Kernel Turns: Rust in Linux saga reaches the “Linus in all-caps” phase",
+        "link": "https://arstechnica.com/gadgets/2025/02/linux-leaders-pave-a-path-for-rust-in-kernel-while-supporting-c-veterans/"
+      }
+    ],
+    "lastUpdated": "2025-03-21T23:11:46.545Z"
+  },
+  {
     "title": "Anthropic Introduces Web Search in Claude Chatbot as Part of AI Strategy",
     "id": "0o9g1wd1bfik3e",
     "summary": "- Anthropic is focusing on advanced AI models and vertical experiences rather than mass-market adoption.\n- Claude Code reached 100,000 users in its first week, indicating strong interest in targeted applications.\n- Plans for more AI agents and developing smaller, cheaper models for developers are in place.\n- Web search capabilities have been added to the Claude chatbot, currently in 'feature preview' for U.S. users of the Claude 3.7 Sonnet model.\n- Claude autonomously decides if web search enhances its responses, contrasting with OpenAI's manual search selection.",
@@ -16324,35 +16485,6 @@
       }
     ],
     "lastUpdated": "2025-03-17T21:12:47.248Z"
-  },
-  {
-    "title": "Mark Rober’s Tesla Video: Controversy and Analysis",
-    "id": "1tnfqk30dim4sx",
-    "summary": "- Mark Rober's video compares Tesla’s Autopilot with lidar-equipped vehicles by testing their braking before hitting a wall.\n- The Tesla Model Y crashed into the wall while the lidar vehicle stopped successfully.\n- The video garnered 10 million views in two days, praised for exposing Autopilot's shortcomings but also criticized for possible deception.\n- Several claims from viewers suggest inconsistencies in the video, questioning whether Autopilot was active during the test.\n- Rober released raw footage showing Autopilot was engaged moments before the crash, but critics argue it disengaged right before impact.\n- Concerns have been raised regarding Rober's potential sponsorship by lidar company Luminar due to its prominent branding in the video.\n- Rober denied any compensation from Luminar, claiming it was not a paid promotion.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 5
-    },
-    "keywords": [
-      "Mark Rober",
-      "Tesla",
-      "Autopilot",
-      "lidar",
-      "YouTube",
-      "driver assistance",
-      "Luminar",
-      "self-driving cars"
-    ],
-    "sources": [
-      {
-        "title": "Mark Rober’s Tesla Video: Controversy and Analysis",
-        "link": "https://www.theverge.com/tesla/631308/mark-rober-tesla-youtube-autopilot-lidar-fake-claims"
-      }
-    ],
-    "lastUpdated": "2025-03-17T21:12:47.247Z"
   },
   {
     "title": "Google has a fix for all of the broken Chromecasts",
@@ -37872,81 +38004,5 @@
       }
     ],
     "lastUpdated": "2025-03-08T01:52:12.253Z"
-  },
-  {
-    "title": "Reddit Implements Warning System for Upvoting Banned Content and Flags 'Luigi' as Violent",
-    "id": "1dd7wwk0bxhr95",
-    "summary": "- Reddit will start warning users who repeatedly upvote banned content, particularly violent material.\n- Most users are unlikely to be affected, as they typically downvote or report abuse.\n- There are concerns about user paranoia regarding voting, but Reddit plans to address this.\n- Previous tests indicated warnings helped reduce bad content exposure in quarantined communities, leading to this sitewide change.\n- The AutoModerator mistakenly flagged 'Luigi' as violent in unrelated posts, particularly in r/popculture.\n- The r/popculture moderator is stepping down amid issues with Reddit admin, prompting the automation to trigger.\n- This moderation crackdown coincides with a new policy on upvoting banned content.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195819/JAY_PETERS.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
-    ],
-    "scores": {
-      "scale": 6,
-      "impact": 6.5,
-      "novelty": 5,
-      "longTermSignificance": 5
-    },
-    "keywords": [
-      "reddit",
-      "content moderation",
-      "upvote",
-      "banned content",
-      "warnings",
-      "policy changes",
-      "moderation",
-      "automoderator",
-      "luigi",
-      "automation",
-      "community guidelines"
-    ],
-    "sources": [
-      {
-        "title": "Reddit will warn users who repeatedly upvote banned content",
-        "link": "https://www.theverge.com/news/625075/reddit-will-warn-users-who-repeatedly-upvote-banned-content"
-      },
-      {
-        "title": "A Reddit moderation tool is flagging ‘Luigi’ as potentially violent content",
-        "link": "https://www.theverge.com/news/626139/reddit-luigi-mangione-automod-tool"
-      }
-    ],
-    "lastUpdated": "2025-03-07T23:10:19.324Z"
-  },
-  {
-    "title": "MrBeast Plans $5bn Investment Round for Beast Industries",
-    "id": "1g7vnwn01076pv",
-    "summary": "- MrBeast (Jimmy Donaldson) aims to raise hundreds of millions, valuing his company at around $5bn (£3.9bn).\n- He plans to create a holding company for his ventures like video production, Feastables, and Lunchly after achieving over $400m in sales last year.\n- Fundraising is in early talks, with past investments from firms like Alpha Wave Global; MrBeast has 368 million YouTube subscribers and successful ventures like Beast Games on Amazon.\n- He seeks to raise $200 million for Beast Industries, anticipating a shift from video content to consumer products like Feastables, projected to surpass video revenue.\n- Beast Industries experienced losses of approximately $200 million recently, but significant growth in consumer packaged goods (CPG) sales is expected.\n- In 2024, both Content and Commerce divisions generated about $250 million, with revenue projections of $900 million for 2025 and $1.6 billion for 2026.\n- MrBeast adopts a high-risk investment approach, reinvesting profits and maintaining a low personal bank balance, while optimistic about potential rewards of risk-taking.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 8,
-      "impact": 9,
-      "novelty": 7,
-      "longTermSignificance": 8
-    },
-    "keywords": [
-      "mrbeast",
-      "investment",
-      "youtube",
-      "business",
-      "feastables",
-      "lunchly",
-      "fundraising",
-      "media",
-      "philanthropy",
-      "beast industries",
-      "cpg",
-      "business growth",
-      "revenue"
-    ],
-    "sources": [
-      {
-        "title": "YouTube star MrBeast planning investment round that could value company at $5bn",
-        "link": "https://www.theguardian.com/technology/2025/feb/27/youtube-star-mrbeast-planning-investment-round-that-could-value-company"
-      },
-      {
-        "title": "Inside the high-wire business of MrBeast",
-        "link": "https://www.theverge.com/command-line-newsletter/626330/mrbeast-business-youtube-feastables-fundraising"
-      }
-    ],
-    "lastUpdated": "2025-03-07T23:10:19.322Z"
   }
 ]

@@ -4,6 +4,27 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "People keep putting fake walls in front of Teslas",
+      "link": "https://www.theverge.com/news/634130/tesla-fsd-wile-e-coyote-youtube-test-cybertruck",
+      "author": "Umar Shakir",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195848/UMAR_SHAKIR.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- YouTuber Mark Rober's fake wall test for Tesla FSD prompted a new video by Kyle Paul addressing FSD's obstacle detection capabilities.\n- Paul's video features a Tesla Model Y with HW3 and a Cybertruck with HW4, testing FSD’s response to a Wile E. Coyote-style fake wall.\n- The Model Y failed to detect the wall, while the Cybertruck successfully slowed down and stopped before hitting it.",
+      "keywords": [
+        "Tesla",
+        "FSD",
+        "YouTube",
+        "Wile E. Coyote",
+        "self-driving cars"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-03-21T22:34:30.000Z"
+    },
+    {
       "title": "It’s time to squad up in this preview from Apple’s Mythic Quest spinoff series",
       "link": "https://www.theverge.com/news/633884/mythic-quest-side-quest-the-last-raid",
       "author": null,
@@ -1106,28 +1127,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-20T17:18:37.000Z"
-    },
-    {
-      "title": "Threads finally lets you set the following feed as default",
-      "link": "https://www.theverge.com/news/633135/threads-limit-replies-followers-custom-feed-default",
-      "author": "Tom Warren",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197777/profilephoto.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Meta allows Threads users to set following or custom feeds as default.\n- New features include limiting reply options to followers, a better video player, and the ability to add topics in bios.\n- This customizable feed option begins rolling out after user requests since Threads' launch in December 2023.",
-      "keywords": [
-        "Threads",
-        "Meta",
-        "social media",
-        "custom feeds",
-        "video player",
-        "user engagement"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-20T17:00:00.000Z"
     }
   ]
 }
