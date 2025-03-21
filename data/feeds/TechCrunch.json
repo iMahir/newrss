@@ -4,6 +4,28 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Russian Zero-Day Seller Offers Up to $4 Million for Telegram Exploits",
+      "link": "https://techcrunch.com/2025/03/21/russian-zero-day-seller-is-offering-up-to-4-million-for-telegram-exploits/",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "thumbnail": null,
+      "summary": "- Operation Zero, a company selling zero-days to the Russian government, is seeking exploits for Telegram.\n- Offers up to $4 million for a 'full chain' of exploits, up to $1.5 million for a zero-click RCE exploit, and $500,000 for a one-click RCE exploit.\n- The focus on Telegram is strategic due to its popularity in Russia and Ukraine, indicating government demand.\n- Zero-days are valuable for being unknown to software makers, allowing hackers to exploit technology effectively.\n- RCE exploits are highly sought after as they enable remote control over apps or systems.\n- The bounty coincides with Ukraine's ban of Telegram for military personnel due to security concerns.\n- Experts warn about Telegram's security, as it lacks robust end-to-end encryption compared to competitors.\n- Some industry insiders believe advertised prices are low, noting potential for higher resale value.",
+      "keywords": [
+        "zero-day",
+        "Telegram",
+        "cybersecurity",
+        "exploit market",
+        "Russian government",
+        "Operation Zero"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-21T13:05:00.000Z"
+    },
+    {
       "title": "Google claims news is worthless to its ad business after test involving 1% of search results in eight EU markets",
       "link": "https://techcrunch.com/2025/03/21/google-claims-news-is-worthless-to-its-ad-business-after-test-involving-1-of-search-results-in-eight-eu-markets/",
       "author": "Natasha Lomas",
@@ -1145,30 +1167,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-03-19T21:15:00.000Z"
-    },
-    {
-      "title": "OpenAI research lead Noam Brown thinks AI ‘reasoning’ models could’ve arrived decades ago",
-      "link": "https://techcrunch.com/2025/03/19/openai-research-lead-noam-brown-thinks-ai-reasoning-models-couldve-arrived-decades-ago/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- Noam Brown, leading AI reasoning research at OpenAI, believes reasoning AI models could have emerged 20 years earlier with the right approaches.\n- Speaking at Nvidia’s GTC conference, Brown highlighted the importance of reasoning in AI, inspired by human thought processes.\n- Brown is a key figure behind the o1 model, which employs test-time inference to enhance reasoning capabilities in AI.\n- While pre-training remains relevant, AI labs are increasingly focusing on complementing it with test-time inference.\n- He noted the growing challenges for academia in scaling experiments due to limited computing resources but emphasized potential collaborations with labs.\n- Brown criticized the current state of AI benchmarks, calling for improvements that do not require extensive computing power.",
-      "keywords": [
-        "AI",
-        "reasoning",
-        "Noam Brown",
-        "OpenAI",
-        "o1 model",
-        "test-time inference",
-        "Nvidia GTC",
-        "AI benchmarks"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-19T21:13:16.000Z"
     }
   ]
 }
