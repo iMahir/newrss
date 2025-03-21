@@ -4,6 +4,78 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Anthropic appears to be using Brave to power web searches for its Claude chatbot",
+      "link": "https://techcrunch.com/2025/03/21/anthropic-appears-to-be-using-brave-to-power-web-searches-for-its-claude-chatbot/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Anthropic launched a web search feature for its AI chatbot Claude.\n- Evidence indicates that Brave Search is powering Claude's web search functionality.\n- Brave previously collaborated with Mistral to provide search capabilities for their chatbot, Le Chat.\n- Other AI companies, like OpenAI, maintain undisclosed partnerships for web search services.\n- Anthropic has not confirmed the partnership with Brave but included it in the subprocessors list for Claude.",
+      "keywords": [
+        "Anthropic",
+        "Claude",
+        "Brave Search",
+        "AI chatbot",
+        "web search",
+        "Mistral",
+        "OpenAI"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-03-21T17:07:03.000Z"
+    },
+    {
+      "title": "Startups Weekly: Wiz’s bet paid off in an M&A-rich week",
+      "link": "https://techcrunch.com/2025/03/21/startups-weekly-wizs-bet-paid-off-in-an-ma-rich-week/",
+      "author": "Anna Heim",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/10/Assaf-Rappaport-Wiz.jpg?w=680",
+      "summary": "- Wiz walks away from a $23 billion offer from Google, which later agrees to acquire Wiz for a record $32 billion in cash, plus $1 billion in retention bonuses.\n- SoftBank to acquire Ampere Computing for $6.5 billion in an all-cash deal.\n- Next Insurance gets acquired by Munich Re for $2.6 billion.\n- Nvidia reportedly acquires Gretel, a synthetic data startup, for over $320 million.\n- Klarna signs as Walmart's exclusive BNPL partner after its IPO filing.\n- Flexport sues former employees for allegedly stealing code to create a rival startup, Freightmate AI.\n- New startup Spangle AI aims to create custom landing pages for e-commerce shoppers, launched by former Bolt CEO.\n- Evroc raises $55 million for a European hyperscale cloud project.\n- Graphite, an AI-powered code-review platform, secures $52 million in funding.",
+      "keywords": [
+        "startups",
+        "M&A",
+        "Wiz",
+        "Google",
+        "acquisitions",
+        "tech news",
+        "investment",
+        "funding"
+      ],
+      "scores": {
+        "scale": 9,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-21T17:05:00.000Z"
+    },
+    {
+      "title": "TechCrunch Mobility: Inside Waymo’s deal with SFO, Elon’s moment of truth, and BYD’s breakthrough",
+      "link": "https://techcrunch.com/2025/03/21/techcrunch-mobility-inside-waymos-deal-with-sfo-elons-moment-of-truth-and-byds-breakthrough/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2019/10/blinky-cat-bird-green.gif?w=680",
+      "summary": "- Waymo has struck a deal with San Francisco Airport to map airport roadways, with future potential for robotaxi expansion.\n- The agreement includes data-sharing requirements and prohibits the use of autonomous vehicles for moving commercial goods.\n- Coreshell raised $24 million in funding; Einride may file for an IPO valuing at over $5 billion; Evera raised 2 million euros; Leta secured $5 million in seed funding; Seadronix received $11.3 million in Series B funding.\n- BYD announced innovative EV charging technology; Honda and Acura will access Tesla’s Supercharger network in June; Tesla recalled 46,000 Cybertrucks for safety issues; Elon Musk faces scrutiny regarding his role in his companies amidst a crisis.",
+      "keywords": [
+        "Waymo",
+        "SFO",
+        "robotaxi",
+        "autonomous vehicles",
+        "BYD",
+        "EV charging",
+        "Coreshell",
+        "IPO",
+        "Elon Musk"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-21T17:05:00.000Z"
+    },
+    {
       "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
       "link": "https://techcrunch.com/2025/03/21/chatgpt-everything-to-know-about-the-ai-chatbot/",
       "author": null,
@@ -1093,79 +1165,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-20T05:32:53.000Z"
-    },
-    {
-      "title": "ClearGrid, armed with a fresh $10M, is developing AI to improve debt collection in MENA",
-      "link": "https://techcrunch.com/2025/03/19/cleargrid-armed-with-10m-uses-ai-to-fix-debt-collection-in-mena/",
-      "author": "Mohammed Al Zaben, Khalid Bin Bader Al Saud, Mohammed Khalili",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/ClearGrid-team-1.jpeg?w=680",
-      "summary": "- ClearGrid, a Dubai-based startup, has raised $10 million to modernize debt collection in emerging markets using AI.\n- The company aims to help banks and fintechs recover debts without customer harassment, targeting the outdated practices in the industry.\n- Founded in May 2023 by Mohammed Al Zaben and his co-founders, ClearGrid processes borrower accounts via its platform, with 95% of operations fully automated.\n- Its AI models can predict repayment likelihood and personalize outreach, significantly improving recovery rates compared to traditional collection agencies.\n- ClearGrid claims a 30% increase in recovery rates and a 50% reduction in collection costs for partnered banks and fintechs.\n- The startup is currently profitable in the UAE and plans to expand its operations to Saudi Arabia.",
-      "keywords": [
-        "debt collection",
-        "AI",
-        "ClearGrid",
-        "MENA",
-        "fintech",
-        "startup",
-        "loan recovery",
-        "consumer protection",
-        "automation",
-        "lending"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-20T04:00:00.000Z"
-    },
-    {
-      "title": "SoftBank to acquire semiconductor designer Ampere in $6.5B all-cash deal",
-      "link": "https://techcrunch.com/2025/03/19/softbank-to-acquire-semiconductor-designer-ampere-in-6-5b-all-cash-deal/",
-      "author": "Kate Park",
-      "thumbnail": null,
-      "summary": "- SoftBank Group will acquire Ampere Computing for $6.5 billion in cash.\n- The acquisition aims to enhance SoftBank's investment in AI infrastructure.\n- Ampere will operate as a wholly-owned subsidiary, with the deal expected to close in the second half of 2025.\n- Major shareholders Carlyle and Oracle will sell their stakes, comprising over 90% of Ampere's ownership.\n- Ampere, founded in 2017, employs about 1,000 engineers and specializes in high-performance computing chips based on ARM technology.\n- This acquisition follows a series of recent investments by SoftBank in AI-related projects and technologies.",
-      "keywords": [
-        "SoftBank",
-        "Ampere Computing",
-        "semiconductor",
-        "acquisition",
-        "AI",
-        "high-performance computing",
-        "ARM technology"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-20T03:28:47.000Z"
-    },
-    {
-      "title": "How a $6M bet on Wiz turned into a massive 200x return for one early backer",
-      "link": "https://techcrunch.com/2025/03/19/how-a-6m-bet-on-wiz-turned-into-a-massive-200x-return-for-one-early-backer/",
-      "author": "Marina Temkin",
-      "thumbnail": null,
-      "summary": "- Wiz was acquired by Alphabet for $32 billion, promising large returns for investors.\n- Sequoia Capital, an early investor, stands to make $3 billion, around 25x their investment.\n- Cyberstarts invested $6.4 million in Wiz's seed round, expecting to make $1.3 billion, a return of 222x.\n- Cyberstarts has total returns of $1.42 billion, including earlier share sales.\n- Index Ventures, another major backer, will profit over $3.8 billion from the deal.",
-      "keywords": [
-        "Wiz",
-        "Alphabet",
-        "venture capital",
-        "investment",
-        "Cyberstarts",
-        "Sequoia Capital",
-        "cybersecurity",
-        "acquisition"
-      ],
-      "scores": {
-        "scale": 10,
-        "impact": 9,
-        "novelty": 8,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-20T00:21:13.000Z"
     }
   ]
 }
