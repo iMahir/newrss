@@ -4,6 +4,27 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Hue accidentally leaks a new video doorbell",
+      "link": "https://www.theverge.com/news/634362/hue-secure-video-doorbell-leak-app-qr-code-update",
+      "author": "Wes Davis",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196306/unnamed.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- An update to the Philips Hue app leaked a new Hue Secure video doorbell.\n- The product features a straightforward design with a large button and is likely a wired device.\n- Setup involves Bluetooth and Wi-Fi, and the camera is expected to launch in fall 2025, but details on pricing and specs are still unavailable.",
+      "keywords": [
+        "Philips Hue",
+        "video doorbell",
+        "Hue Secure",
+        "home security",
+        "smart home"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 3
+      },
+      "pubDate": "2025-03-22T22:20:45.000Z"
+    },
+    {
       "title": "Cloudflare is luring web-scraping bots into an ‘AI Labyrinth’",
       "link": "https://www.theverge.com/news/634345/cloudflare-ai-labyrinth-web-scraping-bots-training-data",
       "author": "Wes Davis",
@@ -1108,31 +1129,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-03-20T19:56:27.000Z"
-    },
-    {
-      "title": "An easy to read and interpret title for the article as a string.",
-      "link": "https://www.theverge.com/policy/633397/ftc-bedoya-slaughter-democrat-media",
-      "author": "Sarah Jeong",
-      "thumbnail": null,
-      "summary": "- President Trump fired Democratic commissioners Alvaro Bedoya and Rebecca Kelly Slaughter at the FTC, violating longstanding legal precedent from 1935.\n- Outlets including The Verge faced backlash for using cautious language in their headlines, which did not clearly state the firings were illegal.\n- The legality of the firings is likely to be challenged in court, with implications for presidential power and the independence of the FTC.",
-      "keywords": [
-        "Trump",
-        "FTC",
-        "commissioners",
-        "firing",
-        "legal precedent",
-        "humphreys executor",
-        "independent agency",
-        "journalism",
-        "media ethics"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-20T19:54:52.000Z"
     }
   ]
 }
