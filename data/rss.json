@@ -1,5 +1,43 @@
 [
   {
+    "title": "Cloudflare Uses AI Labyrinth to Combat Web-Scraping Bots",
+    "id": "12qhyz21hqsvrf",
+    "summary": "- Cloudflare has launched a new feature called [AI Labyrinth](https://blog.cloudflare.com/ai-labyrinth/) to combat unauthorized AI data scraping.\n- The tool serves fake AI-generated content to bots, wasting their resources rather than blocking them.\n- This approach is a shift from traditional strategies and aims to protect websites by enticing crawlers into a maze of irrelevant pages.\n- The AI-generated content is based on real scientific facts to avoid spreading misinformation.\n- AI Labyrinth operates as a next-generation honeypot, designed to deceive modern bots more effectively by embedding false links that are invisible to human visitors.\n- Cloudflare has launched AI Labyrinth, a tool to combat web-scraping bots.\n- The tool lures harmful crawlers into decoy pages to waste their resources.\n- It identifies and fingerprints malicious bots to improve defenses.\n- Website administrators can opt in via the Cloudflare dashboard.\n- AI Labyrinth aims to develop networks of linked URLs to further trap bots.",
+    "thumbnails": [
+      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196306/unnamed.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 7.5,
+      "novelty": 6,
+      "longTermSignificance": 7.5
+    },
+    "keywords": [
+      "cloudflare",
+      "ai labyrinth",
+      "data scraping",
+      "ai-generated content",
+      "website protection",
+      "fake content",
+      "bots",
+      "honeypot",
+      "web scraping",
+      "internet security",
+      "decoy pages"
+    ],
+    "sources": [
+      {
+        "title": "Cloudflare turns AI against itself with endless maze of irrelevant facts",
+        "link": "https://arstechnica.com/ai/2025/03/cloudflare-turns-ai-against-itself-with-endless-maze-of-irrelevant-facts/"
+      },
+      {
+        "title": "Cloudflare is luring web-scraping bots into an ‘AI Labyrinth’",
+        "link": "https://www.theverge.com/news/634345/cloudflare-ai-labyrinth-web-scraping-bots-training-data"
+      }
+    ],
+    "lastUpdated": "2025-03-22T19:09:09.401Z"
+  },
+  {
     "title": "Reid Hoffman: ‘Start using AI deeply. It is a huge intelligence amplifier’",
     "id": "0llk80p0wshe8n",
     "summary": "- Reid Hoffman, co-founder of LinkedIn, discusses the potential of AI in his new book 'Superagency'.\n- He emphasizes AI's role as an 'intelligence amplifier' that can enhance human agency and empowerment.\n- Hoffman asserts the AI revolution could bring about a 'cognitive Industrial Revolution', despite concerns about negative impacts on jobs.\n- He differentiates beneficial AI tools like chatbots from harmful technologies such as facial recognition and surveillance.\n- He encourages embracing AI for job transformation rather than fearing obsolescence, promoting a mindset of adaptation.\n- Hoffman critiques the slow adoption of AI governance, urging democratic countries to lead in the cognitive revolution before autocratic regimes do.\n- He highlights the importance of fact-checking in technology and points out shortcomings in current tech narratives on DEI and misinformation.\n- Hoffman advocates for iterative AI regulation and the need for transparency in AI tools to prevent biased outcomes.",
@@ -1366,35 +1404,6 @@
       }
     ],
     "lastUpdated": "2025-03-21T23:11:46.556Z"
-  },
-  {
-    "title": "Cloudflare turns AI against itself with endless maze of irrelevant facts",
-    "id": "12qhyz21hqsvrf",
-    "summary": "- Cloudflare has launched a new feature called [AI Labyrinth](https://blog.cloudflare.com/ai-labyrinth/) to combat unauthorized AI data scraping.\n- The tool serves fake AI-generated content to bots, wasting their resources rather than blocking them.\n- This approach is a shift from traditional strategies and aims to protect websites by enticing crawlers into a maze of irrelevant pages.\n- The AI-generated content is based on real scientific facts to avoid spreading misinformation.\n- AI Labyrinth operates as a next-generation honeypot, designed to deceive modern bots more effectively by embedding false links that are invisible to human visitors.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "Cloudflare",
-      "AI Labyrinth",
-      "data scraping",
-      "AI-generated content",
-      "website protection",
-      "fake content",
-      "bots",
-      "honeypot"
-    ],
-    "sources": [
-      {
-        "title": "Cloudflare turns AI against itself with endless maze of irrelevant facts",
-        "link": "https://arstechnica.com/ai/2025/03/cloudflare-turns-ai-against-itself-with-endless-maze-of-irrelevant-facts/"
-      }
-    ],
-    "lastUpdated": "2025-03-21T23:11:46.554Z"
   },
   {
     "title": "Microsoft Warns of Upgraded XCSSET Malware and Malvertising Campaign Targeting Nearly 1 Million Devices",

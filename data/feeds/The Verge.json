@@ -4,6 +4,28 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Cloudflare is luring web-scraping bots into an ‘AI Labyrinth’",
+      "link": "https://www.theverge.com/news/634345/cloudflare-ai-labyrinth-web-scraping-bots-training-data",
+      "author": "Wes Davis",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196306/unnamed.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Cloudflare has launched AI Labyrinth, a tool to combat web-scraping bots.\n- The tool lures harmful crawlers into decoy pages to waste their resources.\n- It identifies and fingerprints malicious bots to improve defenses.\n- Website administrators can opt in via the Cloudflare dashboard.\n- AI Labyrinth aims to develop networks of linked URLs to further trap bots.",
+      "keywords": [
+        "Cloudflare",
+        "AI Labyrinth",
+        "web scraping",
+        "bots",
+        "internet security",
+        "decoy pages"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-22T18:17:38.000Z"
+    },
+    {
       "title": "Photo Mode is my new gaming obsession",
       "link": "https://www.theverge.com/games/634125/assassins-creed-shadows-photo-mode-infinity-nikki",
       "author": "Ash Parrish",
@@ -1111,28 +1133,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-20T19:54:52.000Z"
-    },
-    {
-      "title": "Google is improving Gmail’s search with AI",
-      "link": "https://www.theverge.com/news/633459/google-gmail-search-ai-most-relevant-results",
-      "author": "Andrew Liszewski",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197412/headshot_andrewL_blackwhite.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Google is introducing an AI-powered upgrade for Gmail’s search function to enhance email discovery.\n- The search results will now consider criteria like recency, most-clicked emails, and frequent contacts, improving the relevance of search outcomes.\n- This update is being rolled out globally for personal Google account users, usable in web browsers and Gmail apps for Android and iOS; users can toggle between chronological and relevant results.",
-      "keywords": [
-        "Gmail",
-        "AI",
-        "email search",
-        "Google",
-        "technology",
-        "update"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-20T19:39:35.000Z"
     }
   ]
 }
