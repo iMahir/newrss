@@ -4,6 +4,119 @@
   "feedUrl": "https://www.techinasia.com/feed",
   "items": [
     {
+      "title": "Google’s Gemini now offers AI-generated audio summaries",
+      "link": "https://www.techinasia.com/news/googles-gemini-now-offers-ai-generated-audio-summaries",
+      "author": null,
+      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2024/12/1735104416_shutterstock_2423191581-scaled.jpg",
+      "summary": "- Google has introduced a \"Generate Audio Overview\" feature in its Gemini app for creating audio summaries from detailed reports.\n- This feature is available to both free users and Advanced subscribers, previously seen in NotebookLM since September 2024.\n- Users can utilize Gemini’s Deep Research tool to generate reports and listen to summaries, enhancing accessibility and interactivity for research material.",
+      "keywords": [
+        "Google",
+        "Gemini",
+        "AI",
+        "audio summaries",
+        "technology",
+        "Deep Research"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-22T05:00:52.000Z"
+    },
+    {
+      "title": "Baidu stresses strict privacy rules after data leak incident",
+      "link": "https://www.techinasia.com/news/baidu-stresses-strict-privacy-rules-after-data-leak-incident",
+      "author": null,
+      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/02/1739267512_shutterstock_2405338195-scaled.jpg",
+      "summary": "- Baidu denied allegations of breaching user privacy following a doxxing incident involving the daughter of VP Xie Guangjun.\n- The company claims that the leaked data was from an overseas database with illegally acquired information, not its own systems.\n- Baidu's security chief reinforced strict privacy protocols, including data anonymization and access controls.\n- In response to criticism, Baidu announced a fund to combat cybercrime and plans to form an anti-doxxing alliance.\n- The incident raises concerns about user privacy and potential risks to Baidu’s cloud storage and AI services.",
+      "keywords": [
+        "Baidu",
+        "privacy",
+        "data leak",
+        "doxxing",
+        "cybercrime",
+        "user information",
+        "AI services",
+        "cloud storage"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-22T05:00:27.000Z"
+    },
+    {
+      "title": "Ticket resale firm StubHub files for New York IPO",
+      "link": "https://www.techinasia.com/news/ticket-resale-firm-stubhub-files-for-new-york-ipo",
+      "author": null,
+      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/03/1742606044_shutterstock_324849083-scaled.jpg",
+      "summary": "- StubHub has filed for an IPO on the New York Stock Exchange under the ticker symbol “STUB”.\n- The company reported a net loss of US$2.8 million on US$1.77 billion in revenue for 2024, contrasting with a US$405 million profit in 2023.\n- Founded in 2000 and acquired by eBay in 2007, it was bought back by co-founder Eric Baker in 2020 for $US4 billion.\n- In 2023, StubHub sold over 40 million tickets through about 1 million sellers.\n- The IPO market has been sluggish but is recovering with recent filings from other companies.\n- Citigroup and Wells Fargo are reportedly involved in StubHub’s public listing.",
+      "keywords": [
+        "StubHub",
+        "IPO",
+        "New York Stock Exchange",
+        "ticket resale",
+        "market conditions",
+        "eBay",
+        "Viagogo",
+        "ticket sales"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-22T04:40:50.000Z"
+    },
+    {
+      "title": "Tencent introduces large reasoning model Hunyuan-T1",
+      "link": "https://www.techinasia.com/news/tencent-introduces-large-reasoning-model-hunyuant1",
+      "author": null,
+      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2023/01/1673598019_tencent-.jpg",
+      "summary": "- Tencent has launched its large reasoning model, Hunyuan-T1, which ranks highly in AI benchmarks.\n- Hunyuan-T1 scored 87.2 on the MMLU-Pro dataset, ranking second to OpenAI's model.\n- The model also performed well on benchmarks like CEval, AIME, and Zebra Logic, evaluating reasoning in Chinese and English.",
+      "keywords": [
+        "Tencent",
+        "Hunyuan-T1",
+        "artificial intelligence",
+        "language model",
+        "MMLU-Pro",
+        "AI benchmarks"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-22T04:29:22.000Z"
+    },
+    {
+      "title": "UAE unveils $1.4t US investment in AI, semiconductors",
+      "link": "https://www.techinasia.com/news/uae-unveils-1-4t-us-investment-in-ai-semiconductors",
+      "author": null,
+      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2024/12/1733707578_shutterstock_2289143157-scaled.jpg",
+      "summary": "- UAE announces a staggering $1.4 trillion investment in artificial intelligence and semiconductors.\n- The investment aims to boost technological innovation and economic growth in the region.\n- This initiative is seen as a key part of UAE's strategy to diversify its economy and reduce dependence on oil revenues.",
+      "keywords": [
+        "UAE",
+        "investment",
+        "artificial intelligence",
+        "semiconductors",
+        "economic growth"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-22T04:20:39.000Z"
+    },
+    {
       "title": "AI robotics startup Bot Company raises $150m, sources say",
       "link": "https://www.techinasia.com/news/ai-robotics-startup-bot-company-raises-150m-sources-say",
       "author": "Kyle Vogt, Paril Jain, Luke Holoubek",
@@ -865,105 +978,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-03-21T03:45:47.000Z"
-    },
-    {
-      "title": "Gmail introduces AI tool to enhance email search",
-      "link": "https://www.techinasia.com/news/gmail-introduces-ai-tool-enhance-email-search",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-03-21T03:30:41.000Z"
-    },
-    {
-      "title": "Apple names new Siri chief",
-      "link": "https://www.techinasia.com/news/apple-names-siri-chief",
-      "author": null,
-      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/01/1736233984_shutterstock_2480759189-scaled.jpg",
-      "summary": "- Apple is replacing John Giannandrea as the leader of its AI and Siri teams.\n- The transition comes after delays in the rollout of generative AI upgrades for Siri, now pushed to 2025.\n- Mike Rockwell, former leader of Apple's Vision Pro development, is set to succeed Giannandrea.\n- Paule Meade, previously managing hardware engineering for Vision Pro, will lead the Vision Pro Group.",
-      "keywords": [
-        "Apple",
-        "Siri",
-        "AI",
-        "leadership change",
-        "Mike Rockwell",
-        "generative AI"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-21T03:22:03.000Z"
-    },
-    {
-      "title": "Accenture raises revenue outlook on strong AI, cloud demand",
-      "link": "https://www.techinasia.com/news/accenture-raises-revenue-outlook-strong-ai-cloud-demand",
-      "author": null,
-      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2024/12/1733362805_shutterstock_2390551643-scaled.jpg",
-      "summary": "- Accenture revises annual revenue forecast, raising growth expectation to 5%-7%.  \n- Increased forecast attributed to demand for cloud migration, AI-driven digital transformation, and data security.  \n- Secured large-scale projects and partnerships in banking, telecommunications, and sports sectors.",
-      "keywords": [
-        "Accenture",
-        "revenue forecast",
-        "AI",
-        "cloud services",
-        "digital transformation",
-        "data security",
-        "partnerships"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-21T03:15:34.000Z"
-    },
-    {
-      "title": "Unicommerce acquires Shipway shipping platform",
-      "link": "https://www.techinasia.com/news/unicommerce-acquires-shipway-shipping-platform",
-      "author": null,
-      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/03/1740990145_1736773454373.jpeg",
-      "summary": "- Unicommerce has acquired Shipway, a shipping platform to enhance its services.\n- This acquisition aims to streamline logistics and shipping for e-commerce businesses.\n- Unicommerce is looking to strengthen operations in the logistics sector through this deal.",
-      "keywords": [
-        "Unicommerce",
-        "Shipway",
-        "acquisition",
-        "e-commerce",
-        "logistics"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-21T03:07:48.000Z"
-    },
-    {
-      "title": "Microsoft to launch first cloud region in Malaysia",
-      "link": "https://www.techinasia.com/news/microsoft-launch-cloud-region-malaysia",
-      "author": null,
-      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/01/1737185216_shutterstock_2399781273-scaled.jpg",
-      "summary": "- Microsoft plans to open its first cloud region, Malaysia West, by mid-2025.\n- The region will have three data centers in the greater Kuala Lumpur area.\n- Operations are expected to begin in the second quarter of 2025.\n- This follows a US$2.2 billion investment in May 2024 for expanding cloud and AI services in Malaysia over four years.",
-      "keywords": [
-        "Microsoft",
-        "cloud region",
-        "Malaysia",
-        "data center",
-        "Kuala Lumpur",
-        "AI services",
-        "investment"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-21T03:00:37.000Z"
     }
   ]
 }
