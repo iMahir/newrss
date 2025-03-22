@@ -1,5 +1,35 @@
 [
   {
+    "title": "Charlie Javice trial becomes a master class in hubris for both sides",
+    "id": "1usplzj0wqw7hh",
+    "summary": "- Charlie Javice's fraud trial focuses on her allegedly deceiving JPMorgan Chase into acquiring her startup Frank for $175 million, despite having only 300,000 customers.\n- Former Frank engineer Patrick Vovor testified that Javice requested him to create fake user data but refused, prompting her to seek help from a math professor instead.\n- The trial reveals that JPMorgan did not thoroughly vet Frank's user base, highlighting a lack of due diligence in the deal.",
+    "thumbnails": [
+      "https://techcrunch.com/wp-content/uploads/2025/02/Charlie-Javice.jpg?w=1024"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "Charlie Javice",
+      "fraud trial",
+      "JPMorgan Chase",
+      "Frank startup",
+      "user data",
+      "due diligence",
+      "legal issues"
+    ],
+    "sources": [
+      {
+        "title": "Charlie Javice trial becomes a master class in hubris for both sides",
+        "link": "https://techcrunch.com/2025/03/22/charlie-javice-trial-becomes-a-master-class-in-hubris-for-both-sides/"
+      }
+    ],
+    "lastUpdated": "2025-03-22T21:10:14.559Z"
+  },
+  {
     "title": "Cloudflare Uses AI Labyrinth to Combat Web-Scraping Bots",
     "id": "12qhyz21hqsvrf",
     "summary": "- Cloudflare has launched a new feature called [AI Labyrinth](https://blog.cloudflare.com/ai-labyrinth/) to combat unauthorized AI data scraping.\n- The tool serves fake AI-generated content to bots, wasting their resources rather than blocking them.\n- This approach is a shift from traditional strategies and aims to protect websites by enticing crawlers into a maze of irrelevant pages.\n- The AI-generated content is based on real scientific facts to avoid spreading misinformation.\n- AI Labyrinth operates as a next-generation honeypot, designed to deceive modern bots more effectively by embedding false links that are invisible to human visitors.\n- Cloudflare has launched AI Labyrinth, a tool to combat web-scraping bots.\n- The tool lures harmful crawlers into decoy pages to waste their resources.\n- It identifies and fingerprints malicious bots to improve defenses.\n- Website administrators can opt in via the Cloudflare dashboard.\n- AI Labyrinth aims to develop networks of linked URLs to further trap bots.",
