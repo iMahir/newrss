@@ -4,6 +4,28 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Buy now, pay later . . . for a burrito?",
+      "link": "https://techcrunch.com/2025/03/23/buy-now-pay-later-for-a-burrito/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- In 2010, a programmer spent 10,000 bitcoin on two pizzas, worth $850 million today.\n- DoorDash partners with Klarna to allow customers to buy food and pay later in four interest-free payments for orders over $35.\n- Concerns arise about customers missing payments and accruing late fees, highlighting economic worries.",
+      "keywords": [
+        "buy now pay later",
+        "DoorDash",
+        "Klarna",
+        "fast food",
+        "payments",
+        "consumer concerns"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 4,
+        "longTermSignificance": 3
+      },
+      "pubDate": "2025-03-23T21:56:34.000Z"
+    },
+    {
       "title": "Barack Obama joins Bluesky",
       "link": "https://techcrunch.com/2025/03/23/barack-obama-joins-bluesky/",
       "author": "null",
@@ -1126,29 +1148,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-20T16:04:18.000Z"
-    },
-    {
-      "title": "Airbyte launches new connectors to help companies better leverage their data",
-      "link": "https://techcrunch.com/2025/03/20/airbyte-launches-new-connectors-to-help-companies-better-leverage-their-data/",
-      "author": "Michel Tricot, Jean Lafleur",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/iceberg.png?w=680",
-      "summary": "- Open-source data movement company [Airbyte](https://airbyte.com/) is launching new connectors for enterprises to utilize data effectively in the age of AI.\n- New features include support for unstructured data transfer from Google Drive and SharePoint, along with compatibility with [Apache Iceberg](https://iceberg.apache.org/).\n- A new connector bundle for enterprise customers includes data connector pipelines for applications like NetSuite, SAP, ServiceNow, and Workday.\n- Airbyte provides enterprises with control over their data, allowing them to protect sensitive information during data transfer.\n- The company was founded in 2020 and has raised over $181 million in venture capital, serving more than 7,000 enterprise customers.",
-      "keywords": [
-        "Airbyte",
-        "data connectors",
-        "enterprise data",
-        "Apache Iceberg",
-        "AI applications",
-        "data sovereignty",
-        "data management"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-20T16:00:00.000Z"
     }
   ]
 }
