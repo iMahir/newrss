@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "The Apple Watch may get cameras and Apple Intelligence",
+      "link": "https://www.theverge.com/news/634395/apple-watch-apple-intelligence-cameras",
+      "author": "Wes Davis",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Apple-Watch-Series-10.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "summary": "- Apple is planning to release camera-equipped AI wearables by 2027.\n- According to Bloomberg’s Mark Gurman, cameras will be positioned inside the display for standard Series Watch and on the side for Apple Watch Ultra.\n- New Visual Intelligence features will enable the watch to recognize the outside world and provide relevant information stemming from similar functionalities used in iPhone 16.\n- The launch of these devices is part of Apple’s broader move into AI, with in-house models expected to support these features by 2027.",
+      "keywords": [
+        "Apple Watch",
+        "cameras",
+        "AI wearables",
+        "Visual Intelligence",
+        "Mark Gurman",
+        "technology",
+        "future of wearable devices"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-23T14:43:40.000Z"
+    },
+    {
       "title": "Why Balatro’s developer stays anonymous",
       "link": "https://www.theverge.com/games/634123/balatro-localthunk-developer-anonymous-update",
       "author": "Jay Peters",
@@ -1101,32 +1124,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-20T20:49:39.000Z"
-    },
-    {
-      "title": "Comcast and Spectrum join in on the satellite messaging wave",
-      "link": "https://www.theverge.com/news/633574/comcast-spectrum-satellite-emergency-messaging",
-      "author": "Emma Roth",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/236811_WIFI_STOCK_CVirginia_5.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-      "summary": "- Galaxy S25 and Pixel 9 owners on Xfinity Mobile and Spectrum Mobile can send emergency messages via satellite.\n- Launch date for this feature was March 20, 2025.\n- Customers must have Galaxy S25 or Google Pixel 9 to access the satellite messaging.\n- Comcast and Charter's feature follows Verizon's similar rollout for the same devices.\n- This service is supported by Skylo, which previously worked with Google on Pixel 9's Satellite SOS.\n- Currently, users can only send messages without Wi-Fi or cellular data; receiving SMS over satellite is expected in the coming weeks.\n- This move aligns Comcast and Charter with other companies exploring satellite connectivity for mobile devices.",
-      "keywords": [
-        "Comcast",
-        "Spectrum",
-        "satellite messaging",
-        "emergency messages",
-        "Galaxy S25",
-        "Pixel 9",
-        "Xfinity Mobile",
-        "Spectrum Mobile",
-        "Skylo",
-        "Verizon"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-03-20T20:46:22.000Z"
     }
   ]
 }
