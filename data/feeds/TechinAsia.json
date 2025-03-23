@@ -4,6 +4,50 @@
   "feedUrl": "https://www.techinasia.com/feed",
   "items": [
     {
+      "title": "Cloudflare launches new tool to block AI web scrapers",
+      "link": "https://www.techinasia.com/news/cloudflare-launches-new-tool-to-block-ai-web-scrapers",
+      "author": null,
+      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2024/04/1712121300_Featured-image-These-are-Asias-most-active-investors-in-AI.jpg",
+      "summary": "- Cloudflare has launched AI Labyrinth, a new tool for blocking web-crawling bots that scrape data for AI training without permission.\n- Unlike traditional methods, AI Labyrinth employs AI-generated decoy pages to mislead these bots.\n- The tool functions as a “next-generation honeypot,” trapping AI crawlers in loops of fake content.\n- Website administrators can enable AI Labyrinth from the Bot Management section of their Cloudflare dashboard.\n- Future developments will include creating interconnected networks of fake URLs to enhance the tool's effectiveness against advanced bot strategies.",
+      "keywords": [
+        "Cloudflare",
+        "AI Labyrinth",
+        "web scrapers",
+        "bot management",
+        "data scraping",
+        "AI training data"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-23T06:00:16.000Z"
+    },
+    {
+      "title": "Indian tech incubator invests $3.6m seed capital in 136 startups",
+      "link": "https://www.techinasia.com/news/indian-tech-incubator-invests-3-6m-seed-capital-in-136-startups",
+      "author": "Arvind Kumar",
+      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/02/1739940031_shutterstock_1758457088-scaled.jpg",
+      "summary": "- Software Technology Parks of India (STPI) invested 30.87 crore rupee (US$3.59 million) in 136 startups as of Mar. 21.\n- STPI also provided 3.57 crore rupee (US$415,162) in stipends to 359 startups.\n- 134 startups backed by STPI have secured 286 crore rupee (US$33.26 million) in external funding.\n- Women entrepreneurs lead 44% of STPI’s portfolio startups, many from Tier-II and Tier-III cities.\n- STPI operates 13+ centers of excellence focusing on healthtech, IoT, and agritech.\n- Aligns with commerce minister Piyush Goyal’s goal of creating 5,000 unicorns in India.",
+      "keywords": [
+        "Indian tech incubator",
+        "seed capital",
+        "startups",
+        "STPI",
+        "women entrepreneurs",
+        "unicorns"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-23T05:30:14.000Z"
+    },
+    {
       "title": "OpenAI, Meta eye AI partnership with Reliance Industries",
       "link": "https://www.techinasia.com/news/openai-meta-eye-ai-partnership-with-reliance-industries",
       "author": null,
@@ -997,40 +1041,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-03-21T07:18:19.000Z"
-    },
-    {
-      "title": "Foxconn to make Mitsubishi EVs in Taiwan",
-      "link": "https://www.techinasia.com/news/foxconn-to-make-mitsubishi-evs-in-taiwan",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-03-21T07:15:10.000Z"
-    },
-    {
-      "title": "Vertex Ventures Japan announces first fund closing at $66.8m",
-      "link": "https://www.techinasia.com/news/vertex-ventures-japan-announces-first-fund-closing",
-      "author": null,
-      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/03/1742540616_Vertex_Hero-scaled.jpg",
-      "summary": "- Vertex Ventures Japan announced the first closing of its inaugural fund, Vertex Ventures Japan Fund I (VVJFI), with a target of 10 billion yen (US$66.8 million).\n- The fund is backed by Vertex Holdings, a subsidiary of Temasek Holdings, and focuses on helping Japanese startups expand globally in sectors like deep tech, AI, digital transformation, and the creator economy.\n- VVJ will utilize the Vertex global platform to connect Japanese startups with innovation hubs across Southeast Asia, India, the US, Israel, and China.\n- Naonori Kurokawa has been appointed as general partner and Akiko Kihara as venture partner to lead the fund, alongside managing partner Takashi Tomita and investment committee chairmen Chua Kee Lock and Chua Taik Him.",
-      "keywords": [
-        "Vertex Ventures Japan",
-        "fund closing",
-        "startups",
-        "investment",
-        "innovation",
-        "AI",
-        "digital transformation",
-        "creator economy"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-21T07:07:03.000Z"
     }
   ]
 }
