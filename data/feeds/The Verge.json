@@ -4,6 +4,27 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "You’ll soon be able to hear Apple Watch alarms even in silent mode",
+      "link": "https://www.theverge.com/news/634962/apple-watch-watchos-silent-mode-wake-up-alarm",
+      "author": "Andrew Liszewski",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197412/headshot_andrewL_blackwhite.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=48",
+      "summary": "- Apple’s release candidate for watchOS 11.4 introduces a feature allowing alarms to be heard even in Silent Mode.\n- Previously, the Apple Watch only provided haptic alerts in Silent Mode to maintain privacy.\n- The new option, 'Break Through Silent Mode', will enable both sounds and vibrations for individual alarms, especially useful for waking up from sleep settings.\n- This change addresses issues with missing alarms when Silent Mode is active, which many users, including the author, have experienced.",
+      "keywords": [
+        "Apple Watch",
+        "watchOS 11.4",
+        "Silent Mode",
+        "alarm",
+        "haptic vibrations"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-03-24T20:43:44.000Z"
+    },
+    {
       "title": "Apple’s iOS 18.4 update with AI-powered Priority Notifications is almost here",
       "link": "https://www.theverge.com/news/634920/apple-ios-18-4-priority-notifications-release-candidate",
       "author": null,
@@ -956,30 +977,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-21T16:39:44.000Z"
-    },
-    {
-      "title": "Elon Musk made more promises about Optimus and Cybercabs at Tesla's surprise all-hands meeting",
-      "link": "https://www.theverge.com/news/633907/elon-musk-tesla-employee-meeting-stock-value-drop-cybercab-optimus",
-      "author": "Umar Shakir",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195848/UMAR_SHAKIR.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Elon Musk held a surprise all-hands meeting for Tesla employees in Texas to address stock declines and future plans.\n- Promised significant developments for the Cybercab robotaxi and Optimus humanoid robot, claiming production of 5,000 Optimus robots this year.\n- Discussed a revolutionary manufacturing process for Cybercab that could produce one unit in under five seconds, with a projected price of $30,000 by 2026.",
-      "keywords": [
-        "Elon Musk",
-        "Tesla",
-        "Optimus",
-        "Cybercab",
-        "robotaxi",
-        "all-hands meeting",
-        "stock value",
-        "manufacturing process"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-21T16:35:15.000Z"
     }
   ]
 }
