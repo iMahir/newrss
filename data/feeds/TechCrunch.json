@@ -4,6 +4,27 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Former Cruise CEO Kyle Vogt’s new robotics startup reportedly raises another $150M",
+      "link": "https://techcrunch.com/2025/03/23/former-cruise-ceo-kyle-vogts-new-robotics-startup-reportedly-raises-another-150m/",
+      "author": "Kyle Vogt, Paril Jain, Luke Holoubek",
+      "thumbnail": null,
+      "summary": "- The Bot Company, founded by Kyle Vogt, raised $150 million in a funding round led by Greenoaks.\n- The startup aims to produce a robot focused on household chores and was launched in May 2024 with an initial $150 million.\n- This funding comes less than a year after Vogt resigned as CEO of Cruise following a significant incident involving a Cruise vehicle.",
+      "keywords": [
+        "Kyle Vogt",
+        "The Bot Company",
+        "robotics",
+        "funding",
+        "household chores"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-23T23:15:13.000Z"
+    },
+    {
       "title": "Buy now, pay later . . . for a burrito?",
       "link": "https://techcrunch.com/2025/03/23/buy-now-pay-later-for-a-burrito/",
       "author": null,
@@ -1124,30 +1145,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-03-20T16:40:21.000Z"
-    },
-    {
-      "title": "Hackers are ramping up attacks using year-old ServiceNow security bugs to target unpatched systems",
-      "link": "https://techcrunch.com/2025/03/20/hackers-are-ramping-up-attacks-using-year-old-servicenow-security-bugs-to-break-into-unpatched-systems/",
-      "author": "Carly Page",
-      "thumbnail": null,
-      "summary": "- Hackers exploiting three ServiceNow vulnerabilities (CVE-2024-4879, CVE-2024-5178, CVE-2024-5217).\n- Vulnerabilities disclosed in May 2024 and patched in July 2024.\n- 70% of recent activity targeted systems in Israel; also observed in Germany, Japan, and Lithuania.\n- Vulnerabilities can provide full database access to ServiceNow instances.\n- ServiceNow reports no observed customer impact from attacks.\n- Targeted sectors include private companies and government agencies worldwide.",
-      "keywords": [
-        "ServiceNow",
-        "cybersecurity",
-        "vulnerabilities",
-        "CVE-2024-4879",
-        "CVE-2024-5178",
-        "CVE-2024-5217",
-        "hacking",
-        "data breach"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-20T16:04:18.000Z"
     }
   ]
 }
