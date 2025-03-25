@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Character AI is adding parental supervision tools to improve teen safety",
+      "link": "https://techcrunch.com/2025/03/25/character-ai-is-adding-parental-supervision-tools/",
+      "author": "Ivan Mehta",
+      "thumbnail": null,
+      "summary": "- Character AI introduces new parental insights features to enhance teen safety.\n- The features provide parents with a weekly summary of their teens' activity on the app, including average time spent and top characters interacted with.\n- These updates come in response to lawsuits and criticism regarding the platform's safety for children.\n- Previous safety measures included a specific model for teens and blocking sensitive content.\n- Character AI argues it implemented these features quicker than competitors.",
+      "keywords": [
+        "Character AI",
+        "parental supervision",
+        "teen safety",
+        "user engagement",
+        "lawsuits",
+        "technology",
+        "internet safety"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-25T13:15:00.000Z"
+    },
+    {
       "title": "Bill Gates-backed Commonwealth Fusion Systems hits key reactor construction milestone",
       "link": "https://techcrunch.com/2025/03/25/bill-gates-backed-commonwealth-fusion-systems-hits-key-reactor-construction-milestone/",
       "author": "Tim De Chant",
@@ -967,28 +990,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-21T13:45:00.000Z"
-    },
-    {
-      "title": "Russian Zero-Day Seller Offers Up to $4 Million for Telegram Exploits",
-      "link": "https://techcrunch.com/2025/03/21/russian-zero-day-seller-is-offering-up-to-4-million-for-telegram-exploits/",
-      "author": "Lorenzo Franceschi-Bicchierai",
-      "thumbnail": null,
-      "summary": "- Operation Zero, a company selling zero-days to the Russian government, is seeking exploits for Telegram.\n- Offers up to $4 million for a 'full chain' of exploits, up to $1.5 million for a zero-click RCE exploit, and $500,000 for a one-click RCE exploit.\n- The focus on Telegram is strategic due to its popularity in Russia and Ukraine, indicating government demand.\n- Zero-days are valuable for being unknown to software makers, allowing hackers to exploit technology effectively.\n- RCE exploits are highly sought after as they enable remote control over apps or systems.\n- The bounty coincides with Ukraine's ban of Telegram for military personnel due to security concerns.\n- Experts warn about Telegram's security, as it lacks robust end-to-end encryption compared to competitors.\n- Some industry insiders believe advertised prices are low, noting potential for higher resale value.",
-      "keywords": [
-        "zero-day",
-        "Telegram",
-        "cybersecurity",
-        "exploit market",
-        "Russian government",
-        "Operation Zero"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-21T13:05:00.000Z"
     }
   ]
 }

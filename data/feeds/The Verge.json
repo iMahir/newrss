@@ -4,6 +4,50 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "AirFly’s wireless headphone dongle adds volume controls and better sound",
+      "link": "https://www.theverge.com/news/634582/twelve-south-airfly-pro-2-wireless-headphone-bluetooth-dongle",
+      "author": "Andrew Liszewski",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197412/headshot_andrewL_blackwhite.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Twelve South released the AirFly Pro 2 dongle for connecting wireless headphones to non-Bluetooth devices, priced at $59.99.\n- Key upgrades include dedicated volume control buttons and a Qualcomm QCC3056 audio processor for improved sound quality and latency.\n- Features faster pairing, multipoint connectivity for simultaneous audio streaming to two headphones, and 25 hours of battery life.",
+      "keywords": [
+        "AirFly Pro 2",
+        "wireless headphones",
+        "Twelve South",
+        "audio processor",
+        "Bluetooth dongle"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-25T13:00:00.000Z"
+    },
+    {
+      "title": "Otter’s new AI agent can speak up in meetings",
+      "link": "https://www.theverge.com/news/635176/otter-ai-voice-activated-meeting-agent-availability",
+      "author": "Jess Weatherbed",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195820/JESSICA_WEATHERBED.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Otter launches a voice-activated AI Meeting Agent for assistance during calls and meetings.\n- The Meeting Agent answers questions using company data and can schedule meetings or draft emails.\n- Currently available on Zoom, with upcoming support for Microsoft Teams and Google Meet.\n- Otter introduces a Sales Agent for live coaching during calls, and an SDR Agent for autonomous product demos.\n- Future Agents for marketing, recruiting, and other functions are planned.",
+      "keywords": [
+        "Otter",
+        "AI",
+        "meeting agent",
+        "transcription",
+        "productivity",
+        "Sales Agent",
+        "SDR Agent"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-25T13:00:00.000Z"
+    },
+    {
       "title": "Waymo plans robotaxi launch in Washington, DC in 2026",
       "link": "https://www.theverge.com/news/634955/waymo-washington-dc-robotaxi-launch-2026",
       "author": "Andrew J. Hawkins",
@@ -907,52 +951,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-21T20:16:54.000Z"
-    },
-    {
-      "title": "Watch this ultra-detailed animation of the seafloor",
-      "link": "https://www.theverge.com/nasa/634086/ocean-floor-map-satellite-nasa-cnes",
-      "author": "Justine Calma",
-      "thumbnail": null,
-      "summary": "- NASA released a video showing a detailed new map of the ocean floor enabled by the SWOT satellite.\n- The SWOT satellite, launched in 2022, has provided higher-resolution data compared to previous mapping technologies.\n- Maps created from SWOT data enhance submarine navigation and assist in laying and repairing underwater communication cables.\n- The gravity-based mapping technique reveals features like abyssal hills and seamounts, which cover about 70% of the ocean floor.\n- While sonar ships have mapped only about a quarter of the ocean floor, SWOT dramatically improves the process.\n- The primary mission of SWOT is to measure the height of water over oceans, rivers, and lakes, aimed at a comprehensive survey of Earth's surface water.",
-      "keywords": [
-        "NASA",
-        "SWOT",
-        "seafloor mapping",
-        "satellite technology",
-        "oceanography",
-        "underwater features",
-        "gravity-based mapping"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-03-21T20:15:18.000Z"
-    },
-    {
-      "title": "Google will let you make AI podcasts from Gemini’s Deep Research",
-      "link": "https://www.theverge.com/news/634117/google-gemini-ai-podcast-audio-overviews-deep-research",
-      "author": "Emma Roth",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-      "summary": "- Google’s Gemini app now allows the generation of Audio Overviews based on Deep Research reports.\n- Users can create a conversational podcast featuring two AI hosts from in-depth reports.\n- The feature was introduced to enhance the Audio Overviews that began within the AI note-taking app NotebookLM last September.\n- Recent updates allow customization and interaction with hosts.\n- The ‘Generate Audio Overview’ option can be used after Gemini generates a report for listening purposes.",
-      "keywords": [
-        "Google",
-        "Gemini",
-        "AI",
-        "podcasts",
-        "Audio Overviews",
-        "Deep Research",
-        "NotebookLM"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-21T20:10:22.000Z"
     }
   ]
 }
