@@ -4,6 +4,51 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Waymo plans robotaxi launch in Washington, DC in 2026",
+      "link": "https://www.theverge.com/news/634955/waymo-washington-dc-robotaxi-launch-2026",
+      "author": "Andrew J. Hawkins",
+      "thumbnail": null,
+      "summary": "- Waymo will launch its Waymo One ridehailing service in Washington, DC in 2026, pending legal changes for fully autonomous vehicles.\n- Current city law requires human drivers for testing autonomous vehicles, prompting advocacy for legal amendments.\n- Waymo's vehicles have been spotted in DC since last year, focusing on neighborhoods like Dupont Circle, Foggy Bottom, and Penn Quarter.\n- The service aims to operate amid one of the worst traffic congestions in the US, with no details on vehicle numbers provided yet.\n- Waymo currently operates driverless ridehailing in cities like San Francisco, Los Angeles, and Phoenix, and plans further expansions.",
+      "keywords": [
+        "Waymo",
+        "robotaxi",
+        "Washington DC",
+        "autonomous vehicles",
+        "ridehailing",
+        "transportation regulation",
+        "traffic congestion"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-25T11:00:00.000Z"
+    },
+    {
+      "title": "Nvidia’s AI assistant is here to optimize your gaming PC",
+      "link": "https://www.theverge.com/news/635155/nvidia-g-assist-ai-assistant-available-download",
+      "author": "Tom Warren",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197777/profilephoto.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Nvidia’s AI assistant, G-Assist, was initially an April Fools’ prank in 2017, evolved into a tech demo, and is now fully functional for RTX GPU owners.\n- G-Assist helps optimize game and system settings, measures frame rates, and controls lighting on connected devices.\n- Users can interact with G-Assist via voice or text prompts, asking questions to receive detailed AI-generated responses.\n- The assistant analyzes PCs for performance improvements and can provide recommendations on settings like overclocking and resolution adjustments.\n- Requires a minimum of 12GB VRAM and nearly 10GB of local storage for the AI functions, supporting RTX 30-, 40-, and 50-series GPUs.\n- Available through an update to the Nvidia app, which also introduces DLSS override options and display adjustments.",
+      "keywords": [
+        "Nvidia",
+        "G-Assist",
+        "AI Assistant",
+        "Gaming Optimization",
+        "RTX GPUs",
+        "DLSS"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-25T10:57:14.000Z"
+    },
+    {
       "title": "The FBI launched a task force to investigate Tesla attacks",
       "link": "https://www.theverge.com/news/635091/fbi-tesla-task-force-terrorism",
       "author": "Richard Lawler",
@@ -908,54 +953,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-21T20:10:22.000Z"
-    },
-    {
-      "title": "How ‘Careless People’ is becoming a bigger problem for Meta",
-      "link": "https://www.theverge.com/command-line-newsletter/634080/careless-people-sarah-wynn-williams-book-meta-congress",
-      "author": "Alex Heath",
-      "thumbnail": null,
-      "summary": "- Meta is attempting to discredit Sarah Wynn-Williams, author of *Careless People*, her memoir about working at the company.\n- Wynn-Williams filed an emergency motion to dismiss a gag order preventing her from discussing the book.\n- Her book has attracted interest from Congress and governments due to claims about Meta's coordination with the Chinese Communist Party and exploitation of vulnerable teens.\n- Zuckerberg's political alignment with the Trump administration raises questions in light of these allegations.\n- Critics challenge details in Wynn-Williams' book, alleging factual inaccuracies and exaggerations.\n- Some former Facebook employees endorse the book for capturing the Silicon Valley work environment's essence.",
-      "keywords": [
-        "Meta",
-        "Careless People",
-        "Sarah Wynn-Williams",
-        "gag order",
-        "Zuckerberg",
-        "Congress",
-        "social media",
-        "whistleblower",
-        "book review"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-03-21T19:34:39.000Z"
-    },
-    {
-      "title": "ICE is going after more international students",
-      "link": "https://www.theverge.com/policy/634094/trump-dhs-arresting-palestine-student-activists-ice",
-      "author": "Gaby Del Valle",
-      "thumbnail": null,
-      "summary": "- Mahmoud Khalil, a graduate student at Columbia University, was detained by immigration agents for pro-Palestine protest involvement.\n- DHS has arrested additional students, including Badar Khan Suri from Georgetown University, who is accused of posing a threat to US foreign policy.\n- A federal judge has temporarily barred the deportation of Suri, who is being held at an ICE detention center in Louisiana.\n- Claims of Suri's alleged connection to Hamas are based on family ties; his wife is a US citizen.\n- Momodou Taal, a Cornell University student, has also been targeted for political activism and fears retaliation for his criticisms of US foreign policy.\n- Taal's attorneys report that the DOJ intends to serve him with a Notice to Appear in immigration court.",
-      "keywords": [
-        "ICE",
-        "international students",
-        "DHS",
-        "pro-Palestine",
-        "immigration",
-        "student activism",
-        "deportation"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-21T19:11:25.000Z"
     }
   ]
 }
