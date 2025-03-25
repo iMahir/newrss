@@ -4,6 +4,28 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Europe is looking for alternatives to US cloud providers",
+      "link": "https://arstechnica.com/information-technology/2025/03/europe-is-looking-for-alternatives-to-us-cloud-providers/",
+      "author": "Steffen Schmidt, Harry Staight, Marko Saric",
+      "thumbnail": null,
+      "summary": "- Customers in Europe increasingly request cloud services from natively European companies due to data residency concerns.\n- AWS states that clients have control over their data storage and encryption, with no significant migrations away from their services.\n- Interest in European alternatives is surging, with a 1,200% increase in visitors to the [European Alternatives website](https://european-alternatives.eu/) since January 15, indicating a shift towards regional services.\n- Transitioning from US cloud providers may be slow, especially for large businesses with extensive data storage needs, which may take years to migrate.",
+      "keywords": [
+        "cloud providers",
+        "Europe",
+        "data residency",
+        "AWS",
+        "European Alternatives",
+        "cloud services"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-25T13:12:52.000Z"
+    },
+    {
       "title": "You can now download the source code that sparked the AI boom",
       "link": "https://arstechnica.com/ai/2025/03/you-can-now-download-the-source-code-that-sparked-the-ai-boom/",
       "author": null,
@@ -1140,29 +1162,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-04T13:25:11.000Z"
-    },
-    {
-      "title": "Dell risks employee retention by forcing all teams back into offices full-time",
-      "link": "https://arstechnica.com/information-technology/2025/01/dell-risks-employee-retention-by-forcing-all-teams-back-into-offices-full-time/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Dell mandates all employees transition back to in-office work full-time after initially allowing two days of remote work per week.\n- The shift commenced with the sales team in March, which Dell claims has led to greater productivity.\n- Since February, Dell has advocated for increased in-person work, utilizing tracking methods to enforce compliance.\n- Reports suggest nearly half of Dell employees prefer remote work over opportunities for advancement, raising concerns about potential turnover.\n- Research indicates companies implementing return-to-office mandates tend to lose top talent and experience increased turnover rates.\n- Analysts have mixed opinions on the risk of mass employee exodus, with some believing it won't significantly affect Dell.",
-      "keywords": [
-        "Dell",
-        "employee retention",
-        "remote work",
-        "office mandate",
-        "productivity",
-        "turnover",
-        "RTO policies"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-01-31T17:40:52.000Z"
     }
   ]
 }
