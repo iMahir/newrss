@@ -4,6 +4,28 @@
   "feedUrl": "https://www.techinasia.com/feed",
   "items": [
     {
+      "title": "Hot or not: What SEA investors are betting on and what they’re ignoring",
+      "link": "https://www.techinasia.com/visual-story/funding-overview",
+      "author": null,
+      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2023/11/1700462212_fi-hot-or-not-what-sea-investors-are-betting-on-and-what-theyre-ignoring.png",
+      "summary": "[Investors in Southeast Asia are focusing on tech sectors but neglecting traditional sectors.]\n[The article highlights trends in funding and investment preferences across different industries.]\n[Key insights include the shift of interest towards digital platforms and services, indicating a transformation in the investment landscape.]",
+      "keywords": [
+        "Southeast Asia",
+        "investment",
+        "funding",
+        "technology",
+        "trends",
+        "investment landscape"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-25T00:00:00.000Z"
+    },
+    {
       "title": "Tesla halts FSD rollout in China amid stricter regulations",
       "link": "https://www.techinasia.com/news/tesla-halts-fsd-rollout-china-stricter-regulations",
       "author": null,
@@ -983,28 +1005,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-23T07:00:00.000Z"
-    },
-    {
-      "title": "Cloudflare launches new tool to block AI web scrapers",
-      "link": "https://www.techinasia.com/news/cloudflare-launches-new-tool-to-block-ai-web-scrapers",
-      "author": null,
-      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2024/04/1712121300_Featured-image-These-are-Asias-most-active-investors-in-AI.jpg",
-      "summary": "- Cloudflare has launched AI Labyrinth, a new tool for blocking web-crawling bots that scrape data for AI training without permission.\n- Unlike traditional methods, AI Labyrinth employs AI-generated decoy pages to mislead these bots.\n- The tool functions as a “next-generation honeypot,” trapping AI crawlers in loops of fake content.\n- Website administrators can enable AI Labyrinth from the Bot Management section of their Cloudflare dashboard.\n- Future developments will include creating interconnected networks of fake URLs to enhance the tool's effectiveness against advanced bot strategies.",
-      "keywords": [
-        "Cloudflare",
-        "AI Labyrinth",
-        "web scrapers",
-        "bot management",
-        "data scraping",
-        "AI training data"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-23T06:00:16.000Z"
     }
   ]
 }

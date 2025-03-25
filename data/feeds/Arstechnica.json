@@ -4,6 +4,16 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "You can now download the source code that sparked the AI boom",
+      "link": "https://arstechnica.com/ai/2025/03/you-can-now-download-the-source-code-that-sparked-the-ai-boom/",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-03-24T22:14:15.000Z"
+    },
+    {
       "title": "Cloudflare turns AI against itself with endless maze of irrelevant facts",
       "link": "https://arstechnica.com/ai/2025/03/cloudflare-turns-ai-against-itself-with-endless-maze-of-irrelevant-facts/",
       "author": null,
@@ -1153,32 +1163,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-01-31T17:40:52.000Z"
-    },
-    {
-      "title": "Apple Chips Vulnerabilities Allow Data Leak from Browsers",
-      "link": "https://arstechnica.com/security/2025/01/newly-discovered-flaws-in-apple-chips-leak-secrets-in-safari-and-chrome/",
-      "author": "Dan Goodin",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/flop-attack-illustration.jpg",
-      "summary": "- Apple-designed chips in Macs, iPhones, and iPads have two vulnerabilities leaking sensitive data from Chrome and Safari.  \n- Vulnerabilities enable side channel attacks via speculative execution optimizations, affecting A- and M-series chip sets.  \n- The more significant attack, FLOP, can read sensitive data like location history and credit card info from targeted sites.  \n- SLAP is limited to reading adjacent strings from another webpage.  \n- Affected devices include recent Mac laptops, desktops, iPads, and iPhones since 2021.  \n- Researchers suggest potential mitigations and await patch plans from Apple, although Apple claims there's no immediate risk.",
-      "keywords": [
-        "Apple",
-        "vulnerabilities",
-        "chips",
-        "browser security",
-        "data leakage",
-        "FLOP",
-        "SLAP",
-        "side-channel attack",
-        "speculative execution",
-        "cybersecurity"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-01-28T20:56:32.000Z"
     }
   ]
 }

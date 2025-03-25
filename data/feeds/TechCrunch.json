@@ -4,6 +4,39 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "A new, challenging AGI test stumps most AI models",
+      "link": "https://techcrunch.com/2025/03/24/a-new-challenging-agi-test-stumps-most-ai-models/",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-03-25T00:29:53.000Z"
+    },
+    {
+      "title": "A Chinese tech giant says it slashed AI costs using only Chinese chips",
+      "link": "https://techcrunch.com/2025/03/24/a-chinese-tech-giant-says-it-slashed-ai-costs-using-only-chinese-chips/",
+      "author": "Not given",
+      "thumbnail": null,
+      "summary": "- Ant Group claims a 20% reduction in AI training costs using Chinese chips from Alibaba and Huawei.\n- The performance of Chinese chips compares favorably to Nvidia's during testing.\n- Potential rise in Chinese chips could threaten Nvidia's dominance in the AI chip market.",
+      "keywords": [
+        "Ant Group",
+        "AI training",
+        "Chinese chips",
+        "Nvidia",
+        "Alibaba",
+        "Huawei",
+        "cost reduction"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-24T23:39:18.000Z"
+    },
+    {
       "title": "a16z and Benchmark-backed 11x has been claiming customers it doesn’t have",
       "link": "https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have/",
       "author": null,
@@ -958,51 +991,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-03-20T21:13:02.000Z"
-    },
-    {
-      "title": "Apple is reportedly losing $1B per year on its streaming service",
-      "link": "https://techcrunch.com/2025/03/20/apple-is-reportedly-losing-1b-per-year-on-its-streaming-service/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/12/apple-tv-plus-logo.jpg?w=1024",
-      "summary": "- Apple is losing over $1 billion annually on its streaming service, Apple TV+.\n- The company has spent around $5 billion on content each year since 2019, which was reduced to $4.5 billion in 2024.\n- Apple TV+ has approximately 45 million subscribers, significantly fewer than competitors like Netflix, which leads with 301 million subscribers.",
-      "keywords": [
-        "Apple",
-        "streaming service",
-        "Apple TV+",
-        "financial loss",
-        "content production",
-        "subscriber count"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-20T21:11:19.000Z"
-    },
-    {
-      "title": "A high schooler built a website that lets you challenge AI models to a Minecraft build-off",
-      "link": "https://techcrunch.com/2025/03/20/a-high-schooler-built-a-website-that-lets-you-challenge-ai-models-to-a-minecraft-build-off/",
-      "author": "Amanda Silberling",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Screenshot-2025-03-19-at-11.24.22AM.png?w=680",
-      "summary": "- The website [Minecraft Benchmark (MC-Bench)](https://mcbench.ai/) allows users to challenge AI models with Minecraft building prompts.\n- AI models compete in head-to-head challenges, where users vote on the best creations without knowing which AI was responsible.\n- Founded by 12th grader Adi Singh, the project aims to make AI benchmarking more accessible and engaging through familiar gaming mechanics.",
-      "keywords": [
-        "AI benchmarking",
-        "Minecraft",
-        "generative AI",
-        "MC-Bench",
-        "Adi Singh",
-        "technology",
-        "game-based evaluation"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-03-20T20:11:10.000Z"
     }
   ]
 }
