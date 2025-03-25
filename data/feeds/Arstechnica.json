@@ -4,6 +4,27 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Devs say AI crawlers dominate traffic, forcing blocks on entire countries",
+      "link": "https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/",
+      "author": "Benj Edwards",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/benj_ega.png",
+      "summary": "- AI crawlers overwhelm community infrastructure, causing downtime and higher costs for open source projects.\n- Developers like Xe Iaso have implemented measures like the 'Anubis' proof-of-work challenge to filter out bot traffic.\n- Some projects, like Fedora, have blocked entire countries to manage excessive bot traffic, affecting service availability.",
+      "keywords": [
+        "AI crawlers",
+        "open source",
+        "DDoS",
+        "traffic management",
+        "bandwidth costs"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-25T21:36:58.000Z"
+    },
+    {
       "title": "Europe is looking for alternatives to US cloud providers",
       "link": "https://arstechnica.com/information-technology/2025/03/europe-is-looking-for-alternatives-to-us-cloud-providers/",
       "author": "Steffen Schmidt, Harry Staight, Marko Saric",
@@ -1135,33 +1156,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-02-05T12:25:55.000Z"
-    },
-    {
-      "title": "22-year-old math wiz indicted for alleged DeFI hack that stole $65M",
-      "link": "https://arstechnica.com/information-technology/2025/02/man-indicted-for-two-alleged-defi-hacks-that-stole-65-million/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- A man named Andean Medjedovic was indicted for allegedly stealing $65 million in cryptocurrency through two DeFI hacks.\n- The incidents occurred in 2021 and 2023, involving KyberSwap and Indexed Finance platforms.\n- Medjedovic exploited smart contract vulnerabilities and used manipulative trading practices to maximize his theft, stealing approximately $48.8 million from 77 liquidity pools.\n- He attempted to extort developers and return part of the stolen funds in exchange for control of the KyberSwap protocol.\n- Efforts to launder the proceeds included using cryptocurrency mixers and bridge protocols, but a mishap led to his arrest.",
-      "keywords": [
-        "cryptocurrency",
-        "DeFI",
-        "hacking",
-        "KyberSwap",
-        "Indexed Finance",
-        "indictment",
-        "Andean Medjedovic",
-        "smart contracts",
-        "liquidity pools",
-        "extortion",
-        "money laundering"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-04T13:25:11.000Z"
     }
   ]
 }
