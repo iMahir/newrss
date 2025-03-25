@@ -4,6 +4,54 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "OpenAI rolls out Sora powered by GPT-4o to ChatGPT",
+      "link": "https://www.theverge.com/openai/635118/chatgpt-sora-ai-image-generation-chatgpt",
+      "author": "Kylie Robison",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/4x4.png?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "- OpenAI integrates Sora’s image generation into ChatGPT, launching the feature \"Images in ChatGPT\" today.\n- Sora will be available across all ChatGPT subscription tiers including free, but usage limits are not explicitly stated yet.\n- Sora features significant improvements such as better binding of attributes and improved text rendering.\n- The new model can handle 15 to 20 objects accurately without confusion, improving on previous image models.\n- Users will find advantages in generating coherent text in images, enhancing overall image usability.\n- The system employs an autoregressive approach for image generation, potentially enhancing text rendering capabilities.\n- OpenAI is implementing safeguards to prevent misuse, such as blocking generation of explicit content.",
+      "keywords": [
+        "OpenAI",
+        "Sora",
+        "image generation",
+        "ChatGPT",
+        "AI",
+        "GPT-4o",
+        "image capabilities",
+        "text rendering",
+        "deepfakes",
+        "safeguards"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-25T18:00:00.000Z"
+    },
+    {
+      "title": "Samsung's 3D Odyssey monitor is now available to reserve, and it might cost $2,000",
+      "link": "https://www.theverge.com/news/635554/samsung-odyssey-3d-monitor-pricing-preorder",
+      "author": "Emma Roth",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/odyssey-3d-pricing.png?quality=90&strip=all&crop=0%2C14.392579293836%2C100%2C71.214841412328&w=2400",
+      "summary": "- Samsung has opened preorders for its glasses-free 3D monitor, the Odyssey 3D G90XF, priced at $1,999.99.\n- The 27-inch monitor features a 4K display with eye-tracking for a high-definition 3D image.\n- Customers must install Samsung’s Reality Hub app for 3D gaming, optimized for certain upcoming games.\n- Supports 165Hz refresh rate, 1ms response time, AMD FreeSync Premium, and Nvidia G-Sync.\n- The monitor can convert content into 3D but requires an Nvidia graphics card (RTX 3080 or higher) and does not support DRM-protected content.\n- Also launching are the Odyssey OLED G8 and Odyssey G9 models, with prices starting from $1,299.99.\n- Preorders are available until April 8th, with a $50 credit offered for reserving the monitor.",
+      "keywords": [
+        "Samsung",
+        "Odyssey",
+        "3D monitor",
+        "preorder",
+        "gaming",
+        "technology"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-25T17:36:43.000Z"
+    },
+    {
       "title": "Apple’s WWDC 2025 event starts June 9th",
       "link": "https://www.theverge.com/news/626680/apple-wwdc-2025-event-date-siri-ios-19",
       "author": "Jess Weatherbed",
@@ -949,49 +997,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-23T12:00:00.000Z"
-    },
-    {
-      "title": "Hue accidentally leaks a new video doorbell",
-      "link": "https://www.theverge.com/news/634362/hue-secure-video-doorbell-leak-app-qr-code-update",
-      "author": "Wes Davis",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196306/unnamed.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- An update to the Philips Hue app leaked a new Hue Secure video doorbell.\n- The product features a straightforward design with a large button and is likely a wired device.\n- Setup involves Bluetooth and Wi-Fi, and the camera is expected to launch in fall 2025, but details on pricing and specs are still unavailable.",
-      "keywords": [
-        "Philips Hue",
-        "video doorbell",
-        "Hue Secure",
-        "home security",
-        "smart home"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 6,
-        "novelty": 4,
-        "longTermSignificance": 3
-      },
-      "pubDate": "2025-03-22T22:20:45.000Z"
-    },
-    {
-      "title": "Cloudflare is luring web-scraping bots into an ‘AI Labyrinth’",
-      "link": "https://www.theverge.com/news/634345/cloudflare-ai-labyrinth-web-scraping-bots-training-data",
-      "author": "Wes Davis",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196306/unnamed.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Cloudflare has launched AI Labyrinth, a tool to combat web-scraping bots.\n- The tool lures harmful crawlers into decoy pages to waste their resources.\n- It identifies and fingerprints malicious bots to improve defenses.\n- Website administrators can opt in via the Cloudflare dashboard.\n- AI Labyrinth aims to develop networks of linked URLs to further trap bots.",
-      "keywords": [
-        "Cloudflare",
-        "AI Labyrinth",
-        "web scraping",
-        "bots",
-        "internet security",
-        "decoy pages"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-22T18:17:38.000Z"
     }
   ]
 }
