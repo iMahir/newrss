@@ -4,6 +4,103 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Less than a week to save $300+ on TechCrunch All Stage passes",
+      "link": "https://techcrunch.com/2025/03/25/less-than-a-week-to-save-300-on-techcrunch-all-stage-passes/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- TechCrunch's All Stage conference is set for July 15 in Boston.\n- Early registration before March 31 saves attendees over $300 on passes.\n- The conference features sessions, networking opportunities, and breakout stages for early-stage founders.",
+      "keywords": [
+        "TechCrunch",
+        "All Stage",
+        "conference",
+        "Boston",
+        "early registration",
+        "founders",
+        "VCs",
+        "networking"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-03-25T14:00:00.000Z"
+    },
+    {
+      "title": "Plural’s platform allows enterprises to manage their Kubernetes clusters in one place",
+      "link": "https://techcrunch.com/2025/03/25/plurals-platform-allows-enterprises-to-manage-their-kubernetes-clusters-in-one-place/",
+      "author": "Becca Szkutak",
+      "thumbnail": null,
+      "summary": "- Sam Weaver, previously at Unqork, identified issues in managing Kubernetes clusters and assembled a team to build a management product, which took two years.\n- Michael Guarino, an engineer, created a more efficient system for Plural within weeks, leading to the development of a centralized Kubernetes management platform.\n- Plural's AI enhances cluster management by offering optimization suggestions and diagnosing scaling issues, reducing operational overhead by about 90%.\n- The company raised $6 million in seed funding, aiming to enhance product capabilities and expand beyond Kubernetes.\n- Plural operates on a GitOps model, allowing enterprises complete control without data being sent to a central server.",
+      "keywords": [
+        "Kubernetes",
+        "cluster management",
+        "AI",
+        "startups",
+        "venture capital"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-25T14:00:00.000Z"
+    },
+    {
+      "title": "Apple Music is integrating with music tools to allow DJs to create mixes using its catalog",
+      "link": "https://techcrunch.com/2025/03/25/apple-3/",
+      "author": "Ivan Mehta",
+      "thumbnail": null,
+      "summary": "- Apple Music is integrating with tools for DJs, allowing them to build mixes using its catalog of over 100 million songs.\n- Integrated tools include Algoriddim’s djay Pro, AlphaTheta, Serato, Engine DJ, Denon DJ, Numark, and RANE DJ.\n- A new DJ category page will feature DJ-friendly playlists and mixes for inspiration.\n- Since launching streaming for DJ Mix sets in 2021, Apple has added thousands of sets to the platform.\n- Competitors like SoundCloud and Spotify are also exploring tools for song creation and remixing.",
+      "keywords": [
+        "Apple Music",
+        "DJs",
+        "music tools",
+        "mixes",
+        "integration",
+        "Algoriddim",
+        "streaming",
+        "Serato",
+        "SoundCloud",
+        "Spotify"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-25T14:00:00.000Z"
+    },
+    {
+      "title": "Tesla Superchargers: GM, Ford, Rivian, and other EV brands with access",
+      "link": "https://techcrunch.com/2025/03/25/tesla-superchargers-gm-ford-rivian-and-other-ev-brands-with-access/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- In May 2023, Ford secured a deal granting EV owners access to Tesla's Supercharger network.\n- By late 2023, multiple automakers including GM, Hyundai, and Rivian had adopted Tesla’s North American Charging Standard (NACS).\n- Tesla has shared its charging connector design to promote widespread adoption.\n- As of February 2024, Ford customers were gaining Supercharger access, although adapter supply delays were noted.\n- GM started offering Chevy, Cadillac, and GMC EVs access as of September 2024.\n- Honda announced its EVs would gain NACS access in June 2025.\n- Hyundai plans to provide NACS access by January 15, 2025, and will manufacture some new models with NACS ports.\n- Rivian gained access to Superchargers as of March 2024, promising adapters to customers.\n- Mercedes-Benz will begin offering access starting February 2025, with an adapter option for existing EVs.\n- Nissan's Ariya drivers can access Tesla's network with a NACS adapter starting late 2024.\n- Volvo and Polestar began offering access at the end of October 2024, with adapters available for purchase.",
+      "keywords": [
+        "Tesla",
+        "Supercharger",
+        "EV",
+        "Ford",
+        "GM",
+        "Rivian",
+        "NACS",
+        "automakers",
+        "charging network",
+        "electric vehicles"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-25T13:59:26.000Z"
+    },
+    {
       "title": "Character AI is adding parental supervision tools to improve teen safety",
       "link": "https://techcrunch.com/2025/03/25/character-ai-is-adding-parental-supervision-tools/",
       "author": "Ivan Mehta",
@@ -897,99 +994,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-21T15:18:11.000Z"
-    },
-    {
-      "title": "Microsoft is exploring a way to credit contributors to AI training data",
-      "link": "https://techcrunch.com/2025/03/21/microsoft-is-exploring-a-way-to-credit-contributors-to-ai-training-data/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- Microsoft is launching a research project to estimate the influence of specific training examples on AI model outputs.\n- The project aims to provide recognition and potential compensation for contributors of training data.\n- There are ongoing legal challenges against Microsoft regarding AI training data usage, with major firms advocating for fair use in AI practices.\n- Jaron Lanier, a prominent technologist, is involved, emphasizing the concept of 'data dignity'.\n- Current large AI labs have limited programs to compensate data contributors.\n- Microsoft's initiative stands out amidst calls from other labs to weaken copyright protections related to AI.",
-      "keywords": [
-        "AI training data",
-        "data dignity",
-        "Microsoft",
-        "intellectual property",
-        "copyright",
-        "Jaron Lanier",
-        "AI models",
-        "fair use"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-21T15:15:21.000Z"
-    },
-    {
-      "title": "Meta Spotted Testing AI-Generated Comments on Instagram",
-      "link": "https://techcrunch.com/2025/03/21/meta-spotted-testing-ai-generated-comments-on-instagram/",
-      "author": "Aisha Malik",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/instagram-ai-comments.png?w=671",
-      "summary": "- Meta is testing an AI feature that suggests comments for Instagram posts.\n- Users can access AI-generated suggestions by tapping a pencil icon next to the text bar under posts.\n- The AI analyzes photos and generates three comment suggestions, which users can refresh if needed.\n- The feature has not yet been rolled out widely and may not be well-received by users desiring genuine interactions on the platform.\n- Testing of AI comments was previously conducted on Facebook last year.",
-      "keywords": [
-        "Meta",
-        "Instagram",
-        "AI-generated comments",
-        "social media",
-        "testing features"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-03-21T15:09:31.000Z"
-    },
-    {
-      "title": "1X will test humanoid robots in ‘a few hundred’ homes in 2025",
-      "link": "https://techcrunch.com/2025/03/21/1x-will-test-humanoid-robots-in-a-few-hundred-homes-in-2025/",
-      "author": "Maxwell Zeff",
-      "thumbnail": null,
-      "summary": "- Norwegian robotics startup 1X plans to test its humanoid robot, Neo Gamma, in \"a few hundred to a few thousand\" homes by the end of 2025.\n- Tests will involve early adopters who will help teach Neo Gamma how to behave in a home environment.\n- The robot relies on teleoperators for control as it is not fully autonomous yet.\n- Neo Gamma features an improved AI model and a knitted nylon body suit to reduce injury risk.\n- Each test will gather data to improve the robot's functionalities, despite raising privacy concerns regarding data collection from homes.",
-      "keywords": [
-        "humanoid robots",
-        "1X",
-        "Neo Gamma",
-        "AI",
-        "teleoperation",
-        "privacy concerns",
-        "home testing"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-21T14:15:00.000Z"
-    },
-    {
-      "title": "Commercial services platform BuildOps becomes a unicorn, raises $127M",
-      "link": "https://techcrunch.com/2025/03/21/commercial-services-platform-buildops-becomes-a-unicorn-raises-127m/",
-      "author": "Mary Ann Azevedo",
-      "thumbnail": null,
-      "summary": "- BuildOps raised $127 million in a Series C round, achieving a post-money valuation of $1 billion.\n- The funding was led by Meritech Capital and brings total funding to over $250 million.\n- Founded in 2018, BuildOps provides AI-powered field service management software for commercial contractors in the U.S. and Canada.\n- The company has over 1,000 customers and has seen significant revenue growth since launching its platform in 2020.\n- Future plans include expanding headcount, technology investment, and potential strategic acquisitions.",
-      "keywords": [
-        "BuildOps",
-        "funding",
-        "unicorn",
-        "commercial services",
-        "software",
-        "AI-powered",
-        "venture capital",
-        "Series C",
-        "field service management"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-21T13:45:00.000Z"
     }
   ]
 }
