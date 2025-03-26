@@ -4,6 +4,40 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "19 founders and VCs working with Elon Musk’s DOGE",
+      "link": "https://techcrunch.com/2025/03/26/19-founders-and-vcs-working-with-elon-musks-doge/",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-03-26T18:45:00.000Z"
+    },
+    {
+      "title": "OpenAI adopts rival Anthropic’s standard for connecting AI models to data",
+      "link": "https://techcrunch.com/2025/03/26/openai-adopts-rival-anthropics-standard-for-connecting-ai-models-to-data/",
+      "author": "Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2153474303-e.jpg?w=1024",
+      "summary": "- OpenAI is adopting Anthropic’s Model Context Protocol (MCP) for its products, enhancing AI assistants' data connectivity.\n- CEO Sam Altman announced support for MCP via a post on X, emphasizing its role in improving response relevance.\n- MCP allows AI models to interact with various data sources and creates two-way connections, benefiting developers and applications.\n- Companies like Block and Replit have already integrated MCP, and OpenAI plans to reveal more about its MCP strategy soon.",
+      "keywords": [
+        "OpenAI",
+        "Anthropic",
+        "Model Context Protocol",
+        "AI",
+        "data connectivity",
+        "Sam Altman",
+        "technology",
+        "integration"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-26T18:18:35.000Z"
+    },
+    {
       "title": "SpaceX reportedly has a secret backdoor for Chinese investment",
       "link": "https://techcrunch.com/2025/03/26/spacex-reportedly-has-a-secret-backdoor-for-chinese-investment/",
       "author": "Rebecca Bellan",
@@ -1070,39 +1104,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-03-25T00:29:53.000Z"
-    },
-    {
-      "title": "A Chinese tech giant says it slashed AI costs using only Chinese chips",
-      "link": "https://techcrunch.com/2025/03/24/a-chinese-tech-giant-says-it-slashed-ai-costs-using-only-chinese-chips/",
-      "author": "Not given",
-      "thumbnail": null,
-      "summary": "- Ant Group claims a 20% reduction in AI training costs using Chinese chips from Alibaba and Huawei.\n- The performance of Chinese chips compares favorably to Nvidia's during testing.\n- Potential rise in Chinese chips could threaten Nvidia's dominance in the AI chip market.",
-      "keywords": [
-        "Ant Group",
-        "AI training",
-        "Chinese chips",
-        "Nvidia",
-        "Alibaba",
-        "Huawei",
-        "cost reduction"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-24T23:39:18.000Z"
-    },
-    {
-      "title": "a16z and Benchmark-backed 11x has been claiming customers it doesn’t have",
-      "link": "https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-03-24T23:03:02.000Z"
     }
   ]
 }
