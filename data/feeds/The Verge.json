@@ -4,6 +4,40 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "The 20 best Amazon Big Spring Sale deals under $30",
+      "link": "https://www.theverge.com/tech/636342/amazon-big-spring-sale-2025-best-deals-under-30-tech-gift-ideas",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-03-26T18:09:35.000Z"
+    },
+    {
+      "title": "Microsoft’s account sign-in UI gets a new design and dark mode",
+      "link": "https://www.theverge.com/news/636622/microsoft-account-sign-in-new-design-dark-mode",
+      "author": "Tom Warren",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197777/profilephoto.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Microsoft is rolling out a new sign-in screen for over a billion users that includes a dark mode and is based on Fluent 2 design.\n- The redesign emphasizes a passwordless authentication experience, reducing cognitive load and speeding up the sign-in process.\n- Initial rollout begins for Xbox users, with web and mobile apps receiving updates throughout March and April, while consumer profiles only will see these changes.",
+      "keywords": [
+        "Microsoft",
+        "sign-in",
+        "UI design",
+        "dark mode",
+        "authentication",
+        "Fluent 2",
+        "Xbox",
+        "passwordless authentication"
+      ],
+      "scores": {
+        "scale": 10,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-26T17:20:36.000Z"
+    },
+    {
       "title": "Canon redesigned its entry-level EOS R50 with improved video capabilities",
       "link": "https://www.theverge.com/news/636493/canon-eos-r50-v-camera-aps-c-4k-livestreaming",
       "author": null,
@@ -1027,49 +1061,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-03-24T21:15:04.000Z"
-    },
-    {
-      "title": "Meta Quest might add single window screensharing in VR soon",
-      "link": "https://www.theverge.com/news/635022/meta-quest-v76-code-share-screen-2d-window-vr-home",
-      "author": "Umar Shakir",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195848/UMAR_SHAKIR.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- A new \"share\" feature for Meta Quest VR headsets may allow users to share 2D window views with others in the virtual environment.\n- The feature was spotted in the operating system's code, hinting at a tooltip text for sharing and unsharing capabilities.\n- Currently, Meta Quest supports sharing VR and mixed-reality views, but not specific 2D windows.",
-      "keywords": [
-        "Meta Quest",
-        "screensharing",
-        "VR",
-        "Horizon OS",
-        "technology",
-        "feature update"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 7,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-03-24T21:11:53.000Z"
-    },
-    {
-      "title": "You’ll soon be able to hear Apple Watch alarms even in silent mode",
-      "link": "https://www.theverge.com/news/634962/apple-watch-watchos-silent-mode-wake-up-alarm",
-      "author": "Andrew Liszewski",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197412/headshot_andrewL_blackwhite.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=48",
-      "summary": "- Apple’s release candidate for watchOS 11.4 introduces a feature allowing alarms to be heard even in Silent Mode.\n- Previously, the Apple Watch only provided haptic alerts in Silent Mode to maintain privacy.\n- The new option, 'Break Through Silent Mode', will enable both sounds and vibrations for individual alarms, especially useful for waking up from sleep settings.\n- This change addresses issues with missing alarms when Silent Mode is active, which many users, including the author, have experienced.",
-      "keywords": [
-        "Apple Watch",
-        "watchOS 11.4",
-        "Silent Mode",
-        "alarm",
-        "haptic vibrations"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-03-24T20:43:44.000Z"
     }
   ]
 }
