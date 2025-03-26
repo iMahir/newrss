@@ -4,6 +4,27 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Broadcom’s VMware says Siemens pirated “thousands” of copies of its software",
+      "link": "https://arstechnica.com/information-technology/2025/03/broadcoms-vmware-says-siemens-pirated-thousands-of-copies-of-its-software/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- VMware is suing Siemens for downloading and distributing VMware products without a license.\n- The lawsuit was filed on March 21 in the US District Court for the District of Delaware.\n- VMware claims a Master Software License Agreement with Siemens dates back to November 28, 2012.\n- Siemens reportedly attempted to renew support services and revealed unauthorized downloads of thousands of VMware copies.",
+      "keywords": [
+        "VMware",
+        "Siemens",
+        "software piracy",
+        "lawsuit",
+        "Broadcom"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-26T14:54:33.000Z"
+    },
+    {
       "title": "Devs say AI crawlers dominate traffic, forcing blocks on entire countries",
       "link": "https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/",
       "author": "Benj Edwards",
@@ -1135,27 +1156,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-05T21:05:37.000Z"
-    },
-    {
-      "title": "Go Module Mirror served backdoor to devs for 3+ years",
-      "link": "https://arstechnica.com/security/2025/02/backdoored-package-in-go-mirror-site-went-unnoticed-for-3-years/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- A backdoored package was served via the Go Module Mirror by Google for over three years.\n- The malicious version was named boltdb-go/bolt, targeting users of the legitimate boltdb/bolt module.\n- The issue arose from typosquatting, where users could inadvertently download the backdoored package due to minor name variations.\n- Researchers petitioned for its removal after spotting the malicious code, which was cached despite a revert to the legitimate version on GitHub.",
-      "keywords": [
-        "Go Module Mirror",
-        "backdoor",
-        "typosquatting",
-        "malicious code",
-        "open source security"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-05T12:25:55.000Z"
     }
   ]
 }
