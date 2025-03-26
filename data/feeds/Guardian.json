@@ -4,6 +4,27 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "How to protect your phone and data privacy at the US border",
+      "link": "https://www.theguardian.com/technology/2025/mar/26/phone-search-privacy-us-border-immigration",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- CBP can search devices at US borders; protections are weaker.\n- Conduct a personal risk assessment considering immigration status and data sensitivity.\n- Compliance with searches may lead to scrutiny; refusing can result in device confiscation or longer questioning.\n- Encrypt devices and use strong passwords for security.\n- Do not wipe devices completely as it may raise suspicion; selectively delete sensitive data instead.\n- Moving data to cloud storage can provide protection as CBP cannot search it directly.",
+      "keywords": [
+        "phone privacy",
+        "US border",
+        "Customs and Border Protection",
+        "data protection",
+        "travel security"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-26T10:00:55.000Z"
+    },
+    {
       "title": "Jack Dorsey’s Block to lay off nearly 1,000 workers in another reorganization",
       "link": "https://www.theguardian.com/technology/2025/mar/25/block-layoffs-jack-dorsey-cashapp-square-tidal",
       "author": null,
@@ -2275,28 +2296,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-18T09:30:03.000Z"
-    },
-    {
-      "title": "Performing arts leaders issue copyright warning over UK government’s AI plans",
-      "link": "https://www.theguardian.com/culture/2025/mar/18/performing-arts-leaders-issue-copyright-warning-over-uk-governments-ai-plans",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Over 30 UK performing arts leaders, including heads from National Theatre and Royal Albert Hall, express concerns over government AI plans.\n- They emphasize that artists depend on copyright for their livelihoods and urge government support for creative rights.\n- Signatories include executives from Sadler’s Wells, Royal Shakespeare Company, and City of Birmingham Symphony Orchestra.\n- The statement criticizes the government's plan to allow AI companies to use copyrighted work without explicit consent from artists.\n- Leaders call for transparency obligations on AI companies regarding the copyrighted materials used in training.\n- Notable figures in the creative industries have criticized the proposals, including Sir Paul McCartney and Kate Bush.",
-      "keywords": [
-        "copyright",
-        "AI",
-        "performing arts",
-        "UK government",
-        "creative industries",
-        "transparency"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-18T05:00:04.000Z"
     }
   ]
 }
