@@ -4,6 +4,31 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Microsoft adds ‘deep reasoning’ Copilot AI for research and data analysis",
+      "link": "https://www.theverge.com/microsoft/636089/microsoft-365-copilot-reasoning-ai-agents",
+      "author": "Richard Lawler",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/0007835275_20.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Microsoft introduced two deep reasoning agents, Researcher and Analyst, for Microsoft 365 Copilot.\n- Researcher utilizes OpenAI's model for complex research and connects to third-party data like Salesforce.\n- Analyst, based on OpenAI's o3-mini reasoning model, can create spreadsheets and run Python code, functioning at a data scientist's level.\n- The rollout for these tools starts in April as part of an early access program for Microsoft 365 Copilot users.\n- New capabilities for autonomous agents in Copilot Studio are also being released now, aimed at automating various tasks with AI.",
+      "keywords": [
+        "Microsoft",
+        "AI",
+        "Copilot",
+        "Researcher",
+        "Analyst",
+        "data analysis",
+        "OpenAI",
+        "technology",
+        "productivity tools"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-26T03:00:48.000Z"
+    },
+    {
       "title": "Character.ai can now tell parents which bots their kid is talking to",
       "link": "https://www.theverge.com/news/634974/character-ai-parental-insights-chatbot-report-kids",
       "author": "Adi Robertson",
@@ -1017,16 +1042,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-24T15:50:00.000Z"
-    },
-    {
-      "title": "Indiana Jones and the Great Circle arrives on PS5 in April",
-      "link": "https://www.theverge.com/news/610817/indiana-jones-and-the-great-circle-ps5-release-date",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-03-24T15:02:34.000Z"
     }
   ]
 }

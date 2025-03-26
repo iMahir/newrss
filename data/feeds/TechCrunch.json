@@ -4,6 +4,32 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Microsoft adds AI-powered deep research tools to Copilot",
+      "link": "https://techcrunch.com/2025/03/25/microsoft-adds-ai-powered-deep-research-tools-to-copilot/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Microsoft introduces a new AI-powered tool called Researcher within Microsoft 365 Copilot, aimed at enhancing deep research capabilities.\n- Researcher is powered by OpenAI's deep research model and includes advanced orchestration and deep search functionalities, enabling analyses such as go-to-market strategies and quarterly reports.\n- Analyst, the second tool, uses OpenAI’s o3-mini reasoning model and is optimized for advanced data analysis, capable of running Python for complex queries.\n- Unique features include accessing work data and third-party data connectors, integrating with tools like Confluence and Salesforce.\n- Microsoft launches a Frontier program for exclusive access to these tools, available starting in April for members.\n- The challenges of AI reasoning include potential inaccuracies and mis-citations from less reliable sources.",
+      "keywords": [
+        "Microsoft",
+        "AI tools",
+        "deep research",
+        "Microsoft 365",
+        "Copilot",
+        "Researcher",
+        "Analyst",
+        "OpenAI",
+        "data analysis",
+        "Frontier program"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-26T02:45:00.000Z"
+    },
+    {
       "title": "Read the email Jack Dorsey sent when he cut 931 of Block’s staff",
       "link": "https://techcrunch.com/2025/03/25/read-the-email-jack-dorsey-sent-when-he-cut-931-of-blocks-staff/",
       "author": "Charles Rollet, Maxwell Zeff",
@@ -985,28 +1011,6 @@
         "longTermSignificance": 3
       },
       "pubDate": "2025-03-23T21:56:34.000Z"
-    },
-    {
-      "title": "Barack Obama joins Bluesky",
-      "link": "https://techcrunch.com/2025/03/23/barack-obama-joins-bluesky/",
-      "author": "null",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2016/10/gettyimages-614368414.jpg?w=1024",
-      "summary": "- Barack Obama has joined Bluesky, a social network alternative to X (formerly Twitter).\n- His account was confirmed by Bluesky OOO Rose Wang.\n- Obama celebrated the 15th anniversary of the Affordable Care Act in his initial posts.\n- He has a significant following on platforms like X (130.6 million followers) and Facebook (55 million followers).\n- Bluesky has gained over 33 million users, benefiting from the exodus of users from X after the 2024 U.S. elections.\n- Other notable politicians on Bluesky include Bernie Sanders, Elizabeth Warren, and Alexandria Ocasio-Cortez.",
-      "keywords": [
-        "Barack Obama",
-        "Bluesky",
-        "social media",
-        "Affordable Care Act",
-        "politicians",
-        "user growth"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-23T15:20:11.000Z"
     }
   ]
 }
