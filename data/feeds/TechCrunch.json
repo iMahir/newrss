@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "OpenAI’s viral Studio Ghibli moment highlights AI copyright concerns",
+      "link": "https://techcrunch.com/2025/03/26/openais-viral-studio-ghibli-moment-highlights-ai-copyright-concerns/",
+      "author": "Maxwell Zeff",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Screenshot-2025-03-26-at-1.19.02PM.png?w=680",
+      "summary": "- ChatGPT's new AI image generator has spurred a surge of AI-generated Studio Ghibli-style memes within 24 hours of its launch.\n- CEO Sam Altman used a Studio Ghibli-style image as his profile picture, showcasing the feature's popularity.\n- Concerns arise over copyright implications as AI tools recreate protected styles, with ongoing lawsuits against OpenAI regarding copyright infringement.\n- An intellectual property lawyer points out that while style isn’t protected by copyright, the training of models on copyrighted works is under scrutiny.\n- OpenAI claims it avoids replicating specific artists' styles but can recreate broader studio styles.\n- The technology spurs debate over copyright laws and the legal status of AI-generated works.",
+      "keywords": [
+        "OpenAI",
+        "AI image generator",
+        "Studio Ghibli",
+        "copyright concerns",
+        "image generation",
+        "ChatGPT",
+        "AI technology"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-26T23:23:09.000Z"
+    },
+    {
       "title": "Nvidia is reportedly in talks to acquire Lepton AI",
       "link": "https://techcrunch.com/2025/03/26/nvidia-is-reportedly-in-talks-to-acquire-lepton-ai/",
       "author": null,
@@ -1068,29 +1091,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-25T13:59:26.000Z"
-    },
-    {
-      "title": "Character AI is adding parental supervision tools to improve teen safety",
-      "link": "https://techcrunch.com/2025/03/25/character-ai-is-adding-parental-supervision-tools/",
-      "author": "Ivan Mehta",
-      "thumbnail": null,
-      "summary": "- Character AI introduces new parental insights features to enhance teen safety.\n- The features provide parents with a weekly summary of their teens' activity on the app, including average time spent and top characters interacted with.\n- These updates come in response to lawsuits and criticism regarding the platform's safety for children.\n- Previous safety measures included a specific model for teens and blocking sensitive content.\n- Character AI argues it implemented these features quicker than competitors.",
-      "keywords": [
-        "Character AI",
-        "parental supervision",
-        "teen safety",
-        "user engagement",
-        "lawsuits",
-        "technology",
-        "internet safety"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-25T13:15:00.000Z"
     }
   ]
 }
