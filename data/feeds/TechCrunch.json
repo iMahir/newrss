@@ -4,6 +4,52 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Instagram now lets you speed up reels just like on TikTok",
+      "link": "https://techcrunch.com/2025/03/27/instagram-now-lets-you-speed-up-videos-just-like-on-tiktok/",
+      "author": "Aisha Malik",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/2x-Speed_Still_2.png?w=680",
+      "summary": "- Meta-owned Instagram introduces a feature to speed up reels at 2x speed, similar to TikTok.\n- Users can long press the right or left side of the screen to activate the speed-up feature.\n- Instagram Reels has evolved from 15-second videos to allowing 3-minute videos, enhancing user engagement with quick content consumption.\n- Concerns about short-form video content's impact on attention spans are noted.\n- Instagram has previously adopted features from TikTok, indicating a continuing trend of mimicry in social media platforms.",
+      "keywords": [
+        "Instagram",
+        "Reels",
+        "TikTok",
+        "video speed",
+        "short-form content",
+        "features",
+        "social media"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-03-27T17:51:06.000Z"
+    },
+    {
+      "title": "Facebook Debuts a Revamped Friends Tab as Part of Its Return to ‘OG’ Facebook",
+      "link": "https://techcrunch.com/2025/03/27/facebook-debuts-a-revamped-friends-tab-as-part-of-its-return-to-og-facebook/",
+      "author": "Sarah Perez",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/01_FriendsTabDemo.webp?w=680",
+      "summary": "- Facebook announced a new Friends tab focused solely on updates from friends, eliminating recommended content.\n- The update is currently available only in the U.S. and Canada, featuring posts, Reels, stories, birthdays, and friend requests.\n- This change is part of CEO Mark Zuckerberg's initiative for a 'return to OG Facebook' aiming to refocus on connecting with friends.",
+      "keywords": [
+        "Facebook",
+        "Friends tab",
+        "social networking",
+        "Meta",
+        "Mark Zuckerberg",
+        "return to OG Facebook",
+        "updates"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-27T17:27:20.000Z"
+    },
+    {
       "title": "Twin’s first AI agent is an invoice retrieval agent for Qonto customers",
       "link": "https://techcrunch.com/2025/03/27/twins-first-ai-agent-is-an-invoice-retrieval-agent-for-qonto-customers/",
       "author": "Romain Dillet",
@@ -1011,54 +1057,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-25T18:39:44.000Z"
-    },
-    {
-      "title": "ChatGPT’s image-generation feature gets an upgrade",
-      "link": "https://techcrunch.com/2025/03/25/chatgpts-image-generation-feature-gets-an-upgrade/",
-      "author": "Kyle Wiggers, Maxwell Zeff",
-      "thumbnail": null,
-      "summary": "- OpenAI CEO Sam Altman announced a major upgrade to ChatGPT’s image-generation capabilities using the GPT-4o model.\n- GPT-4o can now natively create and modify images, a feature previously limited to text generation.\n- The upgrade is available for subscribers on the $200/month Pro plan and will roll out soon for Plus and free users as well as developers.\n- GPT-4o is designed to create more accurate and detailed images than its predecessor, DALL-E 3.\n- OpenAI trained GPT-4o on publicly available data and proprietary data from partnerships, with a commitment to respecting artists' rights.\n- The upgrade comes after Google's Gemini 2.0 Flash, which experienced issues with image generation and copyright concerns.",
-      "keywords": [
-        "ChatGPT",
-        "image generation",
-        "GPT-4o",
-        "OpenAI",
-        "DALL-E 3",
-        "AI technology",
-        "image editing",
-        "artists' rights"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-25T18:32:40.000Z"
-    },
-    {
-      "title": "Apple announces WWDC 2025 takes place June 9-13",
-      "link": "https://techcrunch.com/2025/03/25/apple-announces-wwdc-2025-takes-place-june-9-13/",
-      "author": "Aisha Malik",
-      "thumbnail": null,
-      "summary": "- Apple announced that the Worldwide Developers Conference (WWDC) will be held from June 9 to June 13, 2025.\n- The event will be online and accessible to all Apple developers, with an in-person keynote at Apple Park on June 9.\n- WWDC 2025 will showcase new versions of iOS, iPadOS, macOS, watchOS, and tvOS, as well as new tools for developers.\n- Reports suggest significant software updates for the iPhone, iPad, and Mac, with iOS 19 being the most dramatic revamp since iOS 7.\n- The event may also introduce new hardware products and enhancements to Siri.",
-      "keywords": [
-        "Apple",
-        "WWDC 2025",
-        "developers conference",
-        "iOS 19",
-        "software updates",
-        "technology",
-        "hardware",
-        "Siri"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-25T17:46:39.000Z"
     }
   ]
 }

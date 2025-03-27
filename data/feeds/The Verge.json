@@ -4,6 +4,72 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Nintendo is paving the way for the Switch 2",
+      "link": "https://www.theverge.com/nintendo/637597/nintendo-virtual-game-cards-switch-2",
+      "author": "Andrew Webster",
+      "thumbnail": null,
+      "summary": "- Nintendo introduced virtual game cards that allow easy sharing of digital games between devices.\n- These cards function like physical cartridges, enabling users to 'eject' and load games on compatible devices linked to their account.\n- The feature will be part of a system update expected in April, coinciding with a major Nintendo Direct that may reveal details about the Switch 2 release.",
+      "keywords": [
+        "Nintendo",
+        "Switch 2",
+        "virtual game cards",
+        "digital game sharing",
+        "gaming updates"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-27T18:06:13.000Z"
+    },
+    {
+      "title": "Fired Democratic FTC commissioners sue Trump",
+      "link": "https://www.theverge.com/news/637602/fired-democratic-ftc-commissioners-sue-trump",
+      "author": "Richard Lawler",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/0007835275_20.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Two Democratic FTC commissioners, Kelly Slaughter and Alvaro Bedoya, have filed a lawsuit against Donald Trump and current FTC chair Andrew Ferguson.\n- They claim their firing violates federal law and Supreme Court precedents established in the 1935 case *Humphrey’s Executor v. US*.\n- The lawsuit seeks to restore the commissioners to their positions, arguing they have a right to complete their terms unless there is cause for removal.",
+      "keywords": [
+        "FTC",
+        "lawsuit",
+        "Trump",
+        "commissioners",
+        "firing",
+        "Supreme Court",
+        "Humphrey’s Executor"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-27T18:00:47.000Z"
+    },
+    {
+      "title": "OpenAI says ‘our GPUs are melting’ as it limits ChatGPT image generation requests",
+      "link": "https://www.theverge.com/news/637542/chatgpt-says-our-gpus-are-melting-as-it-puts-limit-on-image-generation-requests",
+      "author": "Chris Welch",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195901/welch.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- OpenAI places temporary rate limits on ChatGPT's image generation due to high demand.\n- CEO Sam Altman mentioned, \"our GPUs are melting\" due to the influx of image requests.\n- The rate limit aims to manage the stress on OpenAI's infrastructure and improve efficiency.\n- Free tier users will soon be able to generate up to three images per day.\n- The new image generation tool uses OpenAI's advanced GPT-4o model, offering more realistic creations.",
+      "keywords": [
+        "OpenAI",
+        "ChatGPT",
+        "image generation",
+        "rate limit",
+        "GPT-4o",
+        "Sam Altman"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-27T17:28:39.000Z"
+    },
+    {
       "title": "Satya Nadella: DeepSeek is the new bar for Microsoft’s AI success",
       "link": "https://www.theverge.com/notepad-microsoft-newsletter/637496/microsoft-satya-nadella-deepseek-chatgpt-ai-investments-notepad",
       "author": "Tom Warren",
@@ -990,51 +1056,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-26T17:20:36.000Z"
-    },
-    {
-      "title": "Canon redesigned its entry-level EOS R50 with improved video capabilities",
-      "link": "https://www.theverge.com/news/636493/canon-eos-r50-v-camera-aps-c-4k-livestreaming",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-03-26T17:00:00.000Z"
-    },
-    {
-      "title": "Roborock’s S8 MaxV Ultra, our favorite robovac, is cheaper than ever",
-      "link": "https://www.theverge.com/good-deals/636455/roborock-s8-maxv-ultra-robot-vacuum-dreame-x40-ultra-spring-cleaning-deal-sale",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-03-26T16:22:29.000Z"
-    },
-    {
-      "title": "Rivian spins out secret e-bike lab into a new company called Also",
-      "link": "https://www.theverge.com/news/636520/rivian-ebike-scooter-also-spin-out-micormobility",
-      "author": "Andrew J. Hawkins",
-      "thumbnail": null,
-      "summary": "- Rivian launched a new micromobility company named Also, securing $105 million in Series B funding from Eclipse.\n- The focus of Also will be on lightweight electric vehicles such as bikes and scooters.\n- Rivian's CEO RJ Scaringe highlighted the need for diverse electrified transport options.\n- The company has been working on a micromobility program for several years, with plans to file trademarks for e-bikes and scooters.\n- Rivian aims to feature Also's products in its retail locations while retaining a minority ownership stake in the new company.",
-      "keywords": [
-        "Rivian",
-        "Also",
-        "micromobility",
-        "e-bikes",
-        "electric scooters",
-        "RJ Scaringe",
-        "venture capital",
-        "transportation",
-        "lightweight vehicles"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-26T16:13:01.000Z"
     }
   ]
 }
