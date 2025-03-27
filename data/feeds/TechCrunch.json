@@ -4,6 +4,30 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "NHS vendor Advanced to pay £3M fine following 2022 ransomware attack",
+      "link": "https://techcrunch.com/2025/03/27/nhs-vendor-advanced-to-pay-3m-fine-following-2022-ransomware-attack/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- NHS vendor Advanced will pay over £3 million in fines for inadequate security measures before a ransomware attack in 2022.\n- The fine is half of the initial amount sought by the Information Commissioner’s Office, which was over £6 million.\n- Advanced failed to implement multi-factor authentication, allowing hackers to access personal information of tens of thousands.\n- The LockBit ransomware attack led to significant outages across NHS systems, affecting patient data management.",
+      "keywords": [
+        "NHS",
+        "Advanced",
+        "ransomware",
+        "data protection",
+        "multi-factor authentication",
+        "LockBit",
+        "fines",
+        "cybersecurity"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-27T08:26:19.000Z"
+    },
+    {
       "title": "OpenAI will reportedly close its SoftBank-led $40 billion round soon",
       "link": "https://techcrunch.com/2025/03/26/openai-will-reportedly-close-its-softbank-led-40-billion-round-soon/",
       "author": null,
@@ -1060,32 +1084,6 @@
         "impact": 8,
         "novelty": 7,
         "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-25T14:00:00.000Z"
-    },
-    {
-      "title": "Apple Music is integrating with music tools to allow DJs to create mixes using its catalog",
-      "link": "https://techcrunch.com/2025/03/25/apple-3/",
-      "author": "Ivan Mehta",
-      "thumbnail": null,
-      "summary": "- Apple Music is integrating with tools for DJs, allowing them to build mixes using its catalog of over 100 million songs.\n- Integrated tools include Algoriddim’s djay Pro, AlphaTheta, Serato, Engine DJ, Denon DJ, Numark, and RANE DJ.\n- A new DJ category page will feature DJ-friendly playlists and mixes for inspiration.\n- Since launching streaming for DJ Mix sets in 2021, Apple has added thousands of sets to the platform.\n- Competitors like SoundCloud and Spotify are also exploring tools for song creation and remixing.",
-      "keywords": [
-        "Apple Music",
-        "DJs",
-        "music tools",
-        "mixes",
-        "integration",
-        "Algoriddim",
-        "streaming",
-        "Serato",
-        "SoundCloud",
-        "Spotify"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
       },
       "pubDate": "2025-03-25T14:00:00.000Z"
     }
