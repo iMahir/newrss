@@ -4,6 +4,54 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Mozilla patches Firefox bug ‘exploited in the wild’, similar to bug attacking Chrome",
+      "link": "https://techcrunch.com/2025/03/28/mozilla-patches-firefox-bug-exploited-in-the-wild-similar-to-bug-attacking-chrome/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/firefox.jpeg?w=1024",
+      "summary": "- Mozilla has released an update for Firefox addressing a security bug tracked as CVE-2025-2857, which was actively exploited.\n- The updated version is Firefox 136.0.4, which follows a similar pattern to a recent bug patched in Google Chrome.\n- The bug allowed potential escape from Firefox’s sandbox, impacting other browsers like the Tor Browser, which also received a patch.\n- Kaspersky's Boris Larin linked these exploits to targeted attacks on journalists and institutions in Russia.",
+      "keywords": [
+        "Mozilla",
+        "Firefox",
+        "security bug",
+        "CVE-2025-2857",
+        "exploit",
+        "Chrome",
+        "Tor Browser",
+        "Kaspersky",
+        "cybersecurity"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-28T12:31:27.000Z"
+    },
+    {
+      "title": "Google rolls out user choice billing on Google Play in the UK",
+      "link": "https://techcrunch.com/2025/03/28/google-rolls-out-user-choice-billing-on-google-play-in-the-uk/",
+      "author": "Ivan Mehta",
+      "thumbnail": null,
+      "summary": "- Google is launching user choice billing in the U.K. on March 29 for non-game developers.\n- Developers can use alternative billing options but must also retain Google Play's billing system.\n- Developers opting for alternative billing receive a 4% discount on fees paid to Google, which typically charges up to 30%.\n- This move responds to a 2022 CMA investigation into competitive practices in app billing.\n- Google previously proposed this billing choice to settle antitrust issues raised by the CMA.\n- User choice billing is already operational in countries like the U.S., India, and Australia.",
+      "keywords": [
+        "Google",
+        "user choice billing",
+        "Google Play",
+        "developers",
+        "CMA investigation",
+        "alternative billing options",
+        "in-app purchases"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-28T12:26:43.000Z"
+    },
+    {
       "title": "Krafton acquires controlling stake in Indian gaming studio Nautilus Mobile for $14M",
       "link": "https://techcrunch.com/2025/03/27/krafton-acquires-controlling-stake-in-indian-gaming-studio-nautilus-mobile-for-14m/",
       "author": null,
@@ -1010,55 +1058,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-03-26T10:12:16.000Z"
-    },
-    {
-      "title": "Microsoft adds AI-powered deep research tools to Copilot",
-      "link": "https://techcrunch.com/2025/03/25/microsoft-adds-ai-powered-deep-research-tools-to-copilot/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- Microsoft introduces a new AI-powered tool called Researcher within Microsoft 365 Copilot, aimed at enhancing deep research capabilities.\n- Researcher is powered by OpenAI's deep research model and includes advanced orchestration and deep search functionalities, enabling analyses such as go-to-market strategies and quarterly reports.\n- Analyst, the second tool, uses OpenAI’s o3-mini reasoning model and is optimized for advanced data analysis, capable of running Python for complex queries.\n- Unique features include accessing work data and third-party data connectors, integrating with tools like Confluence and Salesforce.\n- Microsoft launches a Frontier program for exclusive access to these tools, available starting in April for members.\n- The challenges of AI reasoning include potential inaccuracies and mis-citations from less reliable sources.",
-      "keywords": [
-        "Microsoft",
-        "AI tools",
-        "deep research",
-        "Microsoft 365",
-        "Copilot",
-        "Researcher",
-        "Analyst",
-        "OpenAI",
-        "data analysis",
-        "Frontier program"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-26T02:45:00.000Z"
-    },
-    {
-      "title": "Read the email Jack Dorsey sent when he cut 931 of Block’s staff",
-      "link": "https://techcrunch.com/2025/03/25/read-the-email-jack-dorsey-sent-when-he-cut-931-of-blocks-staff/",
-      "author": "Charles Rollet, Maxwell Zeff",
-      "thumbnail": null,
-      "summary": "- Block laid off 931 employees, about 8% of its staff, as announced in an email by CEO Jack Dorsey.\n- The layoffs include 391 for strategy reasons, 460 for performance issues, and 80 managers to flatten the hierarchy.\n- Dorsey stated that the cuts are due to strategic needs, not financial ones or AI replacements, and that 748 open roles will also be closed.",
-      "keywords": [
-        "Block",
-        "Jack Dorsey",
-        "layoffs",
-        "fintech",
-        "employment",
-        "performance",
-        "strategy"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-25T22:39:05.000Z"
     }
   ]
 }
