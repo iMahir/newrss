@@ -4,6 +4,27 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "WhatsApp users can now add songs to their Status updates",
+      "link": "https://techcrunch.com/2025/03/28/whatsapp-users-can-now-add-songs-to-their-status-updates/",
+      "author": "Lauren Forristal",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/WhatsApp-Statusmusic.png?w=1024",
+      "summary": "\n- WhatsApp launched a new feature allowing users to add brief music clips to their Status updates, starting March 28, 2025.\n- Users can select from millions of songs, sharing clips up to 15 seconds for photos and 60 seconds for videos.\n- The music feature is similar to Instagram's but offers end-to-end encryption, ensuring only friends can view the shared songs.\n- The rollout of this new feature is underway globally, with expanded availability expected in the coming weeks.\n",
+      "keywords": [
+        "WhatsApp",
+        "Status updates",
+        "music clips",
+        "Meta",
+        "Instagram"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-28T14:22:12.000Z"
+    },
+    {
       "title": "YC-backed Taxo raises $5M to slash healthcare admin with its AI ‘reasoning engine’",
       "link": "https://techcrunch.com/2025/03/28/yc-backed-taxo-raised-5m-to-slash-healthcare-admin-with-its-ai-reasoning-engine/",
       "author": "Charles Rollet",
@@ -1048,29 +1069,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-26T13:00:03.000Z"
-    },
-    {
-      "title": "Cloud veterans launch ConfigHub to fix ‘configuration hell’",
-      "link": "https://techcrunch.com/2025/03/26/cloud-veterans-launch-confighub-to-fix-configuration-hell/",
-      "author": "Alexis Richardson, Brian Grant, Jesper Joergensen",
-      "thumbnail": null,
-      "summary": "- A trio of cloud industry leaders launched ConfigHub with a mission to modernize software configuration data management.  \n- The company has emerged from stealth with $4 million in funding and aims to help users escape 'configuration hell'.  \n- Key executives include CEO Alexis Richardson (Weaveworks founder), CTO Brian Grant (original lead architect of Kubernetes), and CPO Jesper Joergensen (formerly of Salesforce).  \n- ConfigHub will offer a unified database for configuration management, simplifying error tracking and resolution.  \n- The company plans to target Kubernetes DevOps tooling and has partnered with medium to large enterprises for product development.  \n- ConfigHub’s product is still in development, with a SaaS model on the horizon.  \n- Previous configuration incidents highlight the need for better management solutions, especially as AI becomes more prevalent in software operations.",
-      "keywords": [
-        "cloud computing",
-        "ConfigHub",
-        "software configuration",
-        "Kubernetes",
-        "DevOps",
-        "AI",
-        "startups"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-26T13:00:00.000Z"
     }
   ]
 }
