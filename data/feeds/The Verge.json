@@ -4,6 +4,50 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "YouTube tests turning off notifications for channels you don't watch",
+      "link": "https://www.theverge.com/news/638506/youtube-push-notification-test",
+      "author": "Umar Shakir",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195848/UMAR_SHAKIR.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- YouTube is testing disabling push notifications for frequently updating channels that users don't open notifications for.\n- The test specifically targets channels users have notifications set to \"all.\" Notifications for less active channels will remain unaffected.\n- There is uncertainty if users will be notified about missed alerts, with concerns over platform control of user notifications.\n- The test is described as a small experiment with no details on duration or potential wider rollout.",
+      "keywords": [
+        "YouTube",
+        "notifications",
+        "test",
+        "channels",
+        "user experience"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 4,
+        "longTermSignificance": 3
+      },
+      "pubDate": "2025-03-28T18:47:05.000Z"
+    },
+    {
+      "title": "Google to pay $100 million to settle 14-year-old advertising lawsuit",
+      "link": "https://www.theverge.com/news/638630/google-100-million-settlement-advertising-class-action-lawsuit",
+      "author": "Emma Roth",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Google will pay $100 million to settle a class action lawsuit regarding misleading ad charges.\n- The lawsuit, filed in 2011, alleged Google charged for clicks on ads placed outside specified geographical locations.\n- The settlement requires court approval and includes advertisers who used Google Ads between June 1, 2009, and December 13, 2012.\n- The case involved reviewing over 910,000 pages of documents and extensive data from Google.\n- Google faced other legal challenges including federal antitrust lawsuits concerning its advertising practices.",
+      "keywords": [
+        "Google",
+        "lawsuit",
+        "settlement",
+        "advertising",
+        "class action",
+        "Google Ads",
+        "Unfair Competition"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-28T18:18:49.000Z"
+    },
+    {
       "title": "Musk threatens to sic the government on people ‘pushing’ Tesla ‘propaganda’",
       "link": "https://www.theverge.com/tesla/638174/elon-musk-tesla-protest-free-speech-fox-news",
       "author": "Andrew J. Hawkins",
@@ -1074,39 +1118,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-27T15:18:59.000Z"
-    },
-    {
-      "title": "Elon Musk pressured Reddit’s CEO on content moderation",
-      "link": "https://www.theverge.com/command-line-newsletter/637083/elon-musk-reddit-ceo-content-moderation",
-      "author": "Alex Heath",
-      "thumbnail": null,
-      "summary": "- Elon Musk publicly criticized Reddit for blocking links to his platform, calling it 'insane'.\n- Musk privately messaged Reddit CEO Steve Huffman, leading to a 72-hour ban on the subreddit \"WhitePeopleTwitter\" due to violent content.\n- Reddit's spokesperson stated they take policy violations seriously and will act if necessary.\n- The communication was discussed among Reddit moderators, raising concerns about Musk's influence on platform moderation.",
-      "keywords": [
-        "Elon Musk",
-        "Reddit",
-        "content moderation",
-        "Steve Huffman",
-        "social media",
-        "X platform",
-        "violent content"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-27T15:12:42.000Z"
-    },
-    {
-      "title": "Amazon tests renaming Echo smart displays to Alexa",
-      "link": "https://www.theverge.com/news/637297/amazon-echo-smart-display-renamed-alexa",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-03-27T15:12:25.000Z"
     }
   ]
 }
