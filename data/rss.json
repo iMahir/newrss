@@ -1,5 +1,101 @@
 [
   {
+    "title": "AI agriculture firm Cropin partners with Walmart + IndiaAI, Gates Foundation to boost AI in healthcare, agriculture",
+    "id": "18a9n030sebw1o",
+    "summary": "- The IndiaAI Mission and Gates Foundation are partnering to enhance AI solutions in agriculture, healthcare, education, and climate resilience.\n- Union Minister Ashwini Vaishnaw announced a memorandum of understanding (MoU) after meeting Bill Gates.\n- The initiative includes the IndiaAI Compute Portal for affordable AI computing resources.\n- Cropin collaborates with Walmart to enhance agricultural technology.\n- The partnership aims to leverage AI for better crop management and yield.\n- Focus on improving supply chain efficiency and farmer connectivity.",
+    "thumbnails": [
+      "https://cdn.techinasia.com/wp-content/uploads/2015/11/bill-gates.jpg",
+      "https://cdn.techinasia.com/wp-content/uploads/2025/03/1743128044_DSC_2356-scaled.jpg"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "ai",
+      "healthcare",
+      "agriculture",
+      "gates foundation",
+      "indiaai",
+      "partnership",
+      "cropin",
+      "walmart",
+      "technology"
+    ],
+    "sources": [
+      {
+        "title": "IndiaAI, Gates Foundation to boost AI in healthcare, agriculture",
+        "link": "https://www.techinasia.com/news/indiaai-gates-foundation-to-boost-ai-in-healthcare-agriculture"
+      },
+      {
+        "title": "AI agriculture firm Cropin partners with Walmart",
+        "link": "https://www.techinasia.com/news/ai-agriculture-firm-cropin-partners-walmart"
+      }
+    ],
+    "lastUpdated": "2025-03-28T12:22:38.042Z"
+  },
+  {
+    "title": "Why the ‘iPhone of smartwatches’ remains so elusive",
+    "id": "1cftwdn1j1f211",
+    "summary": "- The quest for a smartwatch that matches the transformative impact of the iPhone continues, but no product has yet achieved that status.\n- Apple Watch is a success but not a game-changer; other companies have attempted to innovate in this space without success, such as Human’s AI Pin.\n- Recent developments suggest Apple is exploring camera integration for future Apple Watch models to enhance features like “Visual Intelligence.”\n- The European Commission has mandated Apple improve iOS compatibility with third-party smartwatches, which could influence future innovations in the market.\n- Industry veterans, like Eric Migicovsky, cite restrictions imposed by Apple as hindering the smartwatch industry, underscoring the need for more interoperability.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "smartwatch",
+      "Apple Watch",
+      "iPhone",
+      "technology",
+      "wearables",
+      "European Commission",
+      "interoperability",
+      "AI"
+    ],
+    "sources": [
+      {
+        "title": "Why the ‘iPhone of smartwatches’ remains so elusive",
+        "link": "https://www.fastcompany.com/91305144/apple-watch-camera-pebble-core-devices-ec-ruling?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
+      }
+    ],
+    "lastUpdated": "2025-03-28T12:22:38.042Z"
+  },
+  {
+    "title": "Gemini hackers can deliver more potent attacks with a helping hand from… Gemini",
+    "id": "12i3v0x0x6nptm",
+    "summary": "- New attacks on Gemini use indirect prompt injection to exploit vulnerabilities in large language models.\n- Researchers have developed a method called 'Fun-Tuning' for creating effective prompt injections against closed-weights models like Gemini, increasing success rates significantly.\n- Fun-Tuning requires approximately 60 hours of compute time but only costs about $10 due to free access to the Gemini fine-tuning API.\n- Attack success rates for Fun-Tuning were 65% against Gemini 1.5 Flash and 82% against Gemini 1.0 Pro, compared to baseline rates of 28% and 43%, respectively.\n- The methodology allows attackers to algorithmically optimize prompt injections using discrete optimization techniques, which were typically labor-intensive if done manually.",
+    "thumbnails": [
+      "https://cdn.arstechnica.net/wp-content/uploads/2025/03/google-gemini-self-hack-hands.jpg"
+    ],
+    "scores": {
+      "scale": 8,
+      "impact": 9,
+      "novelty": 7,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "Gemini",
+      "hackers",
+      "AI security",
+      "prompt injection",
+      "Fun-Tuning",
+      "large language models",
+      "cybersecurity"
+    ],
+    "sources": [
+      {
+        "title": "Gemini hackers can deliver more potent attacks with a helping hand from… Gemini",
+        "link": "https://arstechnica.com/security/2025/03/gemini-hackers-can-deliver-more-potent-attacks-with-a-helping-hand-from-gemini/"
+      }
+    ],
+    "lastUpdated": "2025-03-28T12:22:38.041Z"
+  },
+  {
     "title": "Android Auto’s latest beta brings full Android game support",
     "id": "1w8078b1htc83l",
     "summary": "- Google is introducing gaming support in the latest beta of Android Auto, allowing games like *Candy Crush Soda Saga* and *Angry Birds 2* to be played from car touchscreens.\n- Currently, four games are supported: *Candy Crush*, *Angry Birds*, *Farm Heroes Saga*, and *Beach Buggy Racing*, which must be installed on the user's phone and can only be played when the car is parked.\n- This update marks the first availability of fullscreen apps in Android Auto, enhancing the experience similar to that on cars with Google built-in. Gaming support was first announced as part of Google's March feature drop.",
@@ -17341,35 +17437,6 @@
       {
         "title": "Microsoft to launch first cloud region in Malaysia",
         "link": "https://www.techinasia.com/news/microsoft-launch-cloud-region-malaysia"
-      }
-    ],
-    "lastUpdated": "2025-03-21T03:26:30.620Z"
-  },
-  {
-    "title": "IndiaAI, Gates Foundation to boost AI in healthcare, agriculture",
-    "id": "18a9n030sebw1o",
-    "summary": "- The IndiaAI Mission and Gates Foundation are partnering to enhance AI solutions in agriculture, healthcare, education, and climate resilience.\n- Union Minister Ashwini Vaishnaw announced a memorandum of understanding (MoU) after meeting Bill Gates.\n- The initiative includes the IndiaAI Compute Portal for affordable AI computing resources.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2015/11/bill-gates.jpg"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "AI",
-      "healthcare",
-      "agriculture",
-      "Gates Foundation",
-      "IndiaAI",
-      "partnership"
-    ],
-    "sources": [
-      {
-        "title": "IndiaAI, Gates Foundation to boost AI in healthcare, agriculture",
-        "link": "https://www.techinasia.com/news/indiaai-gates-foundation-to-boost-ai-in-healthcare-agriculture"
       }
     ],
     "lastUpdated": "2025-03-21T03:26:30.620Z"
@@ -36091,92 +36158,5 @@
       }
     ],
     "lastUpdated": "2025-03-14T14:12:51.975Z"
-  },
-  {
-    "title": "Kerry Washington invests in wedding marketplace Cheersy",
-    "id": "15bdr881vahvhr",
-    "summary": "- Kerry Washington leads a pre-seed investment round in the wedding marketplace Cheersy, founded by Amy Shack Egan in 2024.\n- Cheersy focuses on connecting couples with day-of wedding coordinators and has raised a total of $550,000 from notable investors, including Christina Tosi and Jennifer Gilbert.\n- Shack Egan aims to enhance the Cheersy platform and expand it to six new cities, leveraging her background in wedding planning and addressing the high demand for coordination services.",
-    "thumbnails": [
-      "https://techcrunch.com/wp-content/uploads/2025/03/Modern-Rebel-Headshots-November-2024-0371-2-copy.jpg?w=486"
-    ],
-    "scores": {
-      "scale": 5,
-      "impact": 6,
-      "novelty": 5,
-      "longTermSignificance": 4
-    },
-    "keywords": [
-      "Kerry Washington",
-      "Cheersy",
-      "wedding marketplace",
-      "angel investment",
-      "Amy Shack Egan",
-      "startup investment",
-      "event planning"
-    ],
-    "sources": [
-      {
-        "title": "Kerry Washington invests in wedding marketplace Cheersy",
-        "link": "https://techcrunch.com/2025/03/14/kerry-washington-invests-in-wedding-marketplace-cheersy/"
-      }
-    ],
-    "lastUpdated": "2025-03-14T12:21:29.879Z"
-  },
-  {
-    "title": "Parents should stop children gaming on Roblox if they are worried, says CEO",
-    "id": "057tqa513w0vsz",
-    "summary": "- Roblox’s CEO, David Baszucki, advises parents to prevent children from using Roblox if they are uncomfortable with it.\n- The platform faces concerns over bullying, grooming, and exposure to harmful content, particularly among users aged 8 to 12.\n- Roblox reports an average of over 80 million players daily in 2024, with roughly 40% under 13.\n- Baszucki emphasizes the company's commitment to user safety, including monitoring communications and using advanced AI for behavior analysis.\n- Changes to mitigate risks include banning under 13s from direct messaging and specific chat experiences.\n- Roblox's valuation is currently at $41 billion, with its virtual currency Robux integral to its business model.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 8,
-      "impact": 7,
-      "novelty": 6,
-      "longTermSignificance": 8
-    },
-    "keywords": [
-      "Roblox",
-      "David Baszucki",
-      "parental guidance",
-      "gaming safety",
-      "child protection",
-      "online gaming"
-    ],
-    "sources": [
-      {
-        "title": "Parents should stop children gaming on Roblox if they are worried, says CEO",
-        "link": "https://www.theguardian.com/games/2025/mar/13/roblox-parents-children-gaming-worried-ceo-david-baszucki"
-      }
-    ],
-    "lastUpdated": "2025-03-14T12:21:29.876Z"
-  },
-  {
-    "title": "From Neva to A Highland Song, the Baftas are a reminder of how creative games can be",
-    "id": "0gd2b3f1t3xvhu",
-    "summary": "- The 2025 BAFTA Games Awards nominations were recently announced, highlighting creative aspects of video games.\n- Notable nominees include *A Highland Song* and *Still Wakes the Deep* for best British game, and *Hellblade II* with 11 nominations overall.\n- The awards ceremony will take place on April 8, 2025, hosted by comedian Phil Wang, featuring a mix of indie and large-scale games across various categories.",
-    "thumbnails": [
-      "https://i.guim.co.uk/img/media/a0d8c31c4c27ee428bdedc7b346df329602ce759/240_0_3600_2160/master/3600.jpg?width=445&dpr=1&s=none&crop=none"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 5
-    },
-    "keywords": [
-      "BAFTA",
-      "video games",
-      "2025 nominations",
-      "A Highland Song",
-      "Hellblade II",
-      "indie games",
-      "gaming awards"
-    ],
-    "sources": [
-      {
-        "title": "From Neva to A Highland Song, the Baftas are a reminder of how creative games can be",
-        "link": "https://www.theguardian.com/games/2025/mar/12/pushing-buttons-bafta-video-game-awards"
-      }
-    ],
-    "lastUpdated": "2025-03-14T12:21:29.875Z"
   }
 ]

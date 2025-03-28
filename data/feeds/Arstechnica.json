@@ -4,6 +4,29 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Gemini hackers can deliver more potent attacks with a helping hand from… Gemini",
+      "link": "https://arstechnica.com/security/2025/03/gemini-hackers-can-deliver-more-potent-attacks-with-a-helping-hand-from-gemini/",
+      "author": null,
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/google-gemini-self-hack-hands.jpg",
+      "summary": "- New attacks on Gemini use indirect prompt injection to exploit vulnerabilities in large language models.\n- Researchers have developed a method called 'Fun-Tuning' for creating effective prompt injections against closed-weights models like Gemini, increasing success rates significantly.\n- Fun-Tuning requires approximately 60 hours of compute time but only costs about $10 due to free access to the Gemini fine-tuning API.\n- Attack success rates for Fun-Tuning were 65% against Gemini 1.5 Flash and 82% against Gemini 1.0 Pro, compared to baseline rates of 28% and 43%, respectively.\n- The methodology allows attackers to algorithmically optimize prompt injections using discrete optimization techniques, which were typically labor-intensive if done manually.",
+      "keywords": [
+        "Gemini",
+        "hackers",
+        "AI security",
+        "prompt injection",
+        "Fun-Tuning",
+        "large language models",
+        "cybersecurity"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-28T11:00:58.000Z"
+    },
+    {
       "title": "OpenAI’s new AI image generator is potent and bound to provoke",
       "link": "https://arstechnica.com/ai/2025/03/openais-new-ai-image-generator-is-potent-and-bound-to-provoke/",
       "author": null,
@@ -1134,29 +1157,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-02-06T22:06:17.000Z"
-    },
-    {
-      "title": "Ransomware payments declined in 2024 despite massive well-known hacks",
-      "link": "https://arstechnica.com/security/2025/02/ransomware-payments-declined-in-2024-despite-well-known-massive-hacks/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Ransomware payments dropped by 35% in 2024, totaling $814 million compared to $1.25 billion in 2023.\n- The second half of 2024 saw the largest drop in payments between two six-month periods on record, from $492 million to $321 million.\n- Law enforcement disruptions in 2024 targeted major ransomware groups like BlackCat and Lockbit, contributing to the decline in payments.",
-      "keywords": [
-        "ransomware",
-        "payments",
-        "decline",
-        "2024",
-        "cybersecurity",
-        "law enforcement",
-        "Chainalysis"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-06T14:21:08.000Z"
     }
   ]
 }
