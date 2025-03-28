@@ -4,6 +4,56 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "A beginner’s guide to using Signal",
+      "link": "https://www.theverge.com/tech/637926/signal-app-how-to-features-encryption",
+      "author": "Allison Johnson",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/IMG_0325_combined.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "- Signal is a messaging app focused on privacy and secure communication.\n- Communication is end-to-end encrypted by default, ensuring message privacy.\n- Signal does not store much user data, protecting against law enforcement inquiries.\n- Unlike some services, Signal only retains the account creation and last usage timestamps.\n- The app is accessible to anyone but is particularly valued by journalists and activists.\n- Users need the app on both sides of a conversation to communicate securely.\n- Signal provides disappearing messages and additional privacy settings to enhance security.",
+      "keywords": [
+        "Signal",
+        "messaging app",
+        "privacy",
+        "encryption",
+        "secure communication",
+        "end-to-end encryption",
+        "data protection",
+        "digital privacy"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-28T17:00:00.000Z"
+    },
+    {
+      "title": "Here’s what military planning usually looks like — and why it doesn’t include Signal",
+      "link": "https://www.theverge.com/politics/638419/signal-houthi-group-chat-military-security-scif-encryption",
+      "author": "Matthew Gault",
+      "thumbnail": null,
+      "summary": "- The Trump administration used a Signal group chat to plan a military strike in Yemen, which included classified details about American assets.\n- National Security Advisor Mike Waltz mistakenly invited an *Atlantic* editor into the chat, leading to a leak of sensitive information.\n- Military security protocols require secure communications in SCIFs, not unsecured apps like Signal, which are considered insufficient.\n- Discussion of military operations should occur in secured facilities to prevent surveillance by foreign intelligence agencies.\n- The Pentagon prohibits using unmanaged messaging apps on government devices to protect sensitive information.\n- If devices are compromised, the benefits of Signal's encryption can be rendered useless, exposing sensitive data.\n- The incident raises concerns about the potential for critical military operations to be discussed in insecure environments and the risks of interception by adversaries.",
+      "keywords": [
+        "military planning",
+        "Signal",
+        "group chat",
+        "Trump administration",
+        "Houthi targets",
+        "encryption",
+        "national security",
+        "SCIF",
+        "leaks",
+        "communications security"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-28T16:53:18.000Z"
+    },
+    {
       "title": "King Arthur wants to automate your sourdough starter",
       "link": "https://www.theverge.com/news/638390/sourdough-starter-king-arthur-flour-firstbuild-indiegogo",
       "author": "Dominic Preston",
@@ -1053,51 +1103,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-03-27T15:00:59.000Z"
-    },
-    {
-      "title": "Caterpillar taps Luminar’s lidar for self-driving construction equipment",
-      "link": "https://www.theverge.com/news/637238/caterpillar-luminar-lidar-self-driving-construction-equipment",
-      "author": "Andrew J. Hawkins",
-      "thumbnail": null,
-      "summary": "- Caterpillar is integrating Luminar’s lidar technology into its autonomy platform for construction equipment.\n- Initial implementation includes two lidar sensors in highway trucks used for quarry operations.\n- Caterpillar has sold autonomous trucks on three continents, traveling over 207 million miles.\n- The integration aims to enhance safety, productivity, and efficiency in heavy-duty machinery.\n- Lidar technology detects object shapes and distances using near-infrared light, improving safety in construction environments.\n- Luminar's Iris sensors operate at a 1550nm wavelength, effective in dusty conditions, and are favored by major automotive manufacturers like Mercedes-Benz and Volvo.",
-      "keywords": [
-        "Caterpillar",
-        "Luminar",
-        "lidar",
-        "self-driving",
-        "construction equipment",
-        "autonomy",
-        "safety",
-        "technology"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-27T15:00:00.000Z"
-    },
-    {
-      "title": "How to keep your Venmo account private",
-      "link": "https://www.theverge.com/how-to/637215/venmo-privacy-how-to",
-      "author": "Barbara Krasnoff",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195795/BARBARA_KRASNOFF.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Venmo is widely used for money transfers but can expose personal information if not secured.\n- Users should check and adjust their privacy settings, ideally setting transactions to Private.\n- It is possible to hide past transactions and friends list to enhance privacy.\n- Location settings can also be adjusted to limit visibility.\n- Venmo defaults to more private settings when multiple accounts are involved.",
-      "keywords": [
-        "Venmo",
-        "privacy",
-        "settings",
-        "transactions",
-        "online banking"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-27T14:57:59.000Z"
     }
   ]
 }

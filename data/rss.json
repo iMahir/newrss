@@ -1,5 +1,198 @@
 [
   {
+    "title": "Trump Officials' Military Plans Exposed via Signal Group Chat Mistake",
+    "id": "0xxuu060fsleks",
+    "summary": "- Jeffrey Goldberg from *The Atlantic* was mistakenly added to a Signal group discussing military strikes on Yemen by Trump officials.\n- The chat included Vice President JD Vance and Defense Secretary Pete Hegseth, planning attacks before March 15.\n- Concerns arose about the security of using Signal for classified military discussions, which should occur in secure facilities.\n- The Trump administration's use of Signal included sensitive details about American military assets.\n- This incident highlights risks of using unsecured messaging apps for critical military discussions and potential foreign surveillance.",
+    "thumbnails": [
+      "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/0007835275_20.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
+    ],
+    "scores": {
+      "scale": 8,
+      "impact": 8.5,
+      "novelty": 6.5,
+      "longTermSignificance": 6.5
+    },
+    "keywords": [
+      "trump administration",
+      "military strike",
+      "signal",
+      "group chat",
+      "jeffrey goldberg",
+      "yemen",
+      "classified information",
+      "security concerns",
+      "military planning",
+      "encryption",
+      "national security",
+      "scif",
+      "leaks"
+    ],
+    "sources": [
+      {
+        "title": "Trump officials planned a military strike over Signal – with a magazine editor on the line",
+        "link": "https://www.theverge.com/news/635042/the-atlantic-pete-hegseth-houthi-signal-group-chat"
+      },
+      {
+        "title": "Here’s what military planning usually looks like — and why it doesn’t include Signal",
+        "link": "https://www.theverge.com/politics/638419/signal-houthi-group-chat-military-security-scif-encryption"
+      }
+    ],
+    "lastUpdated": "2025-03-28T17:12:30.324Z"
+  },
+  {
+    "title": "A Beginner’s Guide to Using Signal and UK Cybersecurity Agency Quantum Hacker Warning",
+    "id": "01v9t3s1nwd3rk",
+    "summary": "- DeepSeek iOS app transmits sensitive data unencrypted, posing security risks.\n- Apple halts Advanced Data Protection in the UK after a government request for a backdoor.\n- UK users must disable encryption, impacting privacy rights.\n- Demands from the UK government may affect global encryption policies.\n- Investigatory Powers Act enables government access to user data.\n- Apple's legal challenge against the government order is underway in the IPT.\n- UK government's encryption advice for high-risk individuals was removed.\n- Lockdown Mode recommended instead of Advanced Data Protection.\n- Deleted guidance affects new UK users' access to end-to-end encryption.\n- Privacy groups demand transparency in Apple's legal challenge.\n- Backdoor order revealed in February 2025 led Apple to shut down ADP in the UK.\n- IPT typically handles appeals confidentially; there's a call for public transparency.\n- Apple contests UK government demand for access to encrypted data in high court.\n- Home Office's request involves Apple's Advanced Data Protection service.\n- Apple removed its strongest data protection tool from the UK to comply with regulations.\n- Human rights groups support Apple's challenge regarding backdoor access.\n- Legal experts state requests must align with human rights protections.\n- UK’s cybersecurity agency warns of quantum hacker risks by 2035.\n- NCSC recommends post-quantum cryptography for critical infrastructures by 2028.\n- Organizations advised to migrate to new systems by 2035 to protect against quantum threats.\n- Signal is a privacy-focused messaging app with end-to-end encryption by default.\n- Signal retains minimal user data, enhancing privacy against law enforcement inquiries.\n- Signal provides features like disappearing messages and enhanced privacy settings.",
+    "thumbnails": [
+      "https://cdn.arstechnica.net/wp-content/uploads/2025/01/This-Is-S-t-Ars-Mug-768x432.jpg",
+      "https://techcrunch.com/wp-content/uploads/2025/02/apple-advanced-data-protection-disabled-UK.png?w=545",
+      "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/IMG_9742-1.png?quality=90&strip=all&crop=0,0,100,100",
+      "https://techcrunch.com/wp-content/uploads/2018/06/GettyImages-618584212.jpg?w=1024",
+      "https://techcrunch.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-22-at-1.55.14-PM.jpg?w=1024",
+      "https://i.guim.co.uk/img/media/d2db0c07c0c62d65d8f96f99ce429312f7f550c3/0_105_3700_2220/master/3700.jpg?width=465&dpr=1&s=none&crop=none",
+      "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/IMG_0325_combined.jpg?quality=90&strip=all&crop=0,0,100,100"
+    ],
+    "scores": {
+      "scale": 5,
+      "impact": 7.81,
+      "novelty": 6.06,
+      "longTermSignificance": 7.81
+    },
+    "keywords": [
+      "deepseek",
+      "encryption",
+      "apple",
+      "icloud",
+      "privacy",
+      "uk government",
+      "backdoor",
+      "advanced data protection",
+      "cybersecurity",
+      "data protection",
+      "investigatory powers tribunal",
+      "ncsc",
+      "lockdown mode",
+      "privacy rights",
+      "human rights",
+      "quantum computing",
+      "post-quantum cryptography",
+      "uk",
+      "signal",
+      "messaging app",
+      "secure communication",
+      "end-to-end encryption",
+      "digital privacy"
+    ],
+    "sources": [
+      {
+        "title": "DeepSeek iOS app sends data unencrypted to ByteDance-controlled servers",
+        "link": "https://arstechnica.com/security/2025/02/deepseek-ios-app-sends-data-unencrypted-to-bytedance-controlled-servers/"
+      },
+      {
+        "title": "Apple pulls iCloud end-to-end encryption feature for UK users after government demanded backdoor",
+        "link": "https://techcrunch.com/2025/02/21/apple-pulls-icloud-end-to-end-encryption-feature-for-uk-users-after-government-demanded-backdoor/"
+      },
+      {
+        "title": "Apple removes encryption feature in the UK due to government demands",
+        "link": "https://www.theverge.com/news/617273/apple-removes-encryption-advanced-data-protection-adp-uk-spying-backdoor"
+      },
+      {
+        "title": "The UK’s war on encryption affects all of us",
+        "link": "https://www.theverge.com/policy/612136/uk-icloud-investigatory-powers-act-war-on-encryption"
+      },
+      {
+        "title": "The UK will neither confirm nor deny that it’s killing encryption",
+        "link": "https://www.theverge.com/policy/621848/uk-killing-encryption-e2e-apple-adp-privacy"
+      },
+      {
+        "title": "Apple is challenging U.K.’s iCloud encryption backdoor order",
+        "link": "https://techcrunch.com/2025/03/05/apple-is-challenging-u-k-s-icloud-encryption-backdoor-order/"
+      },
+      {
+        "title": "UK quietly scrubs encryption advice from government websites",
+        "link": "https://techcrunch.com/2025/03/06/uk-quietly-scrubs-encryption-advice-from-government-websites/"
+      },
+      {
+        "title": "Apple’s appeal against UK’s secret iCloud backdoor order must be held in public, rights groups urge",
+        "link": "https://techcrunch.com/2025/03/13/apples-appeal-against-uks-secret-icloud-backdoor-order-must-be-held-in-public-rights-groups-urge/"
+      },
+      {
+        "title": "What could Apple’s high court challenge mean for data protection?",
+        "link": "https://www.theguardian.com/technology/2025/mar/14/what-could-apples-high-court-challenge-mean-for-data-protection"
+      },
+      {
+        "title": "UK cybersecurity agency warns over risk of quantum hackers",
+        "link": "https://www.theguardian.com/technology/2025/mar/20/uk-cybersecurity-agency-quantum-hackers"
+      },
+      {
+        "title": "A beginner’s guide to using Signal",
+        "link": "https://www.theverge.com/tech/637926/signal-app-how-to-features-encryption"
+      }
+    ],
+    "lastUpdated": "2025-03-28T17:12:30.324Z"
+  },
+  {
+    "title": "Atomfall review – everybody’s gone to the reactor",
+    "id": "1f9ww5806gmux5",
+    "summary": "- Atomfall presents a fictional scenario where a nuclear accident in the UK is depicted, inspired by real events like the Windscale fire.\n- Players navigate a postwar Britain, awakening in an exclusion zone and working to unravel the mystery behind the disaster by collecting clues.\n- The game features an underground research facility that players must reactivate to uncover secrets, with various quests leading to a more engaging narrative.\n- Combat options are noted as serviceable but unremarkable, with a rudimentary crafting system mainly for basic needs.\n- The atmosphere and setting, while visually appealing, lack depth and the game's representation of British culture feels superficial.",
+    "thumbnails": [
+      "https://i.guim.co.uk/img/media/9b42c5521c8ad58bc16bbb1f86a96b6611d5bd6d/0_0_3840_2160/master/3840.jpg?width=445&dpr=1&s=none&crop=none"
+    ],
+    "scores": {
+      "scale": 5,
+      "impact": 6,
+      "novelty": 5,
+      "longTermSignificance": 4
+    },
+    "keywords": [
+      "Atomfall",
+      "game review",
+      "post-apocalyptic",
+      "video game",
+      "Chornobyl",
+      "Windscale fire",
+      "narrative",
+      "combat mechanics",
+      "British culture"
+    ],
+    "sources": [
+      {
+        "title": "Atomfall review – everybody’s gone to the reactor",
+        "link": "https://www.theguardian.com/games/2025/mar/28/atomfall-review-everybodys-gone-to-the-reactor"
+      }
+    ],
+    "lastUpdated": "2025-03-28T17:12:30.324Z"
+  },
+  {
+    "title": "Teenage Mutant Ninja Turtles was the hardest game I ever played – so why am I back?",
+    "id": "0w2yk0p0twh0l4",
+    "summary": "- The author typically does not replay games but made an exception for Teenage Mutant Ninja Turtles, the hardest game they ever completed.\n- Revisiting the game on PS4 brought back memories of challenging gameplay, especially the unforgiving collision detection.\n- The article emphasizes the importance of persistence in gaming and the enjoyment found in overcoming difficulties, likening the experience to nostalgic gaming moments from childhood.",
+    "thumbnails": [
+      "https://i.guim.co.uk/img/media/9cf79f726afd1df0c82619f8929bcffb8726d8b2/0_0_1920_1080/master/1920.jpg?width=445&dpr=1&s=none&crop=none"
+    ],
+    "scores": {
+      "scale": 6,
+      "impact": 7,
+      "novelty": 5,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "Teenage Mutant Ninja Turtles",
+      "gaming",
+      "nostalgia",
+      "game review",
+      "PS4",
+      "Cowabunga Collection"
+    ],
+    "sources": [
+      {
+        "title": "Teenage Mutant Ninja Turtles was the hardest game I ever played – so why am I back?",
+        "link": "https://www.theguardian.com/games/2025/mar/28/teenage-mutant-ninja-turtles-game-zx-spectrum-playstation"
+      }
+    ],
+    "lastUpdated": "2025-03-28T17:12:30.323Z"
+  },
+  {
     "title": "OpenAI Removes Safeguards on ChatGPT's Image Creation Capabilities",
     "id": "0bma4xg1d3bgbm",
     "summary": "- Discussion on AI-generated art, particularly in Studio Ghibli style.\n- Introduction of OpenAI's new powerful image generator in ChatGPT.\n- Legal and moral concerns regarding AI-generated content raised, including potential lawsuits.\n- New image generator creates Studio Ghibli-style images with altered moderation policies that now permit public figures and controversial symbols.\n- OpenAI implements a nuanced content handling approach with user opt-out options.\n- Capable of generating requests related to physical traits and creative styles.\n- Changes may influence AI content moderation debates and scrutiny under previous administrations.",
@@ -12116,37 +12309,6 @@
     "lastUpdated": "2025-03-25T00:53:40.333Z"
   },
   {
-    "title": "Trump officials planned a military strike over Signal – with a magazine editor on the line",
-    "id": "0xxuu060fsleks",
-    "summary": "- An editor from The Atlantic, Jeffrey Goldberg, was mistakenly added to a Signal group chat discussing military strikes on Yemen by Trump officials.\n- The group chat included high-ranking members such as Vice President JD Vance and Defense Secretary Pete Hegseth, discussing upcoming attacks before they occurred on March 15th.\n- The presence of the non-participant raised concerns about the security of discussions on classified military plans, which are not supposed to occur on consumer messaging apps like Signal.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/0007835275_20.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 9,
-      "novelty": 7,
-      "longTermSignificance": 8
-    },
-    "keywords": [
-      "Trump administration",
-      "military strike",
-      "Signal",
-      "group chat",
-      "Jeffrey Goldberg",
-      "Yemen",
-      "classified information",
-      "security concerns"
-    ],
-    "sources": [
-      {
-        "title": "Trump officials planned a military strike over Signal – with a magazine editor on the line",
-        "link": "https://www.theverge.com/news/635042/the-atlantic-pete-hegseth-houthi-signal-group-chat"
-      }
-    ],
-    "lastUpdated": "2025-03-24T22:12:02.258Z"
-  },
-  {
     "title": "Alleged Snowflake hacker agrees to be extradited to the US",
     "id": "101tmg20tslk2v",
     "summary": "- Connor Moucka, accused of stealing customer data from Snowflake, agreed to extradition to the US to face charges.\n- Around 165 companies, including AT&T and Ticketmaster, were affected by the breaches.\n- Moucka faces 20 charges, including violations of the Computer Fraud and Abuse Act, and allegedly collected $2.5 million in ransom.",
@@ -22385,88 +22547,6 @@
       {
         "title": "How a $6M bet on Wiz turned into a massive 200x return for one early backer",
         "link": "https://techcrunch.com/2025/03/19/how-a-6m-bet-on-wiz-turned-into-a-massive-200x-return-for-one-early-backer/"
-      }
-    ],
-    "lastUpdated": "2025-03-20T00:53:02.592Z"
-  },
-  {
-    "title": "UK Cybersecurity Agency Issues Quantum Hacker Warning and Apple's Encryption Challenge",
-    "id": "01v9t3s1nwd3rk",
-    "summary": "- DeepSeek iOS app transmits sensitive data unencrypted to ByteDance, posing security risks.\n- Apple halts Advanced Data Protection in the UK after the government requests a backdoor.\n- UK users required to disable encryption, impacting privacy rights.\n- Demands from the UK government may affect global encryption policies.\n- Investigatory Powers Act enables access to user data by the government.\n- Apple's challenge to the government order is underway in the Investigatory Powers Tribunal (IPT).\n- UK government's encryption advice removed for high-risk individuals.\n- Lockdown Mode recommended instead of Advanced Data Protection (ADP).\n- Deleted guidance impacts new UK users' access to end-to-end encryption.\n- Privacy groups demand transparency in Apple's legal challenge against the backdoor order.\n- Existence of the backdoor order revealed in February 2025, leading Apple to shut down ADP in the UK.\n- IPT typically handles appeals confidentially, but there's a call for public transparency.\n- Apple contests a UK government demand to access encrypted customer data in a high court hearing in London.\n- Home Office's request involves Apple's Advanced Data Protection service.\n- Apple removed its strongest data protection tool from the UK to comply with government regulations.\n- Human rights groups support Apple's challenge, citing concerns about personal data backdoor access.\n- Legal experts state government requests must align with human rights protections.\n- UK’s cybersecurity agency warns organizations of risks posed by quantum hackers by 2035.\n- NCSC recommends implementing post-quantum cryptography for critical infrastructures by 2028.\n- Organizations advised to fully migrate to new systems by 2035 to protect against quantum threats.",
-    "thumbnails": [
-      "https://cdn.arstechnica.net/wp-content/uploads/2025/01/This-Is-S-t-Ars-Mug-768x432.jpg",
-      "https://techcrunch.com/wp-content/uploads/2025/02/apple-advanced-data-protection-disabled-UK.png?w=545",
-      "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/IMG_9742-1.png?quality=90&strip=all&crop=0,0,100,100",
-      "https://techcrunch.com/wp-content/uploads/2018/06/GettyImages-618584212.jpg?w=1024",
-      "https://techcrunch.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-22-at-1.55.14-PM.jpg?w=1024",
-      "https://i.guim.co.uk/img/media/d2db0c07c0c62d65d8f96f99ce429312f7f550c3/0_105_3700_2220/master/3700.jpg?width=465&dpr=1&s=none&crop=none"
-    ],
-    "scores": {
-      "scale": 5,
-      "impact": 8.61,
-      "novelty": 6.11,
-      "longTermSignificance": 7.61
-    },
-    "keywords": [
-      "deepseek",
-      "encryption",
-      "apple",
-      "icloud",
-      "privacy",
-      "uk government",
-      "backdoor",
-      "advanced data protection",
-      "cybersecurity",
-      "data protection",
-      "investigatory powers tribunal",
-      "ncsc",
-      "lockdown mode",
-      "privacy rights",
-      "human rights",
-      "quantum computing",
-      "post-quantum cryptography",
-      "uk"
-    ],
-    "sources": [
-      {
-        "title": "DeepSeek iOS app sends data unencrypted to ByteDance-controlled servers",
-        "link": "https://arstechnica.com/security/2025/02/deepseek-ios-app-sends-data-unencrypted-to-bytedance-controlled-servers/"
-      },
-      {
-        "title": "Apple pulls iCloud end-to-end encryption feature for UK users after government demanded backdoor",
-        "link": "https://techcrunch.com/2025/02/21/apple-pulls-icloud-end-to-end-encryption-feature-for-uk-users-after-government-demanded-backdoor/"
-      },
-      {
-        "title": "Apple removes encryption feature in the UK due to government demands",
-        "link": "https://www.theverge.com/news/617273/apple-removes-encryption-advanced-data-protection-adp-uk-spying-backdoor"
-      },
-      {
-        "title": "The UK’s war on encryption affects all of us",
-        "link": "https://www.theverge.com/policy/612136/uk-icloud-investigatory-powers-act-war-on-encryption"
-      },
-      {
-        "title": "The UK will neither confirm nor deny that it’s killing encryption",
-        "link": "https://www.theverge.com/policy/621848/uk-killing-encryption-e2e-apple-adp-privacy"
-      },
-      {
-        "title": "Apple is challenging U.K.’s iCloud encryption backdoor order",
-        "link": "https://techcrunch.com/2025/03/05/apple-is-challenging-u-k-s-icloud-encryption-backdoor-order/"
-      },
-      {
-        "title": "UK quietly scrubs encryption advice from government websites",
-        "link": "https://techcrunch.com/2025/03/06/uk-quietly-scrubs-encryption-advice-from-government-websites/"
-      },
-      {
-        "title": "Apple’s appeal against UK’s secret iCloud backdoor order must be held in public, rights groups urge",
-        "link": "https://techcrunch.com/2025/03/13/apples-appeal-against-uks-secret-icloud-backdoor-order-must-be-held-in-public-rights-groups-urge/"
-      },
-      {
-        "title": "What could Apple’s high court challenge mean for data protection?",
-        "link": "https://www.theguardian.com/technology/2025/mar/14/what-could-apples-high-court-challenge-mean-for-data-protection"
-      },
-      {
-        "title": "UK cybersecurity agency warns over risk of quantum hackers",
-        "link": "https://www.theguardian.com/technology/2025/mar/20/uk-cybersecurity-agency-quantum-hackers"
       }
     ],
     "lastUpdated": "2025-03-20T00:53:02.592Z"
@@ -36359,200 +36439,5 @@
       }
     ],
     "lastUpdated": "2025-03-14T23:14:22.698Z"
-  },
-  {
-    "title": "California's online child safety law blocked by judge – again",
-    "id": "1fa9fwp0o4jvts",
-    "summary": "- A federal judge has blocked California’s online child safety law from taking effect again.\n- US District Court Judge Beth Labson Freeman granted a preliminary injunction favoring NetChoice, citing First Amendment concerns.\n- The law, known as CAADCA, was signed in 2022 and targets online platforms accessed by children, requiring age estimation and specific privacy settings.\n- NetChoice claims the law's requirements are vague and could suppress free speech.\n- This is the second time Judge Freeman has blocked CAADCA; a previous ruling was partially upheld last year by the Ninth Circuit Court.\n- The judge stated the law imposes significant burdens on content providers and is not narrowly tailored to protect children's privacy.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "California",
-      "child safety",
-      "online law",
-      "First Amendment",
-      "NetChoice",
-      "CAADCA",
-      "privacy settings",
-      "Gavin Newsom",
-      "digital platforms"
-    ],
-    "sources": [
-      {
-        "title": "California's online child safety law blocked by judge – again",
-        "link": "https://www.theverge.com/news/629863/california-caadca-online-child-safety-law-blocked-netchoice"
-      }
-    ],
-    "lastUpdated": "2025-03-14T17:11:48.569Z"
-  },
-  {
-    "title": "China is reportedly keeping DeepSeek under close watch",
-    "id": "1bvlfw60q9294w",
-    "summary": "- China is closely monitoring the AI startup DeepSeek, which gained popularity after releasing its open reasoning model, R1, in January 2025.\n- The company now faces tighter government regulations, including restrictions on employee travel and scrutiny of potential investors.\n- DeepSeek's parent company, High-Flyer, is reportedly withholding employee passports to enforce travel restrictions, following advice from the government aimed at safeguarding trade secrets related to AI research.",
-    "thumbnails": [
-      "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2196333417_75e106.jpg?w=1024"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "DeepSeek",
-      "China",
-      "AI startup",
-      "government regulations",
-      "travel restrictions",
-      "trade secrets"
-    ],
-    "sources": [
-      {
-        "title": "China is reportedly keeping DeepSeek under close watch",
-        "link": "https://techcrunch.com/2025/03/14/china-is-reportedly-keeping-deepseek-under-close-watch/"
-      }
-    ],
-    "lastUpdated": "2025-03-14T17:11:48.569Z"
-  },
-  {
-    "title": "Reddit will let you hide ads",
-    "id": "1mdr7zz0eirtvk",
-    "summary": "- Reddit introduces a feature allowing users to hide ads from their feed for at least one year.\n- Users can click on a “Hide” option for ads in feeds, with the icon resembling an eye with a line through it.\n- The rollout begins this week across iOS, Android, and the web, gradually expanding over the following weeks.\n- Previously, Reddit implemented filters for ads from sensitive categories such as alcohol and politics.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 6,
-      "novelty": 5,
-      "longTermSignificance": 4
-    },
-    "keywords": [
-      "Reddit",
-      "ads",
-      "hide ads",
-      "social media",
-      "user features"
-    ],
-    "sources": [
-      {
-        "title": "Reddit will let you hide ads",
-        "link": "https://www.theverge.com/news/629868/reddit-hide-ads"
-      }
-    ],
-    "lastUpdated": "2025-03-14T17:11:48.569Z"
-  },
-  {
-    "title": "Arizona proposes law that would shift wildfire liability from utilities to insurers",
-    "id": "0fxcley1yvxc3a",
-    "summary": "- Arizona lawmakers are considering a bill protecting utilities from wildfire-related lawsuits.\n- The bill makes it harder to blame utilities for wildfires caused by faulty equipment.\n- Utilities must file risk mitigation plans every two years but are protected from claims even if they neglect these plans.\n- The insurance industry warns this may shift wildfire claim burdens to homeowners’ insurers, leading to higher premiums or utility costs.\n- Some homeowners in Arizona have seen their insurance rates triple due to increased wildfire risks.\n- The bill is set against a backdrop of rising wildfire risks exacerbated by climate change and fire suppression practices.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 8,
-      "impact": 7,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "Arizona",
-      "wildfire liability",
-      "utilities",
-      "insurance",
-      "climate change",
-      "legislation"
-    ],
-    "sources": [
-      {
-        "title": "Arizona proposes law that would shift wildfire liability from utilities to insurers",
-        "link": "https://techcrunch.com/2025/03/14/arizona-proposes-law-that-would-shift-wildfire-liability-from-utilities-to-insurers/"
-      }
-    ],
-    "lastUpdated": "2025-03-14T17:11:48.568Z"
-  },
-  {
-    "title": "iRobot Launches Eight New Lidar-Enabled Roombas Amid Market Challenges",
-    "id": "18b2xn80stnuhk",
-    "summary": "- iRobot announces eight new Roomba models with lidar navigation and mapping features.\n- Prices range from $299 to $999; preorders begin March 18.\n- New models feature upgraded suction power, auto-empty docks, and ultrasonic carpet detection.\n- Lidar technology enhances mapping and enables room-specific cleaning.\n- High-end Roomba Plus 505 Combo introduces dual spinning mop pads.\n- Shift to lidar navigation aims to compete with Chinese manufacturers.\n- Focus on simplifying product design for enhanced consumer usability.\n- Company warns of financial difficulties, potentially facing shutdown within 12 months.\n- Production now dependent on a single manufacturer in China, affecting product uniqueness.\n- CEO claims new products will improve profitability, potentially at the cost of traditional Roomba features.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Roomba_Combo_Vac_Black_105_205_405_505_ProductLineUp_Jade_1500x1500.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Roomba_105_205_405_505_Photo_Portfolio_Family.jpg?quality=90&strip=all&crop=0,11.017276409202,100,66.667009681596"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 7,
-      "novelty": 5.5,
-      "longTermSignificance": 6.5
-    },
-    "keywords": [
-      "irobot",
-      "roomba",
-      "lidar",
-      "robot vacuum",
-      "home automation",
-      "technology",
-      "innovation",
-      "cleaning robots",
-      "robot vacuums",
-      "financial struggles",
-      "market competition"
-    ],
-    "sources": [
-      {
-        "title": "iRobot launches eight new Roombas and finally adds lidar mapping",
-        "link": "https://www.theverge.com/news/627751/irobot-launches-eight-new-roombas-with-lidar-room-mapping"
-      },
-      {
-        "title": "These new Roombas aren’t the robots I know and love",
-        "link": "https://www.theverge.com/smart-home/628900/irobot-roomba-reinvention-pushes-out-invention"
-      }
-    ],
-    "lastUpdated": "2025-03-14T17:11:48.567Z"
-  },
-  {
-    "title": "Writers Respond to AI-Generated Short Story + OpenAI Unveils Creative Writing AI with Mixed Reviews",
-    "id": "0sqmihl1cj6kr2",
-    "summary": "- OpenAI has developed a new AI model recognized for its capability in creative writing.\n- CEO Sam Altman expressed being 'struck' by the model's output in a post on X.\n- Ongoing legal battles are highlighted regarding AI training on copyrighted material, with notable lawsuits against OpenAI and Meta.\n- The UK government is proposing AI companies be allowed to train on copyrighted material without permission.\n- Altman provided a metafictional story as an output example, showcasing the model's creative abilities.\n- OpenAI's creative writing AI resembles the archetype of an angsty teenager from high school writing workshops.\n- The AI's output is critiqued for being clichéd and lacking depth, comparing phrases to pretentious teenage prose.\n- Some educators report recognizing AI-generated work due to its homogeneity and lack of individuality.\n- Users like poet Michelle Taransky noted its limitations in originality and depth.\n- The consensus is that while AI can mimic styles, it cannot replace the experience and learning process of human writers.\n- Writers share their reactions to a short story written by an AI model, praised for its creativity by OpenAI's CEO Sam Altman.\n- Jeanette Winterson finds the AI's metafictional piece about grief to be 'beautiful and moving'.\n- Nick Harkaway critiques the emptiness of AI writing and discusses copyright issues regarding AI's training data usage.\n- Tracy Chevalier expresses skepticism about AI's ability to capture the essence of human creativity.\n- Kamila Shamsie reflects on the potential impact of AI on writing, noting the quality of the AI story while raising concerns about copyright and creativity's future.\n- David Baddiel comments on the cleverness of the AI story, likening it to an exploration of machine emotions through a human lens.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 7,
-      "novelty": 6.5,
-      "longTermSignificance": 7.25
-    },
-    "keywords": [
-      "openai",
-      "ai model",
-      "creative writing",
-      "copyright",
-      "sam altman",
-      "lawsuits",
-      "uk government",
-      "metafiction",
-      "literature",
-      "ethics",
-      "ai",
-      "authors",
-      "gpt"
-    ],
-    "sources": [
-      {
-        "title": "ChatGPT firm reveals AI model that is ‘good at creative writing’",
-        "link": "https://www.theguardian.com/technology/2025/mar/12/chatgpt-firm-reveals-ai-model-that-is-good-at-creative-writing-sam-altman"
-      },
-      {
-        "title": "OpenAI’s ‘creative writing’ AI evokes that annoying kid from high school fiction club",
-        "link": "https://techcrunch.com/2025/03/13/openais-creative-writing-ai-evokes-that-annoying-kid-from-high-school-fiction-club/"
-      },
-      {
-        "title": "Writers Respond to AI-Generated Short Story",
-        "link": "https://www.theguardian.com/books/2025/mar/14/writers-respond-story-written-by-ai-sam-altman-chat-gpt-tracy-chevalier-kamila-shamsie-david-baddiel"
-      }
-    ],
-    "lastUpdated": "2025-03-14T17:11:48.566Z"
   }
 ]
