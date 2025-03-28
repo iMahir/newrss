@@ -1,5 +1,143 @@
 [
   {
+    "title": "Open Source Developers Combat Overwhelming AI Crawlers",
+    "id": "1tp1spe1oju8sh",
+    "summary": "- AI crawlers overwhelm community infrastructure, causing downtime and higher costs for open source projects.\n- Developers like Xe Iaso have implemented measures like the 'Anubis' proof-of-work challenge to filter out bot traffic.\n- Some projects, like Fedora, have blocked entire countries to manage excessive bot traffic, affecting service availability.\n- AI web-crawling bots are seen as a major nuisance by software developers, particularly in open source.\n- FOSS projects are more vulnerable due to their open nature and fewer resources compared to commercial sites.\n- Cloudflare and other companies are offering tools to confuse and slow down AI crawlers.\n- The community is sharing clever ideas to trap crawlers into consuming irrelevant content.",
+    "thumbnails": [
+      "https://cdn.arstechnica.net/wp-content/uploads/2022/08/benj_ega.png"
+    ],
+    "scores": {
+      "scale": 8,
+      "impact": 8.5,
+      "novelty": 6.5,
+      "longTermSignificance": 7.5
+    },
+    "keywords": [
+      "ai crawlers",
+      "open source",
+      "traffic management",
+      "developers",
+      "anubis",
+      "robots.txt",
+      "foss",
+      "content scraping",
+      "cloudflare",
+      "vulnerability"
+    ],
+    "sources": [
+      {
+        "title": "Devs say AI crawlers dominate traffic, forcing blocks on entire countries",
+        "link": "https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/"
+      },
+      {
+        "title": "Open source devs are fighting AI crawlers with cleverness and vengeance",
+        "link": "https://techcrunch.com/2025/03/27/open-source-devs-are-fighting-ai-crawlers-with-cleverness-and-vengeance/"
+      }
+    ],
+    "lastUpdated": "2025-03-28T00:53:41.048Z"
+  },
+  {
+    "title": "Amazon's Big Spring Sale Features New Robot Vacuums and Roborock Z70 Pre-Orders",
+    "id": "0hggpo412i6ybd",
+    "summary": "- Roborock's Saros Z70 robot vacuum now available for pre-order at $1,899 with a robotic arm and 22,000Pa suction power.\n- Roborock becomes the top robot vacuum brand globally with a 16% market share in Q4 2023.\n- The Z70 includes StarSight navigation for advanced obstacle detection and two-in-one mopping capabilities.\n- Customers pre-ordering Z70 can choose a free second vacuum from models like Qrevo S5V and Q10 S5 Plus.\n- Amazon’s Big Spring Sale features various vacuums, including Roborock S8 MaxV Ultra at $999.99 and S8 Pro Ultra at $899.99.\n- Other deals include Dreame X40 Ultra at $899.99, Dreame L20 Ultra at $549.99, and SwitchBot S10 at $459.99.",
+    "thumbnails": [
+      "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/%E6%B0%B4%E7%AE%B1%E7%99%BD%E8%89%B2-%E6%8B%B7%E8%B4%9D.png?quality=90&strip=all&crop=0,0,100,100&w=2400",
+      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25405360/247088_Roborock_vs_DreameBot_JTuohy_0001.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400"
+    ],
+    "scores": {
+      "scale": 8,
+      "impact": 8,
+      "novelty": 7,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "roborock",
+      "saros z70",
+      "robot vacuum",
+      "pre-order",
+      "robotic arm",
+      "cleaning technology",
+      "starsight navigation",
+      "market share",
+      "amazon sale",
+      "dreame",
+      "switchbot",
+      "mop"
+    ],
+    "sources": [
+      {
+        "title": "Roborock opens pre-orders for its robot vacuum with an arm",
+        "link": "https://www.theverge.com/news/632881/roborock-saros-z70-robot-vacuum-pre-orders-price"
+      },
+      {
+        "title": "Our Favorite Robot Vacuum Deals from Amazon’s Big Spring Sale",
+        "link": "https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale"
+      }
+    ],
+    "lastUpdated": "2025-03-28T00:53:41.048Z"
+  },
+  {
+    "title": "AI search engines give incorrect answers at an alarming 60% rate, study says",
+    "id": "1rrnwgb06l03um",
+    "summary": "- A study from Columbia Journalism Review found over 60% of queries to AI search engines were answered incorrectly.\n- Among the tested platforms, Perplexity had a 37% error rate, ChatGPT Search 67%, and Grok 3 94%.\n- Researchers tested 1,600 queries, focusing on identifying article headlines, publishers, publication dates, and URLs.\n- Premium versions of some AI tools had higher error rates than free versions, due to more frequent incorrect answers when uncertain.\n- The study highlighted issues with AI tools ignoring publishers' Robot Exclusion Protocol, allowing access to paywalled content.",
+    "thumbnails": [
+      "https://cdn.arstechnica.net/wp-content/uploads/2025/03/image6-1024x590.jpg"
+    ],
+    "scores": {
+      "scale": 9,
+      "impact": 8,
+      "novelty": 7,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "AI search engines",
+      "accuracy issues",
+      "generative AI",
+      "news content",
+      "research study",
+      "Columbia Journalism Review",
+      "error rates",
+      "ChatGPT",
+      "Perplexity",
+      "Grok 3"
+    ],
+    "sources": [
+      {
+        "title": "AI search engines give incorrect answers at an alarming 60% rate, study says",
+        "link": "https://arstechnica.com/ai/2025/03/ai-search-engines-give-incorrect-answers-at-an-alarming-60-rate-study-says/"
+      }
+    ],
+    "lastUpdated": "2025-03-28T00:53:41.039Z"
+  },
+  {
+    "title": "New AI text diffusion models break speed barriers by pulling words from noise",
+    "id": "1pz5b6l1h36yha",
+    "summary": "- New AI diffusion models achieve faster performance than traditional models while maintaining quality.  \n- Mercury Coder Mini operates at 1,109 tokens per second, significantly faster than GPT-4o Mini's 59 tokens per second.  \n- Researchers suggest these models could improve developer productivity and be beneficial in resource-limited environments.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 7,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "AI",
+      "diffusion models",
+      "Mercury Coder Mini",
+      "LLaDA",
+      "performance",
+      "speed",
+      "language models"
+    ],
+    "sources": [
+      {
+        "title": "New AI text diffusion models break speed barriers by pulling words from noise",
+        "link": "https://arstechnica.com/ai/2025/02/new-ai-text-diffusion-models-break-speed-barriers-by-pulling-words-from-noise/"
+      }
+    ],
+    "lastUpdated": "2025-03-28T00:53:41.038Z"
+  },
+  {
     "title": "Nintendo digital lending feature reveals 'Switch 2 Edition' games are on the way",
     "id": "0izdk5x07jg2ql",
     "summary": "- Nintendo revealed new information about \"Switch 2 Edition\" games during a recent event not originally focused on the new system.  \n- The revelation came after the Nintendo Direct stream, highlighting the upcoming Virtual Game Card lending system.  \n- The new system allows digital games to be shared among family members, akin to physical cartridges.  \n- Important detail: Only Nintendo Switch 2 systems can load the exclusive and \"Switch 2 Edition\" games, indicating they won't be backward compatible with previous consoles.  \n- The company’s Switch 2 Direct presentation scheduled for April 2nd aims to provide further insights into the new titles and system capabilities.",
@@ -6768,34 +6906,6 @@
       }
     ],
     "lastUpdated": "2025-03-26T00:53:46.635Z"
-  },
-  {
-    "title": "Devs say AI crawlers dominate traffic, forcing blocks on entire countries",
-    "id": "1tp1spe1oju8sh",
-    "summary": "- AI crawlers overwhelm community infrastructure, causing downtime and higher costs for open source projects.\n- Developers like Xe Iaso have implemented measures like the 'Anubis' proof-of-work challenge to filter out bot traffic.\n- Some projects, like Fedora, have blocked entire countries to manage excessive bot traffic, affecting service availability.",
-    "thumbnails": [
-      "https://cdn.arstechnica.net/wp-content/uploads/2022/08/benj_ega.png"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 9,
-      "novelty": 7,
-      "longTermSignificance": 8
-    },
-    "keywords": [
-      "AI crawlers",
-      "open source",
-      "DDoS",
-      "traffic management",
-      "bandwidth costs"
-    ],
-    "sources": [
-      {
-        "title": "Devs say AI crawlers dominate traffic, forcing blocks on entire countries",
-        "link": "https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/"
-      }
-    ],
-    "lastUpdated": "2025-03-25T23:12:01.720Z"
   },
   {
     "title": "EPA Workers Rally Against DOGE Cuts Amidst Deregulation Efforts",
@@ -20549,37 +20659,6 @@
       }
     ],
     "lastUpdated": "2025-03-19T23:13:47.418Z"
-  },
-  {
-    "title": "Roborock opens pre-orders for its robot vacuum with an arm",
-    "id": "0hggpo412i6ybd",
-    "summary": "- Roborock's Saros Z70 robot vacuum is now available for pre-order at $1,899.\n- The Z70 features a robotic arm to pick up small items and offers 22,000Pa suction power.\n- Roborock has surpassed iRobot as the top-selling robot vacuum brand globally with a 16% market share in Q4 2023.\n- The robotic vacuum includes the new StarSight navigation system for advanced obstacle navigation.\n- The vacuum features two-in-one mopping and vacuuming capabilities and a multifunction dock that cleans and refills the robot.\n- Pre-ordering customers can choose a free second vacuum from various models, including the Qrevo S5V and Q10 S5 Plus.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/%E6%B0%B4%E7%AE%B1%E7%99%BD%E8%89%B2-%E6%8B%B7%E8%B4%9D.png?quality=90&strip=all&crop=0,0,100,100&w=2400"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 9,
-      "novelty": 8,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "Roborock",
-      "Saros Z70",
-      "robot vacuum",
-      "pre-order",
-      "robotic arm",
-      "cleaning technology",
-      "StarSight navigation",
-      "market share"
-    ],
-    "sources": [
-      {
-        "title": "Roborock opens pre-orders for its robot vacuum with an arm",
-        "link": "https://www.theverge.com/news/632881/roborock-saros-z70-robot-vacuum-pre-orders-price"
-      }
-    ],
-    "lastUpdated": "2025-03-19T22:12:32.869Z"
   },
   {
     "title": "Ghost Connects Newsletters to the Open Web and Fediverse",
@@ -36172,133 +36251,5 @@
       }
     ],
     "lastUpdated": "2025-03-14T02:20:17.665Z"
-  },
-  {
-    "title": "Anti-aging zealot Bryan Johnson wants to start ‘foodome sequencing’",
-    "id": "16iarpg126j2g3",
-    "summary": "- Bryan Johnson aims to initiate 'foodome' sequencing to analyze 20% of foods that constitute 80% of the American diet.\n- His approach includes testing foods for toxins and creating a public database for accountability in food safety.\n- Johnson has unconventional health practices, like blood transfusions with his son, and promotes a lifestyle aimed at extending lifespan.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 6,
-      "impact": 7,
-      "novelty": 8,
-      "longTermSignificance": 5
-    },
-    "keywords": [
-      "Bryan Johnson",
-      "foodome sequencing",
-      "longevity",
-      "health",
-      "toxins",
-      "food safety",
-      "AI",
-      "Blueprint Protocol"
-    ],
-    "sources": [
-      {
-        "title": "Anti-aging zealot Bryan Johnson wants to start ‘foodome sequencing’",
-        "link": "https://techcrunch.com/2025/03/13/anti-aging-zealot-bryan-johnson-wants-to-start-foodome-sequencing/"
-      }
-    ],
-    "lastUpdated": "2025-03-14T00:53:06.693Z"
-  },
-  {
-    "title": "Key Developments in AI: Google Releases Gemma 3 and the Rise of DeepSeek",
-    "id": "1e64qlt12wkntk",
-    "summary": "- Google updates the Gemma AI model family with **Gemma 3**, targeting developers for creating versatile AI applications.\n- Claimed to be the **best single-accelerator model** globally, it outperforms **Facebook’s Llama**, **DeepSeek**, and **OpenAI** on a single GPU.\n- Introduces an updated vision encoder for high-res images and includes the **ShieldGemma 2** image safety classifier for filtering harmful content.\n- Despite advanced capabilities, tests indicate a **low risk** for misuse in creating harmful substances.\n- Google is offering **Cloud credits** and a **$10,000 Gemma 3 Academic program** for research.\n- The AI industry is rapidly evolving with new tools and features becoming common, particularly with OpenAI's new Deep Research tool. \n- A Gartner forecast predicts that 33% of enterprise software will integrate agentic AI by 2028, significantly up from less than 1% in 2024. \n- 76% of C-suite executives believe their AI cybersecurity measures require improvement, raising concerns over data privacy and security, particularly concerning foreign AI entities.\n- The emergence of China's DeepSeek has highlighted security issues in AI and the vulnerability of AI models to attacks.\n- Implementing security measures alongside AI development is crucial as bad actors often exploit new technologies for malicious purposes.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/0007835275_20.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 8,
-      "novelty": 6.5,
-      "longTermSignificance": 7.5
-    },
-    "keywords": [
-      "ai",
-      "gemma 3",
-      "google",
-      "llama",
-      "deepseek",
-      "openai",
-      "gpu",
-      "machine learning",
-      "image safety",
-      "cybersecurity",
-      "agentic ai",
-      "enterprise software",
-      "data privacy",
-      "security",
-      "technology"
-    ],
-    "sources": [
-      {
-        "title": "Google calls Gemma 3 the most powerful AI model you can run on one GPU",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/627968/google-gemma-3-open-ai-model"
-      },
-      {
-        "title": "Why DeepSeek’s arrival looks like a key moment for safe AI",
-        "link": "https://www.fastcompany.com/91297727/why-deepseeks-arrival-looks-like-a-key-moment-for-safe-ai?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
-      }
-    ],
-    "lastUpdated": "2025-03-14T00:53:06.692Z"
-  },
-  {
-    "title": "T-Mobile is raising prices on some of its prized legacy plans",
-    "id": "0xptw0a0ifem9d",
-    "summary": "- T-Mobile will increase prices by $5 per line for some legacy plan customers starting April 2nd, 2025.\n- Affected customers were notified via text messages about the price increase.\n- The increase is part of adjustments addressing 'rising costs'; specific legacy plans affected are currently unclear, but newer plans like Go5G are not included.\n- T-Mobile assures that most customers will not be affected and maintains its commitment to low prices and value across all plans.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23962440/acastro_STK067__01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
-    ],
-    "scores": {
-      "scale": 6,
-      "impact": 5,
-      "novelty": 4,
-      "longTermSignificance": 5
-    },
-    "keywords": [
-      "T-Mobile",
-      "price increase",
-      "legacy plans",
-      "Go5G",
-      "telecommunications",
-      "Umar Shakir"
-    ],
-    "sources": [
-      {
-        "title": "T-Mobile is raising prices on some of its prized legacy plans",
-        "link": "https://www.theverge.com/news/629598/t-mobile-legacy-plan-price-increase"
-      }
-    ],
-    "lastUpdated": "2025-03-14T00:53:06.692Z"
-  },
-  {
-    "title": "Apple’s AirPods 4 are down to their lowest price to date",
-    "id": "00qazdk1l8bhbw",
-    "summary": "- Apple’s AirPods 4 are discounted to $99.99 at major retailers, a 22% reduction from the original price of $129.\n- They feature spatial audio with dynamic head tracking and an open design for comfort.\n- An upgraded model with Active Noise Cancellation is available for $148.99, offering additional features like Adaptive Audio and wireless charging.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197789/Screenshot_2025-01-02_at_10.20.28_AM.0.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
-    ],
-    "scores": {
-      "scale": 6,
-      "impact": 7,
-      "novelty": 5,
-      "longTermSignificance": 5
-    },
-    "keywords": [
-      "Apple",
-      "AirPods 4",
-      "discount",
-      "spatial audio",
-      "noise cancellation"
-    ],
-    "sources": [
-      {
-        "title": "Apple’s AirPods 4 are down to their lowest price to date",
-        "link": "https://www.theverge.com/good-deals/629335/apple-airpods-4-earbuds-lowest-price-deal-sale"
-      }
-    ],
-    "lastUpdated": "2025-03-14T00:53:06.691Z"
   }
 ]

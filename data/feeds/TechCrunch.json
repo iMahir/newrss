@@ -4,6 +4,32 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Open source devs are fighting AI crawlers with cleverness and vengeance",
+      "link": "https://techcrunch.com/2025/03/27/open-source-devs-are-fighting-ai-crawlers-with-cleverness-and-vengeance/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- AI web-crawling bots are seen as a major nuisance by software developers, particularly in open source.\n- Developers like Xe Iaso created tools like Anubis to combat aggressive AI crawlers that ignore robots.txt files.\n- Anubis uses a proof-of-work challenge to distinguish between human users and bots.\n- FOSS projects are more vulnerable due to their open nature and fewer resources compared to commercial sites.\n- Some developers have resorted to extreme measures, including banning traffic from entire countries to mitigate crawler interference.\n- Cloudflare and other companies are offering tools to confuse and slow down AI crawlers.\n- The community is sharing clever ideas to trap crawlers into consuming irrelevant content.",
+      "keywords": [
+        "open source",
+        "AI crawlers",
+        "developers",
+        "Anubis",
+        "robots.txt",
+        "DDoS",
+        "FOSS",
+        "content scraping",
+        "Cloudflare",
+        "vulnerability"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-27T23:27:39.000Z"
+    },
+    {
       "title": "Certification platform Certiverse nabs $11M series A led by Cherryrock",
       "link": "https://techcrunch.com/2025/03/27/certification-platform-certiverse-nabs-11m-series-a-led-by-cherryrock/",
       "author": "Ruben Garcia, Pablo Meyer, Frederico Lopez",
@@ -1036,27 +1062,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-25T22:39:05.000Z"
-    },
-    {
-      "title": "How to tell if your online accounts have been hacked",
-      "link": "https://techcrunch.com/2025/03/25/how-to-tell-if-your-online-accounts-have-been-hacked/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Hackers increasingly target individuals to access bank accounts, crypto, or for stalking.\n- Most major service providers offer tools for account security and recovery.\n- Users should enable multi-factor authentication (MFA) to enhance account security.\n- It’s crucial to act promptly if signs of hacking are suspected; professionals can assist those at greater risk.\n- Specific steps for Gmail, Microsoft Outlook, LinkedIn, and Yahoo are provided to check account security and recent logins.\n- Regular updates will be made to keep instructions current for various online services.",
-      "keywords": [
-        "online security",
-        "hack prevention",
-        "multi-factor authentication",
-        "account protection",
-        "cybersecurity"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-25T21:10:00.000Z"
     }
   ]
 }
