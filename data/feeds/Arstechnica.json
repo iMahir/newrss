@@ -4,6 +4,28 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Scientists are storing light we cannot see in formats meant for human eyes",
+      "link": "https://arstechnica.com/science/2025/03/scientists-are-storing-light-we-cannot-see-in-formats-meant-for-human-eyes/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Researchers developed a method to compress spectral images significantly using JPEG XL, reducing file sizes by 10 to 60 times.\n- The approach preserves essential features of images, such as metadata and high dynamic range, while discarding the least noticeable details.\n- Smaller file sizes improve transfer times and reduce storage costs, making spectral imaging more accessible for various industries, despite some limitations in lossy compression.",
+      "keywords": [
+        "spectral images",
+        "compression",
+        "JPEG XL",
+        "file sizes",
+        "scientific visualization",
+        "medical imaging"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-28T22:11:00.000Z"
+    },
+    {
       "title": "Oracle has reportedly suffered 2 separate breaches exposing thousands of customers‘ PII",
       "link": "https://arstechnica.com/security/2025/03/oracle-is-mum-on-reports-it-has-experienced-2-separate-data-breaches/",
       "author": null,
@@ -1132,29 +1154,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-11T22:13:42.000Z"
-    },
-    {
-      "title": "OpenAI’s secret weapon against Nvidia dependence takes shape",
-      "link": "https://arstechnica.com/ai/2025/02/openais-secret-weapon-against-nvidia-dependence-takes-shape/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- OpenAI is finalizing its AI processor design to reduce dependence on Nvidia hardware.\n- The designs will be sent to TSMC for fabrication in the coming months.\n- Full capabilities and timeline of the chip are currently unknown; it aims for future independence and negotiation leverage with suppliers.\n- Other tech companies like Microsoft, Amazon, Google, and Meta have developed their own AI chips to decrease reliance on Nvidia.\n- OpenAI’s custom chip project has been developing for some time, with CEO Sam Altman actively seeking funding to boost chip fabrication capacity, targeting up to $7 trillion.",
-      "keywords": [
-        "OpenAI",
-        "AI processor",
-        "Nvidia",
-        "chip design",
-        "TSMC",
-        "AI chips",
-        "Sam Altman"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-10T21:00:33.000Z"
     }
   ]
 }

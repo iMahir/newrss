@@ -1,5 +1,99 @@
 [
   {
+    "title": "Scientists are storing light we cannot see in formats meant for human eyes",
+    "id": "1iuld540fjdgbo",
+    "summary": "- Researchers developed a method to compress spectral images significantly using JPEG XL, reducing file sizes by 10 to 60 times.\n- The approach preserves essential features of images, such as metadata and high dynamic range, while discarding the least noticeable details.\n- Smaller file sizes improve transfer times and reduce storage costs, making spectral imaging more accessible for various industries, despite some limitations in lossy compression.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 7,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "spectral images",
+      "compression",
+      "JPEG XL",
+      "file sizes",
+      "scientific visualization",
+      "medical imaging"
+    ],
+    "sources": [
+      {
+        "title": "Scientists are storing light we cannot see in formats meant for human eyes",
+        "link": "https://arstechnica.com/science/2025/03/scientists-are-storing-light-we-cannot-see-in-formats-meant-for-human-eyes/"
+      }
+    ],
+    "lastUpdated": "2025-03-28T23:11:42.786Z"
+  },
+  {
+    "title": "Elon Musk’s xAI Acquires X for $33 Billion",
+    "id": "11dx1611138q54",
+    "summary": "- Elon Musk's AI company xAI has acquired the social media platform X in an all-stock deal valued at $33 billion.\n- The transaction also values xAI at $80 billion, including $12 billion in debt from Musk's earlier acquisition of Twitter.\n- Musk has emphasized the integration of xAI's capabilities with X, claiming it will enhance data access and business growth.\n- Elon Musk announced that xAI has acquired X (formerly Twitter) for $45 billion, including $12 billion in debt.\n- The combined entities would have an estimated value of $80 billion.\n- xAI, launched in 2023, recently raised $6 billion, valuing the startup at $40 billion.\n- Musk had previously made a $97.4 billion bid for OpenAI, which was rejected.\n- xAI is expanding its data center capacity to enhance AI model training, featuring a supercomputer cluster named \"Colossus.\"",
+    "thumbnails": [
+      "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/0007835275_20.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
+    ],
+    "scores": {
+      "scale": 8,
+      "impact": 9,
+      "novelty": 7,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "elon musk",
+      "xai",
+      "x",
+      "twitter",
+      "acquisition",
+      "artificial intelligence",
+      "social media",
+      "business deal",
+      "ai competition",
+      "openai",
+      "supercomputer",
+      "grok-3"
+    ],
+    "sources": [
+      {
+        "title": "Elon Musk’s xAI buys Elon Musk’s X for $33 billion on paper",
+        "link": "https://www.theverge.com/news/638933/elon-musk-x-xai-acquisition"
+      },
+      {
+        "title": "Elon Musk’s xAI startup just bought X for $45 billion",
+        "link": "https://www.fastcompany.com/91308367/elon-musks-xai-startup-just-bought-x-for-45-billion?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
+      }
+    ],
+    "lastUpdated": "2025-03-28T23:11:42.785Z"
+  },
+  {
+    "title": "Judge saves the CFPB, for now",
+    "id": "0bx5y0p05bfmr7",
+    "summary": "- A court granted a preliminary injunction to prevent the Trump administration from dismantling the CFPB while the case is decided.\n- Judge Amy Berman Jackson expressed concerns about the risk of destruction of the agency and stated that it would be impossible to rebuild.\n- The ruling is a significant victory for the federal workers' union and groups dependent on the CFPB's protections.\n- The Trump administration's actions are alleged to violate constitutional separation of powers and have left consumers without adequate financial recourse.\n- The judge criticized the government's inconsistent statements about the status of CFPB workers and was not confident in their trustworthiness.\n- The CFPB is ordered to reinstate terminated employees and maintain agency data, allowing them to continue operations for the time being.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "CFPB",
+      "court ruling",
+      "preliminary injunction",
+      "Trump administration",
+      "consumer protection",
+      "federal workers union",
+      "separation of powers"
+    ],
+    "sources": [
+      {
+        "title": "Judge saves the CFPB, for now",
+        "link": "https://www.theverge.com/news/638987/cfpb-nteu-vought-preliminary-injunction-trump-doge"
+      }
+    ],
+    "lastUpdated": "2025-03-28T23:11:42.785Z"
+  },
+  {
     "title": "Windows 11 is closing a loophole that let you skip making a Microsoft account",
     "id": "1ewghsp15pkc2e",
     "summary": "- Microsoft is removing the bypassnro.cmd script in Windows 11 Insider Preview to enforce Microsoft account login during setup.\n- This is aimed at increasing security and ensuring all users have internet connectivity during the setup process.\n- Current workarounds, like registry edits or unattended.xml automation, may not be viable for long as Microsoft tightens restrictions on installations and upgrades to Windows 11.",
@@ -52,37 +146,6 @@
       {
         "title": "Microsoft tests Quick Machine Recovery to restore PCs that can’t boot",
         "link": "https://www.theverge.com/news/638890/microsoft-quick-machine-recovery-restore-pcs-crowdstrike"
-      }
-    ],
-    "lastUpdated": "2025-03-28T22:12:10.505Z"
-  },
-  {
-    "title": "Elon Musk’s xAI buys Elon Musk’s X for $33 billion on paper",
-    "id": "11dx1611138q54",
-    "summary": "- Elon Musk's AI company xAI has acquired the social media platform X in an all-stock deal valued at $33 billion.\n- The transaction also values xAI at $80 billion, including $12 billion in debt from Musk's earlier acquisition of Twitter.\n- Musk has emphasized the integration of xAI's capabilities with X, claiming it will enhance data access and business growth.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/0007835275_20.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 9,
-      "novelty": 7,
-      "longTermSignificance": 8
-    },
-    "keywords": [
-      "Elon Musk",
-      "xAI",
-      "X",
-      "Twitter",
-      "acquisition",
-      "artificial intelligence",
-      "social media",
-      "business deal"
-    ],
-    "sources": [
-      {
-        "title": "Elon Musk’s xAI buys Elon Musk’s X for $33 billion on paper",
-        "link": "https://www.theverge.com/news/638933/elon-musk-x-xai-acquisition"
       }
     ],
     "lastUpdated": "2025-03-28T22:12:10.505Z"
