@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Mixed Impressions on the New Razer Blade 16 Gaming Laptop",
+      "link": "https://www.theverge.com/tech/638930/razer-blade-16-2025-rtx-5090-gaming-laptop-impressions-price",
+      "author": "Antonio G. Di Benedetto",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257655_Razer_Blade_16_laptop_2025_5090_ADiBenedetto_0010.jpg?quality=90&strip=all&crop=0,0,100,100&w=2400",
+      "summary": "- The Razer Blade 16 aims to be a gaming alternative to the MacBook Pro, featuring a thinner and lighter design.  \n- It is equipped with an Nvidia RTX 5090 GPU, priced at $4,499.99, which is $200 more than the previous 4090 model.  \n- The reviewer experienced hardware issues with the initial unit, leading to a replacement, which still faced random bluescreen crashes.  \n- The laptop features a 16-inch OLED display (2560 x 1600) with a 240Hz refresh rate and good keyboard quality, though the new macro key placement poses usability problems.  \n- Although the design is improved, thermal performance needs further testing. Razer’s Cooling Pad may provide additional performance but adds cost and noise.  \n- The RTX 5090 shows about 20% more efficiency compared to the 4090, but the reviewer found battery performance disappointing under light workloads, struggling to last a full workday.  \n- Overall, while the laptop has attractive features for gaming and productivity, its high price and technical reliability issues raise concerns for potential buyers.",
+      "keywords": [
+        "Razer Blade 16",
+        "gaming laptop",
+        "Nvidia RTX 5090",
+        "OLED display",
+        "hardware issues",
+        "battery life",
+        "pricing",
+        "performance"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-29T13:00:00.000Z"
+    },
+    {
       "title": "BougeRV’s telescopic lantern is ridiculously versatile",
       "link": "https://www.theverge.com/reviews/638090/bougerv-flextail-telescopic-lantern-review-price",
       "author": "Thomas Ricker",
@@ -1094,28 +1118,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-27T18:00:47.000Z"
-    },
-    {
-      "title": "OpenAI says ‘our GPUs are melting’ as it limits ChatGPT image generation requests",
-      "link": "https://www.theverge.com/news/637542/chatgpt-says-our-gpus-are-melting-as-it-puts-limit-on-image-generation-requests",
-      "author": "Chris Welch",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195901/welch.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- OpenAI places temporary rate limits on ChatGPT's image generation due to high demand.\n- CEO Sam Altman mentioned, \"our GPUs are melting\" due to the influx of image requests.\n- The rate limit aims to manage the stress on OpenAI's infrastructure and improve efficiency.\n- Free tier users will soon be able to generate up to three images per day.\n- The new image generation tool uses OpenAI's advanced GPT-4o model, offering more realistic creations.",
-      "keywords": [
-        "OpenAI",
-        "ChatGPT",
-        "image generation",
-        "rate limit",
-        "GPT-4o",
-        "Sam Altman"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-03-27T17:28:39.000Z"
     }
   ]
 }
