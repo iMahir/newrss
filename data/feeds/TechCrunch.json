@@ -4,6 +4,53 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Elon Musk says xAI acquired X",
+      "link": "https://techcrunch.com/2025/03/29/elon-musk-says-xai-acquired-x/",
+      "author": "Maxwell Zeff",
+      "thumbnail": null,
+      "summary": "- Elon Musk's AI startup, xAI, acquired his social media platform X in an all-stock deal.\n- The acquisition values xAI at $80 billion and X at $33 billion, reflecting a significant decline from Musk's prior purchase price of $44 billion in 2022.\n- X has over 600 million active users, which gives xAI a large consumer base and access to valuable training data for AI development.",
+      "keywords": [
+        "Elon Musk",
+        "xAI",
+        "acquisition",
+        "X",
+        "social media",
+        "AI",
+        "technology"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-29T16:04:08.000Z"
+    },
+    {
+      "title": "CoreWeave co-founder explains how a closet of crypto-mining GPUs led to a $1.5B IPO",
+      "link": "https://techcrunch.com/2025/03/29/coreweave-co-founder-explains-how-a-closet-of-crypto-mining-gpus-led-to-a-1-5b-ipo/",
+      "author": "Not given",
+      "thumbnail": null,
+      "summary": "- CoreWeave priced its IPO at $40, below the expected range, and opened with a valuation of $14 billion, raising $1.5 billion on Day 1.\n- The IPO marks the largest AI-related listing to date and the biggest U.S. tech IPO since 2021.\n- The company evolved from a large Ethereum mining operation to AI training, partnering with EleutherAI and attracting significant investments, including a $12 billion deal with OpenAI.",
+      "keywords": [
+        "CoreWeave",
+        "IPO",
+        "crypto-mining",
+        "AI",
+        "EleutherAI",
+        "Nvidia",
+        "OpenAI",
+        "market cap"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-29T16:00:00.000Z"
+    },
+    {
       "title": "A look at Intel Capital before the 34-year-old firm strikes out on its own",
       "link": "https://techcrunch.com/2025/03/29/a-look-at-intel-capital-before-the-34-year-old-firm-strikes-out-on-its-own/",
       "author": null,
@@ -1076,40 +1123,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-03-26T19:43:51.000Z"
-    },
-    {
-      "title": "19 founders and VCs working with Elon Musk’s DOGE",
-      "link": "https://techcrunch.com/2025/03/26/19-founders-and-vcs-working-with-elon-musks-doge/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-03-26T18:45:00.000Z"
-    },
-    {
-      "title": "OpenAI adopts rival Anthropic’s standard for connecting AI models to data",
-      "link": "https://techcrunch.com/2025/03/26/openai-adopts-rival-anthropics-standard-for-connecting-ai-models-to-data/",
-      "author": "Kyle Wiggers",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2153474303-e.jpg?w=1024",
-      "summary": "- OpenAI is adopting Anthropic’s Model Context Protocol (MCP) for its products, enhancing AI assistants' data connectivity.\n- CEO Sam Altman announced support for MCP via a post on X, emphasizing its role in improving response relevance.\n- MCP allows AI models to interact with various data sources and creates two-way connections, benefiting developers and applications.\n- Companies like Block and Replit have already integrated MCP, and OpenAI plans to reveal more about its MCP strategy soon.",
-      "keywords": [
-        "OpenAI",
-        "Anthropic",
-        "Model Context Protocol",
-        "AI",
-        "data connectivity",
-        "Sam Altman",
-        "technology",
-        "integration"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-26T18:18:35.000Z"
     }
   ]
 }
