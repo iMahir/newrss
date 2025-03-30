@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Beyond Bluesky: These are the apps building social experiences on the AT Protocol",
+      "link": "https://techcrunch.com/2025/03/30/beyond-bluesky-these-are-the-apps-building-social-experiences-on-the-at-protocol/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/flashes-app.png?w=345",
+      "summary": "- Bluesky, which now has over 33 million users, is based on the AT Protocol, inspiring numerous applications for an open social web.\n- The first conference for the AT Protocol, ATmosphere, was held in Seattle, addressing future developments and challenges.\n- Notable applications being developed include Flashes (an Instagram alternative), Spark (a video-first app), and Pinksky (another Instagram competitor).\n- Streamplace, a livestream service, was created as part of this new ecosystem, focusing on high-quality video and consent management.\n- Graze and Surf are tools that allow users to build and customize feeds, promoting a more personalized digital experience.",
+      "keywords": [
+        "Bluesky",
+        "AT Protocol",
+        "social media",
+        "applications",
+        "open web",
+        "livestreaming",
+        "custom feeds"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-30T15:00:00.000Z"
+    },
+    {
       "title": "Data centers love solar: Here’s a comprehensive guide to deals over 100 megawatts",
       "link": "https://techcrunch.com/2025/03/30/data-centers-love-solar-heres-a-comprehensive-guide-to-deals-over-100-megawatts/",
       "author": "Tim De Chant",
@@ -1317,29 +1340,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-27T06:13:12.000Z"
-    },
-    {
-      "title": "OpenAI’s viral Studio Ghibli moment highlights AI copyright concerns",
-      "link": "https://techcrunch.com/2025/03/26/openais-viral-studio-ghibli-moment-highlights-ai-copyright-concerns/",
-      "author": "Maxwell Zeff",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Screenshot-2025-03-26-at-1.19.02PM.png?w=680",
-      "summary": "- ChatGPT's new AI image generator has spurred a surge of AI-generated Studio Ghibli-style memes within 24 hours of its launch.\n- CEO Sam Altman used a Studio Ghibli-style image as his profile picture, showcasing the feature's popularity.\n- Concerns arise over copyright implications as AI tools recreate protected styles, with ongoing lawsuits against OpenAI regarding copyright infringement.\n- An intellectual property lawyer points out that while style isn’t protected by copyright, the training of models on copyrighted works is under scrutiny.\n- OpenAI claims it avoids replicating specific artists' styles but can recreate broader studio styles.\n- The technology spurs debate over copyright laws and the legal status of AI-generated works.",
-      "keywords": [
-        "OpenAI",
-        "AI image generator",
-        "Studio Ghibli",
-        "copyright concerns",
-        "image generation",
-        "ChatGPT",
-        "AI technology"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-26T23:23:09.000Z"
     }
   ]
 }
