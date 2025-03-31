@@ -4,6 +4,52 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Microsoft expands AI features across Intel and AMD-powered Copilot Plus PCs",
+      "link": "https://www.theverge.com/news/640028/microsoft-copilot-plus-pcs-ai-intel-amd-rollout",
+      "author": "Emma Roth",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Microsoft releases AI features on Copilot Plus PCs with Intel and AMD chips.\n- Key feature: Live Captions translates audio to English subtitles in real time.\n- Live Captions available from latest Windows 11 update.\n- New tool Cocreator in Paint generates images based on text descriptions.\n- Access to AI image editor and generator in the Photos app is expanded.\n- Features were earlier limited to devices with Qualcomm chips.\n- Ongoing testing of the Recall feature for searching screenshots from activities.",
+      "keywords": [
+        "Microsoft",
+        "AI",
+        "Copilot Plus",
+        "Intel",
+        "AMD",
+        "Live Captions",
+        "Windows 11",
+        "Cocreator",
+        "Photos app"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-31T19:45:49.000Z"
+    },
+    {
+      "title": "SwitchBot’s smart button pusher is 30 percent off for Amazon’s Big Spring Sale",
+      "link": "https://www.theverge.com/tech/639683/switchbot-bot-smart-switch-button-pusher-amazon-big-spring-2025-deal-sale",
+      "author": "Sheena Vasani",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195108/Screen_Shot_2021-09-15_at_10.36.08_AM.0.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- The SwitchBot Bot is on sale for $20.99 (originally $29.99) using promo code BKLP15 or $22.49 on Amazon.\n- It automates devices with buttons, including garage doors, light switches, and appliances.\n- Supports voice commands via Amazon Alexa, Google Assistant, and Siri when paired with a SwitchBot hub.\n- Does not work on toggle switches and requires a separate hub for remote control.\n- The SwitchBot Hub Mini is also on sale for $27.99.",
+      "keywords": [
+        "SwitchBot",
+        "smart button pusher",
+        "Amazon sale",
+        "tech gadgets",
+        "home automation"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-03-31T19:12:41.000Z"
+    },
+    {
       "title": "The 30 best Amazon Big Spring Sale deals you can still grab for under $30",
       "link": "https://www.theverge.com/tech/636342/amazon-big-spring-sale-2025-best-deals-under-30-tech-gift-ideas",
       "author": "Cameron Faulkner",
@@ -2409,53 +2455,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-03-28T15:39:55.000Z"
-    },
-    {
-      "title": "Google’s Pixel 9A will launch on April 10th",
-      "link": "https://www.theverge.com/news/638348/google-pixel-9a-april-10-launch-date",
-      "author": "Emma Roth",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Google is releasing the Pixel 9A in the US, Canada, and the UK on April 10th.\n- The launch was delayed to address a component quality issue.\n- It will be available in Europe on April 14th and in several other countries on April 16th.\n- Preorders are not yet available, but users can sign up for notifications.\n- The starting price is $499, featuring a larger display, upgraded Tensor G4 chip, and a new design with a flat back.",
-      "keywords": [
-        "Google",
-        "Pixel 9A",
-        "launch date",
-        "April 10",
-        "smartphone",
-        "component quality issue",
-        "Tensor G4 chip",
-        "consumer tech"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-28T15:35:29.000Z"
-    },
-    {
-      "title": "NASA and Boeing investigate Starliner’s ‘anomalies’ before its next crewed flight",
-      "link": "https://www.theverge.com/news/638289/nasa-boeing-starliner-flight-preparations-2026",
-      "author": "Emma Roth",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- NASA and Boeing are addressing technical issues in the Starliner before its next flight, anticipated in late 2025 or early 2026.\n- Anomalies with the Starliner's thruster, valve, and helium systems delayed its ability to return astronauts.\n- Postflight data analysis and testing of thrusters and helium system seals are currently in progress to resolve these issues.",
-      "keywords": [
-        "NASA",
-        "Boeing",
-        "Starliner",
-        "crewed flight",
-        "anomalies",
-        "spacecraft",
-        "International Space Station"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-28T15:15:29.000Z"
     }
   ]
 }
