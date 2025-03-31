@@ -4,6 +4,76 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Some Alexa+ features reportedly won’t arrive for months",
+      "link": "https://techcrunch.com/2025/03/31/some-alexa-features-reportedly-wont-arrive-for-months/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Amazon launched an upgraded Alexa experience called Alexa+ by the end of March.\n- Many features showcased at a press event in February are not yet available, including ordering takeout and generating stories.\n- Some features like ordering an Uber are only rolling out to select users.\n- A web app for Alexa+ announced last month lacks a release date.\n- Alexa+ has faced challenges with AI infrastructure, indicating ongoing issues for Amazon.",
+      "keywords": [
+        "Alexa+",
+        "Amazon",
+        "AI",
+        "technology",
+        "features",
+        "launch",
+        "delays"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-31T18:45:39.000Z"
+    },
+    {
+      "title": "Spark, Mayfield, and Kleiner Perkins pour another $75M into AI data center chipmaker Retym",
+      "link": "https://techcrunch.com/2025/03/31/spark-mayfield-and-kleiner-perkins-pour-another-75m-into-ai-data-center-chipmaker-retym/",
+      "author": "James Kuklinski, Navin Chaddha, Mamoon Hamid",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-1980358460.jpg?w=1024",
+      "summary": "- Retym has raised $75 million in a Series D round, bringing total funding to $180 million.\n- The round was led by James Kuklinski of Spark Capital, with participation from existing investors Mayfield’s Navin Chaddha and Kleiner Perkins’ Mamoon Hamid.\n- Founded in 2021, Retym focuses on enhancing data center communication with a new DSP chip, aiming to compete with large semiconductor firms like Marvell Technology.\n- The technology addresses the rising demands of data centers exacerbated by the growth of AI, but does not directly process AI workloads.",
+      "keywords": [
+        "Retym",
+        "AI",
+        "data center",
+        "chipmaker",
+        "funding",
+        "DSP",
+        "semiconductor",
+        "investment",
+        "James Kuklinski",
+        "Spark Capital"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-31T18:42:14.000Z"
+    },
+    {
+      "title": "Oracle under fire for its handling of separate security incidents",
+      "link": "https://techcrunch.com/2025/03/31/oracle-under-fire-for-its-handling-of-separate-security-incidents/",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/oracle-cloud-login-rose87168.jpg?w=680",
+      "summary": "- Oracle is criticized for its handling of two separate data breaches.\n- One breach involves Oracle Health, affecting patient data from healthcare providers.\n- Oracle reportedly notified customers about a breach occurring around February 20, 2025.\n- The second breach involves Oracle Cloud, where a hacker claims to have data on 6 million customers.\n- Oracle denied a breach but customers confirmed the authenticity of some stolen data.\n- Cybersecurity experts call for transparency and accountability from Oracle regarding the breaches.",
+      "keywords": [
+        "Oracle",
+        "data breach",
+        "cybersecurity",
+        "patient data",
+        "cloud security"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-31T18:19:08.000Z"
+    },
+    {
       "title": "Apple rolls out Priority Notifications as Apple Intelligence expands to EU",
       "link": "https://techcrunch.com/2025/03/31/apple-rolls-out-priority-notifications-as-apple-intelligence-expands-to-eu/",
       "author": "Sarah Perez",
@@ -1294,74 +1364,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-03-28T15:26:48.000Z"
-    },
-    {
-      "title": "WhatsApp users can now add songs to their Status updates",
-      "link": "https://techcrunch.com/2025/03/28/whatsapp-users-can-now-add-songs-to-their-status-updates/",
-      "author": "Lauren Forristal",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/WhatsApp-Statusmusic.png?w=1024",
-      "summary": "\n- WhatsApp launched a new feature allowing users to add brief music clips to their Status updates, starting March 28, 2025.\n- Users can select from millions of songs, sharing clips up to 15 seconds for photos and 60 seconds for videos.\n- The music feature is similar to Instagram's but offers end-to-end encryption, ensuring only friends can view the shared songs.\n- The rollout of this new feature is underway globally, with expanded availability expected in the coming weeks.\n",
-      "keywords": [
-        "WhatsApp",
-        "Status updates",
-        "music clips",
-        "Meta",
-        "Instagram"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-28T14:22:12.000Z"
-    },
-    {
-      "title": "YC-backed Taxo raises $5M to slash healthcare admin with its AI ‘reasoning engine’",
-      "link": "https://techcrunch.com/2025/03/28/yc-backed-taxo-raised-5m-to-slash-healthcare-admin-with-its-ai-reasoning-engine/",
-      "author": "Charles Rollet",
-      "thumbnail": null,
-      "summary": "- British doctor Ahmed Kerwan founded Taxo to reduce healthcare administrative burden using AI.\n- Taxo's app facilitates tasks like insurance prior authorizations, patient intake, and medical billing.\n- The AI ‘reasoning engine’ increases prior authorization approval rates to 98%, significantly above the industry average of 80%.\n- Taxo recently closed a $5 million seed round led by Y Combinator, General Catalyst, and Character Capital.\n- Founded in 2024, Taxo achieved $1 million ARR within six months and currently serves around 15 customers.",
-      "keywords": [
-        "Taxo",
-        "AI",
-        "healthcare",
-        "administration",
-        "investing",
-        "startup",
-        "reasoning engine",
-        "Y Combinator"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-28T14:07:11.000Z"
-    },
-    {
-      "title": "Nikola founder Trevor Milton pardoned by Trump",
-      "link": "https://techcrunch.com/2025/03/28/nikola-founder-trevor-milton-pardoned-by-trump/",
-      "author": "Sean O'Kane",
-      "thumbnail": null,
-      "summary": "- Trevor Milton, founder of Nikola, has been pardoned by President Trump after being convicted of fraud.\n- Milton was convicted in October 2022 of securities fraud and wire fraud, leading to a four-year prison sentence in December 2023.\n- The pardon follows Nikola's recent Chapter 11 bankruptcy filing as the company attempts to sell its business by mid-April.",
-      "keywords": [
-        "Trevor Milton",
-        "Nikola",
-        "Trump",
-        "pardon",
-        "fraud",
-        "bankruptcy",
-        "electric vehicles"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-28T13:49:55.000Z"
     }
   ]
 }
