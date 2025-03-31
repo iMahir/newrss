@@ -4,6 +4,31 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Robot vacuums are getting upgraded support for Apple Home",
+      "link": "https://www.theverge.com/news/640059/apple-ios-update-matter-robot-vacuum-roborock-irobot-ecovacs",
+      "author": "Andrew Liszewski",
+      "thumbnail": null,
+      "summary": "- Apple's iOS 18.4 update includes support for robot vacuums in the Apple Home app via the Matter protocol.\n- Companies like Roborock, iRobot, and Ecovacs are releasing firmware updates for enhanced compatibility.\n- Notable Roborock models receiving updates include the S8 MaxV Ultra and Saros series, scheduled for firmware release between April 1st and 10th.\n- iRobot's Roomba Combo 10 Max will be the first compliant with Matter and Apple Home, enabling control through the Home app and Siri.\n- Ecovacs is rolling out Matter 1.4 firmware updates for models like Deebot X2 starting today, with phased availability.\n- Original announcement for support of robot vacuums in Apple Home was made during WWDC 2024.",
+      "keywords": [
+        "robot vacuums",
+        "Apple Home",
+        "iOS 18.4",
+        "Matter protocol",
+        "firmware updates",
+        "Roborock",
+        "iRobot",
+        "Ecovacs",
+        "smart home"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-31T21:41:05.000Z"
+    },
+    {
       "title": "Microsoft expands AI features across Intel and AMD-powered Copilot Plus PCs",
       "link": "https://www.theverge.com/news/640028/microsoft-copilot-plus-pcs-ai-intel-amd-rollout",
       "author": "Emma Roth",
@@ -2431,30 +2456,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-03-28T15:51:06.000Z"
-    },
-    {
-      "title": "Trump pardons ex-Nikola CEO Trevor Milton",
-      "link": "https://www.theverge.com/news/638340/nikola-ceo-trevor-milton-trump-pardon",
-      "author": "Andrew J. Hawkins",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195793/ANDREW_HAWKINS.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Trevor Milton, founder of Nikola Motors, was pardoned by President Donald Trump.\n- Milton was convicted of defrauding investors and sentenced to four years in prison.\n- He appealed his conviction and announced his freedom in a video.\n- Nikola faced significant scrutiny after a report accused it of fraud, leading to Milton's arrest and the company's subsequent bankruptcy.\n- Trump's pardon follows similar actions for other controversial figures in the transportation sector.",
-      "keywords": [
-        "Trevor Milton",
-        "Trump",
-        "pardon",
-        "Nikola Motors",
-        "fraud",
-        "electric vehicles",
-        "bankruptcy",
-        "Hindenburg Research"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-03-28T15:39:55.000Z"
     }
   ]
 }
