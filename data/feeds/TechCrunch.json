@@ -4,6 +4,72 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "API Testing Firm APIsec Exposed Customer Data During Security Lapse",
+      "link": "https://techcrunch.com/2025/03/31/api-testing-firm-apisec-exposed-customer-data-during-security-lapse/",
+      "author": "Zack Whittaker",
+      "thumbnail": null,
+      "summary": "- API testing firm APIsec confirmed a security lapse exposing an internal database of customer data for several days.\n- The exposed database contained names and email addresses of employees from APIsec's clients and security posture details.\n- UpGuard discovered the exposed database on March 5 and reported it the same day; APIsec secured it soon after.\n- APIsec's founder initially claimed the data was only 'test data' but later acknowledged the presence of real customer data.\n- The database also contained sensitive information such as AWS keys and other credentials, but APIsec claimed they were linked to a former employee.",
+      "keywords": [
+        "APIsec",
+        "data breach",
+        "customer data",
+        "security lapse",
+        "UpGuard",
+        "API testing",
+        "exposed database"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-31T17:01:00.000Z"
+    },
+    {
+      "title": "OpenAI disables video gen for certain Sora users as capacity challenges continue",
+      "link": "https://techcrunch.com/2025/03/31/openai-disables-video-gen-for-certain-sora-users-as-capacity-challenges-continue/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- OpenAI has disabled video generation for new Sora users due to capacity issues.\n- This decision was taken amid high traffic and challenges after the recent launch of a new image generation feature.\n- Users not logged into Sora can still generate images.\n- OpenAI CEO Sam Altman indicated that the company is struggling to keep up with demand since the launch of its new tools.",
+      "keywords": [
+        "OpenAI",
+        "Sora",
+        "video generation",
+        "capacity issues",
+        "image generation"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-31T16:58:56.000Z"
+    },
+    {
+      "title": "Signal sees its downloads double after scandal",
+      "link": "https://techcrunch.com/2025/03/31/signal-sees-its-downloads-double-after-scandal/",
+      "author": "Sarah Perez",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2150494835.jpg?w=1024",
+      "summary": "- Signal app downloads doubled following the messaging scandal involving the Trump administration.\n- Downloads spiked by 26% on the day the news broke, reaching 195,000 by the following Wednesday.\n- Average daily downloads for Signal are around 95,000, indicating a significant increase in interest due to the scandal.",
+      "keywords": [
+        "Signal",
+        "downloads",
+        "scandal",
+        "Trump administration",
+        "messaging app",
+        "encrypted messaging"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-03-31T16:52:03.000Z"
+    },
+    {
       "title": "Substack is rolling out a TikTok-like video feed in its app",
       "link": "https://techcrunch.com/2025/03/31/substack-is-rolling-out-a-tiktok-like-video-feed-in-its-app/",
       "author": "Aisha Malik",
@@ -1293,79 +1359,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-28T01:30:00.000Z"
-    },
-    {
-      "title": "Open source devs are fighting AI crawlers with cleverness and vengeance",
-      "link": "https://techcrunch.com/2025/03/27/open-source-devs-are-fighting-ai-crawlers-with-cleverness-and-vengeance/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- AI web-crawling bots are seen as a major nuisance by software developers, particularly in open source.\n- Developers like Xe Iaso created tools like Anubis to combat aggressive AI crawlers that ignore robots.txt files.\n- Anubis uses a proof-of-work challenge to distinguish between human users and bots.\n- FOSS projects are more vulnerable due to their open nature and fewer resources compared to commercial sites.\n- Some developers have resorted to extreme measures, including banning traffic from entire countries to mitigate crawler interference.\n- Cloudflare and other companies are offering tools to confuse and slow down AI crawlers.\n- The community is sharing clever ideas to trap crawlers into consuming irrelevant content.",
-      "keywords": [
-        "open source",
-        "AI crawlers",
-        "developers",
-        "Anubis",
-        "robots.txt",
-        "DDoS",
-        "FOSS",
-        "content scraping",
-        "Cloudflare",
-        "vulnerability"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-27T23:27:39.000Z"
-    },
-    {
-      "title": "Certification platform Certiverse nabs $11M series A led by Cherryrock",
-      "link": "https://techcrunch.com/2025/03/27/certification-platform-certiverse-nabs-11m-series-a-led-by-cherryrock/",
-      "author": "Ruben Garcia, Pablo Meyer, Frederico Lopez",
-      "thumbnail": null,
-      "summary": "- Certiverse raised $11 million Series A led by Cherryrock Capital.\n- Founded in 2023, the platform allows organizations to develop certification exams at reduced costs.\n- Clients include The Linux Foundation and HashiCorp, with significant savings on exam development costs.\n- CEO Ruben Garcia has experience in the certification industry, having co-founded Innovative Exams.\n- Certiverse aims to automate exam creation and expand its client base significantly with the new funding.",
-      "keywords": [
-        "Certiverse",
-        "certification platform",
-        "funding",
-        "Cherryrock Capital",
-        "exam development",
-        "automation",
-        "Ruben Garcia"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-27T21:04:20.000Z"
-    },
-    {
-      "title": "Trump’s auto tariffs are a gift to Tesla",
-      "link": "https://techcrunch.com/2025/03/27/trumps-auto-tariffs-are-a-gift-to-tesla/",
-      "author": "Sean O'Kane",
-      "thumbnail": null,
-      "summary": "- President Trump announced a 25% tariff on all imported cars and certain auto parts.\n- The tariffs could increase the costs of new and used cars but may benefit Tesla, as it builds all its vehicles for the North American market in the U.S.\n- Tesla imports 20-30% of components, which will still incur tariffs, but it is better positioned than competitors like Ford and GM, who manufacture many vehicles abroad.\n- The tariff could lead to higher prices for other EVs while Tesla could keep prices lower with potential new models.",
-      "keywords": [
-        "Trump",
-        "tariffs",
-        "Tesla",
-        "automobile",
-        "EVs",
-        "import tax",
-        "Elon Musk",
-        "automaker competition"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-27T18:50:22.000Z"
     }
   ]
 }

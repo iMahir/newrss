@@ -1,5 +1,88 @@
 [
   {
+    "title": "API Testing Firm APIsec Exposed Customer Data During Security Lapse",
+    "id": "0y7jz5s178zcb3",
+    "summary": "- API testing firm APIsec confirmed a security lapse exposing an internal database of customer data for several days.\n- The exposed database contained names and email addresses of employees from APIsec's clients and security posture details.\n- UpGuard discovered the exposed database on March 5 and reported it the same day; APIsec secured it soon after.\n- APIsec's founder initially claimed the data was only 'test data' but later acknowledged the presence of real customer data.\n- The database also contained sensitive information such as AWS keys and other credentials, but APIsec claimed they were linked to a former employee.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 5
+    },
+    "keywords": [
+      "APIsec",
+      "data breach",
+      "customer data",
+      "security lapse",
+      "UpGuard",
+      "API testing",
+      "exposed database"
+    ],
+    "sources": [
+      {
+        "title": "API Testing Firm APIsec Exposed Customer Data During Security Lapse",
+        "link": "https://techcrunch.com/2025/03/31/api-testing-firm-apisec-exposed-customer-data-during-security-lapse/"
+      }
+    ],
+    "lastUpdated": "2025-03-31T17:11:45.844Z"
+  },
+  {
+    "title": "Signal sees its downloads double after scandal",
+    "id": "0x73n1c0yraq69",
+    "summary": "- Signal app downloads doubled following the messaging scandal involving the Trump administration.\n- Downloads spiked by 26% on the day the news broke, reaching 195,000 by the following Wednesday.\n- Average daily downloads for Signal are around 95,000, indicating a significant increase in interest due to the scandal.",
+    "thumbnails": [
+      "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2150494835.jpg?w=1024"
+    ],
+    "scores": {
+      "scale": 8,
+      "impact": 7,
+      "novelty": 6,
+      "longTermSignificance": 5
+    },
+    "keywords": [
+      "Signal",
+      "downloads",
+      "scandal",
+      "Trump administration",
+      "messaging app",
+      "encrypted messaging"
+    ],
+    "sources": [
+      {
+        "title": "Signal sees its downloads double after scandal",
+        "link": "https://techcrunch.com/2025/03/31/signal-sees-its-downloads-double-after-scandal/"
+      }
+    ],
+    "lastUpdated": "2025-03-31T17:11:45.843Z"
+  },
+  {
+    "title": "OpenAI disables video gen for certain Sora users as capacity challenges continue",
+    "id": "00wbrjk1naa1bd",
+    "summary": "- OpenAI has disabled video generation for new Sora users due to capacity issues.\n- This decision was taken amid high traffic and challenges after the recent launch of a new image generation feature.\n- Users not logged into Sora can still generate images.\n- OpenAI CEO Sam Altman indicated that the company is struggling to keep up with demand since the launch of its new tools.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 6,
+      "impact": 7,
+      "novelty": 5,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "OpenAI",
+      "Sora",
+      "video generation",
+      "capacity issues",
+      "image generation"
+    ],
+    "sources": [
+      {
+        "title": "OpenAI disables video gen for certain Sora users as capacity challenges continue",
+        "link": "https://techcrunch.com/2025/03/31/openai-disables-video-gen-for-certain-sora-users-as-capacity-challenges-continue/"
+      }
+    ],
+    "lastUpdated": "2025-03-31T17:11:45.843Z"
+  },
+  {
     "title": "Substack is rolling out a TikTok-like video feed in its app",
     "id": "12n7g180qw9x3t",
     "summary": "- Substack introduces a new scrollable video feed similar to TikTok, announced on March 31, 2025.\n- The update is aimed at leveraging the potential gap left by TikTok amidst its uncertain future in the U.S.\n- The platform previously allowed monetization of videos for creators and has been expanding its video features since 2022.\n- The new video feed will showcase short-form videos under 10 minutes, with plans for longer content and podcast previews.\n- Substack claims 82% of its top-earning writers are using multimedia, a rise from 50% in April 2024.\n- With this feature, creators can expand their audience directly within Substack, aligning with the trend towards quick, snackable content across platforms.",
@@ -35166,133 +35249,5 @@
       }
     ],
     "lastUpdated": "2025-03-17T17:13:56.675Z"
-  },
-  {
-    "title": "Max just wiped its classic Looney Tunes lineup",
-    "id": "0msagnx0mjxxm8",
-    "summary": "- Warner Bros. Discovery removed the entire lineup of classic Looney Tunes shorts (1930-1969) from its streaming service, Max.\n- The company confirmed the focus will shift to adult and family programming rather than kids' content.\n- This follows earlier removals of Looney Tunes episodes at the end of 2022 and confusion over the series' availability.\n- Newer Looney Tunes content remains available on Max.\n- This content purge is part of broader cuts following David Zaslav's takeover of Warner Bros. Discovery.\n- Max had also ended its streaming deal for Sesame Street and made notable content changes under the new administration.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/looney-tunes-bugs-bunny.png?quality=90&strip=all&crop=0%2C1.3736263736264%2C100%2C97.252747252747&w=2400"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 7,
-      "novelty": 5,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "Looney Tunes",
-      "Max",
-      "streaming",
-      "Warner Bros.",
-      "content removal",
-      "David Zaslav",
-      "Sesame Street",
-      "streaming services"
-    ],
-    "sources": [
-      {
-        "title": "Max just wiped its classic Looney Tunes lineup",
-        "link": "https://www.theverge.com/news/631209/warner-bros-discovery-max-looney-tunes-removed"
-      }
-    ],
-    "lastUpdated": "2025-03-17T16:20:44.668Z"
-  },
-  {
-    "title": "DOGE Staffer Violated Treasury Rules by Emailing Unencrypted Personal Data",
-    "id": "1bxdevs08tdzx7",
-    "summary": "- A DOGE staffer, Marko Elez, violated Treasury policy by sending unencrypted personal data to Trump administration officials.\n- Elez had previously resigned due to racist social media posts, but was rehired by DOGE.\n- 19 state attorneys general are suing the Treasury over DOGE's system access, which has been limited due to Elez's actions.\n- The security breach was revealed during an investigation into Elez's laptop and email account.\n- Shared data included sensitive transaction details like names and amounts of money.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196306/unnamed.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
-    ],
-    "scores": {
-      "scale": 6,
-      "impact": 7.5,
-      "novelty": 5.5,
-      "longTermSignificance": 6.5
-    },
-    "keywords": [
-      "doge",
-      "treasury",
-      "marko elez",
-      "unencrypted data",
-      "lawsuit",
-      "trump administration",
-      "social media",
-      "data breach",
-      "unencrypted email",
-      "cybersecurity",
-      "personal data"
-    ],
-    "sources": [
-      {
-        "title": "A DOGE staffer broke Treasury policy by emailing unencrypted personal data",
-        "link": "https://www.theverge.com/news/630894/doge-treasury-lawsuit-marko-elez-unencrypted-emails"
-      },
-      {
-        "title": "DOGE staffer violated Treasury rules by emailing unencrypted personal data",
-        "link": "https://techcrunch.com/2025/03/17/doge-staffer-violated-treasury-rules-by-emailing-unencrypted-personal-data/"
-      }
-    ],
-    "lastUpdated": "2025-03-17T16:20:44.665Z"
-  },
-  {
-    "title": "Travis Kalanick wants to do a lot more than develop more ghost kitchens",
-    "id": "0pvmdhc0j79pon",
-    "summary": "- Travis Kalanick shared his vision for CloudKitchens at the [Abundance Summit](http://abundance360.com/summit) in Los Angeles.\n- Kalanick aims to evolve CloudKitchens from providing restaurant spaces to delivering AI-optimized meals directly to customers.\n- He draws parallels between his business model and past industry disruptors like Uber and Zynga.\n- Kalanick expressed concerns about restaurants relying on third-party platforms like Uber Eats and DoorDash.\n- He emphasized the concept of cooking-as-a-service and the goal of making healthy meals universally accessible.\n- AI's role in the future of food services was highlighted, emphasizing real-world applications beyond just digital interactions.\n- Kalanick and fellow entrepreneur Marc Lore are targeting a future where AI enhances meal planning and health monitoring for consumers.\n- Both CloudKitchens and Lore's venture Wonder have raised substantial investments, with Wonder acquiring GrubHub last November.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 8,
-      "impact": 7,
-      "novelty": 9,
-      "longTermSignificance": 8
-    },
-    "keywords": [
-      "Travis Kalanick",
-      "CloudKitchens",
-      "AI",
-      "food delivery",
-      "restaurant industry",
-      "Abundance Summit",
-      "Marc Lore",
-      "Wonder",
-      "cooking-as-a-service",
-      "disruption"
-    ],
-    "sources": [
-      {
-        "title": "Travis Kalanick wants to do a lot more than develop more ghost kitchens",
-        "link": "https://techcrunch.com/2025/03/17/travis-kalanick-wants-to-do-a-lot-more-than-develop-more-ghost-kitchens/"
-      }
-    ],
-    "lastUpdated": "2025-03-17T16:20:44.664Z"
-  },
-  {
-    "title": "Relying on AI chatbots for hospital care is ‘reckless and dangerous’ say human nurses",
-    "id": "0yferwh0fq4p5w",
-    "summary": "- Hospitals increasingly using AI to monitor patient vital signs and assist with care plans, raising concerns among nursing unions.\n- National Nurses United organized over 20 demonstrations advocating for nurses' rights in AI usage and protection from automated advice.\n- AI can cause false alarms and dangerous advice; nurses emphasize the importance of human judgment in patient care.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "AI",
-      "hospital care",
-      "nursing",
-      "patient safety",
-      "healthcare technology",
-      "National Nurses United",
-      "workforce shortages"
-    ],
-    "sources": [
-      {
-        "title": "Relying on AI chatbots for hospital care is ‘reckless and dangerous’ say human nurses",
-        "link": "https://www.fastcompany.com/91299474/relying-ai-chatbots-hospital-care-reckless-dangerous-say-human-nurses?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
-      }
-    ],
-    "lastUpdated": "2025-03-17T16:20:44.664Z"
   }
 ]
