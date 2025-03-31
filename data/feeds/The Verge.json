@@ -4,6 +4,31 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "The Space Race Heats Up: Latest Rocket Launches and News",
+      "link": "https://www.theverge.com/news/637438/space-race-rocket-launches-news",
+      "author": "Emma Roth",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/0007835275_20.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "summary": "- Andoya Spaceport's first orbital launch attempt lasted about 30 seconds before being aborted due to trajectory issues.\n- NASA and Boeing are addressing in-flight anomalies of the Starliner spacecraft before its next flight, expected in 2026.\n- Katy Perry will join others for Blue Origin's first all-female flight on April 14, 2025, aboard the New Shepard rocket.\n- SpaceX Crew-9 and Boeing Starliner astronauts successfully returned to Earth after their respective missions.\n- SpaceX's latest Starship flight test ended in failure as the rocket exploded during its eighth test flight.",
+      "keywords": [
+        "space race",
+        "rocket launches",
+        "NASA",
+        "Boeing",
+        "Blue Origin",
+        "Katy Perry",
+        "SpaceX",
+        "Starliner",
+        "Ariane 6"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-03-31T22:39:52.000Z"
+    },
+    {
       "title": "Robot vacuums are getting upgraded support for Apple Home",
       "link": "https://www.theverge.com/news/640059/apple-ios-update-matter-robot-vacuum-roborock-irobot-ecovacs",
       "author": "Andrew Liszewski",
@@ -2433,29 +2458,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-03-28T16:53:18.000Z"
-    },
-    {
-      "title": "King Arthur wants to automate your sourdough starter",
-      "link": "https://www.theverge.com/news/638390/sourdough-starter-king-arthur-flour-firstbuild-indiegogo",
-      "author": "Dominic Preston",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197794/dominic-preston.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- The Sourdough Sidekick is a countertop appliance that automates the feeding of sourdough starter.\n- It is a project by FirstBuild and King Arthur Baking Company, currently fundraising on [Indiegogo](https://www.indiegogo.com/projects/sourdough-sidekick#/).\n- The device allows precise scheduling to ensure the starter is ready when needed, utilizing a microfeeding schedule to reduce waste.\n- The Sidekick costs $129 or $249 for a pair, with delivery estimated in January 2026 as it's still in prototype stage; it only ships to the US.",
-      "keywords": [
-        "sourdough",
-        "baking",
-        "appliance",
-        "automation",
-        "Indiegogo",
-        "King Arthur",
-        "FirstBuild"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 6,
-        "novelty": 7,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-03-28T15:51:06.000Z"
     }
   ]
 }
