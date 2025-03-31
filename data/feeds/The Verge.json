@@ -4,6 +4,52 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "iOS 18.4 is out now with Apple Intelligence-powered priority notifications",
+      "link": "https://www.theverge.com/news/639849/apple-ios-18-4-intelligence-priority-notifications",
+      "author": "Jay Peters",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_M.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "summary": "- iOS 18.4 introduces priority notifications utilizing Apple Intelligence to highlight important alerts.\n- Notifications are prioritized and appear at the top of the notification stack on the Home Screen.\n- The update expands Apple Intelligence language support to French, German, Italian, Portuguese (Brazil), Spanish, Japanese, Korean, Chinese (simplified), as well as localized English for Singapore and India.\n- Available now on Vision Pro as part of visionOS 2.4, introducing a Vision Pro app for iOS to assist users in finding headset content.\n- Additional features include a recipes section for News Plus subscribers and several enhancements to Photos.",
+      "keywords": [
+        "iOS 18.4",
+        "Apple Intelligence",
+        "priority notifications",
+        "notification system",
+        "software update",
+        "Vision Pro"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-31T17:31:36.000Z"
+    },
+    {
+      "title": "Plex is rolling out its big app redesign",
+      "link": "https://www.theverge.com/news/639839/plex-redesigned-app-android-ios-launch",
+      "author": "Emma Roth",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Plex is rolling out its redesigned mobile app to Android and iOS devices within a week.\n- The new app features an updated navigation system, a Watchlist button, and improved artwork for shows and movies.\n- Improvements include faster load times, scrolling, a sleep timer, and picture-in-picture support.\n- Future updates will allow downloading entire seasons, casting to more devices, and revised UI for ratings and reviews.\n- Plex is also increasing the Plex Pass subscription price to $6.99 starting April 29th, with remote playback now requiring a subscription.",
+      "keywords": [
+        "Plex",
+        "app redesign",
+        "mobile app",
+        "Android",
+        "iOS",
+        "subscription",
+        "streaming service",
+        "user experience"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-03-31T17:14:20.000Z"
+    },
+    {
       "title": "Amazon’s new AI agent is designed to do your shopping",
       "link": "https://www.theverge.com/news/639688/amazon-nova-act-ai-agent-web-browser",
       "author": "Dominic Preston",
@@ -2411,49 +2457,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-03-28T15:13:41.000Z"
-    },
-    {
-      "title": "First Alert’s new smart smoke alarm is meant to be a Google Nest Protect replacement",
-      "link": "https://www.theverge.com/news/638234/first-alert-smart-smoke-alarm-google-nest-protect-replacement",
-      "author": "Jennifer Pattison Tuohy",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/nestprotect-1020-4.1419980263.webp?quality=90&strip=all&crop=0%2C0.3441494591937%2C100%2C99.311701081613&w=2400",
-      "summary": "- First Alert launched a new line of smart smoke and carbon monoxide alarms compatible with Google Home, following the discontinuation of Nest Protect.\n- The Smart Smoke & CO Alarms are priced at $129.99 and come in hardwired or battery-powered options.\n- They feature advanced sensing technology, interconnection with existing Nest Protect alarms, and a notification system for non-connected alarms.\n- Automatic safety checkups, early warnings, and app alerts are included, but they lack presence sensor functionality found in Nest Protect.\n- The alarms use First Alert’s Precision Detection technology and work exclusively with Google apps, phasing out earlier models.\n- Plans regarding compatibility with the Matter smart home standard remain uncertain.\n[Read more here](https://www.theverge.com/news/638234/first-alert-smart-smoke-alarm-google-nest-protect-replacement)",
-      "keywords": [
-        "smart smoke alarm",
-        "First Alert",
-        "Google Nest Protect replacement",
-        "carbon monoxide alarm",
-        "home safety"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-28T15:01:11.000Z"
-    },
-    {
-      "title": "Yale’s new smart lock can match your Google Nest doorbell",
-      "link": "https://www.theverge.com/news/638162/yale-smart-lock-with-matter-works-with-google-home",
-      "author": "Jennifer Pattison Tuohy",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195964/akrales_220906_5191_3741__1_.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Yale has introduced a new smart lock that integrates with Google Home and is compatible with Google’s Nest video doorbells.\n- The lock uses Matter-over-Thread compatibility, which allows it to work with multiple platforms including Apple Home and Amazon Alexa.\n- This smart lock is a full deadbolt replacement priced at $170, and it will be available in gray, white, and black finishes this summer.\n- It operates on four AA batteries with up to 12 months of battery life.\n- The lock lacks built-in Wi-Fi but can connect to Wi-Fi through a separate Yale Connect Wi-Fi Bridge.\n- Through Matter, users can manage access codes and guest access, along with receiving notifications and viewing lock activity history.\n- Yale plans to discontinue the Nest x Yale Lock, which originally launched in 2018; however, existing devices will continue to receive updates.",
-      "keywords": [
-        "Yale",
-        "smart lock",
-        "Google Nest",
-        "Matter",
-        "home automation",
-        "security"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-28T15:00:00.000Z"
     }
   ]
 }
