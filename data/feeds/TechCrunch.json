@@ -4,6 +4,30 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Alphabet’s AI drug discovery platform Isomorphic Labs raises $600M from Thrive",
+      "link": "https://techcrunch.com/2025/03/31/alphabets-ai-drug-discovery-platform-isomorphic-labs-raises-600m-from-thrive/",
+      "author": "null",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2016/07/gettyimages-450853983.jpg?w=1024",
+      "summary": "- Isomorphic Labs, spun out of Google’s DeepMind in 2021, raised $600 million in a funding round led by Thrive Capital.\n- Funding to enhance Isomorphic’s AI drug design engine and advance drugs to clinical trials.\n- Founded by DeepMind co-founder Demis Hassabis, leveraging DeepMind software like AlphaFold.\n- Strategic partnerships with Eli Lilly and Novartis could generate up to $3 billion in milestone payments.\n- Hassabis stated the funding helps acquire top research scientists despite not needing capital.\n- Hassabis and John Jumper received the 2024 Nobel Prize in Chemistry for their work on AlphaFold.",
+      "keywords": [
+        "Isomorphic Labs",
+        "AI drug discovery",
+        "Thrive Capital",
+        "DeepMind",
+        "Demis Hassabis",
+        "investments",
+        "AlphaFold",
+        "drug trials"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-31T20:58:41.000Z"
+    },
+    {
       "title": "Hillary Clinton joins Bluesky",
       "link": "https://techcrunch.com/2025/03/31/hillary-clinton-joins-bluesky/",
       "author": "Amanda Silberling",
@@ -1345,30 +1369,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-28T16:22:59.000Z"
-    },
-    {
-      "title": "OpenAI peels back ChatGPT’s safeguards around image creation",
-      "link": "https://techcrunch.com/2025/03/28/openai-peels-back-chatgpts-safeguards-around-image-creation/",
-      "author": "Maxwell Zeff",
-      "thumbnail": null,
-      "summary": "- OpenAI launched a new image generator in ChatGPT that creates Studio Ghibli-style images.\n- Revised content moderation policies now allow the generation of images depicting public figures and controversial symbols.\n- OpenAI aims for a more nuanced approach to handle sensitive content while allowing user opt-out options.\n- ChatGPT can now fulfill requests related to physical characteristics and generate images with styles of creative studios.\n- Recent changes may impact AI content moderation discussions and regulatory scrutiny under the Trump administration.",
-      "keywords": [
-        "OpenAI",
-        "ChatGPT",
-        "image generation",
-        "content moderation",
-        "AI ethics",
-        "Studio Ghibli",
-        "public figures",
-        "controversial symbols"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-28T16:13:14.000Z"
     }
   ]
 }
