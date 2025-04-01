@@ -4,6 +4,31 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "OpenAI just raised another $40 billion round led by SoftBank",
+      "link": "https://www.theverge.com/news/640259/openai-40-billion-softbank-investment",
+      "author": "Kylie Robison",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197393/GMbiBVSaAAABxU1.0.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- OpenAI raised $40 billion in a new funding round led by SoftBank, reaching a valuation of $300 billion.  \n- Largest funding round for a private tech company in history, according to CNBC.  \n- OpenAI will receive $10 billion initially, with $30 billion more contingent on becoming a for-profit by year’s end.  \n- This funding follows OpenAI's Stargate project, a $500 billion venture for AI datacenters.  \n- OpenAI recently gained 1 million users in one hour due to a new feature in ChatGPT.  \n- Expected revenue jumps from $3.7 billion to $12.7 billion this year, but still not projected to be cash flow positive until 2029.  \n- OpenAI aims to develop AGI that benefits all of humanity, requiring significant resources and funding.",
+      "keywords": [
+        "OpenAI",
+        "funding",
+        "SoftBank",
+        "AI",
+        "ChatGPT",
+        "AGI",
+        "investment",
+        "revenue",
+        "startup"
+      ],
+      "scores": {
+        "scale": 10,
+        "impact": 10,
+        "novelty": 9,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-03-31T23:20:17.000Z"
+    },
+    {
       "title": "The Space Race Heats Up: Latest Rocket Launches and News",
       "link": "https://www.theverge.com/news/637438/space-race-rocket-launches-news",
       "author": "Emma Roth",
@@ -2432,32 +2457,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-28T17:00:00.000Z"
-    },
-    {
-      "title": "Here’s what military planning usually looks like — and why it doesn’t include Signal",
-      "link": "https://www.theverge.com/politics/638419/signal-houthi-group-chat-military-security-scif-encryption",
-      "author": "Matthew Gault",
-      "thumbnail": null,
-      "summary": "- The Trump administration used a Signal group chat to plan a military strike in Yemen, which included classified details about American assets.\n- National Security Advisor Mike Waltz mistakenly invited an *Atlantic* editor into the chat, leading to a leak of sensitive information.\n- Military security protocols require secure communications in SCIFs, not unsecured apps like Signal, which are considered insufficient.\n- Discussion of military operations should occur in secured facilities to prevent surveillance by foreign intelligence agencies.\n- The Pentagon prohibits using unmanaged messaging apps on government devices to protect sensitive information.\n- If devices are compromised, the benefits of Signal's encryption can be rendered useless, exposing sensitive data.\n- The incident raises concerns about the potential for critical military operations to be discussed in insecure environments and the risks of interception by adversaries.",
-      "keywords": [
-        "military planning",
-        "Signal",
-        "group chat",
-        "Trump administration",
-        "Houthi targets",
-        "encryption",
-        "national security",
-        "SCIF",
-        "leaks",
-        "communications security"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-03-28T16:53:18.000Z"
     }
   ]
 }
