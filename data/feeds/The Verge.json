@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "How to calculate your home battery needs for the next blackout",
+      "link": "https://www.theverge.com/tech/638547/home-backup-power-watt-hours-battery-calculator",
+      "author": "Thomas Ricker",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/power-station-wh.jpg?quality=90&strip=all&crop=0%2C4.5360520094563%2C100%2C90.927895981087&w=2400",
+      "summary": "- Understanding watt-hours (Wh) is crucial for calculating battery needs during blackouts.\n- A typical US home consumes about 29.2 kWh per day, necessitating significant battery investment for backup.\n- Many calculators can help estimate your power needs based on essential devices and their usage.\n- Amp-hours (Ah) can be converted to watt-hours using the device's voltage.\n- Most US homes experience about five to eight hours of outages per year, highlighting the importance of reliable power solutions.\n- It's advisable to purchase at least 10% more battery capacity than calculated to cover unexpected usage.\n- Battery systems for homes and RVs vary significantly in capacity and can be expanded as needed for increased power demand.",
+      "keywords": [
+        "batteries",
+        "home power",
+        "watt-hours",
+        "energy independence",
+        "backup power",
+        "blackout solutions",
+        "solar",
+        "calculators"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-04-01T11:00:00.000Z"
+    },
+    {
       "title": "Zuckerberg's Strategy Amid Upcoming EU Fines Against Meta",
       "link": "https://www.theverge.com/news/640368/mark-zuckerberg-meta-eu-fine-trump",
       "author": "Jess Weatherbed",
@@ -2431,27 +2455,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-28T19:11:45.000Z"
-    },
-    {
-      "title": "YouTube tests turning off notifications for channels you don't watch",
-      "link": "https://www.theverge.com/news/638506/youtube-push-notification-test",
-      "author": "Umar Shakir",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195848/UMAR_SHAKIR.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- YouTube is testing disabling push notifications for frequently updating channels that users don't open notifications for.\n- The test specifically targets channels users have notifications set to \"all.\" Notifications for less active channels will remain unaffected.\n- There is uncertainty if users will be notified about missed alerts, with concerns over platform control of user notifications.\n- The test is described as a small experiment with no details on duration or potential wider rollout.",
-      "keywords": [
-        "YouTube",
-        "notifications",
-        "test",
-        "channels",
-        "user experience"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 4,
-        "longTermSignificance": 3
-      },
-      "pubDate": "2025-03-28T18:47:05.000Z"
     }
   ]
 }
