@@ -4,6 +4,52 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Spec-tacular week",
+      "link": "https://www.theverge.com/tech/631190/specs-gadgets-usb-battery-nintendo",
+      "author": "Verge Staff",
+      "thumbnail": null,
+      "summary": "- Explores the impact of standards on technology and productivity.\n- Discusses efficient streaming video codecs and power measurements.\n- Addresses frustrations with Micro USB and its implications on gadget compatibility.",
+      "keywords": [
+        "technology",
+        "standards",
+        "specifications",
+        "gadgets",
+        "productivity",
+        "streaming",
+        "Micro USB"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-04-01T12:19:34.000Z"
+    },
+    {
+      "title": "Why the watt is the most important spec in battery-powered devices",
+      "link": "https://www.theverge.com/tech/638559/watt-vs-mah-battery-measurement",
+      "author": "Sean Hollister",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/DSCF9169-2040x1360-1.jpeg?quality=90&strip=all&crop=0,0,100,100&w=2400",
+      "summary": "- The watt is a crucial metric for understanding the performance of batteries and processors in devices.\n- Manufacturers often prefer using mAh and GHz, which do not accurately reflect a device's power.\n- Example given of the Steam Deck gaming handheld to illustrate how watts determine battery usage and life.\n- Watts indicate energy usage, battery capacity, and cooling requirements for processors.\n- Many companies obscure wattage to present more impressive specifications, leading to consumer confusion about device performance.",
+      "keywords": [
+        "watt",
+        "battery",
+        "consumer electronics",
+        "Steam Deck",
+        "performance metrics",
+        "gadget specifications",
+        "energy consumption"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-01T11:30:00.000Z"
+    },
+    {
       "title": "How to calculate your home battery needs for the next blackout",
       "link": "https://www.theverge.com/tech/638547/home-backup-power-watt-hours-battery-calculator",
       "author": "Thomas Ricker",
@@ -2407,54 +2453,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-03-28T20:16:01.000Z"
-    },
-    {
-      "title": "Side Quest’s creators wanted to tell stories about why people love games",
-      "link": "https://www.theverge.com/tv/638323/apple-tv-plus-side-quest-ashly-burch-john-howell-harris-katie-mcelhenney",
-      "author": "Charles Pulliam-Moore",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/SideQuest_104_F0092F.jpg?quality=90&strip=all&crop=0,0,100,100&w=2400",
-      "summary": "- Apple TV Plus’ new miniseries, *Side Quest*, is a spinoff of *Mythic Quest*, focusing on players’ stories rather than creators.\n- Co-creators Ashly Burch, John Howell Harris, and Katie McElhenney aim to explore relationships with popular games through different character perspectives.\n- The series consists of four episodes, with a theme resembling the earlier *Mythic Quest* episode “A Dark Quiet Death.”\n- The episode “The Last Raid” reflects on real-world friendships and gaming experiences, inspired by classic machinima like *Red vs. Blue*.\n- All episodes of *Side Quest* are available for streaming on Apple TV Plus.",
-      "keywords": [
-        "Side Quest",
-        "Mythic Quest",
-        "Apple TV Plus",
-        "video games",
-        "storytelling",
-        "anthology series",
-        "gaming culture"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-28T19:50:00.000Z"
-    },
-    {
-      "title": "ChatGPT’s Ghibli filter is political now, but it always was",
-      "link": "https://www.theverge.com/tech/638603/studio-ghibli-chatgpt-ai-filter-white-house-meme",
-      "author": "Adi Robertson",
-      "thumbnail": null,
-      "summary": "- The White House used AI-generated images in a controversial post featuring a crying detainee, linking it with ChatGPT's Ghibli filter.\n- The incident reflects a troubling intertwining of generative AI technology and political messaging, particularly amidst Trump's administration.\n- OpenAI's Ghibli filter raises ethical concerns as it appropriates the style of renowned filmmaker Hayao Miyazaki, who opposes AI-generated art.",
-      "keywords": [
-        "ChatGPT",
-        "Studio Ghibli",
-        "AI",
-        "politics",
-        "ethics",
-        "OpenAI",
-        "Miyazaki",
-        "Trump",
-        "social media"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-28T19:11:45.000Z"
     }
   ]
 }
