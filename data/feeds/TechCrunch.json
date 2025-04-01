@@ -4,6 +4,32 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "OpenAI’s new image generator is now available to all users",
+      "link": "https://techcrunch.com/2025/03/31/openais-new-image-generator-is-now-available-to-all-users/",
+      "author": "Ivan Mehta",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+      "summary": "- OpenAI’s new image generator powered by GPT-4o is now available to all users, previously limited to paying ChatGPT users.\n- CEO Sam Altman indicated a potential limit of three images per day for free users.\n- The image generator garnered high demand, leading to claims that the company's GPUs were overstrained.\n- The tool has been used to create images in the style of Studio Ghibli, raising copyright concerns.\n- OpenAI confirmed all generated images contain metadata tracking their origin and acts upon violations of guidelines.\n- The company announced a $40 billion funding round led by SoftBank, achieving a $300 billion valuation, with ChatGPT reaching 500 million weekly active users.",
+      "keywords": [
+        "OpenAI",
+        "image generator",
+        "GPT-4o",
+        "Sam Altman",
+        "ChatGPT",
+        "AI",
+        "funding",
+        "Studio Ghibli",
+        "copyright concerns",
+        "technology"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-01T05:28:21.000Z"
+    },
+    {
       "title": "Construct Capital raises $300M fund for defense and manufacturing tech",
       "link": "https://techcrunch.com/2025/03/31/construct-capital-raises-300m-fund-for-defense-and-manufacturing-tech/",
       "author": "Dayna Grayson, Rachel Holt",
@@ -1339,30 +1365,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-03-28T19:02:01.000Z"
-    },
-    {
-      "title": "Inside the Rivian Skunkworks Program and Trump's Economic Moves for Tesla",
-      "link": "https://techcrunch.com/2025/03/28/techcrunch-mobility-inside-the-rivian-skunkworks-program-and-trumps-gift-to-tesla/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2019/10/blinky-cat-bird-green.gif?w=680",
-      "summary": "- Elon Musk's ally Trump imposed 25% tariffs on all cars imported to the US, impacting costs for new and used cars.\n- Trump’s tariffs are seen as beneficial for Tesla, which is led by Musk, a supporter during Trump's presidential campaign.\n- Rivian is launching a new micromobility startup called Also, with $105 million funding from Eclipse Ventures and minority ownership from Rivian's founder RJ Scaringe.",
-      "keywords": [
-        "Rivian",
-        "Tesla",
-        "Trump",
-        "tariffs",
-        "micromobility",
-        "electric vehicles",
-        "autonomous vehicles",
-        "Waymo"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-28T17:30:00.000Z"
     }
   ]
 }

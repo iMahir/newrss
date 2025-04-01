@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Finally, an e-bike that charges off USB-C",
+      "link": "https://www.theverge.com/news/639681/usb-c-charging-e-bike-ampler-nova-specs-price",
+      "author": "Thomas Ricker",
+      "thumbnail": null,
+      "summary": "- Ampler introduces the Nova and Nova Pro e-bikes with USB-C charging capability.\n- Bikes can charge from 0 to full in about three hours using a USB-C PD 3.1 charger.\n- Prices are €2,990 for the Nova and €3,490 for the Nova Pro, with preorders starting now and shipping in June.",
+      "keywords": [
+        "e-bike",
+        "USB-C charging",
+        "Ampler",
+        "Nova",
+        "Nova Pro",
+        "electric bike",
+        "Europe",
+        "sustainability"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 9,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-01T06:00:00.000Z"
+    },
+    {
       "title": "OpenAI just raised another $40 billion round led by SoftBank",
       "link": "https://www.theverge.com/news/640259/openai-40-billion-softbank-investment",
       "author": "Kylie Robison",
@@ -2433,30 +2457,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-03-28T17:32:40.000Z"
-    },
-    {
-      "title": "A beginner’s guide to using Signal",
-      "link": "https://www.theverge.com/tech/637926/signal-app-how-to-features-encryption",
-      "author": "Allison Johnson",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/IMG_0325_combined.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "- Signal is a messaging app focused on privacy and secure communication.\n- Communication is end-to-end encrypted by default, ensuring message privacy.\n- Signal does not store much user data, protecting against law enforcement inquiries.\n- Unlike some services, Signal only retains the account creation and last usage timestamps.\n- The app is accessible to anyone but is particularly valued by journalists and activists.\n- Users need the app on both sides of a conversation to communicate securely.\n- Signal provides disappearing messages and additional privacy settings to enhance security.",
-      "keywords": [
-        "Signal",
-        "messaging app",
-        "privacy",
-        "encryption",
-        "secure communication",
-        "end-to-end encryption",
-        "data protection",
-        "digital privacy"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-28T17:00:00.000Z"
     }
   ]
 }
