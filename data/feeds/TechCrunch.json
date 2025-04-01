@@ -4,6 +4,78 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "ChatGPT isn’t the only chatbot that’s gaining users",
+      "link": "https://techcrunch.com/2025/04/01/chatgpt-isnt-the-only-chatbot-thats-gaining-users/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- OpenAI's ChatGPT remains the most popular chatbot app, surpassing 500 million weekly active users as of late March.\n- Rival chatbots like Google's Gemini and Microsoft's OpenAI-powered Copilot are also seeing increased usage, with Gemini recording 10.9 million daily visits.\n- Anthropic's Claude reached 3.3 million daily visits, while DeepSeek's chatbot had 16.5 million visits in March.\n- DeepSeek was in second place for traffic despite a 25% drop from February; xAI's Grok surged by nearly 800% month-over-month.\n- Mobile app user growth is also noted, with Claude experiencing a 21% increase after its latest model release, and Gemini's app growing by 42% after launching its new model.\n- AI chatbot apps are fueled by new capabilities and heightened consumer interest according to Sensor Tower's analyst Abraham Yousef.",
+      "keywords": [
+        "ChatGPT",
+        "chatbot",
+        "AI",
+        "Google Gemini",
+        "Microsoft Copilot",
+        "Claude",
+        "DeepSeek",
+        "xAI",
+        "user growth",
+        "mobile apps"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-01T13:00:00.000Z"
+    },
+    {
+      "title": "Lip-Bu Tan says Intel will spin off non-core units",
+      "link": "https://techcrunch.com/2025/04/01/lip-bu-tan-says-intel-will-spin-off-non-core-units/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Intel’s new CEO Lip-Bu Tan announced plans to spin off non-core assets at the Intel Vision conference.\n- The definition of core vs non-core assets was not specified by Tan.\n- Intel will introduce custom semiconductors, but Tan did not mention a company breakup.\n- Tan was appointed CEO on March 12 and started on March 18, succeeding former CEO Pat Gelsinger who was ousted on December 1.",
+      "keywords": [
+        "Intel",
+        "Lip-Bu Tan",
+        "spinoff",
+        "semiconductors",
+        "CEO",
+        "technology"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-01T12:59:47.000Z"
+    },
+    {
+      "title": "Ente wants to take on Google Photos with its privacy-first photo storage service",
+      "link": "https://techcrunch.com/2025/04/01/ente-wants-to-take-on-google-photos-with-its-privacy-first-photo-storage-service/",
+      "author": "Vishnu Mohandas, Ivan Mehta",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/01-home-screen.jpeg?w=343",
+      "summary": "- Ente is a privacy-first, end-to-end encrypted photo storage service founded by former Google employee Vishnu Mohandas.\n- The platform offers 10GB of free storage with paid plans starting at $9.99 per month for 1TB of storage.\n- Ente serves over 150,000 registered users who have collectively stored more than 165 million photos.\n- All processing for features like face and location recognition occurs on-device to enhance privacy.\n- The service allows natural language search for photos and is available on web, Android, iOS, and desktop.\n- Ente is bootstrapped and aims to maintain feature parity with competitors while ensuring user privacy.",
+      "keywords": [
+        "Ente",
+        "photo storage",
+        "privacy",
+        "Google Photos",
+        "Vishnu Mohandas",
+        "end-to-end encryption",
+        "open-source",
+        "cloud storage"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-01T12:26:27.000Z"
+    },
+    {
       "title": "OpenAI’s new image generator is now available to all users",
       "link": "https://techcrunch.com/2025/03/31/openais-new-image-generator-is-now-available-to-all-users/",
       "author": "Ivan Mehta",
@@ -1293,78 +1365,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-28T21:47:15.000Z"
-    },
-    {
-      "title": "Elon Musk says xAI acquired X",
-      "link": "https://techcrunch.com/2025/03/28/elon-musk-says-xai-acquired-x/",
-      "author": "Maxwell Zeff",
-      "thumbnail": null,
-      "summary": "- Elon Musk's xAI has acquired social media platform X (formerly Twitter) in an all-stock deal.\n- The acquisition values xAI at $80 billion and X at $33 billion, factoring in $12 billion in debt.\n- X, which Musk purchased for $44 billion in 2022, has more than 600 million daily active users.\n- The deal integrates data and technologies of xAI and X, suggesting deeper collaboration of their products.",
-      "keywords": [
-        "Elon Musk",
-        "xAI",
-        "X",
-        "acquisition",
-        "AI startup",
-        "Twitter",
-        "social media",
-        "valuation",
-        "data integration"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-03-28T21:33:24.000Z"
-    },
-    {
-      "title": "Fintech VC powerhouse Frank Rotman stepping down from QED Investors to found his own startups",
-      "link": "https://techcrunch.com/2025/03/28/fintech-vc-powerhouse-frank-rotman-stepping-down-from-qed-investors-to-found-his-own-startups/",
-      "author": "Mary Ann Azevedo",
-      "thumbnail": null,
-      "summary": "- Frank Rotman will transition to a partner emeritus role at QED Investors by the end of the year.\n- He plans to focus on founding his own startups, starting with one in the music industry.\n- QED has $4 billion in assets under management and invests exclusively in financial technology companies.\n- Rotman will maintain a part-time advisory role at QED and plans to write a book on startup and VC frameworks.\n- Amias Gerety will be promoted to lead QED’s U.S. investment team.",
-      "keywords": [
-        "Frank Rotman",
-        "QED Investors",
-        "fintech",
-        "startups",
-        "music industry",
-        "venture capital"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-28T21:13:41.000Z"
-    },
-    {
-      "title": "Nintendo announces ‘Legend of Zelda’ movie release date via new app",
-      "link": "https://techcrunch.com/2025/03/28/nintendo-used-its-new-app-to-announce-the-legend-of-zelda-movie-release-date/",
-      "author": "Amanda Silberling",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2023/05/The-Legend-of-Zelda-Tears-of-the-Kingdom-sky-island.jpg?w=1024",
-      "summary": "- Nintendo announced that the live-action ‘The Legend of Zelda’ movie will premiere on March 26, 2027.\n- The announcement was made through the new app, Nintendo Today!, to encourage downloads.\n- The app provides daily news about Nintendo games and customizable preferences for franchises.\n- The strategy follows the success of the ‘Super Mario Bros’ movie, which grossed $1.3 billion with a $100 million budget.\n- ‘Breath of the Wild’ has sold over 34 million copies, demonstrating the franchise's popularity.",
-      "keywords": [
-        "Nintendo",
-        "Legend of Zelda",
-        "movie",
-        "release date",
-        "Nintendo Today app",
-        "Shigeru Miyamoto",
-        "Super Mario Bros",
-        "Breath of the Wild",
-        "gaming industry"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-03-28T19:02:01.000Z"
     }
   ]
 }
