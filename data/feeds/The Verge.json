@@ -4,6 +4,27 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Micro USB is the bane of my existence",
+      "link": "https://www.theverge.com/tech/638566/micro-usb-is-the-worst",
+      "author": "Victoria Song",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/71N4ufNbbaL._AC_SL1500_.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "* The author expresses frustration with the continued use of Micro USB ports in gadgets after USB-C became mainstream.\n* USB-C was introduced in 2014, yet many devices still rely on Micro USB, including recent tech products.\n* The European Union has mandated that all new devices sold in the EU must support USB-C charging to reduce e-waste.\n* The regulation applies to various devices but still allows for proprietary chargers, complicating the transition away from Micro USB.\n* Adoption of USB-C is improving and is expected to continue, but consumers still face challenges with existing Micro USB products.",
+      "keywords": [
+        "Micro USB",
+        "USB-C",
+        "tech frustration",
+        "European Union regulation",
+        "e-waste reduction"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-02T11:00:00.000Z"
+    },
+    {
       "title": "Valve fixes Steam Deck update that caused boot loops",
       "link": "https://www.theverge.com/news/641241/steam-deck-update-client-boot-loop-tdp-gpu-clock",
       "author": "Dominic Preston",
@@ -1125,30 +1146,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-31T17:31:36.000Z"
-    },
-    {
-      "title": "Plex is rolling out its big app redesign",
-      "link": "https://www.theverge.com/news/639839/plex-redesigned-app-android-ios-launch",
-      "author": "Emma Roth",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Plex is rolling out its redesigned mobile app to Android and iOS devices within a week.\n- The new app features an updated navigation system, a Watchlist button, and improved artwork for shows and movies.\n- Improvements include faster load times, scrolling, a sleep timer, and picture-in-picture support.\n- Future updates will allow downloading entire seasons, casting to more devices, and revised UI for ratings and reviews.\n- Plex is also increasing the Plex Pass subscription price to $6.99 starting April 29th, with remote playback now requiring a subscription.",
-      "keywords": [
-        "Plex",
-        "app redesign",
-        "mobile app",
-        "Android",
-        "iOS",
-        "subscription",
-        "streaming service",
-        "user experience"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-31T17:14:20.000Z"
     }
   ]
 }
