@@ -4,6 +4,39 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "DeepMind’s 145-page paper on AGI safety may not convince skeptics",
+      "link": "https://techcrunch.com/2025/04/02/deepminds-145-page-paper-on-agi-safety-may-not-convince-skeptics/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Google DeepMind published a 145-page paper on AGI safety, predicting AGI could arrive by 2030.\n- The paper discusses potential severe harms of AGI, including existential risks that could destroy humanity.\n- DeepMind contrasts its risk mitigation approach with those of Anthropic and OpenAI, highlighting differences in emphasis on AI safety strategies.\n- The authors express skepticism about the emergence of superintelligent AI without significant innovations.\n- Proposed techniques include blocking bad actors from AGI access and improving understanding of AI actions, although many techniques are still in the early stages.\n- Some experts dispute the premises of the paper, arguing AGI is ill-defined and that recursive AI improvement lacks evidence.",
+      "keywords": [
+        "AGI",
+        "DeepMind",
+        "AI safety",
+        "Shane Legg",
+        "existential risks",
+        "AI research",
+        "recursive improvement"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-04-02T15:57:35.000Z"
+    },
+    {
+      "title": "A new security fund opens up to help protect the fediverse",
+      "link": "https://techcrunch.com/2025/04/02/a-new-security-fund-opens-up-to-help-protect-the-fediverse/",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-04-02T15:20:00.000Z"
+    },
+    {
       "title": "Khosla’s Keith Rabois leads $11.5M Series A for startup Roam, calls it ‘the future of the housing market’",
       "link": "https://techcrunch.com/2025/04/02/khoslas-keith-rabois-leads-11-5m-series-a-for-startup-roam-calls-it-the-future-of-the-housing-market/",
       "author": null,
@@ -2107,53 +2140,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-03-31T17:38:41.000Z"
-    },
-    {
-      "title": "Blue Origin prepping second New Glenn launch in ‘late spring’",
-      "link": "https://techcrunch.com/2025/03/31/blue-origin-prepping-second-new-glenn-launch-in-late-spring/",
-      "author": "Sean O’Kane",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/blue-origin-new-glenn.jpg?w=1024",
-      "summary": "- Blue Origin is preparing for a second launch of the New Glenn rocket in late spring 2025.\n- The company has identified seven corrective actions following the booster stage failure during the inaugural flight in January.\n- New Glenn is designed to reach orbit and aims to compete with SpaceX in the launch market.",
-      "keywords": [
-        "Blue Origin",
-        "New Glenn",
-        "rocket launch",
-        "space",
-        "Jeff Bezos",
-        "booster failure",
-        "FAA",
-        "SpaceX"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-31T17:24:21.000Z"
-    },
-    {
-      "title": "API Testing Firm APIsec Exposed Customer Data During Security Lapse",
-      "link": "https://techcrunch.com/2025/03/31/api-testing-firm-apisec-exposed-customer-data-during-security-lapse/",
-      "author": "Zack Whittaker",
-      "thumbnail": null,
-      "summary": "- API testing firm APIsec confirmed a security lapse exposing an internal database of customer data for several days.\n- The exposed database contained names and email addresses of employees from APIsec's clients and security posture details.\n- UpGuard discovered the exposed database on March 5 and reported it the same day; APIsec secured it soon after.\n- APIsec's founder initially claimed the data was only 'test data' but later acknowledged the presence of real customer data.\n- The database also contained sensitive information such as AWS keys and other credentials, but APIsec claimed they were linked to a former employee.",
-      "keywords": [
-        "APIsec",
-        "data breach",
-        "customer data",
-        "security lapse",
-        "UpGuard",
-        "API testing",
-        "exposed database"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-03-31T17:01:00.000Z"
     }
   ]
 }
