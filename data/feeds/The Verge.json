@@ -4,6 +4,58 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Tesla’s sales plummet 13 percent as Musk backlash grows",
+      "link": "https://www.theverge.com/news/641311/tesla-q1-2025-delivery-production-sales-slump-musk",
+      "author": "Andrew J. Hawkins",
+      "thumbnail": null,
+      "summary": "- Tesla's sales fell 13% year over year in Q1 2025, producing 362,615 vehicles and delivering 336,681.\n- Deliveries included 323,800 Model 3 and Model Y vehicles, marking a 12.9% decline from Q1 2024.\n- The report was Tesla's worst in three years, with stock dropping nearly 36% in 2025.\n- Sales in Europe down nearly 43% year over year; China saw a decline until the last week of the quarter.\n- Other automakers report strong EV sales; General Motors sold nearly 32,000 EVs in Q1, doubling year over year.\n- Musk's political controversies and protests against the company are impacting sales, with a movement aimed at boycotting Tesla.\n- Musk plans to launch an “unsupervised” robotaxi pilot in June in Austin, Texas, amid skepticism about autonomous driving technology.",
+      "keywords": [
+        "Tesla",
+        "sales slump",
+        "Elon Musk",
+        "Q1 2025",
+        "auto industry",
+        "electric vehicles",
+        "stock market",
+        "protests",
+        "robotaxi",
+        "controversy"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-02T13:05:50.000Z"
+    },
+    {
+      "title": "Adobe launches Premiere Pro’s generative AI video extender",
+      "link": "https://www.theverge.com/news/641270/adobe-premiere-pro-generative-extend-generally-available",
+      "author": "Jess Weatherbed",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Media-Intelligence-Search-Panel-3.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "summary": "- Adobe Premiere Pro version 25.2 is launched with AI-powered features for improved video editing.\n- Introduces Generative Extend, allowing two seconds of clip extension and ambient audio extension.\n- Generative Extend is free for a limited time; later requires Firefly credits based on video format and resolution.\n- New AI-powered Search panel to recognize and search video content using descriptive text.\n- Premiere Color Management tool introduced for better editing experience with log and raw files.\n- Automatic translation of video captions into 27 languages with multiple track display capability during editing.\n- Enhanced performance for both Apple silicon and Windows devices.\n- Accompanied by After Effects 25.2 with new HDR features and improved caching for previewing longer compositions.",
+      "keywords": [
+        "Adobe",
+        "Premiere Pro",
+        "AI",
+        "video editing",
+        "Generative AI",
+        "Firefly",
+        "video extension",
+        "automatic translation",
+        "After Effects",
+        "HDR"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-04-02T13:00:00.000Z"
+    },
+    {
       "title": "Everything revealed during the Nintendo Switch 2 Direct",
       "link": "https://www.theverge.com/nintendo/638604/nintendo-switch-2-direct-news-trailers-stream",
       "author": "Ash Parrish",
@@ -1104,52 +1156,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-31T21:41:05.000Z"
-    },
-    {
-      "title": "Microsoft expands AI features across Intel and AMD-powered Copilot Plus PCs",
-      "link": "https://www.theverge.com/news/640028/microsoft-copilot-plus-pcs-ai-intel-amd-rollout",
-      "author": "Emma Roth",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Microsoft releases AI features on Copilot Plus PCs with Intel and AMD chips.\n- Key feature: Live Captions translates audio to English subtitles in real time.\n- Live Captions available from latest Windows 11 update.\n- New tool Cocreator in Paint generates images based on text descriptions.\n- Access to AI image editor and generator in the Photos app is expanded.\n- Features were earlier limited to devices with Qualcomm chips.\n- Ongoing testing of the Recall feature for searching screenshots from activities.",
-      "keywords": [
-        "Microsoft",
-        "AI",
-        "Copilot Plus",
-        "Intel",
-        "AMD",
-        "Live Captions",
-        "Windows 11",
-        "Cocreator",
-        "Photos app"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-31T19:45:49.000Z"
-    },
-    {
-      "title": "SwitchBot’s smart button pusher is 30 percent off for Amazon’s Big Spring Sale",
-      "link": "https://www.theverge.com/tech/639683/switchbot-bot-smart-switch-button-pusher-amazon-big-spring-2025-deal-sale",
-      "author": "Sheena Vasani",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195108/Screen_Shot_2021-09-15_at_10.36.08_AM.0.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- The SwitchBot Bot is on sale for $20.99 (originally $29.99) using promo code BKLP15 or $22.49 on Amazon.\n- It automates devices with buttons, including garage doors, light switches, and appliances.\n- Supports voice commands via Amazon Alexa, Google Assistant, and Siri when paired with a SwitchBot hub.\n- Does not work on toggle switches and requires a separate hub for remote control.\n- The SwitchBot Hub Mini is also on sale for $27.99.",
-      "keywords": [
-        "SwitchBot",
-        "smart button pusher",
-        "Amazon sale",
-        "tech gadgets",
-        "home automation"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-03-31T19:12:41.000Z"
     }
   ]
 }
