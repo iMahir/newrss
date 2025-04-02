@@ -4,6 +4,31 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "AI bots strain Wikimedia as bandwidth surges 50%",
+      "link": "https://arstechnica.com/information-technology/2025/04/ai-bots-strain-wikimedia-as-bandwidth-surges-50/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- AI crawlers are increasingly bypassing rules like robots.txt, leading to significant challenges for Wikimedia's Site Reliability team.\n- Wikimedia faces a 50% surge in bandwidth use due to bot traffic, diverting resources from supporting contributors and improving technology.\n- The foundation is advocating for responsible infrastructure use and exploring solutions such as collaborative blocklists and dedicated APIs to mitigate the impact of AI scraping.",
+      "keywords": [
+        "AI",
+        "Wikimedia",
+        "bandwidth",
+        "crawlers",
+        "scraping",
+        "infrastructure",
+        "technology",
+        "content",
+        "open knowledge"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-02T17:06:06.000Z"
+    },
+    {
       "title": "MCP: The new “USB-C for AI” that’s bringing fierce rivals together",
       "link": "https://arstechnica.com/information-technology/2025/04/mcp-the-new-usb-c-for-ai-thats-bringing-fierce-rivals-together/",
       "author": "Benj Edwards",
@@ -1130,28 +1155,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-02-18T21:04:55.000Z"
-    },
-    {
-      "title": "What is device code phishing, and why are Russian spies so successful at it?",
-      "link": "https://arstechnica.com/information-technology/2025/02/russian-spies-use-device-code-phishing-to-hijack-microsoft-accounts/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Researchers have uncovered a phishing campaign by Russian spies targeting Microsoft 365 accounts using a technique called device code phishing.\n- Device code phishing exploits OAuth's device code flow, designed for devices that don't support browsers (e.g., printers, smart TVs).\n- Adversaries have been using this method since at least last August, impersonating trusted officials to initiate conversations on messaging apps.",
-      "keywords": [
-        "device code phishing",
-        "Russian spies",
-        "Microsoft 365",
-        "OAuth",
-        "cybersecurity",
-        "phishing campaign"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-14T21:16:11.000Z"
     }
   ]
 }
