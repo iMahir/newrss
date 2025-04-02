@@ -4,6 +4,50 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Valve fixes Steam Deck update that caused boot loops",
+      "link": "https://www.theverge.com/news/641241/steam-deck-update-client-boot-loop-tdp-gpu-clock",
+      "author": "Dominic Preston",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197794/dominic-preston.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Valve issued a corrective update for the Steam client on Steam Decks after previous update caused boot loops.\n- The problematic update was released on April 1st, following a SteamOS update on March 31st.\n- Users reported issues with boot loops and missing GPU clock speed settings through Reddit and GitHub.\n- Valve re-released the client update to fix these issues and also released updates to the beta channel for the same problems.",
+      "keywords": [
+        "Steam Deck",
+        "Valve",
+        "update",
+        "boot loops",
+        "gaming",
+        "Steam client",
+        "performance issues"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-04-02T09:02:48.000Z"
+    },
+    {
+      "title": "Roblox will let parents block people on their child’s friends list",
+      "link": "https://www.theverge.com/news/641167/roblox-parental-controls-block-friends-experiences",
+      "author": "Jay Peters",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195819/JAY_PETERS.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Roblox introduces new parental controls to allow parents to block users on their child's friends list.\n- Parents can now block their children from accessing specific games and experiences.\n- Children under 13 cannot unblock users or experiences that have been blocked by parents, but can request unblocking.\n- Parents can view the 20 experiences their children have spent the most time in during the past week.\n- These updates follow previous changes aimed at enhancing child safety on the platform.",
+      "keywords": [
+        "Roblox",
+        "parental controls",
+        "child safety",
+        "friends list",
+        "gaming"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-02T09:00:00.000Z"
+    },
+    {
       "title": "Motorola’s first Edge 60 phone feels like canvas",
       "link": "https://www.theverge.com/news/640653/motorola-edge-60-fusion-launch-canvas-finish",
       "author": "Dominic Preston",
@@ -1105,52 +1149,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-03-31T17:14:20.000Z"
-    },
-    {
-      "title": "Amazon’s new AI agent is designed to do your shopping",
-      "link": "https://www.theverge.com/news/639688/amazon-nova-act-ai-agent-web-browser",
-      "author": "Dominic Preston",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197794/dominic-preston.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Amazon has launched a new AI model, **Nova Act**, for online shopping tasks in the browser, currently available in a research preview for developers.\n- Nova Act can perform web searches, make purchases, and execute detailed instructions, such as avoiding upsells during a transaction.\n- This model is part of Amazon's **Artificial General Intelligence (AGI) Labs**, which aims to enable agents to manage complex tasks, with the aspiration of enhancing business productivity.\n- Nova Act is the first product released following the announcement of five Nova models in December 2024, focusing on speed and cost-effectiveness compared to competitors.\n- Amazon is also providing easier access to their AI models through a new website for developers, who previously accessed them via Amazon Bedrock.",
-      "keywords": [
-        "AI",
-        "Amazon",
-        "Nova Act",
-        "shopping agent",
-        "Artificial General Intelligence",
-        "developers",
-        "online purchases"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-03-31T16:01:47.000Z"
-    },
-    {
-      "title": "Alexa Plus just launched in early access, but it’s missing some features",
-      "link": "https://www.theverge.com/news/639697/amazon-alexa-plus-launch-early-access-missing-features",
-      "author": "Emma Roth",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Amazon has launched its AI-powered **Alexa Plus** in early access for a limited number of customers.\n- The service lacks some advertised features such as budgeting gift ideas and grocery ordering.\n- Currently available only on **Echo Show 8, 10, 15, and 21** devices, with capabilities like ordering Uber and document summarization.\n- **Alexa Plus** subscription costs **$19.99 per month**, also free for Prime members.\n- Features are expected to be launched in waves over time, with ongoing improvements planned.",
-      "keywords": [
-        "Alexa Plus",
-        "Amazon",
-        "early access",
-        "AI",
-        "Echo devices",
-        "features",
-        "subscription service"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-03-31T15:58:23.000Z"
     }
   ]
 }
