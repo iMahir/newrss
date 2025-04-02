@@ -4,6 +4,80 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Space solar startup Aetherflux raises $50M to launch first space demo in 2026",
+      "link": "https://techcrunch.com/2025/04/02/space-solar-startup-aetherflux-raises-50m-to-launch-first-space-demo-in-2026/",
+      "author": "Rebecca Bellan",
+      "thumbnail": null,
+      "summary": "- Aetherflux raised $50 million in a Series A funding round to launch its first low Earth orbit demonstration in 2026.\n- Founded by Baiju Bhatt, the startup aims to deploy a constellation of satellites to collect and transmit solar energy to Earth.\n- The funding round was led by Index Ventures and Interlagos, with investments from notable entities including Bill Gates’s Breakthrough Energy Ventures and Andressen Horowitz.\n- The total funding for Aetherflux now stands at $60 million, including Bhatt's personal investment of $10 million.\n- Aetherflux plans to use the funds to hire more engineers and enhance their technology and infrastructure for upcoming missions.\n- The first ground station's location is still under evaluation, focusing on military sites for controlled air space.\n- The startup aims to demonstrate end-to-end power linking by showing electricity on the ground from space.\n- Previous attempts to send solar power from space have been limited, with Caltech successfully demonstrating wireless power transfer via microwaves in 2023.",
+      "keywords": [
+        "Aetherflux",
+        "solar energy",
+        "space demonstration",
+        "funding",
+        "Baiju Bhatt",
+        "low Earth orbit",
+        "ground stations",
+        "renewable energy",
+        "innovation",
+        "NASA"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-02T21:07:39.000Z"
+    },
+    {
+      "title": "Stablecoin issuer Circle takes another stab at a public listing",
+      "link": "https://techcrunch.com/2025/04/02/stablecoin-issuer-circle-takes-another-stab-at-a-public-listing/",
+      "author": "Marina Temkin",
+      "thumbnail": null,
+      "summary": "- Circle, issuer of USDC, filed to go public on April 2, 2025.\n- 2024 revenue and reserve income reached $1.68 billion, up from $1.45 billion in 2023.\n- Circle's previous public listing attempt in 2022 with a SPAC was scrapped due to SEC delays.\n- The company aims to raise $750 million in its IPO according to estimates.\n- Approximately $60 billion worth of USDC is currently in circulation.\n- IPO plans coincide with a supportive stance on crypto assets from the Trump administration.",
+      "keywords": [
+        "Circle",
+        "USDC",
+        "IPO",
+        "cryptocurrency",
+        "SEC",
+        "public listing",
+        "SPAC",
+        "revenue",
+        "finance"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-04-02T21:00:34.000Z"
+    },
+    {
+      "title": "OpenAI’s o3 model might be costlier to run than originally estimated",
+      "link": "https://techcrunch.com/2025/04/02/openais-o3-model-might-be-costlier-to-run-than-originally-estimated/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- OpenAI's o3 AI model was introduced in December with revised costs now expected to be around $30,000 per task, up from $3,000.\n- The model's performance compared to OpenAI's o1-pro model has raised concerns about high operational costs for sophisticated AI models.\n- o3 high utilized 172 times more computing resources than the lowest configuration, o3 low, to tackle benchmarks.\n- Potential subscription costs for specialized AI agents may reach up to $20,000 per month for enterprise customers.\n- The efficiency of these AI models is questioned, with o3 high requiring 1,024 attempts to achieve optimal results.",
+      "keywords": [
+        "OpenAI",
+        "o3 model",
+        "AI costs",
+        "ARC-AGI",
+        "AI pricing",
+        "enterprise AI",
+        "AI efficiency"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-02T20:21:25.000Z"
+    },
+    {
       "title": "Epic Games CEO calls Apple and Google ‘gangster-style’ businesses in need of competition",
       "link": "https://techcrunch.com/2025/04/02/epic-games-ceo-calls-apple-and-google-gangster-style-businesses-in-need-of-competition/",
       "author": "Tim Sweeney",
@@ -2044,78 +2118,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-04-01T12:26:27.000Z"
-    },
-    {
-      "title": "OpenAI’s new image generator is now available to all users",
-      "link": "https://techcrunch.com/2025/03/31/openais-new-image-generator-is-now-available-to-all-users/",
-      "author": "Ivan Mehta",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-      "summary": "- OpenAI’s new image generator powered by GPT-4o is now available to all users, previously limited to paying ChatGPT users.\n- CEO Sam Altman indicated a potential limit of three images per day for free users.\n- The image generator garnered high demand, leading to claims that the company's GPUs were overstrained.\n- The tool has been used to create images in the style of Studio Ghibli, raising copyright concerns.\n- OpenAI confirmed all generated images contain metadata tracking their origin and acts upon violations of guidelines.\n- The company announced a $40 billion funding round led by SoftBank, achieving a $300 billion valuation, with ChatGPT reaching 500 million weekly active users.",
-      "keywords": [
-        "OpenAI",
-        "image generator",
-        "GPT-4o",
-        "Sam Altman",
-        "ChatGPT",
-        "AI",
-        "funding",
-        "Studio Ghibli",
-        "copyright concerns",
-        "technology"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 8,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-01T05:28:21.000Z"
-    },
-    {
-      "title": "Construct Capital raises $300M fund for defense and manufacturing tech",
-      "link": "https://techcrunch.com/2025/03/31/construct-capital-raises-300m-fund-for-defense-and-manufacturing-tech/",
-      "author": "Dayna Grayson, Rachel Holt",
-      "thumbnail": null,
-      "summary": "- Construct Capital has closed its third fund, raising $300 million for investments in technology-driven startups in defense and manufacturing.\n- The firm previously raised $225 million and $75 million for different investment stages in 2022.\n- Interest from institutional investors is growing in VC firms focused on defense tech due to increasing geopolitical tensions and domestic manufacturing initiatives.\n- Founded in 2020, Construct has invested in companies like Hadrian and Veho.",
-      "keywords": [
-        "Construct Capital",
-        "venture capital",
-        "defense technology",
-        "manufacturing",
-        "investment fund"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-01T00:26:05.000Z"
-    },
-    {
-      "title": "Fashion startup CaaStle appears to be in trouble",
-      "link": "https://techcrunch.com/2025/03/31/fashion-startup-caastle-appears-to-be-in-trouble/",
-      "author": "Not given",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2018/03/gwynnie-bee.jpg?w=1024",
-      "summary": "- CaaStle, founded in 2011, shifted from a plus-sized clothing subscription service to inventory monetization for retailers in 2018.\n- The startup is reportedly facing financial troubles, with CEO Christine Hunsicker resigning and law enforcement investigating alleged financial misconduct.\n- CaaStle has almost run out of funds and currently has no open job roles listed on its job board, indicating potential issues.\n- The company raised over $530 million since its inception, with its last funding round of $43 million occurring in 2019.\n- Experts suggest that 2025 is likely to be a challenging year for startups, aligning with CaaStle's struggles.",
-      "keywords": [
-        "CaaStle",
-        "startup",
-        "financial troubles",
-        "subscription service",
-        "CEO resignation",
-        "financial misconduct",
-        "investment",
-        "retailers",
-        "2025 startup landscape"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-03-31T22:30:33.000Z"
     }
   ]
 }
