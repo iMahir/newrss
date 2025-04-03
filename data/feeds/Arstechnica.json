@@ -4,6 +4,30 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Google unveils end-to-end messages for Gmail. Only thing is: It’s not true E2EE.",
+      "link": "https://arstechnica.com/security/2025/04/are-new-google-e2ee-emails-really-end-to-end-encrypted-kinda-but-not-really/",
+      "author": "Dan Goodin",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2018/10/Dang.jpg",
+      "summary": "- Google's new E2EE feature for Gmail allows end-user device encryption for emails but is not true end-to-end encryption (E2EE).\n- Emails are encrypted in the sender's browser, but key management is under the organization’s control.\n- The feature simplifies compliance for businesses dealing with regulations but is not designed for consumer use or privacy-focused users.",
+      "keywords": [
+        "Google",
+        "Gmail",
+        "end-to-end encryption",
+        "E2EE",
+        "security",
+        "privacy",
+        "S/MIME",
+        "email encryption"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-04-03T21:16:49.000Z"
+    },
+    {
       "title": "AI bots strain Wikimedia as bandwidth surges 50%",
       "link": "https://arstechnica.com/information-technology/2025/04/ai-bots-strain-wikimedia-as-bandwidth-surges-50/",
       "author": null,
@@ -1130,31 +1154,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-19T21:21:06.000Z"
-    },
-    {
-      "title": "Microsoft warns that the powerful XCSSET macOS malware is back with new tricks",
-      "link": "https://arstechnica.com/security/2025/02/microsoft-warns-that-the-powerful-xcsset-macos-malware-is-back-with-new-tricks/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Microsoft reports that XCSSET macOS malware has been upgraded with enhanced features.\n- New capabilities include targeting digital wallets, collecting data from the Notes app, and exfiltrating system information.\n- Microsoft Defender for Endpoint on Mac now detects this new variant, with future indicators of compromise to be provided.\n- Developers are advised to inspect all Xcode projects downloaded from repositories to avoid malware infections.",
-      "keywords": [
-        "XCSSET",
-        "macOS",
-        "malware",
-        "Microsoft",
-        "cybersecurity",
-        "data exfiltration",
-        "Xcode",
-        "developers",
-        "malicious software"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-02-18T21:04:55.000Z"
     }
   ]
 }
