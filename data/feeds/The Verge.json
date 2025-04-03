@@ -4,6 +4,54 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "AV1 is supposed to make streaming better, so why isn’t everyone using it?",
+      "link": "https://www.theverge.com/tech/635020/av1-streaming-netflix-youtube-google-adoption",
+      "author": "Emma Roth",
+      "thumbnail": null,
+      "summary": "- AV1 was developed in 2015 by tech giants like Netflix, Google, and Amazon to improve video streaming efficiency.\n- The codec offers around 30% better coding efficiency compared to H.265 and VP9, and is royalty-free.\n- Despite its advantages, major platforms like Max and Paramount Plus have yet to adopt AV1.\n- AV1 has seen use on platforms like YouTube and Netflix since its debut, with notable support in 4K and 8K streaming.\n- Hardware support is a challenge, as devices need to support AV1 either through dedicated hardware or resource-intensive software solutions.\n- Various companies like Apple and Nvidia have introduced devices with AV1 compatibility, but adoption remains inconsistent across the industry.\n- AOMedia states that about 95% of Netflix’s content is encoded with AV1, while only 50% of YouTube videos use it.\n- Newer codecs like VVC offer greater compression but are not royalty-free, contrasting with AV1’s current standing.\n- Concerns persist about the efficiency trade-offs in encoding and potential licensing complexities in AV1’s future.",
+      "keywords": [
+        "AV1",
+        "streaming",
+        "video codec",
+        "compression",
+        "Netflix",
+        "YouTube",
+        "AOMedia",
+        "technology",
+        "video efficiency"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-03T11:00:00.000Z"
+    },
+    {
+      "title": "Google's NotebookLM can now find its own sources",
+      "link": "https://www.theverge.com/news/642490/google-notebooklm-discover-sources-ai-audio-overviews",
+      "author": "Jess Weatherbed",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195820/JESSICA_WEATHERBED.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Google introduced a new feature in NotebookLM that allows the AI tool to find its own web sources for summarization.\n- The 'Discover' feature started rolling out on Wednesday and is expected to reach all users within a week.\n- NotebookLM can analyze hundreds of web sources in seconds and provide up to ten relevant recommendations.\n- Users can select sources for use in various features, including FAQs, Briefing Docs, and podcast-style Audio Overviews.\n- The 'I’m Feeling Curious' button prompts NotebookLM to generate random sources for exploration.",
+      "keywords": [
+        "Google",
+        "NotebookLM",
+        "AI",
+        "note-taking",
+        "Discover feature",
+        "web sources",
+        "technology"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-03T10:48:46.000Z"
+    },
+    {
       "title": "Amazon is ready to launch its Starlink competitor",
       "link": "https://www.theverge.com/news/642456/amazon-is-ready-to-launch-its-starlink-competitor",
       "author": "Thomas Ricker",
@@ -1083,50 +1131,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-04-02T11:00:00.000Z"
-    },
-    {
-      "title": "Valve fixes Steam Deck update that caused boot loops",
-      "link": "https://www.theverge.com/news/641241/steam-deck-update-client-boot-loop-tdp-gpu-clock",
-      "author": "Dominic Preston",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197794/dominic-preston.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Valve issued a corrective update for the Steam client on Steam Decks after previous update caused boot loops.\n- The problematic update was released on April 1st, following a SteamOS update on March 31st.\n- Users reported issues with boot loops and missing GPU clock speed settings through Reddit and GitHub.\n- Valve re-released the client update to fix these issues and also released updates to the beta channel for the same problems.",
-      "keywords": [
-        "Steam Deck",
-        "Valve",
-        "update",
-        "boot loops",
-        "gaming",
-        "Steam client",
-        "performance issues"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-04-02T09:02:48.000Z"
-    },
-    {
-      "title": "Roblox will let parents block people on their child’s friends list",
-      "link": "https://www.theverge.com/news/641167/roblox-parental-controls-block-friends-experiences",
-      "author": "Jay Peters",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195819/JAY_PETERS.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Roblox introduces new parental controls to allow parents to block users on their child's friends list.\n- Parents can now block their children from accessing specific games and experiences.\n- Children under 13 cannot unblock users or experiences that have been blocked by parents, but can request unblocking.\n- Parents can view the 20 experiences their children have spent the most time in during the past week.\n- These updates follow previous changes aimed at enhancing child safety on the platform.",
-      "keywords": [
-        "Roblox",
-        "parental controls",
-        "child safety",
-        "friends list",
-        "gaming"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-02T09:00:00.000Z"
     }
   ]
 }
