@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Amazon is ready to launch its Starlink competitor",
+      "link": "https://www.theverge.com/news/642456/amazon-is-ready-to-launch-its-starlink-competitor",
+      "author": "Thomas Ricker",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/kuiper-terminal-hero.jpg?quality=90&strip=all&crop=0,0,100,100&w=2400",
+      "summary": "- First batch of 27 Project Kuiper satellites scheduled to launch next week.\n- Launch set for April 9th at 12pm ET from Cape Canaveral Space Force Station, using an Atlas V rocket.\n- Amazon plans to offer high-speed internet service later this year, with speeds up to 100Mbps on a 7-inch terminal.\n- Larger dishes for residential use can reach speeds of 1Gbps, expected to be priced under $400 each.\n- Amazon's satellite system will have over 3,200 LEO satellites, orbiting at 17,000 mph.\n- Satellites feature a unique coating to reduce visibility to ground-based astronomers.\n- This mission marks a significant test with many satellites being deployed at once, providing a learning opportunity for future launches.",
+      "keywords": [
+        "Amazon",
+        "Project Kuiper",
+        "satellite internet",
+        "low earth orbit",
+        "Starlink",
+        "high-speed internet",
+        "Arianespace",
+        "SpaceX"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-04-03T09:27:23.000Z"
+    },
+    {
       "title": "What will the Switch 2 cost after the Trump tariffs?",
       "link": "https://www.theverge.com/news/642459/switch-2-price-donald-trump-tariffs-china-vietnam-cambodia",
       "author": "Dominic Preston",
@@ -1103,30 +1127,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-04-02T09:00:00.000Z"
-    },
-    {
-      "title": "Motorola’s first Edge 60 phone feels like canvas",
-      "link": "https://www.theverge.com/news/640653/motorola-edge-60-fusion-launch-canvas-finish",
-      "author": "Dominic Preston",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197794/dominic-preston.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Motorola announces the Edge 60 Fusion, priced at £299.99 (around $390).\n- The phone features a unique faux-canvas finish, available only in the teal version, with other colors in faux leather.\n- It has IP68 and 69 ratings for dust and water resistance.\n- The device is slim, under 8mm thick, with a 5,200mAh battery and a 6.67-inch OLED screen.\n- RAM options up to 12GB and storage up to 512GB are available, using a MediaTek Dimensity chipset (7300 or 7400).\n- Camera setup includes a 50MP main lens and a 13MP ultrawide, but limited to four sensors accounting for flash and flicker sensor.\n- Expected to be first of the Edge 60 series, with previous models not launched in the US.",
-      "keywords": [
-        "Motorola",
-        "Edge 60",
-        "smartphone",
-        "faux-canvas finish",
-        "IP68",
-        "MediaTek Dimensity",
-        "5G",
-        "OLED screen"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 8,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-04-02T05:30:00.000Z"
     }
   ]
 }
