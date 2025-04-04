@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Amazon’s new AI agent will shop third-party sites for you",
+      "link": "https://techcrunch.com/2025/04/03/amazons-new-ai-agent-will-shop-third-party-stores-for-you/",
+      "author": "Maxwell Zeff",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/04/AmazonBFM.jpg?w=680",
+      "summary": "- Amazon is testing a new AI shopping agent called “Buy for Me” with a subset of users.\n- The feature helps users find products sold on third-party websites if they are not available on Amazon.\n- The AI agent can autonomously visit external sites and fill in user details for purchases.\n- It aims to enhance Amazon's e-commerce reach and improve shopping convenience.\n- The AI works using Amazon's Nova AI models and Anthropic’s Claude.\n- Amazon claims to use encryption to protect user payment information during transactions on third-party sites.",
+      "keywords": [
+        "Amazon",
+        "AI shopping agent",
+        "Buy for Me",
+        "e-commerce",
+        "Nova AI",
+        "third-party sites",
+        "technology"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-04T00:35:40.000Z"
+    },
+    {
       "title": "Federal judge allows the EFF’s lawsuit against DOGE and Elon Musk to proceed",
       "link": "https://techcrunch.com/2025/04/03/federal-judge-allows-the-effs-lawsuit-against-doge-and-elon-musk-to-proceed/",
       "author": null,
@@ -1164,28 +1187,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-04-02T15:00:00.000Z"
-    },
-    {
-      "title": "Actively AI raises $22.5M to offer sales ‘superintelligence,’ says AI SDRs failed",
-      "link": "https://techcrunch.com/2025/04/02/actively-ai-raises-22-5m-to-offer-sales-superintelligence-says-ai-sdrs-failed/",
-      "author": "Charles Rollet",
-      "thumbnail": null,
-      "summary": "- Actively AI has raised $22.5M in total funding, including $17.5M in Series A led by Bain Capital Ventures and a $5M seed round from First Round Capital.\n- The company aims to improve AI sales tools through 'GTM Superintelligence,' focusing on helping companies identify high-value prospects.\n- Anshul Gupta, co-founder, critiques traditional AI sales reps for prioritizing volume over quality in customer outreach, claiming they have 'failed' in their approach.",
-      "keywords": [
-        "Actively AI",
-        "funding",
-        "AI sales tools",
-        "reasoning models",
-        "superintelligence",
-        "tech funding"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-02T14:06:09.000Z"
     }
   ]
 }
