@@ -4,6 +4,28 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "NSA warns 'fast flux' threatens national security. What is fast flux anyway?",
+      "link": "https://arstechnica.com/security/2025/04/nsa-warns-that-overlooked-botnet-technique-threatens-national-security/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- The NSA warns that a technique called 'fast flux' poses a threat to national security and critical infrastructure.\n- Fast flux allows threat actors to hide their operations by cycling through various IP addresses and domain names.\n- This technique complicates the tracking and blocking of malicious infrastructure by changing addresses frequently, sometimes hourly.\n- The NSA, in collaboration with the FBI and international partners, emphasizes that fast flux enables evasion of detection by malicious actors.",
+      "keywords": [
+        "NSA",
+        "fast flux",
+        "national security",
+        "cybersecurity",
+        "botnet",
+        "threat detection"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-04-04T20:17:13.000Z"
+    },
+    {
       "title": "Google unveils end-to-end messages for Gmail. Only thing is: It’s not true E2EE.",
       "link": "https://arstechnica.com/security/2025/04/are-new-google-e2ee-emails-really-end-to-end-encrypted-kinda-but-not-really/",
       "author": "Dan Goodin",
@@ -1131,29 +1153,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-02-21T15:45:17.000Z"
-    },
-    {
-      "title": "Russia-aligned hackers are targeting Signal users with device-linking QR codes",
-      "link": "https://arstechnica.com/information-technology/2025/02/russia-aligned-hackers-are-targeting-signal-users-with-device-linking-qr-codes/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Signal's popularity as an encrypted messaging app is attracting manipulation by Russia-affiliated hackers.\n- Hackers attempt to trick users into linking devices via malicious QR codes, using tactics such as group invites and security alerts.\n- Apt44, a Russian state hacking group, is reportedly enabling linked accounts on devices captured on the battlefield for exploitation.",
-      "keywords": [
-        "Signal",
-        "Russia",
-        "hackers",
-        "QR codes",
-        "secure messaging",
-        "social engineering",
-        "Apt44"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-19T21:21:06.000Z"
     }
   ]
 }
