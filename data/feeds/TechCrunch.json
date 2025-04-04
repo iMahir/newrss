@@ -4,6 +4,30 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Midjourney releases its first new AI image model in nearly a year",
+      "link": "https://techcrunch.com/2025/04/03/midjourney-releases-its-first-new-ai-image-model-in-nearly-a-year/",
+      "author": "Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-04-at-12.43.46AM.png?w=680",
+      "summary": "- Midjourney launched the V7 AI image model after nearly a year.\n- The model includes a personalization profile that adjusts to users' visual preferences.\n- New features include two operational modes: Turbo and Relax, with a Draft Mode for faster image generation.\n- CEO David Holz highlights improvements in coherence for text prompts and image quality.\n- V7 is expected to receive updates and added capabilities in the coming months.",
+      "keywords": [
+        "Midjourney",
+        "AI",
+        "image model",
+        "V7",
+        "artificial intelligence",
+        "image generation",
+        "technology",
+        "David Holz"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-04T04:59:47.000Z"
+    },
+    {
       "title": "Amazon’s new AI agent will shop third-party sites for you",
       "link": "https://techcrunch.com/2025/04/03/amazons-new-ai-agent-will-shop-third-party-stores-for-you/",
       "author": "Maxwell Zeff",
@@ -1162,31 +1186,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-04-02T15:02:00.000Z"
-    },
-    {
-      "title": "Anthropic launches an AI chatbot plan for colleges and universities",
-      "link": "https://techcrunch.com/2025/04/02/anthropic-launches-an-ai-chatbot-tier-for-colleges-and-universities/",
-      "author": "Maxwell Zeff",
-      "thumbnail": null,
-      "summary": "- Anthropic launched the Claude for Education tier as a response to OpenAI's ChatGPT Edu plan.\n- New feature \"Learning Mode\" in Claude to aid critical thinking, testing understanding, and providing research templates.\n- Claude for Education aims to increase Anthropic's revenue, targeting $115 million a month, doubling by 2025.\n- Security and privacy features included; students can use Claude for studies, while administrators can analyze enrollment trends.\n- Partnerships with Instructure for integration and full campus agreements with universities like Northeastern and the London School of Economics.\n- 54% of university students reportedly use AI weekly, driving demand for these tools.",
-      "keywords": [
-        "AI chatbot",
-        "Claude for Education",
-        "Anthropic",
-        "higher education",
-        "ChatGPT Edu",
-        "Critical thinking",
-        "AI integration",
-        "Instructure",
-        "Student ambassador programs"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-02T15:00:00.000Z"
     }
   ]
 }
