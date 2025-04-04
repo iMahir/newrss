@@ -4,6 +4,72 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "How Kalshi helped prediction markets go mainstream",
+      "link": "https://techcrunch.com/video/how-kalshi-helped-prediction-markets-go-mainstream/",
+      "author": "Tarek Mansour, Maggie Stamets",
+      "thumbnail": null,
+      "summary": "- Kalshi is the largest prediction market in America, focused on political, sports, and cultural events.\n- It faces legal challenges, with some states viewing it as requiring gambling licenses.\n- CEO Tarek Mansour discusses Kalshi's role as a potential global source of truth in a TechCrunch interview.",
+      "keywords": [
+        "Kalshi",
+        "prediction markets",
+        "gambling",
+        "political events",
+        "sports",
+        "financial opportunities"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-04T19:00:00.000Z"
+    },
+    {
+      "title": "OpenAI’s models ‘memorized’ copyrighted content, new study suggests",
+      "link": "https://techcrunch.com/2025/04/04/openais-models-memorized-copyrighted-content-new-study-suggests/",
+      "author": "Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-04-at-2.23.14PM.png?w=680",
+      "summary": "- A new study supports claims that OpenAI trained some AI models on copyrighted content.\n- OpenAI faces lawsuits from various rights-holders who allege unauthorized use of their works.\n- Researchers at University of Washington, University of Copenhagen, and Stanford co-authored the study.\n- The study introduces a method using 'high-surprisal' words to identify memorized training data.\n- GPT-4 showed signs of memorizing parts of popular fiction and New York Times articles.\n- Abhilasha Ravichander emphasizes the need for transparency in model training data.",
+      "keywords": [
+        "OpenAI",
+        "copyright",
+        "AI models",
+        "data transparency",
+        "fair use",
+        "machine learning"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-04T18:42:11.000Z"
+    },
+    {
+      "title": "AI has opened a new era in venture capital according to Forerunner Founder Kirsten Green",
+      "link": "https://techcrunch.com/video/ai-has-opened-a-new-era-in-venture-capital-according-to-forerunner-founder-kirsten-green/",
+      "author": "Kirsten Green",
+      "thumbnail": "https://experiences.mrf.io/statics/assets/1860/layout/67969ad339332507b341cd38.png",
+      "summary": "- Forerunner has achieved numerous high-profile successes by investing in companies ahead of consumer trends, like Oura and Chime.\n- TechCrunch Editor in Chief Connie Loizos interviewed founder Kirsten Green about Forerunner's approach in the AI era at a StrictlyVC event in San Francisco.\n- The discussion highlighted the firm's strategy and the evolving landscape of venture capital influenced by AI.",
+      "keywords": [
+        "AI",
+        "venture capital",
+        "Forerunner",
+        "Kirsten Green",
+        "investments",
+        "consumer trends"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-04-04T18:34:00.000Z"
+    },
+    {
       "title": "DeepSeek: Everything you need to know about the AI chatbot app",
       "link": "https://techcrunch.com/2025/04/04/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/",
       "author": null,
@@ -1069,51 +1135,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-04-03T14:03:36.000Z"
-    },
-    {
-      "title": "New session at TechCrunch All Stage: Jahanvi Sardana on how top startups reshape markets",
-      "link": "https://techcrunch.com/2025/04/03/new-session-at-techcrunch-all-stage-jahanvi-sardana-on-how-top-startups-reshape-markets/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-04-03T14:00:00.000Z"
-    },
-    {
-      "title": "Runway, best known for its video-generating AI models, raises $308M",
-      "link": "https://techcrunch.com/2025/04/03/runway-best-known-for-its-video-generating-models-raises-308m/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-04-03T13:18:00.000Z"
-    },
-    {
-      "title": "Runway, best known for its video-generating AI models, raises $300M",
-      "link": "https://techcrunch.com/2025/04/03/runway-best-known-for-its-video-generating-models-raises-300m/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- Runway raised $308 million in Series D funding led by General Atlantic.\n- The funding will support AI research, hiring, and the expansion of Runway Studios.\n- To date, Runway has secured $536.5 million in total funding.\n- The company aims to create a new media ecosystem using AI systems.\n- Runway's Gen-4 model can maintain consistency across video scenes and environments.\n- The company may face legal challenges regarding the use of copyrighted artwork in training models.",
-      "keywords": [
-        "Runway",
-        "AI",
-        "video generation",
-        "funding",
-        "Gen-4",
-        "media production",
-        "artificial intelligence",
-        "lawsuit",
-        "investment"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-04-03T13:18:00.000Z"
     }
   ]
 }
