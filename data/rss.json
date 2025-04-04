@@ -1,5 +1,73 @@
 [
   {
+    "title": "The best robot vacuums",
+    "id": "1kr4pcr0ud4eed",
+    "summary": "- Robot vacuums have evolved into intelligent devices, capable of both vacuuming and mopping with limited human intervention.\n- Over 70 models have been tested, showcasing diverse options for different household needs, from small apartments to large homes.\n- The best overall robot vacuum is the [Roborock S8 MaxV Ultra](https://go.skimresources.com/?id=1025X1701640&xs=1&url=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock-s8-maxv-ultra), priced at $1,799.99, which excels in vacuuming and obstacle detection.\n- A budget-friendly option is the [Tapo RV30 Max Plus](https://www.amazon.com/Tapo-Self-Emptying-Max-RV30-Plus/dp/B0DGRJKDKC?tag=theverge02-20), available for around $300, offering solid performance at a lower cost.\n- For mopping, the S8 MaxV Ultra features a sonic mopping system that effectively cleans hard floors, with good AI-powered obstacle navigation.",
+    "thumbnails": [
+      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25405360/247088_Roborock_vs_DreameBot_JTuohy_0001.jpg?quality=90&strip=all&crop=16.666666666667,0,66.666666666667,100&w=2400"
+    ],
+    "scores": {
+      "scale": 8,
+      "impact": 7,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "robot vacuums",
+      "home cleaning",
+      "budget vacuums",
+      "Roborock",
+      "Tapo",
+      "mopping robots"
+    ],
+    "sources": [
+      {
+        "title": "The best robot vacuums",
+        "link": "https://www.theverge.com/22997597/best-robot-vacuum-cleaner"
+      }
+    ],
+    "lastUpdated": "2025-04-04T21:11:58.526Z"
+  },
+  {
+    "title": "Anthropic Unveils New AI Search Feature and Investigates AI Understanding",
+    "id": "1p19soz0bd0qj5",
+    "summary": "- Anthropic researchers study how AI models comprehend complex concepts and generate responses.\n- A newly developed tool acts as an “AI microscope” to examine information flows in large language models (LLMs).\n- The research indicates AI employs logic and probabilistic methods for problem-solving, differing from human approaches.\n- There is ongoing research into whether LLMs think in universal concepts or the specific languages used in prompts.\n- Users of Claude are warned about a 60% error rate in AI-generated citations, emphasizing potential inaccuracies.\n- While Claude cites information found online, no official accuracy benchmarks have been established by Anthropic.\n- The new search feature is likely powered by Brave Search, as noted in Anthropic's updated subprocessor list.",
+    "thumbnails": [
+      "https://cdn.arstechnica.net/wp-content/uploads/2025/03/anthropic_sources.jpg"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "ai",
+      "anthropic",
+      "large language models",
+      "neuroscience",
+      "mechanistic interpretability",
+      "probabilistic reasoning",
+      "universal concepts",
+      "search feature",
+      "brave search",
+      "citations",
+      "accuracy",
+      "claude"
+    ],
+    "sources": [
+      {
+        "title": "What is AI thinking? Anthropic researchers are starting to figure it out",
+        "link": "https://www.fastcompany.com/91309820/what-is-ai-thinking-anthropic-researchers-are-starting-to-figure-it-out?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
+      },
+      {
+        "title": "Anthropic’s new AI search feature digs through the web for answers",
+        "link": "https://arstechnica.com/ai/2025/03/anthropics-new-ai-search-feature-digs-through-the-web-for-answers/"
+      }
+    ],
+    "lastUpdated": "2025-04-04T21:11:58.518Z"
+  },
+  {
     "title": "Trump Extends TikTok Sale Deadline by 75 Days Amid Ongoing Negotiations",
     "id": "0s8euby0nezbty",
     "summary": "- US President Donald Trump proposed a connection between TikTok's sale and US tariffs on Chinese imports.\n- TikTok must finalize a sale by April 5 to a non-Chinese company to avoid a ban in the US.\n- Trump mentioned keen interest from several investors, claiming his administration is close to an agreement.\n- A 10% baseline tariff on all US imports was announced, affecting Chinese goods significantly.\n- TikTok has remained silent on the proposed deal, with potential buyers like [Amazon](https://www.techinasia.com/news/trump-proposes-tiktok-sale-for-tariff-relief-deal) and Andreessen Horowitz.\n- Trump suggested lowering tariffs if ByteDance executes a sale of TikTok.\n- ByteDance argues that divesting TikTok isn't feasible due to legal and business constraints.\n- The movement to restrict TikTok began in 2020 due to national security concerns, with Congress previously voting to ban the app.\n- The TikTok sale deadline was initially set for January 19, and is now extended by 75 days by Trump.\n- Trump signed an executive order to show progress in talks with ByteDance over the app's future.\n- Chinese government approval is required for any finalized deal, concurrent with new tariffs imposed by Trump.\n- Ongoing discussions with investors like [Oracle](https://www.theguardian.com/technology/2025/apr/04/tiktok-ban-deadline-trump-proposals) and Blackstone continue as deadlines loom.\n- ByteDance's reluctance to sell poses ongoing national security issues, despite public interest in the app.",
@@ -10045,34 +10113,6 @@
       {
         "title": "The 3-minute shows making billions",
         "link": "https://www.techinasia.com/3minute-shows-making-billions"
-      }
-    ],
-    "lastUpdated": "2025-04-02T10:13:47.949Z"
-  },
-  {
-    "title": "What is AI thinking? Anthropic researchers are starting to figure it out",
-    "id": "1p19soz0bd0qj5",
-    "summary": "- Anthropic researchers investigate how AI models understand complex ideas and generate responses.\n- A new tool developed serves as an “AI microscope” to analyze information flows within a large language model (LLM).\n- The study reveals that AI approaches problems, such as arithmetic, differently than humans by using logic and probabilistic methods.\n- Researchers explore whether LLMs think in universal concepts or the specific languages used in prompts.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "AI",
-      "Anthropic",
-      "large language models",
-      "neuroscience",
-      "mechanistic interpretability",
-      "probabilistic reasoning",
-      "universal concepts"
-    ],
-    "sources": [
-      {
-        "title": "What is AI thinking? Anthropic researchers are starting to figure it out",
-        "link": "https://www.fastcompany.com/91309820/what-is-ai-thinking-anthropic-researchers-are-starting-to-figure-it-out?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
       }
     ],
     "lastUpdated": "2025-04-02T10:13:47.949Z"
@@ -33983,117 +34023,5 @@
       }
     ],
     "lastUpdated": "2025-03-21T22:13:29.279Z"
-  },
-  {
-    "title": "Meta has revenue sharing agreements with Llama AI model hosts, filing reveals",
-    "id": "0ukrzf61xhaxyx",
-    "summary": "- Meta CEO Mark Zuckerberg stated that selling access to Llama AI models is not their primary business model, but they do have revenue-sharing agreements.\n- A court filing reveals Meta shares a portion of revenue from companies hosting Llama models, although specific hosts are not detailed.\n- Notable Llama host partners include AWS, Nvidia, Databricks, Groq, Dell, Azure, Google Cloud, and Snowflake.\n- Developers can run Llama models independently but often utilize hosts for additional services.\n- Zuckerberg mentioned potential monetization strategies for Llama, including licensing and ads.\n- The revenue generation is significant due to ongoing copyright litigation regarding alleged training on pirated materials.\n- Meta plans large capital expenditures for AI, estimating $60 billion-$80 billion in 2025 primarily for data centers and AI development.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "Meta",
-      "Llama AI",
-      "revenue sharing",
-      "Zuckerberg",
-      "AI development",
-      "copyright lawsuit"
-    ],
-    "sources": [
-      {
-        "title": "Meta has revenue sharing agreements with Llama AI model hosts, filing reveals",
-        "link": "https://techcrunch.com/2025/03/21/meta-has-revenue-sharing-agreements-with-llama-ai-model-hosts-filing-reveals/"
-      }
-    ],
-    "lastUpdated": "2025-03-21T21:11:10.367Z"
-  },
-  {
-    "title": "The best MagSafe and Qi2 chargers",
-    "id": "0c2taqv0kflddf",
-    "summary": "- Wireless charging offers convenience though it's generally less efficient than wired charging.\n- Qi2 chargers are recommended for iPhones from the 12 series onwards, providing up to 15W charging, equivalent to MagSafe except for iPhone 16 which can charge at 25W.\n- Qi2 is an open standard and typically less expensive than MagSafe options, with a wider range of chargers available.\n- Samsung Galaxy S25 devices are Qi2 ready, requiring a special magnetic case to utilize the full charging speed on Qi2 chargers.\n- Qi2 certification ensures proper charging performance and magnet alignment, replacing older MagSafe-compatible chargers.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25644566/IMG_2364.jpg?quality=90&strip=all&crop=12.5%2C0%2C75%2C100&w=2400"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 7,
-      "novelty": 6,
-      "longTermSignificance": 5
-    },
-    "keywords": [
-      "MagSafe",
-      "Qi2",
-      "wireless charging",
-      "iPhone",
-      "charging options",
-      "Samsung Galaxy",
-      "accessories"
-    ],
-    "sources": [
-      {
-        "title": "The best MagSafe and Qi2 chargers",
-        "link": "https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone"
-      }
-    ],
-    "lastUpdated": "2025-03-21T21:11:10.367Z"
-  },
-  {
-    "title": "How BYD plans to make EV charging as fast as filling a gas tank",
-    "id": "1fxb3b016tcaih",
-    "summary": "- BYD's Han L sedan can add up to 248 miles of range in just five minutes of charging.\n- The vehicle features an 83.2 kWh lithium-iron-phosphate battery operating at approximately 945 volts.\n- BYD's dual gun charging system allows the car to charge at 1 megawatt, utilizing two ports simultaneously.\n- Realistic range from a five-minute charge is approximately 160 miles due to optimistic testing cycles.\n- BYD plans to install over 4,000 charging stations across China, with significant upgrades needed for existing infrastructure.\n- Current U.S. market challenges may delay BYD's entry due to tariffs on Chinese EVs.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 8,
-      "impact": 9,
-      "novelty": 7,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "BYD",
-      "EV charging",
-      "Han L sedan",
-      "electric vehicles",
-      "battery technology",
-      "fast charging"
-    ],
-    "sources": [
-      {
-        "title": "How BYD plans to make EV charging as fast as filling a gas tank",
-        "link": "https://techcrunch.com/2025/03/21/how-byd-plans-to-make-ev-charging-as-fast-as-filling-a-gas-tank/"
-      }
-    ],
-    "lastUpdated": "2025-03-21T21:11:10.366Z"
-  },
-  {
-    "title": "Watch this ultra-detailed animation of the seafloor",
-    "id": "0jxp5r007oboag",
-    "summary": "- NASA released a video showing a detailed new map of the ocean floor enabled by the SWOT satellite.\n- The SWOT satellite, launched in 2022, has provided higher-resolution data compared to previous mapping technologies.\n- Maps created from SWOT data enhance submarine navigation and assist in laying and repairing underwater communication cables.\n- The gravity-based mapping technique reveals features like abyssal hills and seamounts, which cover about 70% of the ocean floor.\n- While sonar ships have mapped only about a quarter of the ocean floor, SWOT dramatically improves the process.\n- The primary mission of SWOT is to measure the height of water over oceans, rivers, and lakes, aimed at a comprehensive survey of Earth's surface water.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 8,
-      "impact": 7,
-      "novelty": 6,
-      "longTermSignificance": 5
-    },
-    "keywords": [
-      "NASA",
-      "SWOT",
-      "seafloor mapping",
-      "satellite technology",
-      "oceanography",
-      "underwater features",
-      "gravity-based mapping"
-    ],
-    "sources": [
-      {
-        "title": "Watch this ultra-detailed animation of the seafloor",
-        "link": "https://www.theverge.com/nasa/634086/ocean-floor-map-satellite-nasa-cnes"
-      }
-    ],
-    "lastUpdated": "2025-03-21T21:11:10.365Z"
   }
 ]
