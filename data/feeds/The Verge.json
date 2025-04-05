@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Microsoft has created an AI-generated version of Quake",
+      "link": "https://www.theverge.com/news/644117/microsoft-quake-ii-ai-generated-tech-demo-muse-ai-model-copilot",
+      "author": "Tom Warren",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197777/profilephoto.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Microsoft unveiled its Muse AI model which can generate gameplay, now featuring an AI-generated version of **Quake II**.\n- The tech demo is playable in a browser but limited in interactions and time.\n- This latest demo runs at 640 x 360 resolution and retains a playable frame rate, compared to earlier versions that were significantly lower.\n- The AI model is aimed at helping game developers prototype games and improve classic titles like **Quake II** for modern hardware.\n- Microsoft Gaming CEO Phil Spencer emphasized the potential of making classic games portable to various platforms using AI models.\n- More interactive AI game experiences through Copilot Labs are expected soon, along with enhancements to Copilot as a gameplay coach.",
+      "keywords": [
+        "Microsoft",
+        "AI",
+        "Quake II",
+        "gaming",
+        "Copilot",
+        "Muse AI",
+        "game development",
+        "technology"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-05T18:23:54.000Z"
+    },
+    {
       "title": "Tron: Ares blends the real world with the digital in its first trailer",
       "link": "https://www.theverge.com/news/644047/tron-ares-first-trailer-poster-jared-leto-jeff-bridges",
       "author": "Wes Davis",
@@ -1272,28 +1296,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-04-03T20:41:38.000Z"
-    },
-    {
-      "title": "How the Nintendo Switch 2 stacks up to the Steam Deck",
-      "link": "https://www.theverge.com/tech/642866/nintendo-switch-2-steam-deck-lcd-oled-comparison-specs-price",
-      "author": "Cameron Faulkner",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Nintendo-Switch-2-Handheld-Mode-Image.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "- Nintendo Switch 2 launches on June 5, 2025, for $449.99, competing against Steam Deck's $399 LCD and $549 OLED models.\n- The Switch 2 features a 7.9-inch 1080p LCD touchscreen with a 120Hz refresh rate, supporting VRR and HDR10, surpassing the Steam Deck LCD's 7-inch 60Hz display.\n- The Switch 2 includes a custom Nvidia processor, with potential for 120 frames per second in handheld mode and 60 fps at 4K docked.\n- Battery life for the Switch 2 is estimated at 2 to 6.5 hours, while the Steam Deck’s ranges from 2 to 12 hours depending on the model and usage.\n- Internal storage for the Switch 2 is 256GB UFS, expandable via microSD Express, while the Steam Deck offers upgradable SSD options and supports UHS-1 microSD cards.\n- Both devices can function in handheld mode or docked, with the Switch 2 having more versatile connectivity options.\n- Steam Deck supports an extensive library of PC games, while the Switch 2 maintains compatibility with most original Switch titles and introduces exclusive games like Mario Kart World.",
-      "keywords": [
-        "Nintendo",
-        "Switch 2",
-        "Steam Deck",
-        "handheld gaming",
-        "gaming comparison",
-        "console specifications"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-03T20:07:36.000Z"
     }
   ]
 }
