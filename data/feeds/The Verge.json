@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Meta AI gets two new models as Meta releases Llama 4",
+      "link": "https://www.theverge.com/news/644171/llama-4-released-ai-model-whatsapp-messenger-instagram-direct",
+      "author": "Wes Davis",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196306/unnamed.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Meta has announced the release of [Llama 4](https://ai.meta.com/blog/llama-4-multimodal-intelligence/), a new collection of AI models for applications in WhatsApp, Messenger, and Instagram Direct.\n- The two models released are Llama 4 Scout, a small model suitable for a single Nvidia H100 GPU, and Llama 4 Maverick, comparable to GPT-4o.\n- Llama 4 Scout features a 10-million-token context window and outperforms several competitive models, including Google's Gemini 3.\n- Llama 4 Behemoth, currently in training, claims 288 billion active parameters and aims to surpass models like GPT-4.5.\n- Meta uses a “mixture of experts” architecture to optimize resources based on task requirements.\n- Future developments will be discussed at [LlamaCon on April 29th](https://www.llama.com/llama-downloads/).\n- Despite being labeled as “open-source,” the licensing requirements have faced criticism for being restrictive, especially for large commercial users.",
+      "keywords": [
+        "Meta",
+        "AI",
+        "Llama 4",
+        "machine learning",
+        "open-source",
+        "WhatsApp",
+        "Messenger",
+        "Instagram Direct"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-04-05T23:05:05.000Z"
+    },
+    {
       "title": "More than 1,200 rallies rally worldwide protest Trump and Musk",
       "link": "https://www.theverge.com/news/644113/hands-off-rally-protests-trump-musk-footage",
       "author": "Wes Davis",
@@ -1275,28 +1299,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-04-03T20:50:51.000Z"
-    },
-    {
-      "title": "TikTok is shutting down its Instagram-like Notes app",
-      "link": "https://www.theverge.com/news/643063/tiktok-notes-shutting-down-instagram-rival",
-      "author": "Emma Roth",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- TikTok is discontinuing its Notes app effective May 8th.\n- Notes allowed users to share photos with captions and featured a 'For You' feed.\n- The app was first launched in April 2022 in select regions (Australia and Canada).\n- TikTok is recommending users try its sister app, Lemon8, which focuses on lifestyle content.",
-      "keywords": [
-        "TikTok",
-        "Notes app",
-        "Instagram",
-        "Lemon8",
-        "shutdown",
-        "social media"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-04-03T20:43:04.000Z"
     }
   ]
 }

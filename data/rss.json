@@ -1,5 +1,36 @@
 [
   {
+    "title": "Meta AI gets two new models as Meta releases Llama 4",
+    "id": "137a9c00vwdvs7",
+    "summary": "- Meta has announced the release of [Llama 4](https://ai.meta.com/blog/llama-4-multimodal-intelligence/), a new collection of AI models for applications in WhatsApp, Messenger, and Instagram Direct.\n- The two models released are Llama 4 Scout, a small model suitable for a single Nvidia H100 GPU, and Llama 4 Maverick, comparable to GPT-4o.\n- Llama 4 Scout features a 10-million-token context window and outperforms several competitive models, including Google's Gemini 3.\n- Llama 4 Behemoth, currently in training, claims 288 billion active parameters and aims to surpass models like GPT-4.5.\n- Meta uses a “mixture of experts” architecture to optimize resources based on task requirements.\n- Future developments will be discussed at [LlamaCon on April 29th](https://www.llama.com/llama-downloads/).\n- Despite being labeled as “open-source,” the licensing requirements have faced criticism for being restrictive, especially for large commercial users.",
+    "thumbnails": [
+      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196306/unnamed.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
+    ],
+    "scores": {
+      "scale": 8,
+      "impact": 9,
+      "novelty": 7,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "Meta",
+      "AI",
+      "Llama 4",
+      "machine learning",
+      "open-source",
+      "WhatsApp",
+      "Messenger",
+      "Instagram Direct"
+    ],
+    "sources": [
+      {
+        "title": "Meta AI gets two new models as Meta releases Llama 4",
+        "link": "https://www.theverge.com/news/644171/llama-4-released-ai-model-whatsapp-messenger-instagram-direct"
+      }
+    ],
+    "lastUpdated": "2025-04-05T23:12:33.996Z"
+  },
+  {
     "title": "DOGE reportedly planning a hackathon to build ‘mega API’ for IRS data",
     "id": "1cte68u1nq25ny",
     "summary": "- DOGE to host a hackathon focused on creating a 'mega API' for IRS data access.\n- Organized by DOGE staffers at the IRS, Gavin Kliger and Sam Corcos.\n- The API aims to provide access to taxpayer data such as names, addresses, and tax returns.\n- A third-party vendor, potentially Palantir, will manage parts of the project.\n- Concerns raised about sensitive information access without usual security rules.",
@@ -33803,33 +33834,5 @@
       }
     ],
     "lastUpdated": "2025-03-23T00:56:53.131Z"
-  },
-  {
-    "title": "Hue accidentally leaks a new video doorbell",
-    "id": "0eh0dbc0m1sphf",
-    "summary": "- An update to the Philips Hue app leaked a new Hue Secure video doorbell.\n- The product features a straightforward design with a large button and is likely a wired device.\n- Setup involves Bluetooth and Wi-Fi, and the camera is expected to launch in fall 2025, but details on pricing and specs are still unavailable.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196306/unnamed.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
-    ],
-    "scores": {
-      "scale": 5,
-      "impact": 6,
-      "novelty": 4,
-      "longTermSignificance": 3
-    },
-    "keywords": [
-      "Philips Hue",
-      "video doorbell",
-      "Hue Secure",
-      "home security",
-      "smart home"
-    ],
-    "sources": [
-      {
-        "title": "Hue accidentally leaks a new video doorbell",
-        "link": "https://www.theverge.com/news/634362/hue-secure-video-doorbell-leak-app-qr-code-update"
-      }
-    ],
-    "lastUpdated": "2025-03-22T23:10:45.542Z"
   }
 ]
