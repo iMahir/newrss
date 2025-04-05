@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "More than 1,200 rallies rally worldwide protest Trump and Musk",
+      "link": "https://www.theverge.com/news/644113/hands-off-rally-protests-trump-musk-footage",
+      "author": "Wes Davis",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/HandsOff-Milwaukee1.png?quality=90&strip=all&crop=0%2C5.5700043346337%2C100%2C88.859991330733&w=2400",
+      "summary": "- Protests against President Trump and Elon Musk occurred globally, organized by over 150 groups, across more than 1,200 locations.\n- Demonstrations included 'Tesla Takedown' protests targeting Tesla showrooms amid Musk's layoffs and declining sales.\n- Large crowds gathered in major cities like Washington, DC, Chicago, and overseas in Berlin and London, with significant turnout even in smaller communities.",
+      "keywords": [
+        "protests",
+        "Trump",
+        "Musk",
+        "civil rights",
+        "labor unions",
+        "LGBTQ+",
+        "Hands Off",
+        "Tesla Takedown"
+      ],
+      "scores": {
+        "scale": 9,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-04-05T19:41:50.000Z"
+    },
+    {
       "title": "Microsoft has created an AI-generated version of Quake",
       "link": "https://www.theverge.com/news/644117/microsoft-quake-ii-ai-generated-tech-demo-muse-ai-model-copilot",
       "author": "Tom Warren",
@@ -1273,29 +1297,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-04-03T20:43:04.000Z"
-    },
-    {
-      "title": "Windows 11 tests taskbar icons that scale up and down like on a Mac",
-      "link": "https://www.theverge.com/news/643042/windows-11-insider-preview-beta-taskbar-icon-scale",
-      "author": "Umar Shakir",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195848/UMAR_SHAKIR.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Microsoft is testing resizable taskbar icons in Windows 11, allowing them to shrink with more open apps.\n- New options are available in the latest Insider Preview Beta under Taskbar settings > Taskbar behaviors.\n- Users can select options to always show smaller taskbar buttons, never show, or show them when the taskbar is full.\n- This feature mimics macOS's dock behavior where icons reduce in size with more applications.\n- An update to the Start menu has been noted, allowing a larger layout and hiding recent apps.\n- Users may lose new battery status icons introduced in January but can expect them back soon.",
-      "keywords": [
-        "Windows 11",
-        "taskbar",
-        "Microsoft",
-        "resizable icons",
-        "Insider Preview",
-        "macOS",
-        "Start menu"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-04-03T20:41:38.000Z"
     }
   ]
 }
