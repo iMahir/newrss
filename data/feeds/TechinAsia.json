@@ -4,6 +4,27 @@
   "feedUrl": "https://www.techinasia.com/feed",
   "items": [
     {
+      "title": "Meta ends US fact-checking on Apr. 7",
+      "link": "https://www.techinasia.com/news/meta-ends-us-fact-checking-starting-apr-7",
+      "author": "The Business Times",
+      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/01/1736928670_shutterstock_2092337356.jpg",
+      "summary": "- Meta will cease its fact-checking operations in the U.S. starting April 7.\n- This decision reflects a shift in Meta's approach to content moderation and fact-checking.\n- The policy change is in line with broader trends in social media platforms regarding misinformation and accountability.",
+      "keywords": [
+        "Meta",
+        "fact-checking",
+        "social media",
+        "misinformation",
+        "U.S."
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-04-05T02:20:59.000Z"
+    },
+    {
       "title": "GitHub AI assistant sets new limits, adds premium model fees",
       "link": "https://www.techinasia.com/news/github-ai-assistant-sets-new-limits-adds-premium-model-fees",
       "author": null,
@@ -1093,29 +1114,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-04-04T03:25:45.000Z"
-    },
-    {
-      "title": "TikTok may face $553m fine over EU data transfer violations",
-      "link": "https://www.techinasia.com/news/tiktok-may-face-553m-fine-over-eu-data-transfer-violations",
-      "author": null,
-      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2024/03/1710412225_shutterstock_2437360017.png",
-      "summary": "- TikTok's parent company, ByteDance Ltd., may face a fine exceeding €500 million (US$553.08 million) for violating EU data protection laws.\n- The issue arose from unauthorized transfer of European user data to China, accessed by engineers.\n- The Data Protection Commission (DPC) found breaches of the EU's GDPR and may enforce a halt on these data transfers.\n- A final decision is expected by the end of April, pending confirmation of the fine amount.\n- If confirmed, this would rank as the third-largest GDPR fine to date, following fines against Meta and Amazon.\n- The investigation was initiated in 2021 due to concerns over data access by Chinese-based engineers.\n- In September 2023, TikTok was previously fined €345 million (US$381.62 million) for mishandling children’s data.",
-      "keywords": [
-        "TikTok",
-        "ByteDance",
-        "EU",
-        "GDPR",
-        "data protection",
-        "fine",
-        "DPC"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-04T03:15:56.000Z"
     }
   ]
 }
