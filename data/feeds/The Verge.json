@@ -4,6 +4,28 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Wi-Fi is one of the great backward compatibility success stories",
+      "link": "https://www.theverge.com/tech/640678/wi-fi-spec-backward-compatibility",
+      "author": "Wes Davis",
+      "thumbnail": null,
+      "summary": "- The author's home network connects over 60 devices spanning five generations of Wi-Fi.\n- Wi-Fi maintains backward compatibility, allowing newer devices to connect with older versions seamlessly.\n- The Wi-Fi Alliance, formed in 1999, certifies products for interoperability to ensure compatibility across devices.\n- Certification provides assurance that devices will work together, but some companies like Eero opt for internal certification.\n- Issues with device connectivity often stem from untested or uncertified devices, not Wi-Fi version discrepancies.\n- Support for the 2.4GHz band is crucial, as it is commonly used by older devices and smart home products.\n- The ongoing support for backward compatibility is significant for maintaining device functionality over generations.",
+      "keywords": [
+        "Wi-Fi",
+        "backward compatibility",
+        "Wi-Fi Alliance",
+        "interoperability",
+        "technology",
+        "networking"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-04-06T15:00:00.000Z"
+    },
+    {
       "title": "Quantum mechanics might have the solution to joystick drift",
       "link": "https://www.theverge.com/tech/643886/joystick-drift-tunneling-magnetoresistance-tmr-hall-effect-gaming-solution",
       "author": "Andrew Liszewski",
@@ -1280,29 +1302,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-04-03T23:56:34.000Z"
-    },
-    {
-      "title": "Trump’s Tariffs Mean You’ll Pay More for All Gadgets",
-      "link": "https://www.theverge.com/tech/643041/trump-tariff-consumer-electronics-gadgets-smartphones-laptops-wearables",
-      "author": "Victoria Song",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/DSC_2334.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "summary": "• President Trump’s tariffs will lead to increased prices for gadgets like smartphones, laptops, and smartwatches.\n• Goods from China will face a 54% tariff and devices from Vietnam will face 46% tariffs.\n• Price increases might not happen immediately due to inventory buildup, but are expected by mid-summer or fall.\n• Devices will be impacted differently; smartphones might see a 20% price increase on average.\n• Many hearing aids could see a 25-50% cost increase due to thinner profit margins.\n• There's skepticism on if tariffs will encourage domestic manufacturing; it remains cheaper to produce overseas.",
-      "keywords": [
-        "tariffs",
-        "gadgets",
-        "electronics",
-        "smartphones",
-        "laptops",
-        "consumer prices",
-        "manufacturing"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-04-03T22:47:51.000Z"
     }
   ]
 }
