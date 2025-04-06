@@ -4,6 +4,28 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "White House reportedly blames auto-suggested iPhone contact for Signal scandal",
+      "link": "https://techcrunch.com/2025/04/06/white-house-reportedly-blames-auto-suggested-iphone-contact-for-signal-scandal/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2150494835.jpg?w=1024",
+      "summary": "- The incident involves National Security Adviser Mike Waltz accidentally adding Atlantic editor Jeffrey Goldberg to a Signal group chat with Trump officials discussing Yemen airstrike plans.\n- Waltz's iPhone auto-suggested Goldberg's contact after Goldberg emailed the White House, leading to confusion during chat setup.\n- An internal investigation revealed this auto-suggestion mechanism caused the mix-up that included Goldberg in the chat.",
+      "keywords": [
+        "Signal",
+        "iPhone",
+        "auto-suggestion",
+        "White House",
+        "national security",
+        "Trump administration"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-04-06T18:10:08.000Z"
+    },
+    {
       "title": "Microsoft releases AI-generated Quake II demo, but admits ‘limitations’",
       "link": "https://techcrunch.com/2025/04/06/microsoft-releases-ai-generated-quake-ii-demo-but-admits-limitations/",
       "author": "Anthony Ha",
@@ -2626,29 +2648,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-04-03T16:43:06.000Z"
-    },
-    {
-      "title": "Google is shipping Gemini models faster than its AI safety reports",
-      "link": "https://techcrunch.com/2025/04/03/google-is-shipping-gemini-models-faster-than-its-ai-safety-reports/",
-      "author": "Maxwell Zeff",
-      "thumbnail": null,
-      "summary": "- Google launched the AI model Gemini 2.5 Pro in late March 2025, leading industry benchmarks in coding and math capabilities.\n- This launch follows the Gemini 2.0 Flash model released three months earlier, reflecting Google's accelerated pace in AI model development.\n- Concerns arise as Google has not published safety reports for the new models, prioritizing speed over transparency, raising alarms in the AI community.\n- Google plans to release safety reports and model cards in the future once the models are generally available, emphasizing safety as a top priority.\n- Regulatory efforts for safety reporting standards in AI have seen limited success, highlighting a gap in accountability in the rapidly evolving AI landscape.",
-      "keywords": [
-        "Google",
-        "AI",
-        "Gemini",
-        "safety reports",
-        "machine learning",
-        "transparency",
-        "OpenAI"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-03T16:41:38.000Z"
     }
   ]
 }
