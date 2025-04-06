@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Meta’s benchmarks for its new AI models are a bit misleading",
+      "link": "https://techcrunch.com/2025/04/06/metas-benchmarks-for-its-new-ai-models-are-a-bit-misleading/",
+      "author": "Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/08/meta-in-brief.jpg?w=1024",
+      "summary": "- Meta's new AI model, Maverick, ranks second on LM Arena but the version tested differs from the one available to developers.\n- LM Arena's testing involved an experimental version of Maverick, leading to possible discrepancies in model performance predictions.\n- Researchers have noted variations in output quality between the public version of Maverick and that used in LM Arena, particularly in the use of emojis and response length.",
+      "keywords": [
+        "Meta",
+        "AI models",
+        "Maverick",
+        "LM Arena",
+        "benchmarking",
+        "artificial intelligence",
+        "performance evaluation"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-06T21:16:03.000Z"
+    },
+    {
       "title": "BBC seeks more prominent credit in Apple and Google News",
       "link": "https://techcrunch.com/2025/04/06/bbc-seeks-more-prominent-credit-in-apple-and-google-news/",
       "author": null,
@@ -2622,30 +2645,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-04-03T18:10:54.000Z"
-    },
-    {
-      "title": "Studio Ghibli hasn’t commented on OpenAI’s onslaught of AI copies, but the fan subreddit has",
-      "link": "https://techcrunch.com/2025/04/03/studio-ghibli-hasnt-commented-on-openais-onslaught-of-ai-copies-but-the-fan-subreddit-has/",
-      "author": "Amanda Silberling",
-      "thumbnail": null,
-      "summary": "• OpenAI's new image-generation feature in ChatGPT caused a surge of AI-generated images resembling Studio Ghibli's style.\n• Fans in the Ghibli subreddit are enforcing a ban on AI art, expressing concerns that these images misrepresent the integrity of Miyazaki's artistry.\n• Hayao Miyazaki has previously criticized AI art, expressing disgust towards AI's inability to capture true human emotions.\n• Other creators and publishers, including The New York Times, have filed lawsuits against OpenAI for using copyrighted material without consent for training AI models.\n• OpenAI reported that over 130 million users have generated more than 700 million images using this new feature.",
-      "keywords": [
-        "Studio Ghibli",
-        "AI art",
-        "OpenAI",
-        "Hayao Miyazaki",
-        "copyright",
-        "technology",
-        "creativity",
-        "lawsuit"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-04-03T17:39:34.000Z"
     }
   ]
 }
