@@ -4,6 +4,30 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Microsoft releases AI-generated Quake II demo, but admits ‘limitations’",
+      "link": "https://techcrunch.com/2025/04/06/microsoft-releases-ai-generated-quake-ii-demo-but-admits-limitations/",
+      "author": "Anthony Ha",
+      "thumbnail": null,
+      "summary": "- Microsoft released a browser-based playable demo of Quake II as a tech demo for its Copilot AI platform.\n- The demo allows players to interact in a Quake II level using keyboard controls.\n- Microsoft researchers highlighted the model's capabilities but acknowledged significant limitations, including fuzzy enemies and issues with object permanence.\n- Game designer Austin Walker criticized the demo, emphasizing the importance of understanding game mechanics for effective gameplay.",
+      "keywords": [
+        "Microsoft",
+        "AI",
+        "Quake II",
+        "Copilot",
+        "tech demo",
+        "gaming",
+        "video games",
+        "limitations"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-06T16:10:24.000Z"
+    },
+    {
       "title": "DOGE reportedly planning a hackathon to build ‘mega API’ for IRS data",
       "link": "https://techcrunch.com/2025/04/05/doge-reportedly-planning-a-hackathon-to-build-mega-api-for-irs-data/",
       "author": "Gavin Kliger, Sam Corcos",
@@ -2625,30 +2649,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-04-03T16:41:38.000Z"
-    },
-    {
-      "title": "YouTube Shorts takes on TikTok with new creation tools",
-      "link": "https://techcrunch.com/2025/04/03/youtube-shorts-takes-on-tiktok-with-new-creation-tools/",
-      "author": "Aisha Malik",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-02-at-4.36.07PM.png?w=376",
-      "summary": "- YouTube Shorts is introducing new tools to compete with TikTok, including an improved video editor and AI stickers.\n- Features include syncing content with music, enhanced templates, and new editing capabilities.\n- The rollout comes ahead of the April 5 TikTok ban deadline, aiming to attract creators from TikTok.\n- Creators can generate custom AI stickers and use image stickers from their camera roll.\n- The improved video editor allows for easy clip adjustment, moving/removing clips, and adding music/timed text.\n- YouTube's new rhythm syncing tool aligns clips automatically to music, similar to tools in CapCut.",
-      "keywords": [
-        "YouTube",
-        "Shorts",
-        "TikTok",
-        "creation tools",
-        "video editor",
-        "AI stickers",
-        "content creation",
-        "social media"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-03T16:00:00.000Z"
     }
   ]
 }
