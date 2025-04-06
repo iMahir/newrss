@@ -4,6 +4,31 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Color is a mathematical nightmare",
+      "link": "https://www.theverge.com/tech/643638/color-models-spaces-gamut-mathematical-nightmare",
+      "author": "Jess Weatherbed",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Color-models.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+      "summary": "- Color is defined through complex mathematical models known as color spaces.\n- Different color models (CMYK, RGB, HSL) serve various purposes, impacting color representation in applications like printing and digital displays.\n- Gamut refers to the range of colors a device can display, influencing the suitability of monitors for creative tasks.\n- Color spaces like sRGB, Adobe RGB, and Rec.709 are optimized for specific applications, ensuring color consistency Across devices.",
+      "keywords": [
+        "color",
+        "color models",
+        "color spaces",
+        "gamut",
+        "RGB",
+        "CMYK",
+        "sRGB",
+        "Adobe RGB",
+        "digital displays"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-04-06T11:00:00.000Z"
+    },
+    {
       "title": "Meta AI gets two new models as Meta releases Llama 4",
       "link": "https://www.theverge.com/news/644171/llama-4-released-ai-model-whatsapp-messenger-instagram-direct",
       "author": "Wes Davis",
@@ -1275,30 +1300,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-04-03T21:15:26.000Z"
-    },
-    {
-      "title": "The Best iPad Deals Available Now",
-      "link": "https://www.theverge.com/21280354/best-ipad-deals-apple",
-      "author": "Brandon Widder",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24128007/226361_Apple_iPad_10.9_10th_gen_DSeifert_0005.jpg?quality=90&strip=all&crop=16.666666666667,0,66.666666666667,100&w=2400",
-      "summary": "- Best iPad deals usually found during major sales like Black Friday and Amazon Prime Day, but good deals can be found year-round.\n- Notable discounts available on affordable models like 10th-gen iPad (2022), and recent models like iPad Mini (2024) and iPad Air (2024).\n- Current deal for 10th-gen iPad at Walmart for $269 ($80 off), and 11th-gen iPad on sale for $327 ($22 off).\n- The latest iPad Air models (2024) start at $549 for 11-inch with 128GB, with discounts on both 11-inch and 13-inch configurations.",
-      "keywords": [
-        "iPad",
-        "deals",
-        "Apple",
-        "discounts",
-        "iPad Mini",
-        "iPad Air",
-        "iPad Pro",
-        "2024"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-04-03T20:50:51.000Z"
     }
   ]
 }
