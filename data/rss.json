@@ -1,5 +1,41 @@
 [
   {
+    "title": "DOGE Plans IRS Hackathon to Develop Mega API for Taxpayer Data Access",
+    "id": "1cte68u1nq25ny",
+    "summary": "- DOGE to host a hackathon for creating a 'mega API' for IRS data access.\n- Organized by DOGE staffers at the IRS, Gavin Kliger and Sam Corcos.\n- API aims to provide access to taxpayer data including names, addresses, and tax returns.\n- A third-party vendor, potentially Palantir, will manage parts of the project.\n- Concerns regarding sensitive information access without standard security measures.\n- Project focused on transferring IRS data to a cloud platform as the agency's system read center.\n- Completion of the API is set for 30 days, criticized as unrealistic by IRS employees.\n- Collaboration with IRS engineers and Palantir for data collection planned.\n- March 14 letter from Senator Ron Wyden notes the IRS's refusal to meet DOGE’s data access requests.",
+    "thumbnails": [
+      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196306/unnamed.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 5
+    },
+    "keywords": [
+      "doge",
+      "hackathon",
+      "irs",
+      "api",
+      "elon musk",
+      "taxpayer data",
+      "palantir",
+      "data access",
+      "government efficiency"
+    ],
+    "sources": [
+      {
+        "title": "DOGE reportedly planning a hackathon to build ‘mega API’ for IRS data",
+        "link": "https://techcrunch.com/2025/04/05/doge-reportedly-planning-a-hackathon-to-build-mega-api-for-irs-data/"
+      },
+      {
+        "title": "DOGE plans now reportedly include an IRS ‘hackathon’",
+        "link": "https://www.theverge.com/news/644327/musk-doge-irs-hackathon-taxpayer-data-transfer-cloud"
+      }
+    ],
+    "lastUpdated": "2025-04-06T23:11:50.703Z"
+  },
+  {
     "title": "Meta’s benchmarks for its new AI models are a bit misleading",
     "id": "0tjgx3s0zz8rlt",
     "summary": "- Meta's new AI model, Maverick, ranks second on LM Arena but the version tested differs from the one available to developers.\n- LM Arena's testing involved an experimental version of Maverick, leading to possible discrepancies in model performance predictions.\n- Researchers have noted variations in output quality between the public version of Maverick and that used in LM Arena, particularly in the use of emojis and response length.",
@@ -1197,34 +1233,6 @@
       }
     ],
     "lastUpdated": "2025-04-06T00:58:10.617Z"
-  },
-  {
-    "title": "DOGE reportedly planning a hackathon to build ‘mega API’ for IRS data",
-    "id": "1cte68u1nq25ny",
-    "summary": "- DOGE to host a hackathon focused on creating a 'mega API' for IRS data access.\n- Organized by DOGE staffers at the IRS, Gavin Kliger and Sam Corcos.\n- The API aims to provide access to taxpayer data such as names, addresses, and tax returns.\n- A third-party vendor, potentially Palantir, will manage parts of the project.\n- Concerns raised about sensitive information access without usual security rules.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 5
-    },
-    "keywords": [
-      "DOGE",
-      "hackathon",
-      "IRS",
-      "API",
-      "Elon Musk",
-      "taxpayer data",
-      "Palantir"
-    ],
-    "sources": [
-      {
-        "title": "DOGE reportedly planning a hackathon to build ‘mega API’ for IRS data",
-        "link": "https://techcrunch.com/2025/04/05/doge-reportedly-planning-a-hackathon-to-build-mega-api-for-irs-data/"
-      }
-    ],
-    "lastUpdated": "2025-04-05T21:11:46.883Z"
   },
   {
     "title": "Cloudflare Introduces AI Labyrinth to Block Data Scraping Bots",
