@@ -4,6 +4,31 @@
   "feedUrl": "https://www.techinasia.com/feed",
   "items": [
     {
+      "title": "Trump threatens new 50% tariffs on China",
+      "link": "https://www.techinasia.com/news/trump-threatens-50-tariffs-china",
+      "author": null,
+      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/01/1736341611_shutterstock_2434408241-scaled.jpg",
+      "summary": "- President Trump plans to impose a new 50% tariff on China effective Apr. 9 unless China rescinds its recent tariff increases by Apr. 8.\n- The new tariffs follow a 34% increase in Chinese tariffs on U.S. goods, raising the average U.S. tariff rate to 22.5%, the highest since 1909.\n- Projected consumer price increase due to tariffs is 2.3%, resulting in an average loss of $3,800 per household, with lower-income households facing greater burdens.\n- U.S. GDP growth expected to decline by 0.5%, and the manufacturing sector, especially automotive, will likely be hardest hit.\n- Global markets have plummeted in response to tariff announcements, reflecting fears of disrupted supply chains and slower growth.",
+      "keywords": [
+        "tariffs",
+        "China",
+        "Trump",
+        "trade war",
+        "economy",
+        "GDP",
+        "consumer prices",
+        "global markets",
+        "manufacturing sector"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-04-07T16:18:54.000Z"
+    },
+    {
       "title": "Duolingo joins $9.5m seed round of AI edtech startup",
       "link": "https://www.techinasia.com/news/duolingo-joins-seed-round-ai-edtech-startup",
       "author": null,
@@ -1211,29 +1236,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-04-07T01:40:37.000Z"
-    },
-    {
-      "title": "Trump’s tariffs raise costs for US AI, chipmaking gear",
-      "link": "https://www.techinasia.com/news/trumps-tariffs-raise-costs-for-us-ai-chipmaking-gear",
-      "author": null,
-      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/01/1736407426_shutterstock_2272801609-scaled.jpg",
-      "summary": "- President Trump's new tariffs raise concerns in the US technology sector despite limited exemptions for semiconductors.\n- Key items like GPUs and AI training servers remain subject to tariffs, impacting costs.\n- Manufacturing equipment essential for chip production is also included in the tariffs.\n- Experts warn these tariffs could increase AI hardware costs and hinder infrastructure development.\n- High-end GPUs may see price increases, affecting cloud computing and military-grade semiconductor use.\n- There are fears of retaliatory tariffs from other countries, complicating global trade.\n- The Chips Act's US$52 billion investment might be undermined by rising import costs, as the US's share of global chip production has decreased from 37% in 1990 to 12%.",
-      "keywords": [
-        "tariffs",
-        "semiconductors",
-        "AI hardware",
-        "chip production",
-        "global trade",
-        "import costs",
-        "Chips Act"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 5,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-07T01:31:39.000Z"
     }
   ]
 }
