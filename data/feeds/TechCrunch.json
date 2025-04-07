@@ -4,6 +4,55 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Analyst says Apple, Tesla have biggest exposure to Trump’s tariffs",
+      "link": "https://techcrunch.com/2025/04/07/analyst-says-apple-tesla-have-biggest-exposure-to-trumps-tariffs/",
+      "author": "Rebecca Bellan",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/12/tesla-apple-watch.jpeg?w=1024",
+      "summary": "- Wedbush Securities analyst Dan Ives reduced price targets for Apple and Tesla due to President Trump’s tariffs.\n- Ives stated that Apple is most negatively affected, with 90% of iPhones produced in China, lowering its target by $75 to $250.\n- Tesla's price target cut from $550 to $315, citing not only tariffs but also CEO Elon Musk's political associations impacting sales.",
+      "keywords": [
+        "Apple",
+        "Tesla",
+        "Trump tariffs",
+        "Wedbush Securities",
+        "Dan Ives",
+        "stock price cut",
+        "US-China relations",
+        "Elon Musk",
+        "EV market"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-07T18:10:26.000Z"
+    },
+    {
+      "title": "Former Tesla exec Drew Baglino’s new startup is rethinking the electrical transformer",
+      "link": "https://techcrunch.com/2025/04/07/former-tesla-exec-drew-baglinos-new-startup-is-rethinking-the-electrical-transformer/",
+      "author": "Tim De Chant",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/10/critical-infrastructure.jpeg?w=1024",
+      "summary": "- Former Tesla executive Drew Baglino has founded Heron Power, focusing on solid-state transformers for the electric grid.\n- The startup aims to raise between $30 million to $50 million for its Series A funding round, with Capricorn Investment Group leading.\n- Baglino previously worked at Tesla since 2006, and left the company in April 2024 during staff layoffs.\n- Solid-state transformers offer improved regulation for voltage dips from renewable sources and feature a more compact design.\n- Heron Power is one of several startups targeting the transformer market, competing with Singapore-based Amperesand.",
+      "keywords": [
+        "Drew Baglino",
+        "Heron Power",
+        "solid-state transformers",
+        "electric grid",
+        "Tesla",
+        "renewable energy",
+        "investment",
+        "transformer market"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-04-07T17:54:48.000Z"
+    },
+    {
       "title": "Waymo may use interior camera data to train generative AI models, sell ads",
       "link": "https://techcrunch.com/2025/04/07/waymo-may-use-interior-camera-data-to-train-generative-ai-models-sell-ads/",
       "author": "Rebecca Bellan",
@@ -2614,52 +2663,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-04-04T09:17:39.000Z"
-    },
-    {
-      "title": "StrictlyVC is heading to London this May",
-      "link": "https://techcrunch.com/2025/04/04/strictlyvc-is-heading-to-london-this-may/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- StrictlyVC is hosting an event in London on **13 May**.\n- The event will feature high-caliber VC insider content for investors and startup leaders.\n- Notable past speakers include Sam Altman, Marc Andreessen, and Katie Haun.\n- Organized in partnership with Paladin, focusing on networking and exclusive VC insights.\n- Tickets are limited and available for purchase [here](https://techcrunch.com/events/strictlyvc-london-2025/?utm_medium=post&utm_campaign=svclondon&utm_content=ticketsales&utm_source=tc&utm_promo=post_svclondonannouncement_04042025&display=).",
-      "keywords": [
-        "StrictlyVC",
-        "London",
-        "venture capital",
-        "networking",
-        "startup leaders",
-        "event"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-04-04T07:00:00.000Z"
-    },
-    {
-      "title": "Midjourney releases its first new AI image model in nearly a year",
-      "link": "https://techcrunch.com/2025/04/03/midjourney-releases-its-first-new-ai-image-model-in-nearly-a-year/",
-      "author": "Kyle Wiggers",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-04-at-12.43.46AM.png?w=680",
-      "summary": "- Midjourney launched the V7 AI image model after nearly a year.\n- The model includes a personalization profile that adjusts to users' visual preferences.\n- New features include two operational modes: Turbo and Relax, with a Draft Mode for faster image generation.\n- CEO David Holz highlights improvements in coherence for text prompts and image quality.\n- V7 is expected to receive updates and added capabilities in the coming months.",
-      "keywords": [
-        "Midjourney",
-        "AI",
-        "image model",
-        "V7",
-        "artificial intelligence",
-        "image generation",
-        "technology",
-        "David Holz"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-04T04:59:47.000Z"
     }
   ]
 }
