@@ -4,6 +4,97 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Amazon says its AI video model can now generate minutes-long clips",
+      "link": "https://techcrunch.com/2025/04/07/amazon-says-its-ai-video-model-can-now-generate-minutes-long-clips/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Amazon upgraded its AI video model, Nova Reel, to generate videos up to two minutes long.\n- Nova Reel can create \"multi-shot\" videos with consistent styles; users can provide prompts up to 4,000 characters.\n- A new mode, \"Multishot Manual,\" allows referencing images for better video composition.\n- Nova Reel is available through AWS services, and its training data source has not been disclosed, raising IP concerns.",
+      "keywords": [
+        "AI",
+        "Amazon",
+        "video generation",
+        "Nova Reel",
+        "technology",
+        "cloud services"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-07T21:08:41.000Z"
+    },
+    {
+      "title": "How one tweet wreaked havoc on the stock market",
+      "link": "https://techcrunch.com/2025/04/07/how-one-tweet-wreaked-havoc-on-the-stock-market/",
+      "author": "Amanda Silberling",
+      "thumbnail": null,
+      "summary": "- A false tweet from Walter Bloomberg suggested President Trump was considering a 90-day pause on tariffs, causing market volatility.\n- The erroneous report led to significant fluctuations in index funds like the Dow Jones before being retracted.\n- The White House quickly denied the statements attributed to its economic adviser Kevin Hassett, who has not made such claims.\n- Reuters and CNBC later acknowledged their roles in propagating the misinformation, with Reuters retracting its original report.",
+      "keywords": [
+        "stock market",
+        "Walter Bloomberg",
+        "tariff pause",
+        "false report",
+        "financial news"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-04-07T21:02:46.000Z"
+    },
+    {
+      "title": "Nikola founder Trevor Milton wants to buy the bankrupt startup’s assets",
+      "link": "https://techcrunch.com/2025/04/07/nikola-founder-trevor-milton-wants-to-buy-the-bankrupt-startups-assets/",
+      "author": "Sean O'Kane",
+      "thumbnail": null,
+      "summary": "• Trevor Milton, founder of Nikola, seeks to purchase his former company's assets from bankruptcy.\n• Nikola filed for Chapter 11 bankruptcy in February, aiming to sell its business by mid-April.\n• Milton's bid faced opposition; he was denied access to inspect factory assets.\n• He was recently pardoned after serving time for securities fraud.\n• An auction for Nikola's assets is scheduled for April 7 to determine the highest offer.",
+      "keywords": [
+        "Trevor Milton",
+        "Nikola",
+        "bankruptcy",
+        "securities fraud",
+        "auction",
+        "assets"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-04-07T20:46:23.000Z"
+    },
+    {
+      "title": "Flexport CEO Ryan Petersen’s high-stakes test amid tariff turmoil: ‘You can’t be freaking out’",
+      "link": "https://techcrunch.com/2025/04/07/flexport-ceo-ryan-petersens-high-stakes-test-amid-tariff-turmoil-you-cant-be-freaking-out/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Ryan Petersen, CEO of Flexport, addressed over 2,300 customers following President Trump’s new tariffs defined as “Liberation Day.”\n- The tariffs could reach up to 79% on various products from China, significantly impacting U.S. importers and port operations.\n- The closure of the de minimis program for global imports affects many e-commerce businesses now subject to new customs obligations.\n- Petersen had already engaged with 200 customers before the tariff announcement, expecting duties on diverse locations including Vietnam.\n- Flexport aims to provide stability and guidance to clients amidst tariff chaos, with Petersen emphasizing the need for calm leadership during crises.\n- Future disruptions include proposed port fees for ships made in China, predicted to increase costs for U.S. importers.\n- Petersen indicated ongoing negotiations with countries like Vietnam and Israel may lead to reciprocal trade agreements shortly.",
+      "keywords": [
+        "Flexport",
+        "Ryan Petersen",
+        "tariffs",
+        "global trade",
+        "customs",
+        "e-commerce",
+        "de minimis",
+        "Trump",
+        "logistics",
+        "supply chain"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-04-07T20:43:28.000Z"
+    },
+    {
       "title": "Meta exec denies the company artificially boosted Llama 4’s benchmark scores",
       "link": "https://techcrunch.com/2025/04/07/meta-exec-denies-the-company-artificially-boosted-llama-4s-benchmark-scores/",
       "author": "Ahmad Al-Dahle",
@@ -2559,107 +2650,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-04-04T15:33:23.000Z"
-    },
-    {
-      "title": "OpenAI says it’ll release o3 after all, delays GPT-5",
-      "link": "https://techcrunch.com/2025/04/04/openai-says-itll-release-o3-after-all-delays-gpt-5/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- OpenAI reverses decision to cancel the launch of its o3 reasoning model and plans release in a few weeks.\n- CEO Sam Altman states the delay of GPT-5 is due to the integration of reasoning capabilities, making it more complex.\n- GPT-5 expected to roll out in a few months with features like voice, Canvas, and search.\n- OpenAI under pressure from rivals with open model approaches, contrasting its closed model strategy.\n- Upcoming releases include o3, an “o3 pro” model, o4-mini, and the first open language model since GPT-2.",
-      "keywords": [
-        "OpenAI",
-        "o3",
-        "GPT-5",
-        "AI models",
-        "Sam Altman",
-        "technology",
-        "artificial intelligence"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-04T14:45:01.000Z"
-    },
-    {
-      "title": "TechCrunch All Stage: Learn how AI can supercharge your MVPs with Chris Gardner",
-      "link": "https://techcrunch.com/2025/04/04/techcrunch-all-stage-learn-how-ai-can-supercharge-your-mvps-with-chris-gardner/",
-      "author": "Chris Gardner",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/04/Centered_16x9_Chris-Gardner-SpeakerArticleImageHeader_TCAllStage.png?w=680",
-      "summary": "- TechCrunch All Stage event on July 15 in Boston.\n- Chris Gardner leading a session titled \"MVP in the Age of AI: When to Bot and When to Not.\"\n- Discounts on tickets for investors and founders ending soon, with savings of at least $200.\n- Event expected to attract over 1,200 attendees from various stages of startup funding.\n- Insights on balancing AI use and human elements in developing minimum viable products.",
-      "keywords": [
-        "TechCrunch",
-        "AI",
-        "MVP",
-        "Chris Gardner",
-        "startup",
-        "Boston",
-        "event",
-        "funding",
-        "founder",
-        "investor"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-04T14:00:00.000Z"
-    },
-    {
-      "title": "Automakers jump on Tesla’s brand woes with discount EV offers",
-      "link": "https://techcrunch.com/2025/04/04/automakers-jump-on-teslas-brand-woes-with-discount-ev-offers/",
-      "author": "Rebecca Bellan",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2021/09/IMG_2580.jpg?w=680",
-      "summary": "- Tesla trade-ins in the U.S. are at an all-time high as owners become disillusioned with Elon Musk’s politics.\n- Automakers like Polestar, Lucid Motors, Volvo, and Ford are offering incentives to attract Tesla owners, with Polestar providing a $5,000 discount for Tesla drivers.\n- Lucid Motors offers Tesla owners up to $4,000 in discounts on the purchase of a 2025 Lucid Air sedan.\n- Volvo has launched a $1,000 bonus for Tesla owners looking to lease a new Volvo.\n- Ford previously offered a $1,000 discount for Tesla owners switching to a Mustang Mach-E or F-150 Lightning, though this has recently ended.\n- The political controversies surrounding Elon Musk and increased vandalism of Tesla vehicles may encourage owners to switch brands.",
-      "keywords": [
-        "Tesla",
-        "EV",
-        "automakers",
-        "discounts",
-        "Polestar",
-        "Lucid Motors",
-        "Volvo",
-        "Ford",
-        "trade-ins",
-        "brand loyalty"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-04T13:00:00.000Z"
-    },
-    {
-      "title": "Trump fires head of National Security Agency and Cyber Command",
-      "link": "https://techcrunch.com/2025/04/04/trump-fires-head-of-national-security-agency-and-cyber-command/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- The Trump administration fired Timothy Haugh, head of the NSA and Cyber Command, reported on April 4, 2025.\n- Haugh had been in position for over a year since February 2024, following his predecessor's retirement.\n- The dismissal followed advocacy for his removal by right-wing activist Laura Loomer during a meeting with Trump.\n- NSA deputy director Wendy Noble was also let go.\n- Senior lawmakers, including Senator Mark Warner, expressed shock and concern over the firing amidst rising cyber threats from groups such as China's Salt Typhoon hackers.",
-      "keywords": [
-        "Trump",
-        "NSA",
-        "Cyber Command",
-        "Timothy Haugh",
-        "Wendy Noble",
-        "national security",
-        "cyber threats",
-        "government",
-        "intelligence",
-        "Laura Loomer"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-04T12:02:04.000Z"
     }
   ]
 }

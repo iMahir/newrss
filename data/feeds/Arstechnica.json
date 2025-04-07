@@ -4,6 +4,32 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Meta’s surprise Llama 4 drop exposes the gap between AI ambition and reality",
+      "link": "https://arstechnica.com/ai/2025/04/metas-surprise-llama-4-drop-exposes-the-gap-between-ai-ambition-and-reality/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Meta's Llama 4 models utilize a mixture-of-experts (MoE) architecture to optimize processing efficiency.\n- Llama 4 Maverick has a 400 billion parameter size with only 17 billion active at one time, while Llama 4 Scout has 109 billion parameters with 17 billion active.\n- Despite claims of a 10 million token context window, practical usage limits it to 128,000 tokens or less due to memory constraints, as noted by Simon Willison.\n- Accessing larger contexts requires extensive resources, with documentation stating that 1.4 million tokens need eight high-end GPUs.\n- Testing revealed significant limitations; for example, summarizing a 20,000 token discussion resulted in poor quality output according to Willison.",
+      "keywords": [
+        "Llama 4",
+        "AI models",
+        "mixture-of-experts",
+        "Meta",
+        "context window",
+        "memory limitations",
+        "GPU requirements",
+        "performance issues",
+        "token processing",
+        "AI advancements"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-07T19:54:47.000Z"
+    },
+    {
       "title": "NSA warns 'fast flux' threatens national security. What is fast flux anyway?",
       "link": "https://arstechnica.com/security/2025/04/nsa-warns-that-overlooked-botnet-technique-threatens-national-security/",
       "author": null,
@@ -1132,27 +1158,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-02-21T18:17:28.000Z"
-    },
-    {
-      "title": "HP realizes that mandatory 15-minute support call wait times isn’t good support",
-      "link": "https://arstechnica.com/gadgets/2025/02/misguided-hp-customer-support-approach-included-forced-15-minute-call-wait-times/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- HP implemented forced 15-minute wait times for customer tech support calls in the UK, France, Germany, Ireland, and Italy.\n- The intention was to encourage customers to use digital self-solve resources instead of speaking to representatives.\n- The mandatory wait times have been lifted following customer feedback emphasizing the importance of timely access to live support.",
-      "keywords": [
-        "HP",
-        "customer support",
-        "wait times",
-        "digital support",
-        "tech support"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-21T15:45:17.000Z"
     }
   ]
 }
