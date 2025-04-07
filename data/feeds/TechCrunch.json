@@ -4,6 +4,30 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "OpenAI reportedly mulls buying Jony Ive and Sam Altman’s AI hardware startup",
+      "link": "https://techcrunch.com/2025/04/07/openai-reportedly-mulls-buying-jony-ive-and-sam-altmans-ai-hardware-startup/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- OpenAI is reportedly considering acquiring the AI hardware startup io Products, co-founded by Jony Ive and Sam Altman.\n- The acquisition price could be around $500 million, according to a report from The Information.\n- io Products has raised funding from Laurene Powell Jobs’s Emerson Collective and is working on AI-enabled devices, aiming to be less socially disruptive than the iPhone.",
+      "keywords": [
+        "OpenAI",
+        "Jony Ive",
+        "Sam Altman",
+        "AI hardware",
+        "io Products",
+        "acquisition",
+        "technology",
+        "Apple"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-07T13:13:24.000Z"
+    },
+    {
       "title": "Someone hacked ransomware gang Everest’s leak site",
       "link": "https://techcrunch.com/2025/04/07/someone-hacked-everest-ransomware-gang-dark-web-leak-site/",
       "author": null,
@@ -2617,30 +2641,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-04-03T19:47:49.000Z"
-    },
-    {
-      "title": "Devin, the viral coding AI agent, gets a new pay-as-you-go plan",
-      "link": "https://techcrunch.com/2025/04/03/devin-the-viral-coding-ai-agent-gets-a-new-pay-as-you-go-plan/",
-      "author": "Kyle Wiggers",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1439425791-1.jpg?w=1024",
-      "summary": "- Cognition introduced a new low-cost plan for its AI programming tool Devin, priced at $20 with a pay-as-you-go option.\n- Devin originally launched at $500 per month but was criticized for its performance on complex coding tasks.\n- The new pricing model offers 9 ACUs (computing credits) for $20, potentially leading to high costs depending on usage.\n- Devin 2.0 claims to perform better and can generate coding project plans, answer queries about code, and create documentation wikis.\n- Despite improvements, the AI still struggles with bugs and security vulnerabilities, completing only 3 out of 20 tasks successfully in one evaluation.",
-      "keywords": [
-        "Cognition",
-        "Devin",
-        "coding AI",
-        "pay-as-you-go",
-        "AI programming tool",
-        "technology",
-        "software development",
-        "ACUs"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-04-03T19:46:33.000Z"
     }
   ]
 }
