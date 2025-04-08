@@ -4,6 +4,28 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Leak Exposes Black Basta's Influence Tactics",
+      "link": "https://arstechnica.com/security/2025/04/leaked-messages-expose-trade-secrets-of-prolific-black-basta-ransomware-group/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- A leak of 190,000 chat messages from the Black Basta ransomware group reveals their structured operations and specialized personnel.\n- Messages were sent from September 2023 to September 2024, initially leaked on MEGA and later posted on Telegram in February 2025.\n- The leak coincided with the Black Basta site going offline on the dark web, raising questions about the group's status.\n- Trustwave's SpiderLabs analyzed the messages, providing insights into the group's workflows and decision-making processes.\n- The communication tactics involved social engineering approaches, posing as IT admins to trick employees of potential victims.",
+      "keywords": [
+        "Black Basta",
+        "ransomware",
+        "leak",
+        "social engineering",
+        "cybersecurity",
+        "exploit development"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-04-08T20:47:23.000Z"
+    },
+    {
       "title": "Carmack defends AI tools after Quake fan calls Microsoft AI demo “disgusting”",
       "link": "https://arstechnica.com/ai/2025/04/john-carmack-defends-ai-amid-backlash-over-microsofts-generative-quake-ii-demo/",
       "author": null,
@@ -1134,28 +1156,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-02-21T21:47:32.000Z"
-    },
-    {
-      "title": "As the Kernel Turns: Rust in Linux saga reaches the “Linus in all-caps” phase",
-      "link": "https://arstechnica.com/gadgets/2025/02/linux-leaders-pave-a-path-for-rust-in-kernel-while-supporting-c-veterans/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Rust, a memory-safe programming language, is making its way into the Linux kernel amidst ongoing debates.\n- Linus Torvalds approved Rust code support in the kernel in October 2022, but progress has faced frustrations and stalls.\n- Hector Martin resigned from the Linux maintainers list, citing burnout and roadblocks in implementing Rust for efficient driver work.",
-      "keywords": [
-        "Rust",
-        "Linux kernel",
-        "Linus Torvalds",
-        "C programming",
-        "open source",
-        "software development"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-21T18:55:11.000Z"
     }
   ]
 }
