@@ -4,6 +4,59 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Deep Cogito emerges from stealth with hybrid AI ‘reasoning’ models",
+      "link": "https://techcrunch.com/2025/04/08/deep-cogito-emerges-from-stealth-with-hybrid-ai-reasoning-models/",
+      "author": "Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/04/Livebench.webp?w=680",
+      "summary": "- Deep Cogito has launched with hybrid AI models that can switch between reasoning and non-reasoning modes.\n- These models, called Cogito 1, utilize a combination of reasoning and non-reasoning components for performance.\n- Cogito 1 has been internally benchmarked to outperform existing models in mathematics and language tasks.\n- Models range from 3 billion to 70 billion parameters, with future models expected to reach 671 billion parameters.\n- The company's founders are Drishan Arora and Dhruv Malhotra, who have backgrounds at Google AI and DeepMind.\n- Models are available for download or use via APIs on providers Fireworks AI and Together AI.",
+      "keywords": [
+        "AI",
+        "Deep Cogito",
+        "Hybrid Models",
+        "Reasoning",
+        "Machine Learning",
+        "Superintelligence"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-08T19:50:12.000Z"
+    },
+    {
+      "title": "No, Stripe is not becoming a bank",
+      "link": "https://techcrunch.com/2025/04/08/no-stripe-is-not-becoming-a-bank/",
+      "author": "Mary Ann Azevedo",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/04/Stripe-resized.webp?w=1024",
+      "summary": "- Stripe has applied for a narrow U.S. banking license but will not function as a bank.  \n- This license will allow Stripe to process its own payments without accepting deposits.  \n- Approval for the banking license could occur by the third quarter of 2025.  \n- The move is aimed at reducing dependency on external partners for payment processing.",
+      "keywords": [
+        "Stripe",
+        "banking license",
+        "payment processing",
+        "fintech",
+        "business resilience"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-04-08T19:48:11.000Z"
+    },
+    {
+      "title": "Inside the EV startup secretly backed by Jeff Bezos",
+      "link": "https://techcrunch.com/2025/04/08/inside-the-ev-startup-secretly-backed-by-jeff-bezos/",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-04-08T19:28:04.000Z"
+    },
+    {
       "title": "MrBeast Comments on Trump's Tariff Plans and Their Impact on Businesses",
       "link": "https://techcrunch.com/2025/04/08/at-last-mrbeast-weighs-in-on-the-global-economic-crisis-du-jour/",
       "author": "Amanda Silberling",
@@ -5069,75 +5122,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-04-06T19:03:02.000Z"
-    },
-    {
-      "title": "White House reportedly blames auto-suggested iPhone contact for Signal scandal",
-      "link": "https://techcrunch.com/2025/04/06/white-house-reportedly-blames-auto-suggested-iphone-contact-for-signal-scandal/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2150494835.jpg?w=1024",
-      "summary": "- The incident involves National Security Adviser Mike Waltz accidentally adding Atlantic editor Jeffrey Goldberg to a Signal group chat with Trump officials discussing Yemen airstrike plans.\n- Waltz's iPhone auto-suggested Goldberg's contact after Goldberg emailed the White House, leading to confusion during chat setup.\n- An internal investigation revealed this auto-suggestion mechanism caused the mix-up that included Goldberg in the chat.",
-      "keywords": [
-        "Signal",
-        "iPhone",
-        "auto-suggestion",
-        "White House",
-        "national security",
-        "Trump administration"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-04-06T18:10:08.000Z"
-    },
-    {
-      "title": "Microsoft releases AI-generated Quake II demo, but admits ‘limitations’",
-      "link": "https://techcrunch.com/2025/04/06/microsoft-releases-ai-generated-quake-ii-demo-but-admits-limitations/",
-      "author": "Anthony Ha",
-      "thumbnail": null,
-      "summary": "- Microsoft released a browser-based playable demo of Quake II as a tech demo for its Copilot AI platform.\n- The demo allows players to interact in a Quake II level using keyboard controls.\n- Microsoft researchers highlighted the model's capabilities but acknowledged significant limitations, including fuzzy enemies and issues with object permanence.\n- Game designer Austin Walker criticized the demo, emphasizing the importance of understanding game mechanics for effective gameplay.",
-      "keywords": [
-        "Microsoft",
-        "AI",
-        "Quake II",
-        "Copilot",
-        "tech demo",
-        "gaming",
-        "video games",
-        "limitations"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 8,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-06T16:10:24.000Z"
-    },
-    {
-      "title": "DOGE reportedly planning a hackathon to build ‘mega API’ for IRS data",
-      "link": "https://techcrunch.com/2025/04/05/doge-reportedly-planning-a-hackathon-to-build-mega-api-for-irs-data/",
-      "author": "Gavin Kliger, Sam Corcos",
-      "thumbnail": null,
-      "summary": "- DOGE to host a hackathon focused on creating a 'mega API' for IRS data access.\n- Organized by DOGE staffers at the IRS, Gavin Kliger and Sam Corcos.\n- The API aims to provide access to taxpayer data such as names, addresses, and tax returns.\n- A third-party vendor, potentially Palantir, will manage parts of the project.\n- Concerns raised about sensitive information access without usual security rules.",
-      "keywords": [
-        "DOGE",
-        "hackathon",
-        "IRS",
-        "API",
-        "Elon Musk",
-        "taxpayer data",
-        "Palantir"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-04-05T20:14:37.000Z"
     }
   ]
 }
