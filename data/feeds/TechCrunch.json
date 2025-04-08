@@ -4,6 +4,31 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "IBM releases a new mainframe built for the age of AI",
+      "link": "https://techcrunch.com/2025/04/07/ibm-releases-a-new-mainframe-built-for-the-age-of-ai/",
+      "author": "Becca Szkutak",
+      "thumbnail": null,
+      "summary": "- IBM announced the release of the z17 mainframe, designed to accelerate AI adoption.\n- The z17 is powered by an IBM Telum II processor and supports over 250 AI use cases.\n- It can process 450 billion inference operations daily, a 50% increase from the previous z16 model.\n- The development of the z17 took five years, aligning with market trends towards AI since late 2022.\n- The mainframe will support 48 IBM Spyre AI accelerator chips at launch, with plans to double that within a year.\n- The z17 is more energy-efficient than its predecessor and competitors, increasing AI acceleration by 7.5 times with lower energy use.\n- General availability is set for June 8, 2025.",
+      "keywords": [
+        "IBM",
+        "mainframe",
+        "AI",
+        "z17",
+        "Telum II",
+        "energy efficiency",
+        "AI accelerator",
+        "technology",
+        "business"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-04-08T04:01:00.000Z"
+    },
+    {
       "title": "Google is allegedly paying some AI staff to do nothing for a year rather than join rivals",
       "link": "https://techcrunch.com/2025/04/07/google-is-allegedly-paying-some-ai-staff-to-do-nothing-for-a-year-rather-than-join-rivals/",
       "author": null,
@@ -2629,28 +2654,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-04-04T16:30:00.000Z"
-    },
-    {
-      "title": "Turbine raises $22M to help VC investors get cash without selling their stakes",
-      "link": "https://techcrunch.com/2025/04/04/turbine-raises-22m-to-help-vc-investors-get-cash-without-selling-their-stakes/",
-      "author": "Marina Temkin",
-      "thumbnail": null,
-      "summary": "- Turbine raised $22 million in equity funding, co-led by Alpha Edison and TTV Capital.\n- The startup provides a credit product for limited partners in venture capital, allowing them to borrow funds secured by their LP positions.\n- Turbine has secured up to $100 million in debt from Silicon Valley Bank to support its lending operations.\n- The interest rate on loans from Turbine is around 9%, deemed reasonable compared to potential losses from selling stakes on secondary markets.",
-      "keywords": [
-        "Turbine",
-        "venture capital",
-        "fundraising",
-        "liquidity",
-        "investors",
-        "private equity"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-04T16:00:00.000Z"
     }
   ]
 }
