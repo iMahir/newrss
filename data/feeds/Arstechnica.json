@@ -4,6 +4,28 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Carmack defends AI tools after Quake fan calls Microsoft AI demo “disgusting”",
+      "link": "https://arstechnica.com/ai/2025/04/john-carmack-defends-ai-amid-backlash-over-microsofts-generative-quake-ii-demo/",
+      "author": null,
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/wham_overview-1024x589.png",
+      "summary": "- Microsoft's new generative *Quake II* demo, WHAMM, shows moderate improvements, increasing resolution from 300×180 to 640×360.\n- The demo highlights significant limitations in gameplay performance, including poor enemy interactions and a short context length of 0.9 seconds.\n- Industry veterans like Carmack and Sweeney emphasize AI's role as a development tool, rather than a full replacement for traditional game development.",
+      "keywords": [
+        "AI",
+        "gaming",
+        "Microsoft",
+        "Quake II",
+        "game development",
+        "John Carmack"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-04-08T18:26:33.000Z"
+    },
+    {
       "title": "Meta’s surprise Llama 4 drop exposes the gap between AI ambition and reality",
       "link": "https://arstechnica.com/ai/2025/04/metas-surprise-llama-4-drop-exposes-the-gap-between-ai-ambition-and-reality/",
       "author": null,
@@ -1134,30 +1156,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-21T18:55:11.000Z"
-    },
-    {
-      "title": "Notorious crooks broke into a company network in 48 minutes. Here’s how.",
-      "link": "https://arstechnica.com/security/2025/02/notorious-crooks-broke-into-a-company-network-in-48-minutes-heres-how/",
-      "author": "Dan Goodin",
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/ransomware-breakout.jpg",
-      "summary": "- In December, a manufacturing company faced a surge of phishing messages, leading to a network breach within 48 minutes.\n- Attackers, likely part of the Black Basta ransomware group, used a Microsoft Teams decoy to gain initial access through employee remote desktop sharing.\n- ReliaQuest noted a 22% reduction in breakout time in 2024 compared to the previous year, emphasizing the importance of swift threat containment to prevent data loss and reputational damage.\n- The attackers manipulated various tools, including DLL sideloading and PowerShell, showcasing sophisticated breach techniques and rapid lateral movement within the network.",
-      "keywords": [
-        "ransomware",
-        "cybersecurity",
-        "phishing",
-        "network breach",
-        "ReliaQuest",
-        "Black Basta",
-        "DLL sideloading",
-        "IT security"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-02-21T18:17:28.000Z"
     }
   ]
 }
