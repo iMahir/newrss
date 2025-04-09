@@ -4,6 +4,77 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Ilya Sutskever taps Google Cloud to power his AI startup’s research",
+      "link": "https://techcrunch.com/2025/04/09/ilya-sutskever-taps-google-cloud-to-power-his-ai-startups-research/",
+      "author": "Maxwell Zeff",
+      "thumbnail": null,
+      "summary": "- Ilya Sutskever's startup Safe Superintelligence (SSI) partners with Google Cloud to utilize TPU chips for AI research.\n- SSI aims to develop safe, superintelligent AI, accelerating research and development efforts.\n- The company has backing of $1 billion from Andreessen Horowitz and others, having emerged from stealth in June 2024.",
+      "keywords": [
+        "Ilya Sutskever",
+        "Google Cloud",
+        "AI startup",
+        "Safe Superintelligence",
+        "TPUs",
+        "superintelligent AI",
+        "AI research",
+        "venture capital"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-04-09T18:55:13.000Z"
+    },
+    {
+      "title": "Canoo CEO can buy bankrupt EV startup’s assets, judge rules",
+      "link": "https://techcrunch.com/2025/04/09/canoo-ceo-can-buy-bankrupt-ev-startups-assets-judge-rules/",
+      "author": "Sean O’Kane",
+      "thumbnail": null,
+      "summary": "• Judge Brendan Shannon approves sale of Canoo’s assets to CEO Anthony Aquila for $4 million.\n• Aquila plans to service customers like NASA and the Department of Defense.\n• Canoo is part of a trend of bankrupt EV startups, including Fisker and Nikola.\n• Harbinger, an electric truck startup, claimed Canoo hid assets, raising concerns.\n• Shannon deemed the sale process fair and claims of misappropriated trade secrets unsubstantiated.",
+      "keywords": [
+        "Canoo",
+        "bankruptcy",
+        "EV startup",
+        "Anthony Aquila",
+        "Judge Brendan Shannon",
+        "asset sale",
+        "Harbinger"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-04-09T18:53:59.000Z"
+    },
+    {
+      "title": "Court document reveals locations of WhatsApp victims targeted by NSO spyware",
+      "link": "https://techcrunch.com/2025/04/09/court-document-reveals-locations-of-whatsapp-victims-targeted-by-nso-spyware/",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "thumbnail": null,
+      "summary": "- NSO Group’s Pegusus spyware targeted 1,223 WhatsApp users in 51 countries during a 2019 campaign.\n- The most affected countries included Mexico (456 victims), India (100), and Bahrain (82).\n- The hacking occurred over two months, leading to WhatsApp's lawsuit against NSO Group for exploiting the app's vulnerabilities.",
+      "keywords": [
+        "NSO Group",
+        "Pegasus spyware",
+        "WhatsApp",
+        "cybersecurity",
+        "human rights",
+        "surveillance",
+        "hacking",
+        "court document"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-04-09T18:25:08.000Z"
+    },
+    {
       "title": "More good news for New York startups: Lerer Hippeau raised another $200M",
       "link": "https://techcrunch.com/2025/04/09/more-good-news-for-new-york-startups-lerer-hippeau-raised-another-200m/",
       "author": null,
@@ -5884,74 +5955,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-04-08T13:00:00.000Z"
-    },
-    {
-      "title": "Amazon unveils a new AI voice model, Nova Sonic",
-      "link": "https://techcrunch.com/2025/04/08/amazon-unveils-a-new-ai-voice-model-nova-sonic/",
-      "author": "Maxwell Zeff",
-      "thumbnail": null,
-      "summary": "- Amazon launched Nova Sonic, a new generative AI voice model that processes and generates natural-sounding speech.\n- Nova Sonic is said to compete with models from OpenAI and Google in speed and conversational quality.\n- The model is available through Amazon's Bedrock platform and is 80% less expensive than OpenAI's GPT-4o.\n- It improves upon older models by generating text transcripts and handling real-time queries efficiently.\n- Nova Sonic achieved a 4.2% word error rate across multiple languages, outperforming competitors in accuracy and speed.\n- The model is part of Amazon's strategy for developing artificial general intelligence (AGI).",
-      "keywords": [
-        "AI",
-        "voice model",
-        "Amazon",
-        "Nova Sonic",
-        "speech recognition",
-        "AGI",
-        "voice technology"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-04-08T13:00:00.000Z"
-    },
-    {
-      "title": "Blackbird gobbles up $50M for its blockchain-based payment-loyalty app for restaurants",
-      "link": "https://techcrunch.com/2025/04/08/blackbird-gobbles-up-50m-for-its-blockchain-based-payment-loyalty-app-for-restaurants/",
-      "author": "Ingrid Lunden",
-      "thumbnail": null,
-      "summary": "- Blackbird Labs has raised $50 million to enhance its blockchain-based payment-loyalty platform for restaurants.\n- The startup aims to launch a cross-restaurant loyalty service called Blackbird Club and expand into new markets beyond New York, San Francisco, and Charleston.\n- Led by Spark Capital, the funding round includes support from Coinbase Ventures, Amex Ventures, and Andreessen Horowitz.\n- Blackbird has signed up around 1,000 restaurants and has raised a total of $85 million to date.\n- The platform is designed to save restaurants 3-4% in payment processing fees.",
-      "keywords": [
-        "Blackbird",
-        "blockchain",
-        "restaurant loyalty",
-        "payments",
-        "funding",
-        "startups",
-        "technology"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-08T12:08:36.000Z"
-    },
-    {
-      "title": "XL Batteries is using petrochemical infrastructure to store solar and wind power",
-      "link": "https://techcrunch.com/2025/04/08/xl-batteries-is-using-petrochemical-infrastructure-to-store-solar-and-wind-power/",
-      "author": "Tim De Chant",
-      "thumbnail": null,
-      "summary": "- XL Batteries has developed a new battery technology that is cheaper, safer, and more durable than existing batteries.\n- The company targets grid-scale storage, using bulkier and heavier liquid to store electricity.\n- They are commissioning a demonstration unit at Stolthaven Terminals, aiming for large-scale battery systems capable of powering around 25,000 homes for a day.\n- XL Batteries is leveraging flow battery technology, which uses two tanks and pumps for energy storage.\n- Their technology is based on stable organic compounds that were previously difficult to use effectively.\n- The company plans to work with independent power producers in Texas for grid support installations.",
-      "keywords": [
-        "battery technology",
-        "grid storage",
-        "renewable energy",
-        "XL Batteries",
-        "flow batteries",
-        "organic batteries"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 9
-      },
-      "pubDate": "2025-04-08T12:00:00.000Z"
     }
   ]
 }
