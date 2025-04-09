@@ -4,6 +4,28 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "US may fine TSMC $1B over chip allegedly used in Huawei AI processor",
+      "link": "https://techcrunch.com/2025/04/09/us-may-fine-tsmc-1b-over-chip-allegedly-used-in-huawei-ai-processor/",
+      "author": "Kate Park",
+      "thumbnail": null,
+      "summary": "- TSMC may face a $1 billion fine over a U.S. export control investigation involving a chip for Huawei's AI processor.\n- The investigation relates to TSMC's chips used in Huawei's Ascend 910B AI processor.\n- TSMC has not supplied to Huawei since mid-September 2020 and emphasizes compliance with export regulations.",
+      "keywords": [
+        "TSMC",
+        "Huawei",
+        "AI processor",
+        "export control",
+        "technology",
+        "chip manufacturing"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-04-09T15:31:42.000Z"
+    },
+    {
       "title": "Tired of doing laundry? These startups want to help.",
       "link": "https://techcrunch.com/2025/04/09/tired-of-doing-laundry-these-startups-want-to-help/",
       "author": "Mary Ann Azevedo",
@@ -4981,28 +5003,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-04-07T21:36:21.000Z"
-    },
-    {
-      "title": "Amazon says its AI video model can now generate minutes-long clips",
-      "link": "https://techcrunch.com/2025/04/07/amazon-says-its-ai-video-model-can-now-generate-minutes-long-clips/",
-      "author": "Kyle Wiggers",
-      "thumbnail": null,
-      "summary": "- Amazon upgraded its AI video model, Nova Reel, to generate videos up to two minutes long.\n- Nova Reel can create \"multi-shot\" videos with consistent styles; users can provide prompts up to 4,000 characters.\n- A new mode, \"Multishot Manual,\" allows referencing images for better video composition.\n- Nova Reel is available through AWS services, and its training data source has not been disclosed, raising IP concerns.",
-      "keywords": [
-        "AI",
-        "Amazon",
-        "video generation",
-        "Nova Reel",
-        "technology",
-        "cloud services"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 8,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-07T21:08:41.000Z"
     }
   ]
 }
