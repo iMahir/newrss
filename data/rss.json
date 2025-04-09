@@ -1,5 +1,64 @@
 [
   {
+    "title": "Apple patches 0-day exploited in “extremely sophisticated attack”",
+    "id": "03o7xfy0miqcfu",
+    "summary": "- Apple patched a critical zero-day vulnerability in iPhones and iPads, tracked as CVE-2025-24201.\n- The vulnerability affects multiple devices, including iPhone XS and later models, and iPads from various generations.\n- Exploited in a sophisticated attack against specific individuals using older iOS versions.\n- The fix is a supplementary measure following blocking in iOS 17.2, with advisory details lacking specific exploit detection information.\n- Latest updates bring iOS and iPadOS to version 18.3.2; immediate installation is recommended for most at-risk users.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 8,
+      "impact": 9,
+      "novelty": 7,
+      "longTermSignificance": 6
+    },
+    "keywords": [
+      "Apple",
+      "zero-day vulnerability",
+      "iPhone",
+      "iPad",
+      "iOS",
+      "Webkit",
+      "security update",
+      "CVE-2025-24201"
+    ],
+    "sources": [
+      {
+        "title": "Apple patches 0-day exploited in “extremely sophisticated attack”",
+        "link": "https://arstechnica.com/security/2025/03/apple-patches-0-day-exploited-in-extremely-sophisticated-attack/"
+      }
+    ],
+    "lastUpdated": "2025-04-09T03:29:50.909Z"
+  },
+  {
+    "title": "OpenAI pushes AI agent capabilities with new developer API",
+    "id": "1gjn71n1owjcl9",
+    "summary": "- Developers can utilize the Responses API to access GPT-4o and GPT-4o mini models for web browsing and answering questions.\n- These models achieved 90% and 88% accuracy on the SimpleQA benchmark, surpassing the performance of GPT-4.5 without search.\n- Despite improvements, the AI still makes factual mistakes 10% of the time.\n- OpenAI also released the Agents SDK for developers to integrate AI models with internal systems.\n- The AI agent field is evolving, but unrealistic claims and limitations remain, as highlighted by the issues with the Manus AI platform.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "OpenAI",
+      "AI agents",
+      "developer API",
+      "GPT-4o",
+      "Responses API",
+      "web search",
+      "accuracy",
+      "Agents SDK",
+      "Machine Learning"
+    ],
+    "sources": [
+      {
+        "title": "OpenAI pushes AI agent capabilities with new developer API",
+        "link": "https://arstechnica.com/ai/2025/03/openai-pushes-ai-agent-capabilities-with-new-developer-api/"
+      }
+    ],
+    "lastUpdated": "2025-04-09T03:29:50.909Z"
+  },
+  {
     "title": "Who’s investing in India’s SaaS startups? + 50 Rising Startups in Korea and Key Funding Updates",
     "id": "0ldu5130l7o3xq",
     "summary": "- Mercury raised $300 million in Series C funding, doubling its valuation to $3.5 billion.\n- Terrestrial Energy went public via SPAC, expecting to secure $280 million.\n- Plenty filed for bankruptcy after nearly $1 billion in funding.\n- Block laid off 931 employees as revealed in a leaked email.\n- Nvidia is reportedly in talks to acquire Lepton AI.\n- FuriosaAI rejected an $800 million acquisition offer from Meta.\n- Active investors in Asian startups based on minimum three investments in the last 12 months.\n- Redpanda raised $100 million in Series D funding led by Alphabet's GV, with total funding now at $265 million and a valuation of $1 billion.\n- Redpanda enhances its platform for real-time data integration and processing, supporting over 300 data connectors.\n- Rippling sued a former employee for espionage against rival Deel.\n- Harbinger accuses Canoo of asset concealment in bankruptcy sale.\n- Qualcomm acquired generative AI division of Vietnam-based VinAI.\n- Epic Games purchased Loci, an AI tagging platform.\n- Isomorphic Labs raised $600M and Plaid raised $575M at a $6.1 billion valuation.\n- Intel Capital plans to spin out after operating as Intel's venture investment arm since 1991.\n- Highlights active investors in India's SaaS sector over the past two years to assist founders seeking funding.",
@@ -35142,335 +35201,5 @@
       }
     ],
     "lastUpdated": "2025-03-26T04:15:06.679Z"
-  },
-  {
-    "title": "Otter.ai Launches AI Agents for Meetings as Skype Shuts Down",
-    "id": "1b5ck7000afa5q",
-    "summary": "- Skype will shut down on May 5, 2025, after 23 years of service, as confirmed by Microsoft.\n- Users can migrate contacts and data to Microsoft Teams or download their Skype data.\n- A guide is available for transition and lists alternatives including Google Meet, Zoom, Webex, Discord, Slack, and Signal.\n- Otter.ai has introduced three new AI agents for meetings and calls.\n- The Otter Meeting Agent can answer questions, schedule meetings, and draft emails via voice interactions.\n- It is currently available on Zoom, with expansion to Microsoft Teams and Google Meet planned.\n- The AI assistant features natural voice commands and responds based on company databases.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/03/1742953352_shutterstock_2398530315-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 8
-    },
-    "keywords": [
-      "skype",
-      "microsoft teams",
-      "video-calling alternatives",
-      "google meet",
-      "zoom",
-      "webex",
-      "discord",
-      "slack",
-      "signal",
-      "video conferencing",
-      "otter.ai",
-      "ai agents",
-      "meetings"
-    ],
-    "sources": [
-      {
-        "title": "Skype is shutting down in May — these are the best alternatives",
-        "link": "https://techcrunch.com/2025/03/15/skype-shuts-down-in-may-these-are-the-best-alternatives/"
-      },
-      {
-        "title": "Otter.ai launches AI agents for meetings, sales, demos",
-        "link": "https://www.techinasia.com/news/otter-ai-launches-ai-agents-for-meetings-sales-demos"
-      }
-    ],
-    "lastUpdated": "2025-03-26T03:27:29.415Z"
-  },
-  {
-    "title": "Chinese embodied AI startup TARS raises $120m in angel funding",
-    "id": "1vc5adl11y41yn",
-    "summary": "- TARS, a Chinese AI startup, raised $120 million in an angel funding round for embodied AI development.\n- Funding was co-led by Lanchi Ventures and Qiming Venture Partners, with participation from Linear Venture, Hengxu Capital, Aplus Capital, and others.\n- Founded in February 2025 in Shanghai, TARS aims to use funds for research, AI model training, and technology applications expansion.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/01/1737014009_shutterstock_1653927502-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "TARS",
-      "angel funding",
-      "embodied AI",
-      "artificial intelligence",
-      "China",
-      "investment",
-      "robotics"
-    ],
-    "sources": [
-      {
-        "title": "Chinese embodied AI startup TARS raises $120m in angel funding",
-        "link": "https://www.techinasia.com/news/chinese-embodied-ai-startup-tars-raises-120m-in-angel-funding"
-      }
-    ],
-    "lastUpdated": "2025-03-26T03:27:29.415Z"
-  },
-  {
-    "title": "Microsoft's Copilot AI Exposes Private GitHub Repositories and Introduces Deep Reasoning Agents",
-    "id": "1vogg4u01kejfl",
-    "summary": "- Microsoft’s Copilot AI assistant exposed over 20,000 private GitHub repositories from major companies including Google and Intel.\n- The exposure occurred due to Bing's cache not removing entries when repositories switched from public to private.\n- AI security firm Lasso discovered the issue in late 2024, leading to changes from Microsoft in November.\n- Microsoft has now introduced two deep reasoning agents, Researcher and Analyst, for Microsoft 365 Copilot.\n- The rollout for these tools starts in April, offering advanced data analysis capabilities for users.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/0007835275_20.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "microsoft",
-      "github",
-      "copilot",
-      "ai",
-      "data privacy",
-      "security breach",
-      "repositories",
-      "researcher",
-      "analyst",
-      "data analysis",
-      "openai",
-      "technology",
-      "productivity tools"
-    ],
-    "sources": [
-      {
-        "title": "Copilot exposes private GitHub pages, some removed by Microsoft",
-        "link": "https://arstechnica.com/information-technology/2025/02/copilot-exposes-private-github-pages-some-removed-by-microsoft/"
-      },
-      {
-        "title": "Microsoft adds ‘deep reasoning’ Copilot AI for research and data analysis",
-        "link": "https://www.theverge.com/microsoft/636089/microsoft-365-copilot-reasoning-ai-agents"
-      }
-    ],
-    "lastUpdated": "2025-03-26T03:27:29.414Z"
-  },
-  {
-    "title": "India orders Samsung to pay $610m in back taxes",
-    "id": "0sj8f5s1cw6usp",
-    "summary": "- India has ordered Samsung to pay US$601 million in back taxes and penalties for tariff violations on telecom equipment imports.\n- Samsung allegedly misclassified “Remote Radio Head” components from 2018 to 2021 to evade tariffs, leading to no duties paid on US$784 million worth of imports.\n- Seven executives, including VP Sung Beam Hong and CFO Dong Won Chu, face additional fines of US$81 million.\n- The investigation, initiated in 2021, involved raids at Samsung's offices in Mumbai and Gurugram, where evidence was seized.\n- Samsung denies wrongdoing, asserting compliance with Indian laws regarding customs classification.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/02/1739940031_shutterstock_1758457088-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 9,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "Samsung",
-      "India",
-      "back taxes",
-      "tariff violations",
-      "telecom equipment",
-      "import duties",
-      "Customs authorities",
-      "Remote Radio Head",
-      "Sung Beam Hong",
-      "Dong Won Chu"
-    ],
-    "sources": [
-      {
-        "title": "India orders Samsung to pay $610m in back taxes",
-        "link": "https://www.techinasia.com/news/india-orders-samsung-to-pay-610m-in-back-taxes"
-      }
-    ],
-    "lastUpdated": "2025-03-26T03:27:29.414Z"
-  },
-  {
-    "title": "BMW partners with Alibaba to bring AI to China cars",
-    "id": "0pbferq04ab4y8",
-    "summary": "- BMW Group partners with Alibaba to develop an AI engine for next-generation vehicles in China.\n- Collaboration will utilize Alibaba's Tongyi Qianwen models and Banma in-car AI platform for enhanced smart cockpit features.\n- The AI engine will debut in the Neue Klasse series in 2026, featuring improved voice interactions and in-car mobility services, to be showcased at the Shanghai Auto Show in April 2025.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/02/1740281817_shutterstock_2385808159-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 7,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "BMW",
-      "Alibaba",
-      "AI",
-      "China",
-      "automotive",
-      "partnership",
-      "smart cockpit",
-      "Neue Klasse",
-      "voice interaction",
-      "Shanghai Auto Show"
-    ],
-    "sources": [
-      {
-        "title": "BMW partners with Alibaba to bring AI to China cars",
-        "link": "https://www.techinasia.com/news/bmw-partners-alibaba-bring-ai-china-cars"
-      }
-    ],
-    "lastUpdated": "2025-03-26T03:27:29.414Z"
-  },
-  {
-    "title": "Agritech startup Grow Indigo secures $10m",
-    "id": "18feciy1t588fk",
-    "summary": "- Agritech startup Grow Indigo raised US$10 million from British International Investment (BII).\n- The funds will enhance sustainability programs and expand carbon farming initiatives.\n- Founded in 2018 as a joint venture between US-based Indigo Ag and Mahyco, Grow Indigo focuses on sustainable agricultural solutions to improve farmers’ income and minimize resource wastage.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/03/1742951924_Grow-Indigo.jpg"
-    ],
-    "scores": {
-      "scale": 6,
-      "impact": 7,
-      "novelty": 5,
-      "longTermSignificance": 8
-    },
-    "keywords": [
-      "Agritech",
-      "Grow Indigo",
-      "investment",
-      "sustainability",
-      "carbon farming",
-      "Indigo Ag",
-      "Mahyco"
-    ],
-    "sources": [
-      {
-        "title": "Agritech startup Grow Indigo secures $10m",
-        "link": "https://www.techinasia.com/news/agritech-startup-grow-indigo-secures-10m"
-      }
-    ],
-    "lastUpdated": "2025-03-26T03:27:29.413Z"
-  },
-  {
-    "title": "Shareholders approve XL Axiata, Smartfren merger",
-    "id": "1u3m0cs1tcc3uh",
-    "summary": "- On Mar. 25, shareholders of XL Axiata, Smartfren Telecom, and Smart Telcom approved the merger.\n- The merger has received regulatory approvals from various Indonesian authorities.\n- It will create a new entity, XLSmart, serving over 94.3 million subscribers.\n- XLSmart is projected to generate annual revenue of 45.8 trillion rupiah (US$2.76 billion) with an EBITDA of 22.5 trillion rupiah (US$1.35 billion).\n- Axiata Group and Sinar Mas will each hold a 34.8% stake, overseeing the company's direction.\n- Rajeev Sethi appointed as President Director and CEO of XLSmart.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/03/1742956841_image002.jpg"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 9,
-      "novelty": 7,
-      "longTermSignificance": 8
-    },
-    "keywords": [
-      "merger",
-      "XL Axiata",
-      "Smartfren",
-      "telecommunications",
-      "Indonesia",
-      "XLSmart"
-    ],
-    "sources": [
-      {
-        "title": "Shareholders approve XL Axiata, Smartfren merger",
-        "link": "https://www.techinasia.com/news/shareholders-approve-xl-axiata-smartfren-merger"
-      }
-    ],
-    "lastUpdated": "2025-03-26T03:27:29.413Z"
-  },
-  {
-    "title": "Cisco, Nvidia launch AI factory for enterprise security",
-    "id": "1js40e808u88a6",
-    "summary": "- Cisco and Nvidia have partnered to create an AI factory geared towards enhancing enterprise security.\n- The initiative aims to integrate advanced AI technologies into enterprise security solutions.\n- This collaboration is expected to address increasing cybersecurity threats for businesses globally.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/01/1736233381_shutterstock_2320842535-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "Cisco",
-      "Nvidia",
-      "AI factory",
-      "enterprise security",
-      "cybersecurity",
-      "technology partnership"
-    ],
-    "sources": [
-      {
-        "title": "Cisco, Nvidia launch AI factory for enterprise security",
-        "link": "https://www.techinasia.com/news/cisco-nvidia-launch-ai-factory-enterprise-security"
-      }
-    ],
-    "lastUpdated": "2025-03-26T03:27:29.412Z"
-  },
-  {
-    "title": "OpenAI Enhances ChatGPT with Photorealistic Image Generation",
-    "id": "1ht25e601yiukz",
-    "summary": "- OpenAI introduces image generation feature in ChatGPT powered by GPT-4o model.\n- Initially available to ChatGPT Plus, Pro, Team, and free users, with Enterprise and Education tiers to follow.\n- Users can create or modify images based on prompts, conversations, and uploaded files; enhanced understanding of image context.\n- Functionality allows refining images using natural language to maintain visual consistency.\n- Integrated image generation provides photorealistic visuals and multimodal outputs.\n- Model effectively understands the relationship between images and language for accurate visual generation.\n- Trained on a combined dataset of images and text, generating contextually appropriate visuals and rendering text in images for logos and diagrams.\n- Utilizes transformer architecture and diffusion techniques to enhance pixel-level precision.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/03/1742955926_shutterstock_2461956713-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 9,
-      "novelty": 7.5,
-      "longTermSignificance": 7.5
-    },
-    "keywords": [
-      "openai",
-      "chatgpt",
-      "image generation",
-      "gpt-4o",
-      "sam altman",
-      "ai visuals",
-      "multimodal model",
-      "photorealism",
-      "multimodal outputs",
-      "visuals",
-      "text rendering"
-    ],
-    "sources": [
-      {
-        "title": "OpenAI brings AI image generation directly to ChatGPT",
-        "link": "https://www.fastcompany.com/91305654/openai-a-image-generation-chatgpt?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
-      },
-      {
-        "title": "OpenAI adds photorealistic image generation to GPT-4o",
-        "link": "https://www.techinasia.com/news/openai-adds-photorealistic-image-generation-to-gpt-4o"
-      }
-    ],
-    "lastUpdated": "2025-03-26T03:27:29.411Z"
-  },
-  {
-    "title": "New hack uses prompt injection to corrupt Gemini’s long-term memory",
-    "id": "09jbrlj1j8cfpb",
-    "summary": "- Researcher Johann Rehberger demonstrated a new hack using indirect prompt injection on Google’s Gemini chatbot.\n- The hack allows permanent false memories to be stored in the chatbot, affecting future interactions.\n- Users can unknowingly upload untrusted documents containing hidden instructions that manipulate summarization and trigger the storage of false information in long-term memory.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 6,
-      "impact": 7,
-      "novelty": 8,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "AI hacking",
-      "prompt injection",
-      "Google Gemini",
-      "long-term memory",
-      "cybersecurity",
-      "data exfiltration",
-      "malicious prompts"
-    ],
-    "sources": [
-      {
-        "title": "New hack uses prompt injection to corrupt Gemini’s long-term memory",
-        "link": "https://arstechnica.com/security/2025/02/new-hack-uses-prompt-injection-to-corrupt-geminis-long-term-memory/"
-      }
-    ],
-    "lastUpdated": "2025-03-26T03:27:29.399Z"
   }
 ]
