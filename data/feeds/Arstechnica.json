@@ -4,6 +4,52 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "OpenAI helps spammers plaster 80,000 sites with messages that bypassed filters",
+      "link": "https://arstechnica.com/security/2025/04/openais-gpt-helps-spammers-send-blast-of-80000-messages-that-bypassed-filters/",
+      "author": "Alex Delamotte, Jim Walter",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/AkiraBot-spam-openai-prompt-640x365.webp",
+      "summary": "- AkiraBot uses OpenAI's GPT model to generate unique spam messages targeting websites.\n- The AI populates messages with specific site names and service descriptions, complicating spam filtering.\n- Over 80,000 messages were delivered between September 2024 and January 2025, with 11,000 failures.\n- OpenAI acknowledged the misuse of its platform and stated it violates their terms of service.",
+      "keywords": [
+        "AI",
+        "spam",
+        "OpenAI",
+        "AkiraBot",
+        "LLM",
+        "security",
+        "SentinelLabs"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-04-09T19:32:31.000Z"
+    },
+    {
+      "title": "After months of user complaints, Anthropic debuts new $200/month AI plan",
+      "link": "https://arstechnica.com/ai/2025/04/anthropic-launches-200-claude-max-ai-plan-with-20x-higher-usage-limits/",
+      "author": null,
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/claude_plans_screenshot-1024x730.jpg",
+      "summary": "- Anthropic launched a new subscription tier called Claude Max at $200 per month, aimed at intensive usage with higher limits than previous plans.\n- The Max plan provides 5x–20x more usage compared to the Pro tier, which costs $18–$20 per month.\n- Subscribers of Max will have priority access to new features and models and will benefit from higher output limits, enhancing response quality.\n- This pricing strategy mirrors OpenAI's offerings, which include a similar $200 Pro plan for ChatGPT, emphasizing the competitive landscape in AI subscription services.\n- The Claude Max plan is effective immediately across all regions where Claude is available.",
+      "keywords": [
+        "AI",
+        "subscription",
+        "Anthropic",
+        "Claude Max",
+        "OpenAI",
+        "pricing plans",
+        "technology"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-09T19:20:07.000Z"
+    },
+    {
       "title": "Leak Exposes Black Basta's Influence Tactics",
       "link": "https://arstechnica.com/security/2025/04/leaked-messages-expose-trade-secrets-of-prolific-black-basta-ransomware-group/",
       "author": null,
@@ -1109,53 +1155,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-26T13:20:36.000Z"
-    },
-    {
-      "title": "How North Korea pulled off a $1.5 billion crypto heist—the biggest in history",
-      "link": "https://arstechnica.com/security/2025/02/how-north-korea-pulled-off-a-1-5-billion-crypto-heist-the-biggest-in-history/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- North Korea is suspected of orchestrating a $1.5 billion heist from Dubai-based exchange Bybit, marking it the largest theft in digital asset history.\n- Bybit reported the theft of over 400,000 ethereum and staked ethereum coins, which were moved from a “Multisig Cold Wallet” to a hot wallet before being transferred to attackers' wallets.\n- Blockchain analysis firm Elliptic suggests that the techniques used in laundering the stolen funds align with known North Korean cybercriminal tactics, aimed at funding the country's weapons programs.",
-      "keywords": [
-        "North Korea",
-        "crypto heist",
-        "Bybit",
-        "ethereum",
-        "cryptocurrency",
-        "cybercrime",
-        "blockchain",
-        "digital assets"
-      ],
-      "scores": {
-        "scale": 10,
-        "impact": 10,
-        "novelty": 8,
-        "longTermSignificance": 9
-      },
-      "pubDate": "2025-02-24T23:41:56.000Z"
-    },
-    {
-      "title": "Leaked chat logs expose inner workings of secretive ransomware group",
-      "link": "https://arstechnica.com/security/2025/02/leaked-chat-logs-expose-inner-workings-of-secretive-ransomware-group/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Researchers analyzed leaked Russian-language chat logs revealing internal strife in the Black Basta ransomware group.\n- Tensions increased after the arrest of a leader, believed to be Oleg Nefedov, affecting group dynamics.\n- Internal disagreements over targeting a Russian bank put the group at risk of law enforcement scrutiny.\n- The leak includes data on administrators and over 350 unique links from ZoomInfo, used to target companies.\n- Security firm Hudson Rock utilized the transcripts to create a resource called BlackBastaGPT for analysis.",
-      "keywords": [
-        "ransomware",
-        "Black Basta",
-        "leaked chat logs",
-        "Oleg Nefedov",
-        "cybersecurity",
-        "ZoomInfo",
-        "law enforcement"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 8,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-02-21T21:47:32.000Z"
     }
   ]
 }
