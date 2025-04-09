@@ -1,5 +1,33 @@
 [
   {
+    "title": "Copilot exposes private GitHub pages, some removed by Microsoft",
+    "id": "13dz0cn0c61xp5",
+    "summary": "- Microsoft’s Copilot AI assistant exposed over 20,000 private GitHub repositories from major companies including Google, Intel, and Microsoft itself.\n- These repositories were previously public but switched to private due to sensitive information being present.\n- AI security firm Lasso discovered the issue in late 2024, finding Copilot continued to access and expose these private repositories.\n- The problem was traced to Bing's cache, which did not remove entries when repositories changed from public to private.\n- Microsoft has made changes following Lasso's report in November, but a repository related to a lawsuit against Microsoft remained exposed until removed.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 8,
+      "impact": 9,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "Microsoft",
+      "GitHub",
+      "Copilot",
+      "AI",
+      "data privacy",
+      "security breach",
+      "repositories"
+    ],
+    "sources": [
+      {
+        "title": "Copilot exposes private GitHub pages, some removed by Microsoft",
+        "link": "https://arstechnica.com/information-technology/2025/02/copilot-exposes-private-github-pages-some-removed-by-microsoft/"
+      }
+    ],
+    "lastUpdated": "2025-04-09T05:18:45.920Z"
+  },
+  {
     "title": "Apple patches 0-day exploited in “extremely sophisticated attack”",
     "id": "03o7xfy0miqcfu",
     "summary": "- Apple patched a critical zero-day vulnerability in iPhones and iPads, tracked as CVE-2025-24201.\n- The vulnerability affects multiple devices, including iPhone XS and later models, and iPads from various generations.\n- Exploited in a sophisticated attack against specific individuals using older iOS versions.\n- The fix is a supplementary measure following blocking in iOS 17.2, with advisory details lacking specific exploit detection information.\n- Latest updates bring iOS and iPadOS to version 18.3.2; immediate installation is recommended for most at-risk users.",
@@ -34890,169 +34918,5 @@
       }
     ],
     "lastUpdated": "2025-03-26T06:17:58.741Z"
-  },
-  {
-    "title": "India’s Zypp Electric cuts workforce by 10% ahead of IPO",
-    "id": "1347i501qgp8ma",
-    "summary": "- Zypp Electric has reduced its workforce by nearly 10% in preparation for an IPO by the end of 2026.\n- The workforce decreased from approximately 1,300 in January to about 1,180-1,190.\n- CEO Akash Gupta stated the layoffs were due to performance issues and aimed at improving efficiency for sustainable growth.\n- The company targets EBITDA profitability before listing.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/01/1738208650_shutterstock_2473668045-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 6,
-      "impact": 7,
-      "novelty": 4,
-      "longTermSignificance": 5
-    },
-    "keywords": [
-      "Zypp Electric",
-      "workforce reduction",
-      "IPO",
-      "Akash Gupta",
-      "electric vehicles",
-      "EBITDA profitability"
-    ],
-    "sources": [
-      {
-        "title": "India’s Zypp Electric cuts workforce by 10% ahead of IPO",
-        "link": "https://www.techinasia.com/news/indias-zypp-electric-cuts-workforce-by-10-ahead-of-ipo"
-      }
-    ],
-    "lastUpdated": "2025-03-26T05:13:18.722Z"
-  },
-  {
-    "title": "Microsoft Introduces AI Tools for Enhanced Research and Data Analysis",
-    "id": "1d1ese50hqjd4c",
-    "summary": "- Microsoft introduces Researcher and Analyst tools within Microsoft 365 Copilot to enhance deep research capabilities.\n- Researcher utilizes OpenAI's deep research model for analyses like market strategies and quarterly reports.\n- Analyst employs OpenAI’s o3-mini reasoning model for advanced data analysis, running Python for complex queries.\n- Unique features include integration with tools like Confluence and Salesforce, and access to third-party data.\n- A Frontier program will provide exclusive access to these tools starting in April 2025.\n- The tools aim to address challenges of AI reasoning that include potential inaccuracies.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/01/1737185216_shutterstock_2399781273-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 7.5,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "microsoft",
-      "ai tools",
-      "deep research",
-      "microsoft 365",
-      "copilot",
-      "researcher",
-      "analyst",
-      "openai",
-      "data analysis",
-      "frontier program"
-    ],
-    "sources": [
-      {
-        "title": "Microsoft adds AI-powered deep research tools to Copilot",
-        "link": "https://techcrunch.com/2025/03/25/microsoft-adds-ai-powered-deep-research-tools-to-copilot/"
-      },
-      {
-        "title": "Microsoft unveils AI tools for research, data analysis",
-        "link": "https://www.techinasia.com/news/microsoft-unveils-ai-tools-research-data-analysis"
-      }
-    ],
-    "lastUpdated": "2025-03-26T05:13:18.721Z"
-  },
-  {
-    "title": "Israeli media firm RGE launches VC fund for media, content startups",
-    "id": "1fo3jv50vts0ba",
-    "summary": "- RGE has launched RGE Ventures, a VC fund investing in 3 to 5 content and media startups annually.\n- Each investment will reach hundreds of thousands of dollars.\n- The fund will be led by Tal Gilor, a former partner at Labs/02.\n- RGE Ventures aims to support innovation in AI for media and new content monetization models.\n- Startups will have access to RGE’s infrastructure for testing and development, along with professional guidance.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/03/1741925241_shutterstock_2485876595-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 6,
-      "impact": 7,
-      "novelty": 5,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "RGE",
-      "venture capital",
-      "media startups",
-      "content startups",
-      "investment",
-      "AI for media",
-      "monetization"
-    ],
-    "sources": [
-      {
-        "title": "Israeli media firm RGE launches VC fund for media, content startups",
-        "link": "https://www.techinasia.com/news/israeli-media-firm-rge-launches-vc-fund-media-content-startups"
-      }
-    ],
-    "lastUpdated": "2025-03-26T05:13:18.721Z"
-  },
-  {
-    "title": "PhonePe launches vehicle insurance, expand offerings",
-    "id": "1az5zja0j42v5v",
-    "summary": "- PhonePe launches vehicle insurance for two-wheelers and four-wheelers through its app.\n- Users can compare and purchase policies directly via the PhonePe platform.\n- The company, which obtained an insurance broking license in 2021, previously offered life, health, and travel insurance.\n- Potential savings are noted: up to ₹4,000 on two-wheeler insurance and ₹40,000 on four-wheeler insurance.\n- This launch coincides with preparations for PhonePe's IPO, following a reported profit of ₹197 crore for FY 2023-24.\n- PhonePe maintains over 48% market share in India's UPI sector as of January 2025.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2023/08/1693383864_shutterstock_2349032281-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 7,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "PhonePe",
-      "vehicle insurance",
-      "fintech",
-      "insurance",
-      "India",
-      "UPI",
-      "IPO",
-      "digital commerce"
-    ],
-    "sources": [
-      {
-        "title": "PhonePe launches vehicle insurance, expand offerings",
-        "link": "https://www.techinasia.com/news/phonepe-launches-vehicle-insurance-expand-offerings"
-      }
-    ],
-    "lastUpdated": "2025-03-26T05:13:18.720Z"
-  },
-  {
-    "title": "Elon Musk Superfan's Music Video Sparks Controversy Amid TikTok Cybertruck Pranks",
-    "id": "1cy0pjy0v92b14",
-    "summary": "- A TikTok group called the Cybertruck Hunters projects anti-Elon Musk messages on Tesla Cybertrucks' tailgates.\n- Their account gained viral attention in a month, sharing videos of their stunts, including high-speed chases.\n- The Cybertruck's stainless-steel tailgate is effective for projection.\n\n- Superfan Alessandra Basher released a music video filmed on a Tesla Cybertruck.\n- Posted on X, the video received mixed reactions, seen as both satire and genuine praise for Musk.\n- The lyrics reference SpaceX, Tesla, and Musk's impact, igniting social media debates.\n- Basher faced backlash but clarified her video was intended as a fun tribute to Musk.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 6,
-      "impact": 5.5,
-      "novelty": 7,
-      "longTermSignificance": 4.5
-    },
-    "keywords": [
-      "tesla",
-      "cybertruck",
-      "tiktok",
-      "prank",
-      "social media",
-      "elon musk",
-      "alessandra basher",
-      "music video",
-      "satire",
-      "backlash",
-      "spacex",
-      "internet debate"
-    ],
-    "sources": [
-      {
-        "title": "Tesla Cybertrucks are getting roasted on TikTok—one prank at a time",
-        "link": "https://www.fastcompany.com/91303178/tesla-cybertrucks-are-getting-roasted-on-tiktok-one-prank-at-a-time?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
-      },
-      {
-        "title": "‘We Thank You, Elon Musk’: Superfan Alessandra Basher’s music video has divided the internet",
-        "link": "https://www.fastcompany.com/91305577/we-thank-you-elon-musk-superfan-alessandra-bashers-music-video-has-divided-the-internet?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
-      }
-    ],
-    "lastUpdated": "2025-03-26T05:13:18.719Z"
   }
 ]
