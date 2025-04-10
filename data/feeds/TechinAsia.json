@@ -4,6 +4,129 @@
   "feedUrl": "https://www.techinasia.com/feed",
   "items": [
     {
+      "title": "Ex-Tesla engineer launches robotics startup Mondo Tech",
+      "link": "https://www.techinasia.com/news/ex-tesla-engineer-launches-robotics-startup-mondo-tech",
+      "author": "Shuo Yang",
+      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/03/1741864614_Optimus-robot.png",
+      "summary": "- Shuo Yang, a former robotics engineer at Tesla, co-founded the startup Mondo Tech in January in Shenzhen with a registered capital of 1 million yuan (approximately US$136,500).\n- Mondo Tech is based in Palo Alto, California and Shenzhen, and aims to create smaller robots designed as companions for daily use, inspired by Yang's son.\n- Yang announced his departure from Tesla's humanoid robot project, Optimus, on April 9, 2025.",
+      "keywords": [
+        "Mondo Tech",
+        "Shuo Yang",
+        "robotics",
+        "Tesla",
+        "consumer robots",
+        "startup",
+        "automation",
+        "technology",
+        "China",
+        "Palo Alto"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-04-10T08:00:51.000Z"
+    },
+    {
+      "title": "Musk’s xAI launches Grok 3 access to rival GPT-4, Gemini",
+      "link": "https://www.techinasia.com/news/musks-xai-launches-grok-3-access-to-rival-gpt-4-gemini",
+      "author": null,
+      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/04/1744270483_shutterstock_2384730125-scaled.jpg",
+      "summary": "- Elon Musk’s xAI has launched an API for Grok 3 AI model, offering a full version and a smaller Grok 3 Mini.\n- Pricing starts at US$3 per million input tokens for Grok 3, and US$0.30 for Grok 3 Mini.\n- Grok 3 includes a context window of 131,072 tokens, contrary to earlier claims of 1 million tokens.\n- The model is designed to compete with GPT-4o and Gemini, though it has faced scrutiny over performance benchmarks.\n- Musk aims for Grok to be politically neutral, but earlier biases have been noted.\n- Recent evaluations suggest improvements in Grok 3’s neutrality compared to previous versions.",
+      "keywords": [
+        "xAI",
+        "Grok 3",
+        "API",
+        "Elon Musk",
+        "AI models",
+        "GPT-4",
+        "Gemini",
+        "pricing",
+        "political bias",
+        "AI technology"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-04-10T07:45:24.000Z"
+    },
+    {
+      "title": "Indian AI startup unveils tool to run AI without costly chips",
+      "link": "https://www.techinasia.com/news/indian-ai-startup-unveils-tool-to-run-ai-without-costly-chips",
+      "author": null,
+      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/03/1741926148_shutterstock_1232972023.png",
+      "summary": "- Ziroh Labs introduces Kompact AI, a system that operates large AI models without advanced GPUs, using standard CPUs.\n- Developed with IIT Madras, it reduces the need for expensive GPUs and has been tested by Intel and AMD.\n- The platform successfully runs models like Meta’s Llama 2 on regular laptops, addressing AI accessibility issues for Indian developers.",
+      "keywords": [
+        "AI",
+        "Ziroh Labs",
+        "Kompact AI",
+        "GPUs",
+        "IIT Madras",
+        "technology",
+        "India"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-10T07:35:29.000Z"
+    },
+    {
+      "title": "WaveSpeedAI, DataCrunch partner to accelerate AI image output",
+      "link": "https://www.techinasia.com/news/wavespeedai-datacrunch-partner-to-accelerate-ai-image-output",
+      "author": "Not given",
+      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2022/11/1668568708_Image-created-by-Dall-E-2-using-the-text-prompt-an-astronaut-hiring-a-horse-in-a-photorealistic-style.jpeg",
+      "summary": "- WaveSpeedAI partners with European GPU cloud provider DataCrunch to enhance its FLUX-dev model for generative image and video.\n- The collaboration utilizes NVIDIA B200 GPU, achieving inference speeds up to six times faster than industry standards.\n- FLUX-dev supports text-to-image and image-to-image generation with 12 billion parameters, focusing on style diversity and scene understanding.\n- Goals include optimizing scaling, reducing latency, and operational costs for enterprise machine learning teams.\n- Future releases will emphasize efficient video generation inference, using advanced hardware from DataCrunch.",
+      "keywords": [
+        "AI",
+        "image generation",
+        "data processing",
+        "WaveSpeedAI",
+        "DataCrunch",
+        "FLUX-dev",
+        "NVIDIA GPU"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-04-10T07:28:03.000Z"
+    },
+    {
+      "title": "India’s 3one4 leads $10m round of logistic startup Xindus",
+      "link": "https://www.techinasia.com/news/indias-3one4-leads-10m-round-in-logistic-startup-xindus",
+      "author": null,
+      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2019/12/314.png",
+      "summary": "- Indian logistics startup Xindus raised $10 million in Series A funding, led by 3one4 Capital.\n- Xindus was founded in 2022 and offers a full-stack platform for SMEs involved in global trade, covering shipping, warehousing, compliance, returns, and financial flows.\n- The funding aims to help Xindus expand over the next 12 to 18 months, targeting to increase gross merchandise value from $30 million to $200 million amid growing investor interest in India's logistics sector.",
+      "keywords": [
+        "logistics",
+        "startup",
+        "funding",
+        "investment",
+        "India",
+        "Xindus",
+        "3one4 Capital",
+        "SME",
+        "global trade"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-04-10T07:21:45.000Z"
+    },
+    {
       "title": "Fintech Firm Solid Files for Bankruptcy",
       "link": "https://www.techinasia.com/news/finteh-firm-solid-files-for-bankruptcy",
       "author": null,
@@ -5236,117 +5359,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-04-10T02:10:32.000Z"
-    },
-    {
-      "title": "Israeli cloud startup Wing closes due to business struggles",
-      "link": "https://www.techinasia.com/news/israeli-cloud-startup-wing-closes-due-business-struggles",
-      "author": "Elad Ben-Israel",
-      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/04/1744247852_1689690591192.jpg",
-      "summary": "- Wing, creator of the open-source programming language Winglang, is shutting down due to business difficulties.\n- The startup struggled to convert developer interest into a viable business model.\n- Winglang aimed to simplify cloud development but failed to establish its product as essential for businesses, leading to financial instability.",
-      "keywords": [
-        "Wing",
-        "cloud startup",
-        "Winglang",
-        "business struggles",
-        "financial instability",
-        "open-source programming"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 6,
-        "novelty": 4,
-        "longTermSignificance": 3
-      },
-      "pubDate": "2025-04-10T02:00:14.000Z"
-    },
-    {
-      "title": "Glasswall: The things anonymous founders say about VCs",
-      "link": "https://www.techinasia.com/visual-story/glasswall-vc-investors-founders-reviews",
-      "author": null,
-      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2024/02/1706782491_fi-glasswall-vc.png",
-      "summary": "- Tech in Asia launched Glasswall to assist founders in choosing the right venture capitalists (VCs).\n- Founders can anonymously share reviews about VCs, addressing the common practice of discreet comments about investors.\n- The initiative aims to provide candid feedback to VCs and empower entrepreneurs with information for better decision-making.",
-      "keywords": [
-        "Glasswall",
-        "VC reviews",
-        "founders",
-        "tech industry",
-        "anonymous feedback",
-        "investors"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-04-10T02:00:00.000Z"
-    },
-    {
-      "title": "Trump’s tariffs: 90-day pause for most nations, excludes China",
-      "link": "https://www.techinasia.com/news/trumps-tariff-90-day-pause-for-most-nations-excludes-china",
-      "author": null,
-      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/01/1736341611_shutterstock_2434408241-scaled.jpg",
-      "summary": "- President Trump announced a 90-day pause on higher tariffs for most countries on Apr. 9, 2025.\n- The pause does not include China, where tariffs on Chinese goods were raised to 125%.\n- A 10% global tariff is in effect, with specific exemptions for Canada and Mexico under the USMCA.",
-      "keywords": [
-        "Trump",
-        "tariffs",
-        "China",
-        "trade政策",
-        "USMCA",
-        "global market"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-04-10T01:56:41.000Z"
-    },
-    {
-      "title": "US police drone startup Brinc Drones raises $75m",
-      "link": "https://www.techinasia.com/news/police-drone-startup-brinc-drones-raises-75m",
-      "author": null,
-      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/01/1738127967_shutterstock_171879539-scaled.jpg",
-      "summary": "- Seattle-based drone startup Brinc Drones raised $75 million in a funding round led by Index Ventures.\n- Total financing for the company now totals $157.2 million since its founding in 2017.\n- Brinc develops drone systems specifically for public safety and police agencies.\n- Plans to integrate drones with Motorola Solutions' 911 call center software for emergency response deployment.\n- Motorola Solutions was a participant in the recent funding round.",
-      "keywords": [
-        "Brinc Drones",
-        "drone technology",
-        "public safety",
-        "funding",
-        "investment",
-        "emergency response",
-        "Motorola Solutions"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-10T01:50:34.000Z"
-    },
-    {
-      "title": "US VC firm Insight managing director to quit for new venture",
-      "link": "https://www.techinasia.com/news/us-vc-firm-insight-managing-director-quit-for-new-venture",
-      "author": null,
-      "thumbnail": "https://cdn.techinasia.com/wp-content/uploads/2025/04/1744249378_GaVeBWXWYAA38mS.jpeg",
-      "summary": "- Liad Agmon, managing director at Insight Partners, to resign in the second half of 2025.\n- He will launch a new entrepreneurial venture while remaining a senior advisor.\n- Agmon co-founded Dynamic Yield, acquired by McDonald’s in 2019.\n- Dani Aronovitz will continue to lead Insight’s Tel Aviv office as the firm reaffirms its commitment to the region.",
-      "keywords": [
-        "Liad Agmon",
-        "Insight Partners",
-        "entrepreneurial venture",
-        "Dynamic Yield",
-        "Tel Aviv office",
-        "venture capital"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-04-10T01:50:23.000Z"
     }
   ]
 }
