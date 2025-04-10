@@ -4,6 +4,52 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "How a hydrogen explosion led a teenage founder to become Sequoia’s first defense tech investment",
+      "link": "https://techcrunch.com/2025/04/09/how-a-hydrogen-explosion-led-a-teenage-founder-to-become-sequoias-first-defense-tech-investment/",
+      "author": "Charles Rollet",
+      "thumbnail": null,
+      "summary": "- Mach Industries, founded by Ethan Thornton, raised over $80 million since its launch in 2023.\n- The company experienced a setback when a hydrogen gun prototype exploded, injuring a team member.\n- Following the explosion, Mach secured funding from Sequoia Capital and is now collaborating with the U.S. military on new weapons, including a cruise missile and a bomb called \"Glide.\"",
+      "keywords": [
+        "Mach Industries",
+        "Ethan Thornton",
+        "Sequoia Capital",
+        "defense tech",
+        "hydrogen explosion",
+        "U.S. military",
+        "weapons development",
+        "venture capital"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-09T23:20:07.000Z"
+    },
+    {
+      "title": "Google embraces Anthropic’s standard for connecting AI models to data",
+      "link": "https://techcrunch.com/2025/04/09/google-says-itll-embrace-anthropics-standard-for-connecting-ai-models-to-data/",
+      "author": "Kyle Wiggers",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2169339854.jpg?w=1024",
+      "summary": "- Google will support Anthropic’s Model Context Protocol (MCP) for its Gemini models and SDK.\n- This decision follows OpenAI's announcement to adopt the same protocol.\n- MCP enables AI to draw data from various sources, facilitating two-way connections between data and applications.\n- Companies like Block, Apollo, Replit, Codeium, and Sourcegraph have already integrated MCP support.",
+      "keywords": [
+        "Google",
+        "Anthropic",
+        "AI models",
+        "Model Context Protocol",
+        "Gemini",
+        "data connectivity"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-09T23:18:42.000Z"
+    },
+    {
       "title": "Solid, which claimed to be the ‘AWS of fintech,’ files for bankruptcy after raising nearly $81M in funding",
       "link": "https://techcrunch.com/2025/04/09/solid-which-claimed-to-be-the-aws-of-fintech-files-for-bankruptcy-after-raising-nearly-81m-in-funding/",
       "author": "Mary Ann Azevedo",
@@ -2600,53 +2646,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-04-08T15:30:00.000Z"
-    },
-    {
-      "title": "Amazon’s Zoox begins robotaxi testing in Los Angeles",
-      "link": "https://techcrunch.com/2025/04/08/amazons-zoox-begins-robotaxi-testing-in-los-angeles/",
-      "author": "Rebecca Bellan",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/04/LATestFleet.jpg?w=1024",
-      "summary": "- Zoox initiates testing of a small fleet of retrofitted vehicles in Los Angeles starting April 8, 2025.\n- The deployment includes manually driven Toyota Highlanders equipped with self-driving technology to collect mapping data.\n- Zoox aims for broader autonomous testing in LA this summer and currently tests its vehicles in multiple cities including San Francisco and Las Vegas.\n- The initiative comes after Zoox's recall of 258 vehicles due to issues with unexpected hard braking.\n- Waymo currently offers paid robotaxi rides in LA, while Zoox is still in early testing stages.",
-      "keywords": [
-        "Zoox",
-        "Amazon",
-        "robotaxi",
-        "Los Angeles",
-        "autonomous vehicles",
-        "Waymo",
-        "testing",
-        "self-driving technology"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-08T15:30:00.000Z"
-    },
-    {
-      "title": "Los Angeles-based Rain raised a $75M Series B in another good sign for fintech",
-      "link": "https://techcrunch.com/2025/04/08/los-angeles-based-rain-raised-a-75m-series-b-in-another-good-sign-for-fintech/",
-      "author": "Not given",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/04/rain-app.jpg",
-      "summary": "- Rain, a fintech startup, raised $75 million in a Series B round led by Prosus, achieving a valuation of $340 million.\n- The funds will support the addition of credit card and savings products to its offerings.\n- Rain provides earned wage access (EWA) solutions with financial wellness features; about 2.5 million employees are now using its services, distributing over $2 billion in wages.\n- The company plans to launch new products including an EWA-secured credit card and features to facilitate Health Savings Account usage by the end of 2025.\n- Rain aims to differentiate itself by offering financial education, one-on-one coaching, and tax filing services, with 70% of adoption from these non-EWA services.\n- In 2023, Rain raised $116 million in a Series A funding round, with $66 million in equity and $50 million in debt.",
-      "keywords": [
-        "fintech",
-        "earned wage access",
-        "investment",
-        "financial wellness",
-        "Los Angeles",
-        "Rain",
-        "funding"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-08T15:00:00.000Z"
     }
   ]
 }
