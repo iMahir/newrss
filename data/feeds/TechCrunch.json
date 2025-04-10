@@ -4,6 +4,54 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "A fresh $100M rolls into DIG Ventures as it bids to woo early-stage European startups",
+      "link": "https://techcrunch.com/2025/04/09/a-fresh-100m-rolls-into-dig-ventures-as-it-bids-to-woo-early-stage-european-startups/",
+      "author": "Mike Butcher",
+      "thumbnail": null,
+      "summary": "- DIG Ventures launched its second fund, raising $100 million for investments in B2B SaaS, AI, and cloud infrastructure startups.\n- The fund targets pre-seed and seed stages, primarily in Europe, Israel, and the U.S.\n- Notable LPs include The Hillman Company, Granite Capital, Sofina, and Grove Street, along with investments from prominent figures like Datadog founder Olivier Pomel.\n- The fund aims to support companies with technical products, enhancing their go-to-market strategies.\n- Founders Mason and Klinger emphasize the unique capabilities of operator VCs in navigating technical products and fundraising in Europe.",
+      "keywords": [
+        "DIG Ventures",
+        "venture capital",
+        "European startups",
+        "AI",
+        "cloud infrastructure",
+        "B2B SaaS",
+        "operator VCs",
+        "fundraising"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-10T04:00:00.000Z"
+    },
+    {
+      "title": "Elon Musk’s AI company, xAI, launches an API for Grok 3",
+      "link": "https://techcrunch.com/2025/04/09/elon-musks-ai-company-xai-launches-an-api-for-grok-3/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Elon Musk's company xAI launches an API for its AI model, Grok 3.\n- Grok 3 can analyze images and respond to questions, potentially competing with models like OpenAI's GPT-4o and Google's Gemini.\n- The article details pricing for Grok 3 at $3 per million tokens input and $15 for output, with a cheaper Grok 3 Mini option.\n- There are concerns regarding Grok 3's smaller context window, maxing out at 131,072 tokens vs. the claimed 1 million.\n- Musk aims to make Grok politically neutral, although past versions have displayed a leftist bias on certain topics.",
+      "keywords": [
+        "Elon Musk",
+        "xAI",
+        "Grok 3",
+        "AI model",
+        "API",
+        "pricing",
+        "political bias",
+        "context window"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-04-10T03:32:33.000Z"
+    },
+    {
       "title": "Wayve’s self-driving tech is headed to Nissan vehicles",
       "link": "https://techcrunch.com/2025/04/09/wayves-self-driving-tech-is-headed-to-nissan-vehicles/",
       "author": "Kirsten Korosec",
@@ -1942,55 +1990,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-04-08T16:52:59.000Z"
-    },
-    {
-      "title": "Tapestry’s app can now de-dupe your social feeds",
-      "link": "https://techcrunch.com/2025/04/08/tapestrys-app-can-now-de-dupe-your-social-feeds/",
-      "author": "Sarah Perez",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/04/Crosstalk-Example.jpg?w=680",
-      "summary": "- Tapestry app adds a feature called Crosstalk to remove duplicate posts from social feeds.\n- The feature rolls out with Tapestry 1.1 iOS update, available starting Tuesday.\n- Tapestry was created by the team behind Twitterific, emphasizing user control over social media.\n- Users can now track posts from multiple platforms like Bluesky, Mastodon, and more.\n- Crosstalk can detect duplicates even with variations in text length or content.\n- New features include Quicklinks for easy navigation between timelines and enhanced feed customization.\n- Tapestry is free with in-app purchases; subscriptions are $1.99 monthly or $19.99 yearly.",
-      "keywords": [
-        "Tapestry",
-        "Crosstalk",
-        "social media",
-        "app update",
-        "duplicate posts",
-        "Bluesky",
-        "Mastodon",
-        "open social web"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-08T16:25:46.000Z"
-    },
-    {
-      "title": "Google fixes two Android zero-day bugs actively exploited by hackers",
-      "link": "https://techcrunch.com/2025/04/08/google-fixes-two-android-zero-day-bugs-actively-exploited-by-hackers/",
-      "author": "Lorenzo Franceschi-Bicchierai",
-      "thumbnail": null,
-      "summary": "- Google released an Android update addressing two zero-day flaws that were potentially exploited by hackers.\n- The vulnerabilities include CVE-2024-53197, identified by Amnesty International, which was exploited against a Serbian student activist.\n- The second vulnerability, CVE-2024-53150, is less documented but involves a critical security flaw in the kernel, with potential for remote privilege escalation without user interaction.\n- Patches for the vulnerabilities will be pushed within 48 hours; Android partners were notified a month in advance.",
-      "keywords": [
-        "Android",
-        "zero-day",
-        "security",
-        "vulnerability",
-        "Google",
-        "CVE-2024-53197",
-        "CVE-2024-53150",
-        "Amnesty International",
-        "cybersecurity"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-08T15:42:29.000Z"
     }
   ]
 }
