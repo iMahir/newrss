@@ -4,6 +4,28 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "That groan you hear is users’ reaction to Recall going back into Windows",
+      "link": "https://arstechnica.com/security/2025/04/microsoft-is-putting-privacy-endangering-recall-back-into-windows-11/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Security and privacy advocates are preparing against Microsoft's Recall feature in Windows 11, which captures user activity every three seconds.\n- Recall was initially criticized for potential misuse by malicious actors and risks in sensitive situations.\n- After a suspension due to backlash, Microsoft announced the reintroduction of Recall, available first to insiders in Windows 11 Build 26100.3902, with plans for broader rollout later.\n- Microsoft emphasizes user control with opt-in for snapshots and the ability to pause the feature, though skepticism remains about its acceptance among users.",
+      "keywords": [
+        "Recall",
+        "Windows 11",
+        "privacy",
+        "security",
+        "Microsoft",
+        "AI tool"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-11T18:45:40.000Z"
+    },
+    {
       "0": "{",
       "1": "\"",
       "2": "t",
@@ -1995,28 +2017,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-02-27T21:14:07.000Z"
-    },
-    {
-      "title": "The surveillance tech waiting for workers as they return to the office",
-      "link": "https://arstechnica.com/information-technology/2025/02/the-surveillance-tech-waiting-for-workers-as-they-return-to-the-office/",
-      "author": null,
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/logitech-640x335.jpg",
-      "summary": "- A new wave of return-to-office mandates has emerged from companies like JP Morgan Chase, WPP, and Amazon since the start of 2025.\n- Companies are implementing various technology for monitoring employees such as RFID badges, biometric scanners, and indoor tracking systems to enhance productivity and prevent time theft.\n- The employee monitoring technology market is projected to reach $4.5 billion by 2026, with significant growth in the connected office space expected over the next few years.",
-      "keywords": [
-        "surveillance",
-        "employee monitoring",
-        "return to office",
-        "biometric technology",
-        "workplace productivity",
-        "tracking technology"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-27T14:15:20.000Z"
     }
   ]
 }
