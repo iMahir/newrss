@@ -1,5 +1,61 @@
 [
   {
+    "title": "Meta’s vanilla Maverick AI model ranks below rivals on a popular chat benchmark",
+    "id": "0p1r61a0zy3h8d",
+    "summary": "- Meta faced backlash for using an experimental version of Llama 4 Maverick to manipulate scores in LM Arena.\n- The unmodified version of Maverick ranks below other models like OpenAI’s GPT-4o and Anthropic’s Claude 3.5 Sonnet.\n- The experimental version was optimized for conversationality, which contributed to its lower performance on established benchmarks.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 6,
+      "novelty": 5,
+      "longTermSignificance": 4
+    },
+    "keywords": [
+      "AI",
+      "Meta",
+      "Maverick",
+      "Llama 4",
+      "LM Arena",
+      "benchmark",
+      "GPT-4o",
+      "Claude 3.5 Sonnet"
+    ],
+    "sources": [
+      {
+        "title": "Meta’s vanilla Maverick AI model ranks below rivals on a popular chat benchmark",
+        "link": "https://techcrunch.com/2025/04/11/metas-vanilla-maverick-ai-model-ranks-below-rivals-on-a-popular-chat-benchmark/"
+      }
+    ],
+    "lastUpdated": "2025-04-11T23:11:02.263Z"
+  },
+  {
+    "title": "Oracle has reportedly suffered 2 separate breaches exposing thousands of customers‘ PII",
+    "id": "17ehber0khzy66",
+    "summary": "- Trustwave's Spider Labs reported that a breach involved the exposure of sensitive IAM data and PII associated with Oracle Cloud users.\n- Oracle has denied any breaches, stating, \"There has been no breach of Oracle Cloud.\"\n- The situation remains contentious, with allegations that Oracle is notifying customers of data compromises through unofficial channels.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "Oracle",
+      "data breach",
+      "PII",
+      "Cloud security",
+      "Trustwave",
+      "IAM data"
+    ],
+    "sources": [
+      {
+        "title": "Oracle has reportedly suffered 2 separate breaches exposing thousands of customers‘ PII",
+        "link": "https://arstechnica.com/security/2025/03/oracle-is-mum-on-reports-it-has-experienced-2-separate-data-breaches/"
+      }
+    ],
+    "lastUpdated": "2025-04-11T23:11:02.249Z"
+  },
+  {
     "title": "‘Build up your emergency fund’: Millennials are sharing recession survival tips on TikTok",
     "id": "05qzvgm1ky0d1z",
     "summary": "- Millennials are sharing recession survival tips on TikTok amid fears of economic collapse.\n- Content creator Itzett Romero emphasizes preparing for recessions rather than panicking, advising followers to form alliances for shared expenses.\n- TikTok user @yaptrapped suggests friendship as a means to survive financially, echoing shared tips.\n- Financial advice includes building an emergency fund to cover three to six months of living expenses.",
@@ -34938,129 +34994,5 @@
       }
     ],
     "lastUpdated": "2025-03-28T23:11:42.785Z"
-  },
-  {
-    "title": "Windows 11 is closing a loophole that let you skip making a Microsoft account",
-    "id": "1ewghsp15pkc2e",
-    "summary": "- Microsoft is removing the bypassnro.cmd script in Windows 11 Insider Preview to enforce Microsoft account login during setup.\n- This is aimed at increasing security and ensuring all users have internet connectivity during the setup process.\n- Current workarounds, like registry edits or unattended.xml automation, may not be viable for long as Microsoft tightens restrictions on installations and upgrades to Windows 11.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195848/UMAR_SHAKIR.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 6,
-      "novelty": 5,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "Windows 11",
-      "Microsoft account",
-      "bypass script",
-      "security",
-      "internet connectivity",
-      "setup process"
-    ],
-    "sources": [
-      {
-        "title": "Windows 11 is closing a loophole that let you skip making a Microsoft account",
-        "link": "https://www.theverge.com/news/638967/microsoft-windows-11-account-internet-bypass-blocked"
-      }
-    ],
-    "lastUpdated": "2025-03-28T22:12:10.506Z"
-  },
-  {
-    "title": "Microsoft tests Quick Machine Recovery to restore PCs that can’t boot",
-    "id": "0lfnzpd1yxbu0q",
-    "summary": "- Microsoft introduces the Quick Machine Recovery feature to help restore PCs that fail to boot.\n- This initiative aims to prevent widespread outages similar to those caused by a previous Crowdstrike update.\n- The feature was announced on March 28, 2025.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK109_WINDOWS_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "Microsoft",
-      "Quick Machine Recovery",
-      "PC recovery",
-      "Crowdstrike",
-      "outages"
-    ],
-    "sources": [
-      {
-        "title": "Microsoft tests Quick Machine Recovery to restore PCs that can’t boot",
-        "link": "https://www.theverge.com/news/638890/microsoft-quick-machine-recovery-restore-pcs-crowdstrike"
-      }
-    ],
-    "lastUpdated": "2025-03-28T22:12:10.505Z"
-  },
-  {
-    "title": "Elon Musk's xAI Acquires Generative AI Video Startup Hotshot and Social Media Platform X",
-    "id": "0ybp6q20qgbi7p",
-    "summary": "- Elon Musk’s AI company, xAI, has acquired Hotshot, a startup focusing on AI-powered video generation tools.\n- Hotshot's CEO, Aakash Sastry, announced the acquisition via a post on X.\n- The startup developed three video foundation models: Hotshot-XL, Hotshot Act One, and Hotshot.\n- Hotshot transitioned from AI-powered photo tools to text-to-video models.\n- This acquisition positions xAI to compete with Sora and Google’s Veo 2 in video generation.\n- Customers have until March 30 to download previous videos, with new creation ceased on March 14.\n- In another acquisition, xAI bought social media platform X (formerly Twitter) in an all-stock deal valued at $80 billion.\n- The deal values X at $33 billion, factoring $12 billion in debt, and integrates xAI's and X's data and technologies.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 6,
-      "impact": 8.5,
-      "novelty": 6,
-      "longTermSignificance": 7.5
-    },
-    "keywords": [
-      "elon musk",
-      "xai",
-      "hotshot",
-      "generative ai",
-      "video generation",
-      "ai startup",
-      "aakash sastry",
-      "x",
-      "acquisition",
-      "twitter",
-      "social media",
-      "valuation",
-      "data integration"
-    ],
-    "sources": [
-      {
-        "title": "Elon Musk’s AI company, xAI, acquires a generative AI video startup",
-        "link": "https://techcrunch.com/2025/03/17/elon-musks-ai-company-xai-acquires-a-generative-ai-video-startup/"
-      },
-      {
-        "title": "Elon Musk says xAI acquired X",
-        "link": "https://techcrunch.com/2025/03/28/elon-musk-says-xai-acquired-x/"
-      }
-    ],
-    "lastUpdated": "2025-03-28T22:12:10.504Z"
-  },
-  {
-    "title": "The Fitbit-to-Google account migration deadline moves to 2026",
-    "id": "0kjdvb904wzkdj",
-    "summary": "- Google has extended the deadline for Fitbit users to migrate to a Google account to February 2, 2026.\n- Users will lose access to Fitbit services and historical data after the migration deadline unless they transition to a Google account.\n- Fitbit users have the option to download or delete their data before the deadline.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25038279/236838_Fitbit_Charge_6_AKrales_0004.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 7,
-      "novelty": 5,
-      "longTermSignificance": 6
-    },
-    "keywords": [
-      "Fitbit",
-      "Google",
-      "account migration",
-      "deadline",
-      "service",
-      "data"
-    ],
-    "sources": [
-      {
-        "title": "The Fitbit-to-Google account migration deadline moves to 2026",
-        "link": "https://www.theverge.com/news/638837/google-fitbit-account-migration-february-2026-extension"
-      }
-    ],
-    "lastUpdated": "2025-03-28T22:12:10.504Z"
   }
 ]

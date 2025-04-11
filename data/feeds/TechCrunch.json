@@ -4,6 +4,30 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Meta’s vanilla Maverick AI model ranks below rivals on a popular chat benchmark",
+      "link": "https://techcrunch.com/2025/04/11/metas-vanilla-maverick-ai-model-ranks-below-rivals-on-a-popular-chat-benchmark/",
+      "author": "Kyle Wiggers",
+      "thumbnail": null,
+      "summary": "- Meta faced backlash for using an experimental version of Llama 4 Maverick to manipulate scores in LM Arena.\n- The unmodified version of Maverick ranks below other models like OpenAI’s GPT-4o and Anthropic’s Claude 3.5 Sonnet.\n- The experimental version was optimized for conversationality, which contributed to its lower performance on established benchmarks.",
+      "keywords": [
+        "AI",
+        "Meta",
+        "Maverick",
+        "Llama 4",
+        "LM Arena",
+        "benchmark",
+        "GPT-4o",
+        "Claude 3.5 Sonnet"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-04-11T22:46:22.000Z"
+    },
+    {
       "title": "The most interesting startups showcased at Google Cloud Next ",
       "link": "https://techcrunch.com/2025/04/11/the-most-interesting-startups-showcased-at-google-cloud-next/",
       "author": null,
@@ -7223,29 +7247,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-04-10T16:29:41.000Z"
-    },
-    {
-      "title": "Amazon CEO Andy Jassy urges companies to invest heavily in AI",
-      "link": "https://techcrunch.com/2025/04/10/amazon-ceo-andy-jassy-urges-companies-to-invest-heavily-in-ai/",
-      "author": "Becca Szkutak",
-      "thumbnail": null,
-      "summary": "- Amazon CEO Andy Jassy advocates for aggressive AI investment to secure future financial rewards.\n- Jassy's annual letter emphasized the need for substantial capital to keep pace with AI innovation and consumer demand.\n- Amazon plans to spend over $100 billion on capital expenditures in 2025, primarily on AWS AI capabilities.\n- Current major expenses include data centers and chips, but costs are expected to reduce over time.\n- Amazon's Trainium2 chips, released in late 2024, offer 30%-40% better price-performance compared to GPU-powered instances.\n- AI revenue at Amazon is growing at triple-digit percentages and represents a multi-billion-dollar annual run rate.",
-      "keywords": [
-        "Amazon",
-        "AI investment",
-        "Andy Jassy",
-        "Trainium2",
-        "AWS",
-        "capital expenditures",
-        "technology trends"
-      ],
-      "scores": {
-        "scale": 9,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 9
-      },
-      "pubDate": "2025-04-10T16:01:36.000Z"
     }
   ]
 }
