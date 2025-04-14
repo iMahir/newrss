@@ -4,6 +4,30 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Hertz says customers’ personal data and driver’s licenses stolen in data breach",
+      "link": "https://techcrunch.com/2025/04/14/hertz-says-customers-personal-data-and-drivers-licenses-stolen-in-data-breach/",
+      "author": "Zack Whittaker",
+      "thumbnail": null,
+      "summary": "- Hertz reported a data breach involving customers' personal data and driver's licenses due to a cyberattack on a vendor between October 2024 and December 2024.\n- Affected data includes names, dates of birth, contact information, driver's licenses, and payment card information; Social Security numbers and other IDs were also compromised for some customers.\n- At least 3,400 customers in Maine were confirmed affected; the total number is likely much higher, but no specific estimates were provided.",
+      "keywords": [
+        "data breach",
+        "Hertz",
+        "cyberattack",
+        "personal data",
+        "driver's licenses",
+        "Cleo Software",
+        "Clop ransomware",
+        "vendor security"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-04-14T18:01:59.000Z"
+    },
+    {
       "title": "OpenAI’s new GPT-4.1 AI models focus on coding",
       "link": "https://techcrunch.com/2025/04/14/openais-new-gpt-4-1-models-focus-on-coding/",
       "author": "Kyle Wiggers",
@@ -5976,28 +6000,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-04-11T14:03:44.000Z"
-    },
-    {
-      "title": "Less than a month to get your exhibit table for TechCrunch Sessions: AI",
-      "link": "https://techcrunch.com/2025/04/11/less-than-a-month-to-get-your-exhibit-table-for-techcrunch-sessions-ai/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/04/54102067834_19faf52edb_o.jpg?w=680",
-      "summary": "- TechCrunch Sessions: AI is set for June 5 at UC Berkeley’s Zellerbach Hall with 1,200 leaders and visionaries in AI attending.\n- Exhibit tables are nearly sold out, with a booking deadline of May 9 or until sold out.\n- Benefits of exhibiting include showcasing solutions, establishing brand authority, and generating valuable connections in the AI community.",
-      "keywords": [
-        "TechCrunch",
-        "AI",
-        "exhibit",
-        "conference",
-        "networking",
-        "brand showcase"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-04-11T14:00:00.000Z"
     }
   ]
 }
