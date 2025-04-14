@@ -4,6 +4,16 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Amid Trump tariff chaos, Nvidia launches AI chip production on US soil",
+      "link": "https://arstechnica.com/ai/2025/04/amid-trump-tariff-chaos-nvidia-launches-ai-chip-production-on-us-soil/",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-04-14T15:55:47.000Z"
+    },
+    {
       "title": "That groan you hear is users’ reaction to Recall going back into Windows",
       "link": "https://arstechnica.com/security/2025/04/microsoft-is-putting-privacy-endangering-recall-back-into-windows-11/",
       "author": null,
@@ -1994,29 +2004,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-27T23:43:44.000Z"
-    },
-    {
-      "title": "New AI text diffusion models break speed barriers by pulling words from noise",
-      "link": "https://arstechnica.com/ai/2025/02/new-ai-text-diffusion-models-break-speed-barriers-by-pulling-words-from-noise/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- New AI diffusion models achieve faster performance than traditional models while maintaining quality.  \n- Mercury Coder Mini operates at 1,109 tokens per second, significantly faster than GPT-4o Mini's 59 tokens per second.  \n- Researchers suggest these models could improve developer productivity and be beneficial in resource-limited environments.",
-      "keywords": [
-        "AI",
-        "diffusion models",
-        "Mercury Coder Mini",
-        "LLaDA",
-        "performance",
-        "speed",
-        "language models"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-02-27T21:14:07.000Z"
     }
   ]
 }
