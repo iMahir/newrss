@@ -4,6 +4,28 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "When is 4.1 greater than 4.5? When it’s OpenAI’s newest model.",
+      "link": "https://arstechnica.com/ai/2025/04/when-is-4-1-greater-than-4-5-when-its-openais-newest-model/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- OpenAI announced the GPT-4.1 model family on Monday, featuring a 1 million token context window.\n- Models include GPT‑4.1, GPT‑4.1 mini, and GPT‑4.1 nano, aimed at outperforming GPT-4o.\n- GPT-4.1 will only be available through the developer API, not the consumer ChatGPT interface.\n- The 1 million token context window allows processing of approximately 3,000 pages of text in one conversation.\n- OpenAI will retire the GPT-4.5 Preview model in the API by July 2025, although it may remain in ChatGPT.\n- CEO Sam Altman acknowledges OpenAI's complex product naming and aims for consolidation by GPT-5.",
+      "keywords": [
+        "OpenAI",
+        "GPT-4.1",
+        "AI language models",
+        "context window",
+        "GPT-4.5",
+        "Sam Altman"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-14T20:53:51.000Z"
+    },
+    {
       "title": "Amid Trump tariff chaos, Nvidia launches AI chip production on US soil",
       "link": "https://arstechnica.com/ai/2025/04/amid-trump-tariff-chaos-nvidia-launches-ai-chip-production-on-us-soil/",
       "author": null,
@@ -1981,29 +2003,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-02-28T16:35:13.000Z"
-    },
-    {
-      "title": "Copilot exposes private GitHub pages, some removed by Microsoft",
-      "link": "https://arstechnica.com/information-technology/2025/02/copilot-exposes-private-github-pages-some-removed-by-microsoft/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Microsoft’s Copilot AI assistant exposed over 20,000 private GitHub repositories from major companies including Google, Intel, and Microsoft itself.\n- These repositories were previously public but switched to private due to sensitive information being present.\n- AI security firm Lasso discovered the issue in late 2024, finding Copilot continued to access and expose these private repositories.\n- The problem was traced to Bing's cache, which did not remove entries when repositories changed from public to private.\n- Microsoft has made changes following Lasso's report in November, but a repository related to a lawsuit against Microsoft remained exposed until removed.",
-      "keywords": [
-        "Microsoft",
-        "GitHub",
-        "Copilot",
-        "AI",
-        "data privacy",
-        "security breach",
-        "repositories"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-27T23:43:44.000Z"
     }
   ]
 }

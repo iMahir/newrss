@@ -1,5 +1,131 @@
 [
   {
+    "title": "OpenAI Launches New GPT-4.1 AI Model Family",
+    "id": "0zcze0l1qlcm45",
+    "summary": "- OpenAI has launched the GPT-4.1 model family, including GPT-4.1 Mini and GPT-4.1 Nano.\n- The new models feature a 1 million token context window for large text processing.\n- GPT-4 will be phased out by April 30th, with plans for GPT-5's delayed release in a few months.\n- GPT-4.1 will only be accessible through the developer API, not the consumer ChatGPT.\n- The GPT-4.5 Preview model will be retired by July 2025, but may still be available in ChatGPT.\n- OpenAI aims to simplify product naming with the upcoming GPT-5 update.",
+    "thumbnails": [
+      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195820/JESSICA_WEATHERBED.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
+    ],
+    "scores": {
+      "scale": 9,
+      "impact": 8,
+      "novelty": 6.5,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "openai",
+      "gpt-4.1",
+      "ai model",
+      "chatgpt",
+      "sam altman",
+      "technology",
+      "ai language models",
+      "context window",
+      "gpt-4.5"
+    ],
+    "sources": [
+      {
+        "title": "OpenAI debuts new flagship AI model",
+        "link": "https://www.theverge.com/news/647896/openai-chatgpt-gpt-4-1-mini-nano-launch-availability"
+      },
+      {
+        "title": "When is 4.1 greater than 4.5? When it’s OpenAI’s newest model.",
+        "link": "https://arstechnica.com/ai/2025/04/when-is-4-1-greater-than-4-5-when-its-openais-newest-model/"
+      }
+    ],
+    "lastUpdated": "2025-04-14T21:13:05.374Z"
+  },
+  {
+    "title": "Apple's complicated plan to improve its AI while protecting privacy",
+    "id": "0vmo0gp03tb4mx",
+    "summary": "- Apple has developed a new method to improve AI models without accessing user data by using differential privacy.\n- Devices will compare synthetic datasets to samples from user-generated emails/messages from those who opted into Device Analytics.\n- The system is currently in beta for iOS and iPadOS 18.5 and macOS 15.5.\n- This approach aims to enhance AI performance while ensuring privacy by keeping data on devices.",
+    "thumbnails": [
+      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
+    ],
+    "scores": {
+      "scale": 8,
+      "impact": 7,
+      "novelty": 6,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "Apple",
+      "AI",
+      "privacy",
+      "differential privacy",
+      "device analytics",
+      "iOS",
+      "macOS"
+    ],
+    "sources": [
+      {
+        "title": "Apple's complicated plan to improve its AI while protecting privacy",
+        "link": "https://www.theverge.com/news/648496/apple-improve-ai-models-differential-privacy"
+      }
+    ],
+    "lastUpdated": "2025-04-14T21:13:05.374Z"
+  },
+  {
+    "title": "Rippling is trying to serve Deel’s CEO, but bailiffs can’t find him",
+    "id": "134x6281ge5dxo",
+    "summary": "- HR tech startup Rippling is attempting to serve Deel CEO Alex Bouaziz with legal papers amid a lawsuit against Deel.\n- French bailiffs hired by Rippling are unable to locate Bouaziz at his Paris address.\n- Rippling's lawsuit claims Deel paid an employee to spy on them, while Deel denies all wrongdoing.\n- Bouaziz is described as 'highly nomadic' and lists different locations on LinkedIn and X (formerly Twitter).\n- Rippling may consider serving Bouaziz via email due to ongoing difficulties in locating him.",
+    "thumbnails": [
+      "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1241456999.jpg?w=1024"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 5
+    },
+    "keywords": [
+      "Rippling",
+      "Deel",
+      "lawsuit",
+      "Alex Bouaziz",
+      "bailiffs",
+      "spy",
+      "HR tech"
+    ],
+    "sources": [
+      {
+        "title": "Rippling is trying to serve Deel’s CEO, but bailiffs can’t find him",
+        "link": "https://techcrunch.com/2025/04/14/rippling-is-trying-to-serve-deels-ceo-but-bailiffs-cant-find-him/"
+      }
+    ],
+    "lastUpdated": "2025-04-14T21:13:05.372Z"
+  },
+  {
+    "title": "Trump says he wants to deport some US citizens, too",
+    "id": "0sdjg4p10t2380",
+    "summary": "- President Trump proposes sending US citizens to a megaprison in El Salvador for criminal acts.\n- Claims there are homegrown criminals in the US that should be included in deportations.\n- In March, Trump invoked the Alien Enemies Act to deport 300 Venezuelan migrants to El Salvador’s CECOT prison.\n- The Alien Enemies Act has rarely been used and allows deportation without due process.\n- Trump’s administration is reportedly paying $6 million to imprison migrants in CECOT.\n- Human rights monitors report cases of torture and deaths in CECOT since its opening in 2023.\n- Trump's idea of deporting US citizens has been taken seriously by White House officials.\n- Legal authority for deporting US citizens remains unclear under the Alien Enemies Act.\n- Deportees are often sent without hearings or evidence and their families contest their deportations.\n- The Supreme Court has allowed the enforcement of the Alien Enemies Act amidst ongoing litigation, raising concerns over due process violations.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 8,
+      "impact": 9,
+      "novelty": 7,
+      "longTermSignificance": 8
+    },
+    "keywords": [
+      "Trump",
+      "deportation",
+      "US citizens",
+      "El Salvador",
+      "Alien Enemies Act",
+      "immigration",
+      "human rights",
+      "Tren de Aragua",
+      "prioritization of violent criminals"
+    ],
+    "sources": [
+      {
+        "title": "Trump says he wants to deport some US citizens, too",
+        "link": "https://www.theverge.com/policy/648338/trump-deport-us-citizens-el-salvador"
+      }
+    ],
+    "lastUpdated": "2025-04-14T21:13:05.371Z"
+  },
+  {
     "title": "Elon Musk and Jack Dorsey Want to End Intellectual Property Laws",
     "id": "09t6duf1i15j7x",
     "summary": "- Jack Dorsey calls for the deletion of all intellectual property (IP) laws, supported by Elon Musk.\n- Their comments arise amid legal challenges against AI companies, particularly regarding copyright issues in training data.\n- Supporters argue for automated penalties instead of a traditional IP system, while critics fear it would disadvantage creators.\n- Recent lawsuits consolidate claims from authors alleging unauthorized use of their works by AI firms like OpenAI.\n- This moment reflects ongoing tensions between content creators and evolving technologies in the IP landscape.\n- Jack Dorsey tweeted to 'delete all IP law,' supported by Elon Musk.\n- Concerns arise about the potential for these views to influence U.S. policy.\n- AI ethicist Carissa Veliz highlights changing power dynamics reflected by such tweets.\n- Tech companies are lobbying for changes to copyright laws, particularly in the U.K.\n- Criticism from creative sectors, with Ed Newton-Rex stating it undermines creators' incentives.\n- Public opinion shows a majority favoring greater regulation of AI and protecting creative rights.",
@@ -275,36 +401,6 @@
       {
         "title": "OpenAI’s new GPT-4.1 AI models focus on coding",
         "link": "https://techcrunch.com/2025/04/14/openais-new-gpt-4-1-models-focus-on-coding/"
-      }
-    ],
-    "lastUpdated": "2025-04-14T18:16:44.076Z"
-  },
-  {
-    "title": "OpenAI debuts new flagship AI model",
-    "id": "0zcze0l1qlcm45",
-    "summary": "- OpenAI has launched GPT-4.1, succeeding the GPT-4o model introduced last year.\n- A lightweight version, GPT-4.1 Mini, and the smallest, fastest model, GPT-4.1 Nano, have been released.\n- The older GPT-4 will be phased out from ChatGPT by April 30th, as GPT-4o is being positioned as its replacement.\n- CEO Sam Altman announced a delay for the GPT-5 launch, expected in a few months.\n- OpenAI is also preparing to launch full and mini versions of its o3 and o4 reasoning models.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195820/JESSICA_WEATHERBED.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
-    ],
-    "scores": {
-      "scale": 9,
-      "impact": 8,
-      "novelty": 7,
-      "longTermSignificance": 9
-    },
-    "keywords": [
-      "OpenAI",
-      "GPT-4.1",
-      "AI model",
-      "ChatGPT",
-      "Sam Altman",
-      "news",
-      "technology"
-    ],
-    "sources": [
-      {
-        "title": "OpenAI debuts new flagship AI model",
-        "link": "https://www.theverge.com/news/647896/openai-chatgpt-gpt-4-1-mini-nano-launch-availability"
       }
     ],
     "lastUpdated": "2025-04-14T18:16:44.076Z"
@@ -35477,75 +35573,5 @@
       }
     ],
     "lastUpdated": "2025-03-31T22:12:33.124Z"
-  },
-  {
-    "title": "Hillary Clinton and Barack Obama Join Bluesky, a New Social Media Platform",
-    "id": "00rw2ik086zdye",
-    "summary": "- Barack Obama has joined Bluesky, a social network alternative to X (formerly Twitter).\n- His account was confirmed by Bluesky OOO Rose Wang.\n- Obama celebrated the 15th anniversary of the Affordable Care Act in his initial posts.\n- He has a significant following on platforms like X (130.6 million followers) and Facebook (55 million followers).\n- Bluesky has gained over 33 million users, benefiting from the exodus of users from X after the 2024 U.S. elections.\n- Other notable politicians on Bluesky include Bernie Sanders, Elizabeth Warren, and Alexandria Ocasio-Cortez.\n\n- Former Secretary of State Hillary Clinton has joined Bluesky, following former president Barack Obama.\n- Clinton confirmed her account’s legitimacy via an Instagram story and a post on X.\n- In her introductory post, she focused on the Wisconsin Supreme Court election, highlighting its unprecedented attention and political implications.\n- Elon Musk has invested heavily in Republican candidate Brad Schimel’s campaign for the Wisconsin judicial race.\n- Bluesky is gaining traction as an alternative to Twitter as high-profile users join, increasing its legitimacy.",
-    "thumbnails": [
-      "https://techcrunch.com/wp-content/uploads/2016/10/gettyimages-614368414.jpg?w=1024",
-      "https://techcrunch.com/wp-content/uploads/2016/11/gettyimages-609653102.jpg?w=1024"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 8,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "barack obama",
-      "bluesky",
-      "social media",
-      "affordable care act",
-      "politicians",
-      "user growth",
-      "hillary clinton",
-      "wisconsin supreme court",
-      "elon musk",
-      "politics"
-    ],
-    "sources": [
-      {
-        "title": "Barack Obama joins Bluesky",
-        "link": "https://techcrunch.com/2025/03/23/barack-obama-joins-bluesky/"
-      },
-      {
-        "title": "Hillary Clinton joins Bluesky",
-        "link": "https://techcrunch.com/2025/03/31/hillary-clinton-joins-bluesky/"
-      }
-    ],
-    "lastUpdated": "2025-03-31T21:12:28.312Z"
-  },
-  {
-    "title": "Microsoft expands AI features across Intel and AMD-powered Copilot Plus PCs",
-    "id": "1h3jy6w1atfrpn",
-    "summary": "- Microsoft releases AI features on Copilot Plus PCs with Intel and AMD chips.\n- Key feature: Live Captions translates audio to English subtitles in real time.\n- Live Captions available from latest Windows 11 update.\n- New tool Cocreator in Paint generates images based on text descriptions.\n- Access to AI image editor and generator in the Photos app is expanded.\n- Features were earlier limited to devices with Qualcomm chips.\n- Ongoing testing of the Recall feature for searching screenshots from activities.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 8,
-      "novelty": 7,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "Microsoft",
-      "AI",
-      "Copilot Plus",
-      "Intel",
-      "AMD",
-      "Live Captions",
-      "Windows 11",
-      "Cocreator",
-      "Photos app"
-    ],
-    "sources": [
-      {
-        "title": "Microsoft expands AI features across Intel and AMD-powered Copilot Plus PCs",
-        "link": "https://www.theverge.com/news/640028/microsoft-copilot-plus-pcs-ai-intel-amd-rollout"
-      }
-    ],
-    "lastUpdated": "2025-03-31T21:12:28.311Z"
   }
 ]
