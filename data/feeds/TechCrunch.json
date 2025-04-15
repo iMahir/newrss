@@ -4,6 +4,28 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Apple details how it plans to improve its AI models by privately analyzing user data",
+      "link": "https://techcrunch.com/2025/04/15/apple-details-how-it-plans-to-improve-its-ai-models-by-privately-analyzing-user-data/",
+      "author": "Ivan Mehta",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/apple-intelligence-iphone-mac.jpg?w=1024",
+      "summary": "- Apple is addressing criticism regarding its AI products by analyzing user data privately.\n- The company will use a method called \"differential privacy\" to generate synthetic data for model improvement.\n- Synthetic data mimics user data but doesn't include actual user content, allowing for more accurate AI model training.\n- Apple aims to enhance its AI capabilities in features like email summaries and various writing tools using this approach.",
+      "keywords": [
+        "Apple",
+        "AI models",
+        "user data",
+        "differential privacy",
+        "synthetic data",
+        "technology improvements"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-15T10:53:55.000Z"
+    },
+    {
       "title": "Waymo and Uber prepare to launch robotaxi service in Atlanta this summer",
       "link": "https://techcrunch.com/2025/04/15/waymo-and-uber-prepare-to-launch-robotaxi-service-in-atlanta-this-summer/",
       "author": "Kirsten Korosec",
@@ -4204,30 +4226,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-04-11T18:07:21.000Z"
-    },
-    {
-      "title": "YouTube considers a daily timer for users looking to cut back on Shorts",
-      "link": "https://techcrunch.com/2025/04/11/youtube-considers-a-daily-timer-for-users-looking-to-cut-back-on-shorts/",
-      "author": "Lauren Forristal",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2022/04/youtube-ios-app.webp?w=1024",
-      "summary": "- YouTube is exploring a feature to set a daily timer for limiting time on Shorts.\n- This feature is not publicly tested yet but is being considered for future rollout.\n- Once the timer ends, Shorts will pause, but individual Shorts can still be viewed.\n- YouTube already has a 'Take a Break' reminder for regular videos.\n- This move aligns with a trend of users seeking ways to manage screen time and reduce social media addiction.",
-      "keywords": [
-        "YouTube",
-        "Shorts",
-        "screen time",
-        "timer",
-        "social media",
-        "addiction",
-        "Take a Break",
-        "doomsrolling"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-11T17:24:08.000Z"
     }
   ]
 }
