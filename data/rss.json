@@ -1,5 +1,94 @@
 [
   {
+    "title": "Telli, a YC alum, raises pre-seed funding for its AI voice agents",
+    "id": "04aes7s18l2zqx",
+    "summary": "- Berlin-based startup Telli raised $3.6 million in pre-seed funding, led by Cherry Ventures and Y Combinator.\n- Telli's AI voice agents automate customer operations like appointment bookings, with complex tasks handled by humans.\n- The startup claims over 50% month-over-month revenue growth, processing close to a million calls with a six-person team across multiple countries.\n- Founders drew inspiration from their experience in scaling customer service at German unicorn Enpal.\n- The AI agents utilize voice actors' cloned voices and models from OpenAI, Claude, among others for best performance.",
+    "thumbnails": [
+      "https://techcrunch.com/wp-content/uploads/2025/04/Telli-20250408-Image-copyright-BetoRuizAlonso-info@betoruizalonso.com-023.jpg?w=1024"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "Telli",
+      "AI voice agents",
+      "funding",
+      "Y Combinator",
+      "customer service automation",
+      "Berlin startup",
+      "Cherry Ventures",
+      "voice cloning"
+    ],
+    "sources": [
+      {
+        "title": "Telli, a YC alum, raises pre-seed funding for its AI voice agents",
+        "link": "https://techcrunch.com/2025/04/15/telli-a-yc-alum-raises-pre-seed-funding-for-its-ai-voice-agents/"
+      }
+    ],
+    "lastUpdated": "2025-04-15T21:12:50.246Z"
+  },
+  {
+    "title": "TikTok takes on Google Maps by surfacing reviews in the comments tab",
+    "id": "0y5ii0n0ui0imt",
+    "summary": "- TikTok introduces a new feature that displays user reviews for places in the comments tab of videos.\n- Users can see ratings, written reviews, and photos for tagged locations like Central Park when viewing related videos.\n- This feature aims to enhance TikTok’s search capabilities and compete with Google Maps.\n- TikTok has been expanding its search functionalities, particularly among younger users, as suggested by a Google executive in 2022.\n- The feature is currently in testing, and it is uncertain when it will be widely available.",
+    "thumbnails": [
+      "https://techcrunch.com/wp-content/uploads/2025/04/tiktok-reviews-in-comments.jpeg?w=628"
+    ],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 7
+    },
+    "keywords": [
+      "TikTok",
+      "Google Maps",
+      "user reviews",
+      "social media",
+      "search features",
+      "Gen Z",
+      "digital marketing"
+    ],
+    "sources": [
+      {
+        "title": "TikTok takes on Google Maps by surfacing reviews in the comments tab",
+        "link": "https://techcrunch.com/2025/04/15/tiktok-takes-on-google-maps-by-surfacing-reviews-in-the-comments-tab/"
+      }
+    ],
+    "lastUpdated": "2025-04-15T21:12:50.245Z"
+  },
+  {
+    "title": "4chan has been down since Monday night after “pretty comprehensive own”",
+    "id": "0nogfqc0nnrgij",
+    "summary": "- 4chan was hacked Monday evening and is mostly unreachable as of now.\n- Outages reported on DownDetector spiked around 10:07 PM ET on Monday.\n- Rival imageboard Soyjack Party claimed responsibility for the hack, sharing screenshots that suggest extensive access to 4chan's data.\n- Security researcher Kevin Beaumont described the hack as a \"pretty comprehensive own,\" compromising SQL databases, source, and shell access.\n- Reports indicate 4chan used an outdated PHP version, making it vulnerable to attacks.\n- Concerns about potential data leaks including users' real names and email addresses have surfaced, but the full extent of the breach is still unknown.",
+    "thumbnails": [],
+    "scores": {
+      "scale": 7,
+      "impact": 8,
+      "novelty": 6,
+      "longTermSignificance": 5
+    },
+    "keywords": [
+      "4chan",
+      "hack",
+      "computer security",
+      "PHP",
+      "data breach",
+      "Soyjack Party",
+      "internet outage"
+    ],
+    "sources": [
+      {
+        "title": "4chan has been down since Monday night after “pretty comprehensive own”",
+        "link": "https://arstechnica.com/information-technology/2025/04/internet-cesspit-4chan-apparently-hacked-mostly-unreachable-since-monday-night/"
+      }
+    ],
+    "lastUpdated": "2025-04-15T21:12:50.243Z"
+  },
+  {
     "title": "Stop doomscrolling and watch the ‘Great Moose Migration’ livestream",
     "id": "0c4yiyq16e239n",
     "summary": "- The Great Moose Migration livestream airs for three weeks each spring, allowing global viewers to watch moose cross the Ångerman River.\n- The livestream features tranquil scenes from over 30 cameras and had 9 million viewers last year, comparable to popular events like Shark Week.\n- Unlike fast-paced online content, this slow-paced nature livestream offers a unique, relaxed viewing experience.",
@@ -18613,36 +18702,6 @@
     "lastUpdated": "2025-04-08T17:12:38.457Z"
   },
   {
-    "title": "Google fixes two Android zero-day bugs actively exploited by hackers",
-    "id": "1sn6xe10yi4pqc",
-    "summary": "- Google released an Android update addressing two zero-day flaws that were potentially exploited by hackers.\n- The vulnerabilities include CVE-2024-53197, identified by Amnesty International, which was exploited against a Serbian student activist.\n- The second vulnerability, CVE-2024-53150, is less documented but involves a critical security flaw in the kernel, with potential for remote privilege escalation without user interaction.\n- Patches for the vulnerabilities will be pushed within 48 hours; Android partners were notified a month in advance.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 8,
-      "impact": 9,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "Android",
-      "zero-day",
-      "security",
-      "vulnerability",
-      "Google",
-      "CVE-2024-53197",
-      "CVE-2024-53150",
-      "Amnesty International",
-      "cybersecurity"
-    ],
-    "sources": [
-      {
-        "title": "Google fixes two Android zero-day bugs actively exploited by hackers",
-        "link": "https://techcrunch.com/2025/04/08/google-fixes-two-android-zero-day-bugs-actively-exploited-by-hackers/"
-      }
-    ],
-    "lastUpdated": "2025-04-08T16:19:06.044Z"
-  },
-  {
     "title": "Most Americans don’t trust AI — or the people in charge of it",
     "id": "0wf41qw1ts5fuc",
     "summary": "- A Pew Research Center report reveals a divide between AI experts and the public on the perception of AI technology.\n- About 75% of AI experts believe the technology will benefit them personally, while only 25% of the public shares this view.\n- More than half of both AI experts and the public want more control over AI usage and do not trust government or private companies to regulate it effectively.\n- Gen Z is highly engaged with AI tools, yet they express more anxiety (41%) than excitement (36%) about AI's impact.\n- Most young people believe that AI could harm their critical thinking abilities, and there's a lack of clear AI policies in schools and workplaces.",
@@ -35629,385 +35688,5 @@
       }
     ],
     "lastUpdated": "2025-04-01T22:11:28.353Z"
-  },
-  {
-    "title": "Data protection bill leaves room for governmental abuse, campaigners warn",
-    "id": "0dmoarv1xifmz7",
-    "summary": "- Privacy campaigners warn that new data protection laws could misuse voters' personal data for political targeting.\n- Critics, including the Open Rights Group, raise concerns about 'Henry VIII powers' that allow government discretion in using data with minimal checks.\n- The proposed bill, effective early 2026, may eliminate essential risk assessments and adequate parliamentary oversight on data use for campaigning.\n- Campaigners argue clear, fair rules are vital for democratic integrity and preventing potential future abuse by governments.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 5,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "data protection",
-      "government abuse",
-      "political campaigning",
-      "privacy",
-      "Open Rights Group",
-      "Henry VIII powers",
-      "data bill"
-    ],
-    "sources": [
-      {
-        "title": "Data protection bill leaves room for governmental abuse, campaigners warn",
-        "link": "https://www.theguardian.com/world/2025/apr/01/data-privacy-campaigners-warn-of-henry-viii-powers"
-      }
-    ],
-    "lastUpdated": "2025-04-01T21:12:13.894Z"
-  },
-  {
-    "title": "The best phone to buy right now",
-    "id": "01rix4x1m70mjg",
-    "summary": "- Most users prefer familiar phones that work reliably.\n- Iterative improvements dominate the current phone market; new devices focus on software more than hardware.\n- Notable options include the iPhone 16, Google Pixel 9, and Samsung Galaxy S25 Ultra.\n- iPhone 16 features A18 chipset, Action Button, and advanced camera system, priced at $799.\n- Google Pixel 9 offers great design and reliable camera capabilities at $649 but lacks a telephoto lens.\n- The Samsung Galaxy S25 Ultra is touted as the best high-end Android, with top specs and features, priced at $1,100.\n- Many budget options available under $600, with specific recommendations for excellent budget smartphones.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25626687/DSC08433.jpg?quality=90&strip=all&crop=16.675%2C0%2C66.65%2C100&w=2400"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 9,
-      "novelty": 6,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "smartphones",
-      "iPhone 16",
-      "Google Pixel 9",
-      "Samsung Galaxy S25 Ultra",
-      "best phones 2023",
-      "budget smartphones"
-    ],
-    "sources": [
-      {
-        "title": "The best phone to buy right now",
-        "link": "https://www.theverge.com/22163811/best-phone"
-      }
-    ],
-    "lastUpdated": "2025-04-01T21:12:13.893Z"
-  },
-  {
-    "title": "Tinder Introduces An AI-Powered Flirting Game to Enhance User Skills",
-    "id": "0uhoneg0o0mnxg",
-    "summary": "- Tinder has introduced an AI-powered game called The Game Game to help users practice flirting.\n- Users interact with AI personas and receive scores based on their flirting skills using a three-point scale.\n- The game is currently available only for U.S. users on iOS for a limited time.\n- This move is part of Tinder's strategy to attract more users amid growth struggles, with AI flirting becoming increasingly popular.\n- The game aims to make flirting fun and low-pressure, aligning with trends in dating fatigue among Gen Z, who are seeking more engaging experiences.",
-    "thumbnails": [
-      "https://techcrunch.com/wp-content/uploads/2025/04/TGG-HERO.png?w=1024"
-    ],
-    "scores": {
-      "scale": 5,
-      "impact": 6,
-      "novelty": 6,
-      "longTermSignificance": 4
-    },
-    "keywords": [
-      "tinder",
-      "ai",
-      "flirting",
-      "dating",
-      "the game game",
-      "openai",
-      "mobile app",
-      "user engagement",
-      "gen z",
-      "chatbot"
-    ],
-    "sources": [
-      {
-        "title": "Tinder’s new AI-powered game assesses your flirting skills",
-        "link": "https://techcrunch.com/2025/04/01/tinders-new-ai-powered-game-assesses-your-flirting-skills/"
-      },
-      {
-        "title": "Tinder wants you to flirt with an AI bot before you flop with a human",
-        "link": "https://www.fastcompany.com/91309801/tinder-wants-you-to-flirt-with-an-ai-bot-before-you-flop-with-a-human?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
-      }
-    ],
-    "lastUpdated": "2025-04-01T21:12:13.892Z"
-  },
-  {
-    "title": "Researchers Suggest OpenAI Trained AI Models on Paywalled O’Reilly Books + US court rules AI art can’t be copyrighted",
-    "id": "0f0a5m71j2mfye",
-    "summary": "- A recent court ruling has determined that art created by artificial intelligence cannot be protected by copyright.\n- The case involved a challenge to the copyright eligibility of AI-generated works.\n- This decision could have significant implications for the future of copyright law and AI-generated creativity.\n- OpenAI is accused of training AI models on copyrighted material without permission, specifically paywalled books from O’Reilly Media.\n- A paper from the AI Disclosures Project claims GPT-4o shows strong recognition of non-public O’Reilly content without licensing agreements.\n- The study analyzed 13,962 excerpts from O’Reilly books and suggests GPT-4o may have prior knowledge of this content due to its training data practices.\n- The methodology used, DE-COP, tests if AI models recognize original text to infer prior exposure during training.\n- While the findings are significant, the authors acknowledge the method isn't foolproof and that there may be alternate explanations.",
-    "thumbnails": [
-      "https://cdn.techinasia.com/wp-content/uploads/2025/01/1737002473_shutterstock_1829147534-scaled.jpg"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 7.5,
-      "longTermSignificance": 7.5
-    },
-    "keywords": [
-      "ai art",
-      "copyright",
-      "legal ruling",
-      "intellectual property",
-      "artificial intelligence",
-      "openai",
-      "o'reilly media",
-      "ai training",
-      "gpt-4o",
-      "non-public content"
-    ],
-    "sources": [
-      {
-        "title": "US court rules AI art can’t be copyrighted",
-        "link": "https://www.techinasia.com/news/court-rules-ai-art-copyrighted"
-      },
-      {
-        "title": "Researchers Suggest OpenAI Trained AI Models on Paywalled O’Reilly Books",
-        "link": "https://techcrunch.com/2025/04/01/researchers-suggest-openai-trained-ai-models-on-paywalled-oreilly-books/"
-      }
-    ],
-    "lastUpdated": "2025-04-01T20:15:58.015Z"
-  },
-  {
-    "title": "Thousands of federal health workers are losing their jobs in the US",
-    "id": "1uz7o2d0vvth0t",
-    "summary": "- The Department of Health and Human Services (HHS) is undergoing significant workforce reductions, impacting agencies like the CDC and FDA.\n- Thousands of CDC employees were notified of layoffs, reassessments, or remote assignments as part of a 20,000-person workforce reduction initiated by the Trump administration.\n- Critics warn that these cuts may lead to preventable deaths due to compromised public health programs, while HHS claims the changes will save $1.8 billion annually.\n- FDA officials, including Peter Marks, have resigned, citing a lack of commitment to truth and transparency under the new administration.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 8,
-      "novelty": 5,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "COVID-19",
-      "healthcare cuts",
-      "HHS",
-      "CDC",
-      "FDA",
-      "Trump administration",
-      "public health",
-      "workforce reduction"
-    ],
-    "sources": [
-      {
-        "title": "Thousands of federal health workers are losing their jobs in the US",
-        "link": "https://www.theverge.com/news/640988/trump-rfk-health-human-services-cdc-fda-reductions"
-      }
-    ],
-    "lastUpdated": "2025-04-01T20:15:58.015Z"
-  },
-  {
-    "title": "CaaStle board confirms financial distress, furloughing employees",
-    "id": "0t1o5kp0lvyihi",
-    "summary": "- CaaStle is facing financial difficulties, confirmed by a report from Axios.\n- The company is almost out of money; CEO Christine Hunsicker has resigned.\n- CaaStle has furloughed all employees and involved law enforcement in a financial misconduct investigation.\n- The Board expressed disappointment over the conduct leading to these issues and aims to support employees while preserving business value.\n- CaaStle has raised over $530 million, but allegations of misleading investors about financial performance have emerged.\n- Recent reports suggest that if fraud allegations against Hunsicker are proven, it could be one of the largest fraud cases in startup history.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 7,
-      "impact": 9,
-      "novelty": 6,
-      "longTermSignificance": 8
-    },
-    "keywords": [
-      "CaaStle",
-      "financial distress",
-      "employee furlough",
-      "CEO resignation",
-      "fraud allegations",
-      "clothing subscription service",
-      "investor relations"
-    ],
-    "sources": [
-      {
-        "title": "CaaStle board confirms financial distress, furloughing employees",
-        "link": "https://techcrunch.com/2025/04/01/fashion-startup-caastle-appears-to-be-in-trouble/"
-      }
-    ],
-    "lastUpdated": "2025-04-01T20:15:58.015Z"
-  },
-  {
-    "title": "Andreessen Horowitz and Oracle Pursue TikTok Amid Shutdown of TikTok Notes",
-    "id": "16j9uj31v4vyv2",
-    "summary": "- TikTok is shutting down TikTok Notes on May 8, 2025.\n- TikTok Notes was in testing in Canada, Australia, and Vietnam last year.\n- Users are being directed to Lemon8, a similar app owned by ByteDance, with about 12.5 million global monthly active users.\n- TikTok encourages users to back up their data before the shutdown.\n- Lemon8 launched in Japan in 2020 and offers features similar to TikTok Notes.\n- The decision to shut down comes amid concerns of a potential U.S. ban on TikTok.\n- Andreessen Horowitz is in talks to invest in TikTok with Oracle and other investors to acquire it from ByteDance.\n- A potential U.S. ban on TikTok is set for April 5th unless its operations are sold to a non-Chinese entity.\n- The Oracle deal is considered the frontrunner in this acquisition process.\n- Andreessen Horowitz has a history of investing in major social media platforms including Facebook and Twitter.",
-    "thumbnails": [],
-    "scores": {
-      "scale": 6,
-      "impact": 7.5,
-      "novelty": 5.5,
-      "longTermSignificance": 6.5
-    },
-    "keywords": [
-      "tiktok",
-      "tiktok notes",
-      "lemon8",
-      "shutdown",
-      "social media",
-      "andreessen horowitz",
-      "oracle",
-      "investment",
-      "acquisition",
-      "us ban"
-    ],
-    "sources": [
-      {
-        "title": "TikTok is shutting down its Instagram competitor TikTok Notes",
-        "link": "https://techcrunch.com/2025/04/01/tiktok-is-shutting-down-its-instagram-competitor-tiktok-notes/"
-      },
-      {
-        "title": "Andreessen Horowitz is trying to nab a piece of TikTok with Oracle, report says",
-        "link": "https://techcrunch.com/2025/04/01/andreessen-horowitz-is-trying-to-nab-a-piece-of-tiktok-with-oracle-report-says/"
-      }
-    ],
-    "lastUpdated": "2025-04-01T20:15:58.014Z"
-  },
-  {
-    "title": "Who are climate conscious consumers? Not who you’d expect, says Northwind Climate",
-    "id": "0751tdq15d1zui",
-    "summary": "- Northwind Climate identifies a category called \"climate doers,\" who prioritize climate-friendly purchases.\n- Surprising characteristic: Many climate doers frequently visit fast food restaurants, and about 30% identify as Republicans.\n- Northwind Climate has raised $1.05 million in pre-seed funding, focusing on behavioral insights over demographics.\n- The startup categorizes consumers into five groups, including \"climate distressed\" and \"climate deniers.\"\n- Recommendations for EV marketing vary by consumer category, focusing on choice for climate doers and freedom for deniers.\n- Northwind's database contains 20,000 respondents, growing by 2,500 each month, offering insights to subscribing companies for a fee.\n- The company is developing an AI model to function as a virtual focus group for marketing analysis.",
-    "thumbnails": [
-      "https://techcrunch.com/wp-content/uploads/2025/04/Northwind-Climate-consumer-Segmentation-Graphic.jpg?w=680"
-    ],
-    "scores": {
-      "scale": 6,
-      "impact": 8,
-      "novelty": 7,
-      "longTermSignificance": 7
-    },
-    "keywords": [
-      "climate change",
-      "consumer behavior",
-      "Northwind Climate",
-      "EV marketing",
-      "sustainability",
-      "market segmentation"
-    ],
-    "sources": [
-      {
-        "title": "Who are climate conscious consumers? Not who you’d expect, says Northwind Climate",
-        "link": "https://techcrunch.com/2025/04/01/who-are-climate-conscious-consumers-not-who-youd-expect-says-northwind-climate/"
-      }
-    ],
-    "lastUpdated": "2025-04-01T20:15:58.014Z"
-  },
-  {
-    "title": "An accounting startup has turned tax preparations into a Pokémon Showdown game",
-    "id": "0j04edj11iuegl",
-    "summary": "- Accounting software company Open Ledger launched a new product called [PokéTax](https://p01--poketax-battle--n86lglhrhpm6.vhbq4xm4nj.code.run/), a game aimed at making tax filing enjoyable.  \n- Users face off against Tax Trainers representing different parts of a tax form, answering questions to complete their taxes.  \n- The game is not an April Fool's joke, according to co-founder Pryce Adade-Yebesi.  \n- After completing the game, users are directed to the IRS Direct File site to submit their taxes.  \n- Open Ledger was launched earlier this year, having raised $3 million and initially created the game as a joke.  \n- The game features an AI assistant, allows players to win badges for discovering deductions, and aims to make taxes less tedious.  \n- Taxes are due on April 14th.",
-    "thumbnails": [
-      "https://techcrunch.com/wp-content/uploads/2025/04/OpenLedger-PokeTax.png?w=1000"
-    ],
-    "scores": {
-      "scale": 6,
-      "impact": 7,
-      "novelty": 8,
-      "longTermSignificance": 5
-    },
-    "keywords": [
-      "Open Ledger",
-      "PokéTax",
-      "Tax Trainer",
-      "tax filing",
-      "gamification",
-      "IRS",
-      "startup",
-      "April 2025"
-    ],
-    "sources": [
-      {
-        "title": "An accounting startup has turned tax preparations into a Pokémon Showdown game",
-        "link": "https://techcrunch.com/2025/04/01/an-accounting-startup-has-turned-tax-preparations-into-a-pokemon-showdown-game/"
-      }
-    ],
-    "lastUpdated": "2025-04-01T20:15:58.014Z"
-  },
-  {
-    "title": "All of the updates about OpenAI",
-    "id": "1k2carz1kk3oa9",
-    "summary": "- OpenAI raised $40 billion led by SoftBank, reaching a $300 billion valuation.\n- ChatGPT is generating Studio Ghibli-style art, leading to a mix of reactions online.\n- OpenAI's leadership change includes COO Brad Lightcap overseeing operations as Sam Altman focuses on technical direction.\n- OpenAI is facing delays for free-tier users in accessing the new image generation feature due to high demand and operational challenges.\n- Privacy concerns arise from a case where a Norwegian man was falsely labeled by ChatGPT as a murderer.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197393/GMbiBVSaAAABxU1.0.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
-    ],
-    "scores": {
-      "scale": 9,
-      "impact": 8,
-      "novelty": 7,
-      "longTermSignificance": 8
-    },
-    "keywords": [
-      "OpenAI",
-      "ChatGPT",
-      "investment",
-      "art generation",
-      "leadership change",
-      "privacy complaint"
-    ],
-    "sources": [
-      {
-        "title": "All of the updates about OpenAI",
-        "link": "https://www.theverge.com/news/640086/openai-chat-gpt-news-updates"
-      }
-    ],
-    "lastUpdated": "2025-04-01T20:15:58.013Z"
-  },
-  {
-    "title": "Must-Have Accessories for Xbox Series X/S + The best Xbox controller to buy right now",
-    "id": "0zc4ycx13wnprf",
-    "summary": "- The Xbox Wireless Controller is the best option for most Xbox or PC gamers due to its balance of quality, comfort, and price.\n- Alternatives to consider include options from brands like 8BitDo, PowerA, Razer, Scuf, and Turtle Beach.\n- The standard Xbox controller is reasonably priced at around $60 and features great connectivity options including Bluetooth.\n- The 8BitDo Ultimate Wired Controller serves as a budget-friendly alternative at about $28, known for its lightweight design and satisfying buttons.\n- The Xbox Elite Wireless Controller Series 2 offers extensive customization options but comes with a high price tag of around $150 and some reported quality control issues.\n- Xbox Series X and S can be enhanced with various accessories.\n- Recommended controllers: \n - [Xbox Wireless Controller](https://www.amazon.com/Xbox-Wireless-Gaming-Headset-Headphones-Console/dp/B0DH689JGY?tag=theverge02-20): Features share button, Bluetooth support, and USB-C port.\n - [Xbox Elite Series 2 Controller](https://www.amazon.com/Elite-2-Controller-Black-Xbox-One/dp/B07SFKTLZM/?tag=theverge02-20): Offers more customization but at a higher price.\n- Storage options include [Seagate](https://www.amazon.com/Seagate-Storage-Expansion-Solid-State/dp/B08K3S6WJM?th=1&tag=theverge02-20) and [Western Digital expansion cards](https://www.amazon.com/WD_Black-Storage-Expansion-Card-WDBMPH0010BNC-WCSN/dp/B0C44XVWCH/?tag=theverge02-20).\n- Other accessories featured: PowerA Enhanced Wired Controller, Xbox Wireless Headset, charging stands, and more.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23443121/adbenedetto_220427_5192_0002.jpg?quality=90&strip=all&crop=16.666666666667,0,66.666666666667,100&w=2400"
-    ],
-    "scores": {
-      "scale": 7,
-      "impact": 7.5,
-      "novelty": 5.5,
-      "longTermSignificance": 6.5
-    },
-    "keywords": [
-      "xbox",
-      "controller",
-      "gaming",
-      "accessories",
-      "hardware",
-      "xbox series x",
-      "xbox series s",
-      "pc gaming",
-      "controllers",
-      "headsets",
-      "storage"
-    ],
-    "sources": [
-      {
-        "title": "The best Xbox controller to buy right now",
-        "link": "https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s"
-      },
-      {
-        "title": "Must-Have Accessories for Xbox Series X/S",
-        "link": "https://www.theverge.com/21550830/xbox-series-x-s-wireless-controller-ssd-hard-drive-accessories"
-      }
-    ],
-    "lastUpdated": "2025-04-01T20:15:58.012Z"
-  },
-  {
-    "title": "Keanu Reeves is coming back for John Wick 5",
-    "id": "168zedx1pds5h0",
-    "summary": "- Lionsgate announced the greenlighting of John Wick 5 during CinemaCon.\n- Keanu Reeves will reprise his role as John Wick, also known as Baba Yaga.\n- No plot details have been released yet, but director Chad Stahelski and producers Basil Iwanyk and Erica Lee are attached.\n- An animated prequel featuring Reeves is also in development, focusing on his past tasks.\n- Donnie Yen is set to star in and direct a live-action spinoff centered around his character from John Wick: Chapter 4.",
-    "thumbnails": [
-      "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195801/CHARLES_PULLIAM-MOORE.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96"
-    ],
-    "scores": {
-      "scale": 8,
-      "impact": 9,
-      "novelty": 7,
-      "longTermSignificance": 8
-    },
-    "keywords": [
-      "John Wick",
-      "Keanu Reeves",
-      "Lionsgate",
-      "CinemaCon",
-      "Donnie Yen",
-      "animated prequel",
-      "spinoff"
-    ],
-    "sources": [
-      {
-        "title": "Keanu Reeves is coming back for John Wick 5",
-        "link": "https://www.theverge.com/news/640876/john-wick-5-keanu-reeves-donnie-yen-spinoff"
-      }
-    ],
-    "lastUpdated": "2025-04-01T20:15:58.012Z"
   }
 ]

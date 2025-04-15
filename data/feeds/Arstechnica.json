@@ -4,6 +4,29 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "4chan has been down since Monday night after “pretty comprehensive own”",
+      "link": "https://arstechnica.com/information-technology/2025/04/internet-cesspit-4chan-apparently-hacked-mostly-unreachable-since-monday-night/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- 4chan was hacked Monday evening and is mostly unreachable as of now.\n- Outages reported on DownDetector spiked around 10:07 PM ET on Monday.\n- Rival imageboard Soyjack Party claimed responsibility for the hack, sharing screenshots that suggest extensive access to 4chan's data.\n- Security researcher Kevin Beaumont described the hack as a \"pretty comprehensive own,\" compromising SQL databases, source, and shell access.\n- Reports indicate 4chan used an outdated PHP version, making it vulnerable to attacks.\n- Concerns about potential data leaks including users' real names and email addresses have surfaced, but the full extent of the breach is still unknown.",
+      "keywords": [
+        "4chan",
+        "hack",
+        "computer security",
+        "PHP",
+        "data breach",
+        "Soyjack Party",
+        "internet outage"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-04-15T18:43:29.000Z"
+    },
+    {
       "title": "When is 4.1 greater than 4.5? When it’s OpenAI’s newest model.",
       "link": "https://arstechnica.com/ai/2025/04/when-is-4-1-greater-than-4-5-when-its-openais-newest-model/",
       "author": null,
@@ -1979,30 +2002,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-02-28T23:08:30.000Z"
-    },
-    {
-      "title": "“It’s a lemon”—OpenAI’s largest AI model ever arrives to mixed reviews",
-      "link": "https://arstechnica.com/ai/2025/02/its-a-lemon-openais-largest-ai-model-ever-arrives-to-mixed-reviews/",
-      "author": null,
-      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/gpt45_hallucination_chart-1024x521.png",
-      "summary": "- GPT-4.5 costs $75 per million input tokens and $150 per million output tokens, making it impractical for many developers compared to GPT-4o and other models.\n- OpenAI is shifting focus to simulated reasoning models like o1 and o3 after experiencing diminishing returns on traditional LLMs.\n- Competition in the AI market is growing, with Anthropic’s Claude 3.7 Sonnet outperforming GPT-4.5, suggesting GPT-4.5 may represent a technological dead-end.",
-      "keywords": [
-        "OpenAI",
-        "GPT-4.5",
-        "AI models",
-        "simulated reasoning",
-        "Anthropic",
-        "Claude 3.7 Sonnet",
-        "AI market",
-        "technology"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-02-28T16:35:13.000Z"
     }
   ]
 }
