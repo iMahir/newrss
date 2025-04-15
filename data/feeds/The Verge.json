@@ -4,6 +4,30 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Hertz says hackers stole customer credit card and driver’s license data",
+      "link": "https://www.theverge.com/news/648741/hertz-customer-data-breach-hackers-cleo-vulnerability",
+      "author": "Jess Weatherbed",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195820/JESSICA_WEATHERBED.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Hertz confirmed a data breach affecting customer credit card and personal information due to vulnerabilities in the Cleo Communications file transfer platform.\n- The breach occurred between October and December 2024 and was reported on February 10, 2025.\n- Data exposed includes names, contact info, dates of birth, credit card details, and driver’s license information; a small number also had Social Security numbers compromised.\n- The incident is being reported to law enforcement and relevant regulators, with Cleo addressing the vulnerabilities.\n- Hertz has not disclosed the number of impacted customers and stated there is no known misuse of the stolen information.",
+      "keywords": [
+        "Hertz",
+        "data breach",
+        "credit card theft",
+        "Cleo Communications",
+        "cyberattack",
+        "personal information",
+        "customer data",
+        "security vulnerabilities"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-15T09:58:37.000Z"
+    },
+    {
       "0": "{",
       "1": "\"",
       "2": "t",
@@ -7194,30 +7218,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-04-11T17:45:56.000Z"
-    },
-    {
-      "title": "DoorDash is expanding into sidewalk robot delivery in the US",
-      "link": "https://www.theverge.com/news/647206/door-dash-coco-side-walk-robot-delivery-la-chicago",
-      "author": "Umar Shakir",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195848/UMAR_SHAKIR.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- DoorDash partners with Coco to expand sidewalk robot deliveries to the US, currently live in Los Angeles and Chicago.\n- Nearly 600 merchants are participating, allowing robot delivery of food and goods.\n- The Coco partnership supports DoorDash's vision to become a \"multi-modal\" delivery platform.\n- DoorDash has completed over 100,000 deliveries with Coco during the pilot phase worldwide.\n- Delivery robots face challenges, including monitoring to avoid getting stuck or vandalized.",
-      "keywords": [
-        "DoorDash",
-        "Coco",
-        "robot delivery",
-        "Los Angeles",
-        "Chicago",
-        "food delivery",
-        "automation",
-        "delivery robots"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-11T17:07:34.000Z"
     }
   ]
 }
