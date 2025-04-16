@@ -4,6 +4,47 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "A first look at Microsoft’s new Xbox Copilot",
+      "link": "https://www.theverge.com/notepad-microsoft-newsletter/649665/microsoft-xbox-copilot-first-look-notepad",
+      "author": "Tom Warren",
+      "thumbnail": "null",
+      "summary": "- Microsoft is testing an early version of Xbox Copilot within the Xbox mobile app, designed to integrate with user Xbox accounts.\n- The Copilot can display achievements, give game recommendations, provide tips, and assist with downloading and installing games.\n- It supports typing or voice commands, with varied voice options like energetic and heroic; animated AI characters are in development.\n- Future features may include Copilot Vision, allowing the AI to see during gameplay on PC for more comprehensive assistance.\n- The initial Xbox Copilot for Gaming will be available to Xbox Insiders soon, with plans for broader release after feedback.\n- Microsoft is increasingly integrating Xbox titles into Battle.net, including recent and upcoming games for Game Pass, indicating expanded PC game launcher options.\n- The article also covers various Microsoft updates: data center slowdowns, the upcoming Recall feature for Copilot PCs, enabling of ActiveX controls in Microsoft 365, new GPT-4.1 models in Azure, Windows 11 update rollouts, Windows vulnerabilities, a leaked Elder Scrolls remaster, new Snipping Tool features, a quirky MS Paint mirror product, support for Nintendo Switch 2, and Copilot Studio's new AI interaction capabilities.",
+      "keywords": [
+        "Xbox Copilot",
+        "Microsoft",
+        "gaming assistant",
+        "AI chatbot",
+        "Copilot Vision",
+        "Battle.net",
+        "Game Pass",
+        "Windows 11",
+        "Azure OpenAI",
+        "Microsoft updates",
+        "leaked Elder Scrolls remaster",
+        "Snipping Tool",
+        "Nintendo Switch 2",
+        "Copilot Studio",
+        "AI features"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-04-16T14:30:00.000Z"
+    },
+    {
+      "title": "FTC v. Meta live: Mark Zuckerberg takes the stand",
+      "link": "https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-04-16T14:27:45.000Z"
+    },
+    {
       "title": "Spotify is down",
       "link": "https://www.theverge.com/news/649632/spotify-is-down-outage-report-uk-us",
       "author": "Jess Weatherbed",
@@ -9689,52 +9730,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-04-14T23:40:06.000Z"
-    },
-    {
-      "title": "Here are the best Apple Watch deals right now",
-      "link": "https://www.theverge.com/21289209/best-apple-watch-deals",
-      "author": "Brandon Widder",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25623065/247270_Apple_watch_series_10_AKrales_0370.jpg?quality=90&strip=all&crop=16.666666666667,0,66.666666666667,100&w=2400",
-      "summary": "- Apple launched the Apple Watch Series 10 and Apple Watch Ultra 2 in September 2023.\n- Series 10 features a brighter, larger OLED display and sports new sensors including sleep apnea detection.\n- Current deals include Series 10 for $329 at Walmart (42mm) and $359 at Amazon (46mm).\n- Series 9 is available starting at $279.99 at Best Buy, offering slight upgrades over Series 8.\n- Apple Watch SE (2022) can be found as low as $170 with features like Crash Detection.\n- Apple Watch Ultra 2 is priced starting at $734.89 at Amazon with improved brightness and battery life over the original Ultra.\n- Premium models in stainless steel and titanium are available but come at higher starting prices of $699 or more.",
-      "keywords": [
-        "Apple Watch",
-        "deals",
-        "Apple Watch Series 10",
-        "Apple Watch Ultra 2",
-        "Apple Watch SE",
-        "promotions",
-        "smartwatch"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-04-14T23:12:09.000Z"
-    },
-    {
-      "title": "Apple's complicated plan to improve its AI while protecting privacy",
-      "link": "https://www.theverge.com/news/648496/apple-improve-ai-models-differential-privacy",
-      "author": "Emma Roth",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Apple has developed a new method to improve AI models without accessing user data by using differential privacy.\n- Devices will compare synthetic datasets to samples from user-generated emails/messages from those who opted into Device Analytics.\n- The system is currently in beta for iOS and iPadOS 18.5 and macOS 15.5.\n- This approach aims to enhance AI performance while ensuring privacy by keeping data on devices.",
-      "keywords": [
-        "Apple",
-        "AI",
-        "privacy",
-        "differential privacy",
-        "device analytics",
-        "iOS",
-        "macOS"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-04-14T20:37:35.000Z"
     }
   ]
 }
