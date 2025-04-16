@@ -4,6 +4,32 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Hammerspace, an unstructured data wrangler used by Nvidia, Meta and Tesla, raises $100M at $500M+ valuation",
+      "link": "https://techcrunch.com/2025/04/16/hammerspace-an-unstructured-data-wrangler-used-by-nvidia-meta-and-tesla-raises-100m-at-500m-valuation/",
+      "author": "Ingrid Lunden",
+      "thumbnail": null,
+      "summary": "- Hammerspace has raised $100 million in funding, valuing the company at over $500 million.\n- Investors include Altimeter Capital and ARK Invest, among others.\n- The company is aimed at helping organizations efficiently access and manage unstructured data for AI applications.\n- Major clients include NVIDIA, Meta, Tesla, and the Department of Defense.\n- Hammerspace plans to use the funds to enhance sales and marketing efforts, building on its previous growth through word-of-mouth.\n- The technology is based on a unique file system using the Linux kernel NFS client, developed by co-founder Trond Myklebust.\n- CEO David Flynn has indicated plans for an IPO within approximately two years, dependent on market conditions.",
+      "keywords": [
+        "Hammerspace",
+        "funding",
+        "Nvidia",
+        "Meta",
+        "Tesla",
+        "AI",
+        "data management",
+        "startup",
+        "valuation",
+        "IPO"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-04-16T11:00:00.000Z"
+    },
+    {
       "title": "Google used AI to suspend over 39M ad accounts suspected of fraud",
       "link": "https://techcrunch.com/2025/04/16/google-used-ai-to-suspend-over-39m-ad-accounts-committing-fraud/",
       "author": "Jagmeet Singh",
@@ -11048,27 +11074,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-04-14T17:00:00.000Z"
-    },
-    {
-      "title": "Google’s newest AI model is designed to help study dolphin ‘speech’",
-      "link": "https://techcrunch.com/2025/04/14/googles-newest-ai-model-is-designed-to-help-study-dolphin-speech/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Google DeepMind developed an AI model named DolphinGemma to decipher dolphin vocalizations.\n- The model aids research on dolphin communication and was trained using data from the Wild Dolphin Project.\n- DolphinGemma can produce ‘dolphin-like’ sound sequences and is efficient enough to operate on smartphones.\n- The Wild Dolphin Project plans to utilize the Google Pixel 9 for generating and matching dolphin vocalizations this summer, enhancing their research capabilities.",
-      "keywords": [
-        "AI model",
-        "Dolphin communications",
-        "Google DeepMind",
-        "Wild Dolphin Project",
-        "DolphinGemma"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-14T16:26:55.000Z"
     }
   ]
 }
