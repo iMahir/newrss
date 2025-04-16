@@ -4,6 +4,30 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Google used AI to suspend over 39M ad accounts suspected of fraud",
+      "link": "https://techcrunch.com/2025/04/16/google-used-ai-to-suspend-over-39m-ad-accounts-committing-fraud/",
+      "author": "Jagmeet Singh",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/04/ad-account-suspensions-20241.jpg",
+      "summary": "- Google suspended 39.2 million advertiser accounts in 2024, a significant increase from the previous year.\n- The company utilized large language models (LLMs) and signals like business impersonation to identify fraudulent accounts before ads were served.\n- In total, Google removed nearly half a billion ads related to scams, with 5 million accounts suspended for scam-related violations.",
+      "keywords": [
+        "Google",
+        "AI",
+        "ad accounts",
+        "fraud",
+        "suspension",
+        "advertising",
+        "scams",
+        "policy updates"
+      ],
+      "scores": {
+        "scale": 10,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-04-16T10:00:00.000Z"
+    },
+    {
       "title": "Visa-backed African unicorn Moniepoint tackles remittances. But is it late to the game?",
       "link": "https://techcrunch.com/2025/04/16/visa-backed-african-unicorn-moniepoint-tackles-remittances-but-is-it-late-to-the-game/",
       "author": null,
@@ -11045,28 +11069,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-04-14T16:26:55.000Z"
-    },
-    {
-      "title": "Google Classroom gives teachers an AI feature for quiz questions",
-      "link": "https://techcrunch.com/2025/04/14/google-classroom-gives-teachers-an-ai-feature-for-quiz-questions/",
-      "author": "Lauren Forristal",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024",
-      "summary": "- Google Classroom introduced a new AI-powered feature for generating quiz questions, launched on April 14, 2025.\n- Teachers can input text manually or upload files from Google Drive for the AI to create questions, which can then be exported to Google Docs or Forms.\n- The feature allows customization based on grade level, question type, and desired skills for students, available only to Google Workspace for Education subscribers with specific add-ons.",
-      "keywords": [
-        "Google Classroom",
-        "AI feature",
-        "quiz questions",
-        "education technology",
-        "Gemini",
-        "Google Workspace"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-04-14T16:21:44.000Z"
     }
   ]
 }
