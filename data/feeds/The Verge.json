@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Spotify is down",
+      "link": "https://www.theverge.com/news/649632/spotify-is-down-outage-report-uk-us",
+      "author": "Jess Weatherbed",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195820/JESSICA_WEATHERBED.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Spotify is experiencing widespread outages across the US and Europe, affecting loading and streaming of music.\n- The Spotify Status account acknowledged the issues at 8:45AM ET on Wednesday, stating they are checking them out.\n- The problems are impacting the web player, desktop app, and iOS app, with various user reports indicating failure to load content or play songs.\n- A spike in US outages was reported by Downdetector, with implications of global impact per the outage map from ThousandEyes.\n- The cause of the outages remains unclear, and no timeline for resolution has been provided.",
+      "keywords": [
+        "Spotify",
+        "outage",
+        "streaming",
+        "US",
+        "Europe",
+        "music service",
+        "Downdetector"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-04-16T13:40:55.000Z"
+    },
+    {
       "title": "Patreon is getting livestreaming",
       "link": "https://www.theverge.com/news/649180/patreon-livestreaming-video-twitch",
       "author": "Jay Peters",
@@ -9712,31 +9735,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-04-14T20:37:35.000Z"
-    },
-    {
-      "title": "Trump says he wants to deport some US citizens, too",
-      "link": "https://www.theverge.com/policy/648338/trump-deport-us-citizens-el-salvador",
-      "author": "Gaby Del Valle",
-      "thumbnail": null,
-      "summary": "- President Trump proposes sending US citizens to a megaprison in El Salvador for criminal acts.\n- Claims there are homegrown criminals in the US that should be included in deportations.\n- In March, Trump invoked the Alien Enemies Act to deport 300 Venezuelan migrants to El Salvador’s CECOT prison.\n- The Alien Enemies Act has rarely been used and allows deportation without due process.\n- Trump’s administration is reportedly paying $6 million to imprison migrants in CECOT.\n- Human rights monitors report cases of torture and deaths in CECOT since its opening in 2023.\n- Trump's idea of deporting US citizens has been taken seriously by White House officials.\n- Legal authority for deporting US citizens remains unclear under the Alien Enemies Act.\n- Deportees are often sent without hearings or evidence and their families contest their deportations.\n- The Supreme Court has allowed the enforcement of the Alien Enemies Act amidst ongoing litigation, raising concerns over due process violations.",
-      "keywords": [
-        "Trump",
-        "deportation",
-        "US citizens",
-        "El Salvador",
-        "Alien Enemies Act",
-        "immigration",
-        "human rights",
-        "Tren de Aragua",
-        "prioritization of violent criminals"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-04-14T20:19:50.000Z"
     }
   ]
 }
