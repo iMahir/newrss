@@ -4,6 +4,28 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Researchers claim breakthrough in fight against AI’s frustrating security hole",
+      "link": "https://arstechnica.com/information-technology/2025/04/researchers-claim-breakthrough-in-fight-against-ais-frustrating-security-hole/",
+      "author": "Benj Edwards",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/benj_ega.png",
+      "summary": "* Google DeepMind introduces CaMeL to combat prompt injection vulnerabilities in AI assistants.\n* CaMeL treats language models as untrusted components and applies established security principles to mitigate risks.\n* The architecture separates task execution between two language models, ensuring untrusted data doesn't compromise actions.\n* The solution emphasizes tracking data flow to enforce strict security policies, likening it to water contamination monitoring.\n* Though promising, CaMeL requires user-defined security policies, posing usability challenges for implementation.",
+      "keywords": [
+        "AI",
+        "prompt injection",
+        "security",
+        "CaMeL",
+        "Google DeepMind",
+        "language models"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-04-16T11:15:44.000Z"
+    },
+    {
       "title": "4chan has been down since Monday night after “pretty comprehensive own”",
       "link": "https://arstechnica.com/information-technology/2025/04/internet-cesspit-4chan-apparently-hacked-mostly-unreachable-since-monday-night/",
       "author": null,
@@ -1980,28 +2002,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-03-03T22:32:59.000Z"
-    },
-    {
-      "title": "Serbian student’s Android phone compromised by exploit from Cellebrite",
-      "link": "https://arstechnica.com/security/2025/02/android-0-day-sold-by-cellebrite-exploited-to-hack-serbian-students-phone/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Amnesty International reported that a zero-day exploit sold by Cellebrite compromised the phone of a Serbian student critical of the government.\n- This marks the continuation of state surveillance and repression against civil society in Serbia, noted by Amnesty in previous reports.\n- The exploit could bypass the lock screen of fully patched Android devices, using vulnerabilities in Linux kernel device drivers.\n- The incident highlights ongoing issues with the deployment of spyware by Serbian authorities, despite international calls for reform.",
-      "keywords": [
-        "Cellebrite",
-        "Android",
-        "zero-day exploit",
-        "Serbian student",
-        "surveillance",
-        "Amnesty International"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-02-28T23:08:30.000Z"
     }
   ]
 }
