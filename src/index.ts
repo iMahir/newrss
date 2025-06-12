@@ -28,6 +28,6 @@ import { saveFeeds } from "./handlers/saveFeeds";
 
     await saveFeeds(feeds);
 
-    rssHandler(feeds);
+    // rssHandler(feeds);
 
 })();
