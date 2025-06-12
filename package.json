@@ -1,6 +1,6 @@
 {
   "name": "newrss",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "A news aggregator powered by ai to build custom rss feeds.",
   "repository": "https://github.com/iMahir/newrss",
   "main": "build/index.js",
@@ -12,7 +12,7 @@
   "author": "github.com/iMahir",
   "license": "ISC",
   "dependencies": {
-    "@mozilla/readability": "^0.5.0",
+    "@mozilla/readability": "^0.6.0",
     "axios": "^1.7.9",
     "bottleneck": "^2.19.5",
     "dotenv": "^16.4.7",
