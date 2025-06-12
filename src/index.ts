@@ -12,15 +12,15 @@ import { saveFeeds } from "./handlers/saveFeeds";
 
     const uniqueFeeds = getUniqueFeeds(newFeeds);
 
-    const parsedUniqueFeeds = parseUniqueFeeds(uniqueFeeds);
+    let parsedUniqueFeeds = parseUniqueFeeds(uniqueFeeds);
 
     //! only keep first 2 items for testing
-    /*
-    parsedUniqueFeeds = parsedUniqueFeeds.map((feed) => {
-        feed.items = feed.items.slice(0, 2);
-        return feed;
-    });
-    */
+
+    // parsedUniqueFeeds = parsedUniqueFeeds.map((feed) => {
+    //     feed.items = feed.items.slice(0, 2);
+    //     return feed;
+    // });
+
 
     await parseFeedItems(parsedUniqueFeeds);
 

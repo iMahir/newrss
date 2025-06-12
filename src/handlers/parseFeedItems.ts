@@ -83,14 +83,19 @@ export const parseFeedItems = async (feeds: PreRssJson[]) => {
             console.log("Fetching: ", feedItems[i].link);
 
             const item = feedItems[i];
-            const content = await articleContentGET(item);
 
-            if (content) {
-                console.log("Fetched: ", item.link);
-                feedItems[i].content = content;
-            }
-            else {
-                await cluster.queue({ itemUrl: item.link, feedUrl: feed.feedUrl });
+            if (item.link.includes("youtube.com/watch")) {
+                item.content = await youtubeContentGET(item);
+
+            } else {
+                const content = await articleContentGET(item);
+                if (content) {
+                    console.log("Fetched: ", item.link);
+                    feedItems[i].content = content;
+                }
+                else {
+                    await cluster.queue({ itemUrl: item.link, feedUrl: feed.feedUrl });
+                }
             }
 
         }
@@ -115,4 +120,17 @@ async function articleContentGET(item: PreRssJson["items"][0]) {
     if (content === "") return null;
     else if (content && content.match(/enable\s+javascript/gi)) return null;
     else return content;
+}
+
+async function youtubeContentGET(item: PreRssJson["items"][0]) {
+    const videoId = item.link.split('v=')[1].split('&')[0]; // Extract video ID from URL
+
+    const res = await axios.get(`https://views4you.com/subtitle-download?id=${videoId}&lang=a.en&ext=txt`)
+    const subtitles = res.data;
+
+    if (subtitles && subtitles.length > 0) {
+        return subtitles;
+    } else {
+        return null;
+    }
 }

@@ -139,14 +139,17 @@ async function parseItem(rssData: RssData) {
             role: "user",
             content: JSON.stringify({
                 title: "An easy to read and interpret title for the article as a string.",
-                summary: [
-                    "Summarize the summary of the news article into concise bullet points in Markdown format, focusing only on key details without any introductory or concluding text.",
-                    "Ensure to include essential facts, specifications, dates, and outcomes where applicable.",
-                    "You may use hyperlinks wherever necessary.",
-                    "Output Format: [Key point 1]\n[Key point 2]\n[Key point 3] ....(more points if required)",
-                    "(Do not include any other text outside the bullet points.) ",
-                    "(Only respond with markdown as a string without any code block delimiters.)"
-                ].join("\n"),
+                summary: `You are an expert summarizer. You will receive either:
+- A news article’s HTML, or
+- A YouTube video’s subtitle transcript.
+
+Your output must be a single 2–3 sentence summary that:
+1. Captures the core message clearly.
+2. Highlights the main insight or takeaway.
+3. Signals its relevance or why someone should read/watch.
+
+Keep it ultra‑concise, coherent, and polished. No labels, headings, or extra text. Max 50 words.
+`,
                 keywords: "A list of keywords that best describe the article, as an array of strings. Keep it limited to important, best keywords.",
             })
         },
@@ -156,7 +159,7 @@ async function parseItem(rssData: RssData) {
         },
         {
             role: "user",
-            content: `Article JSON: ${JSON.stringify(rssData, null, 2)}`
+            content: `Article/Subtitle JSON: ${JSON.stringify(rssData, null, 2)}`
         }
     ]
 

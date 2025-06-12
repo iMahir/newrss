@@ -40,7 +40,7 @@ const generatePostRssJson = async (preRssJsonItem: PreRssJson['items'][0], retry
     const prompts = [
         {
             role: "system",
-            content: "You are a helpful assistant. You specialize in reading and summarizing articles."
+            content: "You are a helpful assistant. You specialize in reading and summarizing text."
         },
         {
             role: "user",
@@ -52,14 +52,17 @@ const generatePostRssJson = async (preRssJsonItem: PreRssJson['items'][0], retry
                 title: "An easy to read and interpret title for the article as a string.",
                 author: "The authors of the article as a string, separated by commas. Keep it as null if the authors are not mentioned.",
                 thumbnail: "A URL to a thumbnail image for the article as a string. If no thumbnail is available, use null.",
-                summary: [
-                    "Summarize the following news article into concise bullet points in Markdown format, focusing only on key details without any introductory or concluding text.",
-                    "Ensure to include essential facts, specifications, dates, and outcomes where applicable.",
-                    "You may use hyperlinks wherever necessary.",
-                    "Output Format: [Key point 1]\n[Key point 2]\n[Key point 3]",
-                    "(Do not include any other text outside the bullet points.) ",
-                    "(Only respond with markdown as a string without any code block delimiters.)"
-                ].join("\n"),
+                summary: `You are an expert summarizer. You will receive either:
+- A news article’s HTML, or
+- A YouTube video’s subtitle transcript.
+
+Your output must be a **single 2–3 sentence summary** that:
+1. Captures the **core message** clearly.
+2. Highlights the main **insight or takeaway**.
+3. Signals its **relevance** or why someone should read/watch.
+
+Keep it ultra‑concise, coherent, and polished. No labels, headings, or extra text. Max 50 words.
+`,
                 scores: "Scores is an object with four keys: scale, impact, novelty, and longTermSignificance." + "\n\n" + [
                     "scale: The scale of the article as a number from 1 to 10, where 1 is the lowest and 10 is the highest. How many people were affected by the event described in the article? Consider the geographical scope and how many individuals or groups were impacted.",
                     "impact: The impact of the article as a number from 1 to 10, where 1 is the lowest and 10 is the highest. How significant was the event described in the article? Consider the consequences and repercussions of the event.",
@@ -79,19 +82,19 @@ const generatePostRssJson = async (preRssJsonItem: PreRssJson['items'][0], retry
         },
         {
             role: "user",
-            content: `Article Title: ${preRssJsonItem.title}`
+            content: `Article/Youtube Title: ${preRssJsonItem.title}`
         },
         {
             role: "user",
-            content: `Article Author: ${preRssJsonItem.author ?? "Not given, get from the article content."}`
+            content: `Article/Youtube Author: ${preRssJsonItem.author ?? "Not given, get from the article content."}`
         },
         {
             role: "user",
-            content: `Article Link: ${preRssJsonItem.link}`
+            content: `Article/Youtube Link: ${preRssJsonItem.link}`
         },
         {
             role: "user",
-            content: `Article Content: ${truncateStringToTokenCount(preRssJsonItem.content ?? "Not given. Get the article content from the provided link.", 2000)}`
+            content: `Article/Youtube Content: ${truncateStringToTokenCount(preRssJsonItem.content ?? "Not given. Get the article content from the provided link.", 2000)}`
         }
     ]
 
