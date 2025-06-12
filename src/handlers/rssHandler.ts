@@ -177,6 +177,10 @@ Keep it ultra‑concise, coherent, and polished. No labels, headings, or extra t
 }
 
 function matchKeywords(keywords1: string[], keywords2: string[]): boolean {
+    if (!keywords1 || !keywords2 || keywords1.length < 3 || keywords2.length < 3) {
+        return false;
+    }
+
     let matchingKeywordCount = 0;
     for (let i = 0; i < keywords1.length; i++) {
         if (keywords2.includes(keywords1[i])) {
