@@ -14,13 +14,13 @@ import { saveFeeds } from "./handlers/saveFeeds";
 
     let parsedUniqueFeeds = parseUniqueFeeds(uniqueFeeds);
 
-    //! only keep first 2 items for testing
-
+    // ! only keep first 2 items for testing
+    /*
     parsedUniqueFeeds = parsedUniqueFeeds.map((feed) => {
-        feed.items = feed.items.slice(0, 5);
+        feed.items = feed.items.slice(0, 2);
         return feed;
     });
-
+    */
 
     await parseFeedItems(parsedUniqueFeeds);
 
@@ -28,6 +28,8 @@ import { saveFeeds } from "./handlers/saveFeeds";
 
     await saveFeeds(feeds);
 
-    // rssHandler(feeds);
+    await rssHandler(feeds);
+
+    process.exit(0);
 
 })();
