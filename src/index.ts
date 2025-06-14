@@ -16,10 +16,10 @@ import { saveFeeds } from "./handlers/saveFeeds";
 
     //! only keep first 2 items for testing
 
-    // parsedUniqueFeeds = parsedUniqueFeeds.map((feed) => {
-    //     feed.items = feed.items.slice(0, 2);
-    //     return feed;
-    // });
+    parsedUniqueFeeds = parsedUniqueFeeds.map((feed) => {
+        feed.items = feed.items.slice(0, 5);
+        return feed;
+    });
 
 
     await parseFeedItems(parsedUniqueFeeds);
