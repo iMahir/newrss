@@ -72,7 +72,6 @@ export const parseFeedItems = async (feeds: PreRssJson[]) => {
                 console.error('Task failed:', error);
             }
 
-            console.log(error);
         }
 
     });
