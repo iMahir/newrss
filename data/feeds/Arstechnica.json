@@ -1,0 +1,537 @@
+{
+  "title": "Arstechnica",
+  "link": "https://arstechnica.com",
+  "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+  "items": [
+    {
+      "title": "Apple Introduces Secure Passkey Import and Export for Enhanced Interoperability",
+      "link": "https://arstechnica.com/security/2025/06/apple-previews-new-import-export-feature-to-make-passkeys-more-interoperable/",
+      "author": null,
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/ios-passkey-transfer-1024x569.jpg",
+      "summary": "Apple unveils a secure, user-initiated method to import and export passkeys directly between apps using Face ID authentication, enhancing security and interoperability. This new approach eliminates risks tied to traditional credential export files, advancing passkey usability and adoption. It marks significant progress against password vulnerabilities and phishing.",
+      "keywords": [
+        "Apple",
+        "passkeys",
+        "security",
+        "FIDO Alliance",
+        "authentication",
+        "Face ID",
+        "credential management",
+        "passwordless login",
+        "interoperability",
+        "FIDO2"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-12T20:26:28.000Z"
+    },
+    {
+      "title": "Disney and Universal Sue Midjourney Over AI Image Copyright Infringement",
+      "link": "https://arstechnica.com/ai/2025/06/in-landmark-suit-disney-and-universal-sue-midjourney-for-ai-character-theft/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "Disney and NBCUniversal have filed a landmark lawsuit against AI image generator Midjourney, accusing it of copyright infringement by reproducing characters without permission. The studios highlight Midjourney's refusal to implement protective measures despite repeated requests, marking a significant legal battle in AI ethics and intellectual property. This case illustrates growing tensions between Hollywood and AI firms over creative rights.",
+      "keywords": [
+        "Disney",
+        "NBCUniversal",
+        "Midjourney",
+        "AI image generator",
+        "copyright infringement",
+        "lawsuit",
+        "intellectual property",
+        "Hollywood",
+        "AI ethics",
+        "image copyright"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-11T18:58:22.000Z"
+    },
+    {
+      "title": "OpenAI’s o3-pro Launch Challenges AI 'Reasoning' Definitions and Advances Capabilities",
+      "link": "https://arstechnica.com/ai/2025/06/with-the-launch-of-o3-pro-lets-talk-about-what-ai-reasoning-actually-does/",
+      "author": "Benj Edwards",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/fimage-1024x576.png",
+      "summary": "OpenAI's new o3-pro model offers improved simulated reasoning for complex tasks like math and coding at a fraction of previous costs, yet studies reveal its 'reasoning' is pattern matching, not true logic. Understanding these limits is crucial as AI evolves toward general intelligence and practical application.",
+      "keywords": [
+        "OpenAI",
+        "o3-pro",
+        "simulated reasoning",
+        "AI reasoning",
+        "artificial intelligence",
+        "pattern matching",
+        "AI limitations",
+        "chain-of-thought",
+        "machine learning",
+        "AI benchmarking",
+        "cost reduction",
+        "technology evolution"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-06-11T16:58:43.000Z"
+    },
+    {
+      "title": "Two Secure Boot Exploits Found in the Wild; Microsoft Patches Only One",
+      "link": "https://arstechnica.com/security/2025/06/unearthed-in-the-wild-2-secure-boot-exploits-microsoft-patches-only-1-of-them/",
+      "author": "Dan Goodin",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2018/10/Dang.jpg",
+      "summary": "Researchers uncovered two Secure Boot exploits that bypass device protections, with Microsoft patching only one. This reveals vulnerabilities in firmware authentication affecting many devices, highlighting risks despite Secure Boot’s intended security. Understanding these exploits is crucial for device security and the ongoing challenge of firmware protection.",
+      "keywords": [
+        "Secure Boot",
+        "CVE-2025-3052",
+        "CVE-2025-47827",
+        "Microsoft",
+        "firmware security",
+        "UEFI",
+        "exploit",
+        "vulnerability",
+        "patch",
+        "device security",
+        "Linux",
+        "DT Research",
+        "IGEL",
+        "malware",
+        "boot process"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-06-10T19:00:34.000Z"
+    },
+    {
+      "title": "OpenAI Partners with Google Cloud Amidst Intense AI Competition",
+      "link": "https://arstechnica.com/ai/2025/06/openai-signs-surprise-deal-with-google-cloud-despite-fierce-ai-rivalry/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "OpenAI has surprised the AI industry by signing a deal to use Google Cloud's computing infrastructure, diversifying beyond Microsoft Azure. This alliance highlights how competitors collaborate to meet soaring AI demands, with OpenAI leveraging Google's resources to support rapid growth and AI development.",
+      "keywords": [
+        "OpenAI",
+        "Google Cloud",
+        "AI rivalry",
+        "Microsoft Azure",
+        "cloud computing",
+        "AI infrastructure",
+        "partnership",
+        "AI development",
+        "ChatGPT",
+        "DeepMind"
+      ],
+      "scores": {
+        "scale": 9,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-10T18:27:48.000Z"
+    },
+    {
+      "title": "Meta Invests Billions in AI Superintelligence Amid Industry Rivalry",
+      "link": "https://arstechnica.com/information-technology/2025/06/after-ai-setbacks-meta-bets-billions-on-undefined-superintelligence/",
+      "author": "Sam Machkovech",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/robot_reading_1-1024x576.jpg",
+      "summary": "Meta is creating a new AI research lab led by Alexandr Wang to pursue superintelligence, a type of AI surpassing human cognitive abilities, despite ongoing conceptual uncertainties. This move signals Meta's commitment to compete fiercely in AI development, reflecting broader industry ambitions to achieve advanced AI breakthroughs.",
+      "keywords": [
+        "Meta",
+        "artificial intelligence",
+        "superintelligence",
+        "Alexandr Wang",
+        "AI research lab",
+        "Mark Zuckerberg",
+        "AGI",
+        "AI industry",
+        "OpenAI",
+        "Google",
+        "technology competition"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-10T16:38:56.000Z"
+    },
+    {
+      "title": "FAA to Replace Windows 95 and Floppy Disk Technology in U.S. Air Traffic Control Systems",
+      "link": "https://arstechnica.com/information-technology/2025/06/faa-to-retire-floppy-disks-and-windows-95-amid-air-traffic-control-overhaul/",
+      "author": null,
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-532114533-640x427.jpg",
+      "summary": "The FAA plans to modernize its air traffic control systems, currently reliant on Windows 95 and floppy disks, by initiating a major infrastructure overhaul. This upgrade addresses safety and sustainability concerns, marking a critical step for aviation technology relevant to millions of travelers nationwide.",
+      "keywords": [
+        "FAA",
+        "air traffic control",
+        "Windows 95",
+        "floppy disks",
+        "infrastructure overhaul",
+        "aviation safety",
+        "technology modernization",
+        "legacy systems"
+      ],
+      "scores": {
+        "scale": 9,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-06-09T15:36:15.000Z"
+    },
+    {
+      "title": "Anthropic Launches Custom AI Chatbot for US National Security Operations",
+      "link": "https://arstechnica.com/ai/2025/06/anthropic-releases-custom-ai-chatbot-for-classified-spy-work/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "Anthropic has unveiled Claude Gov, a custom AI chatbot tailored for US national security agencies to aid in classified intelligence work and strategic planning. These models are designed to handle sensitive information with enhanced language skills and operate within secure environments, highlighting AI's growing role in defense. This development underscores the increasing adoption of specialized AI tools in government sectors.",
+      "keywords": [
+        "Anthropic",
+        "Claude Gov",
+        "AI chatbot",
+        "national security",
+        "classified information",
+        "intelligence analysis",
+        "defense technology",
+        "government AI",
+        "strategic planning",
+        "secure AI models"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-06T21:12:17.000Z"
+    },
+    {
+      "title": "Millions of Low-Cost Android Devices Infected with Malware Turning Home Networks into Crime Platforms",
+      "link": "https://arstechnica.com/security/2025/06/millions-of-low-cost-android-devices-turn-home-networks-into-crime-platforms/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "Millions of inexpensive Android devices are infected with the BadBox malware, derived from the advanced Triada Trojan, turning consumer networks into platforms for illicit activities. Despite Google's efforts to block it, these pre-infected devices enable crimes like advertising fraud and proxy services, posing ongoing threats worldwide.",
+      "keywords": [
+        "Android malware",
+        "BadBox",
+        "Triada Trojan",
+        "supply-chain attack",
+        "consumer network security",
+        "Google Android security",
+        "advertising fraud",
+        "residential proxy services",
+        "cybercrime",
+        "insecure IoT devices"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-06-06T19:15:28.000Z"
+    },
+    {
+      "title": "Anthropic CEO Opposes 10-Year Moratorium on State AI Regulations",
+      "link": "https://arstechnica.com/ai/2025/06/in-10-years-all-bets-are-off-anthropic-ceo-opposes-decade-long-freeze-on-state-ai-laws/",
+      "author": "Dario Amodei",
+      "thumbnail": null,
+      "summary": "Anthropic CEO Dario Amodei argues against a proposed 10-year freeze on state AI laws, warning that AI’s rapid advancement requires more flexible regulation. He advocates for federal transparency standards over moratoriums to balance innovation with safety, highlighting AI’s transformative potential and economic impact.",
+      "keywords": [
+        "Anthropic",
+        "Dario Amodei",
+        "AI regulation",
+        "state laws",
+        "moratorium",
+        "federal transparency",
+        "AI safety",
+        "Claude AI",
+        "economic impact",
+        "technology policy"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-05T14:35:15.000Z"
+    },
+    {
+      "title": "Chrome Removes Trust from Two Certificate Authorities Over Security Concerns",
+      "link": "https://arstechnica.com/security/2025/06/chrome-boots-2-certificate-authorities-citing-a-lack-of-trust-and-confidence/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "Google's Chrome browser has stopped trusting certificates from Taiwan's Chunghwa Telecom and Hungary's Netlock due to persistent compliance failures and lack of improvement, highlighting the critical need for reliable digital certificate authorities in web security. This decision underscores significant risks in internet trust infrastructure.",
+      "keywords": [
+        "Google Chrome",
+        "certificate authorities",
+        "digital certificates",
+        "web security",
+        "Chunghwa Telecom",
+        "Netlock",
+        "internet trust",
+        "cybersecurity",
+        "compliance failures"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-06-04T11:20:37.000Z"
+    },
+    {
+      "title": "Meta and Yandex Exploit Android Browsers to De-Anonymize Users",
+      "link": "https://arstechnica.com/security/2025/06/meta-and-yandex-are-de-anonymizing-android-users-web-browsing-identifiers/",
+      "author": null,
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/android-tracking-binoculars.jpg",
+      "summary": "Meta and Yandex have been exploiting Android browsers to link users' web browsing identifiers to their app identities, bypassing privacy protections and enabling extensive tracking. This discovery uncovers a covert method that threatens user anonymity and privacy on millions of websites, underscoring urgent security concerns for Android users.",
+      "keywords": [
+        "Meta Pixel",
+        "Yandex Metrica",
+        "Android",
+        "Web tracking",
+        "User de-anonymization",
+        "Privacy breach",
+        "Browser sandboxing",
+        "WebRTC",
+        "Persistent identifiers",
+        "Mobile apps",
+        "Data privacy",
+        "Online tracking",
+        "Security vulnerability"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-03T12:00:48.000Z"
+    },
+    {
+      "title": "Broadcom Eliminates Lowest-Tier VMware Partners to Focus on Larger Customers",
+      "link": "https://arstechnica.com/information-technology/2025/06/broadcom-ends-business-with-vmwares-lowest-tier-channel-partners/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "Broadcom has removed the lowest tier from its VMware partner program to concentrate on customers with larger deployments. This move, justified by Broadcom as targeting inactive partners, risks pushing long-time resellers like Members IT Group to seek alternatives, highlighting tensions in partner relations post-acquisition.",
+      "keywords": [
+        "Broadcom",
+        "VMware",
+        "partner program",
+        "channel partners",
+        "enterprise technology",
+        "IT resellers",
+        "VMware deployments",
+        "partner tiers",
+        "technology partnerships",
+        "Hewlett-Packard Enterprise",
+        "virtualization"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-06-02T21:43:04.000Z"
+    },
+    {
+      "title": "German Law Enforcement Identifies Ransomware Kingpin 'Stern' as Vitaly Nikolaevich Kovalev",
+      "link": "https://arstechnica.com/security/2025/05/german-police-say-theyve-identified-trickbot-ransomware-kingpin/",
+      "author": "WIRED",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/wired-headshot.jpg",
+      "summary": "German police have identified Vitaly Nikolaevich Kovalev as 'Stern,' the elusive leader of the notorious Trickbot ransomware group responsible for global cyberattacks. This breakthrough bridges crucial knowledge gaps in international cybercrime investigations and highlights the ongoing challenge of mitigating sophisticated ransomware threats.",
+      "keywords": [
+        "ransomware",
+        "Trickbot",
+        "Stern",
+        "Vitaly Nikolaevich Kovalev",
+        "cybercrime",
+        "German law enforcement",
+        "Interpol",
+        "cybersecurity",
+        "Conti ransomware",
+        "Operation Endgame"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-05-31T13:32:08.000Z"
+    },
+    {
+      "title": "Google's Veo 3 AI Video Generator Advances Realism with Audio Integration",
+      "link": "https://arstechnica.com/ai/2025/05/ai-video-just-took-a-startling-leap-in-realism-are-we-doomed/",
+      "author": null,
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Asmr_scene_of_20gg2505221615.jpg",
+      "summary": "Google's Veo 3 AI model marks a significant leap in video synthesis by generating 8-second high-definition videos with synchronized audio, blurring lines between real and AI-generated media. Its integration of video, audio, and language models pushes creative potential while raising concerns about authenticity and misuse. This breakthrough reshapes digital content creation and verification.",
+      "keywords": [
+        "Google",
+        "Veo 3",
+        "AI video generation",
+        "generative AI",
+        "video synthesis",
+        "audio generation",
+        "deepfake",
+        "AI ethics",
+        "media authenticity",
+        "Flow platform",
+        "Diffusion technology"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 8,
+        "novelty": 9,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-05-29T17:58:09.000Z"
+    },
+    {
+      "title": "Stealthy Backdoors Exploit Thousands of Asus Routers via Multiple Vulnerabilities",
+      "link": "https://arstechnica.com/security/2025/05/thousands-of-asus-routers-are-being-hit-with-stealthy-persistent-backdoors/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "A sophisticated threat actor, likely nation-state linked, has compromised up to 9,500 Asus routers by exploiting multiple vulnerabilities, including a command-injection flaw. Users must check SSH settings for suspicious access and update firmware to remove persistent backdoors, highlighting critical router security risks.",
+      "keywords": [
+        "Asus routers",
+        "backdoor",
+        "ViciousTrap",
+        "cybersecurity",
+        "vulnerabilities",
+        "CVE-2023-39780",
+        "SSH",
+        "network security",
+        "nation-state threat",
+        "firmware update"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-05-28T22:12:07.000Z"
+    },
+    {
+      "title": "Inside a Major IT Asset Disposition Site Recycling Hyperscale Hardware",
+      "link": "https://arstechnica.com/information-technology/2025/05/where-hyperscale-hardware-goes-to-retire-ars-visits-a-very-big-itad-site/",
+      "author": null,
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/sktes_retail.jpg",
+      "summary": "This article explores SK TES's large IT asset disposition facility where corporate hardware is carefully inspected, wiped, rated, and prepared for resale or recycling. The process uncovers hidden storage devices and uses innovative methods like full-body laptop skins to improve resale value, showcasing effective IT hardware reuse practices with environmental and economic benefits.",
+      "keywords": [
+        "IT asset disposition",
+        "hardware recycling",
+        "corporate IT",
+        "device inspection",
+        "hardware resale",
+        "data security",
+        "laptop refurbishment",
+        "SK TES",
+        "environmental sustainability",
+        "technology reuse"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-05-26T11:30:50.000Z"
+    },
+    {
+      "title": "US Charges 16 Russians Over DanaBot Botnet Involved in Cyberattacks and Espionage",
+      "link": "https://arstechnica.com/security/2025/05/feds-charge-16-russians-allegedly-tied-to-botnets-used-in-cyberattacks-and-spying/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "The US Department of Justice charged 16 Russians linked to DanaBot, a malware operation that infected over 300,000 devices globally, facilitating ransomware, wartime cyberattacks, and espionage. This case highlights the blurred lines between cybercrime and state espionage, emphasizing its broad impact and financial losses.",
+      "keywords": [
+        "DanaBot",
+        "botnet",
+        "malware",
+        "cyberattacks",
+        "espionage",
+        "ransomware",
+        "Russia",
+        "cybersecurity",
+        "US Department of Justice",
+        "cybercrime",
+        "military spying",
+        "Ukraine"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-05-23T19:56:45.000Z"
+    },
+    {
+      "title": "Researchers Reveal How GitLab’s AI Developer Assistant Can Be Exploited to Insert Malicious Code",
+      "link": "https://arstechnica.com/security/2025/05/researchers-cause-gitlab-ai-developer-assistant-to-turn-safe-code-malicious/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "Researchers demonstrated that GitLab's AI assistant Duo can be tricked via prompt injection to insert malicious code and leak sensitive data, highlighting significant security risks in AI-driven developer tools. This insight underscores the need for caution and improved safeguards when integrating AI into software workflows.",
+      "keywords": [
+        "GitLab Duo",
+        "AI developer assistant",
+        "prompt injection",
+        "malicious code",
+        "security vulnerability",
+        "software development",
+        "AI security risks",
+        "code exfiltration"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-05-23T19:06:59.000Z"
+    },
+    {
+      "title": "Google’s Veo 3 AI Model Advances Video Synthesis with Audio but Shows Quirky Glitches",
+      "link": "https://arstechnica.com/ai/2025/05/googles-will-smith-double-is-better-at-eating-ai-spaghetti-but-its-crunchy/",
+      "author": null,
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/will_smith_Spaghetti_veo3_rq_duaOqxE7XJsM8.mp4.jpg",
+      "summary": "Google’s new Veo 3 AI model integrates synchronized audio into video synthesis, a first for the industry, enabling realistic eight-second clips with voices and sound effects. However, quirks remain, such as unusual crunchy spaghetti-eating sounds, highlighting ongoing challenges in AI training data representation. This marks a significant leap in generative video AI's realism and potential uses.",
+      "keywords": [
+        "Google",
+        "Veo 3",
+        "AI video synthesis",
+        "generative AI",
+        "audio synchronization",
+        "Will Smith",
+        "spaghetti benchmark",
+        "AI glitches",
+        "training data",
+        "video generation"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-05-23T17:57:13.000Z"
+    }
+  ]
+}
