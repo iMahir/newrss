@@ -4,6 +4,34 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Garmin Launches Comfortable Arm-Worn Index Sleep Monitor with Week-Long Battery Life",
+      "link": "https://www.theverge.com/news/688438/garmin-index-sleep-monitor-smart-arm-band-tracker",
+      "author": "Andrew Liszewski",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/garmin_sleep2.jpg",
+      "summary": "Garmin’s new Index Sleep Monitor, worn on the upper arm, offers detailed sleep and health tracking with up to seven days of battery life, providing a comfortable alternative to wrist wearables. It tracks sleep stages, heart rate, breathing, and skin temperature, enhancing fitness and recovery insights without nightly charging.",
+      "keywords": [
+        "Garmin",
+        "sleep tracking",
+        "Index Sleep Monitor",
+        "arm band",
+        "health monitoring",
+        "battery life",
+        "fitness tracking",
+        "heart rate",
+        "breathing rate",
+        "skin temperature",
+        "smart alarm",
+        "wearable technology"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-06-18T11:00:00.000Z"
+    },
+    {
       "title": "Senate passes GENIUS stablecoin bill in a win for the crypto industry",
       "link": "https://www.theverge.com/cryptocurrency/688903/genius-act-stablecoin-senate-federal-crypto-regulation",
       "author": null,
@@ -2040,32 +2068,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-06-16T15:16:43.000Z"
-    },
-    {
-      "title": "Microsoft Disables Windows Hello Facial Recognition in Dark to Fix Security Flaw",
-      "link": "https://www.theverge.com/news/687547/microsoft-windows-hello-facial-recognition-unlock-dark-room-not-working",
-      "author": "Tom Warren",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197777/profilephoto.0.jpg?quality=90&strip=all&crop=0,0,100,100&w=96",
-      "summary": "Microsoft updated Windows Hello to prevent facial recognition in dark environments, addressing a significant spoofing vulnerability. This change enhances device security but limits usability in low light, impacting Surface Laptop users. Understanding this trade-off is crucial for Windows 11 users relying on facial unlock features.",
-      "keywords": [
-        "Microsoft",
-        "Windows Hello",
-        "facial recognition",
-        "security",
-        "Windows 11",
-        "spoofing vulnerability",
-        "dark environment",
-        "Surface Laptop",
-        "device security",
-        "biometric authentication"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-06-16T15:05:07.000Z"
     }
   ]
 }
