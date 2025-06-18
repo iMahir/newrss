@@ -4,6 +4,169 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "OpenAI Identifies Internal AI Model Features Linked to Misaligned Personas",
+      "link": "https://techcrunch.com/2025/06/18/openai-found-features-in-ai-models-that-correspond-to-different-personas/",
+      "author": "Maxwell Zeff",
+      "thumbnail": null,
+      "summary": "OpenAI researchers discovered hidden AI model features corresponding to misaligned personas that influence behaviors like toxicity and sarcasm. This insight enables targeted fine-tuning to reduce harmful outputs, enhancing AI safety and alignment. The findings advance understanding of AI decision-making, crucial for developing safer, more reliable models.",
+      "keywords": [
+        "OpenAI",
+        "AI alignment",
+        "misaligned personas",
+        "AI safety",
+        "interpretability research",
+        "emergent misalignment",
+        "toxic behavior",
+        "AI fine-tuning",
+        "machine learning",
+        "AI model behavior"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-18T17:10:58.000Z"
+    },
+    {
+      "title": "Waymo Seeks Permit to Test Robotaxis in New York City",
+      "link": "https://techcrunch.com/2025/06/18/waymo-has-set-its-robotaxi-sights-on-nyc/",
+      "author": "Kirsten Korosec",
+      "thumbnail": null,
+      "summary": "Waymo has applied for permits to test its autonomous Jaguar I-Pace vehicles in Manhattan, marking a key step toward launching robotaxi services in New York City despite stringent regulations requiring a human safety driver. The company is actively advocating for legal changes to enable fully driverless operations, signaling continued progress in autonomous vehicle deployment in one of the world's largest markets.",
+      "keywords": [
+        "Waymo",
+        "autonomous vehicles",
+        "robotaxi",
+        "New York City",
+        "regulation",
+        "self-driving cars",
+        "driverless technology",
+        "transportation",
+        "technology",
+        "Alphabet"
+      ],
+      "scores": {
+        "scale": 9,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-18T16:59:04.000Z"
+    },
+    {
+      "title": "Amazon-owned Zoox Launches Its First Major Robotaxi Production Facility",
+      "link": "https://techcrunch.com/2025/06/18/amazons-zoox-opens-its-first-major-robotaxi-production-facility/",
+      "author": "Sean O’Kane",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/06/Zoox-Serial-Production-Facility-6.jpg",
+      "summary": "Amazon’s Zoox has inaugurated a 220,000-square-foot robotaxi production factory in Hayward, California, aiming to build 10,000 vehicles annually. This marks a milestone as Zoox transitions from development to commercial operations, targeting early-rider programs by 2026 in major US cities. The innovative facility blends human and robotic labor for scalable, adaptable robotaxi manufacturing.",
+      "keywords": [
+        "Amazon",
+        "Zoox",
+        "robotaxi",
+        "autonomous vehicles",
+        "production facility",
+        "Hayward California",
+        "robotics",
+        "electric vehicles",
+        "urban transportation",
+        "autonomous driving",
+        "technology innovation"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-18T16:25:09.000Z"
+    },
+    {
+      "title": "Iran Experiences Near-Total Internet Blackout Amid Escalating Conflict with Israel",
+      "link": "https://techcrunch.com/2025/06/18/internet-collapses-across-iran-say-web-monitoring-firms/",
+      "author": "Lorenzo Franceschi-Bicchierai",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/06/ioda-iran-internet-connectivity-jun-18.png",
+      "summary": "Iran faced a near-total internet blackout during intensified conflict with Israel, with connectivity dropping by approximately 97%, according to multiple monitoring firms. The disruption follows cyberattacks and restrictions amid wartime tensions, highlighting significant communication challenges in the region.",
+      "keywords": [
+        "Iran",
+        "internet blackout",
+        "cyberwarfare",
+        "Israel",
+        "network outage",
+        "cyberattacks",
+        "internet monitoring",
+        "conflict",
+        "digital disruption",
+        "Cloudflare",
+        "NetBlocks"
+      ],
+      "scores": {
+        "scale": 9,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-06-18T16:24:20.000Z"
+    },
+    {
+      "title": "The OpenAI Files Highlight the Need for Stronger Oversight in the Race to AGI",
+      "link": "https://techcrunch.com/2025/06/18/the-openai-files-push-for-oversight-in-the-race-to-agi/",
+      "author": "Rebecca Bellan",
+      "thumbnail": null,
+      "summary": "The OpenAI Files reveal governance and ethical concerns within OpenAI amid rapid AI development, urging greater transparency and accountability. Highlighting leadership risks and investor pressures, the project stresses the urgent need for responsible AI oversight to safeguard humanity's future in the race to AGI.",
+      "keywords": [
+        "OpenAI",
+        "AGI",
+        "artificial general intelligence",
+        "AI governance",
+        "ethical leadership",
+        "tech oversight",
+        "investor pressure",
+        "safety evaluations",
+        "Sam Altman",
+        "AI development",
+        "transparency",
+        "accountability"
+      ],
+      "scores": {
+        "scale": 9,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-06-18T16:19:50.000Z"
+    },
+    {
+      "title": "First look at the AI-era reboot of Digg as a Reddit competitor",
+      "link": "https://techcrunch.com/2025/06/18/heres-your-first-look-at-the-rebooted-digg/",
+      "author": "Taylor Hatmaker",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/06/digg-mobile.png?w=680",
+      "summary": "The rebooted Digg, co-founded by Kevin Rose and Alexis Ohanian, has entered alpha testing with a new iOS app aiming to foster real human connections in the AI era. It features community feeds, AI-driven article summaries, and time-bound leaderboards, targeting users seeking curated social news beyond Reddit. The relaunch hints at future AI-powered community customization, emphasizing a fresh approach to social aggregation.",
+      "keywords": [
+        "Digg",
+        "reboot",
+        "social news",
+        "Reddit competitor",
+        "AI era",
+        "news aggregator",
+        "Kevin Rose",
+        "Alexis Ohanian",
+        "community",
+        "mobile app",
+        "leaderboards",
+        "AI summarization",
+        "online communities"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-06-18T16:16:36.000Z"
+    },
+    {
       "title": "Google Launches AI Mode with Interactive Voice Conversations in Search",
       "link": "https://techcrunch.com/2025/06/18/googles-ai-mode-can-now-have-back-and-forth-voice-conversations/",
       "author": "Aisha Malik",
@@ -670,82 +833,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-06-17T12:00:00.000Z"
-    },
-    {
-      "title": "Observability startup Coralogix becomes a unicorn, eyes India expansion",
-      "link": "https://techcrunch.com/2025/06/17/observability-startup-coralogix-becomes-a-unicorn-eyes-india-expansion/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-06-17T12:00:00.000Z"
-    },
-    {
-      "title": "Prominent global VC Endeavor Catalyst is raising $300M, sources say",
-      "link": "https://techcrunch.com/2025/06/17/prominent-global-vc-endeavor-catalyst-is-raising-300m-sources-say/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-06-17T11:00:48.000Z"
-    },
-    {
-      "title": "Google to scale up AI-powered fraud detection and security operations in India",
-      "link": "https://techcrunch.com/2025/06/17/google-to-scale-up-ai-powered-fraud-detection-and-security-operations-in-india/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-06-17T07:01:00.000Z"
-    },
-    {
-      "title": "Spotify’s Daniel Ek just bet bigger on Helsing, Europe’s defense tech darling",
-      "link": "https://techcrunch.com/2025/06/16/spotifys-daniel-ek-just-bet-bigger-on-helsing-europes-defense-tech-darling/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-06-17T06:19:00.000Z"
-    },
-    {
-      "title": "You can now set up double dates with friends on Tinder ",
-      "link": "https://techcrunch.com/2025/06/16/you-can-now-arrange-a-double-date-with-friends-on-tinder/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-06-17T04:00:00.000Z"
-    },
-    {
-      "title": "Tensions Rise Between OpenAI and Microsoft Over Partnership Issues",
-      "link": "https://techcrunch.com/2025/06/16/the-cracks-in-the-openai-microsoft-relationship-are-reportedly-widening/",
-      "author": "Maxwell Zeff",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706501.jpg",
-      "summary": "OpenAI and Microsoft are experiencing growing tensions as OpenAI considers accusing Microsoft of anticompetitive behavior and seeks to reduce reliance on Microsoft’s cloud services. This standoff highlights challenges in their partnership affecting AI development and industry dynamics.",
-      "keywords": [
-        "OpenAI",
-        "Microsoft",
-        "partnership",
-        "tensions",
-        "antitrust",
-        "AI",
-        "cloud computing",
-        "intellectual property",
-        "Windsurf acquisition",
-        "GitHub Copilot"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-06-16T22:40:51.000Z"
     }
   ]
 }
