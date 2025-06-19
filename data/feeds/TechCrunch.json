@@ -4,6 +4,56 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "SpaceX’s Starship Explodes Ahead of 10th Test Flight",
+      "link": "https://techcrunch.com/2025/06/19/spacexs-starship-blows-up-ahead-of-10th-test-flight/",
+      "author": "Sean O’Kane",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/05/starship-static-fire.jpeg?w=1024",
+      "summary": "SpaceX’s Starship rocket exploded on a Texas test stand before its tenth test flight, though all personnel are safe and no community hazards were reported. Despite recent failures, SpaceX remains committed to advancing Starship development, aiming for a Mars mission as early as 2026. This incident underscores the challenges in pioneering heavy-lift space technology.",
+      "keywords": [
+        "SpaceX",
+        "Starship",
+        "rocket explosion",
+        "test flight",
+        "heavy-lift rocket",
+        "Texas",
+        "FAA",
+        "Elon Musk",
+        "space technology",
+        "Mars mission"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-19T11:35:52.000Z"
+    },
+    {
+      "title": "JD Vance's Bluesky Account Briefly Suspended Due to Automated Impersonation Detection",
+      "link": "https://techcrunch.com/2025/06/19/bluesky-briefly-suspended-jd-vances-account-after-he-joined/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "JD Vance's Bluesky account was temporarily suspended by an automated system designed to detect impersonations, but was quickly restored and verified. This highlights challenges in moderating automated content filters while welcoming public figures’ participation in new social platforms.",
+      "keywords": [
+        "JD Vance",
+        "Bluesky",
+        "account suspension",
+        "automated moderation",
+        "impersonation detection",
+        "social media",
+        "public figures",
+        "content verification"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 4,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-06-19T11:27:31.000Z"
+    },
+    {
       "title": "Key Developments in the U.S. Semiconductor Market in 2025",
       "link": "https://techcrunch.com/2025/06/19/a-timeline-of-the-u-s-semiconductor-market-in-2025/",
       "author": null,
@@ -1064,44 +1114,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-06-17T17:10:57.000Z"
-    },
-    {
-      "title": "Anysphere introduces $200/month Ultra plan for Cursor AI coding tool",
-      "link": "https://techcrunch.com/2025/06/17/anysphere-launches-a-200-a-month-cursor-ai-coding-subscription/",
-      "author": "Maxwell Zeff",
-      "thumbnail": null,
-      "summary": "Anysphere launched an Ultra subscription plan for its AI coding tool Cursor at $200 per month, offering 20 times more AI model usage and priority features. This move capitalizes on growing demand among power users, underscoring Cursor’s rapid revenue growth amid rising competition in AI coding platforms.",
-      "keywords": [
-        "Anysphere",
-        "Cursor AI",
-        "AI coding",
-        "subscription plan",
-        "Ultra plan",
-        "OpenAI",
-        "Anthropic",
-        "Google DeepMind",
-        "AI tools",
-        "software development",
-        "ARR growth",
-        "AI competition"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-06-17T16:45:37.000Z"
-    },
-    {
-      "title": "Threads expands open social web integrations with fediverse feed, user profile search",
-      "link": "https://techcrunch.com/2025/06/17/threads-expands-open-social-web-integrations-with-fediverse-feed-user-profile-search/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-06-17T16:37:58.000Z"
     }
   ]
 }
