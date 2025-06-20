@@ -28,7 +28,7 @@ import { saveFeeds } from "./handlers/saveFeeds";
 
     await saveFeeds(feeds);
 
-    await rssHandler(feeds);
+    // await rssHandler(feeds);
 
     process.exit(0);
 
