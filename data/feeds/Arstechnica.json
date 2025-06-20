@@ -4,6 +4,28 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Record DDoS Hits 7.3Tbps with Massive UDP Flood",
+      "link": "https://arstechnica.com/security/2025/06/record-ddos-pummels-site-with-once-unimaginable-7-3tbps-of-junk-traffic/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- A **record-breaking DDoS attack** reached an unprecedented **7.3 terabits per second** of junk traffic, overwhelming a Cloudflare customer site. - The attack used a **UDP flood** targeting over 34,500 ports, sending traffic equivalent to over 9,300 HD movies in 45 seconds. - This exploit took advantage of UDP’s connectionless nature to bombard the server, crippling its ability to handle legitimate traffic.",
+      "keywords": [
+        "DDoS",
+        "UDP flood",
+        "Cloudflare",
+        "Internet security",
+        "cyberattack",
+        "network traffic"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-06-20T19:04:22.000Z"
+    },
+    {
       "title": "Israel-Linked Predatory Sparrow Hackers Target Iran's Financial System with Devastating Cyberattacks",
       "link": "https://arstechnica.com/information-technology/2025/06/israel-tied-predatory-sparrow-hackers-are-waging-cyberwar-on-irans-financial-system/",
       "author": "Wired.com",
