@@ -40,63 +40,52 @@ const generatePostRssJson = async (preRssJsonItem: PreRssJson['items'][0], retry
     const prompts = [
         {
             role: "system",
-            content: "You are a helpful assistant. You specialize in reading and summarizing text."
+            content: `
+You are SummarAI 🔍, the world’s best summarizer.  
+• You will receive a single “Content” payload that is either raw HTML or a plain-text transcript.  
+• You must output exactly one JSON object, with no surrounding text or fences.  
+• If the input is inaccessible or gibberish, output the literal value false (not in quotes).  
+• The “summary” field may include basic Markdown (italics, bold) to highlight key points.  
+`
+        },
+        {
+            role: "system",
+            content: `
+OUTPUT SCHEMA (strict JSON):
+{
+  "title":      string|null,         // Human‑readable title (≤60 chars)
+  "author":     string|null,         // Comma‑separated or null
+  "thumbnail":  string|null,         // URL string or null
+  "link":       string|null,         // Original URL or null
+  "summary":    string,              // 2–3 Markdown-formatted bullet sentences, ≤50 words. Use markdown. Highlight key words for easy readability with italics or bold.
+                                     // Example: "- Sentence one.\n- Sentence two.\n ...."
+  "scores": {
+     "scale":             1–10,      // #affected: geographic+population
+     "impact":            1–10,      // severity of consequences
+     "novelty":           1–10,      // uniqueness / rarity
+     "longTermSignificance": 1–10    // lasting relevance
+  },
+  "keywords":   string[]            // 3–7 tags
+}
+`
         },
         {
             role: "user",
-            content: "Please read the following article and generate a JSON response in plain text without any code block delimiters. Use the specified format:"
-        },
-        {
-            role: "user",
-            content: JSON.stringify({
-                title: "An easy to read and interpret title for the article as a string.",
-                author: "The authors of the article as a string, separated by commas. Keep it as null if the authors are not mentioned.",
-                thumbnail: "A URL to a thumbnail image for the article as a string. If no thumbnail is available, use null.",
-                summary: `You are an expert summarizer. You will receive either:
-- A news article’s HTML, or
-- A YouTube video’s subtitle transcript.
+            content: `
+<<<BEGIN INPUT>>>
+Title: ${preRssJsonItem.title || "null"}
+Author: ${preRssJsonItem.author || "null"}
+Thumbnail: ${preRssJsonItem.thumbnail || "null"}
+Link: ${preRssJsonItem.link || "null"}
 
-Your output must be a **single 2–3 sentence summary** that:
-1. Captures the **core message** clearly.
-2. Highlights the main **insight or takeaway**.
-3. Signals its **relevance** or why someone should read/watch.
+Content (HTML or transcript):
+${truncateStringToTokenCount(preRssJsonItem.content ?? "Unavailable", 2000)}
 
-Keep it ultra‑concise, coherent, and polished. No labels, headings, or extra text. Max 50 words.
-`,
-                scores: "Scores is an object with four keys: scale, impact, novelty, and longTermSignificance." + "\n\n" + [
-                    "scale: The scale of the article as a number from 1 to 10, where 1 is the lowest and 10 is the highest. How many people were affected by the event described in the article? Consider the geographical scope and how many individuals or groups were impacted.",
-                    "impact: The impact of the article as a number from 1 to 10, where 1 is the lowest and 10 is the highest. How significant was the event described in the article? Consider the consequences and repercussions of the event.",
-                    "novelty: The novelty of the article as a number from 1 to 10, where 1 is the lowest and 10 is the highest. How unique or original was the event described in the article? Consider how rare or unusual the event was.",
-                    "longTermSignificance: The long-term significance of the article as a number from 1 to 10, where 1 is the lowest and 10 is the highest. How enduring or lasting will the event described in the article be? Consider the lasting impact and implications of the event."
-                ].join("\n"),
-                keywords: "A list of keywords that best describe the article, as an array of strings. Include terms that are relevant to the content and context of the article.",
-            })
-        },
-        {
-            role: "user",
-            content: "If the article is inaccessible (e.g., says 'Access Denied'), respond with false only. Do not include any other information in your response."
-        },
-        {
-            role: "user",
-            content: "Ensure the response is plain JSON in text format with no code block delimiters or annotations. Don't include ```json ... ``` in your response."
-        },
-        {
-            role: "user",
-            content: `Article/Youtube Title: ${preRssJsonItem.title}`
-        },
-        {
-            role: "user",
-            content: `Article/Youtube Author: ${preRssJsonItem.author ?? "Not given, get from the article content."}`
-        },
-        {
-            role: "user",
-            content: `Article/Youtube Link: ${preRssJsonItem.link}`
-        },
-        {
-            role: "user",
-            content: `Article/Youtube Content: ${truncateStringToTokenCount(preRssJsonItem.content ?? "Not given. Get the article content from the provided link.", 2000)}`
+<<<END INPUT>>>
+`
         }
-    ]
+    ];
+
 
     console.log(`Summarizing: ${preRssJsonItem.link}`);
 
