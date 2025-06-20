@@ -3,8 +3,10 @@ import { PostRssJson } from "../utils/rss/types";
 
 export const saveFeeds = async (feeds: PostRssJson[]) => {
     await Promise.all(feeds.map(async (feed) => {
-        const existingFeed: PostRssJson | null = readData(`data/feeds/${feed.title}.json`, { parseJSON: true });
+        let existingFeed: PostRssJson | null = readData(`data/feeds/${feed.title}.json`, { parseJSON: true });
         if (existingFeed) {
+            existingFeed.items = existingFeed.items || [];
+
             feed.items = [...feed.items, ...existingFeed.items];
             feed.items = feed.items.filter((item, index, self) => self.findIndex((t) => t.link === item.link) === index);
             feed.items = feed.items.sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
