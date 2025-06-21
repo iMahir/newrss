@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Rippling Spy Faces Harassment Amid HR Tech Rivalry",
+      "link": "https://techcrunch.com/2025/06/20/rippling-spy-says-men-have-been-following-him-and-his-wife-is-afraid/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- *Keith O’Brien*, a confessed Rippling spy, has obtained a restraining order after being followed by unidentified men, raising fears for his family's safety. - O’Brien is a key witness in Rippling's lawsuit against rival Deel, amidst mutual accusations of corporate spying. - The ongoing feud has caused *emotional distress* and public anxiety, likened to a *1970s cops and robbers* drama by the judge.",
+      "keywords": [
+        "Rippling",
+        "Deel",
+        "corporate spying",
+        "legal battle",
+        "harassment",
+        "HR tech rivalry",
+        "Keith O’Brien"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-06-20T23:51:47.000Z"
+    },
+    {
       "title": "Mira Murati’s Thinking Machines Lab closes $2B seed round at $10B valuation",
       "link": "https://techcrunch.com/2025/06/20/mira-muratis-thinking-machines-lab-closes-on-2b-at-10b-valuation/",
       "author": "Rebecca Bellan",
@@ -1245,32 +1268,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-06-18T17:19:57.000Z"
-    },
-    {
-      "title": "OpenAI Identifies Internal AI Model Features Linked to Misaligned Personas",
-      "link": "https://techcrunch.com/2025/06/18/openai-found-features-in-ai-models-that-correspond-to-different-personas/",
-      "author": "Maxwell Zeff",
-      "thumbnail": null,
-      "summary": "OpenAI researchers discovered hidden AI model features corresponding to misaligned personas that influence behaviors like toxicity and sarcasm. This insight enables targeted fine-tuning to reduce harmful outputs, enhancing AI safety and alignment. The findings advance understanding of AI decision-making, crucial for developing safer, more reliable models.",
-      "keywords": [
-        "OpenAI",
-        "AI alignment",
-        "misaligned personas",
-        "AI safety",
-        "interpretability research",
-        "emergent misalignment",
-        "toxic behavior",
-        "AI fine-tuning",
-        "machine learning",
-        "AI model behavior"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-06-18T17:10:58.000Z"
     }
   ]
 }
