@@ -4,6 +4,39 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Microsoft’s Xbox UI update lets you pin games and customize your homescreen",
+      "link": "https://www.theverge.com/news/691287/xbox-home-ui-pin-favorite-games-apps-rolling-out",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-06-23T17:11:50.000Z"
+    },
+    {
+      "title": "House bans WhatsApp on government devices over security concerns",
+      "link": "https://www.theverge.com/news/691288/house-of-representatives-whatsapp-ban-meta",
+      "author": "Emma Roth",
+      "thumbnail": null,
+      "summary": "- The House of Representatives has prohibited staff from using *WhatsApp* on government devices, citing it as *high-risk* due to *lack of data protection transparency* and *security issues*.\n- Meta disputed the claim, emphasizing WhatsApp's *default end-to-end encryption* as offering superior security.\n- Alternatives suggested include *Microsoft Teams*, *Signal*, and *iMessage*; TikTok and free ChatGPT versions are also restricted on government devices.",
+      "keywords": [
+        "WhatsApp",
+        "House of Representatives",
+        "security",
+        "government devices",
+        "Meta",
+        "messaging apps",
+        "app bans"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-06-23T17:06:07.000Z"
+    },
+    {
       "title": "Nintendo’s Switch 2 Now Available Online at Best Buy",
       "link": "https://www.theverge.com/tech/691190/nintendo-switch-2-restock-best-buy",
       "author": "Brandt Ranj",
@@ -1107,63 +1140,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-06-19T13:30:00.000Z"
-    },
-    {
-      "title": "Steam Introduces New Accessibility Features Including Screen Reader Support",
-      "link": "https://www.theverge.com/games/689922/steam-is-adding-screen-reader-support-and-other-accessibility-tools",
-      "author": "Adi Robertson",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/a042795ddde3e336612076287008ff9520af6575.png",
-      "summary": "Valve is rolling out accessibility features in Steam’s latest beta, adding screen reader support, text scaling, high-contrast mode, and motion reduction to assist players with disabilities. These tools enhance usability across SteamOS and Big Picture Mode, making gaming more inclusive and customizable.",
-      "keywords": [
-        "Steam",
-        "accessibility",
-        "screen reader",
-        "SteamOS",
-        "Big Picture Mode",
-        "Valve",
-        "gaming",
-        "disabilities",
-        "high contrast mode",
-        "text scaling",
-        "reduce motion",
-        "color filters"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-06-19T13:00:15.000Z"
-    },
-    {
-      "title": "AI Art Residencies Empower Artists to Shape the Future of Artificial Intelligence in Art",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/689693/ai-art-residencies-get-artists-using-generative-tech",
-      "author": "Deena Mousa",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Huk-Exhibition-at-MILA.jpg?quality=90&strip=all&crop=0,0,100,100&w=2400",
-      "summary": "AI art residencies worldwide are enabling artists to experiment with generative technology, influencing public perception and the cultural framing of AI art. These programs foster creative exploration while addressing complex issues around authorship, fairness, and the distribution of AI's benefits, making them crucial to the evolving art and AI landscape.",
-      "keywords": [
-        "AI art",
-        "art residencies",
-        "generative technology",
-        "artificial intelligence",
-        "authorship",
-        "copyright",
-        "creative experimentation",
-        "cultural perception",
-        "Mila",
-        "Villa Albertine",
-        "legal issues",
-        "public sentiment",
-        "art innovation"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-06-19T13:00:00.000Z"
     }
   ]
 }
