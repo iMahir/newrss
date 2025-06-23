@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Lenovo’s New 14-inch Chromebook Plus Gets Free Gemini AI Features",
+      "link": "https://www.theverge.com/news/690885/google-chromeos-gemini-ai-select-to-search-lenovo-chromebook-plus-14",
+      "author": "Antonio G. Di Benedetto",
+      "thumbnail": null,
+      "summary": "- Lenovo launches the Chromebook Plus 14 with *exclusive Gemini AI features* like select-to-search, AI image generation, smart grouping of tabs, and automated gallery editing.\n- The laptop features a *MediaTek Kompanio Ultra chip*, 14-inch OLED display, up to 16GB RAM, fingerprint sensor, and *Wi-Fi 7* support.\n- Buyers receive *free access to Google’s AI Pro Plan* for one year, including Gemini 2.5 Pro, Veo 3 AI video generator, and 2TB cloud storage.",
+      "keywords": [
+        "Chromebook",
+        "Lenovo",
+        "Gemini AI",
+        "MediaTek Kompanio Ultra",
+        "AI features",
+        "Google AI Pro Plan",
+        "Chromebook Plus 14"
+      ],
+      "scores": {
+        "scale": 4,
+        "impact": 6,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-06-23T13:00:00.000Z"
+    },
+    {
       "title": "Fanfiction Writers Fight AI Data Scraping & Exploitation",
       "link": "https://www.theverge.com/ai-artificial-intelligence/688640/fanfiction-ai",
       "author": "Decca Muldowney",
@@ -1235,31 +1258,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-06-18T17:21:34.000Z"
-    },
-    {
-      "title": "Facebook Introduces Passkey Support to Enhance Account Security",
-      "link": "https://www.theverge.com/news/689410/facebook-passkey-support-phishing-attacks",
-      "author": "Emma Roth",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0,0,100,100&w=96",
-      "summary": "Facebook is implementing passkey support on its mobile app to strengthen security by enabling logins through biometric or device authentication, reducing phishing risks. This advancement aligns with broader industry moves to safer, passwordless authentication methods, enhancing user protection and ease of access.",
-      "keywords": [
-        "Facebook",
-        "passkeys",
-        "phishing attacks",
-        "account security",
-        "biometric authentication",
-        "passwordless login",
-        "Meta",
-        "Messenger app",
-        "cybersecurity"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-06-18T17:14:22.000Z"
     }
   ]
 }
