@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Tesla’s Robotaxi Launch: Early Impressions from Austin",
+      "link": "https://www.theverge.com/news/690846/tesla-robotaxi-first-reaction-austin",
+      "author": "Andrew J. Hawkins",
+      "thumbnail": null,
+      "summary": "- Tesla launched its *robotaxi service* in Austin on June 22, but it's *invite-only* with safety monitors present in cars. - Early rides were mostly *uneventful and smooth*, limited to a geofenced area with a $4.20 flat fee. - The service contrasts with *fully driverless* Waymo operations and plans to expand amid regulatory challenges.",
+      "keywords": [
+        "Tesla",
+        "robotaxi",
+        "autonomous vehicles",
+        "Austin",
+        "Waymo",
+        "self-driving",
+        "ridehail"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-22T23:58:26.000Z"
+    },
+    {
       "title": "OpenAI and Jony Ive’s ‘io’ brand has vanished, but AI deal remains",
       "link": "https://www.theverge.com/news/690858/jony-ive-openai-sam-altman-ai-hardware",
       "author": "Hayden Field",
@@ -1247,32 +1270,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-06-18T16:05:01.000Z"
-    },
-    {
-      "title": "Waymo Plans to Launch Autonomous Robotaxi Service in New York City Pending Legal Changes",
-      "link": "https://www.theverge.com/news/689093/waymo-nyc-permit-autonomous-testing-new-york-state",
-      "author": "Andrew J. Hawkins",
-      "thumbnail": "https://cdn.vox-cdn.com/thumbor/abc123xyz/0x0:1200x630/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23456789/waymo-robotaxi-nyc.jpg",
-      "summary": "Waymo aims to introduce a fully autonomous robotaxi service in New York City but must first change state laws requiring safety drivers. The initiative highlights challenges of navigating NYC’s dense, chaotic streets, underscoring the importance of legal and technological advancements in urban autonomous driving. This development signals a major step for autonomous vehicle adoption in complex urban environments.",
-      "keywords": [
-        "Waymo",
-        "robotaxi",
-        "autonomous vehicles",
-        "New York City",
-        "state law",
-        "safety drivers",
-        "autonomous testing",
-        "urban mobility",
-        "AV technology",
-        "transportation regulation"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-06-18T16:00:00.000Z"
     }
   ]
 }
