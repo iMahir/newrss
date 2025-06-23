@@ -4,6 +4,49 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Samsung confirms Unpacked for early July",
+      "link": "https://www.theverge.com/news/691662/samsung-unpacked-july-ultra-foldable",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-06-23T23:00:00.000Z"
+    },
+    {
+      "title": "T-Mobile’s satellite service officially launches in July",
+      "link": "https://www.theverge.com/tech/691521/t-mobile-satellite-service-starlink-launch-date",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-06-23T22:57:54.000Z"
+    },
+    {
+      "title": "Nintendo’s GameCube controller for the Switch 2 is back in stock",
+      "link": "https://www.theverge.com/tech/691562/nintendo-wireless-gamecube-controller-switch-2-restock",
+      "author": "Brandon Russell",
+      "thumbnail": null,
+      "summary": "- Nintendo’s updated **GameCube Controller** for the Switch 2 is available again for **$64.99** with a Nintendo Switch Online subscription required.  \n- It features **wireless connectivity**, a **GameChat button** for voice chat, and a **capture button** for screenshots.  \n- Best suited for **GameCube titles** on the Switch Online Expansion Pack but usable with other Switch 2 games despite missing some buttons.",
+      "keywords": [
+        "Nintendo",
+        "GameCube Controller",
+        "Switch 2",
+        "wireless",
+        "gaming accessories",
+        "Retro games",
+        "GameChat"
+      ],
+      "scores": {
+        "scale": 4,
+        "impact": 3,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-06-23T22:51:31.000Z"
+    },
+    {
       "title": "Phew: Apple fixed the Finder icon in macOS Tahoe 26",
       "link": "https://www.theverge.com/news/691643/apple-macos-tahoe-26-finder-icon-beta",
       "author": null,
@@ -963,88 +1006,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-06-20T12:00:00.000Z"
-    },
-    {
-      "title": "Texas’ Laissez-Faire Law Spurs Tesla's Autonomous Vehicle Testing and Raises Safety Concerns",
-      "link": "https://www.theverge.com/tesla/689286/tesla-robotaxi-austin-texas-law-regulation-safety",
-      "author": "Mack DeGeurin",
-      "thumbnail": "https://cdn.vox-cdn.com/thumbor/gDQTpj2vvN5Q_ed1i8p__Z3Ynus=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23906908/tesla_robotaxi_austin_texas.jpg",
-      "summary": "Texas' permissive autonomous vehicle regulations have enabled Tesla to expedite its robotaxi program, positioning the state as a leader in AV deployment. However, safety advocates and local officials express concerns about limited oversight and the potential risks of a rushed rollout, highlighting the tension between innovation and public safety.",
-      "keywords": [
-        "Texas",
-        "Tesla",
-        "autonomous vehicles",
-        "robotaxi",
-        "regulation",
-        "safety",
-        "Austin",
-        "Waymo",
-        "driverless cars",
-        "legislation",
-        "AV testing",
-        "public safety",
-        "transportation policy"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-06-20T12:00:00.000Z"
-    },
-    {
-      "title": "Adobe Launches Project Indigo, a Computational Photography Camera App for iPhones",
-      "link": "https://www.theverge.com/news/690115/adobe-project-indigo-camera-app-marc-levoy",
-      "author": "Jay Peters",
-      "thumbnail": null,
-      "summary": "Adobe's new free app, Project Indigo, enhances iPhone photography by capturing multiple photos and combining them for higher quality and natural SLR-like images without requiring an Adobe login. Developed with computational photography expert Marc Levoy, it offers manual controls and promises future features like reflection removal, portrait mode, and video.",
-      "keywords": [
-        "Adobe",
-        "Project Indigo",
-        "computational photography",
-        "iPhone camera app",
-        "Marc Levoy",
-        "image processing",
-        "photography app",
-        "manual controls",
-        "mobile photography",
-        "camera technology"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 7,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-06-19T19:45:05.000Z"
-    },
-    {
-      "title": "Spotify's HiFi Lossless Streaming May Launch Soon",
-      "link": "https://www.theverge.com/news/690107/spotify-lossless-streaming-hifi-music-pro-spicetify",
-      "author": "Jay Peters",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195819/JAY_PETERS.0.jpg?quality=90&strip=all&crop=0,0,100,100&w=96",
-      "summary": "After years of anticipation, Spotify is showing clear signs of launching its HiFi lossless streaming tier soon, with references found in new app versions and potential integration across devices. This move aligns Spotify with competitors like Apple Music and Amazon Music, enhancing audio quality for subscribers ready to pay more.",
-      "keywords": [
-        "Spotify",
-        "HiFi",
-        "lossless streaming",
-        "music streaming",
-        "Spotify Connect",
-        "Music Pro tier",
-        "audio quality",
-        "streaming services",
-        "Apple Music",
-        "Amazon Music",
-        "Tidal"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-06-19T18:40:35.000Z"
     }
   ]
 }
