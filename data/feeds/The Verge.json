@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "The US is stripping its forests of decades-old protections",
+      "link": "https://www.theverge.com/news/692299/national-forest-fire-trump-rescind-roadless-rule-usda",
+      "author": "Justine Calma",
+      "thumbnail": null,
+      "summary": "- The USDA is rescinding the 2001 Roadless Rule, removing protections from nearly 59 million acres of national forest to boost timber production and land development.  \n- Conservationists warn this will lead to *industrial-scale logging* and increase wildfire risks, as roads and logging can worsen fire conditions.  \n- Experts argue the move ignores *modern wildfire management* strategies and threatens forests vital for *carbon sequestration* and ecosystem health.",
+      "keywords": [
+        "USDA",
+        "Roadless Rule",
+        "national forests",
+        "timber harvesting",
+        "wildfire risk",
+        "forest protections",
+        "climate change"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-06-24T21:09:53.000Z"
+    },
+    {
       "title": "The Titan 2 is a modernized BlackBerry with 5G, Android, and a second screen",
       "link": "https://www.theverge.com/news/691938/titan-2-smartphone-keyboard-blackberry-5g-android-15",
       "author": "Andrew Liszewski",
@@ -2381,29 +2404,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-06-23T17:11:50.000Z"
-    },
-    {
-      "title": "House bans WhatsApp on government devices over security concerns",
-      "link": "https://www.theverge.com/news/691288/house-of-representatives-whatsapp-ban-meta",
-      "author": "Emma Roth",
-      "thumbnail": null,
-      "summary": "- The House of Representatives has prohibited staff from using *WhatsApp* on government devices, citing it as *high-risk* due to *lack of data protection transparency* and *security issues*.\n- Meta disputed the claim, emphasizing WhatsApp's *default end-to-end encryption* as offering superior security.\n- Alternatives suggested include *Microsoft Teams*, *Signal*, and *iMessage*; TikTok and free ChatGPT versions are also restricted on government devices.",
-      "keywords": [
-        "WhatsApp",
-        "House of Representatives",
-        "security",
-        "government devices",
-        "Meta",
-        "messaging apps",
-        "app bans"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-06-23T17:06:07.000Z"
     }
   ]
 }
