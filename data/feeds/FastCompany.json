@@ -4,6 +4,29 @@
   "feedUrl": "https://www.fastcompany.com/technology/rss",
   "items": [
     {
+      "title": "How Roblox handles millions of players on viral games like ‘Grow a Garden’",
+      "link": "https://www.fastcompany.com/91357216/how-roblox-handles-millions-of-players-on-viral-games-like-grow-a-garden?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Roblox handled a *peak of 30.6 million concurrent players*, with the viral game *Grow a Garden* reaching 21.6 million players simultaneously. - Its infrastructure supports *real-time updates* by third-party developers and extensive traffic load through 24 global edge data centers and a private global network. - Weekly capacity planning, chaos testing, and on-call engineering (including executives) ensure *performance and resilience* during viral surges and weekends.",
+      "keywords": [
+        "Roblox",
+        "gaming infrastructure",
+        "concurrent users",
+        "capacity planning",
+        "cloud computing",
+        "real-time updates",
+        "viral games"
+      ],
+      "scores": {
+        "scale": 9,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-24T16:00:00.000Z"
+    },
+    {
       "title": "Warp's agentic development environment revolutionizes AI coding workflows",
       "link": "https://www.fastcompany.com/91356732/warps-new-agentic-development-environment-helps-developers-work-with-ai-coding-agents?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
       "author": null,
@@ -141,19 +164,18 @@
       "pubDate": "2025-06-24T10:00:00.000Z"
     },
     {
-      "title": "Bilt to last? Inside the points-obsessed startup that rewards you for paying rent on time",
+      "title": "Bilt: Startup Rewarding Rent Payments with Points",
       "link": "https://www.fastcompany.com/91336688/bilt-rewards-credit-card-loyalty-pro?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
       "author": null,
       "thumbnail": null,
-      "summary": "- *Bilt Rewards* offers a unique credit card rewarding users for paying rent, targeting the largest monthly expense for many Americans—*$750 billion in annual rent*. - Founded by Ankur Jain in 2019, it has over *5 million members* and a valuation above *$3 billion*. - The platform also partners with property managers and is used by *70% of top U.S. multifamily property owners*, covering *25% of the rental market*.",
+      "summary": "- *Bilt Rewards* offers points on rent payments, launching a novel *credit card* targeting renters, a huge untapped market.\n- The startup boasts nearly *5 million members* and partnerships with *70% of top U.S. multifamily property owners*.\n- Founder Ankur Jain pivots from credit rewards to creating a *tenant loyalty and payment platform*, reshaping rent payment methods.",
       "keywords": [
         "Bilt Rewards",
         "rent payments",
         "credit card",
         "loyalty program",
-        "Ankur Jain",
-        "rental market",
-        "property management"
+        "property management",
+        "tenant rewards"
       ],
       "scores": {
         "scale": 8,
@@ -2531,16 +2553,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-06-17T13:50:07.000Z"
-    },
-    {
-      "title": "ChatGPT maker OpenAI has won a $200 million contract with the Department of Defense",
-      "link": "https://www.fastcompany.com/91353319/chatgpt-maker-openai-won-200-million-contract-department-defense?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-06-17T12:21:32.000Z"
     }
   ]
 }
