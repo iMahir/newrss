@@ -4,6 +4,28 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Windows 11 Volume and Brightness Indicators Can Be Moved",
+      "link": "https://www.theverge.com/news/691779/microsoft-windows-11-hardware-indicators-customization",
+      "author": "Tom Warren",
+      "thumbnail": null,
+      "summary": "- Windows 11 Dev Channel now allows **moving hardware indicator pop-ups** (volume, brightness) to the top-left or top-center of the screen. - A **new Recall homepage** shows your recent activity and top-used apps/websites in 24 hours. - These features are in testing and will roll out to the public in upcoming Windows 11 updates.",
+      "keywords": [
+        "Windows 11",
+        "UI customization",
+        "hardware indicators",
+        "Recall homepage",
+        "Microsoft",
+        "Dev Channel"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 5,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-06-24T09:16:58.000Z"
+    },
+    {
       "title": "Raleigh One e-bike launches with VanMoof DNA",
       "link": "https://www.theverge.com/news/690922/raleigh-one-vanmoof-e-bike-carlier-price-date",
       "author": null,
@@ -940,34 +962,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-06-20T13:11:29.000Z"
-    },
-    {
-      "title": "Meta and Oakley Launch New Smart Glasses Focused on Athletes",
-      "link": "https://www.theverge.com/news/690133/meta-oakley-hstn-ai-glasses-price-date",
-      "author": "Alex Heath",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Oakley-Meta-HSTN-Warm-Grey-with-Ruby8.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
-      "summary": "Meta and Oakley introduced the Oakley Meta HSTN smart glasses priced at $499, designed for athletes with improved battery life, 3K video camera, and water resistance. These AI-powered glasses enable music, calls, translation, and visual assistance, marking Meta's expansion into performance-oriented smart eyewear.",
-      "keywords": [
-        "Meta",
-        "Oakley",
-        "smart glasses",
-        "Meta AI",
-        "wearables",
-        "athletes",
-        "technology",
-        "3K camera",
-        "Ray-Ban",
-        "EssilorLuxottica",
-        "AI",
-        "smart eyewear"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-06-20T13:02:56.000Z"
     }
   ]
 }
