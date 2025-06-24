@@ -4,6 +4,75 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "How AI Infiltrated Perfume",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/691050/perfume-ai",
+      "author": "Arabelle Sicardi",
+      "thumbnail": null,
+      "summary": "- *Osmo* is a startup using AI to digitize scents, enabling *custom perfumes* with a 48-hour turnaround, revolutionizing the traditionally slow fragrance creation process. - Major fragrance companies like *Givaudan* and *DSM-Firmenich* integrate AI to aid perfumers, blending technology with creativity. - Concerns remain over *loss of craftsmanship*, *environmental impact*, and *transparency* in AI-created scents, raising questions about *authenticity and ethics* in perfumery.",
+      "keywords": [
+        "AI",
+        "Perfume",
+        "Fragrance Industry",
+        "Osmo",
+        "Craftsmanship",
+        "Innovation",
+        "Ethics"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 7,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-06-24T11:00:00.000Z"
+    },
+    {
+      "title": "Waymo robotaxis launch on Uber app in Atlanta",
+      "link": "https://www.theverge.com/news/691101/waymo-uber-robotaxi-atlanta-launch",
+      "author": "Andrew J. Hawkins",
+      "thumbnail": null,
+      "summary": "- *Waymo’s driverless robotaxis are now available exclusively via the Uber app in Atlanta*, marking the city as the second market after Austin for this autonomous ridehail service.\n- The service operates within a 65-square-mile area covering central neighborhoods and excludes highways and airport trips for now.\n- *Uber manages fleet maintenance,* while Waymo oversees vehicle testing and roadside support, sharing costs and revenue with undisclosed splits.",
+      "keywords": [
+        "Waymo",
+        "Uber",
+        "robotaxi",
+        "autonomous vehicles",
+        "Atlanta",
+        "ridehail",
+        "driverless cars"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-24T11:00:00.000Z"
+    },
+    {
+      "title": "Verizon adopts Google’s Gemini AI to enhance customer service",
+      "link": "https://www.theverge.com/news/691810/verizon-google-gemini-ai-chatbot-customer-service",
+      "author": "Jess Weatherbed",
+      "thumbnail": null,
+      "summary": "- Verizon launched an *AI-powered Assistant* in the My Verizon app to handle upgrades, billing, and more, aiming to streamline customer service efficiently. - The AI, developed with Google, achieves *90% accuracy* with personalized language models reducing errors. - A new 'Customer Champion,' leveraging Google’s Gemini AI, will assist with *complex issues*, supported by expanded 24/7 live chat and agent availability.",
+      "keywords": [
+        "Verizon",
+        "Google Gemini",
+        "AI Customer Service",
+        "Chatbot",
+        "My Verizon app",
+        "Telecom",
+        "Customer Experience"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-06-24T10:27:26.000Z"
+    },
+    {
       "title": "Riot is shutting down studio behind its Minecraft-like game",
       "link": "https://www.theverge.com/news/691791/riot-games-hypixel-studios-hytale-closure",
       "author": "Tom Warren",
@@ -875,87 +944,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-06-20T15:48:59.000Z"
-    },
-    {
-      "title": "Amazon enhances Kindle accessibility with new customizable text spacing features",
-      "link": "https://www.theverge.com/news/690259/amazon-kindle-software-update-accessibility-text-spacing-settings",
-      "author": "Andrew Liszewski",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197412/headshot_andrewL_blackwhite.0.jpg?quality=90&strip=all&crop=0,0,100,100&w=96",
-      "summary": "Amazon's latest Kindle software update introduces advanced text spacing controls, including line, paragraph, word, and character spacing adjustments, significantly improving readability and accessibility. These features support users with visual impairments and dyslexia, making Kindle a more inclusive e-reader option. This update marks a substantial step forward in user customization and accessibility.",
-      "keywords": [
-        "Amazon",
-        "Kindle",
-        "software update",
-        "accessibility",
-        "text spacing",
-        "line spacing",
-        "paragraph spacing",
-        "word spacing",
-        "character spacing",
-        "dyslexia",
-        "visual impairment",
-        "e-reader",
-        "customization"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 7,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-06-20T14:07:35.000Z"
-    },
-    {
-      "title": "Microsoft's Family Safety Feature Blocks Google Chrome on Windows",
-      "link": "https://www.theverge.com/news/690179/microsoft-block-google-chrome-family-safety-feature",
-      "author": "Tom Warren",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197777/profilephoto.0.jpg?quality=90&strip=all&crop=0,0,100,100&w=96",
-      "summary": "Microsoft’s Family Safety parental control feature is causing Google Chrome to be blocked or closed on Windows, affecting users and schools. While other browsers remain unaffected, no fix timing is announced, urging users to disable some safety filters as a workaround. This issue highlights ongoing tensions in browser competition.",
-      "keywords": [
-        "Microsoft",
-        "Google Chrome",
-        "Family Safety",
-        "parental controls",
-        "Windows",
-        "browser blocking",
-        "Microsoft Edge",
-        "browser competition",
-        "Chrome bug",
-        "Microsoft 365"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-06-20T14:00:04.000Z"
-    },
-    {
-      "title": "Tesla’s Robotaxi Service to Launch with Front Seat Safety Monitor Despite Previous 'No One in the Car' Promise",
-      "link": "https://www.theverge.com/news/690245/tesla-robotaxi-rides-launch-safety-monitor-passenger-seat",
-      "author": "Emma Roth",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKE001_STK086_Tesla_Robotaxi_A.jpg?quality=90&strip=all&crop=0,0,100,100&w=2400",
-      "summary": "Tesla is launching its robotaxi rides with a mandatory human safety monitor in the front passenger seat, contradicting Elon Musk’s earlier claim of fully unsupervised trips. This approach reflects Tesla’s cautious rollout amidst regulatory scrutiny and technical challenges, highlighting the complexities of deploying autonomous vehicles safely.",
-      "keywords": [
-        "Tesla",
-        "robotaxi",
-        "autonomous vehicles",
-        "safety monitor",
-        "Elon Musk",
-        "autonomous driving regulations",
-        "NHTSA",
-        "Texas law",
-        "ridehailing",
-        "robotaxi launch"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-06-20T13:50:53.000Z"
     }
   ]
 }
