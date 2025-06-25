@@ -4,6 +4,29 @@
   "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2OjGgjNiqyLr_1qkqAwsUQ",
   "items": [
     {
+      "title": "My Go-To G-Code Program for Any New CNC Machine",
+      "link": "https://www.youtube.com/watch?v=K78tXBmwZRk",
+      "author": "Practical Machinist",
+      "thumbnail": "https://img.youtube.com/vi/K78tXBmwZRk/hqdefault.jpg",
+      "summary": "- The video introduces a *safe, simple first G-code program* for CNC beginners, designed to clean the machine table without cutting or spindle engagement. - It emphasizes *safety precautions* like tape dry runs, slow feed overrides, single block execution, and having a finger on the feed hold button. - The program outlines key G-code commands for tool setup, clearance moves, coolant activation, controlled feed moves, and safe machine homing.",
+      "keywords": [
+        "G-code",
+        "CNC programming",
+        "machine safety",
+        "toolpath",
+        "feed override",
+        "coolant",
+        "machine homing"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 4,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-06-25T20:00:13.000Z"
+    },
+    {
       "title": "What to Do When Your Machine Shop Gets Too Quiet?",
       "link": "https://www.youtube.com/watch?v=gSdgWQyIr-E",
       "author": "Practical Machinist",
