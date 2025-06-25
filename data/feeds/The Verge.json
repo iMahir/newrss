@@ -4,6 +4,74 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "The photographer using AI to reconstruct stories lost to censorship",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/688648/almagul-menlibayeva-ai-reimagining-censored-government-work",
+      "author": "Elise Morton",
+      "thumbnail": null,
+      "summary": "- Almagul Menlibayeva uses **AI to revive erased Kazakh histories and cultural narratives** suppressed by Soviet and state censorship. - Her works blend *handwoven textiles* and AI-generated video to expose censored events like the 2022 Bloody January protests. - She views AI as a tool to *challenge historical erasure* and amplify marginalized voices, embedding personal myths into algorithmic outputs.",
+      "keywords": [
+        "Almagul Menlibayeva",
+        "AI art",
+        "historical erasure",
+        "Kazakhstan",
+        "censorship",
+        "cultural survival",
+        "digital storytelling"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 8,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-25T17:00:00.000Z"
+    },
+    {
+      "title": "Apple’s Sports App Now Shows Tennis Scores",
+      "link": "https://www.theverge.com/news/692872/apples-sports-app-now-shows-tennis-scores",
+      "author": "Jay Peters",
+      "thumbnail": null,
+      "summary": "- **Apple Sports app** has added live tennis scores, starting with Wimbledon, covering both men's and women's singles at Grand Slam and 1000-level tournaments. - The app introduces a **new home experience** that groups events by league and lets users prioritize their favorite teams. - Apple continues to enhance its sports offerings since the app's launch in February 2024, reflecting its growing interest in sports streaming.",
+      "keywords": [
+        "Apple Sports App",
+        "tennis",
+        "live scores",
+        "Wimbledon",
+        "sports streaming",
+        "mobile app update"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 6,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-06-25T16:39:45.000Z"
+    },
+    {
+      "title": "How to safely maintain, use, and dispose of your power banks",
+      "link": "https://www.theverge.com/tech/692218/power-banks-safety-disposal-how-to",
+      "author": "Andrew Liszewski",
+      "thumbnail": null,
+      "summary": "- Use power banks from **reputable brands** and prefer larger capacity ones (e.g., 20,000mAh) to **prolong battery life** and ensure safety.\n- Avoid exposure to **extreme temperatures** and stop using power banks if damaged, swollen, or excessively hot.\n- Properly **dispose or recycle** used or recalled power banks through authorized centers to prevent fires and environmental harm.",
+      "keywords": [
+        "power banks",
+        "lithium-ion batteries",
+        "battery safety",
+        "thermal runaway",
+        "proper disposal",
+        "recycling",
+        "battery lifespan"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-25T16:25:33.000Z"
+    },
+    {
       "title": "Sam Altman takes his ‘io’ trademark battle public",
       "link": "https://www.theverge.com/news/692840/sam-altman-io-trademark-battle-iyo-emails",
       "author": null,
@@ -2440,75 +2508,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-06-24T12:15:50.000Z"
-    },
-    {
-      "title": "Google Earth adds historical Street View imagery and AI-driven environmental insights",
-      "link": "https://www.theverge.com/news/691525/google-earth-historical-street-view-imagery",
-      "author": "Emma Roth",
-      "thumbnail": null,
-      "summary": "- *Google Earth* now features *historical Street View imagery*, allowing users to see how locations have changed over time, similar to Google Maps. - The update coincides with Google Earth's *20th anniversary*. - Upcoming features include *AI-driven environmental insights* for professionals, such as *tree canopy coverage* and *land surface temperature* data to identify shaded and hotter urban areas.",
-      "keywords": [
-        "Google Earth",
-        "Street View",
-        "historical imagery",
-        "AI insights",
-        "environmental data",
-        "tree canopy coverage",
-        "urban heat"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-06-24T12:00:00.000Z"
-    },
-    {
-      "title": "How AI Infiltrated Perfume",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/691050/perfume-ai",
-      "author": "Arabelle Sicardi",
-      "thumbnail": null,
-      "summary": "- *Osmo* is a startup using AI to digitize scents, enabling *custom perfumes* with a 48-hour turnaround, revolutionizing the traditionally slow fragrance creation process. - Major fragrance companies like *Givaudan* and *DSM-Firmenich* integrate AI to aid perfumers, blending technology with creativity. - Concerns remain over *loss of craftsmanship*, *environmental impact*, and *transparency* in AI-created scents, raising questions about *authenticity and ethics* in perfumery.",
-      "keywords": [
-        "AI",
-        "Perfume",
-        "Fragrance Industry",
-        "Osmo",
-        "Craftsmanship",
-        "Innovation",
-        "Ethics"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 7,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-06-24T11:00:00.000Z"
-    },
-    {
-      "title": "Waymo robotaxis launch on Uber app in Atlanta",
-      "link": "https://www.theverge.com/news/691101/waymo-uber-robotaxi-atlanta-launch",
-      "author": "Andrew J. Hawkins",
-      "thumbnail": null,
-      "summary": "- *Waymo’s driverless robotaxis are now available exclusively via the Uber app in Atlanta*, marking the city as the second market after Austin for this autonomous ridehail service.\n- The service operates within a 65-square-mile area covering central neighborhoods and excludes highways and airport trips for now.\n- *Uber manages fleet maintenance,* while Waymo oversees vehicle testing and roadside support, sharing costs and revenue with undisclosed splits.",
-      "keywords": [
-        "Waymo",
-        "Uber",
-        "robotaxi",
-        "autonomous vehicles",
-        "Atlanta",
-        "ridehail",
-        "driverless cars"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-06-24T11:00:00.000Z"
     }
   ]
 }
