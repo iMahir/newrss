@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "HDMI 2.2 Supports 16K Video at 60Hz with 96Gbps Bandwidth",
+      "link": "https://www.theverge.com/news/692052/hdmi-2-2-specification-released-96gbps-audio-sync-16k",
+      "author": "Andrew Liszewski",
+      "thumbnail": null,
+      "summary": "- *HDMI 2.2 specification* is officially released, doubling bandwidth to *96Gbps* for new Ultra96 cables.\n- Enables resolutions up to *16K at 60Hz*, plus 4K at 480Hz and 8K at 240Hz, improving future-proofing.\n- Introduces the *Latency Indication Protocol* (LIP) for improved AV sync, simplifying cable type identification.",
+      "keywords": [
+        "HDMI 2.2",
+        "16K video",
+        "Ultra96 cables",
+        "96Gbps bandwidth",
+        "Latency Indication Protocol",
+        "AV sync",
+        "video resolutions"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 8,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-06-25T12:18:30.000Z"
+    },
+    {
       "title": "Veloretti Lite E-bikes: Lighter and Cheaper Models Released",
       "link": "https://www.theverge.com/news/692505/veloretti-two-lite-ivy-ace-belt-price-specs",
       "author": "Thomas Ricker",
@@ -2459,16 +2482,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-06-23T22:13:11.000Z"
-    },
-    {
-      "title": "The Steam Deck OLED is back in stock",
-      "link": "https://www.theverge.com/news/691604/steam-deck-oled-valve-in-stock",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-06-23T21:51:31.000Z"
     }
   ]
 }
