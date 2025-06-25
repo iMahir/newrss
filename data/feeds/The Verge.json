@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Tesla's Robotaxi Launch Marred by Early Mishaps",
+      "link": "https://www.theverge.com/news/692639/tesla-robotaxi-mistake-wrong-lane-phantom-braking",
+      "author": "Andrew J. Hawkins",
+      "thumbnail": null,
+      "summary": "- Tesla's robotaxi service faced issues like **phantom braking** and other mistakes during its early days.  - Problems are documented by users on social media since Texas lacks mandatory incident reporting for Tesla's autonomous vehicles. - Despite some praised smooth rides, increasing fleet size could lead to more incidents, raising safety concerns.",
+      "keywords": [
+        "Tesla",
+        "robotaxi",
+        "autonomous vehicles",
+        "phantom braking",
+        "safety",
+        "Texas",
+        "self-driving"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-06-25T14:56:08.000Z"
+    },
+    {
       "title": "Insta360 launches Mic Air: tiny wireless mic like an AirTag",
       "link": "https://www.theverge.com/news/692640/insta360-wireless-microphone-mic-air-lightweight-bluetooth",
       "author": "Andrew Liszewski",
@@ -2523,16 +2546,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-06-24T09:16:58.000Z"
-    },
-    {
-      "title": "Raleigh One e-bike launches with VanMoof DNA",
-      "link": "https://www.theverge.com/news/690922/raleigh-one-vanmoof-e-bike-carlier-price-date",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-06-24T07:00:00.000Z"
     }
   ]
 }
