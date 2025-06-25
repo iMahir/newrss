@@ -49,6 +49,52 @@
       "pubDate": "2025-06-25T04:00:00.000Z"
     },
     {
+      "title": "Calibrating Humidity for Data Centers",
+      "link": "https://www.qualitymag.com/articles/98861-calibrating-humidity-for-data-centers",
+      "author": "Abhishek Kamerkar",
+      "thumbnail": "https://www.qualitymag.com/ext/resources/2025/06/25/QM0725-OO-Calibration-p1FT-GettyImages-2183037647.jpg?1750884143",
+      "summary": "- *Maintaining precise humidity control* in data centers is critical to prevent electrostatic discharge and condensation damage, following ASHRAE TC 9.9 guidelines (40-60% RH).\n- *Proper calibration of humidity sensors* is essential as sensor drift can cause costly downtime, SLA violations, and excess energy use.\n- Data centers face *calibration challenges* due to security, logistics, and the choice between in-house and outsourced calibration, with in-house offering better control and compliance documentation.",
+      "keywords": [
+        "humidity control",
+        "data centers",
+        "sensor calibration",
+        "ASHRAE TC 9.9",
+        "SLAs",
+        "environmental compliance",
+        "in-house calibration"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-24T04:00:00.000Z"
+    },
+    {
+      "title": "Determining Settling Time in Measurement Systems – An Analytical Approach",
+      "link": "https://www.qualitymag.com/articles/98860-determining-settling-time-in-measurement-systems-an-analytical-approach",
+      "author": "frank.liebmann@flukecal.com (Frank Leibmann)",
+      "thumbnail": "https://www.qualitymag.com/ext/resources/issues2/2025/07-July/QM0725-OO-MeasureFluke-p1FT-GettyImages-2191387552.jpg?1750882149",
+      "summary": "- The article presents an *analytical method* to determine *settling time* in measurement systems exhibiting exponential decay transients, aiming to optimize measurement timing and reduce errors. - It uses the *ratio of successive slopes* (first derivatives) to calculate the *time constant* and predict when the system has sufficiently settled for accurate readings. - Practical examples include RC circuits and temperature decay data, with cautions on handling *noisy data* and *complex transient behaviors* to ensure reliable automation.",
+      "keywords": [
+        "settling time",
+        "exponential decay",
+        "measurement accuracy",
+        "time constant",
+        "transient response",
+        "noise handling",
+        "automation"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-06-24T04:00:00.000Z"
+    },
+    {
       "title": "High QA Joins InnovMetric PolyWorks Digital Thread Partnership",
       "link": "https://www.qualitymag.com/articles/98849-high-qa-joins-innovmetric-polyworks-digital-thread-partnership",
       "author": null,
@@ -1180,61 +1226,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-06-04T13:56:52.000Z"
-    },
-    {
-      "title": "Reshoring Survey Highlights Workforce and Geopolitical Risks as Key Manufacturing Priorities",
-      "link": "https://www.qualitymag.com/articles/98795-reshoring-survey-reveals-priorities-for-reindustrialization-improve-skilled-workforce-use-tco-prep-for-geopolitical-risk",
-      "author": null,
-      "thumbnail": "https://www.qualitymag.com/ext/resources/2025/06/03/Reshoring-Survey-Report.jpg?1748958784",
-      "summary": "A 2025 survey by the Reshoring Initiative and Regions Recruiting reveals that improving the skilled workforce and addressing geopolitical risks are top priorities for accelerating U.S. manufacturing reshoring. The insights emphasize the critical role of total cost of ownership and supply chain partnerships for OEMs and contract manufacturers, guiding strategic decisions amid economic uncertainties.",
-      "keywords": [
-        "reshoring",
-        "manufacturing",
-        "skilled workforce",
-        "total cost of ownership",
-        "geopolitical risk",
-        "OEM",
-        "contract manufacturers",
-        "supply chain",
-        "U.S. manufacturing",
-        "reindustrialization",
-        "tariffs",
-        "economic policy"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-06-03T15:00:00.000Z"
-    },
-    {
-      "title": "Sacramento Launches Dual-Enrollment Mechatronics Program for High School Students",
-      "link": "https://www.qualitymag.com/articles/98794-sacramentos-multimillion-dollar-move-to-train-engineers-in-high-school",
-      "author": null,
-      "thumbnail": "https://www.qualitymag.com/ext/resources/2025/06/03/First-Partner-on-a-tour-of-the-Sierra-College-Mechatronics-Lab.jpg?1748956428",
-      "summary": "Sacramento’s Roseville Joint Union High School District and Sierra College are collaborating to establish advanced mechatronics labs and courses in high schools, enabling students to earn college credits and create a direct pipeline to engineering degrees. This initiative addresses the growing need for skilled engineers amid US production reshoring efforts.",
-      "keywords": [
-        "Sacramento",
-        "mechatronics",
-        "engineering education",
-        "dual enrollment",
-        "high school",
-        "Sierra College",
-        "technology labs",
-        "workforce development",
-        "reshoring",
-        "college credits",
-        "Roseville Joint Union High School District"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-06-03T13:14:46.000Z"
     }
   ]
 }
