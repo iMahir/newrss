@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Air quality tests around xAI’s Memphis data center raise questions",
+      "link": "https://techcrunch.com/2025/06/25/air-quality-tests-around-xais-memphis-data-center-raise-questions/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg",
+      "summary": "- *xAI's Colossus data center* in Memphis is under scrutiny due to concerns about air pollution from natural gas turbines.\n- The City of Memphis' initial air quality tests found no dangerous pollutant levels but omitted *ozone (smog)*, raising doubts from the Southern Environmental Law Center (SELC).\n- SELC criticized the testing methods, including sensor placement near buildings, potentially affecting accuracy, and questioned the omission of ozone measurement.",
+      "keywords": [
+        "xAI",
+        "Memphis",
+        "air quality",
+        "natural gas turbines",
+        "ozone",
+        "pollution",
+        "environmental testing"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-06-25T18:42:42.000Z"
+    },
+    {
       "title": "Creative Commons Launches CC Signals for Open AI Data Use",
       "link": "https://techcrunch.com/2025/06/25/creative-commons-debuts-cc-signals-a-framework-for-an-open-ai-ecosystem/",
       "author": null,
@@ -5822,29 +5845,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-06-23T18:16:57.000Z"
-    },
-    {
-      "title": "Four months after a $3B valuation, Harvey AI grows to $5B",
-      "link": "https://techcrunch.com/2025/06/23/four-months-after-a-3b-valuation-harvey-ai-grows-to-5b/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1474442258.jpg?w=1024",
-      "summary": "- *Harvey AI* raised $300 million in Series E funding, doubling its valuation to **$5 billion** just four months after a $3 billion valuation round. - The startup, focused on *legal AI automation*, plans to double its workforce from 340 employees and expand into professional services like tax accounting. - Harvey serves 337 legal clients and has achieved an annualized revenue run-rate of **$75 million** as of April 2025.",
-      "keywords": [
-        "Harvey AI",
-        "legal AI",
-        "funding",
-        "valuation",
-        "automation",
-        "professional services",
-        "startup growth"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-06-23T18:03:00.000Z"
     }
   ]
 }
