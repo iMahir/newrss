@@ -4,6 +4,75 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Google unveils Gemini CLI, an open-source AI tool for terminals",
+      "link": "https://techcrunch.com/2025/06/25/google-unveils-gemini-cli-an-open-source-ai-tool-for-terminals/",
+      "author": "Maxwell Zeff",
+      "thumbnail": null,
+      "summary": "- Google launches *Gemini CLI*, an *open-source AI tool* running locally in terminals to assist developers by explaining, debugging, and writing code through natural language.\n- Gemini CLI integrates Gemini AI models with local codebases and supports tasks like video creation and research report generation.\n- Offered under Apache 2.0 license, Google promotes wide adoption with generous usage limits amid ongoing trust concerns over AI-generated code accuracy.",
+      "keywords": [
+        "Google",
+        "Gemini CLI",
+        "AI development tools",
+        "open-source",
+        "developer productivity",
+        "natural language coding",
+        "AI code assistant"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-06-25T13:00:00.000Z"
+    },
+    {
+      "title": "Ring Cameras Add AI for Specific Motion Activity Descriptions",
+      "link": "https://techcrunch.com/2025/06/25/ring-cameras-and-doorbells-now-use-ai-to-provide-specific-descriptions-of-motion-activity/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/08/ring_battery_doorbell_2024.jpg",
+      "summary": "- *Ring* introduces an AI-powered feature to doorbells and cameras offering *specific text descriptions* of motion (e.g., \"A person walking up steps with a black dog\").\n- Available as a U.S. and Canada beta for Premium subscribers, it enhances vague alerts for quicker user decisions.\n- Future AI features include *custom anomaly alerts* and learning user routines, despite past privacy concerns.",
+      "keywords": [
+        "Ring",
+        "AI",
+        "home security",
+        "motion detection",
+        "privacy",
+        "smart doorbells",
+        "Amazon"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-06-25T13:00:00.000Z"
+    },
+    {
+      "title": "Kodiak leverages Vay's remote driving tech for self-driving trucks",
+      "link": "https://techcrunch.com/2025/06/25/kodiak-is-using-vays-remote-driving-tech-in-its-self-driving-trucks/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- *Kodiak Robotics* partners with Berlin-based *Vay* to integrate remote-driving technology into its autonomous trucks, enhancing operational safety and control at low speeds.\n- Vay's teleoperations rig allows trained remote drivers to assist Kodiak's 'assisted autonomy' system, maintaining limits and redundancies for situations like construction zones.\n- This collaboration supports Kodiak's planned commercial driverless deliveries on Texas highways starting in late 2026, combining AI and human intervention for complex environments.",
+      "keywords": [
+        "autonomous trucks",
+        "remote driving",
+        "teleoperations",
+        "Kodiak Robotics",
+        "Vay",
+        "driverless delivery",
+        "assisted autonomy"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 7,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-06-25T12:50:07.000Z"
+    },
+    {
       "title": "Julie Bornstein’s Daydream Launches AI Chatbot for Fashion Shopping",
       "link": "https://techcrunch.com/2025/06/25/julie-bornsteins-daydream-is-releasing-an-ai-powered-chatbot-for-fashion-related-shopping/",
       "author": "Ivan Mehta",
@@ -5738,73 +5807,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-06-22T20:22:00.000Z"
-    },
-    {
-      "title": "The stablecoin evangelist: Katie Haun’s fight for digital dollars",
-      "link": "https://techcrunch.com/2025/06/22/the-stablecoin-evangelist-katie-hauns-fight-for-digital-dollars/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/06/54600452169_4282f22ee8_k.jpg",
-      "summary": "- *Katie Haun*, former federal prosecutor and crypto investor, champions stablecoins as crucial digital dollars stabilizing cryptocurrency volatility.\n- Stablecoins have grown to a $250 billion market, facilitating cheap, global dollar transactions, especially valuable in unstable economies.\n- Haun supports federal regulation (GENIUS Act) for clarity and safety but warns against outright bans on yield-bearing stablecoins, foreseeing tokenization transforming global assets.",
-      "keywords": [
-        "stablecoins",
-        "Katie Haun",
-        "cryptocurrency",
-        "digital dollars",
-        "blockchain regulation",
-        "financial innovation",
-        "tokenization"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 9
-      },
-      "pubDate": "2025-06-22T18:43:27.000Z"
-    },
-    {
-      "title": "Moratorium on state AI regulation clears Senate hurdle",
-      "link": "https://techcrunch.com/2025/06/22/moratorium-on-state-ai-regulation-clears-senate-hurdle/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-950173010.jpg?w=1024",
-      "summary": "- A Republican-backed rule would block states from enforcing AI regulations for 10 years by withholding federal broadband funding.\n- Senate Parliamentarian ruled the provision can pass with a simple majority, bypassing a filibuster.\n- The moratorium faces opposition from some Republicans and advocacy groups over concerns of state rights and regulatory gaps.",
-      "keywords": [
-        "AI regulation",
-        "state laws",
-        "Senate bill",
-        "moratorium",
-        "federal funding",
-        "US politics",
-        "technology policy"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-06-22T17:17:56.000Z"
-    },
-    {
-      "title": "LinkedIn CEO: AI Writing Assistant Less Popular Than Expected",
-      "link": "https://techcrunch.com/2025/06/22/linkedin-ceo-says-ai-writing-assistant-is-not-as-popular-as-expected/",
-      "author": "Anthony Ha",
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-2150483457-e1717774844734.jpg",
-      "summary": "- LinkedIn's AI writing assistant for polishing posts is *less popular* than CEO Ryan Roslansky anticipated, due to the high stakes of posting on a professional platform. - Users fear backlash from posts that appear *AI-generated*, impacting economic opportunities. - Meanwhile, demand for AI skills in jobs has *increased sixfold*, and user profiles reflecting AI skills have grown *twentyfold*. - Roslansky personally uses AI to refine emails, showcasing practical AI adoption.",
-      "keywords": [
-        "LinkedIn",
-        "AI writing assistant",
-        "professional networking",
-        "AI skills",
-        "Ryan Roslansky"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 4,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-06-22T14:06:40.000Z"
     }
   ]
 }

@@ -4,6 +4,75 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Russia Frees Four REvil Hackers After Sentencing",
+      "link": "https://www.theverge.com/news/692582/russia-revil-hacker-group-ransomware-sentencing",
+      "author": "Jess Weatherbed",
+      "thumbnail": null,
+      "summary": "- Four members of the *REvil ransomware group* were sentenced to five years but released immediately, having spent sufficient time in custody. - Their crimes involved *fraud and carding*, primarily targeting US citizens, unrelated to REvil's major 2021 attacks. - The court seized luxury cars and over $1 million, but no fines were imposed, and no extradition to the US is expected.",
+      "keywords": [
+        "REvil",
+        "ransomware",
+        "Russia",
+        "cybercrime",
+        "hacker sentencing",
+        "fraud",
+        "extradition"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-06-25T13:10:23.000Z"
+    },
+    {
+      "title": "Google launches Gemini CLI for developers' terminals",
+      "link": "https://www.theverge.com/news/692517/google-gemini-cli-ai-agent-dev-terminal",
+      "author": "Jess Weatherbed",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195820/JESSICA_WEATHERBED.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Google introduces **Gemini CLI**, an open-source AI agent that integrates Gemini’s coding, content generation, and research features directly into developers' terminals.\n- It leverages Gemini 2.5 Pro with a **1 million token context window**, offering lightweight access and support for coding, content creation, problem-solving, and task management.\n- Available for free preview with generous usage limits, Gemini CLI may compete strongly with other AI coding tools like GitHub Copilot and Anthropic’s Claude Code.",
+      "keywords": [
+        "Google Gemini CLI",
+        "AI coding assistant",
+        "developers",
+        "Gemini 2.5 Pro",
+        "code generation",
+        "open source",
+        "AI tools"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 7,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-06-25T13:00:00.000Z"
+    },
+    {
+      "title": "Ring camera alerts are about to get a lot smarter",
+      "link": "https://www.theverge.com/news/692523/ring-ai-powered-video-descriptions-camera-doorbell-notifications",
+      "author": "Jennifer Pattison Tuohy",
+      "thumbnail": null,
+      "summary": "- Ring introduces **Video Descriptions**, an AI feature giving detailed text alerts describing motion activity (e.g., “person with broom and mop is leaving”).\n- Available to Ring Home Premium subscribers in the US and Canada, it enhances notifications to reduce unnecessary alerts and focus on relevant actions.\n- The system aims to evolve with **custom anomaly alerts**, learning home routines to notify only unusual events, improving smart home usefulness but raising privacy and accuracy concerns.",
+      "keywords": [
+        "Ring",
+        "AI",
+        "video descriptions",
+        "smart home",
+        "security cameras",
+        "notifications",
+        "privacy"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-06-25T13:00:00.000Z"
+    },
+    {
       "title": "HDMI 2.2 Supports 16K Video at 60Hz with 96Gbps Bandwidth",
       "link": "https://www.theverge.com/news/692052/hdmi-2-2-specification-released-96gbps-audio-sync-16k",
       "author": "Andrew Liszewski",
@@ -2439,49 +2508,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-06-23T23:00:00.000Z"
-    },
-    {
-      "title": "T-Mobile’s satellite service officially launches in July",
-      "link": "https://www.theverge.com/tech/691521/t-mobile-satellite-service-starlink-launch-date",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-06-23T22:57:54.000Z"
-    },
-    {
-      "title": "Nintendo’s GameCube controller for the Switch 2 is back in stock",
-      "link": "https://www.theverge.com/tech/691562/nintendo-wireless-gamecube-controller-switch-2-restock",
-      "author": "Brandon Russell",
-      "thumbnail": null,
-      "summary": "- Nintendo’s updated **GameCube Controller** for the Switch 2 is available again for **$64.99** with a Nintendo Switch Online subscription required.  \n- It features **wireless connectivity**, a **GameChat button** for voice chat, and a **capture button** for screenshots.  \n- Best suited for **GameCube titles** on the Switch Online Expansion Pack but usable with other Switch 2 games despite missing some buttons.",
-      "keywords": [
-        "Nintendo",
-        "GameCube Controller",
-        "Switch 2",
-        "wireless",
-        "gaming accessories",
-        "Retro games",
-        "GameChat"
-      ],
-      "scores": {
-        "scale": 4,
-        "impact": 3,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-06-23T22:51:31.000Z"
-    },
-    {
-      "title": "Phew: Apple fixed the Finder icon in macOS Tahoe 26",
-      "link": "https://www.theverge.com/news/691643/apple-macos-tahoe-26-finder-icon-beta",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-06-23T22:13:11.000Z"
     }
   ]
 }
