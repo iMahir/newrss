@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Apple Revamps EU App Store Rules After €500M Penalty",
+      "link": "https://www.theverge.com/news/693512/apple-eu-dma-app-store-concessions",
+      "author": "Emma Roth",
+      "thumbnail": null,
+      "summary": "- Apple introduces a *new tier system* for its EU App Store fees, limiting some features to developers paying a higher commission. - A *5% Core Technology Commission* is added on external app purchases, transitioning from an annual €0.50 download fee by 2026. - Changes respond to a *€500 million EU penalty* for anti-steering practices violating Digital Markets Act, which Apple plans to appeal.",
+      "keywords": [
+        "Apple",
+        "App Store",
+        "EU Digital Markets Act",
+        "Core Technology Commission",
+        "Anti-steering",
+        "EU penalty",
+        "App developer fees"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-26T20:58:56.000Z"
+    },
+    {
       "title": "Ember’s Temperature-Controlled Smart Mug Now $89.99",
       "link": "https://www.theverge.com/tech/693864/ember-mug-2-amazon-best-buy-deal-sale",
       "author": "Sheena Vasani",
@@ -5561,29 +5584,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-06-25T10:30:00.000Z"
-    },
-    {
-      "title": "The smaller Fairphone 6 introduces swappable accessories",
-      "link": "https://www.theverge.com/news/692248/fairphone-6-smartphone-repairable-modular-accessories-murena",
-      "author": "Andrew Liszewski",
-      "thumbnail": null,
-      "summary": "- The *Fairphone 6* is smaller and lighter than its predecessor, featuring a larger, easily replaceable 4,415mAh battery and new modular accessories like a card holder and finger loop.\n- It runs a Snapdragon 7s Gen 3, has a 6.31-inch 120Hz OLED display, and includes a *privacy-focused* Android version (/e/OS) in the US.\n- Fairphone emphasizes *repairability* with 12 swappable parts and offers a *five-year warranty* plus *eight years of software support*; the phone features a new distraction-reducing software mode called Fairphone Moments.",
-      "keywords": [
-        "Fairphone 6",
-        "modular smartphone",
-        "repairability",
-        "swappable accessories",
-        "privacy",
-        "sustainable technology",
-        "de-Googled Android"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 5,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-06-25T09:00:00.000Z"
     }
   ]
 }
