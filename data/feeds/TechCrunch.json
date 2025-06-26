@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Google launches Doppl, an AI app for virtual outfit try-ons",
+      "link": "https://techcrunch.com/2025/06/26/google-launches-doppl-a-new-app-that-lets-you-visualize-how-an-outfit-might-look-on-you/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/06/doppl.png",
+      "summary": "- Google introduced *Doppl*, an experimental AI app that lets users virtually try on clothes by uploading their photo and overlaying outfit images from any source.\n- The app can generate both *images and AI videos* of users wearing selected outfits, enhancing the virtual try-on experience.\n- Currently available in the U.S. on iOS and Android, Doppl aims to make style exploration fun and assist Google’s future AI fashion efforts.",
+      "keywords": [
+        "Google",
+        "Doppl",
+        "AI",
+        "virtual try-on",
+        "fashion",
+        "mobile app",
+        "digital wardrobe"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-06-26T21:19:11.000Z"
+    },
+    {
       "title": "Why a16z VC believes Cluely is the new blueprint for AI startups",
       "link": "https://techcrunch.com/2025/06/26/why-a16z-vc-believes-that-cluely-the-cheat-on-everything-startup-is-the-new-blueprint-for-ai-startups/",
       "author": "Marina Temkin",
@@ -1069,29 +1092,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-06-24T21:05:12.000Z"
-    },
-    {
-      "title": "Race to Build More Empathetic Language Models",
-      "link": "https://techcrunch.com/2025/06/24/new-data-highlights-the-race-to-build-more-empathetic-language-models/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- AI development is shifting focus from pure logic to *emotional intelligence* for deeper human-AI interactions.  \n- Open-source tools like LAION's EmoNet and benchmarks such as EQ-Bench highlight advances in AI's ability to recognize and reason about emotions.  \n- While emotionally savvy AI promises transformative benefits like mental health support, it also raises concerns about manipulation and emotional dependency on AI.",
-      "keywords": [
-        "AI",
-        "emotional intelligence",
-        "language models",
-        "LAION",
-        "EQ-Bench",
-        "user interaction",
-        "mental health"
-      ],
-      "scores": {
-        "scale": 9,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 9
-      },
-      "pubDate": "2025-06-24T21:03:01.000Z"
     }
   ]
 }
