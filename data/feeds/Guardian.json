@@ -4,6 +4,52 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "Meta wins AI copyright lawsuit as US judge rules against authors",
+      "link": "https://www.theguardian.com/technology/2025/jun/26/meta-wins-ai-copyright-lawsuit-as-us-judge-rules-against-authors",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- A US judge ruled in favor of Meta in a lawsuit claiming copyright infringement for using authors' books to train AI. - The judge stated authors failed to prove their market was harmed, but noted that unauthorized AI training can be unlawful in other scenarios. - The ruling highlights the ongoing tension between *fair use* defense by AI firms and copyright protections for creators.",
+      "keywords": [
+        "Meta",
+        "AI copyright",
+        "fair use",
+        "authors",
+        "lawsuit",
+        "artificial intelligence",
+        "copyright law"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-26T06:54:52.000Z"
+    },
+    {
+      "title": "YouTube and Australia’s Under-16 Social Media Ban Debate",
+      "link": "https://www.theguardian.com/australia-news/2025/jun/25/should-youtube-be-included-in-australias-under-16s-social-media-ban-heres-what-you-need-to-know",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Australia’s online safety regulator recommends including **YouTube** in the under-16 social media ban due to exposure to harmful content and addictive features. - YouTube argues it should be exempt, highlighting its educational role and safety measures like YouTube Kids. - The ban restricts account creation, not logged-out viewing, aiming to protect children but retain educational access.",
+      "keywords": [
+        "YouTube",
+        "online safety",
+        "social media ban",
+        "Australia",
+        "children under 16",
+        "harmful content",
+        "education"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-06-26T03:06:10.000Z"
+    },
+    {
       "title": "Meta CTO Joins New US Army Tech Corps as Lieutenant Colonel",
       "link": "https://www.theguardian.com/technology/2025/jun/25/meta-exec-us-army-enlistment",
       "author": null,
@@ -2821,42 +2867,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-06-17T16:29:52.000Z"
-    },
-    {
-      "title": "The best fans to keep you cool: 14 tried and tested favourites to beat the heat",
-      "link": "https://www.theguardian.com/thefilter/2025/jun/17/best-fans-uk",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-06-17T14:00:45.000Z"
-    },
-    {
-      "title": "23andMe Fined £2.3m for 2023 UK Data Breach Affecting 150,000 Users",
-      "link": "https://www.theguardian.com/technology/2025/jun/17/dna-testing-firm-23andme-fined-23m-by-uk-regulator-for-2023-data-hack",
-      "author": null,
-      "thumbnail": null,
-      "summary": "Genetic testing firm 23andMe was fined £2.3m by the UK regulator for a 2023 cyberattack that exposed sensitive data of over 150,000 UK customers. The breach revealed personal and health information, highlighting the critical need for stronger data security in genetic testing services.",
-      "keywords": [
-        "23andMe",
-        "data breach",
-        "cyberattack",
-        "UK regulator",
-        "personal data",
-        "DNA testing",
-        "genetic data",
-        "security failure",
-        "privacy",
-        "fine"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 5,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-06-17T13:45:45.000Z"
     }
   ]
 }
