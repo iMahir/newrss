@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "App Aids Visually Impaired Fans to Navigate Lord's Cricket Ground",
+      "link": "https://www.theguardian.com/society/2025/jun/26/blind-navigation-app-lords-cricket-sports-stadiums",
+      "author": null,
+      "thumbnail": "https://i.guim.co.uk/img/media/1ffad770a84891495352635a267da6b9e312973e/910_0_6500_5200/master/6500.jpg?width=445&dpr=1&s=none&crop=none",
+      "summary": "- *Waymap* has developed a GPS app offering precise indoor navigation at Lord’s stadium, enabling visually impaired fans to locate seats independently.\n- The app uses a detailed digital scan of the stadium and requires personalized calibration for stride patterns.\n- Initial trials reveal promise with some user-app adaptation needed; plans exist to expand to other sports venues.",
+      "keywords": [
+        "Waymap",
+        "accessibility",
+        "visual impairment",
+        "navigation app",
+        "Lord's cricket ground",
+        "sports technology",
+        "disability inclusion"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-26T09:00:02.000Z"
+    },
+    {
       "title": "Video Game Developers Face False Accusations of Using AI",
       "link": "https://www.theguardian.com/games/2025/jun/26/video-game-developers-using-ai-even-when-they-arent-stamina-zero",
       "author": null,
@@ -2856,30 +2879,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-06-18T06:00:05.000Z"
-    },
-    {
-      "title": "Up to 70% of AI-Generated Music Streams on Deezer Are Fraudulent",
-      "link": "https://www.theguardian.com/technology/2025/jun/18/up-to-70-of-streams-of-ai-generated-music-on-deezer-are-fraudulent-says-report",
-      "author": null,
-      "thumbnail": null,
-      "summary": "Deezer reports that up to 70% of streams for AI-generated music on its platform are fraudulent, driven by bots to claim royalty payments. This highlights a growing issue of AI music fraud impacting the streaming industry and underscores the need for vigilant detection to protect legitimate artists.",
-      "keywords": [
-        "AI-generated music",
-        "fraudulent streaming",
-        "Deezer",
-        "music industry",
-        "royalty fraud",
-        "bot streams",
-        "streaming platforms",
-        "music fraud detection"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-06-18T05:00:04.000Z"
     }
   ]
 }
