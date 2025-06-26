@@ -4,6 +4,52 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Amazon's Early Prime Day Deals: Top Picks on Tech and Security",
+      "link": "https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025",
+      "author": "Sheena Vasani",
+      "thumbnail": null,
+      "summary": "- Amazon has started early Prime Day deals on devices, including *steep discounts on Blink security cameras* and bundles.\n- Highlights include the *Blink Outdoor 4 camera* for $39.99, Blink bundles with doorbells, and the *Fire TV Stick 4K* at its *lowest price of the year ($24.99)*.\n- Other notable deals are on *Eero Max 7 routers* for high-speed Wi-Fi, *Ring Doorbell Battery combos*, and refurbished *Fire HD 10 tablets* at $69.99.",
+      "keywords": [
+        "Amazon",
+        "Prime Day",
+        "Deals",
+        "Security Cameras",
+        "Streaming Devices",
+        "Smart Home",
+        "Discounts"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-06-26T00:15:33.000Z"
+    },
+    {
+      "title": "Meta’s AI Copyright Win Comes With Fair Use Warning",
+      "link": "https://www.theverge.com/news/693437/meta-ai-copyright-win-fair-use-warning",
+      "author": "Jay Peters",
+      "thumbnail": null,
+      "summary": "- Meta won a legal ruling that its use of copyrighted books to train AI models is *fair use*, but the judge emphasized this ruling doesn't establish the overall legality of such practices. - Key author arguments against Meta were rejected, including on text reproduction and market dilution for licensing. - The case highlights ongoing complexities and uncertainties around *AI training data and copyright law*, with courts cautious but not fully endorsing Big Tech's practices.",
+      "keywords": [
+        "Meta",
+        "AI",
+        "copyright",
+        "fair use",
+        "lawsuit",
+        "machine learning",
+        "legal ruling"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-26T00:13:44.000Z"
+    },
+    {
       "title": "Anthropic adds AI app building inside Claude chatbot",
       "link": "https://www.theverge.com/news/693342/anthropic-claude-ai-apps-artifact",
       "author": "Jay Peters",
@@ -3965,52 +4011,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-06-24T15:45:49.000Z"
-    },
-    {
-      "title": "Anthropic wins fair use ruling for training AI on purchased books",
-      "link": "https://www.theverge.com/news/692015/anthropic-wins-a-major-fair-use-victory-for-ai-but-its-still-in-trouble-for-stealing-books",
-      "author": "Emma Roth",
-      "thumbnail": null,
-      "summary": "- A federal judge ruled that *training AI models on legally purchased physical books* is *fair use*, marking a significant legal victory for Anthropic and the AI industry.\n- The ruling is *limited* to physical books Anthropic bought and digitized, excluding *pirated digital books*, which require a separate trial.\n- The case does *not address copyright infringement* of AI-generated outputs, leaving other legal questions unresolved.",
-      "keywords": [
-        "Anthropic",
-        "AI",
-        "fair use",
-        "copyright",
-        "lawsuit",
-        "machine learning",
-        "books"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-06-24T15:16:55.000Z"
-    },
-    {
-      "title": "Nintendo’s wheelchair basketball game releases in August",
-      "link": "https://www.theverge.com/news/691907/drag-x-drive-release-date-nintendo-switch-2",
-      "author": "Ash Parrish",
-      "thumbnail": null,
-      "summary": "- *Drag x Drive*, a 3v3 wheelchair basketball game, will launch on August 14th exclusively for the Switch 2. - It highlights the Switch 2's new *mouse controls* that simulate wheelchair maneuvering. - This adds to the Switch 2’s growing lineup of *first-party exclusives* alongside titles like *Mario Kart World* and *Donkey Kong Bananza*.",
-      "keywords": [
-        "Nintendo",
-        "Switch 2",
-        "wheelchair basketball",
-        "Drag x Drive",
-        "accessibility",
-        "video games",
-        "exclusive"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-06-24T14:24:44.000Z"
     }
   ]
 }
