@@ -4,6 +4,29 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Actively Exploited Vulnerability Threatens Thousands of Servers",
+      "link": "https://arstechnica.com/security/2025/06/active-exploitation-of-ami-management-tool-imperils-thousands-of-servers/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- *CVE-2024-54085*, a vulnerability in AMI MegaRAC BMC firmware, allows attackers *deep control* over servers, including stealthy firmware implants and remote server manipulation.\n- Attackers can evade traditional security, steal credentials, and cause severe operational disruption.\n- Espionage-linked APT groups likely exploit this; admins must urgently verify and patch vulnerable server management controllers.",
+      "keywords": [
+        "CVE-2024-54085",
+        "BMC",
+        "AMI MegaRAC",
+        "Firmware Exploit",
+        "Server Security",
+        "Redfish",
+        "APT Groups"
+      ],
+      "scores": {
+        "scale": 9,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-26T22:52:42.000Z"
+    },
+    {
       "title": "Anthropic summons the spirit of Flash games for the AI age",
       "link": "https://arstechnica.com/ai/2025/06/anthropic-summons-the-spirit-of-flash-games-for-the-ai-age/",
       "author": "Benj Edwards",
