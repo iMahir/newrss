@@ -4,6 +4,52 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Google quietly introduced precise Bluetooth tracking on the Pixel Watch 3",
+      "link": "https://www.theverge.com/news/694246/google-android-pixel-watch-3-bluetooth-6-sounding-tracking-wear-os-update",
+      "author": "Andrew Liszewski",
+      "thumbnail": null,
+      "summary": "- Google released Wear OS 5.1 update enabling *Channel Sounding* on Pixel Watch 3, improving Bluetooth location tracking accuracy. - Channel Sounding measures signal timing over multiple frequencies, offering *centimeter-level accuracy and directional awareness* without extra hardware. - Adoption depends on more devices and software supporting Bluetooth 6.0, promising advanced tracking akin to Ultra-Wideband but without increased hardware costs.",
+      "keywords": [
+        "Google",
+        "Pixel Watch 3",
+        "Bluetooth 6.0",
+        "Channel Sounding",
+        "Wear OS",
+        "Precise Tracking",
+        "Bluetooth"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 7,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-06-27T16:11:46.000Z"
+    },
+    {
+      "title": "Supreme Court Upholds Texas Porn Age-Gating Law",
+      "link": "https://www.theverge.com/internet-censorship/686042/supreme-court-fsc-paxton-porn-age-verification-ruling",
+      "author": "Adi Robertson",
+      "thumbnail": null,
+      "summary": "- The Supreme Court ruled 6-3 in *Free Speech Coalition v. Paxton* to uphold Texas law HB 1181, requiring *age verification* for adult websites, stating it only *incidentally burdens adult speech*.\n- The ruling marks a shift from earlier decisions due to *technological advances* making content more accessible to minors and allows states more power to restrict obscene material for children.\n- Dissenting justices and free speech advocates warn of *privacy concerns* and *chilling effects* on adults’ rights; similar laws are emerging for social media verification.",
+      "keywords": [
+        "Supreme Court",
+        "Age Verification",
+        "Pornography",
+        "First Amendment",
+        "Texas Law",
+        "Online Privacy",
+        "Content Regulation"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-27T15:59:28.000Z"
+    },
+    {
       "title": "Supreme Court Upheld Low-Income Broadband Subsidy Fund",
       "link": "https://www.theverge.com/news/689176/supreme-court-universal-service-fund-fcc-ruling",
       "author": "Lauren Feiner",
@@ -7034,26 +7080,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-06-25T16:25:33.000Z"
-    },
-    {
-      "title": "Sam Altman takes his ‘io’ trademark battle public",
-      "link": "https://www.theverge.com/news/692840/sam-altman-io-trademark-battle-iyo-emails",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-06-25T16:12:46.000Z"
-    },
-    {
-      "title": "iPhone users on Google Fi will now get all their voicemails in the Phone app",
-      "link": "https://www.theverge.com/news/692824/google-fi-iphone-ios-users-phone-app-voicemails",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-06-25T16:02:27.000Z"
     }
   ]
 }
