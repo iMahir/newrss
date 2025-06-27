@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Graphic artists in China push back on AI and its averaging effect",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/688645/graphic-artists-china-ai",
+      "author": "Gus Rick",
+      "thumbnail": null,
+      "summary": "- *Chinese graphic artists* face challenges as AI image generators alter the creative process and client expectations. - AI enables quick style copying but often produces low-quality or unoriginal results, useful more as *a toy than a tool*. - Designers stress that their work involves *creative strategy* beyond image production, now undervalued by clients expecting faster, cheaper outputs.",
+      "keywords": [
+        "AI image generators",
+        "graphic design",
+        "China",
+        "creative process",
+        "client expectations",
+        "DALL-E",
+        "advertising"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-06-27T12:00:00.000Z"
+    },
+    {
       "title": "Redwood Materials Repurposes Old EV Batteries into Cost-Effective Microgrids",
       "link": "https://www.theverge.com/news/693726/redwood-materials-is-giving-old-ev-batteries-a-second-life-as-microgrids",
       "author": "Andrew J. Hawkins",
@@ -5559,29 +5582,6 @@
         "impact": 7,
         "novelty": 7,
         "longTermSignificance": 6
-      },
-      "pubDate": "2025-06-25T13:00:00.000Z"
-    },
-    {
-      "title": "Ring camera alerts are about to get a lot smarter",
-      "link": "https://www.theverge.com/news/692523/ring-ai-powered-video-descriptions-camera-doorbell-notifications",
-      "author": "Jennifer Pattison Tuohy",
-      "thumbnail": null,
-      "summary": "- Ring introduces **Video Descriptions**, an AI feature giving detailed text alerts describing motion activity (e.g., “person with broom and mop is leaving”).\n- Available to Ring Home Premium subscribers in the US and Canada, it enhances notifications to reduce unnecessary alerts and focus on relevant actions.\n- The system aims to evolve with **custom anomaly alerts**, learning home routines to notify only unusual events, improving smart home usefulness but raising privacy and accuracy concerns.",
-      "keywords": [
-        "Ring",
-        "AI",
-        "video descriptions",
-        "smart home",
-        "security cameras",
-        "notifications",
-        "privacy"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 8,
-        "longTermSignificance": 7
       },
       "pubDate": "2025-06-25T13:00:00.000Z"
     }
