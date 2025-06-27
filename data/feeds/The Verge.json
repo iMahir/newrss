@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "US Critical Infrastructure Cyber Vulnerability",
+      "link": "https://www.theverge.com/cyber-security/693588/cybersecurity-cyberattack-critical-infrastructure-war-expert-iran",
+      "author": "Justine Calma",
+      "thumbnail": null,
+      "summary": "- US critical infrastructure like water, healthcare, and energy are highly vulnerable to cyberattacks due to increased connectivity yet insufficient cybersecurity resources. - State-sponsored groups such as China's Volt Typhoon have compromised water facilities, highlighting the risks amid geopolitical tensions, especially concerning Taiwan and Iran. - Experts advocate for affordable, practical engineering solutions alongside cybersecurity to mitigate damage, emphasizing expanded public-private partnerships and volunteer cyber resilience efforts at state and local levels.",
+      "keywords": [
+        "cybersecurity",
+        "critical infrastructure",
+        "water systems",
+        "ransomware",
+        "state-sponsored attacks",
+        "public-private partnerships",
+        "cyber resilience"
+      ],
+      "scores": {
+        "scale": 9,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-27T22:31:35.000Z"
+    },
+    {
       "title": "Logitech says all its webcams work with Nintendo Switch 2, save one",
       "link": "https://www.theverge.com/news/694565/logitech-webcams-work-with-nintendo-switch-2",
       "author": "Sean Hollister",
@@ -5556,29 +5579,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-06-25T22:33:29.000Z"
-    },
-    {
-      "title": "Nintendo Switch 2 Webcam Compatibility Mystery Solved",
-      "link": "https://www.theverge.com/report/693182/nintendo-switch-2-webcam-mystery-1080p-480p-uvc-iso-bulk-ugreen-elgato",
-      "author": "Sean Hollister",
-      "thumbnail": null,
-      "summary": "- The Nintendo Switch 2 initially faced *webcam compatibility issues* because it attempts to use unsupported camera modes advertised by modern webcams. - Companies like Elgato and Ugreen discovered the Switch 2 requires cameras without HID protocol, using isochronous transfer mode, and lacking low frame rate settings below 30fps. - Firmware updates are planned by these companies to fix issues, while Nintendo has yet to comment on addressing this globally.",
-      "keywords": [
-        "Nintendo Switch 2",
-        "webcam compatibility",
-        "USB Video Class",
-        "isochronous transfer mode",
-        "Elgato",
-        "Ugreen",
-        "firmware updates"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-06-25T22:07:32.000Z"
     }
   ]
 }
