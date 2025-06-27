@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Redwood Materials Repurposes Old EV Batteries into Cost-Effective Microgrids",
+      "link": "https://www.theverge.com/news/693726/redwood-materials-is-giving-old-ev-batteries-a-second-life-as-microgrids",
+      "author": "Andrew J. Hawkins",
+      "thumbnail": null,
+      "summary": "- *Redwood Materials* repurposes old EV batteries into *low-cost, large-scale energy storage systems* instead of recycling them immediately.\n- The company manages over 20 GWh of batteries annually, with many still retaining up to *50% usable capacity*.\n- Its first microgrid in Nevada powers a 2,000-GPU data center, demonstrating a sustainable *second-life battery deployment* with significant energy capacity.",
+      "keywords": [
+        "Redwood Materials",
+        "EV batteries",
+        "battery recycling",
+        "energy storage",
+        "microgrids",
+        "sustainability",
+        "renewable energy"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-27T03:30:00.000Z"
+    },
+    {
       "title": "Meta Claims Victory in Talent War with OpenAI; AI Trends & Legal Battles",
       "link": "https://www.theverge.com/command-line-newsletter/694028/meta-openai-100-million-bonus-talent-war",
       "author": "Alex Heath",
@@ -5561,29 +5584,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-06-25T13:00:00.000Z"
-    },
-    {
-      "title": "HDMI 2.2 Supports 16K Video at 60Hz with 96Gbps Bandwidth",
-      "link": "https://www.theverge.com/news/692052/hdmi-2-2-specification-released-96gbps-audio-sync-16k",
-      "author": "Andrew Liszewski",
-      "thumbnail": null,
-      "summary": "- *HDMI 2.2 specification* is officially released, doubling bandwidth to *96Gbps* for new Ultra96 cables.\n- Enables resolutions up to *16K at 60Hz*, plus 4K at 480Hz and 8K at 240Hz, improving future-proofing.\n- Introduces the *Latency Indication Protocol* (LIP) for improved AV sync, simplifying cable type identification.",
-      "keywords": [
-        "HDMI 2.2",
-        "16K video",
-        "Ultra96 cables",
-        "96Gbps bandwidth",
-        "Latency Indication Protocol",
-        "AV sync",
-        "video resolutions"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 8,
-        "longTermSignificance": 9
-      },
-      "pubDate": "2025-06-25T12:18:30.000Z"
     }
   ]
 }
