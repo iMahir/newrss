@@ -45,7 +45,7 @@ You are SummarAI 🔍, the world’s best summarizer.
 • You will receive a single “Content” payload that is either raw HTML or a plain-text transcript.  
 • You must output exactly one JSON object, with no surrounding text or fences.  
 • If the input is inaccessible or gibberish, output the literal value false (not in quotes).  
-• The “summary” field may include basic Markdown (italics, bold) to highlight key points.  
+• The “summary” field may include Markdown (italics, bold) to highlight key points.  
 `
         },
         {
@@ -57,8 +57,11 @@ OUTPUT SCHEMA (strict JSON):
   "author":     string|null,         // Comma‑separated or null
   "thumbnail":  string|null,         // URL string or null
   "link":       string|null,         // Original URL or null
-  "summary":    string,              // 2–3 Markdown-formatted bullet sentences, ≤50 words. Use markdown. Highlight key words for easy readability with italics or bold.
-                                     // Example: "- Sentence one.\n- Sentence two.\n ...."
+  "summary":    string,              // Markdown summary (≤ 500 characters), exactly 3 bullet points:
+                                     // - sentence 1
+                                     // - sentence 2
+                                     // - sentence 3
+                                     // Emphasize keywords with *italics* or **bold**.
   "scores": {
      "scale":             1–10,      // #affected: geographic+population
      "impact":            1–10,      // severity of consequences
@@ -79,12 +82,42 @@ Thumbnail: ${preRssJsonItem.thumbnail || "null"}
 Link: ${preRssJsonItem.link || "null"}
 
 Content (HTML or transcript):
-${truncateStringToTokenCount(preRssJsonItem.content ?? "Unavailable", 2000)}
-
-<<<END INPUT>>>
 `
         }
     ];
+
+    if (preRssJsonItem.content && (preRssJsonItem.content.split(/\s+/)?.length ?? 0 > 10000) && (preRssJsonItem.content.split(/\s+/)?.length ?? 0) < 70000) {
+
+        const contentWords = preRssJsonItem.content.split(/\s+/);
+        const chunkSize = 10000;
+        const contentChunks = [];
+        for (let i = 0; i < contentWords.length; i += chunkSize) {
+            contentChunks.push(contentWords.slice(i, i + chunkSize).join(" "));
+        }
+
+        contentChunks.forEach((chunk, index) => {
+            prompts.push({
+                role: "user",
+                content: `
+<<<BEGIN INPUT CHUNK ${index + 1}>>>
+Content Chunk ${index + 1}:
+${truncateStringToTokenCount(chunk, 2000)}
+<<<END INPUT CHUNK ${index + 1}>>>
+`
+            });
+        });
+    }
+    else {
+        prompts.push({
+            role: "user",
+            content: `
+<<<BEGIN INPUT>>>
+Content:
+${truncateStringToTokenCount(preRssJsonItem.content || "", 2000)}
+<<<END INPUT>>>
+`
+        });
+    }
 
 
     console.log(`Summarizing: ${preRssJsonItem.link}`);

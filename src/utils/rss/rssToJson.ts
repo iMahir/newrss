@@ -38,7 +38,11 @@ export const rssToJson = async (feed: Feed): Promise<PreRssJson> => {
                 author: item.author ?? null,
                 content: item.content ?? null,
                 thumbnail: item.enclosure?.url ?? null,
-                pubDate: item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString()
+                pubDate: item.pubDate
+                    ? !isNaN(new Date(item.pubDate).getTime())
+                        ? new Date(item.pubDate).toISOString()
+                        : new Date().toISOString()
+                    : new Date().toISOString()
             }
         })
     }
