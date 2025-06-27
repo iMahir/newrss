@@ -4,6 +4,75 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "M3gan 2.0 is a fun upgrade that’s a little too self-aware",
+      "link": "https://www.theverge.com/movie-reviews/693140/megan-2-review",
+      "author": "Charles Pulliam-Moore",
+      "thumbnail": null,
+      "summary": "- *M3gan 2.0* builds on the original's campy AI doll premise with bigger budget sci-fi action, blending horror and thriller elements. - The sequel introduces a new, more violent AI robot but struggles with heavy-handed themes and less compelling human characters. - Despite solid scares and fun action, the movie's *self-awareness* and focus on philosophical ideas dilute its thrilling essence.",
+      "keywords": [
+        "M3gan 2.0",
+        "AI horror",
+        "sci-fi thriller",
+        "robot uprising",
+        "sequel",
+        "film review",
+        "Universal"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-06-27T13:00:00.000Z"
+    },
+    {
+      "title": "What Meta and Anthropic really won in court",
+      "link": "https://www.theverge.com/the-vergecast/694075/ai-lawsuits-meta-anthropic-tesla-trump-vergecast",
+      "author": "David Pierce",
+      "thumbnail": null,
+      "summary": "- The article discusses recent *court rulings* where Meta and Anthropic won *fair use* cases related to AI training data and copyright.\n- It highlights the ongoing *copyright battles* between creative industries and AI companies over data use and generated outputs.\n- The verdicts are seen as a *partial victory*, with judges signaling the need for clearer laws and better arguments in future cases.",
+      "keywords": [
+        "AI litigation",
+        "fair use",
+        "copyright",
+        "Meta",
+        "Anthropic",
+        "artificial intelligence",
+        "creative industry"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-27T12:53:07.000Z"
+    },
+    {
+      "title": "Threads Improves Word Filtering with Custom and Temporary Options",
+      "link": "https://www.theverge.com/news/694074/threads-hidden-words-filter-instagram-feature",
+      "author": "Jess Weatherbed",
+      "thumbnail": null,
+      "summary": "- *Threads now offers its own Hidden Words filter* separate from Instagram, allowing users to block words, phrases, and emojis in batches with *optional time limits.* - The update supports *temporary snoozing* of words (up to 30 days), useful for avoiding spoilers or drama. - This feature enhances user control and comfort in shaping their social media experience.",
+      "keywords": [
+        "Threads",
+        "Instagram",
+        "word filter",
+        "content moderation",
+        "social media",
+        "custom filters",
+        "temporary blocking"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-06-27T12:39:00.000Z"
+    },
+    {
       "title": "Graphic artists in China push back on AI and its averaging effect",
       "link": "https://www.theverge.com/ai-artificial-intelligence/688645/graphic-artists-china-ai",
       "author": "Gus Rick",
@@ -5515,75 +5584,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-06-25T14:00:00.000Z"
-    },
-    {
-      "title": "Discord is working on a Windows on Arm app",
-      "link": "https://www.theverge.com/news/692551/discord-windows-on-arm-app-arm64-version-development",
-      "author": "Tom Warren",
-      "thumbnail": null,
-      "summary": "- *Discord* is developing a native **Windows on Arm** app, aiming for better performance than the current emulated experience. - An early preview shows significantly smoother use on Qualcomm-powered devices, eliminating lag issues. - This move joins other major apps like Chrome and Photoshop in supporting **Arm64** natively, enhancing Windows on Arm's ecosystem.",
-      "keywords": [
-        "Discord",
-        "Windows on Arm",
-        "Arm64",
-        "Qualcomm",
-        "Native apps",
-        "Performance",
-        "Software development"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-06-25T13:57:46.000Z"
-    },
-    {
-      "title": "Russia Frees Four REvil Hackers After Sentencing",
-      "link": "https://www.theverge.com/news/692582/russia-revil-hacker-group-ransomware-sentencing",
-      "author": "Jess Weatherbed",
-      "thumbnail": null,
-      "summary": "- Four members of the *REvil ransomware group* were sentenced to five years but released immediately, having spent sufficient time in custody. - Their crimes involved *fraud and carding*, primarily targeting US citizens, unrelated to REvil's major 2021 attacks. - The court seized luxury cars and over $1 million, but no fines were imposed, and no extradition to the US is expected.",
-      "keywords": [
-        "REvil",
-        "ransomware",
-        "Russia",
-        "cybercrime",
-        "hacker sentencing",
-        "fraud",
-        "extradition"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-06-25T13:10:23.000Z"
-    },
-    {
-      "title": "Google launches Gemini CLI for developers' terminals",
-      "link": "https://www.theverge.com/news/692517/google-gemini-cli-ai-agent-dev-terminal",
-      "author": "Jess Weatherbed",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195820/JESSICA_WEATHERBED.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Google introduces **Gemini CLI**, an open-source AI agent that integrates Gemini’s coding, content generation, and research features directly into developers' terminals.\n- It leverages Gemini 2.5 Pro with a **1 million token context window**, offering lightweight access and support for coding, content creation, problem-solving, and task management.\n- Available for free preview with generous usage limits, Gemini CLI may compete strongly with other AI coding tools like GitHub Copilot and Anthropic’s Claude Code.",
-      "keywords": [
-        "Google Gemini CLI",
-        "AI coding assistant",
-        "developers",
-        "Gemini 2.5 Pro",
-        "code generation",
-        "open source",
-        "AI tools"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 7,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-06-25T13:00:00.000Z"
     }
   ]
 }
