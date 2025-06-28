@@ -4,6 +4,28 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Authors Urge Publishers to Limit AI Use",
+      "link": "https://techcrunch.com/2025/06/28/authors-call-on-publishers-to-limit-their-use-of-ai/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- A group of authors including Lauren Groff and Lev Grossman signed an **open letter** urging book publishers to *limit AI usage*, such as only hiring *human audiobook narrators*.  \n- They argue their work has been *exploited* by AI companies without compensation, calling for a pledge to never release *AI-created books* or replace human staff with AI.  \n- Despite authors suing tech firms over unauthorized AI training, recent federal court rulings have favored companies like Meta and Anthropic.",
+      "keywords": [
+        "authors",
+        "AI",
+        "book publishing",
+        "copyright",
+        "lawsuit",
+        "open letter"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-06-28T20:51:36.000Z"
+    },
+    {
       "title": "Meta Hires Four More AI Researchers from OpenAI Amid Llama 4 Challenges",
       "link": "https://techcrunch.com/2025/06/28/meta-reportedly-hires-four-more-researchers-from-openai/",
       "author": null,
@@ -2761,29 +2783,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-06-26T16:13:59.000Z"
-    },
-    {
-      "title": "Google launches Offerwall to help publishers amid AI-induced traffic loss",
-      "link": "https://techcrunch.com/2025/06/26/as-ai-kills-search-traffic-google-launches-offerwall-to-boost-publisher-revenue/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Google introduced **Offerwall**, a new tool in Google Ad Manager enabling publishers to monetize content beyond traditional ads using **micro payments, surveys, ads, and more**.\n- The tool employs AI to optimize when it appears to visitors and allows customization; early testing showed a **5-15% revenue lift** for publishers.\n- Offerwall integrates third-party services like **Supertab** for flexible paid access, aiming to counteract the decline in search traffic caused by AI features.",
-      "keywords": [
-        "Google",
-        "Offerwall",
-        "Publisher Revenue",
-        "AI Search",
-        "Monetization",
-        "Micro Payments",
-        "Ad Manager"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-06-26T16:04:10.000Z"
     }
   ]
 }
