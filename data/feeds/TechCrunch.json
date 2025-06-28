@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "FBI and Cybersecurity Firms Warn Scattered Spider Hackers Target Airlines",
+      "link": "https://techcrunch.com/2025/06/28/fbi-cybersecurity-firms-say-scattered-spider-hackers-now-targeting-airlines-transportation-sector/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- The FBI and cybersecurity companies report that the hacking group *Scattered Spider* is now targeting the *airlines and transportation sector*, including trusted vendors and contractors.\n- Known for *social engineering*, phishing, and sometimes threatening violence to extort data and deploy ransomware, Scattered Spider has recently attacked *Hawaiian Airlines* and *WestJet*.\n- This shift follows previous cyberattacks on the *UK retail*, insurance, hotel, casino, and tech industries by the gang, raising broad concerns for *large corporations and third-party providers*.",
+      "keywords": [
+        "Scattered Spider",
+        "cybersecurity",
+        "airlines",
+        "transportation sector",
+        "social engineering",
+        "phishing",
+        "ransomware"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 7,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-06-28T13:30:00.000Z"
+    },
+    {
       "title": "Rob Biederman to Guide Founders on Scaling at TechCrunch All Stage 2025",
       "link": "https://techcrunch.com/2025/06/27/at-techcrunch-all-stage-2025-rob-biederman-will-help-founders-rethink-how-to-scale/",
       "author": null,
@@ -2760,28 +2783,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-06-26T14:21:28.000Z"
-    },
-    {
-      "title": "YouTube adds AI Overviews-like search results carousel",
-      "link": "https://techcrunch.com/2025/06/26/youtube-adds-an-ai-overviews-like-search-results-carousel/",
-      "author": "Aisha Malik",
-      "thumbnail": null,
-      "summary": "- YouTube launches an *AI-powered search results carousel* for Premium U.S. users, providing AI-generated video suggestions and descriptions for searches about shopping, places, and activities.  - This feature resembles *Google’s AI Overviews* and aims to improve content discovery but may reduce creators' engagement and revenue.  - Additionally, YouTube expands access to its *conversational AI tool* helping users get info, summaries, and recommendations from videos in an interactive way.",
-      "keywords": [
-        "YouTube",
-        "AI Search",
-        "Content Discovery",
-        "Conversational AI",
-        "Video Engagement",
-        "Google AI Overviews"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-06-26T14:08:38.000Z"
     }
   ]
 }
