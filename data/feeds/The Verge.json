@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Facebook is starting to feed its AI with private, unpublished photos",
+      "link": "https://www.theverge.com/meta/694685/meta-ai-camera-roll",
+      "author": "Tina Nguyen",
+      "thumbnail": null,
+      "summary": "- Meta is expanding its AI training data to include billions of unpublished photos from users' camera rolls through an opt-in 'cloud processing' feature.  \n- This feature allows Meta's AI to analyze private photos, facial features, and other metadata, raising privacy concerns since it's unclear if these images are excluded from AI training.  \n- Users can opt out to remove photos after 30 days, but Meta is already offering AI-enhanced suggestions on past photos without explicit user consent, signaling a deeper invasion of privacy beyond posted content.  ",
+      "keywords": [
+        "Meta",
+        "Facebook",
+        "AI training",
+        "private photos",
+        "camera roll",
+        "privacy",
+        "data usage"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-06-27T23:30:00.000Z"
+    },
+    {
       "title": "US Critical Infrastructure Cyber Vulnerability",
       "link": "https://www.theverge.com/cyber-security/693588/cybersecurity-cyberattack-critical-infrastructure-war-expert-iran",
       "author": "Justine Calma",
@@ -5556,29 +5579,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-06-26T00:13:44.000Z"
-    },
-    {
-      "title": "Anthropic adds AI app building inside Claude chatbot",
-      "link": "https://www.theverge.com/news/693342/anthropic-claude-ai-apps-artifact",
-      "author": "Jay Peters",
-      "thumbnail": null,
-      "summary": "- Anthropic's Claude AI chatbot now lets users *build AI-powered apps* directly within the app using a new beta feature. - Users simply describe their desired app, and Claude writes the code and shows results interactively. - Created apps include games, learning tools, and workflows, and can be shared with API interaction counted on the app user's subscription.",
-      "keywords": [
-        "Anthropic",
-        "Claude AI",
-        "AI apps",
-        "chatbot",
-        "code generation",
-        "API",
-        "beta feature"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 6,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-06-25T22:33:29.000Z"
     }
   ]
 }
