@@ -4,6 +4,52 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Week in Review: Meta’s AI recruiting blitz",
+      "link": "https://techcrunch.com/2025/06/28/week-in-review-metas-ai-recruiting-blitz/",
+      "author": null,
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/06/redwoodmaterials.jpg",
+      "summary": "- Meta has aggressively recruited top AI researchers from OpenAI, including Trapit Bansal, aiming to build a leading AI superintelligence team. \n- Travis Kalanick is reportedly planning a return to the self-driving car industry, targeting the acquisition of Pony AI's US operations with Uber's assistance. \n- A federal court ruled training AI on copyrighted books without permission can qualify as fair use, a significant win for AI companies but controversial among creatives.",
+      "keywords": [
+        "Meta",
+        "AI Recruiting",
+        "OpenAI",
+        "Travis Kalanick",
+        "Self-driving cars",
+        "Fair use",
+        "Artificial intelligence"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-28T17:05:00.000Z"
+    },
+    {
+      "title": "Vitalik Buterin Expresses Privacy Concerns Over Sam Altman’s World Digital ID Project",
+      "link": "https://techcrunch.com/2025/06/28/vitalik-buterin-has-reservations-about-sam-altmans-world-project/",
+      "author": "Anthony Ha",
+      "thumbnail": null,
+      "summary": "- Vitalik Buterin critiques the *World* project’s one-per-person digital ID system for risking loss of pseudonymity and increased privacy breaches.  \n- He warns that despite zero-knowledge proofs protecting anonymity superficially, governments could still compel revealing full user activity.  \n- Buterin advocates for a *pluralistic identity* approach without a single dominant authority as a better privacy-preserving solution.",
+      "keywords": [
+        "Digital Identity",
+        "Privacy",
+        "Vitalik Buterin",
+        "World Project",
+        "Zero-Knowledge Proofs",
+        "Pseudonymity",
+        "Blockchain"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-28T16:28:47.000Z"
+    },
+    {
       "title": "Anthropic’s Claude AI Became a Terrible Business Owner in a Weird Experiment",
       "link": "https://techcrunch.com/2025/06/28/anthropics-claude-ai-became-a-terrible-business-owner-in-experiment-that-got-weird/",
       "author": null,
@@ -2738,51 +2784,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-06-26T15:30:00.000Z"
-    },
-    {
-      "title": "Jeff Bezos Courts Trump Following Musk Spat",
-      "link": "https://techcrunch.com/2025/06/26/jeff-bezos-is-reportedly-courting-trump-after-public-spat-with-musk/",
-      "author": null,
-      "thumbnail": "https://techcrunch.com/wp-content/uploads/2021/07/bezos_space.jpg",
-      "summary": "- Jeff Bezos is leveraging the recent *public spat* between Donald Trump and Elon Musk to strengthen ties with Trump and boost *Blue Origin*'s government contracts. - Bezos spoke twice with Trump, with Blue Origin's CEO meeting Trump’s chief of staff; Trump expressed interest in a *crewed Moon mission* during his term. - This move follows Musk's feud with Trump, including threats over Musk’s government subsidies and NASA leadership conflicts, highlighting a strategic pivot toward lunar missions.",
-      "keywords": [
-        "Jeff Bezos",
-        "Donald Trump",
-        "Elon Musk",
-        "Blue Origin",
-        "SpaceX",
-        "NASA",
-        "Moon mission"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 6,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-06-26T14:35:21.000Z"
-    },
-    {
-      "title": "People use AI for companionship much less than we’re led to believe",
-      "link": "https://techcrunch.com/2025/06/26/people-use-ai-for-companionship-much-less-than-were-led-to-believe/",
-      "author": "Ram Iyer",
-      "thumbnail": null,
-      "summary": "- A report by Anthropic reveals only *2.9%* of interactions with the AI chatbot Claude involve emotional support or personal advice, with *companionship and roleplay under 0.5%*.  \n- Most users engage Claude for *work and productivity*, especially content creation, though some turn to it for coaching and mental health advice.  \n- Chatbots remain imperfect, prone to *hallucinations, wrong information,* and potential *safety risks*, highlighting the current limits of AI companionship.",
-      "keywords": [
-        "AI companionship",
-        "Anthropic Claude",
-        "emotional support",
-        "chatbots",
-        "AI trustworthiness",
-        "AI usage patterns"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 4,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-06-26T14:21:28.000Z"
     }
   ]
 }
