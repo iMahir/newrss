@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Hollywood’s Pivot to AI Video Has a Prompting Problem",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/694687/asteria-bryn-mooser-uncanny-valley-gen-ai",
+      "author": "Charles Pulliam-Moore",
+      "thumbnail": null,
+      "summary": "- Hollywood is rapidly encountering AI-generated videos that often look poor but are hailed as revolutionary by enthusiasts, despite current AI outputs not being film-quality. \n- Bryn Mooser’s Asteria aims to create *ethical* AI tools trained on licensed materials for filmmakers, allowing granular control through model customization, showcased in projects like Cuco's animated short.\n- While AI may lower production costs and accelerate filmmaking, it raises concerns about job losses and the loss of creative nuance; Mooser advocates for balanced adoption where AI aids artists without replacing them.",
+      "keywords": [
+        "Hollywood",
+        "AI-generated video",
+        "Asteria",
+        "Bryn Mooser",
+        "ethical AI",
+        "film production",
+        "generative AI"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-06-29T15:00:00.000Z"
+    },
+    {
       "title": "The unbearable obviousness of AI fitness summaries",
       "link": "https://www.theverge.com/fitness-trackers/694140/ai-summaries-fitness-apps-strava-oura-whoop-wearables",
       "author": "Victoria Song",
@@ -5723,29 +5746,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-06-26T16:22:57.000Z"
-    },
-    {
-      "title": "Google’s Gemini AI Fills Empty Cells in Sheets",
-      "link": "https://www.theverge.com/news/693629/google-gemini-sheets-empty-cells-ai-function",
-      "author": "Emma Roth",
-      "thumbnail": null,
-      "summary": "- **Google Gemini AI** introduces a new Sheets function to generate text that fills spreadsheet cells, such as ad copy or customer feedback summaries. - The AI can reference specific cells but is limited to text-only responses and 200 cells at a time. - This feature is rolling out to select **Google Workspace**, Gemini AI Pro/Ultra, and Education plan users.",
-      "keywords": [
-        "Google Gemini",
-        "Google Sheets",
-        "AI function",
-        "Spreadsheet automation",
-        "Workspace",
-        "Text generation",
-        "Data summarization"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 6,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-06-26T16:17:20.000Z"
     }
   ]
 }
