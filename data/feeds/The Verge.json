@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "The unbearable obviousness of AI fitness summaries",
+      "link": "https://www.theverge.com/fitness-trackers/694140/ai-summaries-fitness-apps-strava-oura-whoop-wearables",
+      "author": "Victoria Song",
+      "thumbnail": null,
+      "summary": "- AI-generated fitness summaries in apps like Strava, Whoop, and Oura often regurgitate visible data without meaningful insights or personalization.  \n- These summaries fail to account for contextual factors such as injuries, weather conditions, and personal health history, limiting their usefulness.  \n- Despite user engagement, current AI fitness summaries mostly offer generic feedback, balancing between *speed*, *cost*, *privacy*, and *liability*, but fall short of delivering actionable, personalized advice.",
+      "keywords": [
+        "AI fitness summaries",
+        "wearables",
+        "health data",
+        "personalization",
+        "Strava",
+        "Whoop",
+        "Oura"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-06-29T14:00:00.000Z"
+    },
+    {
       "title": "Pipistrello and the Cursed Yoyo would feel right at home on your GBA",
       "link": "https://www.theverge.com/games-review/692172/pipistrello-and-the-cursed-yoyo-review",
       "author": "Jay Peters",
@@ -5723,29 +5746,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-06-26T16:17:20.000Z"
-    },
-    {
-      "title": "Microsoft moves antivirus providers out of the Windows kernel",
-      "link": "https://www.theverge.com/news/692637/microsoft-windows-kernel-antivirus-changes",
-      "author": "Tom Warren",
-      "thumbnail": null,
-      "summary": "- Microsoft is developing a new Windows endpoint security platform to move antivirus (AV) and EDR apps out of the Windows kernel, reducing the risk of system crashes like last year’s CrowdStrike update issue. - The initiative involves collaboration with major vendors like CrowdStrike, Bitdefender, and Trend Micro, focusing on building a secure and reliable API together. - A private preview for security vendors will launch soon, with plans to also address kernel-level anti-cheating drivers in games in the future.",
-      "keywords": [
-        "Microsoft",
-        "Windows kernel",
-        "antivirus",
-        "endpoint security",
-        "CrowdStrike",
-        "EDR",
-        "security platform"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-06-26T16:00:00.000Z"
     }
   ]
 }
