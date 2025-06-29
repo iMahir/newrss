@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theguardian.com/us/technology/rss",
   "items": [
     {
+      "title": "‘Lidar is lame’: why Elon Musk’s vision for a self-driving Tesla taxi faltered",
+      "link": "https://www.theguardian.com/technology/2025/jun/29/elon-musk-tesla-robotaxi",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Elon Musk launched a limited Tesla robotaxi pilot in Austin relying solely on camera-based self-driving tech, but issues like traffic violations and vehicle misbehavior led to a government investigation.  \n- Tesla rejects lidar and radar, technologies used by rivals such as Waymo, despite lidar’s superior object detection in adverse conditions; this choice has resulted in crashes and lawsuits.  \n- Compared to Waymo’s cautious city-mapping approach, Tesla rushed to launch without permits or extensive testing, risking safety and regulatory backlash as Musk’s decade-old promises face mounting challenges.",
+      "keywords": [
+        "Tesla",
+        "Elon Musk",
+        "robotaxi",
+        "self-driving cars",
+        "lidar",
+        "autonomous vehicles",
+        "Waymo"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-29T10:00:51.000Z"
+    },
+    {
       "title": "Online hacks to offline heists: crypto leaders on edge amid increasing attacks",
       "link": "https://www.theguardian.com/technology/2025/jun/28/cryptocurrency-hacks-kidnappings-crime",
       "author": null,
@@ -2802,32 +2825,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-06-20T04:10:02.000Z"
-    },
-    {
-      "title": "Uber's Algorithm Change Reduces Driver Earnings by Increasing Company Take",
-      "link": "https://www.theguardian.com/technology/2025/jun/19/rough-ride-uber-quietly-took-more-fare-algorithm-change",
-      "author": null,
-      "thumbnail": null,
-      "summary": "A University of Oxford study reveals Uber's 2023 dynamic pricing algorithm has significantly increased the company's share of fares, reducing UK drivers' earnings and introducing unpredictability in pay. This insight underscores ongoing challenges for gig workers facing opaque wage structures in growing tech platforms.",
-      "keywords": [
-        "Uber",
-        "dynamic pricing",
-        "gig economy",
-        "ride-hailing",
-        "driver earnings",
-        "algorithm",
-        "UK",
-        "gig workers",
-        "ride fares",
-        "worker rights"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-06-19T17:46:52.000Z"
     }
   ]
 }
