@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Spotify adds genre personalization to Discover Weekly",
+      "link": "https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres",
+      "author": "Mia Sato",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195839/MIA_SATO.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Spotify is enhancing its popular *Discover Weekly* playlist by adding genre-specific buttons like pop, R&B, and funk to allow users to customize their music recommendations.\n- This update addresses past complaints about repetitive song suggestions and inaccurate genre classifications, alongside a refreshed playlist cover art.\n- The change reflects Spotify’s ongoing commitment to *hyper-personalization* through AI-driven features such as an AI DJ and text-to-playlist builder tools.",
+      "keywords": [
+        "Spotify",
+        "Discover Weekly",
+        "personalization",
+        "music streaming",
+        "genre controls",
+        "AI",
+        "playlists"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-30T10:00:00.000Z"
+    },
+    {
       "title": "Hollywood’s Pivot to AI Video Has a Prompting Problem",
       "link": "https://www.theverge.com/ai-artificial-intelligence/694687/asteria-bryn-mooser-uncanny-valley-gen-ai",
       "author": "Charles Pulliam-Moore",
@@ -5724,28 +5747,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-06-26T16:24:50.000Z"
-    },
-    {
-      "title": "YouTube launches AI-powered search results carousel",
-      "link": "https://www.theverge.com/news/693658/youtube-search-ai-overviews-google",
-      "author": "Jay Peters",
-      "thumbnail": null,
-      "summary": "- **YouTube introduces an AI-powered search results carousel** for Premium members in the US focused on shopping, travel, and local activities.\n- The feature displays a large top video, thumbnails of relevant clips, and an AI-generated text summary, currently on iOS and Android.\n- Access is limited to randomly selected Premium users until July 30th; conversational AI features also expand to some non-Premium US users.",
-      "keywords": [
-        "YouTube",
-        "AI search",
-        "Premium feature",
-        "video carousel",
-        "conversational AI",
-        "US users"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-06-26T16:22:57.000Z"
     }
   ]
 }
