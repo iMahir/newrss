@@ -4,6 +4,62 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Tumblr's Move to WordPress and Fediverse Integration on Hold",
+      "link": "https://www.theverge.com/news/695124/tumblr-wordpress-automattic-fediverse-integration-on-hold-decoder",
+      "author": "Jay Peters",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195819/JAY_PETERS.0.jpg?quality=90&strip=all&crop=0,0,100,100&w=96",
+      "summary": "- Automattic CEO Matt Mullenweg announced that the plan to migrate Tumblr's backend to WordPress is currently *on hold* to prioritize user-focused improvements. - The migration would have enabled Tumblr posts to join the *fediverse* via WordPress' ActivityPub plugin, but this feature is delayed along with the move. - Mullenweg remains interested in the migration for its cleaner structure and says if fediverse integration is urgently needed, it might be implemented directly on Tumblr's codebase.",
+      "keywords": [
+        "Tumblr",
+        "WordPress",
+        "Automattic",
+        "fediverse",
+        "ActivityPub",
+        "blogging",
+        "platform migration"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 6,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-06-30T15:47:13.000Z"
+    },
+    {
+      "title": "The best fitness trackers and watches we’ve tested",
+      "link": "https://www.theverge.com/22985108/best-fitness-tracker",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-06-30T15:46:56.000Z"
+    },
+    {
+      "title": "Apple Music celebrates 10 years with Replay All Time playlist",
+      "link": "https://www.theverge.com/news/695058/apple-music-10th-anniversary-replay-all-time",
+      "author": "Jess Weatherbed",
+      "thumbnail": null,
+      "summary": "- Apple Music marks its 10th anniversary by launching the *Replay All Time* playlist, letting subscribers revisit their most played songs since 2015.  \n- The service will also broadcast the top 500 most-streamed songs from the past decade via Apple Music Radio, with a special countdown and programming.  \n- A new 15,000 sq. ft. artist studio in Los Angeles will open this summer, featuring advanced sound and media production facilities.",
+      "keywords": [
+        "Apple Music",
+        "10th anniversary",
+        "Replay All Time",
+        "music streaming",
+        "Apple Music Radio",
+        "artist studio",
+        "celebration"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 6,
+        "novelty": 7,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-06-30T15:25:43.000Z"
+    },
+    {
       "title": "Canada drops Big Tech tax to appease Trump",
       "link": "https://www.theverge.com/news/695083/canada-digital-services-tax-rescinded-trump",
       "author": "Emma Roth",
@@ -5832,75 +5888,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-06-27T12:53:07.000Z"
-    },
-    {
-      "title": "Threads Improves Word Filtering with Custom and Temporary Options",
-      "link": "https://www.theverge.com/news/694074/threads-hidden-words-filter-instagram-feature",
-      "author": "Jess Weatherbed",
-      "thumbnail": null,
-      "summary": "- *Threads now offers its own Hidden Words filter* separate from Instagram, allowing users to block words, phrases, and emojis in batches with *optional time limits.* - The update supports *temporary snoozing* of words (up to 30 days), useful for avoiding spoilers or drama. - This feature enhances user control and comfort in shaping their social media experience.",
-      "keywords": [
-        "Threads",
-        "Instagram",
-        "word filter",
-        "content moderation",
-        "social media",
-        "custom filters",
-        "temporary blocking"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-06-27T12:39:00.000Z"
-    },
-    {
-      "title": "Graphic artists in China push back on AI and its averaging effect",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/688645/graphic-artists-china-ai",
-      "author": "Gus Rick",
-      "thumbnail": null,
-      "summary": "- *Chinese graphic artists* face challenges as AI image generators alter the creative process and client expectations. - AI enables quick style copying but often produces low-quality or unoriginal results, useful more as *a toy than a tool*. - Designers stress that their work involves *creative strategy* beyond image production, now undervalued by clients expecting faster, cheaper outputs.",
-      "keywords": [
-        "AI image generators",
-        "graphic design",
-        "China",
-        "creative process",
-        "client expectations",
-        "DALL-E",
-        "advertising"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-06-27T12:00:00.000Z"
-    },
-    {
-      "title": "Redwood Materials Repurposes Old EV Batteries into Cost-Effective Microgrids",
-      "link": "https://www.theverge.com/news/693726/redwood-materials-is-giving-old-ev-batteries-a-second-life-as-microgrids",
-      "author": "Andrew J. Hawkins",
-      "thumbnail": null,
-      "summary": "- *Redwood Materials* repurposes old EV batteries into *low-cost, large-scale energy storage systems* instead of recycling them immediately.\n- The company manages over 20 GWh of batteries annually, with many still retaining up to *50% usable capacity*.\n- Its first microgrid in Nevada powers a 2,000-GPU data center, demonstrating a sustainable *second-life battery deployment* with significant energy capacity.",
-      "keywords": [
-        "Redwood Materials",
-        "EV batteries",
-        "battery recycling",
-        "energy storage",
-        "microgrids",
-        "sustainability",
-        "renewable energy"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-06-27T03:30:00.000Z"
     }
   ]
 }
