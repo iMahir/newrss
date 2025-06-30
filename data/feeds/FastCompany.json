@@ -4,6 +4,29 @@
   "feedUrl": "https://www.fastcompany.com/technology/rss",
   "items": [
     {
+      "title": "The sneaky way to to deal with public Wi-Fi restrictions",
+      "link": "https://www.fastcompany.com/91360168/the-sneaky-way-to-to-deal-with-public-wi-fi-restrictions?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- You can *relay a Wi-Fi connection* from your Android phone or laptop to bypass login restrictions on devices that can't navigate captive portals, like in-flight or hotel Wi-Fi networks.\n- This method saves money when device limits or extra connection fees apply, by making multiple devices appear as one to the network.\n- *iPhones can't share local Wi-Fi* via hotspot, but Windows 11 and macOS support Wi-Fi sharing to distribute the connection to other devices seamlessly.",
+      "keywords": [
+        "Wi-Fi sharing",
+        "personal hotspot",
+        "public Wi-Fi",
+        "network restrictions",
+        "captive portal",
+        "Android",
+        "laptop internet sharing"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-06-30T11:00:00.000Z"
+    },
+    {
       "title": "These three underrated features make ChatGPT way better",
       "link": "https://www.fastcompany.com/91359840/chatgpt-tips?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
       "author": "Doug Aamoth",
@@ -4449,29 +4472,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-06-23T09:11:00.000Z"
-    },
-    {
-      "title": "The internet of agents is rising fast, and publishers are nowhere near ready",
-      "link": "https://www.fastcompany.com/91354919/internet-of-agents-rising-fast-publishers?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "author": "Pete Pachal",
-      "thumbnail": "https://images.fastcompany.com/image/upload/f_webp,c_fit,w_256,q_auto/wp-cms-2/2025/03/Petchal_Pete_grey_500x500.jpg",
-      "summary": "- *AI-driven bot traffic* to media websites has skyrocketed, drastically impacting publisher revenues as bots bypass traditional engagement mechanisms and blockades.\n- AI companies increasingly *ignore robots.txt* protocols for 'user agent bots,' treating bots as extensions of human users, complicating content access control.\n- Publishers are exploring hard paywalls and legal actions, but the rise of human-like bots demands *new strategies* to protect content and revenue streams.",
-      "keywords": [
-        "AI bots",
-        "publishers",
-        "robots.txt",
-        "internet of agents",
-        "media revenue",
-        "content access",
-        "legal challenges"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-06-23T09:00:00.000Z"
     }
   ]
 }

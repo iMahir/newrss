@@ -4,6 +4,29 @@
   "feedUrl": "https://www.qualitymag.com/rss/17",
   "items": [
     {
+      "title": "Advancements in Industrial X-Ray Computed Tomography",
+      "link": "https://www.qualitymag.com/articles/98875-advancements-in-industrial-x-ray-computed-tomography",
+      "author": "Paul Brackman",
+      "thumbnail": "https://www.qualitymag.com/ext/resources/Issues/2025/07-July/NDT/AS0725-AerospaceCT-p1FT-Blade-Scan-1.jpg?1751280109",
+      "summary": "- *Industrial X-Ray computed tomography (CT)* modernizes aerospace manufacturing by increasing inspection speed, repeatability, and defect detection accuracy, helping to address a historic backlog of over 17,000 unfilled aircraft orders.  \n- Unlike legacy nondestructive evaluation (NDE) methods, digital X-ray CT efficiently captures *complete 3D data* requiring less skilled labor and automates defect detection with AI, increasing accuracy by up to 50%.  \n- The resulting *digital twins* enable process improvement through data archiving, enhanced supplier traceability, and accelerated additive manufacturing workflows, positioning aerospace firms for a more agile, digitally integrated future.",
+      "keywords": [
+        "industrial X-Ray CT",
+        "aerospace manufacturing",
+        "digital twin",
+        "nondestructive evaluation",
+        "additive manufacturing",
+        "AI inspection",
+        "quality control"
+      ],
+      "scores": {
+        "scale": 9,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-06-30T04:00:00.000Z"
+    },
+    {
       "title": "The Role of Microtesters in Materials Testing Today",
       "link": "https://www.qualitymag.com/articles/98874-the-role-of-microtesters-in-materials-testing-today",
       "author": null,
@@ -1122,37 +1145,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-06-09T14:05:38.000Z"
-    },
-    {
-      "title": "How Additive Manufacturing is Revolutionizing Aerospace Repair and Maintenance",
-      "link": "https://www.qualitymag.com/articles/98814-how-additive-manufacturing-technology-is-transforming-repair-and-maintenance-strategies",
-      "author": "Behrang Poorganji",
-      "thumbnail": "https://www.qualitymag.com/ext/resources/Issues/2025/07-July/Features/AS0725-Aerospace-AdditiveNikon-p1FT-8Nikon-Lasermeister-Turbine-blade-repair-sample.jpg?1749538581",
-      "summary": "Additive manufacturing, especially Directed Energy Deposition (DED), is transforming aerospace repair by enabling cost-effective, rapid restoration and enhancement of high-value components. Integration with digital workflows ensures precise, traceable repairs that extend component life and sustain fleet performance amid aging aircraft challenges. This innovation promises significant economic and sustainability benefits crucial for modern aviation.",
-      "keywords": [
-        "additive manufacturing",
-        "Directed Energy Deposition",
-        "DED",
-        "aerospace repair",
-        "aviation maintenance",
-        "digital manufacturing",
-        "3D scanning",
-        "metal additive manufacturing",
-        "Nickel superalloys",
-        "titanium alloys",
-        "material science",
-        "aerospace sustainability",
-        "component restoration",
-        "maintenance repair and operations",
-        "MRO"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-06-09T04:00:00.000Z"
     }
   ]
 }

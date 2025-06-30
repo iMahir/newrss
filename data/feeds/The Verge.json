@@ -4,6 +4,29 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Hundreds of Brother printer models have an unpatchable security flaw",
+      "link": "https://www.theverge.com/news/694877/brother-printers-security-flaw-password-vulnerability",
+      "author": "Jess Weatherbed",
+      "thumbnail": null,
+      "summary": "- **Eight vulnerabilities** were discovered in 689 Brother printer models, including one critical flaw that *cannot be patched* via firmware updates.  \n- The most severe issue, CVE-2024-51978, allows attackers who know the printer’s serial number to generate the default admin password, leading to further exploits.  \n- Brother will fix the flaw only in future manufacturing runs; current users must *manually change default passwords* to protect their devices.",
+      "keywords": [
+        "Brother printers",
+        "security vulnerability",
+        "default password",
+        "CVE-2024-51978",
+        "firmware update",
+        "printer security",
+        "Rapid7"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-06-30T10:20:23.000Z"
+    },
+    {
       "title": "Spotify adds genre personalization to Discover Weekly",
       "link": "https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres",
       "author": "Mia Sato",
@@ -5724,29 +5747,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-06-26T17:21:45.000Z"
-    },
-    {
-      "title": "The pharma CEOs aren’t safe in new trailer for Yorgos Lanthimos’ Bugonia",
-      "link": "https://www.theverge.com/film/693606/bugonia-yorgos-lanthimos-trailer-premiere-date",
-      "author": "Charles Pulliam-Moore",
-      "thumbnail": null,
-      "summary": "- *Bugonia*, directed by Yorgos Lanthimos, is a remake of the 2003 South Korean film *Save the Green Planet*. - The story follows Teddy, a beekeeper and pharma worker, who believes CEO Michelle is alien, sparking a kidnapping plot. - The film explores *economic inequality* and *mental health* struggles, premiering October 24 with a wide release on October 31.",
-      "keywords": [
-        "Yorgos Lanthimos",
-        "Bugonia",
-        "economic inequality",
-        "mental health",
-        "pharmaceutical industry",
-        "film remake",
-        "thriller"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 6,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-06-26T16:24:50.000Z"
     }
   ]
 }
