@@ -4,6 +4,50 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Apple accuses former Vision Pro engineer of stealing trade secrets",
+      "link": "https://www.theverge.com/news/695929/apple-lawsuit-vision-pro-secrets-snap",
+      "author": "Jess Weatherbed",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195820/JESSICA_WEATHERBED.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+      "summary": "- Apple is suing Di Liu, a former senior design engineer for the Vision Pro, for allegedly downloading thousands of proprietary documents and joining Snap's product design team without disclosing this information.\n- Liu reportedly concealed his new employment and deleted files from his work laptop to hide the data theft, with Apple concerned the stolen info overlaps with Snap's AR Spectacles products.\n- Apple seeks financial damages and the return of stolen documents, while Snap denies any related wrongdoing; this follows Apple's ongoing legal actions against former employees misappropriating secrets.",
+      "keywords": [
+        "Apple",
+        "Vision Pro",
+        "trade secrets",
+        "Snap",
+        "lawsuit",
+        "employee misconduct",
+        "AR Spectacles"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-07-01T17:03:08.000Z"
+    },
+    {
+      "title": "AT&T Launches Account Lock to Prevent SIM Swapping",
+      "link": "https://www.theverge.com/news/695916/att-account-lock-sim-swapping-attack",
+      "author": "Emma Roth",
+      "thumbnail": null,
+      "summary": "*AT&T introduces an *Account Lock* feature to safeguard against *SIM swapping* attacks.*\n- The feature, accessible via the myAT&T app, prevents unauthorized account changes such as phone number transfers and SIM swaps.\n- *SIM swapping* has become more common, allowing attackers to intercept messages and hijack accounts for two-factor authentication codes.\n*Other carriers like T-Mobile, Verizon, and Google Fi* already offer similar protections. AT&T began rolling out this year.*",
+      "keywords": [
+        "AT&T",
+        "SIM swapping",
+        "account security",
+        "mobile security",
+        "cybersecurity"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-07-01T16:36:28.000Z"
+    },
+    {
       "title": "Threads now has DMs",
       "link": "https://www.theverge.com/news/695743/threads-dms-direct-messaging-launch",
       "author": "Emma Roth",
@@ -2436,52 +2480,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-06-30T10:00:00.000Z"
-    },
-    {
-      "title": "Hollywood’s Pivot to AI Video Has a Prompting Problem",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/694687/asteria-bryn-mooser-uncanny-valley-gen-ai",
-      "author": "Charles Pulliam-Moore",
-      "thumbnail": null,
-      "summary": "- Hollywood is rapidly encountering AI-generated videos that often look poor but are hailed as revolutionary by enthusiasts, despite current AI outputs not being film-quality. \n- Bryn Mooser’s Asteria aims to create *ethical* AI tools trained on licensed materials for filmmakers, allowing granular control through model customization, showcased in projects like Cuco's animated short.\n- While AI may lower production costs and accelerate filmmaking, it raises concerns about job losses and the loss of creative nuance; Mooser advocates for balanced adoption where AI aids artists without replacing them.",
-      "keywords": [
-        "Hollywood",
-        "AI-generated video",
-        "Asteria",
-        "Bryn Mooser",
-        "ethical AI",
-        "film production",
-        "generative AI"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-06-29T15:00:00.000Z"
-    },
-    {
-      "title": "The unbearable obviousness of AI fitness summaries",
-      "link": "https://www.theverge.com/fitness-trackers/694140/ai-summaries-fitness-apps-strava-oura-whoop-wearables",
-      "author": "Victoria Song",
-      "thumbnail": null,
-      "summary": "- AI-generated fitness summaries in apps like Strava, Whoop, and Oura often regurgitate visible data without meaningful insights or personalization.  \n- These summaries fail to account for contextual factors such as injuries, weather conditions, and personal health history, limiting their usefulness.  \n- Despite user engagement, current AI fitness summaries mostly offer generic feedback, balancing between *speed*, *cost*, *privacy*, and *liability*, but fall short of delivering actionable, personalized advice.",
-      "keywords": [
-        "AI fitness summaries",
-        "wearables",
-        "health data",
-        "personalization",
-        "Strava",
-        "Whoop",
-        "Oura"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-06-29T14:00:00.000Z"
     }
   ]
 }
