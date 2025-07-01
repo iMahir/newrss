@@ -4,6 +4,39 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Can the music industry make AI the next Napster?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/695290/suno-udio-ai-music-legal-copyright-riaa",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-07-01T12:30:00.000Z"
+    },
+    {
+      "title": "Newark’s air traffic outages were just the tip of the iceberg",
+      "link": "https://www.theverge.com/planes/693562/newark-air-traffic-outages-faa-obsolete-tech",
+      "author": "Darryl Campbell",
+      "thumbnail": null,
+      "summary": "- Newark Liberty International Airport’s recent air traffic control outages highlight a nationwide crisis of aging technology and staffing shortages in the FAA’s air traffic control system.  \n- Despite promises of the NextGen air traffic system by 2025, modernization efforts lag far behind schedule, with critical infrastructure still decades old and often unsustainable.  \n- The FAA faces a severe shortage of controllers, forcing reduced flight volumes and overwork, with no quick fix in sight beyond sustained funding and political commitment to overhaul the system.",
+      "keywords": [
+        "FAA",
+        "air traffic control",
+        "NextGen",
+        "Newark Liberty Airport",
+        "staffing shortage",
+        "infrastructure",
+        "air traffic outages"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-07-01T12:00:00.000Z"
+    },
+    {
       "title": "Cloudflare will now block AI crawlers by default",
       "link": "https://www.theverge.com/news/695501/cloudflare-block-ai-crawlers-default",
       "author": null,
@@ -4282,51 +4315,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-06-27T22:31:35.000Z"
-    },
-    {
-      "title": "Logitech says all its webcams work with Nintendo Switch 2, save one",
-      "link": "https://www.theverge.com/news/694565/logitech-webcams-work-with-nintendo-switch-2",
-      "author": "Sean Hollister",
-      "thumbnail": null,
-      "summary": "- *Logitech confirms* that all its webcams except the high-end Brio 4K work *out of the box* with the Nintendo Switch 2's new GameChat feature.  \n- Manufacturers faced a *mystery* as many webcams initially failed to connect with the Switch 2 due to lack of official guidelines, forcing them to *reverse-engineer* compatibility and update firmware.  \n- Other brands like Elgato and Ugreen are also updating webcams for compatibility, while some users report unofficial Brio 4K support via firmware downgrades, albeit at *risk*.",
-      "keywords": [
-        "Logitech",
-        "Nintendo Switch 2",
-        "webcam compatibility",
-        "GameChat",
-        "firmware update",
-        "Brio 4K"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-06-27T20:43:48.000Z"
-    },
-    {
-      "title": "The Nothing Phone 3 might have the weirdest camera design out there",
-      "link": "https://www.theverge.com/news/694635/nothing-phone-3-camera-design-weird",
-      "author": "Jay Peters",
-      "thumbnail": null,
-      "summary": "- The *Nothing Phone 3* is rumored to feature a translucent back with a uniquely *weird camera layout*, including two cameras side by side and one isolated in a phone corner.\n- This design contrasts typical smartphone cameras that are neatly aligned in triangles or bars, presenting potentially the boldest layout yet, reminiscent but bolder than the Nothing 3A Pro.\n- Official teases, including a 50MP periscope lens image and a \"Glyph Matrix\" feature, suggest these designs are authentic; the phone will be revealed on July 1st alongside new headphones.",
-      "keywords": [
-        "Nothing Phone 3",
-        "camera design",
-        "smartphone",
-        "translucent back",
-        "Glyph Matrix",
-        "50MP periscope lens",
-        "Android Headlines"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 5,
-        "novelty": 8,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-06-27T20:33:15.000Z"
     }
   ]
 }
