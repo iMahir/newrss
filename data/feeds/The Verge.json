@@ -4,6 +4,27 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Figma is going public",
+      "link": "https://www.theverge.com/news/696253/figma-ipo-public-filing",
+      "author": "Emma Roth",
+      "thumbnail": null,
+      "summary": "*Figma, a collaborative interface design platform, has filed for an IPO, trading under 'FIG'.*\n*The company was nearly acquired by Adobe for $20 billion in 2022, but the deal was scrapped due to regulator pressure.\n*Figma's revenue grew to $228.2 million, with significant investments in AI to enhance design workflows.*",
+      "keywords": [
+        "Figma",
+        "IPO",
+        "Design Software",
+        "AI",
+        "Technology Investment"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-07-01T22:03:06.000Z"
+    },
+    {
       "title": "X introduces AI bots for Community Notes",
       "link": "https://www.theverge.com/news/696210/x-community-notes-ai-note-writers",
       "author": "Jay Peters",
@@ -2025,29 +2046,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-06-30T16:53:12.000Z"
-    },
-    {
-      "title": "Tumblr's Move to WordPress and Fediverse Integration on Hold",
-      "link": "https://www.theverge.com/news/695124/tumblr-wordpress-automattic-fediverse-integration-on-hold-decoder",
-      "author": "Jay Peters",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195819/JAY_PETERS.0.jpg?quality=90&strip=all&crop=0,0,100,100&w=96",
-      "summary": "- Automattic CEO Matt Mullenweg announced that the plan to migrate Tumblr's backend to WordPress is currently *on hold* to prioritize user-focused improvements. - The migration would have enabled Tumblr posts to join the *fediverse* via WordPress' ActivityPub plugin, but this feature is delayed along with the move. - Mullenweg remains interested in the migration for its cleaner structure and says if fediverse integration is urgently needed, it might be implemented directly on Tumblr's codebase.",
-      "keywords": [
-        "Tumblr",
-        "WordPress",
-        "Automattic",
-        "fediverse",
-        "ActivityPub",
-        "blogging",
-        "platform migration"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 6,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-06-30T15:47:13.000Z"
     }
   ]
 }
