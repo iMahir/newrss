@@ -4,6 +4,68 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "DJI's Power 2000 Portable Energy Station",
+      "link": "https://www.theverge.com/news/691111/dji-power-2000-station-price-date",
+      "author": "Thomas Ricker",
+      "thumbnail": null,
+      "summary": "*DJI launches the *Power 2000*, a portable power station with 2048Wh capacity and 3000W inverter.*\n- It supports *scalability with expansion batteries and solar charging*, making it versatile for *outdoor, work, or backup use*.\n- The system is designed for *ease of mobility*, with lightweight modules and remote management via the DJI Home app, but lacks high-amperage outputs for RVs or direct home integration.",
+      "keywords": [
+        "portable power station",
+        "DJI",
+        "solar charging",
+        "backup energy",
+        "expanding batteries"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-07-02T12:00:00.000Z"
+    },
+    {
+      "title": "Honor's Magic V5: The Thinnest Foldable Phone",
+      "link": "https://www.theverge.com/news/696456/honor-magic-v5-thinnest-foldable-phone-launch-specs",
+      "author": "Dominic Preston",
+      "thumbnail": null,
+      "summary": "- *Honor* announced the **Magic V5**, claiming it as the *world's thinnest* foldable phone, measuring **8.8mm** when folded (white version). \n- The device features **impressive specs** like Snapdragon 8 Elite, up to 16GB RAM, a 5,820mAh battery, **120Hz OLED screens**, and near **water/dust resistance**; but the *camera module* raises overall thickness. \n- Overall, this *milestone* in thickness highlights the **diminishing returns** in making foldables thinner, prompting manufacturers to explore *new design innovations*.",
+      "keywords": [
+        "Foldable Phones",
+        "Honor Magic V5",
+        "Smartphones",
+        "Device Design",
+        "Tech innovation"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-07-02T12:00:00.000Z"
+    },
+    {
+      "title": "Google Photos Update Enhances User Experience",
+      "link": "https://www.theverge.com/news/696480/google-photos-sees-several-app-improvements",
+      "author": "Jess Weatherbed",
+      "thumbnail": null,
+      "summary": "*Google Photos has been updated with a redesigned, more intuitive UI, including a new light mode that adapts to device themes.*\n- The update introduces *glanceable photo details* like date, time, and location at the top of each image.\n- Action menus now group options for photo management, including archiving, organizing, and managing stacks/bursts, improving usability for users on iPhone (with Android coming soon).",
+      "keywords": [
+        "Google Photos",
+        "UI update",
+        "photo management",
+        "app improvements"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-07-02T11:43:37.000Z"
+    },
+    {
       "title": "Paramount settles Trump lawsuit for $16M, enabling Skydance merger",
       "link": "https://www.theverge.com/news/696422/paramount-settlement-trump-cbs-lawsuit",
       "author": "Jess Weatherbed",
@@ -2017,48 +2079,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-06-30T18:35:36.000Z"
-    },
-    {
-      "title": "Microsoft Authenticator Ends Password Autofill Support",
-      "link": "https://www.theverge.com/news/695288/microsoft-authenticator-autofill-store-passwords",
-      "author": "Emma Roth",
-      "thumbnail": null,
-      "summary": "- Microsoft Authenticator will stop supporting password storage and autofill starting July, directing users to Microsoft Edge or other password managers.  \n- Saved payment information will be deleted in July, and passwords in August, with automatic syncing of passwords to Microsoft Edge offered.  \n- Authenticator will continue supporting *passkeys* for device-based authentication, while focusing password autofill features within Edge for improved management.",
-      "keywords": [
-        "Microsoft Authenticator",
-        "password management",
-        "Microsoft Edge",
-        "password autofill",
-        "passkeys",
-        "authentication"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-06-30T18:33:25.000Z"
-    },
-    {
-      "title": "Date Everything: A Romantic Comedy with Political Edge",
-      "link": "https://www.theverge.com/games/695123/date-everything-review-sassy-chap-games",
-      "author": "Ash Parrish",
-      "thumbnail": null,
-      "summary": "*Date Everything* subverts expectations with its *deep exploration of human relationships* and *sharp political satire.*\n- It features voice-acted characters of diverse backgrounds and inclusive content warnings.\n- The game combines humor, adult themes, and clever dialogue, offering a unique twist on the dating sim genre.\n\n  **Scores:** {\"scale\": 8, \"impact\": 7, \"novelty\": 8, \"longTermSignificance\": 6}\n- *Keywords:* dating sim, political satire, voice acting, diversity, humor",
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-06-30T18:00:07.000Z"
-    },
-    {
-      "title": "What&#8217;s on your desk, Kallie Plagge?",
-      "link": "https://www.theverge.com/tech/693207/home-office-desk-keychron-logitech-pikachu",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-06-30T18:00:00.000Z"
     }
   ]
 }

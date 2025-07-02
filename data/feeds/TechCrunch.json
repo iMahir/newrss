@@ -4,6 +4,29 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Qantas Hack Exposes Data of 6 Million Passengers",
+      "link": "https://techcrunch.com/2025/07/02/qantas-hack-results-in-theft-of-6-million-passengers-personal-data/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Australian airline *Qantas* experienced a **data breach** compromising personal details of at least 6 million passengers, including names and frequent flyer numbers.\n- The attack targeted a call center on June 30, stealing data like emails, phone numbers, and dates of birth.\n- The breach is part of a growing trend of airline cyberattacks, potentially linked to the hacker group *Scattered Spider*, known for sophisticated intrusions.",
+      "keywords": [
+        "Qantas",
+        "data breach",
+        "passenger data",
+        "Scattered Spider",
+        "cyberattack",
+        "airline security",
+        "call center hack"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-07-02T11:48:29.000Z"
+    },
+    {
       "title": "Jon McNeill brings the operator’s playbook to TechCrunch All Stage",
       "link": "https://techcrunch.com/2025/07/01/jon-mcneill-brings-the-operators-playbook-to-techcrunch-all-stage/",
       "author": null,
@@ -4259,29 +4282,6 @@
         "longTermSignificance": 9
       },
       "pubDate": "2025-06-30T17:56:25.000Z"
-    },
-    {
-      "title": "Privacy-focused app maker Proton sues Apple over anticompetitive practices",
-      "link": "https://techcrunch.com/2025/06/30/privacy-focused-app-maker-proton-sues-apple-over-alleged-anticompetitive-practices-and-fees/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Proton, maker of privacy apps like Proton Mail and Proton Drive, sued Apple alleging a monopoly on smartphone app distribution and payment processing with harmful *anticompetitive policies*.  - The lawsuit criticizes Apple’s high App Store fees, restrictions on direct customer communication, and limits on app functionality, claiming they harm developers and users alike.  - Proton highlights how Apple's control enables censorship in authoritarian regimes, affecting app availability and freedom of speech globally.",
-      "keywords": [
-        "Proton",
-        "Apple",
-        "App Store",
-        "antitrust",
-        "privacy",
-        "monopoly",
-        "censorship"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-06-30T17:51:29.000Z"
     }
   ]
 }
