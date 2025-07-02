@@ -4,6 +4,27 @@
   "feedUrl": "https://www.fastcompany.com/technology/rss",
   "items": [
     {
+      "title": "Building an Early Warning System for Disappearing Data",
+      "link": "https://www.fastcompany.com/91361607/americas-data-index-warning-system-for-disappearing-government-data?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+      "author": null,
+      "thumbnail": null,
+      "summary": "*A new project, America’s Data Index*, acts like a **weather forecast for government datasets, tracking changes and risks in real time.* The system monitors key datasets, legislative changes, and data expiration, alerting stakeholders before data disappears or is altered.* This initiative aims to maintain transparency and protect vital government information amidst political shifts.*",
+      "keywords": [
+        "government data",
+        "data preservation",
+        "public transparency",
+        "policy",
+        "data monitoring"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 8,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-07-02T11:00:00.000Z"
+    },
+    {
       "title": "AI chatbots are breaking the web—and forcing a 404 makeover",
       "link": "https://www.fastcompany.com/91361611/ai-chatbots-are-breaking-the-web-and-forcing-a-404-makeover?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
       "author": null,
@@ -4355,29 +4376,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-06-26T11:00:00.000Z"
-    },
-    {
-      "title": "Future Mirror: AI Art Meets Handmade Prototypes",
-      "link": "https://www.fastcompany.com/91357001/want-to-see-the-future-of-ai-art-go-grab-some-scissors?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Danish artist Andreas Refsgaard blends generative *AI* with *handcrafted prototypes* to envision futuristic artifacts via the *Future Mirror* project.\n- The project invites students to build recycled material models that are fed into *Stable Diffusion*, generating imaginative visualizations of yet-to-exist worlds.\n- This approach highlights a new creative process, combining children’s *imagination* with AI to produce unique, unexpected art, questioning the future role of artists.",
-      "keywords": [
-        "AI art",
-        "generative AI",
-        "handcrafted prototypes",
-        "Future Mirror",
-        "Stable Diffusion",
-        "Andreas Refsgaard",
-        "creative process"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 8,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-06-26T10:00:00.000Z"
     }
   ]
 }
