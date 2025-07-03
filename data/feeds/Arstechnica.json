@@ -4,6 +4,27 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Covert Surveillance App Exposes 62,000 Users' Data",
+      "link": "https://arstechnica.com/security/2025/07/provider-of-covert-surveillance-app-spills-passwords-for-62000-users/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- A *security flaw* in the Catwatchful app exposed sensitive data of **62,000 users** including email addresses and passwords.\n- The breach was due to a **SQL injection vulnerability**, allowing unauthorized access to user accounts.\n- Despite claims of legal use for parental monitoring, the app's *stealth features* raise concerns about its true purpose.",
+      "keywords": [
+        "security",
+        "surveillance",
+        "data breach",
+        "privacy",
+        "SQL injection"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-07-03T19:36:44.000Z"
+    },
+    {
       "title": "AT&T Rolls Out Wireless Account Lock to Combat SIM Swap Fraud",
       "link": "https://arstechnica.com/security/2025/07/att-rolls-out-wireless-account-lock-protection-to-curb-the-sim-swap-scourge/",
       "author": null,
