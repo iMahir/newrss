@@ -4,6 +4,39 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Lego’s Latest Arcade Machine Offers Fun Hidden Details",
+      "link": "https://www.theverge.com/news/697411/lego-arcade-machine-price-release-date",
+      "author": "Andrew Liszewski",
+      "thumbnail": null,
+      "summary": "- The new Lego Arcade Machine set contains 468 pieces and sells for $39.99, launching August 1st, 2025.  \n- Though non-playable, it features a generic space game and reveals a hidden gaming room with tiny consoles, a sofa, TV, and a smaller buildable arcade machine.  \n- The set includes references to other Lego lines and features a functional coin slot and printed tiles simulating the arcade screen and marquee.",
+      "keywords": [
+        "Lego",
+        "Arcade Machine",
+        "Buildable Set",
+        "Hidden Details",
+        "Retro Gaming",
+        "Toy Collectibles",
+        "Gadgets"
+      ],
+      "scores": {
+        "scale": 4,
+        "impact": 3,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-07-03T13:27:14.000Z"
+    },
+    {
+      "title": "Adding calendar events with a screenshot is AI at its finest",
+      "link": "https://www.theverge.com/tech/696885/ios-26-visual-intelligence-calendar-screenshot-gemini-assistant",
+      "author": "Allison Johnson",
+      "thumbnail": null,
+      "summary": "- *iOS 26* introduces a new feature: add events to your *calendar* using just a *screenshot*.\n- The feature, leveraging *Visual Intelligence*, accurately identifies event details and streamlines calendar management.\n- Compared to previous and Android-based methods, this AI-powered tool offers increased *accuracy* and *convenience*, especially for users who struggle with calendar organization.\n\n**Scores:** {\"scale\": 8, \"impact\": 7, \"novelty\": 8, \"longTermSignificance\": 7}\n**Keywords:** [AI, iOS, Calendar, Visual Intelligence, Productivity, Smartphone Features]",
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-07-03T13:00:00.000Z"
+    },
+    {
       "title": "The latest One UI 8 update leaks Samsung’s trifold phone design",
       "link": "https://www.theverge.com/news/697395/samsung-galaxy-trifold-foldable-leaks-one-ui-8",
       "author": "Jess Weatherbed",
@@ -7036,50 +7069,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-07-01T17:26:19.000Z"
-    },
-    {
-      "title": "Apple accuses former Vision Pro engineer of stealing trade secrets",
-      "link": "https://www.theverge.com/news/695929/apple-lawsuit-vision-pro-secrets-snap",
-      "author": "Jess Weatherbed",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195820/JESSICA_WEATHERBED.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Apple is suing Di Liu, a former senior design engineer for the Vision Pro, for allegedly downloading thousands of proprietary documents and joining Snap's product design team without disclosing this information.\n- Liu reportedly concealed his new employment and deleted files from his work laptop to hide the data theft, with Apple concerned the stolen info overlaps with Snap's AR Spectacles products.\n- Apple seeks financial damages and the return of stolen documents, while Snap denies any related wrongdoing; this follows Apple's ongoing legal actions against former employees misappropriating secrets.",
-      "keywords": [
-        "Apple",
-        "Vision Pro",
-        "trade secrets",
-        "Snap",
-        "lawsuit",
-        "employee misconduct",
-        "AR Spectacles"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-07-01T17:03:08.000Z"
-    },
-    {
-      "title": "AT&T Launches Account Lock to Prevent SIM Swapping",
-      "link": "https://www.theverge.com/news/695916/att-account-lock-sim-swapping-attack",
-      "author": "Emma Roth",
-      "thumbnail": null,
-      "summary": "*AT&T introduces an *Account Lock* feature to safeguard against *SIM swapping* attacks.*\n- The feature, accessible via the myAT&T app, prevents unauthorized account changes such as phone number transfers and SIM swaps.\n- *SIM swapping* has become more common, allowing attackers to intercept messages and hijack accounts for two-factor authentication codes.\n*Other carriers like T-Mobile, Verizon, and Google Fi* already offer similar protections. AT&T began rolling out this year.*",
-      "keywords": [
-        "AT&T",
-        "SIM swapping",
-        "account security",
-        "mobile security",
-        "cybersecurity"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-07-01T16:36:28.000Z"
     }
   ]
 }
