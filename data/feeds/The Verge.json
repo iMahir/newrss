@@ -4,6 +4,27 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "The Ploopy Knob: Open-Source Control Dial",
+      "link": "https://www.theverge.com/news/698443/ploopy-knob-dial-peripheral-controller-open-source-qmk",
+      "author": "Andrew Liszewski",
+      "thumbnail": null,
+      "summary": "- The **Ploopy Knob** is designed for easy control of various computer functions like volume and media scrolling. \n- It is available for **$49.99 CAD**, unlike other Ploopy products that are DIY kits, this one comes fully assembled. \n- Powered by a **Raspberry Pi** microcontroller, it utilizes open-source **QMK firmware** for seamless performance, especially on Windows and Linux.",
+      "keywords": [
+        "Ploopy Knob",
+        "open-source",
+        "control dial",
+        "peripheral",
+        "3D-printing"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 4,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-07-04T14:24:28.000Z"
+    },
+    {
       "title": "The Best Bluetooth Trackers for Apple and Android Phones",
       "link": "https://www.theverge.com/23769840/best-bluetooth-trackers",
       "author": "Victoria Song",
@@ -7180,16 +7201,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-07-02T16:09:05.000Z"
-    },
-    {
-      "title": "ICE-tracking app tops App Store",
-      "link": "https://www.theverge.com/news/696584/iceblock-tracking-app-white-house-criticism",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-07-02T14:11:04.000Z"
     }
   ]
 }
