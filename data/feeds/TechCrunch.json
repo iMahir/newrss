@@ -4,6 +4,28 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Ask not for whom the Louvre of Bluesky tolls, it tolls for thee",
+      "link": "https://techcrunch.com/2025/07/05/ask-not-for-whom-the-louvre-of-bluesky-tolls-it-tolls-for-thee/",
+      "author": "Anthony Ha",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2023/08/bluesky-004.jpg?w=1024",
+      "summary": "The disappearance of the *Louvre of Bluesky* account has left a significant impact on the platform.\n- This account was known for critiquing poor online posts and offered a unique perspective on social media behaviors.\n- The author expressed hope for the account's return, highlighting its role in reminding users of their online actions.\n- The account's closure stems from negative external pressures, but its legacy remains influential.",
+      "keywords": [
+        "Bluesky",
+        "social media",
+        "Louvre",
+        "account closure",
+        "online behavior",
+        "comedy"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 7,
+        "novelty": 8,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-07-05T20:11:39.000Z"
+    },
+    {
       "title": "Google Faces EU Antitrust Complaint Over AI",
       "link": "https://techcrunch.com/2025/07/05/google-faces-eu-antitrust-complaint-over-ai-overviews/",
       "author": "Anthony Ha",
@@ -6677,29 +6699,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-07-02T15:54:35.000Z"
-    },
-    {
-      "title": "Data Breach Exposes Catwatchful Stalkerware Spying on Thousands",
-      "link": "https://techcrunch.com/2025/07/02/data-breach-reveals-catwatchful-stalkerware-spying-on-thousands-android-phones/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- A security flaw in the *Catwatchful* Android spyware leaked 62,000 customer emails and passwords and data from 26,000 victims, revealing widespread illegal surveillance.  \n- The spyware masquerades as a child monitoring app but steals private data including photos, messages, live location, and microphone/camera feeds, often installed without victim consent.  \n- The breach exposed the operator's identity and database hosted on Google Firebase, prompting Google to enhance Play Protect and investigate the spyware's violation of terms.",
-      "keywords": [
-        "stalkerware",
-        "android spyware",
-        "data breach",
-        "privacy",
-        "catwatchful",
-        "surveillance",
-        "google firebase"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-07-02T14:05:00.000Z"
     }
   ]
 }
