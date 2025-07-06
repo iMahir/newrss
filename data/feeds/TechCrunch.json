@@ -4,6 +4,27 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Hidden AI Prompts in Peer Review",
+      "link": "https://techcrunch.com/2025/07/06/researchers-seek-to-influence-peer-review-with-hidden-ai-prompts/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Academics are using *hidden prompts* in research papers to influence peer review outcomes. \n- A study found 17 papers with these prompts, often concealed via white text or tiny fonts, urging AI to provide *positive feedback*. \n- Some authors claim this tactic counters *lazy reviewers* who rely on AI instead of thorough evaluation.",
+      "keywords": [
+        "peer review",
+        "AI prompts",
+        "academia",
+        "research papers",
+        "ethics"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 8,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-07-06T16:03:55.000Z"
+    },
+    {
       "title": "How Brex is keeping up with AI by embracing the ‘messiness’",
       "link": "https://techcrunch.com/2025/07/06/how-brex-is-keeping-up-with-ai-by-embracing-the-messiness/",
       "author": "Becca Szkutak",
@@ -6676,29 +6697,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-07-02T17:02:57.000Z"
-    },
-    {
-      "title": "A guide to using Edits, Meta’s new CapCut rival",
-      "link": "https://techcrunch.com/2025/07/02/a-guide-to-using-edits-metas-new-capcut-rival-for-short-form-video-editing/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- *Meta* released **Edits**, a new short-form **video editing** app targeting creators, as a competitor to *CapCut*. \n- The app offers various tools like **green screen**, **timelines**, **captions**, and **AI-powered** features, and is available on **iOS** and **Android**. \n- While Edits currently has fewer advanced features and a smaller music library than CapCut, it is free and may add paid options and web support in the future.",
-      "keywords": [
-        "Meta",
-        "Edits",
-        "video editing",
-        "short-form videos",
-        "CapCut",
-        "AI features",
-        "creators"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 7,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-07-02T15:59:44.000Z"
     }
   ]
 }
