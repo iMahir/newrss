@@ -4,6 +4,48 @@
   "feedUrl": "https://techcrunch.com/feed/",
   "items": [
     {
+      "title": "Tennis Players Critique Wimbledon’s AI Line Judges",
+      "link": "https://techcrunch.com/2025/07/07/tennis-players-criticize-ai-technology-used-by-wimbledon/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Players are voicing concerns over the accuracy of the new *electronic line calling* system replacing human judges. \n- Notable incidents include missed calls that led to unfair point losses for players like Emma Raducanu and Ben Shelton. \n- The controversy highlights the ongoing debate about the balance between *human oversight* and AI technology in sports.",
+      "keywords": [
+        "Tennis",
+        "AI technology",
+        "Wimbledon",
+        "sports technology",
+        "player feedback"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 5,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-07-07T18:00:00.000Z"
+    },
+    {
+      "title": "CoreWeave Acquires Core Scientific in $9B Deal",
+      "link": "https://techcrunch.com/2025/07/07/coreweave-acquires-data-center-provider-core-scientific-in-9b-stock-deal/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- CoreWeave's acquisition of Core Scientific for **$9 billion** grants it over a *gigawatt* of data center capacity.\n- This capacity will be pivotal for *AI training and inference workloads*, shifting from Bitcoin mining to supporting generative AI models.\n- The deal highlights the *competitive landscape* among cloud providers to enhance infrastructure to meet growing AI demands.",
+      "keywords": [
+        "CoreWeave",
+        "Core Scientific",
+        "data centers",
+        "AI",
+        "acquisition"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-07-07T17:37:09.000Z"
+    },
+    {
       "title": "Waymo Begins Robotaxi Testing in Philadelphia and NYC",
       "link": "https://techcrunch.com/2025/07/07/waymo-starts-robotaxi-testing-in-philadelphia-and-nyc/",
       "author": null,
@@ -7979,39 +8021,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-07-02T21:47:08.000Z"
-    },
-    {
-      "title": "Substack brings new updates to livestreaming as it increases video push",
-      "link": "https://techcrunch.com/2025/07/02/substack-brings-new-updates-to-livestreaming-as-it-increases-video-push/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-07-02T20:09:47.000Z"
-    },
-    {
-      "title": "Could Google's Veo 3 be the start of playable world models?",
-      "link": "https://techcrunch.com/2025/07/02/could-googles-veo-3-be-the-start-of-playable-world-models/",
-      "author": "Rebecca Bellan",
-      "thumbnail": null,
-      "summary": "- Google’s Veo 3 model, capable of generating video and audio simulating real-world physics, hints at future potential for *playable world models* in video games.  \n- Currently a passive generative model, Veo 3 could evolve into an *interactive, predictive simulator* possibly combined with other Google models like Genie for richer game environments.  \n- This move positions Google against rivals like Microsoft, OpenAI, and others in the race to create *AI-driven video game worlds* and immersive gameplay experiences.",
-      "keywords": [
-        "Google",
-        "Veo 3",
-        "world models",
-        "video games",
-        "AI simulation",
-        "DeepMind",
-        "multimodal AI"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-07-02T19:22:15.000Z"
     }
   ]
 }
