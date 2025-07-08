@@ -126,12 +126,25 @@ async function articleContentGET(item: PreRssJson["items"][0]) {
 async function youtubeContentGET(item: PreRssJson["items"][0]) {
     const videoId = item.link.split('v=')[1].split('&')[0]; // Extract video ID from URL
 
-    const res = await axios.get(`https://views4you.com/subtitle-download?id=${videoId}&lang=a.en&ext=txt`)
-    const subtitles = res.data;
+    try {
+        const res = await axios.get(`https://views4you.com/subtitle-download?id=${videoId}&lang=a.en&ext=txt`)
+        const subtitles = res.data;
 
-    if (subtitles && subtitles.length > 0) {
-        return subtitles;
-    } else {
-        return null;
+        if (subtitles && subtitles.length > 0) {
+            return subtitles;
+        } else {
+            return null;
+        }
+    } catch (e) {
+        const res2 = await axios.get(`https://www.downloadyoutubesubtitles.com/get2.php?i=${videoId}&format=txt&hl=a.en&a=`).catch((err) => {
+            console.error("Error fetching subtitles:", err);
+            return { data: null };
+        });
+        const subtitles = res2.data;
+        if (subtitles && subtitles.length > 0) {
+            return subtitles;
+        } else {
+            return null;
+        }
     }
 }
