@@ -35,7 +35,7 @@ export const rssToJson = async (feed: Feed): Promise<PreRssJson> => {
             if (item.link && item.link.match("youtube.com/watch")) {
                 const videoId = item.link.split("v=")[1]?.split("&")[0];
                 item.enclosure = {
-                    url: `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`,
+                    url: `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`,
                     type: "image/jpeg"
                 };
             }
