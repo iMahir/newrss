@@ -4,6 +4,27 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Android Gemini's Third-Party Access Requires User Action",
+      "link": "https://arstechnica.com/security/2025/07/unless-users-take-action-android-will-let-gemini-access-third-party-apps/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Starting Monday, Google allows *Gemini AI* to access third-party apps like WhatsApp, overriding user settings unless action is taken.\n- Google's communication lacks clarity on completely *disabling Gemini*, leaving users confused about their options.\n- Users may find Gemini's features useful, but many seem unprepared for the *data privacy implications* of this integration.",
+      "keywords": [
+        "Android",
+        "Gemini AI",
+        "privacy",
+        "third-party apps",
+        "data access"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-07-07T23:46:14.000Z"
+    },
+    {
       "title": "M&S Hacking Group Turf War Escalates",
       "link": "https://arstechnica.com/security/2025/07/no-honor-among-thieves-ms-hacking-group-starts-turf-war/",
       "author": null,
