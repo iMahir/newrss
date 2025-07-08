@@ -13,5 +13,8 @@
     "rootDir": "src",
     "noImplicitAny": true,
     "resolveJsonModule": true
-  }
+  },
+  "exclude": [
+    "workers"
+  ]
 }
