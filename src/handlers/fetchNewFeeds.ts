@@ -1,11 +1,12 @@
-import { readData } from "../utils/fs"
+import { get } from "axios";
 import { rssToJson } from "../utils/rss/rssToJson";
 import { PreRssJson } from "../utils/rss/types";
+import { config } from "../config";
 
 export const fetchNewFeeds = async (): Promise<PreRssJson[]> => {
-    const feeds = readData("src/feeds.json", { parseJSON: true });
+    const feeds = (await get(`${config.frontend}/api/feeds`)).data;
 
-    const newFeeds = await Promise.all(feeds.map(async (feed: { name: string; rss: string }) => {
+    const newFeeds = await Promise.all(feeds.map(async (feed: { name: string; rss: string; id: number }) => {
         try {
             let rss = await rssToJson(feed);
 

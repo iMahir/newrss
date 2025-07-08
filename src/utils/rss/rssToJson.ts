@@ -4,6 +4,7 @@ import { PreRssJson } from "./types";
 interface Feed {
     name: string;
     rss: string;
+    id: number;
 }
 
 export const rssToJson = async (feed: Feed): Promise<PreRssJson> => {
@@ -19,6 +20,7 @@ export const rssToJson = async (feed: Feed): Promise<PreRssJson> => {
     const parsedFeed = await parser.parseURL(rssUrl);
 
     return {
+        id: feed.id,
         title: feed.name,
         link: parsedFeed.link ?? feed.rss,
         feedUrl: feed.rss,

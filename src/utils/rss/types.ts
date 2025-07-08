@@ -1,4 +1,5 @@
 export interface PreRssJson {
+    id: number;
     title: string;
     link: string;
     feedUrl: string;
@@ -13,6 +14,7 @@ export interface PreRssJson {
 }
 
 export interface PostRssJson {
+    id: number;
     title: string;
     link: string;
     feedUrl: string;

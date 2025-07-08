@@ -5,9 +5,13 @@ export const getUniqueFeeds = (newFeeds: PreRssJson[]) => {
 
     let oldFeeds: (PreRssJson | PostRssJson)[] = [];
     newFeeds.forEach((feed) => {
-        const oldFeed: PostRssJson | null = readData(`data/feeds/${feed.title}.json`, { parseJSON: true });
+        const b64 = btoa(feed.feedUrl);
+        const slug = b64.replace(/\+/g, '-').replace(/\//g, '_').replace(/=*$/, '');
+
+        const oldFeed: PostRssJson | null = readData(`data/feeds/${slug}.json`, { parseJSON: true });
         if (oldFeed) oldFeeds.push(oldFeed);
         else oldFeeds.push({
+            id: feed.id,
             title: feed.title,
             link: feed.link,
             feedUrl: feed.feedUrl,
