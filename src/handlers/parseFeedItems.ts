@@ -107,8 +107,17 @@ export const parseFeedItems = async (feeds: PreRssJson[]) => {
 };
 
 async function articleContentGET(item: PreRssJson["items"][0]) {
-    const get = await axios.get(item.link);
+    const get = await axios.get(item.link, {
+        headers: {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+        },
+        timeout: 10000 // Set a timeout for the request
+    }).catch((err) => {
+        return { data: null };
+    });
     const pageHtml = get.data;
+    if (!pageHtml) return null;
 
     const doc = new JSDOM(pageHtml, { virtualConsole: new VirtualConsole() });
     const reader = new Readability(doc.window.document);
