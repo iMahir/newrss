@@ -5,6 +5,29 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "Critical CitrixBleed 2 Vulnerability Under Active Exploit",
+      "link": "https://arstechnica.com/security/2025/07/critical-citrixbleed-2-vulnerability-has-been-under-active-exploit-for-weeks/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- A critical vulnerability, CVE-2025-5777, in Citrix devices allows hackers to bypass *multifactor authentication*.\n- Despite Citrix's claims of no exploitation evidence, researchers found exploitation dating back to mid-June.\n- This vulnerability may lead to significant security breaches, echoing prior incidents with *CitrixBleed*, compromising thousands of devices.",
+      "keywords": [
+        "Citrix",
+        "security",
+        "vulnerability",
+        "CVE-2025-5777",
+        "hacker exploit",
+        "authentication",
+        "network security"
+      ],
+      "scores": {
+        "scale": 9,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-07-09T11:20:24.000Z"
+    },
+    {
       "title": "Defining AGI: A Multi-Billion Dollar Dilemma",
       "link": "https://arstechnica.com/ai/2025/07/agi-may-be-impossible-to-define-and-thats-a-multibillion-dollar-problem/",
       "author": null,
