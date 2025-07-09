@@ -5,6 +5,50 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Perplexity Launches AI Web Browser Comet",
+      "link": "https://www.theverge.com/news/703037/perplexity-ai-web-browser-comet-launch",
+      "author": "Emma Roth",
+      "thumbnail": null,
+      "summary": "- Perplexity has introduced *Comet*, an AI web browser that integrates its AI search tools for a seamless browsing experience. \n- This browser is initially available only to subscribers of the *$200 per month Perplexity Max plan* before a wider invite-only rollout. \n- Comet is built on *Chromium* and includes an AI assistant capable of carrying out tasks such as booking and purchasing, positioning itself as a competitor to Google.",
+      "keywords": [
+        "AI",
+        "web browser",
+        "Perplexity",
+        "Comet",
+        "search engine",
+        "technology"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-07-09T16:53:31.000Z"
+    },
+    {
+      "title": "The best fitness tracker and smartwatch Prime Day deals",
+      "link": "https://www.theverge.com/tech/702080/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2025",
+      "author": "Brandt Ranj",
+      "thumbnail": null,
+      "summary": "- Prime Day offers *deep discounts* on popular smartwatches like the **Apple Watch Series 10** and **Amazfit Active 2**.\n- Fitness trackers help monitor health by tracking sleep, steps, heart rate, and more, making fitness goals easier to manage.\n- Featured deals include the **Pixel Watch 3** and **Fitbit Charge 6**, perfect for those looking to enhance their health journey.",
+      "keywords": [
+        "fitness tracker",
+        "smartwatch",
+        "Prime Day",
+        "deals",
+        "Amazfit",
+        "Apple Watch"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-07-09T16:30:00.000Z"
+    },
+    {
       "title": "OpenAI’s Open Language Model is Imminent",
       "link": "https://www.theverge.com/notepad-microsoft-newsletter/702848/openai-open-language-model-o3-mini-notepad",
       "author": "Tom Warren",
@@ -24,6 +68,27 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-07-09T16:00:00.000Z"
+    },
+    {
+      "title": "Best Laptop Deals for Prime Day",
+      "link": "https://www.theverge.com/tech/699521/amazon-prime-day-laptops-notebooks-gaming-apple-lenovo-hp",
+      "author": "Antonio G. Di Benedetto",
+      "thumbnail": null,
+      "summary": "- Prime Day offers *significant discounts* on laptops from brands like Apple, Asus, Lenovo, and Microsoft.\n- Notable deals include $150 off on MacBook Air models, priced at $849 and $1,049.\n- The laptop buying guide emphasizes *long-term value* and suitability for various user needs.",
+      "keywords": [
+        "Prime Day",
+        "laptop deals",
+        "MacBook",
+        "Discounts",
+        "Tech"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-07-09T15:53:35.000Z"
     },
     {
       "title": "The Best Doorbell Cameras",
@@ -7595,70 +7660,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-07-08T16:30:00.000Z"
-    },
-    {
-      "title": "Mastodon Enhancements: Profiles & Quote Posts",
-      "link": "https://www.theverge.com/news/700991/mastodon-4-4-profiles-lists-quote-posts",
-      "author": "Jay Peters",
-      "thumbnail": null,
-      "summary": "- *Mastodon 4.4* introduces new profile features, including highlighting hashtags and a new *carousel* for pinned posts.\n- The update simplifies creating and managing *lists*, enhancing user interaction.\n- **Quote posts** are in development, with viewing support starting now and full functionality expected in the *4.5 release*.",
-      "keywords": [
-        "Mastodon",
-        "social media",
-        "update",
-        "profiles",
-        "quote posts",
-        "technology"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 4,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-07-08T16:06:09.000Z"
-    },
-    {
-      "title": "Best Wireless Earbuds of 2025",
-      "link": "https://www.theverge.com/21309820/best-wireless-earbuds",
-      "author": "Chris Welch",
-      "thumbnail": null,
-      "summary": "- The 2025 market offers a diverse range of *high-quality* wireless earbuds, suitable for various needs like fitness and calls. \n- Notable contenders include the **Sony WF-1000XM5**, known for exceptional sound and noise cancellation, and the **Bose QuietComfort Ultra**, which excels in active noise control. \n- Always consider comfort and compatibility, as brands often optimize features for their own devices.",
-      "keywords": [
-        "earbuds",
-        "wireless",
-        "noise cancellation",
-        "audio quality",
-        "tech reviews"
-      ],
-      "scores": {
-        "scale": 9,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-07-08T16:05:00.000Z"
-    },
-    {
-      "title": "Microsoft Teams now has threaded conversations",
-      "link": "https://www.theverge.com/news/700917/microsoft-teams-threads-conversations-emoji",
-      "author": "Tom Warren",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197777/profilephoto.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-      "summary": "- Microsoft Teams has introduced *threaded conversations*, enhancing user communication.\n- Users can focus on important threads and easily share updates with the main conversation.\n- The update includes new features like *multiple emoji reactions* and *GIF search*, improving overall usability.",
-      "keywords": [
-        "Microsoft Teams",
-        "threaded conversations",
-        "communication",
-        "emoji",
-        "GIFs"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-07-08T16:04:32.000Z"
     }
   ]
 }
