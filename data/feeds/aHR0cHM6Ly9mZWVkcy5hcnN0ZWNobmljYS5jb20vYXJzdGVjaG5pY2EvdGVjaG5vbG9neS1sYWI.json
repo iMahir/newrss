@@ -5,6 +5,49 @@
   "feedUrl": "https://feeds.arstechnica.com/arstechnica/technology-lab",
   "items": [
     {
+      "title": "ChatGPT Sparks Creation of New Soundslice Feature",
+      "link": "https://arstechnica.com/ai/2025/07/chatgpt-made-up-a-product-feature-out-of-thin-air-so-this-company-created-it/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- *Soundslice* developed a new feature enabling ASCII tab imports after *ChatGPT* erroneously claimed this functionality existed. \n- The company noticed a surge in erroneous user uploads tied to *ChatGPT's hallucinations*, which misled users about the service's capabilities. \n- This incident highlights ongoing challenges with AI *confabulation*, where AI generates convincing yet false information.",
+      "keywords": [
+        "AI",
+        "ChatGPT",
+        "Soundslice",
+        "ASCII tablature",
+        "confabulation"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 7,
+        "novelty": 8,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-07-09T21:59:25.000Z"
+    },
+    {
+      "title": "Browser Extensions Used for Website Scraping",
+      "link": "https://arstechnica.com/security/2025/07/browser-extensions-turn-nearly-1-million-browsers-into-website-scraping-bots/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Nearly *1 million browsers* have become scraping bots via extensions. \n- These *245 extensions* violate security protections to monetize web scraping services. \n- Links to companies like Olostep reveal potential conflicts and *ethical concerns* over user data and bandwidth use.",
+      "keywords": [
+        "browser extensions",
+        "web scraping",
+        "security",
+        "MellowTel",
+        "Olostep",
+        "data privacy"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-07-09T20:08:27.000Z"
+    },
+    {
       "title": "AI Mania Pushes Nvidia to Record $4 Trillion Valuation",
       "link": "https://arstechnica.com/ai/2025/07/ai-mania-pushes-nvidia-to-record-4-trillion-valuation/",
       "author": null,
