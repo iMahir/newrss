@@ -88,7 +88,12 @@ export const parseFeedItems = async (feeds: PreRssJson[]) => {
             if (item.link.includes("youtube.com/watch")) {
                 item.content = await youtubeContentGET(item);
 
-            } else {
+            }
+            else if (item.link.includes("reddit.com")) {
+                await cluster.queue({ itemUrl: item.link, feedUrl: feed.feedUrl });
+
+            }
+            else {
                 const content = await articleContentGET(item);
                 if (content) {
                     console.log("Fetched: ", item.link);
