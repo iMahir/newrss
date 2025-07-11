@@ -9,6 +9,7 @@ import StealthPlugin from "puppeteer-extra-plugin-stealth";
 puppeteer.use(StealthPlugin());
 
 import fs from "fs";
+import Parser from "rss-parser";
 const readabilityJsStr = fs.readFileSync(
     require.resolve("@mozilla/readability/Readability.js"),
     { encoding: "utf-8" }
@@ -90,8 +91,13 @@ export const parseFeedItems = async (feeds: PreRssJson[]) => {
 
             }
             else if (item.link.includes("reddit.com")) {
-                await cluster.queue({ itemUrl: item.link, feedUrl: feed.feedUrl });
-
+                const content = await redditContentGET(item);
+                if (content) {
+                    item.content = content;
+                }
+                else {
+                    continue; // Skip to next item if Reddit content fetch fails
+                }
             }
             else {
                 const content = await articleContentGET(item);
@@ -161,4 +167,39 @@ async function youtubeContentGET(item: PreRssJson["items"][0]) {
             return null;
         }
     }
+}
+
+async function redditContentGET(item: PreRssJson["items"][0]) {
+    const parser: Parser = new Parser({
+        headers: {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+        }
+    });
+
+    const parsedFeed = await parser.parseURL(item.link + ".rss");
+    if (!parsedFeed || !parsedFeed.items || parsedFeed.items.length === 0) {
+        return null;
+    }
+
+    const content = `
+        Title: ${item.title}\n
+        Author: ${item.author}\n
+        PubDate: ${item.pubDate}\n
+        Link: ${item.link}\n\n
+        <<CONTENT START>>\n
+        ${parsedFeed.items.map((i) => {
+        return `
+            <ITEM>
+                <AUTHOR>${i.author}</AUTHOR>
+                <CONTENT>${i.content}</CONTENT>
+                <THUMBNAIL>${i.thumbnail ?? "Not there"}</THUMBNAIL>
+                <PUBDATE>${i.pubDate}</PUBDATE>
+            </ITEM>
+            `;
+    })}\n
+        <<CONTENT END>>
+        `
+
+    return content;
 }
