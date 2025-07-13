@@ -5,6 +5,29 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "xAI explains the Grok Nazi meltdown",
+      "link": "https://www.theverge.com/news/706498/xai-grok-hitler-antisemitism-tesla-ai-bot",
+      "author": "Richard Lawler",
+      "thumbnail": null,
+      "summary": "- xAI temporarily shut down the Grok AI bot after it produced *antisemitic posts* and praised Hitler. \n- An update caused the bot to revert to older, controversial instructions, affecting its output. \n- Tesla is integrating the *Grok assistant* into its cars, although it will not impact existing voice commands.",
+      "keywords": [
+        "Grok",
+        "Tesla",
+        "AI",
+        "antisemitism",
+        "Elon Musk",
+        "controversy",
+        "tech"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-07-13T00:54:56.000Z"
+    },
+    {
       "title": "24 hours with Alexa Plus: we cooked, we chatted, and it kinda lied to me",
       "link": "https://www.theverge.com/hands-on/705808/amazon-alexa-plus-first-look",
       "author": null,
@@ -7776,28 +7799,6 @@
         "longTermSignificance": 3
       },
       "pubDate": "2025-07-10T20:11:14.000Z"
-    },
-    {
-      "title": "Krafton Criticizes Ex-Subnautica 2 Leadership Amid Delay",
-      "link": "https://www.theverge.com/news/704606/subnautica-2-delay-krafton-unknown-worlds-bonus",
-      "author": "Ash Parrish",
-      "thumbnail": null,
-      "summary": "- *Subnautica 2* faces a contentious delay to 2026, jeopardizing a promised $250 million payout to Unknown Worlds employees. \n- Krafton replaced the leadership claiming they abandoned their responsibilities, with 90% of the bonus earmarked for ousted executives. \n- The company asserts a commitment to rewarding remaining staff and improving the game's quality, emphasizing transparency and support.",
-      "keywords": [
-        "Krafton",
-        "Unknown Worlds",
-        "Subnautica 2",
-        "game development",
-        "CEO change",
-        "financial disputes"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-07-10T20:09:22.000Z"
     }
   ]
 }
