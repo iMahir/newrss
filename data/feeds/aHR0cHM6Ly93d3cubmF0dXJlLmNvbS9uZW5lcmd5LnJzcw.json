@@ -5,6 +5,49 @@
   "feedUrl": "https://www.nature.com/nenergy.rss",
   "items": [
     {
+      "title": "Leveraging AI to Enhance Performance in Direct Methanol Fuel Cells",
+      "link": "https://www.nature.com/articles/s41560-025-01805-w",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- A novel AI method, *Alpha-Fuel-Cell*, utilizes *reinforcement learning* to optimize direct methanol fuel cells' performance.  \n- The model operates in real-time to enhance **efficiency** and prolong **catalyst longevity**.  \n- This advancement could significantly impact the future of *sustainable energy solutions*.",
+      "keywords": [
+        "AI",
+        "fuel cells",
+        "reinforcement learning",
+        "sustainability",
+        "energy",
+        "catalysts"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 9,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-07-14T10:19:48.104Z"
+    },
+    {
+      "title": "Actor-Critic Algorithm for Direct Methanol Fuel Cells",
+      "link": "https://www.nature.com/articles/s41560-025-01804-x",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- This study presents an *actor-critic algorithm* to enhance the power output from **direct methanol fuel cells** (DMFCs). \n- By leveraging *machine learning*, the algorithm optimizes the fuel cell operation, addressing degradation issues over time. \n- Results indicate that this approach could lead to improved efficiency and longevity of DMFC technology.",
+      "keywords": [
+        "machine learning",
+        "fuel cells",
+        "methanol",
+        "actor-critic",
+        "energy efficiency"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-07-14T10:19:48.104Z"
+    },
+    {
       "title": "A catalytic cycle for hydrogen management",
       "link": "https://www.nature.com/articles/s41560-025-01806-9",
       "author": null,
