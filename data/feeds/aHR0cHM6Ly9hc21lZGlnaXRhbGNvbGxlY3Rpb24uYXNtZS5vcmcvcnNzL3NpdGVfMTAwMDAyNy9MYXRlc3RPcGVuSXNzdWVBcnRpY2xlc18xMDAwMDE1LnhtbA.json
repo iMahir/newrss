@@ -5,6 +5,133 @@
   "feedUrl": "https://asmedigitalcollection.asme.org/rss/site_1000027/LatestOpenIssueArticles_1000015.xml",
   "items": [
     {
+      "title": "Material Behavior of Magnetoresponsive Polymer Composites in Extrusion-Based Direct Writing",
+      "link": "https://asmedigitalcollection.asme.org/manufacturingscience/article/147/9/091010/1219312/Material-Behavior-of-Magnetoresponsive-Polymer",
+      "author": "Anasheh Khecho, Erina Baynojir Joyee",
+      "thumbnail": null,
+      "summary": " - This paper discusses *Direct Writing (DW)*, a significant technique in *additive manufacturing* for polymer-particle composites used across various fields. \n - The study highlights how integrating *external forces*, especially magnetic fields, can enhance printing accuracy by improving ink rheology and *interlayer adhesion*. \n - Findings indicate that *Fe₃O₄* particles increase elasticity of inks, while non-magnetic particles like *SiC* can disrupt the printing process, emphasizing the need for precise control in DW applications.",
+      "keywords": [
+        "additive manufacturing",
+        "magnetoresponsive materials",
+        "extrusion-based direct writing",
+        "polymer composites",
+        "rheology"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-07-16T00:00:00.000Z"
+    },
+    {
+      "title": "Data-Driven Optimization of Bioink Formulations",
+      "link": "https://asmedigitalcollection.asme.org/manufacturingscience/article/147/10/101001/1219299/Data-Driven-Optimization-of-Bioink-Formulations",
+      "author": "Sarah R., Rohauer R., Schimmelpfennig K., Limon S. M., Lewis C. L., Habib A.",
+      "thumbnail": null,
+      "summary": "- This research focuses on using *data-driven approaches* to enhance *bioink formulations* for bioprinting.\n- A predictive modeling approach aims to improve the *efficiency and effectiveness* of extrusion-based bioprinting.\n- The findings contribute to the *advancement of additive manufacturing* technologies in the biomedicine field.",
+      "keywords": [
+        "bioprinting",
+        "bioink",
+        "data-driven optimization",
+        "predictive modeling",
+        "extrusion-based",
+        "additive manufacturing"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 9,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-07-16T00:00:00.000Z"
+    },
+    {
+      "title": "Process Control for Direct Ink Writing of Composite Materials Via Reinforcement Learning",
+      "link": "https://asmedigitalcollection.asme.org/manufacturingscience/article/147/9/091009/1219222/Process-Control-for-Direct-Ink-Writing-of",
+      "author": "Li, Z., Chen, W., Guo, Z., Zhou, C., Sun, H.",
+      "thumbnail": null,
+      "summary": "- The paper explores *process control* techniques for *direct ink writing* (DIW) of composite materials using *reinforcement learning*. \n- It emphasizes the effectiveness of machine learning in optimizing material deposition and control mechanisms. \n- This study contributes to advancements in additive manufacturing and material science, specifically for *composite materials*.",
+      "keywords": [
+        "Additive Manufacturing",
+        "Reinforcement Learning",
+        "Composite Materials",
+        "Process Control",
+        "Direct Ink Writing"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 9,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-07-16T00:00:00.000Z"
+    },
+    {
+      "title": "Tool Path Planning Method for Parametric Surfaces",
+      "link": "https://asmedigitalcollection.asme.org/manufacturingscience/article/147/9/091008/1219221/Tool-Path-Planning-Method-for-Parametric-Surfaces",
+      "author": "Li, Y., Li, C., Huang, J., Yan, G., Xu, J., Liu, K.",
+      "thumbnail": null,
+      "summary": "- This research presents a *novel method* for *tool path planning* using a Piecewise Coons Stream Function on Hierarchical T-Meshes. \n- The approach aims to enhance the efficiency and accuracy of planning for *parametric surfaces*. \n- Findings and methodologies are aimed at advancing *manufacturing technologies*.",
+      "keywords": [
+        "tool path planning",
+        "parametric surfaces",
+        "T-Meshes",
+        "manufacturing",
+        "engineering"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-07-16T00:00:00.000Z"
+    },
+    {
+      "title": "Hybrid High-Power Laser and Mechanical Drilling",
+      "link": "https://asmedigitalcollection.asme.org/manufacturingscience/article/147/9/091006/1219142/Hybrid-High-Power-Laser-and-Mechanical-Drilling-of",
+      "author": "Ren, J., Cheng, D., Sun, X., Yu, S., Li, L., Wei, C.",
+      "thumbnail": null,
+      "summary": "- The study explores *hybrid laser and mechanical drilling* techniques for thick CFRP laminates.\n- It presents findings on the efficiency and effectiveness of using such hybrid methods.\n- This research contributes to advancements in *manufacturing technology* and composite materials processing.",
+      "keywords": [
+        "laser drilling",
+        "CFRP",
+        "hybrid technology",
+        "manufacturing",
+        "composite materials"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-07-16T00:00:00.000Z"
+    },
+    {
+      "title": "In-Process Characterizations of Nanoscale Machining",
+      "link": "https://asmedigitalcollection.asme.org/manufacturingscience/article/147/9/091007/1219141/Acoustic-Emission-Sensor-Based-In-Process",
+      "author": "Xinchen Wang, Mohammad Alshoul, Jia Deng, Zimo Wang",
+      "thumbnail": null,
+      "summary": "- The study focuses on *real-time monitoring* of nanoscale morphology during machining using *Acoustic Emission (AE) sensors*.\n- It establishes a predictive model that connects AE spectral responses to surface characteristics, achieving an accuracy of **82%**.\n- The research highlights the significant potential of AE sensors in enhancing *quality inspection* processes in nanofabrication.",
+      "keywords": [
+        "Acoustic Emission",
+        "Nanoscale Machining",
+        "Surface Morphology",
+        "Real-time Monitoring",
+        "Quality Inspection"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 8,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-07-16T00:00:00.000Z"
+    },
+    {
       "title": "Cognitive Digital Twin for Multiobjective Production Scheduling",
       "link": "https://asmedigitalcollection.asme.org/manufacturingscience/article/147/9/091004/1219140/Cognitive-Digital-Twin-for-Multiobjective",
       "author": "Hankang Lee, Hui Yang",
