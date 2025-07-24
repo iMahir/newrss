@@ -5,6 +5,16 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Temperature probes for mold bases",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1m8gtt7/temperature_probes_for_mold_bases/",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-07-24T21:26:27.000Z"
+    },
+    {
       "title": "Looking for Manufacturer Recommendations & Plant Visit Opportunities Near Noida/Delhi/Gurgaon",
       "link": "https://www.reddit.com/r/manufacturing/comments/1m8br4c/looking_for_manufacturer_recommendations_plant/",
       "author": "/u/Piyushpalod",
@@ -6993,27 +7003,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-07-15T12:31:11.000Z"
-    },
-    {
-      "title": "Monitoring Energy Consumption in Production",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1m0dxg1/monitoring_energy_consumption_in_production_what/",
-      "author": "/u/Natural_Seaweed_5086",
-      "thumbnail": null,
-      "summary": "- The author seeks better visibility into *energy usage* across a mixed environment of *bare metal*, *AWS/Azure*, *K8s clusters*, and various databases.\n- They aim for *real-time power consumption data* but feel current tools like Prometheus and Grafana lack detailed metrics.\n- Queries include tools for *granular energy data*, energy-efficient autoscaling, and recommendations based on experiences, especially in Python/Go environments.",
-      "keywords": [
-        "energy consumption",
-        "production",
-        "monitoring",
-        "autoscaling",
-        "cloud"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 6,
-        "novelty": 4,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-07-15T10:12:07.000Z"
     }
   ]
 }
