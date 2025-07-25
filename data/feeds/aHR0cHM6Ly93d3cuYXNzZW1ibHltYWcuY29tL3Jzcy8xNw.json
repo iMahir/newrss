@@ -5,6 +5,27 @@
   "feedUrl": "https://www.assemblymag.com/rss/17",
   "items": [
     {
+      "title": "New Center to Study Digital Twin Use in Manufacturing",
+      "link": "https://www.assemblymag.com/articles/99439-new-center-to-study-digital-twin-use-in-manufacturing",
+      "author": "webera@bnpmedia.com (Austin Weber)",
+      "thumbnail": "https://www.assemblymag.com/ext/resources/issues2/2025/08-aug/asb0825lines1-forweb.webp?1753459093",
+      "summary": "- The *Center for Digital Twins in Manufacturing* aims to enhance performance and efficiency in manufacturing.<br>- Challenges include *standardization* and integration of digital twins across systems.<br>- Research will also focus on *human-robot collaboration* and reducing uncertainty in digital twins.",
+      "keywords": [
+        "Digital Twins",
+        "Manufacturing",
+        "Efficiency",
+        "Research",
+        "Engineering"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-07-25T16:00:00.000Z"
+    },
+    {
       "title": "Arctic Automates Appliance Assembly",
       "link": "https://www.assemblymag.com/articles/99435-artic-automates-appliance-assembly",
       "author": "sprovierij@bnpmedia.com (John Sprovieri)",
@@ -68,6 +89,70 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-07-25T13:00:00.000Z"
+    },
+    {
+      "title": "Promess Inc.",
+      "link": "https://www.assemblymag.com/articles/99440-promess-inc",
+      "author": null,
+      "thumbnail": "https://www.assemblymag.com/ext/resources/2025/07/25/Promess_logoPrint.webp?1753459021",
+      "summary": "- *Promess Inc.* specializes in advanced sensing and motion control systems for manufacturing and testing.  \n- With a heritage of over 40 years, they offer **high-precision** solutions that enhance quality and efficiency.  \n- Their tailored systems tackle complex manufacturing challenges while fostering *real-time* monitoring and control.",
+      "keywords": [
+        "Promess",
+        "sensing",
+        "motion control",
+        "manufacturing",
+        "high-precision"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-07-25T04:00:00.000Z"
+    },
+    {
+      "title": "Pro-Line",
+      "link": "https://www.assemblymag.com/articles/99438-pro-line",
+      "author": null,
+      "thumbnail": "https://www.assemblymag.com/ext/resources/2025/07/25/ProLine_logo.webp?1753458578",
+      "summary": "- Pro-Line, founded in 1978, is a *leader in ergonomic workbench design*.  \n- Their workbenches are known for their *high quality* and *modularity*, enhancing productivity.  \n- Customers can easily customize their workstations using a *3D configurator* or by selecting from preconfigured options.",
+      "keywords": [
+        "ergonomics",
+        "workbench",
+        "modularity",
+        "productivity",
+        "customization"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-07-25T04:00:00.000Z"
+    },
+    {
+      "title": "PI Expands U.S. Operations with New Facility",
+      "link": "https://www.assemblymag.com/articles/99437-physik-instrumente-lp",
+      "author": null,
+      "thumbnail": "https://www.assemblymag.com/ext/resources/2025/07/25/PI_logo.webp?1753458117",
+      "summary": "- *PI* is opening a new **140,000 sq ft factory** in Shrewsbury, MA to enhance local support and innovation.\n- The facility will produce **advanced technologies** like gantry robots and piezo nanopositioning systems.\n- This move will enable faster customer access and help mitigate **import tariffs** and supply chain risks.",
+      "keywords": [
+        "PI",
+        "U.S. Operations",
+        "Manufacturing",
+        "Nanopositioning",
+        "Innovation",
+        "Supply Chain"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-07-25T04:00:00.000Z"
     },
     {
       "title": "Performance Feeders Inc.",
@@ -5477,91 +5562,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-07-07T13:00:00.000Z"
-    },
-    {
-      "title": "NAM Proposes ‘Manufacturing Investment Accelerator’",
-      "link": "https://www.assemblymag.com/articles/99370-nam-proposes-manufacturing-investment-accelerator",
-      "author": "sprovierij@bnpmedia.com (John Sprovieri)",
-      "thumbnail": "https://www.assemblymag.com/ext/resources/issues2/2025/07-jul/asb0725edit1-feat.jpg?1751315263",
-      "summary": "- The NAM's new program aims to enhance *domestic manufacturing* investment amid declining manufacturer optimism.\n- The proposal includes *duty-free imports* of critical inputs and tariffs rebates for expanding U.S. operations.\n- A Quarterly Manufacturing Dialogue is suggested for continuous manufacturer's feedback and program improvement.",
-      "keywords": [
-        "manufacturing",
-        "investment",
-        "NAM",
-        "tariffs",
-        "U.S. economy"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-07-04T16:00:00.000Z"
-    },
-    {
-      "title": "Startup Raises $125M to Bring Robot-Assisted Cataract Surgery to Market",
-      "link": "https://www.assemblymag.com/articles/99378-startup-raises-125m-to-bring-robot-assisted-cataract-surgery-to-market",
-      "author": null,
-      "thumbnail": "https://www.assemblymag.com/ext/resources/images/Article-Images-(22).jpg?1751557466",
-      "summary": "- *ForSight Robotics* is developing a robotic system for cataract surgery, having raised **$125 million** in funding.\n- The robot, named *Oryom*, utilizes **microsurgery**, **machine learning**, and **computer vision** and is currently in testing phases.\n- With **4 million** cataract surgeries in the U.S. annually, the startup aims to enhance *precision* and *accessibility* in eye care worldwide.",
-      "keywords": [
-        "robotics",
-        "cataract surgery",
-        "healthcare",
-        "innovation",
-        "vision care",
-        "funding"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 9,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-07-03T14:51:36.000Z"
-    },
-    {
-      "title": "Laser Stripping of Magnet Wire",
-      "link": "https://www.assemblymag.com/articles/99369-laser-stripping-of-magnet-wire",
-      "author": null,
-      "thumbnail": "https://www.assemblymag.com/ext/resources/issues2/2025/07-jul/wire-processing/asb0725laser6-forweb.jpg?1751308009",
-      "summary": "- The study compares various *laser technologies* for efficiently stripping enamel from magnet wire before welding.\n- *Laser ablation* is identified as the most precise method, crucial for preventing weld defects caused by residual coating.\n- The **combination of IR and NIR lasers** showed the best performance with the highest weld strength and lowest presence of carbon residues.\n",
-      "keywords": [
-        "Laser Stripping",
-        "Magnet Wire",
-        "Welding",
-        "Laser Technology",
-        "Copper"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 8,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-07-03T13:00:00.000Z"
-    },
-    {
-      "title": "Auto Parts Assembler Orders 100 Autonomous Mobile Robots",
-      "link": "https://www.assemblymag.com/articles/99364-auto-parts-assembler-orders-100-autonomous-mobile-robots",
-      "author": null,
-      "thumbnail": "https://www.assemblymag.com/ext/resources/7/cartken.jpg?1751774734",
-      "summary": "- Melco Mobility Solutions has ordered *100* autonomous mobile robots from **Cartken Inc.** for use in their Japan facilities.\n- The *Hauler robot*, designed for interbuilding transport, can carry up to *660 pounds* and navigate various terrains.\n- Through Melco, Cartken's robots have become the first to be authorized for **autonomous driving** on public roads in Japan at night.",
-      "keywords": [
-        "autonomous robots",
-        "Melco",
-        "Cartken",
-        "manufacturing",
-        "Japan"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-07-03T09:15:00.000Z"
     }
   ]
 }
