@@ -2,12 +2,12 @@ import { post } from "axios";
 import { config } from "../config";
 import { readData, writeData } from "../utils/fs";
 import { PostRssJson } from "../utils/rss/types";
+import { convertToSlug } from "../utils/slug";
 
 export const saveFeeds = async (feeds: PostRssJson[]) => {
     let updatedIds: number[] = [];
     await Promise.all(feeds.map(async (feed) => {
-        const b64 = btoa(feed.feedUrl);
-        const slug = b64.replace(/\+/g, '-').replace(/\//g, '_').replace(/=*$/, '');
+        const slug = convertToSlug(feed.feedUrl);
 
         let existingFeed: PostRssJson | null = readData(`data/feeds/${slug}.json`, { parseJSON: true });
         if (existingFeed) {

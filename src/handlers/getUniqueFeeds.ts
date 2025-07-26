@@ -1,12 +1,12 @@
 import { readData } from "../utils/fs";
 import { PostRssJson, PreRssJson } from "../utils/rss/types";
+import { convertToSlug } from "../utils/slug";
 
 export const getUniqueFeeds = (newFeeds: PreRssJson[]) => {
 
     let oldFeeds: (PreRssJson | PostRssJson)[] = [];
     newFeeds.forEach((feed) => {
-        const b64 = btoa(feed.feedUrl);
-        const slug = b64.replace(/\+/g, '-').replace(/\//g, '_').replace(/=*$/, '');
+        const slug = convertToSlug(feed.feedUrl);
 
         const oldFeed: PostRssJson | null = readData(`data/feeds/${slug}.json`, { parseJSON: true });
         if (oldFeed) oldFeeds.push(oldFeed);
