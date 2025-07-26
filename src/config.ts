@@ -1,3 +1,3 @@
 export const config = {
-    frontend: "https://newrss-next.mahirjpatel.workers.dev"
+    frontend: "https://newrss.mahirjpatel.workers.dev"
 }
