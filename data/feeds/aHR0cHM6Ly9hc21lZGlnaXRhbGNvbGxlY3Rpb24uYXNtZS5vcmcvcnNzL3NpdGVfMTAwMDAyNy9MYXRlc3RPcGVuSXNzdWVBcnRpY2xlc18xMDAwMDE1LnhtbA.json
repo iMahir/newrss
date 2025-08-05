@@ -5,6 +5,79 @@
   "feedUrl": "https://asmedigitalcollection.asme.org/rss/site_1000027/LatestOpenIssueArticles_1000015.xml",
   "items": [
     {
+      "title": "Fatigue Modeling for Laser-Fused Metal Components With Small Data",
+      "link": "https://asmedigitalcollection.asme.org/manufacturingscience/article/147/10/101006/1219718/Fatigue-Modeling-for-Laser-Fused-Metal-Components",
+      "author": null,
+      "thumbnail": null,
+      "summary": "*This research addresses *fatigue modeling* for *laser-fused metal components* using *small data sets*.\n- It discusses how to manage *scattering* in data to improve *reliability*.\n- The study highlights *innovative approaches* to enhance *predictive accuracy* in *metal additive manufacturing*.\n\n*Keywords:* fatigue, laser fusion, metal components, small data, reliability, scattering, modeling",
+      "keywords": [
+        "fatigue",
+        "laser fusion",
+        "metal components",
+        "small data",
+        "reliability"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-08-04T00:00:00.000Z"
+    },
+    {
+      "title": "Time-Series Data-Driven Machine Learning of Milling Chattering",
+      "link": "https://asmedigitalcollection.asme.org/manufacturingscience/article/147/10/101005/1219717/Time-Series-Data-Driven-Machine-Learning-of",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- *Milling chatter* causes severe vibrations, damaging surface quality, tools, and machines in high-value manufacturing.\n- The study introduces *machine learning models*—including hybrid LSTM-FCN, GRU-FCN, and TCN—to predict and quantify chatter from *time-series vibration data*.\n- The *GRU-FCN model* outperformed others, offering improved *accuracy*, *stability*, and real-time monitoring capabilities when milling parameters are included.\n\n**Scores:** {\n  \"scale\": 8,\n  \"impact\": 7,\n  \"novelty\": 8,\n  \"longTermSignificance\": 8\n},\n\"keywords\": [\"Milling\", \"Chatter Prediction\", \"Machine Learning\", \"Vibration Analysis\", \"Time-Series\", \"Manufacturing\"]}",
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-08-04T00:00:00.000Z"
+    },
+    {
+      "title": "Detection of Part Porosity in Additive Manufacturing Using Machining",
+      "link": "https://asmedigitalcollection.asme.org/manufacturingscience/article/147/10/101004/1219566/Detection-of-Part-Porosity-in-Additive",
+      "author": null,
+      "thumbnail": null,
+      "summary": "*The study explores how *machining processes* can be used to detect *porosity* in additive manufactured parts.*  *Porosity impacts the mechanical properties and integrity of 3D-printed components.*  *This research advances *non-destructive testing* techniques for ensuring *quality control* in additive manufacturing.*",
+      "keywords": [
+        "additive manufacturing",
+        "porosity detection",
+        "machining",
+        "non-destructive testing",
+        "quality control"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-08-04T00:00:00.000Z"
+    },
+    {
+      "title": "Rapid Commissioning of Large Machine Tools Using Finite Element-Based Correction of Geometric Errors",
+      "link": "https://asmedigitalcollection.asme.org/manufacturingscience/article/147/10/101003/1219467/Rapid-Commissioning-of-Large-Machine-Tools-Using",
+      "author": null,
+      "thumbnail": null,
+      "summary": "*The paper introduces a method for *rapidly* commissioning large machine tools.*\n- It employs *finite element-based correction* to address *geometric errors.*\n- This approach aims to improve *accuracy* and *efficiency* in machine tool setup, impacting manufacturing productivity.*",
+      "keywords": [
+        "machine tools",
+        "geometric errors",
+        "finite element method",
+        "manufacturing efficiency",
+        "precision engineering"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-08-04T00:00:00.000Z"
+    },
+    {
       "title": "Single-Layer Photopolymerization Process for the Rapid Fabrication of Nature-Inspired Multifunctional Films",
       "link": "https://asmedigitalcollection.asme.org/manufacturingscience/article/147/10/101002/1219223/Single-Layer-Photopolymerization-Process-for-the",
       "author": "Ketki M. Lichade, Sai Hamsitha Reddy Guvvala, Mohammed Gayasuddin Shaik",
