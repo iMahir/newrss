@@ -5,6 +5,27 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Inventory Management Software/Tools",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1mk3o6r/inventory_management_softwaretools/",
+      "author": "/u/sco_bo_buff",
+      "thumbnail": null,
+      "summary": "- *A medium-sized manufacturing company* seeks inventory software for raw materials, WIP, and finished goods across multiple US locations.\n- Recommendations include using an *ERP system* for better integration, with Odoo suggested as a cost-effective option.\n- *Proper system choice* depends on budget, complexity, and need for integration into existing processes.",
+      "keywords": [
+        "inventory management",
+        "ERP",
+        "manufacturing",
+        "software",
+        "supply chain"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-08-07T15:48:31.000Z"
+    },
+    {
       "0": "{",
       "1": "\n",
       "2": " ",
@@ -10429,27 +10450,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-07-31T05:08:25.000Z"
-    },
-    {
-      "title": "Scribe for physical workflows - feedback",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1mdsopi/scribe_for_physical_workflows_feedback/",
-      "author": "/u/runbleh",
-      "thumbnail": null,
-      "summary": "*The Reddit post discusses a tool called Scribe aimed at optimizing *physical workflows*. \n- Users provide *feedback* on its effectiveness and usability in manufacturing settings.\n- Overall, Scribe shows potential to improve process clarity, but some users suggest areas for *refinement* and further development.*",
-      "keywords": [
-        "manufacturing",
-        "workflow",
-        "feedback",
-        "tool",
-        "optimization"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-07-31T04:58:52.000Z"
     }
   ]
 }
