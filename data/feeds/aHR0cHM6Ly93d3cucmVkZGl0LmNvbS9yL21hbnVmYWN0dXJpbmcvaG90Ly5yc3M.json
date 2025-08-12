@@ -5,6 +5,27 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Robotics engineers and deburr robots variables",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1mohoow/robotics_engineers_what_variables_do_people_not/",
+      "author": "/u/Gyozapot",
+      "thumbnail": null,
+      "summary": "- *Deburr cells* involve complex variables often overlooked in design.\n- Predicting *material removal* requires math that considers *abrasive type*, *force*, *rpm*, *material*, and *travel speed*.\n- Understanding these factors is vital for optimizing *robotics* and *manufacturing processes* effectively.",
+      "keywords": [
+        "robotics",
+        "manufacturing",
+        "deburr",
+        "material removal",
+        "automation"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-08-12T19:02:23.000Z"
+    },
+    {
       "title": "Best Ways to Reach Small Manufacturers",
       "link": "https://www.reddit.com/r/manufacturing/comments/1mofxsz/what_is_the_best_way_to_reach_small_manufacturers/",
       "author": "/u/Cheese-Nachos",
@@ -5521,16 +5542,6 @@
         "longTermSignificance": 3
       },
       "pubDate": "2025-08-06T00:46:30.000Z"
-    },
-    {
-      "title": "Shop Floor Workstations for ProShop",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1miqkk4/shop_floor_workstations_for_proshop/",
-      "author": "/u/mccarki",
-      "thumbnail": null,
-      "summary": "- Discusses *design and optimization* of *shop floor workstations* for ProShop to enhance manufacturing efficiency.\n- Explores practical *layout strategies* and *tools* used to improve workflow and productivity.\n- Highlights the importance of *ergonomics* and *organization* for *worker safety* and *quality control*.\n\n**Scores:** {\n  \"scale\": 6,\n  \"impact\": 7,\n  \"novelty\": 5,\n  \"longTermSignificance\": 7\n}\n\n**Keywords:** [Manufacturing, Shop Floor, Workstations, ProShop, Workflow]",
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-08-06T00:42:42.000Z"
     }
   ]
 }
