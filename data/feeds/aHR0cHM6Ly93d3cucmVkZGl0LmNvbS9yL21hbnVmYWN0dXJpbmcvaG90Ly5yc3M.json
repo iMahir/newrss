@@ -5,6 +5,27 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Labor Tracking without ERP",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1mpy8ga/labor_tracking_without_erp/",
+      "author": "/u/Manf_Engineer",
+      "thumbnail": null,
+      "summary": "* Small manufacturing facilities seek lightweight labor tracking solutions instead of full ERPs.\n* Using apps like PowerApps can enable operators to scan jobs and track hours accurately.\n* Custom-built, simple systems improve data collection, rework cost calculation, and decision-making *without* disrupting daily operations.",
+      "keywords": [
+        "manufacturing",
+        "labor tracking",
+        "ERP alternative",
+        "PowerApps",
+        "custom software"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 4,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-08-14T11:41:56.000Z"
+    },
+    {
       "title": "Torn between two products: Pickleball paddles vs iPhone 17 cases – which would you push?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1mpu0yy/torn_between_two_products_pickleball_paddles_vs/",
       "author": null,
@@ -3546,27 +3567,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-08-06T19:27:05.000Z"
-    },
-    {
-      "title": "Utilizing SharePoint for a QMS",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1mj6p9s/utilizing_sharepoint_for_a_qms/",
-      "author": "/u/moldy13",
-      "thumbnail": null,
-      "summary": "- A user is exploring how to set up a *Quality Management System (QMS)* using *SharePoint*, focusing on **document management**.\n- They suggest a workflow where users can generate process documents with templates and auto-populated data via a homepage button.\n- Responders raise concerns about *data retention*, *auditability*, and *liability exposure* associated with such a system, highlighting key considerations for implementation.",
-      "keywords": [
-        "SharePoint",
-        "QMS",
-        "document management",
-        "workflow",
-        "compliance"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 4,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-08-06T14:49:23.000Z"
     }
   ]
 }
