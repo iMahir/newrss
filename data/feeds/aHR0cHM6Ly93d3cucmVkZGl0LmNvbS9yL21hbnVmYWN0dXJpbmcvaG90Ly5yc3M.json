@@ -5,6 +5,27 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Bending 2\" Copper Tube",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1mqd1j9/bending_2_copper_tube/",
+      "author": "/u/MetricIsSuperior",
+      "thumbnail": null,
+      "summary": "- *Bending 2\" copper tubes* with L walls is challenging due to cracking issues.\n- *Heating to 500°F* and bending in small increments often causes work hardening, making bending difficult.\n- Suggestions include *annealing the copper* by heating and quenching, or bending while hot to prevent cracking. *Cooling methods* are likely key to improving results.",
+      "keywords": [
+        "copper tubing",
+        "metalworking",
+        "bending",
+        "annealing",
+        "manufacturing"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 4,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-08-14T20:58:35.000Z"
+    },
+    {
       "title": "Labor Tracking without ERP",
       "link": "https://www.reddit.com/r/manufacturing/comments/1mpy8ga/labor_tracking_without_erp/",
       "author": "/u/Manf_Engineer",
@@ -3546,27 +3567,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-08-06T19:39:06.000Z"
-    },
-    {
-      "title": "Can The Canadian Auto Industry Be Saved?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1mje4o2/can_the_canadian_auto_industry_be_saved/",
-      "author": "/u/TheWorldHasFlipped",
-      "thumbnail": null,
-      "summary": "*Canada does not have its own major auto manufacturer, but produces many auto parts.*\n- The industry is dominated by Tier 2 suppliers, with little incentive for OEM development.\n- Discussions highlight the complexity and challenges of establishing a domestic auto OEM in Canada, with some joking about becoming the 51st state.",
-      "keywords": [
-        "Canadian auto industry",
-        "OEM",
-        "Tier 2 suppliers",
-        "auto manufacturing",
-        "industry challenges"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 6,
-        "novelty": 4,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-08-06T19:27:05.000Z"
     }
   ]
 }
