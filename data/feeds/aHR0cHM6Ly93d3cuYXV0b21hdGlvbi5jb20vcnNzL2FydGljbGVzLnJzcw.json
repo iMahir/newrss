@@ -5,6 +5,59 @@
   "feedUrl": "https://www.automation.com/rss/articles.rss",
   "items": [
     {
+      "title": "Rockwell Automation Opens Registration for Automation Fair 2025",
+      "link": "https://www.automation.com/en-us/articles/august-2025/rockwell-automation-registration-automation-fair",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- *Registration is now open* for Automation Fair 2025, hosted by Rockwell Automation in Chicago from November 17-20.\n- The event features *over 140 exhibits, 275+ sessions*, and exclusive industry tours, making it a major gathering for *industrial automation professionals*.\n- Attendees will see *groundbreaking technologies, connect with industry leaders*, and explore *cutting-edge solutions* shaping the future of industrial operations.",
+      "keywords": [
+        "Industrial Automation",
+        "Digital Transformation",
+        "Automation Fair 2025",
+        "Industry Events",
+        "Technology Innovation"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-08-14T05:00:00.000Z"
+    },
+    {
+      "title": "Humanoid Robots: 'Vision and Reality' Position Paper",
+      "link": "https://www.automation.com/en-us/articles/august-2025/humanoid-robots-vision-reality-position-paper",
+      "author": null,
+      "thumbnail": null,
+      "summary": "*Humanoids are viewed as the next big frontier in robotics, with China, the US, and Europe leading development efforts.*\n- The IFR's new position paper outlines **trends, opportunities,** and **limitations** of humanoids.\n- While humanoids excel in **complex tasks** and **human-like dexterity**, mass adoption as household helpers **may take time**, focusing more on **industrial and social applications** now.",
+      "keywords": [
+        "Humanoid robots",
+        "IFR",
+        "robotics development",
+        "regional strategies",
+        "industrial automation",
+        "social robots"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-08-14T05:00:00.000Z"
+    },
+    {
+      "title": "How AI Improves Signal Processing in Industrial IoT",
+      "link": "https://www.automation.com/en-us/articles/august-2025/ai-improves-signal-processing-industrial-iot",
+      "author": null,
+      "thumbnail": null,
+      "summary": "*AI enhances *signal processing* in industrial IoT through *noise reduction, anomaly detection,* and *predictive maintenance*.*\n\n- Deep learning models filter noise, making signals clearer and more reliable in noisy industrial environments.\n- AI detects anomalies early, helping prevent failures and extend equipment lifespan.\n- Adaptive, real-time decision-making optimizes transmission quality and predictive maintenance processes.\n\n**Scores:** { \"scale\": 8, \"impact\": 7, \"novelty\": 8, \"longTermSignificance\": 9 } \n**Keywords:** [\"AI\", \"Signal Processing\", \"Industrial IoT\", \"Maintenance\", \"Anomaly Detection\"]",
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-08-14T05:00:00.000Z"
+    },
+    {
       "title": "IFS Named a Customers’ Choice in 2025 Gartner Peer Insights",
       "link": "https://www.automation.com/en-us/articles/august-2025/ifs-named-as-a-customers-choice-in-the-2025-gartne",
       "author": null,
@@ -8054,60 +8107,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-08-01T05:00:00.000Z"
-    },
-    {
-      "title": "Operational Maturity: The Missing Link in Cybersecurity Success",
-      "link": "https://www.automation.com/en-us/articles/july-2025/operational-maturity-missing-link-cybersecurity",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- *Cybersecurity success* depends more on **operational maturity**, involving repeatable, business-aligned processes.\n- Many organizations fail due to lack of **mature processes**, integration, and continuous monitoring, not just cyber threats.\n- Building *operational maturity* requires assessing gaps, standardizing workflows, promoting collaboration, and ongoing training to enhance resilience and strategic alignment.\n\n",
-      "keywords": [
-        "cybersecurity",
-        "operational maturity",
-        "risk management",
-        "Zero Trust",
-        "process improvement"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 9
-      },
-      "pubDate": "2025-07-31T05:00:00.000Z"
-    },
-    {
-      "title": "Smart Water for a Smart Asia: Digital Solutions",
-      "link": "https://www.automation.com/en-us/articles/july-2025/smart-water-smart-asia-digitalization-water",
-      "author": null,
-      "thumbnail": null,
-      "summary": "*Asia faces an unprecedented water crisis due to rising demand, climate change, and infrastructure challenges.*\n- Digitalization, including IoT, AI, and smart management tools, offers **transformative solutions** to improve water security.\n- Successful implementation depends on overcoming barriers like data silos, investment shortages, and skills gaps, with collaboration and innovative models being key.**\n\n**Scores:** {\n  \"scale\": 8,\n  \"impact\": 9,\n  \"novelty\": 7,\n  \"longTermSignificance\": 9\n}\n\n**Keywords:** [Water Management, Digitalization, Asia, Climate Resilience, Infrastructure, Water Crisis]",
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-07-31T05:00:00.000Z"
-    },
-    {
-      "title": "IFS Launches Emissions Management with Climatiq",
-      "link": "https://www.automation.com/en-us/articles/july-2025/ifs-partners-climatiq-emissions-management-ifs",
-      "author": null,
-      "thumbnail": null,
-      "summary": "*IFS partners with Climatiq to integrate a new Emissions Management module into IFS Cloud.*\n- This module uses Climatiq’s carbon data engine to automate and improve *carbon footprint tracking* for industries.\n- The collaboration aims to embed *sustainability* into daily business operations, helping companies meet global emissions standards and make *data-driven, greener decisions.*",
-      "keywords": [
-        "Sustainability",
-        "Emissions Management",
-        "Climatiq",
-        "IFS Cloud",
-        "Carbon Footprint",
-        "Industrial AI",
-        "Corporate Reporting"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 8,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-07-31T05:00:00.000Z"
     }
   ]
 }
