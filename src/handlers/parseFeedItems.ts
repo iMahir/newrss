@@ -87,8 +87,8 @@ export const parseFeedItems = async (feeds: PreRssJson[]) => {
             const item = feedItems[i];
 
             if (item.link.includes("youtube.com/watch")) {
-                item.content = await youtubeContentGET(item);
-
+                // item.content = await youtubeContentGET(item);
+                continue; // Disable Youtube content
             }
             else if (item.link.includes("reddit.com")) {
                 const content = await redditContentGET(item);
@@ -202,4 +202,5 @@ async function redditContentGET(item: PreRssJson["items"][0]) {
         `
 
     return content;
+
 }
