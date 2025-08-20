@@ -5,6 +5,113 @@
   "feedUrl": "https://techxplore.com/rss-feed/breaking/hi-tech-news/",
   "items": [
     {
+      "title": "Self-powered photodetector achieves 20-fold sensitivity boost",
+      "link": "https://techxplore.com/news/2025-08-powered-photodetector-sensitivity-boost-device.html",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- A KAIST team developed a *self-powered photodetector* with *20x higher sensitivity*, operating without external power in light environments.\n- They utilized a novel *PN junction structure* with a *van der Waals bottom electrode* and *partial gate technology* to bypass doping challenges in 2D materials like MoS₂.\n- This innovation enables *high-precision sensing*, *biosignal detection*, and advances toward *miniaturized, self-powered* electronic components for next-generation devices.",
+      "keywords": [
+        "photodetector",
+        "2D semiconductors",
+        "MoS₂",
+        "PN junction",
+        "self-powered",
+        "nanotechnology"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 9,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-08-18T19:48:04.000Z"
+    },
+    {
+      "title": "Unique fingerprints in 3D printing may foil adversaries",
+      "link": "https://techxplore.com/news/2025-08-unique-fingerprints-3d-foil-adversaries.html",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- *Researchers* developed a method to embed *robust fingerprints* in 3D-printed objects that resist breaking or tampering.\n- The system, called **SIDE**, uses *mathematical techniques* to encode forensic data like timestamps and printer IDs, aiding *forensic investigations*.\n- While this enhances *security*, highly resourceful adversaries could still potentially bypass it, but *it raises the complexity* of hiding or removing identifiers.",
+      "keywords": [
+        "3D printing",
+        "Forensic security",
+        "Fingerprints",
+        "Cybersecurity",
+        "Mathematical techniques"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 9,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-08-18T18:57:03.000Z"
+    },
+    {
+      "title": "Innovative adhesive film harvests electricity from peeling",
+      "link": "https://techxplore.com/news/2025-08-adhesive-harvests-electricity-enabling-battery.html",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Researchers at UNIST developed a *ultra-thin, transparent film* that generates electricity through *mechanical peeling or pressing*.\n- The film uses *frictional electricity* and features a unique pattern of cuts inspired by the Korean alphabet, boosting adhesion and electrical output.\n- *Potential applications* include *battery-free sensors* for safety, security, industrial monitoring, and smart warning systems.",
+      "keywords": [
+        "triboelectric nanogenerator",
+        "self-powered sensors",
+        "adhesive technology",
+        "smart safety systems",
+        "industrial monitoring"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 9,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-08-18T16:37:03.000Z"
+    },
+    {
+      "title": "Shape-changing antenna enables more versatile sensing and wide-range communication",
+      "link": "https://techxplore.com/news/2025-08-antenna-enables-versatile-wide-range.html",
+      "author": null,
+      "thumbnail": null,
+      "summary": "*MIT researchers have developed a *reconfigurable antenna* made from metamaterials that can change shape to adjust its frequency range.*\n- The antenna can be stretched, bent, or compressed, enabling adaptive use without complex moving parts.\n- Applications include wireless communication, sensing, wearables, and smart textiles, with potential for future 3D designs and enhanced durability.*",
+      "keywords": [
+        "antenna",
+        "metamaterials",
+        "reconfigurable",
+        "wireless communication",
+        "sensing",
+        "wearables"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 9,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-08-18T15:12:04.000Z"
+    },
+    {
+      "title": "Nuclear waste as future reactor fuel",
+      "link": "https://techxplore.com/news/2025-08-nuclear-source-fuel-future-reactors.html",
+      "author": null,
+      "thumbnail": null,
+      "summary": "*Researchers are developing methods to convert nuclear waste into *tritium*, a key fuel for *fusion reactors*.\n- This approach could address the *tritium shortage* and utilize existing *radioactive waste*.\n- Simulations suggest that using waste with accelerators could produce significantly more tritium efficiently and safely.*",
+      "keywords": [
+        "nuclear waste",
+        "tritium",
+        "fusion energy",
+        "nuclear reactors",
+        "radioactive materials"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 8,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-08-18T09:00:09.000Z"
+    },
+    {
       "title": "Nanoengineered electrode boosts Li-metal battery efficiency",
       "link": "https://techxplore.com/news/2025-08-nanoengineered-electrode-material-boosts-efficiency.html",
       "author": null,
