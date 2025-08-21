@@ -5,6 +5,27 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Handling RoHS Carve-outs in Manufacturing",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1mw8yis/how_are_manufacturers_handling_rohs_carveouts/",
+      "author": "/u/IndependenceOwn3576",
+      "thumbnail": null,
+      "summary": "*Manufacturers face increased questions about RoHS exemptions, especially for special alloys or older parts.*  \n*Some customers accept exemptions, while others push back, creating a grey legal zone.*  \n*Decisions to use exemptions or avoid them impact production and compliance strategies.*",
+      "keywords": [
+        "RoHS",
+        "manufacturing",
+        "exemptions",
+        "compliance",
+        "regulations"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 4,
+        "novelty": 5,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-08-21T12:01:33.000Z"
+    },
+    {
       "title": "Strategies to Boost Manufacturing Productivity",
       "link": "https://www.reddit.com/r/manufacturing/comments/1mw4cmz/whats_your_way_of_increasing_productivity_in/",
       "author": "/u/doggod69123",
@@ -3763,27 +3784,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-08-13T08:45:04.000Z"
-    },
-    {
-      "title": "Robotics engineers and deburr robots variables",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1mohoow/robotics_engineers_what_variables_do_people_not/",
-      "author": "/u/Gyozapot",
-      "thumbnail": null,
-      "summary": "- *Deburr cells* involve complex variables often overlooked in design.\n- Predicting *material removal* requires math that considers *abrasive type*, *force*, *rpm*, *material*, and *travel speed*.\n- Understanding these factors is vital for optimizing *robotics* and *manufacturing processes* effectively.",
-      "keywords": [
-        "robotics",
-        "manufacturing",
-        "deburr",
-        "material removal",
-        "automation"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-08-12T19:02:23.000Z"
     }
   ]
 }
