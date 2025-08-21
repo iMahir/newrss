@@ -5,6 +5,28 @@
   "feedUrl": "https://www.assemblymag.com/rss/17",
   "items": [
     {
+      "title": "AI Tool Enhances Assembly Efficiency with Lego",
+      "link": "https://www.assemblymag.com/articles/99508-new-ai-tool-could-make-assembly-faster-and-more-efficient",
+      "author": "webera@bnpmedia.com (Austin Weber)",
+      "thumbnail": "https://www.assemblymag.com/ext/resources/issues2/2025/09-sep/asb0925lines3-forweb.webp?t=1755633630",
+      "summary": "- Engineers at Carnegie Mellon University developed *BrickGPT*, an AI tool that uses *text prompts* to assemble objects from Lego bricks.\n- The system generates step-by-step building guides for items like chairs, sofas, and birdhouses, potentially *speeding up* design and prototyping processes.\n- This innovation could *revolutionize manufacturing*, making product creation more efficient through *generative AI* for physical design.",
+      "keywords": [
+        "AI",
+        "manufacturing",
+        "robotics",
+        "generative design",
+        "Lego",
+        "innovation"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 9,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-08-21T13:00:00.000Z"
+    },
+    {
       "title": "IT/OT Collaboration Boosts Digital Transformation",
       "link": "https://www.assemblymag.com/articles/99507-it-ot-collaboration-drives-digital-transformation-initiatives",
       "author": "webera@bnpmedia.com (Austin Weber)",
@@ -4572,28 +4594,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-07-29T13:00:00.000Z"
-    },
-    {
-      "title": "American Airlines Takes Delivery of First A321XLR",
-      "link": "https://www.assemblymag.com/articles/99453-american-airlines-takes-delivery-of-first-a321xlr-but-supply-chain-issues-keep-it-grounded",
-      "author": null,
-      "thumbnail": "https://www.assemblymag.com/ext/resources/images/Article-Images-(37).webp?1753725467",
-      "summary": "- American Airlines has received its first Airbus A321XLR, designed to enhance long-haul services. \n- The aircraft is grounded due to ongoing *seat supply chain issues*, unrelated to tariffs on European-built jets. \n- American plans to expand its long-haul fleet significantly by 2029, but similar challenges are affecting other airlines like Delta as well.",
-      "keywords": [
-        "American Airlines",
-        "A321XLR",
-        "aircraft",
-        "supply chain",
-        "aviation",
-        "long-haul"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-07-28T17:02:08.000Z"
     }
   ]
 }
