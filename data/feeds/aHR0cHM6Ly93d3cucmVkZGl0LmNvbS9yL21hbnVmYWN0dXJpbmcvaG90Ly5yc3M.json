@@ -5,16 +5,16 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
-      "title": "Variation in Results of Anodizing",
-      "link": null,
+      "title": "Anodizing: same instructions, different results",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1n1szfl/anodizing_same_instructions_different_results/",
       "author": "/u/CinnamonCrunchLunch",
       "thumbnail": null,
-      "summary": "*Different results in anodizing occur despite following the same instructions.*\n- One user suggests that *pre-etching or etching* before anodizing might influence the outcome.\n- The process's results can vary due to *pre-treatment steps or surface conditions.*",
+      "summary": "- *Different outcomes* occur despite using the *same anodizing instructions*, possibly due to *surface preparation* like etching.\n- Some users suggest that one piece may have been *etched prior* to anodizing, affecting the final appearance.\n- *Surface condition* plays a crucial role in the *quality and consistency* of anodized results, highlighting the complexity of the process.",
       "keywords": [
         "anodizing",
-        "surface treatment",
+        "surface preparation",
         "manufacturing",
-        "pre-etching"
+        "metal finishing"
       ],
       "scores": {
         "scale": 5,
@@ -1045,6 +1045,27 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-08-25T22:17:43.000Z"
+    },
+    {
+      "title": "Reliable Suppliers for Flip-Open Jewelry Boxes",
+      "link": null,
+      "author": "/u/FalseGuard7923",
+      "thumbnail": null,
+      "summary": "*A Reddit user seeks trustworthy suppliers for customizable, flip-open gift/jewelry boxes.*\n*Ideal features include magnetic lids, sturdy cardboard, and bulk pricing, with options for logo printing.*\n*Some suggestions include exploring Alibaba for reliable Chinese manufacturers offering quality products.*",
+      "keywords": [
+        "packaging",
+        "jewelry boxes",
+        "suppliers",
+        "customization",
+        "Alibaba"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 4,
+        "novelty": 3,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-08-25T15:39:41.000Z"
     },
     {
       "0": "{",
@@ -4809,27 +4830,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-08-20T04:42:31.000Z"
-    },
-    {
-      "title": "Should I have a manufacturer sign an NDA for designs?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1mv4acr/should_i_have_manufacturer_sign_an_nda_before_i/",
-      "author": "/u/Prettysurethtsilegal",
-      "thumbnail": null,
-      "summary": "- *NDAs* can be asked for, but their enforceability in China is questionable. <br> - *Protection methods* like copyrights, watermarks, and careful sharing are more effective. <br> - Building *trust* with reputable factories and starting with small projects helps minimize risks of theft or copying.",
-      "keywords": [
-        "NDA",
-        "manufacturing",
-        "intellectual property",
-        "China",
-        "product protection"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 4,
-        "novelty": 4,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-08-20T03:46:55.000Z"
     }
   ]
 }
