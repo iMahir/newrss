@@ -5,6 +5,46 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Variation in Results of Anodizing",
+      "link": null,
+      "author": "/u/CinnamonCrunchLunch",
+      "thumbnail": null,
+      "summary": "*Different results in anodizing occur despite following the same instructions.*\n- One user suggests that *pre-etching or etching* before anodizing might influence the outcome.\n- The process's results can vary due to *pre-treatment steps or surface conditions.*",
+      "keywords": [
+        "anodizing",
+        "surface treatment",
+        "manufacturing",
+        "pre-etching"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 4,
+        "novelty": 3,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-08-27T21:00:03.000Z"
+    },
+    {
+      "title": "Recommendation for Micro milling",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1n1rz9r/recommendation_for_micro_milling/",
+      "author": "/u/danny_lovett",
+      "thumbnail": null,
+      "summary": "*The user seeks recommendations for micro milling a precise needle-shaped piece.* *The part is 12.7 mm long, 5 mm in diameter, with an 8 mm deep, 3.5 mm diameter hole.* *He needs 4 prototypes for testing and then 2000 units; previous options like Xometry and Cox Manufacturing were tried without success.*",
+      "keywords": [
+        "micro milling",
+        "manufacturing",
+        "prototyping",
+        "precision parts"
+      ],
+      "scores": {
+        "scale": 4,
+        "impact": 3,
+        "novelty": 2,
+        "longTermSignificance": 2
+      },
+      "pubDate": "2025-08-27T20:20:12.000Z"
+    },
+    {
       "title": "Manufacturing Neoprene Wraps for Medical Devices",
       "link": "https://www.reddit.com/r/manufacturing/comments/1n1p4cc/manufacturing_neoprene_wraps_medical_device/",
       "author": "/u/UnderappreciatedMBA",
@@ -1005,27 +1045,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-08-25T22:17:43.000Z"
-    },
-    {
-      "title": "Reliable Suppliers for Flip-Open Jewelry Boxes",
-      "link": null,
-      "author": "/u/FalseGuard7923",
-      "thumbnail": null,
-      "summary": "*A Reddit user seeks trustworthy suppliers for customizable, flip-open gift/jewelry boxes.*\n*Ideal features include magnetic lids, sturdy cardboard, and bulk pricing, with options for logo printing.*\n*Some suggestions include exploring Alibaba for reliable Chinese manufacturers offering quality products.*",
-      "keywords": [
-        "packaging",
-        "jewelry boxes",
-        "suppliers",
-        "customization",
-        "Alibaba"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 4,
-        "novelty": 3,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-08-25T15:39:41.000Z"
     },
     {
       "0": "{",
@@ -4811,27 +4830,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-08-20T03:46:55.000Z"
-    },
-    {
-      "title": "How to Keep Assembly Instructions Up to Date",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1mv4a7c/how_do_you_keep_assembly_instructions_up_to_date/",
-      "author": "/u/young-litty",
-      "thumbnail": null,
-      "summary": "*Mid-sized companies face challenges in updating assembly instructions due to frequent design changes.*\n- Traditional paper instructions are static and may lead to re-training issues.\n- Solutions like instructional videos and augmented reality are considered but require resources.\n- *Effective strategies include using digital overlays, involving technical writers, and leveraging printable instructions for better flexibility.*",
-      "keywords": [
-        "assembly instructions",
-        "training",
-        "digital solutions",
-        "manufacturing",
-        "technical writing"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 4,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-08-20T03:46:42.000Z"
     }
   ]
 }
