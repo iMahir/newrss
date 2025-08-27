@@ -5,6 +5,71 @@
   "feedUrl": "https://www.automation.com/rss/articles.rss",
   "items": [
     {
+      "title": "12 Students Awarded Dematic FIRST Scholarships to Pursue STEM Education",
+      "link": "https://www.automation.com/en-us/articles/august-2025/12-students-awarded-dematic-first-scholarships",
+      "author": null,
+      "thumbnail": null,
+      "summary": "*Dematic awarded scholarships to 12 students supporting STEM education, emphasizing innovation and leadership.*\n- The program awarded two $5,000 and ten $1,000 scholarships to students involved in FIRST robotics competitions.\n- **Dematic's ongoing commitment** includes sponsorships, mentorship, and investment in future STEM professionals through 2008 to 2025, fostering long-term industry growth.",
+      "keywords": [
+        "STEM",
+        "scholarships",
+        "FIRST Robotics",
+        "dematic",
+        "education",
+        "industry"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-08-27T05:00:00.000Z"
+    },
+    {
+      "title": "Criticality: The Measure That Matters",
+      "link": "https://www.automation.com/en-us/articles/august-2025/criticality-measure-matters",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Most teams focus on *downtime*, but true *criticality* involves broader factors like safety, cascading failures, and inventory costs.\n- Modern *predictive maintenance (PdM)* technologies enable proactive risk management by monitoring asset health and preventing failures.\n- To optimize criticality assessment, facilities should expand beyond production impact, incorporating safety, supply chain, and strategic risks for comprehensive reliability management.",
+      "keywords": [
+        "asset criticality",
+        "predictive maintenance",
+        "reliability",
+        "industrial safety",
+        "asset management",
+        "risk assessment"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-08-27T05:00:00.000Z"
+    },
+    {
+      "title": "‘Ask the Right Questions’: Tech Impact on Worker Safety",
+      "link": "https://www.automation.com/en-us/articles/august-2025/report-explores-tech-impact-worker-safety",
+      "author": null,
+      "thumbnail": null,
+      "summary": "*Emerging technologies like wearable devices, cobots, AR/VR, and AI have potential safety benefits and risks for workers.*\n\n- *Research highlights evidence gaps and calls for coordinated efforts among researchers, workers, and tech creators.*\n\n- *The report emphasizes the importance of safety science and collaborative evaluation to ensure safe technological adoption.*",
+      "keywords": [
+        "worker safety",
+        "emerging technologies",
+        "AI",
+        "occupational health",
+        "safety science"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-08-27T05:00:00.000Z"
+    },
+    {
       "title": "SkillPointe & Schneider Electric Expand Scholarships",
       "link": "https://www.automation.com/en-us/articles/august-2025/skillpointe-foundation-schneider-electric",
       "author": null,
@@ -3594,72 +3659,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-08-15T05:00:00.000Z"
-    },
-    {
-      "title": "Solving Industrial Machine Health Challenges at the Edge",
-      "link": "https://www.automation.com/en-us/articles/august-2025/solving-industrial-machine-health-challenges-edge",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- *Downtime* in manufacturing causes delays, costly repairs, and reliability issues.\n- Edge AI-enabled predictive maintenance detects failures early by analyzing data locally, reducing latency and improving response.\n- The *edgeRX platform* offers a scalable, easy-to-deploy solution that integrates sensors and AI to support Industry 4.0 initiatives, extending equipment lifespan and preventing failures.",
-      "keywords": [
-        "Predictive Maintenance",
-        "Edge AI",
-        "Industrial IoT",
-        "Industry 4.0",
-        "Machine Health",
-        "Sensor Technology",
-        "Manufacturing"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 8,
-        "longTermSignificance": 9
-      },
-      "pubDate": "2025-08-15T05:00:00.000Z"
-    },
-    {
-      "title": "Mikrotron Camera as Remote Vibration Sensor",
-      "link": "https://www.automation.com/en-us/articles/august-2025/mikrotron-camera-remote-vibration-sensor",
-      "author": null,
-      "thumbnail": null,
-      "summary": "*Researchers developed a GPU-based platform using a Mikrotron camera to visualize vibrations remotely.*\n*The system effectively measures full-field vibrations of objects like cymbals and steel boxes, matching traditional sensors.*\n*Future plans include enhancing accuracy and applying the system to bridge monitoring and structural analysis.*",
-      "keywords": [
-        "vibration monitoring",
-        "high-speed vision",
-        "non-contact measurement",
-        "structural analysis",
-        "GPU technology"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 8,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-08-14T05:00:00.000Z"
-    },
-    {
-      "title": "Siemens Xcelerator Empowers Skyroot Aerospace",
-      "link": "https://www.automation.com/en-us/articles/august-2025/siemens-xcelerator-space-tech-pioneer-skyroot",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- *Skyroot Aerospace*, an Indian private space company, adopted Siemens' Polarion software to enhance its *digital transformation* and streamline software development.\n- The company, known for launching India's first private rocket, aims to improve *collaboration*, *traceability*, and *efficiency* in its aerospace projects.\n- Siemens’ solution supports Skyroot's mission to make *spaceflight* more *affordable* and *versatile*, reinforcing its position as a global pioneer in space technology.",
-      "keywords": [
-        "Siemens",
-        "Skyroot Aerospace",
-        "digital transformation",
-        "space industry",
-        "software development",
-        "aerospace innovation"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-08-14T05:00:00.000Z"
     }
   ]
 }
