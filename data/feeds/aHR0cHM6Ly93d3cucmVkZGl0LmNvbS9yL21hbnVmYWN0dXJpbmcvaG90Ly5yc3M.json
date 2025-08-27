@@ -5,6 +5,27 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Automated Production Scheduling",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1n1mj1k/automated_production_scheduling/",
+      "author": "/u/jared8722",
+      "thumbnail": null,
+      "summary": "- The poster seeks *software* that can integrate orders and inventory from ERP systems to generate production schedules.\n- This highlights a need for *automation* in manufacturing planning to improve efficiency.\n- Such solutions can help streamline workflows and reduce manual scheduling efforts in manufacturing facilities.",
+      "keywords": [
+        "manufacturing",
+        "automation",
+        "production scheduling",
+        "ERP",
+        "software"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 4,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-08-27T16:56:12.000Z"
+    },
+    {
       "title": "Handling cut-to-length materials in ERP",
       "link": "https://www.reddit.com/r/manufacturing/comments/1n1hzzj/handling_cuttolength_material_stock_usages_in_erp/",
       "author": "/u/the_best_lizard",
@@ -4812,27 +4833,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-08-20T02:37:10.000Z"
-    },
-    {
-      "title": "Custom food processing equipment design",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1mv0x5h/custom_food_processing_equipment_design/",
-      "author": "/u/soi_cowboy_",
-      "thumbnail": null,
-      "summary": "- An individual seeks to design a *custom food processing machine* to cut sheets into specific rectangular sizes, aiming to reduce manual labor and increase efficiency.\n- The concept involves retrofitting a *food-grade arbor press* with custom dies to produce clean, repetitive cuts suitable for packaging.\n- Several responders suggest the project is feasible, emphasizing the importance of using *food-safe materials* and offering expertise in custom equipment design with a focus on *food industry standards*.",
-      "keywords": [
-        "food processing",
-        "custom equipment",
-        "manufacturing",
-        "food safety",
-        "automation"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-08-20T01:06:41.000Z"
     }
   ]
 }
