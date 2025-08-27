@@ -5,6 +5,27 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Handling cut-to-length materials in ERP",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1n1hzzj/handling_cuttolength_material_stock_usages_in_erp/",
+      "author": "/u/the_best_lizard",
+      "thumbnail": null,
+      "summary": "*Managing *cut-to-length* materials in ERP poses challenges in reservation and inventory management.*\n\n- Using length-based reservations often leads to underestimation, causing insufficient materials.\n- Full-piece reservation results in excessive scrap, highlighting inefficiency.\n- The post seeks *solutions* for balancing material reservations to optimize usage and reduce waste.\n",
+      "keywords": [
+        "ERP",
+        "manufacturing",
+        "material management",
+        "cut-to-length",
+        "inventory"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-08-27T14:05:43.000Z"
+    },
+    {
       "title": "Tool holders",
       "link": "https://www.reddit.com/r/manufacturing/comments/1n19t9d/tool_holders/",
       "author": "/u/e_t_h_a",
@@ -4812,27 +4833,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-08-20T01:06:41.000Z"
-    },
-    {
-      "title": "Linking maintenance checks to production in BC",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1muvtue/i_tied_maintenance_checks_to_production_in_bc/",
-      "author": "/u/BCinsider",
-      "thumbnail": null,
-      "summary": "- *Preventive maintenance tasks* are automatically triggered based on equipment runtime or output in Business Central.\n- This approach has **reduced last-minute breakdowns**, but balancing **proactive maintenance** with production schedules remains a challenge.\n- The author questions how others ensure **maintenance is proactive without impacting productivity**.",
-      "keywords": [
-        "maintenance",
-        "manufacturing",
-        "production scheduling",
-        "automation",
-        "Business Central"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 7,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-08-19T21:34:02.000Z"
     }
   ]
 }
