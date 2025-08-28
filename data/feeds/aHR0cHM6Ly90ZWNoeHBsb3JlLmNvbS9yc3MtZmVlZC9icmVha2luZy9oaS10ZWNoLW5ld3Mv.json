@@ -5,6 +5,28 @@
   "feedUrl": "https://techxplore.com/rss-feed/breaking/hi-tech-news/",
   "items": [
     {
+      "title": "The AI breakthrough that uses almost no power to create images",
+      "link": "https://techxplore.com/news/2025-08-ai-breakthrough-power-images.html",
+      "author": null,
+      "thumbnail": null,
+      "summary": "*Scientists developed an *energy-efficient* AI image generator that uses light instead of computation.*\n- This system employs *spatial light modulators* and lasers to synthesize images with minimal power, unlike conventional diffusion-based models.\n- The breakthrough could significantly *reduce the carbon footprint* of AI-generated content and enable applications in *AR/VR* and *small devices* like smartphones.",
+      "keywords": [
+        "AI",
+        "energy efficiency",
+        "optical generative models",
+        "light-based AI",
+        "sustainability",
+        "virtual reality"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 9,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-08-28T14:40:01.000Z"
+    },
+    {
       "title": "Prehistoric basketweaving inspires new materials for robots",
       "link": "https://techxplore.com/news/2025-08-prehistoric-basketweaving-materials-stiff-resilient.html",
       "author": null,
@@ -5944,16 +5966,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-06-20T13:48:03.000Z"
-    },
-    {
-      "title": "Photosynthetic living material uses bacteria to capture CO₂ in two different ways",
-      "link": "https://techxplore.com/news/2025-06-photosynthetic-material-bacteria-capture-ways.html",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-06-19T17:32:05.000Z"
     }
   ]
 }
