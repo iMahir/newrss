@@ -5,6 +5,27 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Learning Unwritten Rules on the Shop Floor",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1n5aakp/how_did_you_best_pick_up_the_unwritten_rules_on/",
+      "author": "/u/zenyawitsch",
+      "thumbnail": null,
+      "summary": "- **Spend time on the floor** to observe and talk to operators and maintenance techs about real-world processes.  \n- **Get hands-on experience** by performing tasks yourself when possible, to understand processes and design better solutions.  \n- **Build relationships** with operators and ask for training to rapidly learn the *tribal knowledge* that isn't in SOPs, making processes easier for everyone. ",
+      "keywords": [
+        "manufacturing",
+        "shop floor",
+        "tribal knowledge",
+        "training",
+        "process improvement"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-09-01T00:14:23.000Z"
+    },
+    {
       "title": "Desiccant manufacturer",
       "link": "https://www.reddit.com/r/manufacturing/comments/1n55w7q/desiccant_manufacturer/",
       "author": "/u/arph",
@@ -5673,27 +5694,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-08-23T15:23:48.000Z"
-    },
-    {
-      "title": "Fast Prototype Manufacturing Options",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1my0xqn/where_to_get_a_prototype_made_fast/",
-      "author": "/u/daveTFS",
-      "thumbnail": null,
-      "summary": "- *Protolabs*, *Xometry*, and *SendCutSend* are popular companies for quick-turn prototypes.\n- Consider local machine shops, university shops, or hobbyists for faster, often cheaper options.\n- Using *COTS parts*, *3D printing*, and *rapid quote tools* can accelerate development, but material and complexity influence the timeline.",
-      "keywords": [
-        "prototype",
-        "manufacturing",
-        "rapid prototyping",
-        "machine shops",
-        "3D printing"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 4,
-        "novelty": 3,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-08-23T13:04:41.000Z"
     }
   ]
 }
