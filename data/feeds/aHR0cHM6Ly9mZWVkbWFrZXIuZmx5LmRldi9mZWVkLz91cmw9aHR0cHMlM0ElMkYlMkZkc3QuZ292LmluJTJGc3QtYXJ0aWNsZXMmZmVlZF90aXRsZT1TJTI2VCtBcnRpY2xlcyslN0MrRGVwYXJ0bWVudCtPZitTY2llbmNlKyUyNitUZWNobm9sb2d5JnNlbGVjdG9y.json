@@ -5,6 +5,37 @@
   "feedUrl": "https://feedmaker.fly.dev/feed/?url=https%3A%2F%2Fdst.gov.in%2Fst-articles&feed_title=S%26T+Articles+%7C+Department+Of+Science+%26+Technology&selector_item=.field-content+ol+li&selector_title=a&selector_description=&selector_link=a%5Bhref%5D",
   "items": [
     {
+      "title": "A tiny Computer's big role in unveiling the Universe's earliest whispers",
+      "link": "https://dst.gov.in/tiny-computers-big-role-unveiling-universes-earliest-whispers",
+      "author": null,
+      "thumbnail": null,
+      "summary": "*A compact single-board computer (SBC) is pivotal in a new radiometer mission called PRATUSH, aimed at exploring the *Cosmic Dawn*.*\n- PRATUSH, set for lunar orbit, seeks faint radio signals from hydrogen atoms to understand the universe's first stars.\n- Utilizing a Raspberry Pi-based digital receiver, the system demonstrates high sensitivity and low noise, crucial for detecting signals buried under interference.*\n\n\"scale\": 8,\n\"impact\": 9,\n\"novelty\": 9,\n\"longTermSignificance\": 8,\n\"keywords\": [\"Cosmic Dawn\", \"PRATUSH\", \"radio astronomy\", \"single-board computer\", \"lunar mission\", \"cosmology\" ]}",
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-09-01T11:14:18.414Z"
+    },
+    {
+      "title": "New compound can combat aggressive breast cancer",
+      "link": "https://dst.gov.in/new-compound-synthesised-can-combat-aggressive-breast-cancer",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Researchers synthesized a novel *organoselenium compound* that reduces the *invasiveness* of *triple-negative breast cancer cells*.\n- The compound, called *diselenide 7*, *targets multiple signaling pathways* like Akt/mTOR and ERK, and induces *reactive oxygen species* (ROS), leading to cancer cell death.\n- Studies in mice showed *decreased tumor growth*, *less metastasis*, and *extended lifespan*, supporting its potential as a *multitargeting anticancer agent*.",
+      "keywords": [
+        "breast cancer",
+        "organoselenium",
+        "anticancer",
+        "signaling pathways",
+        "drug discovery"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-09-01T11:14:18.414Z"
+    },
+    {
       "title": "Tiny Gold Particles for Early Parkinson's Detection",
       "link": "https://dst.gov.in/tiny-gold-particles-can-help-early-detection-parkinsons-disease",
       "author": null,
