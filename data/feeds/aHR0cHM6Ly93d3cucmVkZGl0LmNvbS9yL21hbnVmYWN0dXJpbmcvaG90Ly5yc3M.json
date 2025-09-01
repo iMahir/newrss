@@ -5,6 +5,58 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Minimum Workflow Types Covering Most Productions",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1n5vef9/what_is_the_minimum_number_of_workflow_scenario/",
+      "author": "/u/BuffHaloBill",
+      "thumbnail": null,
+      "summary": "*The discussion explores whether three core workflow types — **full batch**, **partial batch**, and **continuous** — can *cover most manufacturing operations*.\n- Some argue that *different production floors and product types* make a one-size-fits-all system impractical, emphasizing the need for *flexibility*.\n- The system described is aimed at *small, linear production setups*, suitable for startups or small enterprises managing *simple, small batch processes*.*\n\nScores: { \"scale\": 6, \"impact\": 4, \"novelty\": 4, \"longTermSignificance\": 5 }\nKeywords: [manufacturing, workflow, batch, continuous, production, system design]",
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-09-01T17:43:03.000Z"
+    },
+    {
+      "title": "The biggest threat to ERP isn't bugs—it’s Excel",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1n5t2za/the_biggest_threat_to_erp_isnt_bugsits_excel/",
+      "author": "/u/arpitsingla7",
+      "thumbnail": null,
+      "summary": "*Shadow systems like spreadsheets and side databases threaten ERP's integrity due to lack of trust and support.*\n- Leaders should **identify, understand, and fix gaps** to build system trust and reduce shadows.\n- Properly supporting and customizing ERP ensures data consistency and prevents costly workarounds, avoiding systemic failures.",
+      "keywords": [
+        "ERP",
+        "manufacturing",
+        "data integrity",
+        "shadow systems",
+        "business processes"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-09-01T16:18:05.000Z"
+    },
+    {
+      "title": "Inventory Management",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1n5sv2y/inventory_management/",
+      "author": "/u/External_Spread_3979",
+      "thumbnail": null,
+      "summary": "- Many tools and software are primarily *record-keeping* rather than full *inventory management* systems.\n- Effective management relies heavily on *how you design your processes*, not just tools.\n- Managing the *decision-making* aspect of inventory requires tailored approaches based on *processes, personnel, and equipment*.",
+      "keywords": [
+        "inventory management",
+        "process design",
+        "decision-making",
+        "tools",
+        "business operations"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 4,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-09-01T16:09:54.000Z"
+    },
+    {
       "title": "Is turnover the real issue in manufacturing?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1n5r1ni/is_turnover_the_real_issue_in_manufacturing/",
       "author": "/u/kbeautyinsights",
@@ -4568,69 +4620,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-08-26T01:52:54.000Z"
-    },
-    {
-      "title": "Career Path and Growth Options for Controls Engineers",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1n08kc7/stuck_as_sr_controls_engineer_in_a_legacy/",
-      "author": "/u/badvik83",
-      "thumbnail": null,
-      "summary": "*A senior controls engineer in a legacy plant considers career growth, including management roles, internal pivots, or external opportunities.*\n- The engineer highlights challenges such as limited growth, a tough environment, and the desire for a role that combines automation with leadership, with a target salary of $160k+.\n- Community members suggest exploring manufacturing engineering or managerial roles, certifications, and industry switches, emphasizing NJ's pharma/food sectors and cross-industry skills transfer.*",
-      "keywords": [
-        "career development",
-        "controls engineering",
-        "management",
-        "manufacturing",
-        "industry switch"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 5,
-        "novelty": 4,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-08-26T01:15:23.000Z"
-    },
-    {
-      "title": "Work in Dirty Plants and Respiratory Risks",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1n04id5/for_those_who_work_in_dirty_plants/",
-      "author": "/u/DirectionCareless442",
-      "thumbnail": null,
-      "summary": "*Workers in less modern factories often blow *black snot* due to dust and fumes.*\n*Use of *respirators* like N95 masks is highly recommended to prevent serious health risks such as *silicosis* or *black lung*.*\n*Air quality tests may seem fine, but workers' symptoms suggest significant respiratory exposure in these environments.*",
-      "keywords": [
-        "industrial health",
-        "respiratory protection",
-        "dust exposure",
-        "work safety",
-        "factory environment"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 3,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-08-25T22:17:43.000Z"
-    },
-    {
-      "title": "Reliable Suppliers for Flip-Open Jewelry Boxes",
-      "link": null,
-      "author": "/u/FalseGuard7923",
-      "thumbnail": null,
-      "summary": "*A Reddit user seeks trustworthy suppliers for customizable, flip-open gift/jewelry boxes.*\n*Ideal features include magnetic lids, sturdy cardboard, and bulk pricing, with options for logo printing.*\n*Some suggestions include exploring Alibaba for reliable Chinese manufacturers offering quality products.*",
-      "keywords": [
-        "packaging",
-        "jewelry boxes",
-        "suppliers",
-        "customization",
-        "Alibaba"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 4,
-        "novelty": 3,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-08-25T15:39:41.000Z"
     }
   ]
 }
