@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Question for production planners and schedulers",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1n7ifpc/question_for_production_planners_and_schedulers/",
+      "author": "/u/TheBouch10",
+      "thumbnail": null,
+      "summary": "- What’s up? How do you handle *chaos* when disruptions hit (no-shows, downtime, priority flips, rush orders)?\n- Are there tools that auto-reshuffle via *event-driven* logic, and how auto/manual is data updating? How fast can you recover?\n- Share your context: machines, crew size, years, *industry*, tools, whether *order-based* or *line assembly*, and your *dream scheduling setup* (not marketing).",
+      "keywords": [
+        "production scheduling",
+        "manufacturing",
+        "ERP",
+        "event-driven",
+        "auto-reshuffle",
+        "operations management"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-09-03T15:48:24.000Z"
+    },
+    {
       "title": "Cable cars difference between different manufacturers",
       "link": "https://www.reddit.com/r/manufacturing/comments/1n7chns/cable_cars_difference_between_different/",
       "author": "/u/Wise-Lawyer1167",
@@ -4697,27 +4719,6 @@
         "longTermSignificance": 2
       },
       "pubDate": "2025-08-28T00:26:23.000Z"
-    },
-    {
-      "title": "Manufacturer red flag?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1n1wsm1/manufacturer_red_flag/",
-      "author": "/u/cocodelocoboco",
-      "thumbnail": null,
-      "summary": "*Willingness to pay via wire transfer or Zelle can be a *red flag* for new buyers, especially with unfamiliar companies.*\n*Industry norms indicate such payment methods are common in low-trust scenarios but should be accompanied by proper vetting and documentation.*\n*Always perform thorough vetting and establish clear Terms & Conditions before transferring funds *to mitigate risks*.*",
-      "keywords": [
-        "manufacturing",
-        "payment methods",
-        "trust",
-        "red flag",
-        "vetting"
-      ],
-      "scores": {
-        "scale": 4,
-        "impact": 5,
-        "novelty": 3,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-08-27T23:35:25.000Z"
     }
   ]
 }
