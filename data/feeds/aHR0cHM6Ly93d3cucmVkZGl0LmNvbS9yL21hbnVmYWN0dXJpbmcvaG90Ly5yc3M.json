@@ -5,6 +5,27 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Challenges Re-shoring American Manufacturing",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1n704eg/challenges_reshoring_american_manufacturing/",
+      "author": "/u/SCS_Manufacturing",
+      "thumbnail": null,
+      "summary": "- The post by */u/SCS_Manufacturing* introduces the topic of *reshoring* and **manufacturing** in the U.S. \n- It links to the original post and a related discussion in /r/SolutionCentricSystem for broader context. \n- The entry has no thumbnail and serves as an entry point to the Reddit discussion.",
+      "keywords": [
+        "reshoring",
+        "manufacturing",
+        "US industry",
+        "supply_chain",
+        "policy"
+      ],
+      "scores": {
+        "scale": 3,
+        "impact": 3,
+        "novelty": 2,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-09-03T00:14:06.000Z"
+    },
+    {
       "title": "Skin care",
       "link": "https://www.reddit.com/r/manufacturing/comments/1n6wat3/skin_care/",
       "author": "/u/Healthy-World3843",
@@ -4687,27 +4708,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-08-27T16:56:12.000Z"
-    },
-    {
-      "title": "Handling cut-to-length materials in ERP",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1n1hzzj/handling_cuttolength_material_stock_usages_in_erp/",
-      "author": "/u/the_best_lizard",
-      "thumbnail": null,
-      "summary": "*Managing *cut-to-length* materials in ERP poses challenges in reservation and inventory management.*\n\n- Using length-based reservations often leads to underestimation, causing insufficient materials.\n- Full-piece reservation results in excessive scrap, highlighting inefficiency.\n- The post seeks *solutions* for balancing material reservations to optimize usage and reduce waste.\n",
-      "keywords": [
-        "ERP",
-        "manufacturing",
-        "material management",
-        "cut-to-length",
-        "inventory"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 6,
-        "novelty": 4,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-08-27T14:05:43.000Z"
     }
   ]
 }
