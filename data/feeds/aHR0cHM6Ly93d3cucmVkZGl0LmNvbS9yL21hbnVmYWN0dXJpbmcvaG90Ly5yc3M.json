@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Keeping SOPs updated after an ECO",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1n77wjv/how_do_you_keep_work_instructions_and_sops/",
+      "author": "/u/Emotional_Public4426",
+      "thumbnail": null,
+      "summary": "- The post asks how to keep work instructions and SOPs updated after an ECO, rather than relying on memory.\n- A commenter argues for ongoing doc management and **version control**, with a specific owner responsible for the system.\n- Key takeaway: implement a formal process with clear ownership to ensure SOPs stay current after process changes.",
+      "keywords": [
+        "SOP",
+        "ECO",
+        "document control",
+        "version control",
+        "manufacturing",
+        "training"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 3,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-09-03T06:59:51.000Z"
+    },
+    {
       "title": "Challenges Re-shoring American Manufacturing",
       "link": "https://www.reddit.com/r/manufacturing/comments/1n704eg/challenges_reshoring_american_manufacturing/",
       "author": "/u/SCS_Manufacturing",
@@ -4687,27 +4709,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-08-27T18:31:46.000Z"
-    },
-    {
-      "title": "Automated Production Scheduling",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1n1mj1k/automated_production_scheduling/",
-      "author": "/u/jared8722",
-      "thumbnail": null,
-      "summary": "- The poster seeks *software* that can integrate orders and inventory from ERP systems to generate production schedules.\n- This highlights a need for *automation* in manufacturing planning to improve efficiency.\n- Such solutions can help streamline workflows and reduce manual scheduling efforts in manufacturing facilities.",
-      "keywords": [
-        "manufacturing",
-        "automation",
-        "production scheduling",
-        "ERP",
-        "software"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 4,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-08-27T16:56:12.000Z"
     }
   ]
 }
