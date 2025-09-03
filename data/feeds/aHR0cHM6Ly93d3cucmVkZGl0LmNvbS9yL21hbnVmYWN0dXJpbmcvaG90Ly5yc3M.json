@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "How do you schedule maintenance without it killing production time?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1n7pkel/how_do_you_schedule_maintenance_without_it/",
+      "author": "/u/BCinsider",
+      "thumbnail": null,
+      "summary": "- A plant trialed treating *maintenance* as production work by putting service tasks into the same schedule with routings and durations. \n- This approach makes *downtime* visible like normal jobs, cutting *double bookings* and easing *bottlenecks*. \n- Have others tried running *maintenance* as *production orders*, and did it smooth scheduling or add complexity?",
+      "keywords": [
+        "maintenance",
+        "scheduling",
+        "manufacturing",
+        "downtime",
+        "bottlenecks",
+        "production orders"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-09-03T20:12:11.000Z"
+    },
+    {
       "title": "Questions for OEMs in light guide projects",
       "link": "https://www.reddit.com/r/manufacturing/comments/1n7mlkb/what_questions_should_a_light_guide_manufacturer/",
       "author": "/u/OpticsAndEnds",
@@ -4699,27 +4721,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-08-28T02:27:56.000Z"
-    },
-    {
-      "title": "Prototyping vs sampling",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1n1y9ky/prototyping_vs_sampling/",
-      "author": "/u/the_void_the_void",
-      "thumbnail": null,
-      "summary": "- *Building a hardware product* (dog leash) requires user testing to validate and improve the design. \n- **Ordering small-quantity samples** from manufacturers is suggested as a way to gather feedback before full production. \n- Making prototypes by hand or exploring **global manufacturing options** can help identify manufacturing issues early and optimize the design process.",
-      "keywords": [
-        "hardware manufacturing",
-        "prototyping",
-        "sampling",
-        "product design",
-        "small-scale production"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 4,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-08-28T00:42:53.000Z"
     }
   ]
 }
