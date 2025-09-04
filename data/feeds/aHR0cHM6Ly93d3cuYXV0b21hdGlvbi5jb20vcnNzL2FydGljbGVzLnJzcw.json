@@ -5,6 +5,104 @@
   "feedUrl": "https://www.automation.com/rss/articles.rss",
   "items": [
     {
+      "title": "Using Foundation Fieldbus Linking Devices in Industry 4.0",
+      "link": "https://www.automation.com/en-us/articles/september-2025/foundation-fieldbus-linking-devices-industry-4",
+      "author": "Graham Proctor",
+      "thumbnail": "https://www.automation.com/getmedia/8d0f69d9-d017-49f6-8828-0aa46e79394a/S3-Acom-Monthly-0925-Aparian_js_lead-pic-web.png?width=500&height=313&ext=.png",
+      "summary": "- Foundation Fieldbus linking devices act as intelligent gateways, bridging legacy *Foundation Fieldbus* networks with PLC/DCS/SCADA for *Industry 4.0* architectures.\n- They enable *seamless data exchange* between Fieldbus H1 and industrial Ethernet, provide *in-depth diagnostics*, and support *continuous health monitoring* to reduce downtime.\n- With *redundancy*, secure and scalable **connectivity**, and *cloud/edge integration*, linking devices enhance reliability and enable advanced analytics.",
+      "keywords": [
+        "Foundation Fieldbus",
+        "Industry 4.0",
+        "Linking devices",
+        "Industrial Ethernet",
+        "Diagnostics",
+        "Redundancy"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-09-04T05:00:00.000Z"
+    },
+    {
+      "title": "Process Control Charts Ensure Manufacturing Excellence",
+      "link": "https://www.automation.com/en-us/articles/august-2025/process-control-charts-manufacturing-excellence",
+      "author": "Nikhil Makhija",
+      "thumbnail": null,
+      "summary": "- *Control charts* are a core tool in *statistical process control (SPC)* used to maintain process stability and improve quality across industries.\\n- They help distinguish common-cause variation from special causes, guiding **preventive actions** and supporting **Six Sigma** initiatives.\\n- Implementing control charts requires data collection, parameter estimation, plotting over time, and interpreting patterns to reduce defects and waste.",
+      "keywords": [
+        "statistical process control",
+        "control charts",
+        "Six Sigma",
+        "manufacturing",
+        "quality improvement",
+        "data-driven decisions",
+        "process stability"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-09-04T05:00:00.000Z"
+    },
+    {
+      "title": "The Future of Process Automation in Bioprocessing",
+      "link": "https://www.automation.com/en-us/articles/august-2025/future-process-automation-bioprocessing",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-09-04T05:00:00.000Z"
+    },
+    {
+      "title": "Reducing Complexity in Data Center Cooling",
+      "link": "https://www.automation.com/en-us/articles/august-2025/data-center-cooling-temperature-measurements",
+      "author": "Endress + Hauser Communications",
+      "thumbnail": "https://www.automation.com/getmedia/1e694f11-91e3-4e4b-901b-f4cbcec13665/AUTO-Monthly-AUGSEP-Sponsor-Endress-TitlePage-500x313.jpg?width=500&height=313&ext=.jpg",
+      "summary": "- Hyperscale data centers are transitioning from *air cooling* to *liquid cooling* to meet dense HPC/AI workloads, with *liquid cooling* offering superior heat transfer and reducing hotspots.\n- Traditional *invasive sensors* in thermowells introduce leakage risk, higher maintenance, wake-frequency design complexity, and energy penalties from flow disturbances.\n- Endress+Hauser's *iTHERM SurfaceLine TM611* non-invasive sensor clamps to the pipe, reducing contamination risk, improving accuracy, and lowering energy consumption by minimizing flow disruption.",
+      "keywords": [
+        "data centers",
+        "liquid cooling",
+        "non-invasive measurement",
+        "thermowells",
+        "iTHERM SurfaceLine TM611",
+        "sensor technology",
+        "energy efficiency"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-09-04T05:00:00.000Z"
+    },
+    {
+      "title": "Lifecycle and Obsolescence Management: Extending Control System Lifespans",
+      "link": "https://www.automation.com/en-us/articles/august-2025/lifecycle-obsolescence-management-control-system",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-09-04T05:00:00.000Z"
+    },
+    {
+      "title": "Safety: Understanding SIL, Cpt and PFDavg",
+      "link": "https://www.automation.com/en-us/articles/august-2025/safety-understanding-sil-cpt-pfdavg",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-09-04T05:00:00.000Z"
+    },
+    {
       "title": "Data Patterns India uses Siemens Xcelerator",
       "link": "https://www.automation.com/en-us/articles/september-2025/data-patterns-india-design-manufacturing-siemens",
       "author": null,
@@ -4891,138 +4989,6 @@
         "longTermSignificance": 9
       },
       "pubDate": "2025-08-26T05:00:00.000Z"
-    },
-    {
-      "title": "Patti Engineering to Share Strategies at MiA 2025",
-      "link": "https://www.automation.com/en-us/articles/august-2025/patti-engineering-modernizing-legacy-systems",
-      "author": null,
-      "thumbnail": null,
-      "summary": "*Sam Hoff, CEO of Patti Engineering, will present at MiA 2025 on upgrading legacy control systems.*\n- The seminar, titled \"Before you Throw Away, Consider an Upgrade,\" will cover strategies to modernize controls cost-effectively.\n- Topics include using virtual commissioning tools like Siemens Process Sim and maintaining high productivity with system upgrades.\n\n**Key points:**\n- Patti Engineering is a Siemens Solution Partner specializing in control system integration.\n- The event focuses on advances in automation, AI, data analytics, and digitalization for manufacturing.\n- Attendees can explore solutions for energy efficiency, Industry 4.0, and overcoming labor shortages.",
-      "keywords": [
-        "control systems",
-        "automation",
-        "digitalization",
-        "manufacturing",
-        "industry 4.0",
-        "upgrade strategies"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-08-26T05:00:00.000Z"
-    },
-    {
-      "title": "A3 Announces FOCUS Conference Lineup",
-      "link": "https://www.automation.com/en-us/articles/august-2025/a3-focus-intelligent-vision-industrial-ai",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- *A3* has revealed the program for its inaugural **FOCUS: Intelligent Vision & Industrial AI Conference**, taking place in Seattle on Sept. 24–25, 2025.\n- The event features leading speakers from **AWS, Nvidia, Microsoft**, and others, discussing applications of **AI** and **vision tech** across various industries.\n- Attendees can explore **hands-on exhibits, real-world case studies**, and participate in a **Humanoid Robot Forum** on Sept. 23 to deepen understanding of advanced automation technologies.",
-      "keywords": [
-        "AI",
-        "Vision Technology",
-        "Industrial Automation",
-        "Robotics",
-        "Conferences",
-        "Manufacturing"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 8,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-08-26T05:00:00.000Z"
-    },
-    {
-      "title": "Lars Granlund Appointed VP at Dacke Industri",
-      "link": "https://www.automation.com/en-us/articles/august-2025/lars-granlund-appointed-vice-president-business",
-      "author": null,
-      "thumbnail": null,
-      "summary": "*Lars Granlund will become Vice President of Measurement Systems, Electronics at Dacke Industri starting January 2026.*\n- Dacke Industri, experiencing recent growth, is streamlining divisions to support future expansion.\n- Granlund has extensive leadership experience, notably as CEO of LIMAB AB, a leader in measurement and sensing technologies.*",
-      "keywords": [
-        "Dacke Industri",
-        "Lars Granlund",
-        "Measurement Systems",
-        "Electronics",
-        "Leadership",
-        "Growth",
-        "Metrology"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-08-26T05:00:00.000Z"
-    },
-    {
-      "title": "How to Select the Best Defect Recognition Software for Your Needs",
-      "link": "https://www.automation.com/en-us/articles/august-2025/how-select-best-defect-recognition-software",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- *Choosing the right defect recognition software* is critical for ensuring *product quality* and *operational efficiency* in non-destructive testing (NDT).\n- Key factors include *compatibility with existing systems*, *accuracy*, *ease of use*, *scalability*, and *vendor support*. \n- Top solutions like **Fujifilm**, **Loopr**, and **Mitutoyo** offer advanced features tailored to various industrial needs, emphasizing the importance of *strategic investment* for long-term benefits.",
-      "keywords": [
-        "defect recognition",
-        "non-destructive testing",
-        "manufacturing",
-        "AI solutions",
-        "quality assurance"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-08-25T05:00:00.000Z"
-    },
-    {
-      "title": "Robotics Transforms Cell Therapy",
-      "link": "https://www.automation.com/en-us/articles/august-2025/case-study-robotics-transforms-cell-therapy",
-      "author": null,
-      "thumbnail": null,
-      "summary": "*Multiply Labs developed a robotic biomanufacturing system using Universal Robots, achieving a 74% cost reduction in cell therapies.*\n\n*The robotic process enhances space efficiency, with up to 100x more patient doses per square foot, and improves sterility by reducing contamination.*\n\n*Using 'imitation learning,' robots replicate expert human tasks, ensuring process fidelity and regulatory compliance, promising broader access to personalized gene therapies.*",
-      "keywords": [
-        "robotics",
-        "cell therapy",
-        "biomanufacturing",
-        "automation",
-        "healthcare",
-        "universal robots"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 9,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-08-25T05:00:00.000Z"
-    },
-    {
-      "title": "Lip-Bu Tan to Receive 2025 Phil Kaufman Award",
-      "link": "https://www.automation.com/en-us/articles/august-2025/ceo-of-of-intel-corporation-lip-bu-tan-to-be-honor",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- *Lip-Bu Tan*, CEO of **Intel** and former CEO of Cadence Design Systems, will be awarded the **2025 Phil Kaufman Award** for contributions to Electronic System Design (ESD).\n- The award recognizes his *visionary leadership* in the *semiconductor* industry, fostering innovation, startups, and industry collaboration.\n- The ceremony takes place in November 2025 in **San Jose**, with industry leaders honoring his *impact* on technology and design automation.\n\n\"Lip-Bu Tan's leadership continues to shape the *future of the semiconductor* and *EDA industries*, promoting *innovation* and *industry growth*.\"",
-      "keywords": [
-        "Semiconductors",
-        "Electronic Design Automation",
-        "Industry Leadership",
-        "Innovation",
-        "Awards",
-        "Technology"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 9
-      },
-      "pubDate": "2025-08-25T05:00:00.000Z"
     }
   ]
 }
