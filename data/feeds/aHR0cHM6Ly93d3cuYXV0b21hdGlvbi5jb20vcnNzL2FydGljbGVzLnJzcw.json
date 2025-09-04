@@ -5,6 +5,59 @@
   "feedUrl": "https://www.automation.com/rss/articles.rss",
   "items": [
     {
+      "title": "The Replace, Repair or Retrain Decision",
+      "link": "https://www.automation.com/en-us/articles/august-2025/replace-repair-retrain-decision",
+      "author": "Brandon Glenn",
+      "thumbnail": null,
+      "summary": "- The article presents a **four-step framework** to decide when to replace, repair, or retrain, covering assessment, cost comparison, new-machine advantages, and realizing returns.\n- Step 1 — Assess machinery and operator skill levels; evaluate repair frequency, production demands, and the role of ongoing *education and training* to boost performance.\n- Step 4 — Realize new machine benefits, including lifecycle costs, financing options, and productivity gains from newer controls and automation.",
+      "keywords": [
+        "Machining",
+        "Decision-making",
+        "ROI",
+        "Repair vs Replace",
+        "Operator training"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 3,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-09-04T05:00:00.000Z"
+    },
+    {
+      "title": "In Memoriam: Hans D. Baumann, Ph.D, P.E.",
+      "link": "https://www.automation.com/en-us/articles/september-2025/in-memoriam-hans-d-baumann-ph-d-p-e",
+      "author": "Renee Bassett",
+      "thumbnail": null,
+      "summary": "- Dr. Hans D. Baumann, PE, died at 94 on March 25, 2025, in West Palm Beach, leaving a 70-year legacy in *valve design* and process control.\n- He designed or directed over 30 valve lines (including CAMFLEX) and held more than 150 patents with 200+ papers, shaping standards and earning many awards.\n- His work bridged academia and industry, pioneering fundamentals in *valve sizing*, *noise prediction*, and authoring references like *Fluid Mechanics of Control Valves* and *Control Valve Primer*.",
+      "keywords": [
+        "Hans D. Baumann",
+        "valve design",
+        "process control",
+        "ISA",
+        "control valves",
+        "patents"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-09-04T05:00:00.000Z"
+    },
+    {
+      "title": "Topical Roundup: August/September 2025",
+      "link": "https://www.automation.com/en-us/articles/september-2025/topical-roundup-august-september-2025",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-09-04T05:00:00.000Z"
+    },
+    {
       "title": "Using Foundation Fieldbus Linking Devices in Industry 4.0",
       "link": "https://www.automation.com/en-us/articles/september-2025/foundation-fieldbus-linking-devices-industry-4",
       "author": "Graham Proctor",
@@ -4924,71 +4977,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-08-27T05:00:00.000Z"
-    },
-    {
-      "title": "Advantech Showcases Nexustec’s TRiMiTi Demo Station",
-      "link": "https://www.automation.com/en-us/articles/august-2025/advantech-nexustec-trimiti-demo-station",
-      "author": null,
-      "thumbnail": null,
-      "summary": "• *Nexustec* launches an advanced AI-driven demo station at Advantech's Innovation Hub to showcase *TRiMiTi*’s capabilities in industrial process control.\n• The *software* uses *vision detection* to identify deviations, automatically detect errors, and guide workers, integrating all manufacturing tools for *comprehensive control*.\n• The initiative emphasizes *Industry 4.0* transformation with features like *zero defects*, *full traceability*, and seamless integration for both SMEs and large companies.",
-      "keywords": [
-        "Industrial Automation",
-        "AI",
-        "Industry 4.0",
-        "Process Control",
-        "Manufacturing"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 8,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-08-27T05:00:00.000Z"
-    },
-    {
-      "title": "ABB and Citroniq Launch 100% Bio-Based Polypropylene Facility",
-      "link": "https://www.automation.com/en-us/articles/august-2025/abb-citroniq-bio-based-polypropylene-facility",
-      "author": null,
-      "thumbnail": null,
-      "summary": "*ABB partners with Citroniq to develop the world’s first full-scale facility producing *biogenic polypropylene* from corn ethanol.*\n- The plant in Nebraska will start in 2029, capturing 3 million tonnes of CO₂ annually.\n- This innovative project aims to **decarbonize** US polypropylene production and support sustainable plastics manufacturing platform.*",
-      "keywords": [
-        "sustainability",
-        "biogenic polypropylene",
-        "carbon capture",
-        "automation",
-        "decarbonization",
-        "plastics industry"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 8,
-        "novelty": 9,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-08-26T05:00:00.000Z"
-    },
-    {
-      "title": "Space Robotics as a Blueprint for Industrial Automation",
-      "link": "https://www.automation.com/en-us/articles/august-2025/space-robotics-blueprint-industrial-automation",
-      "author": null,
-      "thumbnail": null,
-      "summary": "*Space robotics exemplify *precision*, *resilience*, and *autonomy*, which can revolutionize Earth-based industrial automation.* NASA’s Canadarm2 has operated flawlessly for 24 years in space, demonstrating durability.* Technologies like digital twins, agentic AI, GN&C systems, and sensor fusion can transfer space robotics’ success to manufacturing, enhancing safety, efficiency, and adaptability.*",
-      "keywords": [
-        "Space robotics",
-        "industrial automation",
-        "digital twins",
-        "AI",
-        "GN&C systems",
-        "sensor fusion"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 8,
-        "longTermSignificance": 9
-      },
-      "pubDate": "2025-08-26T05:00:00.000Z"
     }
   ]
 }
