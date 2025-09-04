@@ -5,6 +5,29 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Die casting startup costs",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1n7w9c0/die_casting_startup_costs/",
+      "author": "/u/Flashy-Dimension-615",
+      "thumbnail": null,
+      "summary": "- Die casting startup costs vary by material and tooling; aluminum requires tight tolerances, so work with skilled toolmakers (e.g., **Dynacast**) for quotes. \n- For a small hollow part (~10 inches), die/pattern costs are roughly **$2k-$20k** depending on complexity and single- vs. multi-up runs. \n- Material choice (aluminum vs steel) largely drives process; finalize material to decide between **die casting** and **sand casting** and get accurate pricing.",
+      "keywords": [
+        "die casting",
+        "manufacturing startup",
+        "tooling",
+        "aluminum",
+        "sand casting",
+        "patterns",
+        "cost estimates"
+      ],
+      "scores": {
+        "scale": 4,
+        "impact": 5,
+        "novelty": 3,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-09-04T00:50:49.000Z"
+    },
+    {
       "title": "How do you schedule maintenance without it killing production time?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1n7pkel/how_do_you_schedule_maintenance_without_it/",
       "author": "/u/BCinsider",
@@ -4700,27 +4723,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-08-28T16:18:41.000Z"
-    },
-    {
-      "title": "Connecting a polycarbonate lid to an ABS hinge",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1n20hs6/how_would_i_connect_a_polycarbonate_lid_to_an_abs/",
-      "author": "/u/TheSaifman",
-      "thumbnail": null,
-      "summary": "- *Designing a stop hinge at 110° for a polycarbonate lid* requires considering how to connect it effectively to an ABS hinge.\n- **Possible methods** include using a *stainless steel rod* for pivots or designing *snap-fit plastic parts*; each has challenges in ensuring stability.\n- For *mass production*, choosing a reliable, reproducible connection method* that maintains the hinge's position and strength is key, but detailed solution approaches depend on specific project parameters. ",
-      "keywords": [
-        "manufacturing",
-        "plastic design",
-        "polycarbonate",
-        "ABS",
-        "hinge connection"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 4,
-        "novelty": 3,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-08-28T02:27:56.000Z"
     }
   ]
 }
