@@ -5,6 +5,27 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "My workflow finds customers and emails them; testers wanted",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1n8o28s/my_workflow_now_finds_customers_and_emails_them/",
+      "author": "/u/wurfzelt33",
+      "thumbnail": null,
+      "summary": "- I have built a complete *end-to-end lead generation* system that finds qualified customers using **LinkedIn**, posts, and company data, then ranks an icebreaker and personalizes outreach.\n- The system weeds out irrelevant leads and writes a personalized email campaign, running fully automatically.\n- The author is seeking testers via DM; the thread also touches on spam concerns and reader response.",
+      "keywords": [
+        "lead generation",
+        "automation",
+        "LinkedIn",
+        "outreach",
+        "spam"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 6,
+        "novelty": 7,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-09-04T22:21:34.000Z"
+    },
+    {
       "title": "How AI helps in manufacturing projects",
       "link": "https://www.reddit.com/r/manufacturing/comments/1n8kror/how_ai_is_helping_in_manufacturing_projects/",
       "author": "/u/Ok-Pea3414",
@@ -3984,27 +4005,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-08-29T16:22:11.000Z"
-    },
-    {
-      "title": "Alternative Approach to Calculating OEE",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1n38yif/we_calculate_oee_differently_what_do_you_think/",
-      "author": "/u/Lumpy_Ebb_786",
-      "thumbnail": null,
-      "summary": "**The author proposes a simplified OEE calculation:**\n- Uses *Effective Production Time* divided by *Planned Production Time*.\n- Combines downtime, speed losses, and scrap into one measure.\n- Aims for easier tracking and understanding on the shop floor.\n**While traditional OEE involves Availability, Performance, and Quality,**\n- this new method emphasizes ease of use over detailed diagnostic breakdowns.\n- Some commenters question how 'good parts' are defined or compare the approach to standard efficiency metrics.\n- Others note that traditional OEE offers more detailed insight typically needed for root cause analysis.",
-      "keywords": [
-        "OEE",
-        "manufacturing",
-        "production efficiency",
-        "performance metrics",
-        "factory management"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 4,
-        "novelty": 7,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-08-29T14:28:42.000Z"
     }
   ]
 }
