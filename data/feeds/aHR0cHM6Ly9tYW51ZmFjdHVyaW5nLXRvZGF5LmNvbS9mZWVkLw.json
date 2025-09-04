@@ -5,6 +5,28 @@
   "feedUrl": "https://manufacturing-today.com/feed/",
   "items": [
     {
+      "title": "AI and engineers solving semiconductor data challenges",
+      "link": "https://manufacturing-today.com/news/ai-with-a-human-touch-how-generative-ai-and-engineers-are-solving-semiconductor-data-challenges-together/",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Generative AI augments engineers, acting as a *co-pilot* that proposes visualizations, explains results, and automates routine tasks while humans stay in control. \n- Spotfire Copilot and *RAG* ground AI in real data—pulling from logs, specs, and failure reports to cite evidence and keep conclusions explainable. \n- The *hybrid mind*—humans plus AI—accelerates root-cause analysis, enhances knowledge sharing, and supports trustworthy, data-driven decisions.",
+      "keywords": [
+        "Semiconductors",
+        "AI-assisted analytics",
+        "Spotfire Copilot",
+        "RAG",
+        "Hybrid intelligence",
+        "Data-driven decision-making"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-09-04T09:20:00.000Z"
+    },
+    {
       "title": "IG Doors opens new UK factory",
       "link": "https://manufacturing-today.com/news/stylish-sustainable-and-locally-supplied-ig-doors-continues-to-grow-with-its-new-state-of-the-art-factory/",
       "author": null,
@@ -6681,28 +6703,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-08-05T12:55:46.000Z"
-    },
-    {
-      "title": "Foxconn Targets $1 Trillion AI Data Market with TECO",
-      "link": "https://manufacturing-today.com/news/iphone-manufacturer-foxconn-targets-1-trillion-ai-market-with-teco-deal/",
-      "author": null,
-      "thumbnail": null,
-      "summary": "*Foxconn is pivoting from iPhones to the *$1 trillion* AI data center market.*\n- The company has partnered with TECO to develop modular, turnkey data centers, leveraging its manufacturing and integration capabilities.\n- This move aims to capture a significant share of the rapidly growing AI infrastructure sector and diversify beyond consumer electronics.\n\n",
-      "keywords": [
-        "Foxconn",
-        "AI infrastructure",
-        "TECO",
-        "data centers",
-        "technology diversification",
-        "modular data centers"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 8,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-08-05T12:55:12.000Z"
     }
   ]
 }
