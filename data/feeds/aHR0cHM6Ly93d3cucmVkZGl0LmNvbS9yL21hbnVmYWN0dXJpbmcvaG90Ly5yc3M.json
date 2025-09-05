@@ -5,6 +5,51 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Looking for Feedback on a software system (won't promote)",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1n9gjns/looking_for_feedback_on_a_software_system_wont/",
+      "author": "/u/MajorPenalty2608",
+      "thumbnail": null,
+      "summary": "- The platform ingests data from *IoT*, QR scans, and web forms, processes it with *computer vision*, *AI*, and LLMs, and API-links to ERP/MES/Finance/HR. - It risks being a Swiss Army Knife and needs focused use cases like *visual inspection* and *OEE* automation to prove value. - QR workflows cover maintenance, replenishment, timesheets, traceability, and customer feedback; seeking feedback and new market ideas.",
+      "keywords": [
+        "IoT",
+        "QR codes",
+        "Manufacturing",
+        "Computer Vision",
+        "AI",
+        "ERP integration",
+        "OEE"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-09-05T20:46:16.000Z"
+    },
+    {
+      "title": "Quality Managers: software for inspections and calibration",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1n9g1sk/quality_managers_what_software_are_you_using_for/",
+      "author": "/u/sarnold95",
+      "thumbnail": null,
+      "summary": "- The thread asks what software quality managers use for *inspections*, *testing*, and equipment *calibration records*.\n- A commenter notes they currently have a homemade app but need something better.\n- Another commenter recommends **Unipoint**, praising setup help, Canadian-English support, and good overall experience.",
+      "keywords": [
+        "quality-management",
+        "software",
+        "inspections",
+        "calibration",
+        "manufacturing",
+        "Unipoint"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 4,
+        "novelty": 3,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-09-05T20:26:30.000Z"
+    },
+    {
       "title": "Underwear: sustainable manufacturers in London",
       "link": "https://www.reddit.com/r/manufacturing/comments/1n9c1en/underwear_sustainable_manufacturers_london/",
       "author": "/u/pinkyto4",
@@ -48,18 +93,18 @@
       "pubDate": "2025-09-05T17:48:03.000Z"
     },
     {
-      "title": "Hyundai EV plant raid in Georgia",
+      "title": "Immigration Raid at Hyundai EV Plant in Georgia",
       "link": "https://www.nytimes.com/2025/09/05/us/georgia-battery-plant-hyundai-lg-ice-raid.html?unlocked_article_code=1.jk8.C7JT.fh3sHerrM_EC&smid=url-share",
       "author": "/u/Jeffbx",
       "thumbnail": null,
-      "summary": "- *Nearly 500 workers* were detained in an immigration sweep at a Georgia site tied to a South Korean battery maker, with Hyundai saying none of the detainees were its employees. \n- The episode has sparked debate over visa rules, contractor labor, and the *accuracy* of enforcement actions, with concerns about *false positives* and effects on U.S. manufacturing. \n- Reddit discussions show mixed views on immigration policy, job security, and the broader impact on the U.S. auto industry and its supply chain.",
+      "summary": "- *The NYT reports that about 500 workers were detained at a construction site tied to a South Korean battery maker in Georgia, prompting diplomatic concern in Seoul.*\n- *The event fuels a broader debate over immigration enforcement, visas, tariffs, and the costs of 'bringing manufacturing back' to the U.S.*\n- *Hyundai says that none of those detained were Hyundai employees, underscoring questions about contractors and who is affected by such sweeps.*",
       "keywords": [
         "immigration",
-        "ICE",
+        "manufacturing",
         "Hyundai",
         "Georgia",
-        "EV",
-        "labor"
+        "labor",
+        "visa"
       ],
       "scores": {
         "scale": 7,
@@ -1745,37 +1790,6 @@
         "longTermSignificance": 2
       },
       "pubDate": "2025-08-31T20:57:32.000Z"
-    },
-    {
-      "title": "What’s Your Metalworking Bottleneck?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1n50kx2/whats_your_metalworking_bottleneck/",
-      "author": "/u/MirrorTerrible523",
-      "thumbnail": null,
-      "summary": "* Small startups face challenges with high costs, space, and skills in metalworking. \n* Common issues include expensive prototyping, equipment constraints, and supplier delays.\n* A compact, easy-to-use machine could potentially solve many of these bottlenecks, especially if it supports versatile materials and simple setup.*",
-      "keywords": [
-        "metalworking",
-        "manufacturing",
-        "prototyping",
-        "small-scale",
-        "equipment"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-08-31T17:25:48.000Z"
-    },
-    {
-      "title": "Finding a Stick Pack Co-Manufacturer",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1n4zr37/looking_for_a_stick_pack_co_manufactrerpacker/",
-      "author": "/u/Competitive_Can_6874",
-      "thumbnail": null,
-      "summary": "*The user seeks a manufacturer for powdered drink mix stick packs in the northeast US.* \n- They inquire if **location proximity** impacts quality or service.\n- Discussion includes **different manufacturing options**, like turnkey vs. sourcing managers, and custom packaging solutions such as tear-off display boxes, with potential for various sizes and enhancements.*\n\n**Keywords:** manufacturing, packaging, co-manufacturer, northeast US, custom packaging",
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-08-31T16:52:48.000Z"
     }
   ]
 }
