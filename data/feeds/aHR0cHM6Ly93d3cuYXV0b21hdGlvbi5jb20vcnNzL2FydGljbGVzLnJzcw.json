@@ -5,6 +5,73 @@
   "feedUrl": "https://www.automation.com/rss/articles.rss",
   "items": [
     {
+      "title": "SEMI: Global semiconductor billings up 24% YoY in Q2-2025",
+      "link": "https://www.automation.com/en-us/articles/september-2025/global-semiconductor-equipment-billing-increase-q2",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- The WWSEMS report shows global semiconductor equipment billings rose *24% YoY* to **US$33.07B** in Q2 2025.\n- Q2 2025 billings grew **3% QoQ**, helped by leading-edge logic, HBM-related DRAM, and stronger Asia shipments.\n- SEMI notes strong H1 2025 with over **$65B** revenue and **$117B** in 2024, driven by AI investment and capacity expansion.",
+      "keywords": [
+        "semiconductor",
+        "equipment",
+        "billings",
+        "WWSEMS",
+        "SEMI",
+        "AI",
+        "global-market"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-09-05T05:00:00.000Z"
+    },
+    {
+      "title": "Drive Selection & Ordering with myNORD Online Tools",
+      "link": "https://www.automation.com/en-us/articles/september-2025/drive-selection-ordering-mynord-online-tools",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- The *myNORD online portal* is a 24/7 e-commerce platform used by 26,500+ users, with flexible collaboration and a search that includes *input power*, *speed*, and *torque*.\\n- It features a **Product Configurator** and plausibility checks, with saved quotes and account-specific pricing for easy submission.\\n- A **Spare Parts Shop** and **Unit Identification** tool enable fast part finds, BOMs, pricing, and shipping options, with ERP integration on the horizon.",
+      "keywords": [
+        "myNORD",
+        "online portal",
+        "e-commerce",
+        "drive systems",
+        "spare parts",
+        "ERP integration"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 5,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-09-05T05:00:00.000Z"
+    },
+    {
+      "title": "What to Expect at the 2025 ISA Automation Summit & Expo",
+      "link": "https://www.automation.com/en-us/articles/september-2025/what-expect-2025-isa-automation-summit-expo",
+      "author": "Kara Phelps",
+      "thumbnail": null,
+      "summary": "- The 2025 ISA Automation Summit & Expo runs Oct 5–7 at Disney’s Coronado Springs; the Expo features 74 vendors, *IT/OT convergence*, safety tech and the Student Simulation Showdown.\\n- Keynotes blend strategy and technology, with talks like *To Infinity and Beyond* and *Confessions of a Dirty Hacker*, plus a fully sortable conference agenda.\\n- *ICS4ICS* hands-on workshop offers practical defense; plan outcomes, schedule networking, and capture notes to maximize value; registration starts around **$835** for ISA members.",
+      "keywords": [
+        "Automation Summit",
+        "ISA Expo",
+        "OT cybersecurity",
+        "Industrial automation",
+        "ICS4ICS",
+        "Networking"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-09-05T05:00:00.000Z"
+    },
+    {
       "title": "The Real ROI of Augmented Reality in Manufacturing: Beyond the Hype",
       "link": "https://www.automation.com/en-us/articles/september-2025/real-roi-ar-manufacturing-beyond-hype",
       "author": "Hélène Motycka",
@@ -4925,73 +4992,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-08-28T05:00:00.000Z"
-    },
-    {
-      "title": "Valmet Digitalizes Klingele Weener Mill in Germany",
-      "link": "https://www.automation.com/en-us/articles/august-2025/valmet-resource-efficiency-digitalization-klingele",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- *Valmet* will implement an integrated automation solution to boost *resource efficiency* at Klingele's Weener paper mill.\n- The system aims to **reduce surface starch, water, and energy use** by creating a data-driven optimization loop.\n- This project reflects **Klingele's commitment** to environmental sustainability and *digital transformation* in paper manufacturing.",
-      "keywords": [
-        "digitalization",
-        "automation",
-        "sustainability",
-        "paper mill",
-        "resource efficiency",
-        "Valmet",
-        "Germany"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-08-28T05:00:00.000Z"
-    },
-    {
-      "title": "12 Students Awarded Dematic FIRST Scholarships to Pursue STEM Education",
-      "link": "https://www.automation.com/en-us/articles/august-2025/12-students-awarded-dematic-first-scholarships",
-      "author": null,
-      "thumbnail": null,
-      "summary": "*Dematic awarded scholarships to 12 students supporting STEM education, emphasizing innovation and leadership.*\n- The program awarded two $5,000 and ten $1,000 scholarships to students involved in FIRST robotics competitions.\n- **Dematic's ongoing commitment** includes sponsorships, mentorship, and investment in future STEM professionals through 2008 to 2025, fostering long-term industry growth.",
-      "keywords": [
-        "STEM",
-        "scholarships",
-        "FIRST Robotics",
-        "dematic",
-        "education",
-        "industry"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-08-27T05:00:00.000Z"
-    },
-    {
-      "title": "Criticality: The Measure That Matters",
-      "link": "https://www.automation.com/en-us/articles/august-2025/criticality-measure-matters",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Most teams focus on *downtime*, but true *criticality* involves broader factors like safety, cascading failures, and inventory costs.\n- Modern *predictive maintenance (PdM)* technologies enable proactive risk management by monitoring asset health and preventing failures.\n- To optimize criticality assessment, facilities should expand beyond production impact, incorporating safety, supply chain, and strategic risks for comprehensive reliability management.",
-      "keywords": [
-        "asset criticality",
-        "predictive maintenance",
-        "reliability",
-        "industrial safety",
-        "asset management",
-        "risk assessment"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-08-27T05:00:00.000Z"
     }
   ]
 }
