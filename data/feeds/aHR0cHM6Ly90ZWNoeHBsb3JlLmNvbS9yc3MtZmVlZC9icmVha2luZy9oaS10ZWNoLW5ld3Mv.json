@@ -5,6 +5,27 @@
   "feedUrl": "https://techxplore.com/rss-feed/breaking/hi-tech-news/",
   "items": [
     {
+      "title": "Body-heat device powers wearables",
+      "link": "https://techxplore.com/news/2025-09-solid-state-device-harvests-body.html",
+      "author": null,
+      "thumbnail": "https://scx1.b-cdn.net/csz/news/800a/2025/new-technology-enables.jpg",
+      "summary": "- Researchers from UNIST developed the first high-performance *n-type* solid-state thermogalvanic cell powered by body heat for battery-free wearables and IoT devices.\n- The device uses a conducting polymer *PEDOT:PSS* and a Fe(ClO4)2/3 redox couple in an optimized electrolyte to reach about *1.5V* from 100 cells in series and a Seebeck coefficient of roughly *-40.05 mV/K*.\n- It demonstrated durability, maintaining performance after about 50 charge-discharge cycles and can power LEDs, clocks and sensors when modules are connected in series.",
+      "keywords": [
+        "body heat",
+        "wearables",
+        "thermogalvanic cell",
+        "self-powered devices",
+        "energy harvesting"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 7,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-09-08T21:21:03.000Z"
+    },
+    {
       "title": "Mathematical model of memory suggests seven senses are optimal",
       "link": "https://techxplore.com/news/2025-09-mathematical-memory-optimal.html",
       "author": null,
@@ -6039,16 +6060,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-07-10T13:55:04.000Z"
-    },
-    {
-      "title": "Stretchable electronics: Conductive polymer optimized for wearable biosensors",
-      "link": "https://techxplore.com/news/2025-07-stretchable-electronics-polymer-optimized-wearable.html",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-07-07T16:10:06.000Z"
     }
   ]
 }
