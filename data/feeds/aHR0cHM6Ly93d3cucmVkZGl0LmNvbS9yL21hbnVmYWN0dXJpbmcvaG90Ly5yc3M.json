@@ -5,6 +5,51 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Seeking advice on LIMS product",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1nbriv0/seeking_advise_on_lims_product/",
+      "author": "/u/oculus77",
+      "thumbnail": null,
+      "summary": "- Our *LIMS* automatically receives data from textile quality testing equipment and can test anything we can connect to a testing instrument.\n- What are the needs in *nonwoven quality control*, and how many *instruments* do you actively use to measure your product?\n- Would a scaled-down interface for automatically measuring *weights* and *calipers* help smaller manufacturers?",
+      "keywords": [
+        "LIMS",
+        "Textile",
+        "QualityControl",
+        "Nonwoven",
+        "Instrumentation",
+        "DataAcquisition"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-09-08T15:55:19.000Z"
+    },
+    {
+      "title": "Have customers asked for full material disclosure?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1nbq7kw/have_any_of_you_had_customers_ask_for_a_full/",
+      "author": "/u/aggierogue3",
+      "thumbnail": null,
+      "summary": "- Customers sometimes request disclosures that seem excessive, such as *gram-level chemical compositions* and weights for 50+ part numbers. - Some advise charging for the extra work or negotiating a one-time fee, while others warn about *Reach/RoHS* data needs and concerns over **IP**. - Approaches vary by customer; some require full compliance, others accept existing material certs, and *planning* with buyers and suppliers helps balance cost.",
+      "keywords": [
+        "material disclosure",
+        "RoHS",
+        "REACH",
+        "supply chain",
+        "compliance",
+        "certs",
+        "pricing"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 3,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-09-08T15:05:34.000Z"
+    },
+    {
       "title": "UK - Looking for CNC shop for wood",
       "link": "https://www.reddit.com/r/manufacturing/comments/1nb8ep4/uk_looking_for_cnc_shop_for_wood/",
       "author": "/u/mini_wooly",
@@ -1774,47 +1819,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-09-02T06:43:21.000Z"
-    },
-    {
-      "title": "AI's Role in Manufacturing Productivity",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1n6akhe/how_is_ai_being_used_in_manufacturing_to_increase/",
-      "author": "/u/GalacticGuru19",
-      "thumbnail": null,
-      "summary": "*AI, combined with IIoT sensors, is increasingly used in manufacturing to boost *productivity*.  *This integration enables real-time monitoring, predictive maintenance, and process automation.*  *However, discussions on the subreddit reveal skepticism and concerns about the hype and authenticity of AI applications.*",
-      "keywords": [
-        "AI",
-        "Manufacturing",
-        "IIoT",
-        "Productivity",
-        "Automation"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-09-02T04:51:39.000Z"
-    },
-    {
-      "title": "What are you hearing in terms of layoffs and in what industry?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1n6a43s/what_are_you_hearing_in_terms_of_layoffs_and_in/",
-      "author": "/u/SkyLakeGears",
-      "thumbnail": null,
-      "summary": "- Workers in manufacturing are reporting *significant layoffs* affecting multiple companies. \n- The *industry-wide slowdown* is driven by economic uncertainties and reduced demand.\n- Many individuals are concerned about *long-term job security* and industry stability.",
-      "keywords": [
-        "layoffs",
-        "manufacturing",
-        "economic slowdown",
-        "industry"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 4,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-09-02T04:25:22.000Z"
     }
   ]
 }
