@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Japan PFAS ban in effect: keep products PFAS-free",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1ncevl9/japan_pfas_ban_is_in_effect_how_are_you_planning/",
+      "author": "/u/IndependenceOwn3576",
+      "thumbnail": null,
+      "summary": "- Japan's ban on 138 PFAS under CSCL began Jan 10, 2025 with no grace period, so coatings, wire insulation, and seals must be screened for *PFAS*.\n- Many suppliers now issue compliance letters or annual *compliance packets* to prove PFAS-free status for raw materials.\n- A common approach is to eliminate PFAS in production lines and rely on supplier attestations to keep products *PFAS-free*.",
+      "keywords": [
+        "PFAS",
+        "Japan",
+        "compliance",
+        "CSCL",
+        "manufacturing",
+        "supply-chain"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-09-09T10:08:00.000Z"
+    },
+    {
       "title": "Chinese heavy industrial machinery website",
       "link": "https://www.reddit.com/r/manufacturing/comments/1nc6kon/chinese_heavy_industrial_machinery_website/",
       "author": "/u/Wonderful-Plan-2168",
@@ -1026,27 +1048,6 @@
         "longTermSignificance": 3
       },
       "pubDate": "2025-09-02T21:32:55.000Z"
-    },
-    {
-      "title": "Is ISO 14224 useful for CMMS? 🤔",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1n6ujwe/is_iso_14224_actually_useful_for_cmms/",
-      "author": "/u/fuel04",
-      "thumbnail": null,
-      "summary": "- *ISO 14224* is a standard for asset taxonomy and maintenance data. <br>- The user questions whether it genuinely improves *data consistency* and *KPIs* or if it introduces unnecessary *complexity*. <br>- The usefulness may depend on the industry, with some considering it overkill outside *oil & gas* sectors.",
-      "keywords": [
-        "ISO 14224",
-        "CMMS",
-        "asset management",
-        "maintenance standards",
-        "manufacturing"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 4,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-09-02T20:25:45.000Z"
     }
   ]
 }
