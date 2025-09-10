@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "How to find out who makes a product",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1ndh9xj/how_can_i_find_out_where_a_certain_product_is/",
+      "author": "/u/VirtualMacaroon64t",
+      "thumbnail": null,
+      "summary": "- The thread discusses identifying a product's original *manufacturer* by inspecting packaging, labeling, and available docs. \n- It proposes practical steps like disassembling a sample or consulting publicly available reports (e.g., FCC) for clues. \n- It notes *ethical* and *legal* considerations when aiming to rebrand or source from competitors, and whether a product is a bespoke build.",
+      "keywords": [
+        "manufacturing",
+        "sourcing",
+        "reverse engineering",
+        "branding",
+        "packaging",
+        "certification"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-09-10T15:26:21.000Z"
+    },
+    {
       "title": "Decline messy buyers politely",
       "link": "https://www.reddit.com/r/manufacturing/comments/1ndevg3/how_to_decline_work_politely_because_the_buyer_is/",
       "author": "/u/TemperReformanda",
@@ -967,28 +989,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-09-04T00:50:49.000Z"
-    },
-    {
-      "title": "How do you schedule maintenance without it killing production time?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1n7pkel/how_do_you_schedule_maintenance_without_it/",
-      "author": "/u/BCinsider",
-      "thumbnail": null,
-      "summary": "- A plant trialed treating *maintenance* as production work by putting service tasks into the same schedule with routings and durations. \n- This approach makes *downtime* visible like normal jobs, cutting *double bookings* and easing *bottlenecks*. \n- Have others tried running *maintenance* as *production orders*, and did it smooth scheduling or add complexity?",
-      "keywords": [
-        "maintenance",
-        "scheduling",
-        "manufacturing",
-        "downtime",
-        "bottlenecks",
-        "production orders"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-09-03T20:12:11.000Z"
     }
   ]
 }
