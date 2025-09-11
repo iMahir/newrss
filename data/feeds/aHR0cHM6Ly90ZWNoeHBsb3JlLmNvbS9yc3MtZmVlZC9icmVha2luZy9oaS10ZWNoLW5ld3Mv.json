@@ -5,6 +5,29 @@
   "feedUrl": "https://techxplore.com/rss-feed/breaking/hi-tech-news/",
   "items": [
     {
+      "title": "Embroidery encodes skin-like tension lines for wearables",
+      "link": "https://techxplore.com/news/2025-09-machine-embroidery-encodes-skin-tension.html",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- The work shows embedded **fibrous springs** in embroidery can create *anisotropic stretch* and a skin-like, programmable fabric.\n- By painting mechanics with a raster image and Python tool, designers can convert artwork into stitch patterns that encode stretch at ~7 mm resolution.\n- A demonstrator shoe and potential wearables show how mass-customization at industrial speed could improve fit, comfort, and safety across sports, orthotics, and robotics.",
+      "keywords": [
+        "embroidery",
+        "wearables",
+        "anisotropic-stretch",
+        "textiles",
+        "programmable-fabrics",
+        "footwear",
+        "robotics"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 9,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-09-11T14:20:04.000Z"
+    },
+    {
       "title": "Software tool turns everyday objects into animated, eye-catching displays—without electronics",
       "link": "https://techxplore.com/news/2025-09-software-tool-everyday-animated-eye.html",
       "author": null,
@@ -6017,27 +6040,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-07-28T13:28:05.000Z"
-    },
-    {
-      "title": "Carbon Contamination Hinders Gallium Oxide Electronics",
-      "link": "https://techxplore.com/news/2025-07-carbon-contamination-key-barrier-gallium.html",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Cornell researchers revealed that a *microscopic layer of carbon contamination* is a significant barrier in gallium oxide electronics, affecting electrical flow.\n- The team developed effective treatments, including *UV-ozone exposure* and *active oxygen treatment*, significantly reducing contact resistance.\n- This breakthrough promises to pave the way for more *consistent and reliable ultra-wide bandgap devices*, advancing towards commercial applications.",
-      "keywords": [
-        "gallium oxide",
-        "carbon contamination",
-        "semiconductors",
-        "high-power electronics",
-        "electrical engineering"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 9,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-07-28T12:50:56.000Z"
     }
   ]
 }
