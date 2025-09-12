@@ -5,6 +5,28 @@
   "feedUrl": "https://techxplore.com/rss-feed/breaking/hi-tech-news/",
   "items": [
     {
+      "title": "Silent deep bass: Wearable audio you can feel",
+      "link": "https://techxplore.com/news/2025-09-silent-deep-bass-wearable-audio.html",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Researchers at University of Tsukuba unveiled a compact, silent subwoofer that combines *electrical muscle stimulation* (EMS) with low-frequency vibrations to let users physically feel deep bass in VR and daily music.\n- In tests with 24 participants, the system delivered rhythm and depth comparable to traditional speakers while greatly reducing *ambient noise* and enhancing immersion.\n- The work, published in *IEEE Access* (2025), could expand bass experiences for *VR* live events and at-home listening.",
+      "keywords": [
+        "wearable-audio",
+        "bass",
+        "VR",
+        "EMS",
+        "IEEE-Access",
+        "immersion"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-09-12T12:37:02.000Z"
+    },
+    {
       "title": "Soft magnetoelastic sensor tracks fatigue via blink",
       "link": "https://techxplore.com/news/2025-09-soft-magnetoelastic-sensor-fatigue-eyeball.html",
       "author": null,
@@ -6031,27 +6053,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-08-01T10:15:41.000Z"
-    },
-    {
-      "title": "Light-sensitive materials mimic brain synapses",
-      "link": "https://techxplore.com/news/2025-07-sensitive-materials-mimic-synapses-brain.html",
-      "author": null,
-      "thumbnail": "https://scx1.b-cdn.net/csz/news/tmb/2025/light-sensitive-materi.jpg",
-      "summary": "*Researchers developed organic photoelectrochemical transistors (OPECTs) that can convert light into electrical signals.*\n- *These devices mimic synaptic behavior in the brain and can be tailored using chemistry.*\n- *Potential applications include neural interfaces, optical sensors, and treatment of retinal diseases.*",
-      "keywords": [
-        "neuromorphic electronics",
-        "light-sensitive materials",
-        "brain–machine interface",
-        "biocompatible electronics",
-        "retinal disease"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 8,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-07-31T16:50:01.000Z"
     }
   ]
 }
