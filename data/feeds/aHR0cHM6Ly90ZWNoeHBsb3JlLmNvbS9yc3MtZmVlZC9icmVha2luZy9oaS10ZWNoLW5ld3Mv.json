@@ -5,6 +5,29 @@
   "feedUrl": "https://techxplore.com/rss-feed/breaking/hi-tech-news/",
   "items": [
     {
+      "title": "Soft magnetoelastic sensor tracks fatigue via blink",
+      "link": "https://techxplore.com/news/2025-09-soft-magnetoelastic-sensor-fatigue-eyeball.html",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- A *soft, self-powered* magnetoelastic sensor mounted on the eyelid tracks blinking to quantify fatigue in real time.\n- The device uses a *magnetoelastic effect* in soft polymers, with a gold coil on a thermoplastic elastomer over magnets, enabling wireless data without batteries.\n- Researchers envision wearable, waterproof bioelectronics that monitor fatigue in daily life and other health metrics beyond fatigue.",
+      "keywords": [
+        "soft electronics",
+        "magnetoelastic",
+        "bioelectronics",
+        "fatigue monitoring",
+        "wearable sensors",
+        "eye-tracking",
+        "biomedical innovation"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 9,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-09-12T11:00:01.000Z"
+    },
+    {
       "title": "Humans sense robot hand as part of their body",
       "link": "https://techxplore.com/news/2025-09-humans-collaborating-robot-body.html",
       "author": null,
@@ -6029,28 +6052,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-07-31T16:50:01.000Z"
-    },
-    {
-      "title": "Freestanding hafnium zirconium oxide membranes for 2D transistors",
-      "link": "https://techxplore.com/news/2025-07-freestanding-hafnium-zirconium-oxide-membranes.html",
-      "author": null,
-      "thumbnail": null,
-      "summary": "*Researchers developed *freestanding hafnium zirconium oxide (HZO) membranes* as high-κ gate dielectrics for 2D transistors.*\n- These membranes, transfered onto materials like MoS₂, improve control and performance of miniaturized transistors.*\n- The study demonstrates successful creation of electronic components, including transistors, inverters, and logic gates, surpassing previous efforts in 2D electronics.*",
-      "keywords": [
-        "2D semiconductors",
-        "high-κ dielectric",
-        "Hafnium zirconium oxide",
-        "transistors",
-        "electronics",
-        "ferroelectric materials"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 8,
-        "novelty": 9,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-07-31T11:30:01.000Z"
     }
   ]
 }
