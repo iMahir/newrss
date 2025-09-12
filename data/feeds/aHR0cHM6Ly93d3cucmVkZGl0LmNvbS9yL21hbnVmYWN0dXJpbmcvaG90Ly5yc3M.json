@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Anyone here using ERP for food & beverage manufacturing?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1newm7j/anyone_here_using_erp_for_food_beverage/",
+      "author": "/u/The_Moisturizer",
+      "thumbnail": null,
+      "summary": "- The original post asks what systems people use to manage *production*, *inventory*, and *compliance*, noting spreadsheets only go so far.\n- It contrasts *big ERP systems*' high cost and potential overkill with small tools that miss *recalls*, *audits*, and *lot tracking*.\n- Readers are invited to share real experiences—the *good*, the *bad*, and the *ugly*—when choosing or switching *ERP*, plus practical lessons.",
+      "keywords": [
+        "ERP",
+        "F&B",
+        "manufacturing",
+        "inventory",
+        "recalls",
+        "compliance"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 4,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-09-12T07:16:53.000Z"
+    },
+    {
       "title": "How are you guys managing training?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1netxib/how_are_you_guys_managing_training/",
       "author": null,
@@ -940,28 +962,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-09-04T20:10:01.000Z"
-    },
-    {
-      "title": "How much does an invoice cost in your facility?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1n8ixvx/ive_been_chatting_a_lot_with_apar_and_some/",
-      "author": "/u/bridgital-io",
-      "thumbnail": null,
-      "summary": "- *Manual* processing costs can be *$5–$15* per invoice; IDP drops that to *$0.50–$1*, enabling substantial savings.\n- Example: ~50k invoices could save ~*$300k/year* and avoid ~$75k–$200k in correction costs thanks to error rates dropping from 3–5% to <1%.\n- Beyond savings, digitized data enables *real-time analytics*, *cash flow forecasting*, AI model training, audit trails, and seamless ERP/CRM integrations.",
-      "keywords": [
-        "AP/AR",
-        "invoicing",
-        "IDP",
-        "automation",
-        "manufacturing",
-        "data analytics"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 9
-      },
-      "pubDate": "2025-09-04T19:00:03.000Z"
     }
   ]
 }
