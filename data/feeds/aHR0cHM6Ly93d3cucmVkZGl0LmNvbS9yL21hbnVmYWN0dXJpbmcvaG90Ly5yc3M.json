@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Chasing a multi-level BOM under deadline pressure",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1nfbz5f/ever_tried_chasing_a_multilevel_bom_while_the/",
+      "author": "/u/BCinsider",
+      "thumbnail": null,
+      "summary": "- The post highlights the difficulty of working with a multi-level BOM in **Business Central** because the structure page shows relationships but doesn't flag shortages or adjust quantities in context. - A different workflow that recalculates shortages for a target build in one view dramatically improves the process. - The author asks the community how they handle edits and shortages without getting lost in clicks.",
+      "keywords": [
+        "BOM",
+        "Business Central",
+        "ERP",
+        "manufacturing",
+        "shortages",
+        "workflows"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-09-12T19:11:31.000Z"
+    },
+    {
       "title": "Looking into Apliiq for Small-Batch Embroidery and Custom Labels",
       "link": "https://www.reddit.com/r/manufacturing/comments/1nexv3c/looking_into_apliiq_for_smallbatch_embroidery_and/",
       "author": "/u/Bulky-Beautiful5166",
@@ -940,27 +962,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-09-05T00:02:11.000Z"
-    },
-    {
-      "title": "My workflow finds customers and emails them; testers wanted",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1n8o28s/my_workflow_now_finds_customers_and_emails_them/",
-      "author": "/u/wurfzelt33",
-      "thumbnail": null,
-      "summary": "- I have built a complete *end-to-end lead generation* system that finds qualified customers using **LinkedIn**, posts, and company data, then ranks an icebreaker and personalizes outreach.\n- The system weeds out irrelevant leads and writes a personalized email campaign, running fully automatically.\n- The author is seeking testers via DM; the thread also touches on spam concerns and reader response.",
-      "keywords": [
-        "lead generation",
-        "automation",
-        "LinkedIn",
-        "outreach",
-        "spam"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 6,
-        "novelty": 7,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-09-04T22:21:34.000Z"
     }
   ]
 }
