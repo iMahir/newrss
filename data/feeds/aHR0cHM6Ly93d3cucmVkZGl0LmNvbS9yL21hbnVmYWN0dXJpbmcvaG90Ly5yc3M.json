@@ -5,6 +5,51 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "How to describe the packing details of a Jumbo Roll",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1nfs3lj/how_to_describe_the_packing_details_of_a_jumbo/",
+      "author": "/u/Temporary-Pizza-7797",
+      "thumbnail": null,
+      "summary": "- The post discusses describing packing for a *Jumbo Roll* (about 1 meter tall) and seeks guidance to draft the *packing details* in the *contract*. - Packaging is *per-roll* wrapped in *stretch film*, with **no pallets**; cartons exist but this item isn’t palletized, complicating the usual *pcs/bag/carton* or *rolls per pallet* formats. - The packing description should consider *export-in-container* requirements and clarity on carton dimensions, wrap method, and quantity per unit for a *contract*.",
+      "keywords": [
+        "packaging",
+        "jumbo_roll",
+        "export_container",
+        "logistics",
+        "packing_details",
+        "palletization"
+      ],
+      "scores": {
+        "scale": 3,
+        "impact": 3,
+        "novelty": 3,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-09-13T08:19:15.000Z"
+    },
+    {
+      "title": "MiniTab in Manufacturing",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1nfs335/minitab/",
+      "author": "/u/finchpurple1",
+      "thumbnail": null,
+      "summary": "- The post asks how many in *manufacturing* use **MiniTab** and for what tasks.\n- The author notes they primarily use it for *capability analysis* and **DOE**.\n- The thread aims to share practical uses of *MiniTab* in manufacturing workflows.",
+      "keywords": [
+        "MiniTab",
+        "Manufacturing",
+        "Statistical Software",
+        "Capability Analysis",
+        "DOE",
+        "Data Analysis",
+        "QMS"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 4,
+        "novelty": 3,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-09-13T08:18:20.000Z"
+    },
+    {
       "title": "Best injection molding companies?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1nfqdpl/what_are_the_best_injection_molding_companies/",
       "author": "/u/sickcontz",
@@ -931,49 +976,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-09-05T17:37:26.000Z"
-    },
-    {
-      "title": "Jaguar Land Rover cyber incident disrupts operations",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1n9aujd/jaguar_land_rover_manufacturing_and_retail/",
-      "author": "/u/Karmdeep",
-      "thumbnail": null,
-      "summary": "- The *cyberattack* disrupted Jaguar Land Rover manufacturing and retail operations.\n- A week-long, unplanned shutdown affected production lines and the wider supply chain.\n- Staff were told to stay home during the investigation.",
-      "keywords": [
-        "cybersecurity",
-        "manufacturing",
-        "Jaguar Land Rover",
-        "supply chain",
-        "UK"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-09-05T17:04:20.000Z"
-    },
-    {
-      "title": "35k design team vs 3k foreign manufacturer",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1n997tv/35k_design_team_vs_3k_foreign_manufacturer/",
-      "author": "/u/Low_Calligrapher_580",
-      "thumbnail": null,
-      "summary": "- The contrast between a **$35k** design team and a **$3k** Chinese maker frames trade-offs in prototyping, IP, and speed.\n- A practical path is to use a freelance designer and small prototype shops to test the market before large orders.\n- Key steps include clear specs, small MOQs, and IP protection to avoid costly misalignments with overseas manufacturers.",
-      "keywords": [
-        "product design",
-        "manufacturing",
-        "China sourcing",
-        "IP protection",
-        "prototyping",
-        "freelancers"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-09-05T16:02:07.000Z"
     }
   ]
 }
