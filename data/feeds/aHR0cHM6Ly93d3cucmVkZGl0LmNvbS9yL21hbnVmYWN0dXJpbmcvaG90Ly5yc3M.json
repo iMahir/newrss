@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Automating CMM inspection",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1nfnb71/automating_cmm_inspection/",
+      "author": "/u/joshymochy",
+      "thumbnail": null,
+      "summary": "- The thread discusses automating a CMM inspection with a robot, using fixtures and programmed probe points to preserve *accuracy*.\n- A commenter suggests using **AOI** with measurement capabilities as an alternative solution.\n- The reply notes that some shops already implement automatic CMM setups for **100% inspections** in medical or aerospace work, with occasional use in other sectors.",
+      "keywords": [
+        "CMM",
+        "robotics",
+        "automation",
+        "AOI",
+        "inspection",
+        "manufacturing"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-09-13T03:37:37.000Z"
+    },
+    {
       "title": "Chasing a multi-level BOM under deadline pressure",
       "link": "https://www.reddit.com/r/manufacturing/comments/1nfbz5f/ever_tried_chasing_a_multilevel_bom_while_the/",
       "author": "/u/BCinsider",
@@ -952,16 +974,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-09-05T15:25:26.000Z"
-    },
-    {
-      "title": "Logistics services in US",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1n8qdew/logistics_services_in_us/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-09-05T00:02:11.000Z"
     }
   ]
 }
