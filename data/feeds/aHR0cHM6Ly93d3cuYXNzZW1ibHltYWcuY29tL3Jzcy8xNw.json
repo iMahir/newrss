@@ -5,6 +5,28 @@
   "feedUrl": "https://www.assemblymag.com/rss/17",
   "items": [
     {
+      "title": "New Technology Shortens Cycle Time for Leak Testing",
+      "link": "https://www.assemblymag.com/articles/99547-new-technology-shortens-cycle-time-for-leak-testing",
+      "author": "sprovierij@bnpmedia.com (John Sprovieri)",
+      "thumbnail": "https://www.assemblymag.com/ext/resources/issues2/2025/10-oct/ateq-forweb.webp?t=1757527744",
+      "summary": "- ATEQ’s *Early Decision Tool (EDT)* speeds leak testing by analyzing real-time pressure from the start, enabling up to **50% shorter** test times.\n- EDT learns from thousands of parts to set benchmarks and *reject leaks early*, stopping cycles when certainty is reached.\n- The tool adds QA via *conformity parameters* for temperature shifts or external airflow and supports multiple testers like *Z8*, *MED75y*, and *LS-R902*.",
+      "keywords": [
+        "leak testing",
+        "test automation",
+        "predictive quality",
+        "manufacturing efficiency",
+        "ATEQ",
+        "medical devices"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-09-15T13:00:00.000Z"
+    },
+    {
       "title": "Airbus Begins Assembly of First A350 Freighter in Toulouse",
       "link": "https://www.assemblymag.com/articles/99553-airbus-begins-assembly-of-first-a350-freighter-in-toulouse",
       "author": null,
@@ -5138,16 +5160,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-08-13T13:00:00.000Z"
-    },
-    {
-      "title": "Sensors Test Advanced Glider Wings in Germany",
-      "link": "https://www.assemblymag.com/articles/99482-sensors-measure-strength-of-composite-wings",
-      "author": null,
-      "thumbnail": "https://www.assemblymag.com/ext/resources/issues2/2025/09-sep/asb0925glide1-forweb.webp?1754665926",
-      "summary": "- *Akaflieg München*, a university-affiliated flying club, designs advanced gliders like the *Mü-32*.\n- They use *sensors and data acquisition systems* from *Kistler Group* to perform destructive wing tests.\n- A recent test failed prematurely, prompting analysis and redesign to meet *aviation safety standards*.\n\n**Scores:** {\n  \"scale\": 7,\n  \"impact\": 8,\n  \"novelty\": 6,\n  \"longTermSignificance\": 9\n},\n**Keywords:** [\"aerospace\", \"wing testing\", \"sensors\", \"composite materials\", \"avionics\", \"Kistler\", \"gliding\"] }",
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-08-12T13:00:00.000Z"
     }
   ]
 }
