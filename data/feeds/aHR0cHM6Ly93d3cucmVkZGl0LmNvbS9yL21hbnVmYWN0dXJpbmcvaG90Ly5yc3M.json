@@ -5,6 +5,140 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "finding a manufacturer on alibaba",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1nhz7oo/finding_a_manufacturer_on_alibaba/",
+      "author": "/u/Objective-Star7329",
+      "thumbnail": null,
+      "summary": "- The post asks what the phrase *official quotation in working time* on Alibaba means and whether it signals a scam, seeking *advice*.\n- A commenter asks what you are looking to source, prompting clarification.\n- Another commenter invites a DM to discuss details, showing how buyers and suppliers communicate online.",
+      "keywords": [
+        "Alibaba",
+        "manufacturing",
+        "scams",
+        "quotations",
+        "sourcing",
+        "online-marketplace"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 4,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-09-15T21:48:00.000Z"
+    },
+    {
+      "title": "How would you scale this without going broke?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1nhr534/how_would_you_scale_this_without_going_broke/",
+      "author": "/u/Own-Necessary970",
+      "thumbnail": null,
+      "summary": "- I’ve got a working 8x8 prototype (64 modules) but 3D printing two printers for ~12 days and HDPE mounts cut on a Shapeoko is slow and not scalable.\n- I redesigned to row-by-row assembly (8 modules per row), which removes CNC work but requires *injection molding* or *short-run aluminum tooling*; seeking realistic paths.\n- Any pointers from *manufacturers* or experiences with affordable scaling options, including alternatives to *injection molding*, would be huge.",
+      "keywords": [
+        "manufacturing",
+        "injection-molding",
+        "prototyping",
+        "short-run",
+        "cost-reduction",
+        "tooling"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 4,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-09-15T16:48:15.000Z"
+    },
+    {
+      "title": "Three metrics for a manufacturing dashboard",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1nhnxbg/if_you_could_only_have_3_metrics_on_your/",
+      "author": "/u/Lumpy_Ebb_786",
+      "thumbnail": null,
+      "summary": "- *OEE* is often regarded as the core KPI, complemented by metrics for *Quality* and *Delivery* to cover uptime, throughput, and schedule adherence.\\n- Many replies argue for a triad like *Safety*, *Quality*, and *Delivery*, with some adding *Cost of Poor Quality* or *Cost* as a fourth consideration.\\n- The thread emphasizes context sensitivity, advocating a mix of leading and lagging measures and tailoring KPIs to the team (cell vs plant) rather than a universal trio.",
+      "keywords": [
+        "manufacturing",
+        "KPIs",
+        "OEE",
+        "Quality",
+        "Delivery",
+        "Safety"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-09-15T14:49:24.000Z"
+    },
+    {
+      "title": "Tips for setting up production fast after a move",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1nhl9c5/tips_for_setting_up_production_fast_after_a_move/",
+      "author": "/u/gentlebeast06",
+      "thumbnail": null,
+      "summary": "- *Plan ahead before moving*: coordinate utilities, pre‑schedule calibrations, and block off the production schedule to minimize downtime.\n- *Stage the move and focus on critical lines*: move equipment in stages, run tests, and consider selective outsourcing to keep orders flowing.\n- *Communicate with customers and assign ownership*: warn about potential delays and give clear tasks to team members to speed up setup.",
+      "keywords": [
+        "manufacturing",
+        "facility-move",
+        "production-planning",
+        "outsourcing",
+        "utilities-coordination",
+        "stakeholder-communication",
+        "project-management"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-09-15T13:03:07.000Z"
+    },
+    {
+      "title": "Looking for resources to learn management",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1nhi4bx/looking_for_resources_to_learn_management/",
+      "author": "/u/True_Direction_2003",
+      "thumbnail": null,
+      "summary": "- *Two Reddit users discuss resources to learn management and seek practical guidance.*\n- **Taiichi Ohno**, **W. Edwards Deming**, and **Eliyahu Goldratt** are recommended to build *systems thinking*.\n- *Lean*, *6S*, and *Theory of Constraints (TOC)* are cited as practical frameworks for applying management in manufacturing.",
+      "keywords": [
+        "management",
+        "manufacturing",
+        "lean",
+        "TOC",
+        "Ohno",
+        "Deming",
+        "Goldratt"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-09-15T10:25:50.000Z"
+    },
+    {
+      "title": "Overmolding a cable connection",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1nhhpeq/overmolding_a_cable_connection/",
+      "author": "/u/Sykou",
+      "thumbnail": null,
+      "summary": "- *High‑pressure compression molding* can push or shear flexible wires, causing inner conductors to slip or break unless supported and restrained.\n- *Low‑pressure molding*, potting, or a *two‑shot design* with proper cable support and fixtures is often required for reliable overmolding of cables to PCBs.\n- Key factors include *cable flexibility*, *outer mantle retention*, and material choices (e.g., *TPU*, *silicone*) that enable enclosure without damaging the wires.",
+      "keywords": [
+        "overmolding",
+        "compression-molding",
+        "PCB",
+        "cable-assembly",
+        "low-pressure-molding",
+        "two-shot"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-09-15T10:01:32.000Z"
+    },
+    {
       "title": "SBA MARC Loans for Manufacturers",
       "link": "https://www.reddit.com/r/manufacturing/comments/1nh5sua/sba_loans_for_manufacturers_how_marc_loans_can/",
       "author": "/u/SBASteve",
@@ -850,128 +984,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-09-08T15:05:34.000Z"
-    },
-    {
-      "title": "UK - Looking for CNC shop for wood",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1nb8ep4/uk_looking_for_cnc_shop_for_wood/",
-      "author": "/u/mini_wooly",
-      "thumbnail": null,
-      "summary": "- The author is based in the *UK* (West Midlands) and has a product ready to prototype, seeking a CNC shop for *wood* parts.\n- They want options for the *stock* of wood, since materials vary between shops.\n- They request recommendations for UK-based CNC shops that can produce the prototype parts.",
-      "keywords": [
-        "CNC",
-        "woodworking",
-        "prototype",
-        "UK",
-        "West Midlands",
-        "suppliers",
-        "machining"
-      ],
-      "scores": {
-        "scale": 4,
-        "impact": 3,
-        "novelty": 3,
-        "longTermSignificance": 3
-      },
-      "pubDate": "2025-09-07T23:36:56.000Z"
-    },
-    {
-      "title": "Need advice searching for distributors.",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1nawgiu/need_advice_searching_for_distributors/",
-      "author": "/u/Swimming_Weight_3526",
-      "thumbnail": null,
-      "summary": "- A user seeks *GLP-1* and *peptides* distributors and asks for site recommendations after Thomasnet and other lead-gen tools fell short. \n- Other responses suggest using *library/database resources* (including university libraries) with filters for industry, services, and company profiles to uncover distributors. \n- Another tip is to try *LinkedIn* to identify potential distributors and connections.",
-      "keywords": [
-        "GLP-1",
-        "peptides",
-        "distributors",
-        "B2B",
-        "market research",
-        "LinkedIn",
-        "databases"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 4,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-09-07T15:40:16.000Z"
-    },
-    {
-      "title": "Looking for a manufacturer for this plastic cup/bowl combo",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1nalpcj/looking_for_a_manufacturer_for_this_plastic/",
-      "author": "/u/LukeLehepuu",
-      "thumbnail": null,
-      "summary": "- The post by *LukeLehepuu* seeks a manufacturer for a *plastic cup/bowl combo* and notes difficulty reaching *Alibaba* suppliers. - It includes an image of the concept and asks what type of manufacturer to approach for this part. - A moderator reply lists details to include for better responses: *dimensions*, *tolerances*, *materials*, *production quantity*, *budget*, a drawing or sketch, production location, and manufacturing methods considered.",
-      "keywords": [
-        "manufacturing",
-        "plastics",
-        "supplier",
-        "Alibaba",
-        "sourcing"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 3,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-09-07T06:10:12.000Z"
-    },
-    {
-      "title": "Looking for a manufacturer to print on thermals (US preferred)",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1nafin2/looking_for_a_manufacture_can_can_print_on/",
-      "author": "/u/yzzerddcom",
-      "thumbnail": null,
-      "summary": "- The post seeks a manufacturer that can print on *thermals*, with location not crucial but **US** preferred.\n- It was posted by **/u/yzzerddcom** and links to the gallery and the original thread.\n- **AutoModerator** replies urging the poster to include detailed specs (dimensions, materials, quantity, budget, drawings, production location, and methods) to improve replies.",
-      "keywords": [
-        "manufacturing",
-        "printing",
-        "thermals",
-        "US",
-        "vendor-search",
-        "sourcing"
-      ],
-      "scores": {
-        "scale": 4,
-        "impact": 4,
-        "novelty": 3,
-        "longTermSignificance": 3
-      },
-      "pubDate": "2025-09-07T00:37:44.000Z"
-    },
-    {
-      "title": "CNC turned part with threading feeling proud!",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1n9v4sj/cnc_turned_part_with_threading_feeling_proud/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-09-06T09:21:52.000Z"
-    },
-    {
-      "title": "Any food processing companies or importers in this subreddit?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1n9r0ej/any_food_processing_companies_or_importers_in/",
-      "author": "/u/m_corleone_22",
-      "thumbnail": null,
-      "summary": "- A family business in India with 22 years of experience is expanding globally and seeks connections with *food processing companies*, *oil mills*, and *importers/distributors* for groundnuts, castor oil, guar gum, psyllium, and cumin.\n- They welcome partnerships to export or distribute products through global channels.\n- A link to Asia Agro Exports is provided for initial contact.",
-      "keywords": [
-        "food processing",
-        "importers",
-        "groundnuts",
-        "castor oil",
-        "guar gum",
-        "psyllium",
-        "cumin"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 3,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-09-06T05:04:32.000Z"
     }
   ]
 }
