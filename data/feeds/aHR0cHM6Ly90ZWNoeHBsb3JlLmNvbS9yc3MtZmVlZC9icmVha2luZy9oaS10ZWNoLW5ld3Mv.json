@@ -5,6 +5,28 @@
   "feedUrl": "https://techxplore.com/rss-feed/breaking/hi-tech-news/",
   "items": [
     {
+      "title": "Real-time dislocation formation during 3D metal printing",
+      "link": "https://techxplore.com/news/2025-09-microscopic-dislocations-real-3d-metal.html",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Argonne's Advanced Photon Source enabled *real-time X-ray diffraction* to watch how **dislocations** form and spread during the 3D printing of *316L stainless steel*.\n- Dislocations appear early during *rapid solidification*, driven by a reaction that forms two solid phases from the liquid, challenging prior assumptions.\n- These insights could guide tuning of *printing variables* and *alloy composition* to improve the *strength and reliability* of metal parts for aerospace, defense and energy.",
+      "keywords": [
+        "3D printing",
+        "dislocations",
+        "additive manufacturing",
+        "X-ray diffraction",
+        "stainless steel",
+        "materials science"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 8,
+        "novelty": 9,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-09-16T15:58:04.000Z"
+    },
+    {
       "title": "Bending salty ice could be a power source of the future",
       "link": "https://techxplore.com/news/2025-09-salty-ice-power-source-future.html",
       "author": null,
@@ -6032,27 +6054,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-08-06T19:53:36.000Z"
-    },
-    {
-      "title": "Thin biofilm transforms CO₂ into energy",
-      "link": "https://techxplore.com/news/2025-08-thin-biofilm-renewable-energy.html",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Researchers from NIBIO and NMBU developed a *biofilm-based process* to convert greenhouse gases like CO₂ and CO into **biomethane** with over 96% purity.\n- The *engineered microbial biofilms* enhance gas processing, tolerate harmful substances, and enable conversion from *unconventional substrates*, offering a sustainable energy source.\n- This technology holds *significant potential* for reducing harmful gas emissions and producing *renewable energy*, but requires precise control for industrial application.",
-      "keywords": [
-        "biofilm",
-        "CO₂ conversion",
-        "biomethane",
-        "renewable energy",
-        "microbial processes"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 9,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-08-06T12:58:03.000Z"
     }
   ]
 }
