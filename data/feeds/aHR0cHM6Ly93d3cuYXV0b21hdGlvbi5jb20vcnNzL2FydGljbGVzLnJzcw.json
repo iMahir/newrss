@@ -28,6 +28,72 @@
       "pubDate": "2025-10-01T05:00:00.000Z"
     },
     {
+      "title": "The Wisdom of Correct Pressure Measurements",
+      "link": "https://www.automation.com/en-us/articles/september-2025/wisdom-correct-pressure-measurements",
+      "author": "Abhishek Sharma",
+      "thumbnail": null,
+      "summary": "- The article explains how *static pressure* vs *dynamic pressure* readings can be wrong when tapping or transmitter placement is incorrect, with examples like downstream/upstream discrepancies.\n- It covers altitude effects, momentum, elbows, and other design pitfalls that cause unexpected measurements in towers, vessels, and pipelines.\n- It offers practical guidelines to avoid errors: *wet/dry leg calibration*, 10D spacing, remote seals, and regular flushing of transmitter tubing.",
+      "keywords": [
+        "pressure measurement",
+        "instrumentation",
+        "process engineering",
+        "sensor installation",
+        "flow dynamics",
+        "remote seals"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-09-16T05:00:00.000Z"
+    },
+    {
+      "title": "Siemens & TRUMPF accelerate digital manufacturing & AI",
+      "link": "https://www.automation.com/en-us/articles/september-2025/siemens-trumpf-accelerate-digital-manufacturing",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- *Siemens* and **TRUMPF** announce a partnership to bridge IT and OT by integrating Siemens' Xcelerator with TRUMPF's machine-building and software expertise, accelerating digital manufacturing and AI readiness.\n- The collaboration will deliver open, interoperable interfaces and modular architectures so shop-floor data and enterprise systems connect seamlessly, boosting innovation cycles and scalability.\n- Customers can expect faster time-to-market, improved production flexibility, and AI-enabled operations through standardized, future-proof automation solutions.",
+      "keywords": [
+        "digital manufacturing",
+        "IT-OT integration",
+        "Siemens Xcelerator",
+        "TRUMPF",
+        "AI readiness",
+        "open interfaces"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-09-16T05:00:00.000Z"
+    },
+    {
+      "title": "Ethernet and AI at ECOC 2025 Demo",
+      "link": "https://www.automation.com/en-us/articles/september-2025/ethernet-ai-ethernet-alliance-ecoc-2025-demo",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- The *Ethernet Alliance* will demo the *Future of Ethernet* at ECOC 2025 with a live multivendor display of *100G–800G* links and *LPO* for AI training and deployment. \n- The demo highlights *high bandwidth*, *low latency*, and interoperable provisioning to speed up AI clusters and real‑time inference. \n- Partners like Alphawave Semi, Cisco, Huawei, and others show plug‑and‑play IP such as the *AlphaCHIP1600* to enable seamless Ethernet across data centers and edge AI accelerators.",
+      "keywords": [
+        "Ethernet",
+        "ECOC 2025",
+        "AI",
+        "interoperability",
+        "multivendor demo",
+        "optical communications"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-09-16T05:00:00.000Z"
+    },
+    {
       "title": "Smart PSV Monitoring for Process Safety",
       "link": "https://www.automation.com/en-us/articles/september-2025/pressure-safety-valves-smart-process-safety",
       "author": "Mashhood Zafar",
@@ -930,49 +996,6 @@
         "scale": 8,
         "impact": 8,
         "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-09-04T05:00:00.000Z"
-    },
-    {
-      "title": "Lifecycle and Obsolescence Management: Extending Control System Lifespans",
-      "link": "https://www.automation.com/en-us/articles/august-2025/lifecycle-obsolescence-management-control-system",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-09-04T05:00:00.000Z"
-    },
-    {
-      "title": "Safety: Understanding SIL, Cpt and PFDavg",
-      "link": "https://www.automation.com/en-us/articles/august-2025/safety-understanding-sil-cpt-pfdavg",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-09-04T05:00:00.000Z"
-    },
-    {
-      "title": "Data Patterns India uses Siemens Xcelerator",
-      "link": "https://www.automation.com/en-us/articles/september-2025/data-patterns-india-design-manufacturing-siemens",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Data Patterns will adopt **Teamcenter** PLM and **Polarion ALM** from **Siemens Xcelerator** to standardize data, processes and people across manufacturing and testing, accelerating go-to-market times and improving product quality.\n- The move enables *digital threads* that connect real-time data across engineering, design, development and manufacturing, automating compliance for faster workflows and helping meet DO-178C and DO-254 standards for safety-critical avionics.\n- Siemens and Data Patterns expect this collaboration to boost growth in India’s defense and aerospace markets, reinforcing a culture of *first time right* with integrated, automated development and compliance solutions.",
-      "keywords": [
-        "Siemens Xcelerator",
-        "Teamcenter",
-        "Polarion ALM",
-        "Data Patterns India",
-        "PLM",
-        "ALM",
-        "defense aerospace"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 9,
-        "novelty": 6,
         "longTermSignificance": 8
       },
       "pubDate": "2025-09-04T05:00:00.000Z"
