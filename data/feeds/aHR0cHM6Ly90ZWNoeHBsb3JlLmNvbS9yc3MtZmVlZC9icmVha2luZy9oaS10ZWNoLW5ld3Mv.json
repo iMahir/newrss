@@ -5,6 +5,28 @@
   "feedUrl": "https://techxplore.com/rss-feed/breaking/hi-tech-news/",
   "items": [
     {
+      "title": "Biohybrid crawlers controlled with optogenetics",
+      "link": "https://techxplore.com/news/2025-09-biohybrid-crawlers-optogenetic-techniques.html",
+      "author": "Ingrid Fadelli",
+      "thumbnail": "https://scx1.b-cdn.net/csz/news/800a/2025/tiny-neuro-muscular-bi.jpg",
+      "summary": "- Researchers created *biohybrid robots* by integrating mouse motor neurons and muscle tissue onto a 3D‑printed scaffold with wireless microLEDs to enable light‑driven actuation.\n- The system uses *optogenetic techniques* to stimulate *neural tissue* and steer crawling movements, mimicking natural *neural mechanisms* of movement.\n- This approach could advance *motor process studies*, regenerative medicine, and future devices capable of learning and adapting to stimuli.",
+      "keywords": [
+        "biohybrid robots",
+        "optogenetics",
+        "neural tissue",
+        "neuromuscular junction",
+        "motor neurons",
+        "neural engineering"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 8,
+        "novelty": 9,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-09-16T10:50:01.000Z"
+    },
+    {
       "title": "Silent deep bass: Wearable audio you can feel",
       "link": "https://techxplore.com/news/2025-09-silent-deep-bass-wearable-audio.html",
       "author": null,
@@ -6032,27 +6054,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-08-05T13:09:04.000Z"
-    },
-    {
-      "title": "Engineers develop stronger, lighter 3D-printed parts",
-      "link": "https://techxplore.com/news/2025-08-method-stronger-lighter-3d.html",
-      "author": null,
-      "thumbnail": "https://scx1.b-cdn.net/csz/news/tmb/2025/umaine-engineers-find.jpg",
-      "summary": "*Researchers at the University of Maine have created a new method to accurately predict the strength of lightweight 3D-printed objects.*\n- By integrating advanced computer modeling with experiments on gyroid infill structures, they improve design confidence and efficiency.\n- This breakthrough benefits industries like aerospace, automotive, and medical device manufacturing by enabling stronger, lighter components.*",
-      "keywords": [
-        "3D printing",
-        "lightweight materials",
-        "gyroid infill",
-        "computer modeling",
-        "additive manufacturing"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 8,
-        "novelty": 9,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-08-01T10:15:41.000Z"
     }
   ]
 }
