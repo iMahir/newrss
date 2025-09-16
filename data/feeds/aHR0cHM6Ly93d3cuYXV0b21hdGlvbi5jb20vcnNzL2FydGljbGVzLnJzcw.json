@@ -28,6 +28,73 @@
       "pubDate": "2025-10-01T05:00:00.000Z"
     },
     {
+      "title": "Smart PSV Monitoring for Process Safety",
+      "link": "https://www.automation.com/en-us/articles/september-2025/pressure-safety-valves-smart-process-safety",
+      "author": "Mashhood Zafar",
+      "thumbnail": "https://www.automation.com/getmedia/a83a0cb6-1e3d-4511-8b7c-7c90b51b3df6/ISA-process-safety-feature-Sept-16-2025-web.png?width=500&height=313&ext=.png",
+      "summary": "- PSVs require *continuous online monitoring* because drift, chatter and abnormal blowdown are often missed by manual in-service testing. \n- A real-time setup using upstream/downstream pressures (P1, P2) and ΔP trends in a PLC/SCADA/DCS yields a **real‑world fingerprint** of PSV performance and helps detect chatter. \n- Design challenges include *sensor survivability*, high-speed sensing and IEC 61511 compliance, with diagnostics that *support* rather than replace SIS.",
+      "keywords": [
+        "Pressure Safety Valve",
+        "Process Safety",
+        "PSV Monitoring",
+        "Diagnostics",
+        "Industrial Automation",
+        "IEC 61511"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-09-16T05:00:00.000Z"
+    },
+    {
+      "title": "Digital Twin Consortium Adds Eight New Testbeds",
+      "link": "https://www.automation.com/en-us/articles/september-2025/digital-twin-consortium-adds-eight-new-testbeds",
+      "author": null,
+      "thumbnail": null,
+      "summary": "*The *Digital Twin Consortium* added eight new testbeds to its program, bringing total testbeds to sixteen and expanding global collaboration in digital twins.*\n**TWINSENSE** enables real-time virtual sensing; **SAFESME** targets rapid SME onboarding; **Q-Smart** delivers a secure, self-learning home network with quantum-safe protocols.\n*The program uses the **Composability Framework** and invites members to advance AI, multi-agent systems, and digital twin tech across industries.*",
+      "keywords": [
+        "digital twins",
+        "testbeds",
+        "AI",
+        "industrial IoT",
+        "smart manufacturing",
+        "education",
+        "privacy"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-09-16T05:00:00.000Z"
+    },
+    {
+      "title": "FLUX Whitepaper: Inductive Rotary Encoders",
+      "link": "https://www.automation.com/en-us/articles/september-2025/flux-gmbh-whitepaper-inductive-rotary-encoders",
+      "author": "FLUX GmbH",
+      "thumbnail": null,
+      "summary": "- FLUX GmbH has published a whitepaper on *Inductive Rotary Encoders* to enable next‑generation performance across robotics, medical, aerospace, and defense applications.\n- The paper outlines six reasons to choose *FLUX inductive encoders* and notes scenarios where other technologies may be better suited, highlighting both advantages and limits.\n- FLUX’s solution features robustness, a low axial profile, high resolution and immunity to magnetic interference, with the *IND-MAX* family enabling compact, scalable designs.",
+      "keywords": [
+        "Inductive encoders",
+        "Rotary encoders",
+        "IND-MAX",
+        "robotics",
+        "aerospace",
+        "defense"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 6,
+        "novelty": 7,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-09-16T05:00:00.000Z"
+    },
+    {
       "title": "COMAU AI at ETFA 2025",
       "link": "https://www.automation.com/en-us/articles/september-2025/comau-ai-industrial-system-etfa-2025",
       "author": null,
@@ -908,59 +975,6 @@
         "novelty": 6,
         "longTermSignificance": 8
       },
-      "pubDate": "2025-09-04T05:00:00.000Z"
-    },
-    {
-      "title": "Digital Optical DO Probes Boost Operations",
-      "link": "https://www.automation.com/en-us/articles/august-2025/digital-optical-dissolved-oxygen-probes-1",
-      "author": "Kevin Stultz",
-      "thumbnail": null,
-      "summary": "- *Conventional amperometric* DO sensors require frequent *calibration*, electrolyte maintenance, and flow-dependent operation, driving higher maintenance costs and downtime.\\n- *Optical DO sensors* rely on luminescence quenching and **digital signals**, eliminating electrolyte refills, reducing drift, and enabling EMI-robust, multi-sensor networks.\\n- Applications like wastewater aeration and steam generation benefit from longer *calibration intervals*, easier installation, and lower maintenance with digital optical DO technology.",
-      "keywords": [
-        "Dissolved Oxygen",
-        "Optical Sensing",
-        "Process Control",
-        "Industrial Automation",
-        "Digital Communication"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-09-04T05:00:00.000Z"
-    },
-    {
-      "title": "ISA100 Wireless: Mature Tech Expands Applications",
-      "link": "https://www.automation.com/en-us/articles/august-2025/isa100-wireless-mature-technology-expands",
-      "author": "Jack Smith",
-      "thumbnail": null,
-      "summary": "- ISA100 Wireless is a *mature*, ANSI/IEC standard that supports *mesh*, *star*, and hybrid topologies for reliable field devices. \n- New features such as *BLE* and *OPC-UA* integration improve configuration and data access while preserving the core protocol. \n- The portfolio is expanding into safety-critical uses (gas detection, corrosion monitoring, valve control) and coexists with other wireless tech (WirelessHART, LoRa, BLE, 5G) in multi-protocol environments.",
-      "keywords": [
-        "ISA100 Wireless",
-        "Industrial IoT",
-        "Safety-critical",
-        "WirelessHART",
-        "BLE",
-        "OPC-UA"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 3,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-09-04T05:00:00.000Z"
-    },
-    {
-      "title": "ABB and B&R Bring Joint Automation Technologies for Brewery and Beverage to Drinktec 2025",
-      "link": "https://www.automation.com/en-us/articles/september-2025/abb-b-r-bring-automation-tech-brewery-beverage",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
       "pubDate": "2025-09-04T05:00:00.000Z"
     }
   ]
