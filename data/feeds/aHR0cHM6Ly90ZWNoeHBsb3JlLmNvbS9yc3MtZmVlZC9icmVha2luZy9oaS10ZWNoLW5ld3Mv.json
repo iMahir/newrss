@@ -5,6 +5,27 @@
   "feedUrl": "https://techxplore.com/rss-feed/breaking/hi-tech-news/",
   "items": [
     {
+      "title": "Bending salty ice could be a power source of the future",
+      "link": "https://techxplore.com/news/2025-09-salty-ice-power-source-future.html",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Ice can act as a *flexoelectric* material, generating electricity when bent.\n- Salt (NaCl) creates tiny *channels* of salty water inside the ice, allowing bending to drive a *streaming current*.\n- In tests, salty ice produced up to 1,000× more *electrical output* than pure ice, pointing to a potential **clean power source** for the future.",
+      "keywords": [
+        "flexoelectricity",
+        "salty ice",
+        "NaCl",
+        "streaming current",
+        "renewable energy"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 6,
+        "novelty": 9,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-09-16T15:10:07.000Z"
+    },
+    {
       "title": "Biohybrid crawlers controlled with optogenetics",
       "link": "https://techxplore.com/news/2025-09-biohybrid-crawlers-optogenetic-techniques.html",
       "author": "Ingrid Fadelli",
@@ -6032,28 +6053,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-08-06T12:58:03.000Z"
-    },
-    {
-      "title": "MIT's Meschers Visualizes Impossible Shapes",
-      "link": "https://techxplore.com/news/2025-08-meschers-tool-visualizes-physically-impossible.html",
-      "author": null,
-      "thumbnail": null,
-      "summary": "*Meschers* is a novel tool from MIT that transforms images into 2.5D structures, allowing visualization of *impossible objects* that defy physics, like Escher illustrations. \n\n- It helps artists and scientists study unique geometries, relight, and smooth out optical illusions, expanding creative possibilities.\n\n- The technology opens new avenues for *geometry research*, *visualization*, and *perception studies*, challenging traditional limits of physical realization.",
-      "keywords": [
-        "Impossible objects",
-        "Computer graphics",
-        "Optical illusions",
-        "Geometry",
-        "MIT",
-        "Shape modeling"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 9,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-08-05T13:09:04.000Z"
     }
   ]
 }
