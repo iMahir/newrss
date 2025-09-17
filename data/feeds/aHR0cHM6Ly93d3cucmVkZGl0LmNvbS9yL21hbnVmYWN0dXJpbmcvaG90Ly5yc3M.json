@@ -5,6 +5,50 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Field teams and rugged Android tablets",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1njdt78/field_teams_rugged_android_tablets_how_are_you/",
+      "author": "/u/CelebrationSad337",
+      "thumbnail": null,
+      "summary": "- *Rugged Android tablets* streamline field operations, improving data capture and onsite communication.\n- The discussion highlights provisioning, security, offline use, and device management with an eye toward *MDM* solutions like Scalefusion.\n- It invites manufacturing field teams to share real-world experiences and best practices.",
+      "keywords": [
+        "rugged devices",
+        "Android tablets",
+        "field teams",
+        "device management",
+        "manufacturing",
+        "MDM"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 6,
+        "novelty": 3,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-09-17T13:54:25.000Z"
+    },
+    {
+      "title": "Trumpf TruePunch 3000 question",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1njd40w/trumpf_truepunch_3000_question/",
+      "author": "/u/3G_Lighting",
+      "thumbnail": null,
+      "summary": "- *TRUMPF* *TruePunch* users report NCU errors: *Ready2 contact* open and *Battery 1* discharged or polarity issue.\n- *No PLC program found* and *Axes of area 1 are not referenced → RESET* have appeared today, stopping the press.\n- The post asks the *community* for experiences with these errors.",
+      "keywords": [
+        "TRUMPF",
+        "TruePunch",
+        "NCU",
+        "machine-errors",
+        "manufacturing-maintenance",
+        "industrial-machinery"
+      ],
+      "scores": {
+        "scale": 4,
+        "impact": 7,
+        "novelty": 3,
+        "longTermSignificance": 3
+      },
+      "pubDate": "2025-09-17T13:25:39.000Z"
+    },
+    {
       "title": "Is anyone using IPC-1752A for material declarations?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1njaxkw/is_anyone_using_ipc1752a_for_material_declarations/",
       "author": "/u/IndependenceOwn3576",
@@ -953,38 +997,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-09-09T17:22:20.000Z"
-    },
-    {
-      "title": "Cardboard boxes with overlapping flaps?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1ncmadz/cardboard_boxes_with_overlapping_flaps/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-09-09T15:38:58.000Z"
-    },
-    {
-      "title": "Japan PFAS ban in effect: keep products PFAS-free",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1ncevl9/japan_pfas_ban_is_in_effect_how_are_you_planning/",
-      "author": "/u/IndependenceOwn3576",
-      "thumbnail": null,
-      "summary": "- Japan's ban on 138 PFAS under CSCL began Jan 10, 2025 with no grace period, so coatings, wire insulation, and seals must be screened for *PFAS*.\n- Many suppliers now issue compliance letters or annual *compliance packets* to prove PFAS-free status for raw materials.\n- A common approach is to eliminate PFAS in production lines and rely on supplier attestations to keep products *PFAS-free*.",
-      "keywords": [
-        "PFAS",
-        "Japan",
-        "compliance",
-        "CSCL",
-        "manufacturing",
-        "supply-chain"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 4,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-09-09T10:08:00.000Z"
     }
   ]
 }
