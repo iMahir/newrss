@@ -5,6 +5,27 @@
   "feedUrl": "https://techxplore.com/rss-feed/breaking/hi-tech-news/",
   "items": [
     {
+      "title": "Soft NeuroWorm electrode with wireless steering",
+      "link": "https://techxplore.com/news/2025-09-soft-neuroworm-electrode-wireless-repositioning.html",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- The NeuroWorm is a soft, movable, long‑term implantable fiber electrode that can house up to 60 channels and be steered wirelessly by external magnets. - It translates earthworm-inspired design into a dynamic neural interface, enabling active, high‑quality spatiotemporal recordings while navigating brain tissue. - Validated in rats, a minimally invasive incision and external magnetic guidance demonstrated controlled movement and neural signal monitoring in situ.",
+      "keywords": [
+        "NeuroWorm",
+        "soft electrode",
+        "BCI",
+        "wireless control",
+        "neural implants"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 9,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-09-17T19:10:05.000Z"
+    },
+    {
       "title": "Artificial neurons become more advanced—and simpler—with conductive plastics",
       "link": "https://techxplore.com/news/2025-09-artificial-neurons-advanced-simpler-plastics.html",
       "author": null,
@@ -4481,28 +4502,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-08-11T19:09:04.000Z"
-    },
-    {
-      "title": "Invisible polymer film offers powerful conductivity for smart devices",
-      "link": "https://techxplore.com/news/2025-08-invisible-polymer-powerful-smart-devices.html",
-      "author": null,
-      "thumbnail": null,
-      "summary": "*Scientists at La Trobe University developed a revolutionary, *invisible, highly conductive polymer* using hyaluronic acid on gold.* \n- The new method, called 'tethered dopant templating,' creates a *durable, flexible, and scalable* material that rivals metals in electrical conductivity. \n- This breakthrough could significantly advance **smart devices**, especially in **healthcare** with more reliable and affordable biosensors and medical implants.*",
-      "keywords": [
-        "conductive polymers",
-        "smart devices",
-        "medical technology",
-        "hyaluronic acid",
-        "innovation",
-        "La Trobe University"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 9,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-08-07T15:06:04.000Z"
     }
   ]
 }
