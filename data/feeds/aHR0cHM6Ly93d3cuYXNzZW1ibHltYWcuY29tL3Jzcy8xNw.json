@@ -5,6 +5,51 @@
   "feedUrl": "https://www.assemblymag.com/rss/17",
   "items": [
     {
+      "title": "Robot-Assisted Assembly of Wiring Harnesses for Airplanes",
+      "link": "https://www.assemblymag.com/articles/99559-robot-assisted-assembly-of-wiring-harnesses-for-airplanes",
+      "author": null,
+      "thumbnail": "https://www.assemblymag.com/ext/resources/issues2/2025/10-oct/wire-processing/asb1025robot14-forweb.webp?t=1758208709",
+      "summary": "- *Dual-arm robot system* generates real-time trajectories from CAD data to split tasks between robots for harness assembly.\n- *Offline Programming* and *Real-Time Execution Frameworks* enable CAD-driven calibration, taught routes, and adaptive cabling in a production setup.\n- Demonstrated on two Kuka LBR iiwa cobots with force-controlled, compliant movements to ensure safe pin placement and routing.",
+      "keywords": [
+        "robotics",
+        "wiring harness",
+        "aerospace",
+        "automation",
+        "CAD data",
+        "real-time execution",
+        "offline programming"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-09-18T15:00:00.000Z"
+    },
+    {
+      "title": "Large-Scale Multi-Robot Assembly Planning",
+      "link": "https://www.assemblymag.com/articles/99560-large-scale-multi-robot-assembly-planning-allows-for-flexible-autonomous-manufacturing",
+      "author": "Kyle Brown, Dylan M. Asmar, Mac Schwager, Mykel J. Kochenderfer",
+      "thumbnail": "https://www.assemblymag.com/ext/resources/images/Stanford-Intelligent-Systems-Laboratory.webp?t=1758211377",
+      "summary": "- The study introduces a *large-scale multi-robot* assembly framework with global layout planning, task allocation via MILP and greedy methods, collaborative payload transport, and **collision-free** navigation.\n- It demonstrates scalability by planning for a LEGO Saturn V (1,845 parts, 306 subassemblies) with 250 robots, delivering a full plan in under three minutes on a laptop, and releasing the open-source simulator **ConstructionBots.jl**.\n- The work enables autonomous, flexible manufacturing with trade-offs in speed, layout efficiency, and resource use.",
+      "keywords": [
+        "multi-robot",
+        "assembly",
+        "planning",
+        "autonomous",
+        "manufacturing",
+        "robotics"
+      ],
+      "scores": {
+        "scale": 9,
+        "impact": 8,
+        "novelty": 8,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-09-18T14:53:36.000Z"
+    },
+    {
       "title": "Workstations Help Speaker Manufacturer Hit All the Right Notes",
       "link": "https://www.assemblymag.com/articles/99557-workstations-help-speaker-manufacturer-hit-all-the-right-notes",
       "author": "sprovierij@bnpmedia.com (John Sprovieri)",
@@ -3867,43 +3912,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-08-15T19:30:00.000Z"
-    },
-    {
-      "title": "Wisk and Signature Aviation Promote Autonomous eVTOL Infrastructure",
-      "link": "https://www.assemblymag.com/articles/99497-wisk-partners-with-signature-aviation-to-advance-autonomous-evtol-operations",
-      "author": null,
-      "thumbnail": "https://www.assemblymag.com/ext/resources/images/Article-Images-(7).webp?1755266658",
-      "summary": "*Wisk Aero* has partnered with *Signature Aviation* to develop vertiport infrastructure for autonomous *eVTOL* aircraft. \n- The project includes identifying key *U.S. markets* like Houston, Los Angeles, and Miami for future *Advanced Air Mobility* (AAM) routes. \n- The initial focus is on designing vertiports and operational workflows at Signature's Houston facility, aiming to bring *autonomous regional air travel* closer to reality. ",
-      "keywords": [
-        "eVTOL",
-        "Autonomous Flight",
-        "Infrastructure",
-        "AAM",
-        "Partnership",
-        "Urban Mobility"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-08-15T13:06:15.000Z"
-    },
-    {
-      "title": "Threaded Fasteners Help Save Whales",
-      "link": "https://www.assemblymag.com/articles/99491-threaded-fasteners-help-save-whales",
-      "author": "sprovierij@bnpmedia.com (John Sprovieri)",
-      "thumbnail": "https://www.assemblymag.com/ext/resources/issues2/2025/09-sep/asb0925whales1-forweb.webp?1755100416",
-      "summary": "*Whale conservation faces new challenges from climate change, pollution, and ship collisions.*\n- Whale Wise developed lightweight drones equipped with innovative lidar technology to monitor whale health and entanglement.\n- partnerships with companies like Accu Ltd. used **specialized fasteners** and lightweight materials, like PEEK bolts and Polyfix screws, to improve drone efficiency and sustainability.\n\n**Keywords:** whale conservation, lightweighting, fasteners, drone technology, environmental protection",
-      "keywords": [],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 9,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-08-15T13:00:00.000Z"
     }
   ]
 }
