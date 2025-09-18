@@ -5,6 +5,49 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "What’s the most oddly specific rule sign you’ve seen in a factory?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1nk6n25/whats_the_most_oddly_specific_rule_sign_youve/",
+      "author": "/u/signs_com",
+      "thumbnail": null,
+      "summary": "- *“Do not operate press while wearing mittens,”* *“No climbing on pallets,”* or *“Do not clean conveyor belt while running.”* These oddly specific signs usually mean someone actually tried it.\n- *“No cooking of any type shall be done in production ovens,”* with the story that someone cooked a pork shoulder in a thermoforming oven.\n- *“Check for Cat before starting”* on a large loom or *“NO TRICYCLES IN WELD SHOP,”* inviting readers to share more stories.",
+      "keywords": [
+        "factory",
+        "safety-signs",
+        "humor",
+        "odd-rules",
+        "workplace-culture",
+        "signs"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 4,
+        "novelty": 7,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-09-18T12:15:44.000Z"
+    },
+    {
+      "title": "Any Interest in a Scheduling System?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1nk6700/any_interest_in_a_scheduling_system/",
+      "author": "/u/Ok_Western7546",
+      "thumbnail": null,
+      "summary": "- I’ve developed a scheduling system for a high‑mix, low‑to‑medium‑volume job shop (≈60 workers across 6 teams) that considers *start/end dates*, *routing steps*, *team numbers*, *daily hours*, *downtime*, *holidays*, and *overtime* to predict item timelines.\n- The workflow uses a user‑provided *.csv* with routing info (item name, hours, start date, end date, routing steps); users adjust parameters like team counts and holidays, and the system outputs *expected completion dates* for all items.\n- Is this something others would want for their shop, and what features would you want added?",
+      "keywords": [
+        "manufacturing",
+        "scheduling",
+        "jobshop",
+        "production-planning",
+        "CSV input"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-09-18T11:54:19.000Z"
+    },
+    {
       "title": "Why not offer American manufacturing jobs to hoboes?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1nji5yi/why_not_offer_american_manufacturing_jobs_to/",
       "author": "/u/WolfChatterbox",
@@ -990,26 +1033,6 @@
         "longTermSignificance": 3
       },
       "pubDate": "2025-09-10T06:12:23.000Z"
-    },
-    {
-      "title": "Simulation Model Help",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1nd1a0c/simulation_model_help/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-09-10T01:32:46.000Z"
-    },
-    {
-      "title": "Estimates on money bag",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1nd01d2/estimates_on_money_bag/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-09-10T00:34:33.000Z"
     }
   ]
 }
