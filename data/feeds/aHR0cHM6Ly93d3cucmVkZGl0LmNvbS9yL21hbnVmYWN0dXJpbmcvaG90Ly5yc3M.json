@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "SME - ERP failed implementations - poor BoM / Material Master data?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1nlxc2q/sme_erp_failed_implementations_poor_bom_material/",
+      "author": "/u/Calm_Button8017",
+      "thumbnail": null,
+      "summary": "- ERP failures often stem from poor **BoM** and *Material Master* data constraining operations. \n- When business rules don't match ERP functionality, heavy customization can cause cascading issues and two systems that don't communicate. \n- Align data and rules with the ERP approach early to avoid data silos and integration gaps.",
+      "keywords": [
+        "ERP",
+        "BoM",
+        "Material Master",
+        "data quality",
+        "business rules",
+        "customization"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 3,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-09-20T12:49:31.000Z"
+    },
+    {
       "0": "{",
       "1": "\n",
       "2": " ",
@@ -2703,16 +2725,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-09-12T04:31:03.000Z"
-    },
-    {
-      "title": "Hyundai plant raid: I thought this was already an open factory. Turns out the South Koreans were just here to launch the plant. And they were thrown out. So much for encouraging American manufacturing.",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1neqexz/hyundai_plant_raid_i_thought_this_was_already_an/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-09-12T01:29:47.000Z"
     }
   ]
 }
