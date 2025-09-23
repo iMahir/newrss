@@ -5,6 +5,27 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "DUPRO vs final inspections, worth the extra step in manufacturing?",
+      "link": null,
+      "author": "/u/Poseidon_9726",
+      "thumbnail": null,
+      "summary": "- *DUPRO (During Production Check)* can help identify issues earlier in manufacturing, potentially preventing larger problems later.\n- Experts agree that *early inspections* are generally more effective than waiting until the end.\n- While *adding DUPRO* involves extra time and cost, it may significantly improve *quality outcomes* in manufacturing processes.",
+      "keywords": [
+        "manufacturing",
+        "inspection",
+        "DUPRO",
+        "quality control",
+        "production"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 4,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-09-23T08:04:40.000Z"
+    },
+    {
       "title": "Screen printer in LA?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1no81rv/screen_printer_in_la/",
       "author": "/u/saraanvil",
@@ -2709,29 +2730,6 @@
         "longTermSignificance": 3
       },
       "pubDate": "2025-09-14T19:04:46.000Z"
-    },
-    {
-      "title": "Software for custom one-off manufacturing",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1ngytr5/software_to_manage_custom_oneoff_manufacturing/",
-      "author": "/u/eaglerulez",
-      "thumbnail": null,
-      "summary": "- *Per-work-order* process and inventory calculations are needed, not per-product, to reflect custom one-off projects.\n- *Differentiation between permanent and non-permanent stock*, with non-permanent materials tracked only during a work order and hidden afterward; and support for *non-permanent products* that ship and then disappear.\n- *Easily modifiable templates*, dependencies/sub-assemblies, and item-level process tracking to show partial completion (e.g., some items ready to ship while others are still in process).",
-      "keywords": [
-        "manufacturing",
-        "MRP",
-        "one-off",
-        "custom-products",
-        "work-order",
-        "inventory",
-        "templates"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 4,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-09-14T18:27:01.000Z"
     }
   ]
 }
