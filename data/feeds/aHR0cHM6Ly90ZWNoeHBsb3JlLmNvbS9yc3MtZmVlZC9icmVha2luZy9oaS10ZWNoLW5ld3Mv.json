@@ -5,6 +5,27 @@
   "feedUrl": "https://techxplore.com/rss-feed/breaking/hi-tech-news/",
   "items": [
     {
+      "title": "Innovative transistor design for quantum chips",
+      "link": "https://techxplore.com/news/2025-09-transistor-advantages-quantum-chips.html",
+      "author": null,
+      "thumbnail": null,
+      "summary": "*Researchers at TU Wien developed a new SiGe transistor using an alternative doping method, enabling smaller, faster, and more energy-efficient components.*\n\n-The key innovation involves doping the *oxide layer*, producing a remote effect that improves conductivity without altering the crystal structure.\n\n-This *modulation acceptor doping* (MAD) technology is especially promising for *quantum chips*, as it remains effective at extremely low temperatures and addresses previous limitations of doping methods.",
+      "keywords": [
+        "transistor",
+        "quantum chips",
+        "doping",
+        "semiconductor",
+        "nanotechnology"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 8,
+        "novelty": 9,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-09-23T16:58:04.000Z"
+    },
+    {
       "0": "{",
       "1": "\n",
       "2": " ",
@@ -3847,27 +3868,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-08-18T18:57:03.000Z"
-    },
-    {
-      "title": "Innovative adhesive film harvests electricity from peeling",
-      "link": "https://techxplore.com/news/2025-08-adhesive-harvests-electricity-enabling-battery.html",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- Researchers at UNIST developed a *ultra-thin, transparent film* that generates electricity through *mechanical peeling or pressing*.\n- The film uses *frictional electricity* and features a unique pattern of cuts inspired by the Korean alphabet, boosting adhesion and electrical output.\n- *Potential applications* include *battery-free sensors* for safety, security, industrial monitoring, and smart warning systems.",
-      "keywords": [
-        "triboelectric nanogenerator",
-        "self-powered sensors",
-        "adhesive technology",
-        "smart safety systems",
-        "industrial monitoring"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 9,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-08-18T16:37:03.000Z"
     }
   ]
 }

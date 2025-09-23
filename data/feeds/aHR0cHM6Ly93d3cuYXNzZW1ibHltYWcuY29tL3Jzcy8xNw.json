@@ -5,6 +5,27 @@
   "feedUrl": "https://www.assemblymag.com/rss/17",
   "items": [
     {
+      "title": "New Study Finds Collaborative Robots Pose Hidden Cybersecurity Risks",
+      "link": "https://www.assemblymag.com/articles/99570-new-study-finds-collaborative-robots-pose-hidden-cybersecurity-risks",
+      "author": null,
+      "thumbnail": "https://www.assemblymag.com/ext/resources/images/Kinova-Gen-3-Machine-Tending.webp?t=1758650655",
+      "summary": "*A study from the University of Waterloo reveals that *collaborative robots* can leak sensitive data even when commands are encrypted.*\n- Hackers can analyze network traffic patterns to infer private information, such as medical or industrial processes.*\n- The researchers suggest implementing safeguards like API timing adjustments and traffic-shaping to mitigate these cybersecurity risks.*",
+      "keywords": [
+        "cybersecurity",
+        "collaborative robots",
+        "privacy",
+        "industrial security",
+        "robot network traffic"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-09-23T17:06:39.000Z"
+    },
+    {
       "title": "Factory Workers in India Release Rap Anthem",
       "link": "https://www.assemblymag.com/articles/99569-electronics-assembly-line-workers-in-india-release-rap-anthem",
       "author": null,
@@ -3880,28 +3901,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-08-18T21:00:00.000Z"
-    },
-    {
-      "title": "Best Practice NonDestructive Testing for EV Battery Packs",
-      "link": "https://www.assemblymag.com/articles/99502-best-practice-nondestructive-testing-for-ev-battery-packs-the-equivalent-channel-method",
-      "author": null,
-      "thumbnail": "https://www.assemblymag.com/ext/resources/Issues/2025/07-July/NDT/Web-Only/QM0725-OO-NDT-EV-p1FT-Battery-pack-failure-modes-(2).webp?t=1755548746",
-      "summary": "*The article discusses advanced nondestructive methods, including the *Equivalent Channel (EC)*, to ensure *water ingress protection* in EV batteries.*\n- Testing every stage of manufacturing, from cells to packs, is vital for safety and quality.\n- Helium leak testing provides *high sensitivity* for detecting tiny leaks, essential for preventing failures and ensuring battery integrity.*",
-      "keywords": [
-        "EV batteries",
-        "non-destructive testing",
-        "leak detection",
-        "Equivalent Channel Method",
-        "water ingress",
-        "quality assurance"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 8,
-        "longTermSignificance": 9
-      },
-      "pubDate": "2025-08-18T20:30:00.000Z"
     }
   ]
 }
