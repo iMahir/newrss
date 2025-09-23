@@ -5,6 +5,47 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "PCB Design, where to start?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1norcps/pcb_design_where_to_start/",
+      "author": "/u/andoozy",
+      "thumbnail": null,
+      "summary": "- The user is seeking advice on designing a PCB for a lamp with features like capacitive touch and wireless charging. \n- They face challenges in finding suitable help due to language barriers and limited results from freelance sites. \n- The post includes informal design diagrams and requests guidance on bridging the gap between concepts and actual PCB design. ",
+      "keywords": [
+        "PCB design",
+        "electronics",
+        "DIY",
+        "prototyping",
+        "hobby electronics"
+      ],
+      "scores": {
+        "scale": 4,
+        "impact": 3,
+        "novelty": 6,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-09-23T19:46:55.000Z"
+    },
+    {
+      "title": "Injection molding, looking for ideas",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1noqtgz/injection_molding_looking_for_ideas_crosspost/",
+      "author": "/u/Altruistic-Foot-6035",
+      "thumbnail": null,
+      "summary": "*The user seeks ideas related to *injection molding* in a Reddit post.*\n*They share a link to their discussion and ask for input.*\n*This highlights ongoing *interest and innovation* in manufacturing processes.*",
+      "keywords": [
+        "injection molding",
+        "manufacturing",
+        "ideas",
+        "crosspost"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 4,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-09-23T19:26:18.000Z"
+    },
+    {
       "title": "How do I look for a mentor?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1nonpz3/how_do_i_look_for_a_mentor/",
       "author": "/u/Cook_Potential",
@@ -2679,50 +2720,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-09-15T21:48:00.000Z"
-    },
-    {
-      "title": "How would you scale this without going broke?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1nhr534/how_would_you_scale_this_without_going_broke/",
-      "author": "/u/Own-Necessary970",
-      "thumbnail": null,
-      "summary": "- I’ve got a working 8x8 prototype (64 modules) but 3D printing two printers for ~12 days and HDPE mounts cut on a Shapeoko is slow and not scalable.\n- I redesigned to row-by-row assembly (8 modules per row), which removes CNC work but requires *injection molding* or *short-run aluminum tooling*; seeking realistic paths.\n- Any pointers from *manufacturers* or experiences with affordable scaling options, including alternatives to *injection molding*, would be huge.",
-      "keywords": [
-        "manufacturing",
-        "injection-molding",
-        "prototyping",
-        "short-run",
-        "cost-reduction",
-        "tooling"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 4,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-09-15T16:48:15.000Z"
-    },
-    {
-      "title": "Three metrics for a manufacturing dashboard",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1nhnxbg/if_you_could_only_have_3_metrics_on_your/",
-      "author": "/u/Lumpy_Ebb_786",
-      "thumbnail": null,
-      "summary": "- *OEE* is often regarded as the core KPI, complemented by metrics for *Quality* and *Delivery* to cover uptime, throughput, and schedule adherence.\\n- Many replies argue for a triad like *Safety*, *Quality*, and *Delivery*, with some adding *Cost of Poor Quality* or *Cost* as a fourth consideration.\\n- The thread emphasizes context sensitivity, advocating a mix of leading and lagging measures and tailoring KPIs to the team (cell vs plant) rather than a universal trio.",
-      "keywords": [
-        "manufacturing",
-        "KPIs",
-        "OEE",
-        "Quality",
-        "Delivery",
-        "Safety"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 6,
-        "novelty": 4,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-09-15T14:49:24.000Z"
     }
   ]
 }
