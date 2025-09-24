@@ -28,6 +28,51 @@
       "pubDate": "2025-10-01T05:00:00.000Z"
     },
     {
+      "title": "Spectrum Instrumentation Breaks Ground on New HQ",
+      "link": "https://www.automation.com/en-us/articles/september-2025/new-headquarters-spectrum-instrumentation",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Since 1989 *Spectrum Instrumentation* has grown from a small development team into a global maker of modular PC-based digitizers and NETBOX instruments used in aerospace, quantum research, medical tech, and semiconductor testing.\n- To support steady growth, CEO *Gisela Hassler* laid the foundation for a state-of-the-art headquarters in Ahrensburg (near Hamburg) on Sept. 9, 2025, consolidating R&D, production, sales, and administration with space for future expansion.\n- The company emphasizes *quality* with a five-year warranty and 15–20 years of parts/support, serving clients like Intel, Siemens, and CERN.",
+      "keywords": [
+        "Spectrum Instrumentation",
+        "headquarters",
+        "Ahrensburg",
+        "PC-based digitizers",
+        "Gisela Hassler",
+        "NETBOX"
+      ],
+      "scores": {
+        "scale": 3,
+        "impact": 3,
+        "novelty": 2,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-09-24T05:00:00.000Z"
+    },
+    {
+      "title": "Nordson Enables Actnano PFAS-Free Coatings on ASYMTEK",
+      "link": "https://www.automation.com/en-us/articles/september-2025/nordson-integration-actnano-pfas-free-coatings",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Nordson’s *ASYMTEK* SL-940 and SL-1040 are now fully compatible with actnano’s *PFAS‑free* Advanced nanoGUARD (*ANG*) coatings, enabling manufacturers to shift to *greener* materials without losing throughput.\n- actnano’s ANG eliminates energy‑intensive curing ovens while maintaining PCBA protection, reducing energy use and improving workplace safety.\n- Nordson features (agitating reservoirs, circulating fluids/applicators, extraction filters, dual ultrasonic cleaning) optimize handling and ease high‑throughput adoption.",
+      "keywords": [
+        "PFAS-free",
+        "conformal coating",
+        "actnano",
+        "ASYMTEK",
+        "energy efficiency",
+        "electronics manufacturing",
+        "PCBA protection"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 6,
+        "novelty": 7,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-09-24T05:00:00.000Z"
+    },
+    {
       "title": "Who's Ramping Up R&D Investment in Lithium-Ion Batteries?",
       "link": "https://www.automation.com/en-us/articles/september-2025/ramping-up-r-d-investment-lithium-ion-batteries",
       "author": "Shirly Zhu",
@@ -7417,51 +7462,6 @@
         "impact": 7,
         "novelty": 6,
         "longTermSignificance": 7
-      },
-      "pubDate": "2025-09-16T05:00:00.000Z"
-    },
-    {
-      "title": "Smart PSV Monitoring for Process Safety",
-      "link": "https://www.automation.com/en-us/articles/september-2025/pressure-safety-valves-smart-process-safety",
-      "author": "Mashhood Zafar",
-      "thumbnail": "https://www.automation.com/getmedia/a83a0cb6-1e3d-4511-8b7c-7c90b51b3df6/ISA-process-safety-feature-Sept-16-2025-web.png?width=500&height=313&ext=.png",
-      "summary": "- PSVs require *continuous online monitoring* because drift, chatter and abnormal blowdown are often missed by manual in-service testing. \n- A real-time setup using upstream/downstream pressures (P1, P2) and ΔP trends in a PLC/SCADA/DCS yields a **real‑world fingerprint** of PSV performance and helps detect chatter. \n- Design challenges include *sensor survivability*, high-speed sensing and IEC 61511 compliance, with diagnostics that *support* rather than replace SIS.",
-      "keywords": [
-        "Pressure Safety Valve",
-        "Process Safety",
-        "PSV Monitoring",
-        "Diagnostics",
-        "Industrial Automation",
-        "IEC 61511"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-09-16T05:00:00.000Z"
-    },
-    {
-      "title": "Digital Twin Consortium Adds Eight New Testbeds",
-      "link": "https://www.automation.com/en-us/articles/september-2025/digital-twin-consortium-adds-eight-new-testbeds",
-      "author": null,
-      "thumbnail": null,
-      "summary": "*The *Digital Twin Consortium* added eight new testbeds to its program, bringing total testbeds to sixteen and expanding global collaboration in digital twins.*\n**TWINSENSE** enables real-time virtual sensing; **SAFESME** targets rapid SME onboarding; **Q-Smart** delivers a secure, self-learning home network with quantum-safe protocols.\n*The program uses the **Composability Framework** and invites members to advance AI, multi-agent systems, and digital twin tech across industries.*",
-      "keywords": [
-        "digital twins",
-        "testbeds",
-        "AI",
-        "industrial IoT",
-        "smart manufacturing",
-        "education",
-        "privacy"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 7,
-        "longTermSignificance": 8
       },
       "pubDate": "2025-09-16T05:00:00.000Z"
     }
