@@ -5,6 +5,50 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Looking for someone who can make my Minifan",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1npv4x0/looking_for_someone_who_can_make_my_minifan/",
+      "author": "/u/Unimpressed-Gengar",
+      "thumbnail": null,
+      "summary": "- A college student in the *Philippines* is seeking a manufacturer to produce a **Minifan** with a *scent compartment*, but can only afford up to 10 units.\n- They are blocked by Alibaba's typical *MOQ* of 10,000 and are asking for individuals or small-scale makers who can do small runs.\n- AutoModerator requested technical details and one user replied to check DMs; interested makers should contact the OP.",
+      "keywords": [
+        "small-batch manufacturing",
+        "MOQ",
+        "Minifan",
+        "scent",
+        "Philippines",
+        "product-development"
+      ],
+      "scores": {
+        "scale": 2,
+        "impact": 2,
+        "novelty": 4,
+        "longTermSignificance": 2
+      },
+      "pubDate": "2025-09-25T02:25:11.000Z"
+    },
+    {
+      "title": "Fastest ways to get prototypes done",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1npuqe0/whats_the_real-fastest_way_you_guys_are_getting/",
+      "author": "/u/Deeceness",
+      "thumbnail": null,
+      "summary": "- Pick the method by the *stage* you're testing: *form* → **3D printing**, *function/tolerances* → **CNC**, and *production validation* → **injection molding**.\n- For a fast middle ground use **silicone vacuum casting**, low‑fi materials (wood/cardboard, styrene), or rapid‑turn services like Quickparts, Hubs, or Star Rapid.\n- Decide which you prioritize—*lead time*, *cost*, or *quality*—and when unsure pay an experienced shop/consultant rather than guessing.",
+      "keywords": [
+        "prototyping",
+        "3D printing",
+        "CNC",
+        "injection molding",
+        "vacuum casting",
+        "rapid prototyping"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 5,
+        "novelty": 3,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-09-25T02:05:25.000Z"
+    },
+    {
       "title": "How to Tell if You're Being Groomed for Promotion",
       "link": "https://www.reddit.com/r/manufacturing/comments/1npsbtu/how_to_know_if_the_company_is_grooming_the_new/",
       "author": "/u/gruntharvester92",
@@ -2664,50 +2708,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-09-17T13:54:25.000Z"
-    },
-    {
-      "title": "Trumpf TruePunch 3000 question",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1njd40w/trumpf_truepunch_3000_question/",
-      "author": "/u/3G_Lighting",
-      "thumbnail": null,
-      "summary": "- *TRUMPF* *TruePunch* users report NCU errors: *Ready2 contact* open and *Battery 1* discharged or polarity issue.\n- *No PLC program found* and *Axes of area 1 are not referenced → RESET* have appeared today, stopping the press.\n- The post asks the *community* for experiences with these errors.",
-      "keywords": [
-        "TRUMPF",
-        "TruePunch",
-        "NCU",
-        "machine-errors",
-        "manufacturing-maintenance",
-        "industrial-machinery"
-      ],
-      "scores": {
-        "scale": 4,
-        "impact": 7,
-        "novelty": 3,
-        "longTermSignificance": 3
-      },
-      "pubDate": "2025-09-17T13:25:39.000Z"
-    },
-    {
-      "title": "Is anyone using IPC-1752A for material declarations?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1njaxkw/is_anyone_using_ipc1752a_for_material_declarations/",
-      "author": "/u/IndependenceOwn3576",
-      "thumbnail": null,
-      "summary": "- Some customers now ask us for *IPC-1752A* material data instead of just *RoHS* or *REACH*, which means every supplier must share full info about what’s inside their parts.\\n- For production teams here: *how* are you collecting this data, and is it *practical*?\\n- The thread highlights the *data-collection* challenge and potential need for scalable processes in the supply chain.",
-      "keywords": [
-        "IPC-1752A",
-        "material declarations",
-        "RoHS",
-        "REACH",
-        "supply chain",
-        "data collection"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 5,
-        "novelty": 4,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-09-17T11:49:12.000Z"
     }
   ]
 }
