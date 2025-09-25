@@ -27,6 +27,29 @@
       "pubDate": "2025-09-25T02:25:11.000Z"
     },
     {
+      "title": "Fastest way to make prototypes?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1npuqe0/whats_the_real_fastest_way_you_guys_are_getting/",
+      "author": "/u/Deeceness",
+      "thumbnail": null,
+      "summary": "- There is no single *fastest* method — pick the process by *stage*: test *form* with 3D printing, test *function/materials* with CNC, and reserve injection molding/tooling for when the design and volumes justify it.  \n- A common workflow is rapid *3D prints* for fit/visuals, CNC or machined billets for dimensional/strength validation, then *silicone/vacuum casting* or short-run molding to emulate production without full tooling.  \n- Be pragmatic: use mixed‑media mockups (cardboard/wood/polystyrene), keep a local shop or a desktop printer, and balance *lead time, cost, and quality* for each iteration.",
+      "keywords": [
+        "prototyping",
+        "3D printing",
+        "CNC",
+        "injection molding",
+        "vacuum casting",
+        "rapid-prototyping",
+        "manufacturing"
+      ],
+      "scores": {
+        "scale": 3,
+        "impact": 4,
+        "novelty": 3,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-09-25T02:05:25.000Z"
+    },
+    {
       "title": "Fastest ways to prototype — Reddit thread",
       "link": "https://www.reddit.com/r/manufacturing/comments/1npuqe0/whats_the_real-fastest_way_you_guys_are_getting/",
       "author": "/u/Deeceness",
@@ -2686,28 +2709,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-09-17T14:21:26.000Z"
-    },
-    {
-      "title": "Field teams and rugged Android tablets",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1njdt78/field_teams_rugged_android_tablets_how_are_you/",
-      "author": "/u/CelebrationSad337",
-      "thumbnail": null,
-      "summary": "- *Rugged Android tablets* streamline field operations, improving data capture and onsite communication.\n- The discussion highlights provisioning, security, offline use, and device management with an eye toward *MDM* solutions like Scalefusion.\n- It invites manufacturing field teams to share real-world experiences and best practices.",
-      "keywords": [
-        "rugged devices",
-        "Android tablets",
-        "field teams",
-        "device management",
-        "manufacturing",
-        "MDM"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 6,
-        "novelty": 3,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-09-17T13:54:25.000Z"
     }
   ]
 }
