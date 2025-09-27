@@ -5,6 +5,29 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Beyond the Build: Italy's Machine Makers",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1nrjv5r/beyond_the_build_how_italys_machine_makers_are/",
+      "author": "/u/Choobeen",
+      "thumbnail": null,
+      "summary": "- The article highlights Italian machine builders' dedication to detail and **uncompromising build quality**, driven by technology-focused features that shape purchasing decisions.\n- Surveyed end users seek capabilities like *real-time data monitoring*, *predictive maintenance*, **AI-based vision/inspection**, and *data analysis*, with many features already available on Italian machinery.\n- A critical commenter argues Italian manufacturers are good but overrated, noting limited creativity and cost pressures from steel subsidies affecting competitiveness.",
+      "keywords": [
+        "Italy",
+        "manufacturing",
+        "smart manufacturing",
+        "machine builders",
+        "industrial automation",
+        "real-time monitoring",
+        "AI"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-09-27T02:30:21.000Z"
+    },
+    {
       "title": "From concept to delivery: hardware product guide",
       "link": "https://www.reddit.com/r/manufacturing/comments/1nreepz/after_taking_a_consumer_hardware_product_from/",
       "author": "/u/helloitabot",
@@ -3591,28 +3614,6 @@
         "longTermSignificance": 3
       },
       "pubDate": "2025-09-19T22:40:33.000Z"
-    },
-    {
-      "title": "Sheet metal shop order tracking",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1nlftrv/sheet_metal_shop_order_tracking/",
-      "author": "/u/theyoungestoldman",
-      "thumbnail": null,
-      "summary": "- The original poster seeks a scalable software solution for orders from small retrofits to a 500‑unit condo project, mentioning *Design 2 Fab* and concerns about proliferation of *SKUs* due to custom work. \n- A commenter suggests a lower‑end *ERP/MRP* system with shop‑floor features (routing, hours, tooling), noting SAP is expensive. \n- Other replies joke about the form and a \"cursed *Excel* sheet\", highlighting the light‑hearted tone around whack orders.",
-      "keywords": [
-        "sheet metal",
-        "order tracking",
-        "ERP",
-        "Design 2 Fab",
-        "SKU management",
-        "manufacturing software"
-      ],
-      "scores": {
-        "scale": 4,
-        "impact": 5,
-        "novelty": 3,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-09-19T21:20:12.000Z"
     }
   ]
 }
