@@ -5,6 +5,73 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Floor worker comms software for small units",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1nrx6dh/small_manufacturing_unit_owners_what_softwares/",
+      "author": "/u/nvn1202",
+      "thumbnail": null,
+      "summary": "- The thread covers software for floor worker comms, including *shift schedules*, *shift-change alerts*, *attendance*, and *group communication*, plus cost considerations for small manufacturing units.\n- Some commenters wonder if the sub is spawning SAAS ideas and point to **ADP**, **Teams**, or email as the current channels used by area supervisors.\n- Overall concerns focus on *ease of use*, *cost*, and whether small units should invest in dedicated software, inviting input from other manufacturers.",
+      "keywords": [
+        "manufacturing",
+        "floor-communication",
+        "shift-management",
+        "SAAS",
+        "ADP",
+        "Teams",
+        "cost"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 5,
+        "novelty": 3,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-09-27T14:51:35.000Z"
+    },
+    {
+      "title": "How would these intricate tailpipe tips be manufactured?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1nrwqz2/how_would_these_intricate_tailpipe_tips_be/",
+      "author": "/u/velvet_funtime",
+      "thumbnail": null,
+      "summary": "- The post asks how these *intricate tailpipe tips* were manufactured, noting the author has no interest in making them.\n- A moderator/autobot reply encourages adding details (dimensions, materials, quantity, budget, sketches) to get the best replies.\n- A comment suggests the parts could be made from *metal* or via **3D printing**, echoing the remark 'Those Metal, 3D printed.'",
+      "keywords": [
+        "manufacturing",
+        "tailpipe",
+        "3D printing",
+        "metalworking",
+        "engineering",
+        "design"
+      ],
+      "scores": {
+        "scale": 2,
+        "impact": 2,
+        "novelty": 5,
+        "longTermSignificance": 3
+      },
+      "pubDate": "2025-09-27T14:32:52.000Z"
+    },
+    {
+      "title": "Don't Know What Glue to Use",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1nrvurl/dont_know_what_glue_to_use/",
+      "author": "/u/YamiOG",
+      "thumbnail": null,
+      "summary": "- The post describes trying to attach a metal rod to PA12 in 3D-printed sunglasses and failing with **Loctite** and **E6000** due to poor *long-term adhesion*. \n- Several replies note that bonding metal to plastic is difficult, advise roughening the surface, and propose alternatives like a bamboo rod or **mechanical fasteners** rather than glue. \n- The consensus leans toward a **mechanical connection** redesign and requests more details to tailor advice.",
+      "keywords": [
+        "glue",
+        "bonding",
+        "3D printing",
+        "PA12",
+        "mechanical fasteners",
+        "sunglasses"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 4,
+        "novelty": 3,
+        "longTermSignificance": 3
+      },
+      "pubDate": "2025-09-27T13:55:01.000Z"
+    },
+    {
       "title": "How do \"Commodity tools\" work?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1nrp144/how_do_commodity_tools_work/",
       "author": null,
@@ -1856,72 +1923,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-09-21T07:55:56.000Z"
-    },
-    {
-      "title": "Silicone products and 3D prototyping",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1nm648l/silicone_products_and_3d_prototyping/",
-      "author": "/u/thisisapplepie",
-      "thumbnail": null,
-      "summary": "- I’m new to *silicone* products and want to learn how to 3D prototype handheld items, including which general software and *file formats* manufacturers accept, from an *Australian* perspective.\n- Is it feasible to teach myself, or should I pursue a course in prototyping, and does the learning curve take years to master?\n- What are typical *small-batch* costs per unit (50-100 units) if I provide the prototype, and if I use a company’s prototyping service, plus any vendor recommendations?",
-      "keywords": [
-        "silicone",
-        "3D prototyping",
-        "manufacturing",
-        "prototyping",
-        "small-batch",
-        "Australia",
-        "file formats"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-09-20T18:44:56.000Z"
-    },
-    {
-      "title": "Biggest unsolved problems in subtractive manufacturing",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1nm5og4/what_are_the_biggest_unsolved_problems_in/",
-      "author": "/u/Extreme-House-104",
-      "thumbnail": null,
-      "summary": "- *Quoting and pricing* remain a core bottleneck, with many shops lacking accurate *runtime cost understanding* and grappling with **capital recovery** on older equipment.\n- *Workforce and operations* challenges hinder progress: skill shortages, on-the-job training, reluctance to invest in new equipment, and a culture that resists change.\n- The enduring triangle of *cost*, *quality*, and *speed* drives tough tradeoffs; capital costs and procurement pressure margins, while modernization and smarter CAM tooling offer potential paths.",
-      "keywords": [
-        "subtractive-manufacturing",
-        "quoting",
-        "cost-estimation",
-        "workforce",
-        "innovation"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 7,
-        "novelty": 4,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-09-20T18:27:11.000Z"
-    },
-    {
-      "title": "SME - ERP failed implementations - poor BoM / Material Master data?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1nlxc2q/sme_erp_failed_implementations_poor_bom_material/",
-      "author": "/u/Calm_Button8017",
-      "thumbnail": null,
-      "summary": "- ERP failures often stem from poor **BoM** and *Material Master* data constraining operations. \n- When business rules don't match ERP functionality, heavy customization can cause cascading issues and two systems that don't communicate. \n- Align data and rules with the ERP approach early to avoid data silos and integration gaps.",
-      "keywords": [
-        "ERP",
-        "BoM",
-        "Material Master",
-        "data quality",
-        "business rules",
-        "customization"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 3,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-09-20T12:49:31.000Z"
     }
   ]
 }
