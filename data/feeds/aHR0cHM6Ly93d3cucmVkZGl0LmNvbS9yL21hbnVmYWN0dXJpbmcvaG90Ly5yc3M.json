@@ -5,6 +5,29 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Sign Manufacturing",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1ntj0th/sign_manufacturing/",
+      "author": "/u/jackofnone2025",
+      "thumbnail": null,
+      "summary": "- OP asks whether the photographed sign is *foam* (likely cut on a hot-wire CNC then coated/painted) or actually *metal* as the supplier claims.  \n- A commenter says it’s possible to *waterjet* cut 60mm *tool steel*, but doing so for signage would be *expensive*.  \n- AutoModerator advises providing *dimensions, materials, quantities,* and *budget* to get actionable manufacturing recommendations.",
+      "keywords": [
+        "sign-making",
+        "foam",
+        "metal",
+        "CNC",
+        "waterjet",
+        "manufacturing",
+        "tool-steel"
+      ],
+      "scores": {
+        "scale": 2,
+        "impact": 2,
+        "novelty": 4,
+        "longTermSignificance": 2
+      },
+      "pubDate": "2025-09-29T14:09:26.000Z"
+    },
+    {
       "title": "Any Indian manufacturer here, please connect.",
       "link": "https://www.reddit.com/r/manufacturing/comments/1nthmzn/any_indian_manufacturer_here_please_connect/",
       "author": "/u/Few_Watercress3",
@@ -1872,27 +1895,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-09-23T13:18:51.000Z"
-    },
-    {
-      "title": "How do we recover from this?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1nocejn/how_do_we_recover_from_this/",
-      "author": "/u/jackofnone2025",
-      "thumbnail": null,
-      "summary": "*A user highlights difficulties in manufacturing by showcasing the process of identifying a chandelier's manufacturer through Alibaba.*\n*They mention customizing products for small fees, indicating some flexibility but also challenges.*\n*The post humorously concludes with a sense of foreboding about the future of manufacturing.*",
-      "keywords": [
-        "manufacturing",
-        "Alibaba",
-        "customization",
-        "supply chain",
-        "economic challenges"
-      ],
-      "scores": {
-        "scale": 3,
-        "impact": 5,
-        "novelty": 4,
-        "longTermSignificance": 3
-      },
-      "pubDate": "2025-09-23T09:04:40.000Z"
     }
   ]
 }
