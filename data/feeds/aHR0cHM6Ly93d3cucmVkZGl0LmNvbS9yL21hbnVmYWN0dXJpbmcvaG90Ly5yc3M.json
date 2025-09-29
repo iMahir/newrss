@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Most frustrating hard-to-diagnose performance issue?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1nt8psx/question_for_engineers_who_debug_performance/",
+      "author": "/u/devilldog",
+      "thumbnail": null,
+      "summary": "- OP asks engineers to share their *most frustrating*, hard-to-diagnose performance issues to collect real-world anecdotes. - Common themes are **intermittent failures**, environment-specific behavior, and lack of sufficient *observability* that obscures root causes. - The thread seeks debugging strategies, tooling advice, and tips to prevent recurring **performance regressions**.",
+      "keywords": [
+        "performance debugging",
+        "intermittent bugs",
+        "observability",
+        "root cause analysis",
+        "manufacturing",
+        "engineering"
+      ],
+      "scores": {
+        "scale": 3,
+        "impact": 6,
+        "novelty": 3,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-09-29T04:20:45.000Z"
+    },
+    {
       "title": "What has caused this wrinkling?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1nstaly/what_has_caused_this_wrinkling/",
       "author": "/u/redcone_",
@@ -1882,26 +1904,6 @@
         "longTermSignificance": 2
       },
       "pubDate": "2025-09-23T04:28:48.000Z"
-    },
-    {
-      "title": "What's the yellow part ?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1no43o3/whats_the_yellow_part/",
-      "author": "/u/Anxious-Math174",
-      "thumbnail": null,
-      "summary": "- The user seeks to identify a *yellow rubber-like component* used in manufacturing machinery.  \n- The post includes an image, but no specific details about the material are provided.  \n- The community is invited to help determine the exact *material or purpose* of this part.",
-      "keywords": [
-        "manufacturing",
-        "robotics",
-        "parts",
-        "material identification"
-      ],
-      "scores": {
-        "scale": 4,
-        "impact": 3,
-        "novelty": 2,
-        "longTermSignificance": 3
-      },
-      "pubDate": "2025-09-23T01:09:41.000Z"
     }
   ]
 }
