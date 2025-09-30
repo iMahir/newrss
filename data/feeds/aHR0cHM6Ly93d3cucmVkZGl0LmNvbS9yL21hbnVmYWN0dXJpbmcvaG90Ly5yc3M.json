@@ -5,6 +5,38 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Becoming a vendor/supplier (trades)",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1nu0lnj/becoming_a_vendorsupplier_trades/",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-09-30T01:49:58.000Z"
+    },
+    {
+      "title": "Anyone know what these pressure modules go to?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1ntvwap/anyone_know_what_these_pressure_modules_go_to/",
+      "author": "/u/Mmhf22",
+      "thumbnail": null,
+      "summary": "- OP found spare pressure modules and the community identifies them as a *manifold block* with *4–20 mA pressure transducers* rated **3,000 psi**.\n- A commenter pins the red unit to an *SSI Technologies P61* (sealed gage, 304L stainless, 12\" harness, 20 mA) and notes *1/4\" JIC fittings*.\n- Likely uses include *hydraulic* lines, pressure testing, or *CNC lube* circuits, though some fittings look low quality.",
+      "keywords": [
+        "pressure-sensor",
+        "manifold",
+        "hydraulic",
+        "SSI-P61",
+        "JIC-fitting",
+        "CNC-lube"
+      ],
+      "scores": {
+        "scale": 2,
+        "impact": 2,
+        "novelty": 3,
+        "longTermSignificance": 2
+      },
+      "pubDate": "2025-09-29T22:18:47.000Z"
+    },
+    {
       "title": "Appliance-efficiency rollback threatens US manufacturing",
       "link": "https://www.reddit.com/r/manufacturing/comments/1ntoi6q/rolling_back_appliance_efficiency_rules_could/",
       "author": "/u/cleantechguy",
@@ -1844,47 +1876,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-09-23T17:29:49.000Z"
-    },
-    {
-      "title": "Inconel springs",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1non8ra/inconel_springs/",
-      "author": "/u/jrboo3",
-      "thumbnail": null,
-      "summary": "- *Finding companies that manufacture *Inconel* springs is challenging, as mentioned by users.\n- Suggestions include **Katy Spring and Mfg Co.** in Texas and **Master Spring** in Illinois.\n- These companies are known to work with *Inconel* and may assist with specialized spring fabrication.",
-      "keywords": [
-        "Inconel",
-        "springs",
-        "manufacturing",
-        "metal fabrication",
-        "specialty materials"
-      ],
-      "scores": {
-        "scale": 4,
-        "impact": 3,
-        "novelty": 2,
-        "longTermSignificance": 2
-      },
-      "pubDate": "2025-09-23T17:11:31.000Z"
-    },
-    {
-      "title": "Screen printer in LA?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1nometb/screen_printer_in_la/",
-      "author": "/u/saraanvil",
-      "thumbnail": null,
-      "summary": "- *Saraanvil* seeks a new *screen printing* company in LA due to poor quality from their current provider.\n- They are looking for a business that also offers *finishing* and *fulfillment* services.\n- The post invites recommendations from others familiar with reputable screen printers in the area.",
-      "keywords": [
-        "screen printing",
-        "LA",
-        "fulfillment",
-        "business recommendation"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 4,
-        "novelty": 2,
-        "longTermSignificance": 3
-      },
-      "pubDate": "2025-09-23T16:40:37.000Z"
     }
   ]
 }
