@@ -5,6 +5,50 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Addressing Costly Mistakes in Manufacturing",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1nukomr/addressing_costly_mistakes_in_manufacturing_need/",
+      "author": "/u/Tiny-Leather-7487",
+      "thumbnail": null,
+      "summary": "- *Engineer out* errors with process controls and *automation* (jigs, calibrated guides, poka-yoke) so mistakes become unlikely rather than solely punishable.\n- Use **progressive discipline** tied to objective criteria: coaching for one-offs, written warnings for repeats, and termination only for deliberate or grossly negligent acts, while always checking training, supervision, and tooling first.\n- Establish measurable thresholds that combine *dollar loss*, frequency, and intent, log incidents, run *root-cause analyses*, and invest in training or capital when losses exceed risk tolerance.",
+      "keywords": [
+        "manufacturing",
+        "quality-control",
+        "discipline-policy",
+        "automation",
+        "training"
+      ],
+      "scores": {
+        "scale": 4,
+        "impact": 6,
+        "novelty": 3,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-09-30T18:13:35.000Z"
+    },
+    {
+      "title": "Chat with manufacturing engineers about manuals & workflows",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1nujrcx/looking_to_chat_with_industrial_engineers/",
+      "author": "/u/Short_Ingenuity_9286",
+      "thumbnail": null,
+      "summary": "- Student researcher Sovit is building *LensAI*, an *AI+AR* system in a safety‑glasses form factor to provide hands‑free access to manuals, inspections, and training on the shop floor.\n- They seek **15‑minute chats** with manufacturing/aerospace/machining/automotive engineers to map workflows and pain points; commenters cite *HoloLens*/Google Glass failures due to *form factor*, *durability*, and *cost* versus phones.\n- A Calendly link is shared to schedule conversations; respondents noted some paid consulting (~$200/hr) and emphasized real‑world durability and cost constraints over paper solutions.",
+      "keywords": [
+        "AR",
+        "manufacturing",
+        "safety glasses",
+        "HoloLens",
+        "workflows",
+        "training",
+        "durability"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-09-30T17:39:42.000Z"
+    },
+    {
       "title": "How do you define thermoformed molded pulp?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1nu8h64/how_do_you_defined_thermoformed_molded_pulp/",
       "author": "/u/Random--Reddit--User",
@@ -1836,47 +1880,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-09-24T08:25:13.000Z"
-    },
-    {
-      "title": "PCB Design, where to start?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1norcps/pcb_design_where_to_start/",
-      "author": "/u/andoozy",
-      "thumbnail": null,
-      "summary": "- The user is seeking advice on designing a PCB for a lamp with features like capacitive touch and wireless charging. \n- They face challenges in finding suitable help due to language barriers and limited results from freelance sites. \n- The post includes informal design diagrams and requests guidance on bridging the gap between concepts and actual PCB design. ",
-      "keywords": [
-        "PCB design",
-        "electronics",
-        "DIY",
-        "prototyping",
-        "hobby electronics"
-      ],
-      "scores": {
-        "scale": 4,
-        "impact": 3,
-        "novelty": 6,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-09-23T19:46:55.000Z"
-    },
-    {
-      "title": "Injection molding, looking for ideas",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1noqtgz/injection_molding_looking_for_ideas_crosspost/",
-      "author": "/u/Altruistic-Foot-6035",
-      "thumbnail": null,
-      "summary": "*The user seeks ideas related to *injection molding* in a Reddit post.*\n*They share a link to their discussion and ask for input.*\n*This highlights ongoing *interest and innovation* in manufacturing processes.*",
-      "keywords": [
-        "injection molding",
-        "manufacturing",
-        "ideas",
-        "crosspost"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 4,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-09-23T19:26:18.000Z"
     }
   ]
 }
