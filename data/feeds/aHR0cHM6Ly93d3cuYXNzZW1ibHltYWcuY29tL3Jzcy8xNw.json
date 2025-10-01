@@ -229,6 +229,28 @@
       "pubDate": "2025-09-24T13:00:00.000Z"
     },
     {
+      "title": "Tesla Receives U.S. Patent for Automated Assembly Process",
+      "link": "https://www.assemblymag.com/articles/99588-tesla-receives-us-patent-for-automated-assembly-process",
+      "author": "webera@bnpmedia.com (Austin Weber)",
+      "thumbnail": "https://www.assemblymag.com/ext/resources/images/TeslaPatent.webp?t=1759332616",
+      "summary": "- Tesla was granted U.S. patent No. 12,420,879 B1 for an *automated* exterior-part assembly system that uses a *global datum* and dedicated fixtures for precise alignment.\n- The process secures parts with vacuum clamps, applies structural adhesive with an engineered gap to compensate substructure irregularities, and supports tacking so assembly can continue during adhesive curing.\n- The approach aims to *streamline* vehicle assembly, improve quality, raise production rates, and reduce manual labor and errors in manufacturing.",
+      "keywords": [
+        "Tesla",
+        "automation",
+        "global datum",
+        "vehicle assembly",
+        "adhesive bonding",
+        "manufacturing"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-09-24T04:00:00.000Z"
+    },
+    {
       "title": "New Study Finds Collaborative Robots Pose Hidden Cybersecurity Risks",
       "link": "https://www.assemblymag.com/articles/99570-new-study-finds-collaborative-robots-pose-hidden-cybersecurity-risks",
       "author": null,
@@ -2418,16 +2440,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-08-29T13:00:00.000Z"
-    },
-    {
-      "title": "Large Behavior Model Enables Humanoid Robot to Multi-Task",
-      "link": "https://www.assemblymag.com/articles/99518-large-behavior-model-enables-humanoid-robot-to-multi-task",
-      "author": "webera@bnpmedia.com (Austin Weber)",
-      "thumbnail": "https://www.assemblymag.com/ext/resources/images/Boston-Dynamics-TRI_hero.webp?t=1756329956",
-      "summary": "*Engineers at Boston Dynamics and Toyota Research Institute demonstrated a breakthrough with an *Atlas* humanoid robot using a *Large Behavior Model* (LBM).* \n- The robot performed *complex, multi-step tasks* involving object manipulation, locomotion, and real-time self-adjustment to challenges.\n- LBMs allow *rapid skill addition* through *human demonstrations*, reducing programming efforts and improving *general-purpose capabilities* of humanoids.\n\n**Scores:** {\"scale\": 8, \"impact\": 9, \"novelty\": 8, \"longTermSignificance\": 9}\n**Keywords:** [robotics, artificial intelligence, humanoid, multi-task, LBMs, Boston Dynamics, Toyota]",
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-08-28T04:00:00.000Z"
     }
   ]
 }
