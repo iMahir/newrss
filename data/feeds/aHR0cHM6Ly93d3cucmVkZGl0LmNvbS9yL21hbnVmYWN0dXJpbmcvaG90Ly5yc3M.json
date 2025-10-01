@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "How to manufacture a prototype",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1nvlt6a/how_to_manufacture_a_prototype/",
+      "author": "/u/thatbassonist",
+      "thumbnail": null,
+      "summary": "- Prototyping typically moves from *3D printing* for quick design validation to *CNC machining* for precision and then to low-volume *injection molding* for production-like parts.\n- Choosing the right method, *materials*, and accounting for tooling and *costs* is often harder than making the part itself.\n- Practical approach: iterate cheaply with prints, verify critical features in production-grade materials via CNC, then use low-volume molding to uncover scale issues and finalize design.",
+      "keywords": [
+        "3D printing",
+        "CNC machining",
+        "injection molding",
+        "prototyping",
+        "materials",
+        "low-volume"
+      ],
+      "scores": {
+        "scale": 4,
+        "impact": 3,
+        "novelty": 3,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-10-01T21:55:28.000Z"
+    },
+    {
       "title": "Do's and don'ts when finding a designer/manufacturer",
       "link": "https://www.reddit.com/r/manufacturing/comments/1nvgsqu/dos_and_dont_dos_when_looking_for_a/",
       "author": "/u/TemporaryLevel922",
@@ -1864,28 +1886,6 @@
         "impact": 4,
         "novelty": 3,
         "longTermSignificance": 6
-      },
-      "pubDate": "2025-09-25T02:05:25.000Z"
-    },
-    {
-      "title": "Fastest ways to prototype — Reddit thread",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1npuqe0/whats_the_real-fastest_way_you_guys_are_getting/",
-      "author": "/u/Deeceness",
-      "thumbnail": null,
-      "summary": "- Choose the method by what you’re testing: *form* = 3D printing for speed/cost, *function* = CNC for tolerances/strength, *production* = injection molding or silicone casting once the design is locked.  \n- Mix-and-match low‑cost mockups (cardboard/wood/polystyrene), 3D-printed parts, and vacuum/silicone casting to validate fit and manufacturability quickly.  \n- Accept tradeoffs (lead time, cost, quality — *pick two*), consider hiring an experienced shop, or keep a cheap personal *printer* to iterate faster.",
-      "keywords": [
-        "3D printing",
-        "CNC",
-        "Injection molding",
-        "prototyping",
-        "vacuum casting",
-        "rapid prototyping"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 6,
-        "novelty": 3,
-        "longTermSignificance": 8
       },
       "pubDate": "2025-09-25T02:05:25.000Z"
     }
