@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Product Assembly",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1nvnt2g/product_assembly/",
+      "author": "/u/NoThanks7082",
+      "thumbnail": null,
+      "summary": "- OP plans an *offshore* **Hong Kong** company to manufacture in *China* and fully *outsource assembly* so they never handle the product.\n- They seek advice on logistics, partners for *assembly/QC/distribution*, and how to serve primarily *US customers* while living elsewhere.\n- Responders recommend alternatives like *Singapore*, China-based assembly/QC partners, or acting as a *distributor*.",
+      "keywords": [
+        "offshore company",
+        "assembly",
+        "China manufacturing",
+        "Hong Kong",
+        "US market",
+        "outsourcing"
+      ],
+      "scores": {
+        "scale": 4,
+        "impact": 3,
+        "novelty": 3,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-10-01T23:18:32.000Z"
+    },
+    {
       "title": "How to manufacture a prototype",
       "link": "https://www.reddit.com/r/manufacturing/comments/1nvlt6a/how_to_manufacture_a_prototype/",
       "author": "/u/thatbassonist",
@@ -1865,29 +1887,6 @@
         "longTermSignificance": 2
       },
       "pubDate": "2025-09-25T02:25:11.000Z"
-    },
-    {
-      "title": "Fastest way to make prototypes?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1npuqe0/whats_the_real_fastest_way_you_guys_are_getting/",
-      "author": "/u/Deeceness",
-      "thumbnail": null,
-      "summary": "- There is no single *fastest* method — pick the process by *stage*: test *form* with 3D printing, test *function/materials* with CNC, and reserve injection molding/tooling for when the design and volumes justify it.  \n- A common workflow is rapid *3D prints* for fit/visuals, CNC or machined billets for dimensional/strength validation, then *silicone/vacuum casting* or short-run molding to emulate production without full tooling.  \n- Be pragmatic: use mixed‑media mockups (cardboard/wood/polystyrene), keep a local shop or a desktop printer, and balance *lead time, cost, and quality* for each iteration.",
-      "keywords": [
-        "prototyping",
-        "3D printing",
-        "CNC",
-        "injection molding",
-        "vacuum casting",
-        "rapid-prototyping",
-        "manufacturing"
-      ],
-      "scores": {
-        "scale": 3,
-        "impact": 4,
-        "novelty": 3,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-09-25T02:05:25.000Z"
     }
   ]
 }
