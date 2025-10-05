@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Plastic manufacturing?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1nyznn5/plastic_manufacturing/",
+      "author": "/u/SneekyF",
+      "thumbnail": null,
+      "summary": "- Costs are dominated by *tooling/mold* complexity and quantity — initial molds can be very expensive (often tens to hundreds of thousands), while resin per‑pound is comparatively minor.\n- After tooling is amortized, *material* and production per unit can be very low (from under a *cent* to several dollars) and depend on plastic type, QA, shipping, and domestic vs overseas production.\n- For mass production use *injection molding* and always amortize mold costs over expected units to estimate realistic *per‑piece* pricing.",
+      "keywords": [
+        "injection molding",
+        "tooling",
+        "plastics",
+        "per-unit cost",
+        "resin price",
+        "manufacturing"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 4,
+        "novelty": 2,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-10-05T20:48:02.000Z"
+    },
+    {
       "title": "Best countries for high-quality clothing manufacturing",
       "link": "https://www.reddit.com/r/manufacturing/comments/1nywfv0/which_countries_are_the_best_for_clothing/",
       "author": "/u/Fabulous-Cricket1099",
@@ -1904,28 +1926,6 @@
         "longTermSignificance": 3
       },
       "pubDate": "2025-09-27T14:32:52.000Z"
-    },
-    {
-      "title": "Don't Know What Glue to Use",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1nrvurl/dont_know_what_glue_to_use/",
-      "author": "/u/YamiOG",
-      "thumbnail": null,
-      "summary": "- The post describes trying to attach a metal rod to PA12 in 3D-printed sunglasses and failing with **Loctite** and **E6000** due to poor *long-term adhesion*. \n- Several replies note that bonding metal to plastic is difficult, advise roughening the surface, and propose alternatives like a bamboo rod or **mechanical fasteners** rather than glue. \n- The consensus leans toward a **mechanical connection** redesign and requests more details to tailor advice.",
-      "keywords": [
-        "glue",
-        "bonding",
-        "3D printing",
-        "PA12",
-        "mechanical fasteners",
-        "sunglasses"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 4,
-        "novelty": 3,
-        "longTermSignificance": 3
-      },
-      "pubDate": "2025-09-27T13:55:01.000Z"
     }
   ]
 }
