@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Zero-knowledge manufacturing marketplace idea",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1nzeyh7/need_feedback_on_my_zero_knowledge_manufacturing/",
+      "author": "/u/Horror_Implement_411",
+      "thumbnail": null,
+      "summary": "- OP proposes a marketplace where clients upload *encrypted CAD* that the cloud translates for manufacturing by *Indian microfactories* without exposing IP.\n- They ask whether Indian factories have *MES/IIoT* connectivity and if owners would pre-authorize idle machines for secure remote jobs.\n- Responses are skeptical (pointing to platforms like *Xometry* and practicality issues), while the OP cites engineering background and offers to share a roadmap.",
+      "keywords": [
+        "zero-knowledge",
+        "encrypted CAD",
+        "manufacturing marketplace",
+        "Indian microfactories",
+        "MES",
+        "IIoT"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 7,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-10-06T10:05:22.000Z"
+    },
+    {
       "title": "Finding a Manufacturer for Adhesive Strips",
       "link": "https://www.reddit.com/r/manufacturing/comments/1nzc8gl/questions_about_finding_a_manufacturer_for_a/",
       "author": "/u/LKC27",
@@ -1902,28 +1924,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-09-27T20:33:39.000Z"
-    },
-    {
-      "title": "Searching for Ideas!",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1ns518y/searching_for_ideas/",
-      "author": "/u/WebHead9049",
-      "thumbnail": null,
-      "summary": "- *CNC machinist* turned founder aims for a debt-free, culture-driven manufacturing company with a shared purpose.\n- He plans to start with contract/outsourced work now to reinvest in equipment while avoiding equity investors.\n- The thread discusses whether a small setup exists, investor alternatives, and debt options to accelerate growth.",
-      "keywords": [
-        "manufacturing",
-        "startup",
-        "funding",
-        "debt-free",
-        "leadership",
-        "small-business"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 4,
-        "novelty": 3,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-09-27T20:11:16.000Z"
     }
   ]
 }
