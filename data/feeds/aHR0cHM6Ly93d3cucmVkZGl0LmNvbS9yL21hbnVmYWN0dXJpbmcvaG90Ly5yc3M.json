@@ -5,6 +5,51 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Running a small to mid size manufacturing firm",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1o0m3jo/running_a_small_to_mid_size_manufacturing_firm/",
+      "author": "/u/Dapper_Two5832",
+      "thumbnail": null,
+      "summary": "- OP runs a small-to-mid manufacturing firm using *SaaS ERP* and *CRM* and is weighing a shift to a **custom** system.\n- They've shortlisted an agency offering a combined custom ERP+CRM for *~$10k* and ask if that price and approach are reasonable.\n- Respondents urge caution: weigh *ROI*, known and hidden switching costs, and simpler fixes (e.g., Excel expert) — avoid change for change's sake.",
+      "keywords": [
+        "ERP",
+        "CRM",
+        "customization",
+        "SaaS",
+        "cost",
+        "ROI",
+        "manufacturing"
+      ],
+      "scores": {
+        "scale": 2,
+        "impact": 4,
+        "novelty": 3,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-10-07T17:57:54.000Z"
+    },
+    {
+      "title": "Spending too much time playing supplier detective?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1o0kwdj/anyone_else_spending_way_too_much_time_playing/",
+      "author": "/u/Inevitable-Worry6192",
+      "thumbnail": null,
+      "summary": "- Small electronics shop owner spends *hours* verifying suppliers — often discovering *trading companies* or stock photos, turning sourcing into detective work.\n- They found *18 verified PCB manufacturers* in China with IATF 16949 certifications serving automotive clients, but Alibaba listings frequently mask middlemen.\n- Commenters recommend tools like *Import Yeti* and **ChatGPT** for OSINT and freight-record checks to speed screening and reduce wasted time.",
+      "keywords": [
+        "supplier-verification",
+        "OSINT",
+        "Alibaba",
+        "PCB",
+        "Import Yeti",
+        "IATF 16949"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 3,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-10-07T17:15:22.000Z"
+    },
+    {
       "title": "How do you decide wage increases for long term employees?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1o0gd96/how_do_you_decide_wage_increases_for_long_term/",
       "author": null,
@@ -1834,37 +1879,6 @@
         "longTermSignificance": 2
       },
       "pubDate": "2025-09-29T14:09:26.000Z"
-    },
-    {
-      "title": "Any Indian manufacturer here, please connect.",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1nthmzn/any_indian_manufacturer_here_please_connect/",
-      "author": "/u/Few_Watercress3",
-      "thumbnail": null,
-      "summary": "- OP requests *Indian manufacturers* to **connect** for potential sourcing and export opportunities.\n- The post is cross-posted from *r/exportersindia* with a link for replies and contact details.\n- Relevant for suppliers and exporters aiming to expand *B2B* relationships and partnerships.",
-      "keywords": [
-        "Indian manufacturers",
-        "sourcing",
-        "export",
-        "manufacturing",
-        "B2B"
-      ],
-      "scores": {
-        "scale": 4,
-        "impact": 3,
-        "novelty": 2,
-        "longTermSignificance": 3
-      },
-      "pubDate": "2025-09-29T13:11:22.000Z"
-    },
-    {
-      "title": "Heading to the Smart Factory & Automated Technology Expo",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1ntfbhc/heading_to_the_smart_factory_automated_technology/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-09-29T11:20:50.000Z"
     }
   ]
 }
