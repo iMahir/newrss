@@ -5,6 +5,16 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Need feedback again on my tweaked business idea -shared factory manufacturing",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1o0bxb9/need_feedback_again_on_my_tweaked_business_idea/",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-10-07T11:19:25.000Z"
+    },
+    {
       "title": "Anyone else tired of ERPs that just record data instead of actually running your factory?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1o0bjid/anyone_else_tired_of_erps_that_just_record_data/",
       "author": null,
@@ -1866,28 +1876,6 @@
         "longTermSignificance": 3
       },
       "pubDate": "2025-09-29T09:41:07.000Z"
-    },
-    {
-      "title": "Most frustrating hard-to-diagnose performance issue?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1nt8psx/question_for_engineers_who_debug_performance/",
-      "author": "/u/devilldog",
-      "thumbnail": null,
-      "summary": "- OP asks engineers to share their *most frustrating*, hard-to-diagnose performance issues to collect real-world anecdotes. - Common themes are **intermittent failures**, environment-specific behavior, and lack of sufficient *observability* that obscures root causes. - The thread seeks debugging strategies, tooling advice, and tips to prevent recurring **performance regressions**.",
-      "keywords": [
-        "performance debugging",
-        "intermittent bugs",
-        "observability",
-        "root cause analysis",
-        "manufacturing",
-        "engineering"
-      ],
-      "scores": {
-        "scale": 3,
-        "impact": 6,
-        "novelty": 3,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-09-29T04:20:45.000Z"
     }
   ]
 }
