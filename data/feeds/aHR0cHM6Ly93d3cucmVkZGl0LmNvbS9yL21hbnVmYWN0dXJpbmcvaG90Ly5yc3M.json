@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Learning CNC/VMC SHOP",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1o0zvrf/learning_cncvmc_shop/",
+      "author": "/u/Apx918",
+      "thumbnail": null,
+      "summary": "- Owner of a family manufacturing business seeks resources to learn *CNC/VMC*, *maintenance*, *SOPs*, tracking and expense management to boost shop productivity.\n- Goal is to prevent being misled by operators and to measure/improve performance through *tracking* and better tooling.\n- Advice: learn hands-on from the *shop floor*—work alongside operators to gain respect, practical skills, and faster improvements.",
+      "keywords": [
+        "CNC",
+        "VMC",
+        "manufacturing",
+        "SOPs",
+        "maintenance",
+        "training"
+      ],
+      "scores": {
+        "scale": 2,
+        "impact": 3,
+        "novelty": 2,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-10-08T03:29:23.000Z"
+    },
+    {
       "title": "Expected tolerances on FDM printers?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1o0wlq9/expected_tolerances_on_fdm_printers/",
       "author": null,
@@ -1856,28 +1878,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-09-30T01:49:58.000Z"
-    },
-    {
-      "title": "Anyone know what these pressure modules go to?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1ntvwap/anyone_know_what_these_pressure_modules_go_to/",
-      "author": "/u/Mmhf22",
-      "thumbnail": null,
-      "summary": "- OP found spare pressure modules and the community identifies them as a *manifold block* with *4–20 mA pressure transducers* rated **3,000 psi**.\n- A commenter pins the red unit to an *SSI Technologies P61* (sealed gage, 304L stainless, 12\" harness, 20 mA) and notes *1/4\" JIC fittings*.\n- Likely uses include *hydraulic* lines, pressure testing, or *CNC lube* circuits, though some fittings look low quality.",
-      "keywords": [
-        "pressure-sensor",
-        "manifold",
-        "hydraulic",
-        "SSI-P61",
-        "JIC-fitting",
-        "CNC-lube"
-      ],
-      "scores": {
-        "scale": 2,
-        "impact": 2,
-        "novelty": 3,
-        "longTermSignificance": 2
-      },
-      "pubDate": "2025-09-29T22:18:47.000Z"
     }
   ]
 }
