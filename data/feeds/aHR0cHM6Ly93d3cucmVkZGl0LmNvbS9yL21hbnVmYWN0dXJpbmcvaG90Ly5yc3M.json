@@ -5,6 +5,27 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Better solution for closing jar lids?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1o1pbdd/better_solution_for_closing_jar_lids/",
+      "author": "/u/Far_Hat2431",
+      "thumbnail": null,
+      "summary": "- OP reports thousands of glass jars are hand-capped, causing *human error* and pallet rejections, plus worker *blisters* from repetitive torque.\n- They ask about handheld devices, different lid threads, or a *handheld foil sealer* to improve seal consistency for bulk jars.\n- A commenter recommends inexpensive benchtop cappers (~$1,000) like **Kinex**, noting automation cuts defects and labor — pitch cost vs. savings to management.",
+      "keywords": [
+        "manufacturing",
+        "capping",
+        "quality-control",
+        "packaging",
+        "ergonomics"
+      ],
+      "scores": {
+        "scale": 3,
+        "impact": 6,
+        "novelty": 3,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-10-08T22:27:06.000Z"
+    },
+    {
       "title": "3M Sold Abrasives Division?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1o1abrr/3m_sold_abrasives_division/",
       "author": "/u/Azmodeios",
@@ -1870,27 +1891,6 @@
         "longTermSignificance": 2
       },
       "pubDate": "2025-09-30T19:01:54.000Z"
-    },
-    {
-      "title": "Addressing Costly Mistakes in Manufacturing",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1nukomr/addressing_costly_mistakes_in_manufacturing_need/",
-      "author": "/u/Tiny-Leather-7487",
-      "thumbnail": null,
-      "summary": "- *Engineer out* errors with process controls and *automation* (jigs, calibrated guides, poka-yoke) so mistakes become unlikely rather than solely punishable.\n- Use **progressive discipline** tied to objective criteria: coaching for one-offs, written warnings for repeats, and termination only for deliberate or grossly negligent acts, while always checking training, supervision, and tooling first.\n- Establish measurable thresholds that combine *dollar loss*, frequency, and intent, log incidents, run *root-cause analyses*, and invest in training or capital when losses exceed risk tolerance.",
-      "keywords": [
-        "manufacturing",
-        "quality-control",
-        "discipline-policy",
-        "automation",
-        "training"
-      ],
-      "scores": {
-        "scale": 4,
-        "impact": 6,
-        "novelty": 3,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-09-30T18:13:35.000Z"
     }
   ]
 }
