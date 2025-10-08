@@ -5,6 +5,52 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "3M Sold Abrasives Division?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1o1abrr/3m_sold_abrasives_division/",
+      "author": "/u/Azmodeios",
+      "thumbnail": null,
+      "summary": "- User reports internal rumor that *3M* sold its abrasives businesses (PG&F and parts of ASD) to a Swiss *private equity* group, but there is no public announcement yet.\n- The post asks for confirmation because multiple internal sources allegedly received notices about the deal and there’s little public coverage.\n- If true, the sale could affect *manufacturing operations*, supply chains, and local jobs tied to the abrasives units under new ownership.",
+      "keywords": [
+        "3M",
+        "abrasives",
+        "private equity",
+        "divestiture",
+        "manufacturing",
+        "PG&F",
+        "ASD"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 4,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-10-08T13:20:35.000Z"
+    },
+    {
+      "title": "All in one schedule and utilization app?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1o19f2d/all_in_one_schedule_and_utilization_app/",
+      "author": "/u/agnisiva",
+      "thumbnail": null,
+      "summary": "- OP seeks a single app to manage *material*, *space*, *machine*, *labor* and *scheduling* for a small shop (5 work areas, 4 techs, 6 bays, lot‑tracked inventory, *FIFO*, job costing).\n- Currently juggling *QuickBooks*, Google Calendar, Asana and spreadsheets and asks for personal software recommendations rather than search results.\n- Replies say off‑the‑shelf affordable all‑in‑one is unlikely; suggested *custom* solution or tools like *First Resonance* or DIY stack (appsmith/react‑admin + Claude + Postgres); enterprise MES SaaS often costly.",
+      "keywords": [
+        "manufacturing",
+        "scheduling",
+        "inventory",
+        "job-costing",
+        "MES",
+        "custom-software",
+        "FIFO"
+      ],
+      "scores": {
+        "scale": 2,
+        "impact": 5,
+        "novelty": 3,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-10-08T12:43:12.000Z"
+    },
+    {
       "title": "Looking to get these lights in India",
       "link": "https://www.reddit.com/r/manufacturing/comments/1o1567z/looking_to_get_these_lights_in_india/",
       "author": "/u/highelite097",
@@ -1845,51 +1891,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-09-30T18:13:35.000Z"
-    },
-    {
-      "title": "Chat with manufacturing engineers about manuals & workflows",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1nujrcx/looking_to_chat_with_industrial_engineers/",
-      "author": "/u/Short_Ingenuity_9286",
-      "thumbnail": null,
-      "summary": "- Student researcher Sovit is building *LensAI*, an *AI+AR* system in a safety‑glasses form factor to provide hands‑free access to manuals, inspections, and training on the shop floor.\n- They seek **15‑minute chats** with manufacturing/aerospace/machining/automotive engineers to map workflows and pain points; commenters cite *HoloLens*/Google Glass failures due to *form factor*, *durability*, and *cost* versus phones.\n- A Calendly link is shared to schedule conversations; respondents noted some paid consulting (~$200/hr) and emphasized real‑world durability and cost constraints over paper solutions.",
-      "keywords": [
-        "AR",
-        "manufacturing",
-        "safety glasses",
-        "HoloLens",
-        "workflows",
-        "training",
-        "durability"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 6,
-        "novelty": 4,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-09-30T17:39:42.000Z"
-    },
-    {
-      "title": "How do you define thermoformed molded pulp?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1nu8h64/how_do_you_defined_thermoformed_molded_pulp/",
-      "author": "/u/Random--Reddit--User",
-      "thumbnail": null,
-      "summary": "- OP asks whether their process—*pulping*, *vacuum forming*, air-drying and final hot-press—qualifies as *thermoformed molded pulp* because of **AD/CVD** duties.\n- They read sources saying thermoforming uses a *heated mold during forming*, and are unsure if a later hot-press is equivalent.\n- Requesting a clear definition from the community to confirm duty coverage; apologizes for English.",
-      "keywords": [
-        "thermoformed molded pulp",
-        "molded pulp",
-        "vacuum forming",
-        "hot pressing",
-        "AD/CVD",
-        "manufacturing"
-      ],
-      "scores": {
-        "scale": 3,
-        "impact": 4,
-        "novelty": 2,
-        "longTermSignificance": 3
-      },
-      "pubDate": "2025-09-30T09:19:34.000Z"
     }
   ]
 }
