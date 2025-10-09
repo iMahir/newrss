@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Middle School Design Project: Materials & Modeling",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1o2e8c3/middle_school_design_project_help_materials_to/",
+      "author": "/u/Maximum_Relative2518",
+      "thumbnail": null,
+      "summary": "- Post by /u/Maximum_Relative2518 asks for help choosing *safe, low-cost materials* and ways to model *attachment styles* for a middle-school design project.\n- Recommended options typically include **cardboard, foamboard, balsa wood, hot-glue/white glue assemblies, tape, simple 3D-printed parts**, and modular connectors like Velcro, snaps, or basic hinge and ball-and-socket models.\n- Emphasize *safety, affordability, and ease of fabrication* so students can prototype quickly with common tools and classroom supervision.",
+      "keywords": [
+        "middle-school",
+        "design-project",
+        "materials",
+        "modeling",
+        "attachment-methods",
+        "education"
+      ],
+      "scores": {
+        "scale": 2,
+        "impact": 2,
+        "novelty": 3,
+        "longTermSignificance": 2
+      },
+      "pubDate": "2025-10-09T18:45:06.000Z"
+    },
+    {
       "title": "Quality Managers - How do you handle supplier corrective actions?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1o28p0l/quality_managers_how_do_you_handle_supplier/",
       "author": null,
@@ -1858,28 +1880,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-10-01T23:18:32.000Z"
-    },
-    {
-      "title": "How to manufacture a prototype",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1nvlt6a/how_to_manufacture_a_prototype/",
-      "author": "/u/thatbassonist",
-      "thumbnail": null,
-      "summary": "- Prototyping typically moves from *3D printing* for quick design validation to *CNC machining* for precision and then to low-volume *injection molding* for production-like parts.\n- Choosing the right method, *materials*, and accounting for tooling and *costs* is often harder than making the part itself.\n- Practical approach: iterate cheaply with prints, verify critical features in production-grade materials via CNC, then use low-volume molding to uncover scale issues and finalize design.",
-      "keywords": [
-        "3D printing",
-        "CNC machining",
-        "injection molding",
-        "prototyping",
-        "materials",
-        "low-volume"
-      ],
-      "scores": {
-        "scale": 4,
-        "impact": 3,
-        "novelty": 3,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-10-01T21:55:28.000Z"
     }
   ]
 }
