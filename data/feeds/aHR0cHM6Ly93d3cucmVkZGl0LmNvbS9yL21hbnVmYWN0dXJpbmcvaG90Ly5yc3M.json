@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Suggestions for Heat Forming / Sewing Nylon Webbing",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1o2khvk/suggestions_for_heat_forming_sewing_nylon_webbing/",
+      "author": "/u/rootbeer608",
+      "thumbnail": null,
+      "summary": "- The OP is designing a low-profile *nylon webbing* wedge to sit inside a *45° slot* in a *PETG* plastic part, with the strap 1\" wide, ~0.03\" thick and expected pull of 5–10 lbs.\n- They currently fold, stitch and *burn* the strap end but find that method inconsistent and unscalable for an initial run of ~100 parts and future ramp-up.\n- They're asking for practical options for *heat forming*, sewing/termination methods, and manufacturing approaches that keep the strap flush with the adhesive face and respect the ~45° overhang limit.",
+      "keywords": [
+        "nylon webbing",
+        "heat forming",
+        "sewing",
+        "PETG",
+        "strap termination",
+        "slot design"
+      ],
+      "scores": {
+        "scale": 2,
+        "impact": 3,
+        "novelty": 4,
+        "longTermSignificance": 2
+      },
+      "pubDate": "2025-10-09T22:53:19.000Z"
+    },
+    {
       "title": "Hyundai Gets Cold Shoulder From Trump",
       "link": "https://www.reddit.com/r/manufacturing/comments/1o2i25r/hyundai_gets_cold_shoulder_from_trump_despite/",
       "author": "/u/wsj",
@@ -1857,27 +1879,6 @@
         "longTermSignificance": 2
       },
       "pubDate": "2025-10-02T15:47:08.000Z"
-    },
-    {
-      "title": "US ISM Manufacturing: 7th Consecutive Month of Contraction",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1nw5fv9/us_ism_manufacturing_index_shows_seventh/",
-      "author": "/u/Historical-Many9869",
-      "thumbnail": null,
-      "summary": "- The **ISM** Manufacturing PMI fell below 50 for the *seventh consecutive month*, signaling ongoing *manufacturing contraction*.  \n- This persistent weakness points to slower factory output and may weigh on employment, supply chains, and GDP growth.  \n- Market participants and policymakers will watch *demand*, inventory cycles, and interest-rate policy for signs of stabilization or further downside.",
-      "keywords": [
-        "ISM",
-        "manufacturing",
-        "PMI",
-        "contraction",
-        "economy"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 3,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-10-02T14:32:53.000Z"
     }
   ]
 }
