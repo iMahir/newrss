@@ -5,6 +5,38 @@
   "feedUrl": "https://techxplore.com/rss-feed/breaking/hi-tech-news/",
   "items": [
     {
+      "title": "'Chinese lantern' structure shifts into more than a dozen shapes for various applications",
+      "link": "https://techxplore.com/news/2025-10-chinese-lantern-shifts-dozen-applications.html",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-10-10T09:00:09.000Z"
+    },
+    {
+      "title": "Light-controlled electron gas for ultra-fast electronics",
+      "link": "https://techxplore.com/news/2025-10-electron-gas-hints-future-ultra.html",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Researchers generated an *optically induced high-mobility electron gas* at oxide interfaces (infinite-layer nickelate/SrTiO3), creating a reversible light‑switchable conducting layer.\n- Light control promises **ultra‑fast, energy‑efficient** electronics — for example, light-controlled transistors that could remove ~1/3 of chip electrical contacts and optical detectors with up to 100,000× stronger current.\n- Achieved via atomic-scale interface engineering, experiments and modeling and published in *Nature Materials*, this advance could impact *spintronics* and *quantum computing*.",
+      "keywords": [
+        "photoconductance",
+        "electron gas",
+        "oxide interfaces",
+        "ultrafast electronics",
+        "spintronics",
+        "quantum computing"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 9,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-10-10T09:00:05.000Z"
+    },
+    {
       "title": "Scientists create world's first chip that combines 2D materials with conventional silicon circuitry",
       "link": "https://techxplore.com/news/2025-10-scientists-world-chip-combines-2d.html",
       "author": null,
@@ -4074,49 +4106,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-09-04T14:02:03.000Z"
-    },
-    {
-      "title": "Rubber band generates electricity from body heat",
-      "link": "https://techxplore.com/news/2025-09-scientists-unveil-rubber-band-generates.html",
-      "author": null,
-      "thumbnail": null,
-      "summary": "*Scientists developed a rubber-like material that converts body heat into electricity.*\n- The material leverages *thermoelectricity*, turning temperature differences into electrical current.\n- Its *elastic, skin-like properties* make it ideal for self-powered wearables and implantable devices, offering endless energy without batteries.*",
-      "keywords": [
-        "thermoelectricity",
-        "wearables",
-        "biomedical devices",
-        "elastic materials",
-        "energy harvesting"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 9,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-09-02T17:10:01.000Z"
-    },
-    {
-      "title": "Kiri-Origami Structures for Stretchable Electronics",
-      "link": "https://techxplore.com/news/2025-09-kiri-origami-enable-high-stretchable.html",
-      "author": null,
-      "thumbnail": null,
-      "summary": "*Researchers from Waseda University developed a *hybrid kiri-origami structure* combining folding and cutting lines.*\n- This design allows *large-area, stretchable electronic devices* with rigid components to fold and stretch seamlessly.*\n- The innovation supports *high-performance, flexible electronics* for wearables, displays, and robotics, paving the way for advanced applications.\n",
-      "keywords": [
-        "origami",
-        "kirigami",
-        "stretchable electronics",
-        "flexible devices",
-        "robotics",
-        "wearable sensors"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 9,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-09-02T15:08:04.000Z"
     }
   ]
 }
