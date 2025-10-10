@@ -5,6 +5,50 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Stopped Whack-a-Mole Maintenance During Line Expansion",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1o3bit3/how_i_stopped_playing_whackamole_with_maintenance/",
+      "author": "/u/fygooooo",
+      "thumbnail": null,
+      "summary": "- A small shop doubling output hit repeated failures because the *maintenance* process was a neglected Google Sheet, causing delays, overtime, morale hits, and budget stress.\n- They adopted **MPulse Software**, a simple CMMS, to add automated PM calendars, work-order tracking, and linked inventory, catching a belt issue two days early.\n- The change moved the team from reactive *whack-a-mole* fixes to planned preventive maintenance, stabilizing production and protecting growth.",
+      "keywords": [
+        "maintenance",
+        "CMMS",
+        "preventive-maintenance",
+        "manufacturing",
+        "line-expansion",
+        "MPulse"
+      ],
+      "scores": {
+        "scale": 3,
+        "impact": 5,
+        "novelty": 4,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-10-10T20:08:03.000Z"
+    },
+    {
+      "title": "Are U.S. supplement makers still importing bottles?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1o3b3lk/question_for_us_supplement_packaging/",
+      "author": "/u/PapiJuancho95_",
+      "thumbnail": null,
+      "summary": "- We manufacture and stock white *HDPE* packer bottles (100–400cc) in Utah and Ohio to help companies avoid long *lead times*, high *shipping* costs, and unpredictable inventory.\n- We offer flexible ordering from a single pallet to full truckloads to cut overseas delays and reduce reliance on imports.\n- Asking the community: how are you sourcing *HDPE* bottles today, and are **MOQ** flexibility and lead times pain points for your team?",
+      "keywords": [
+        "HDPE",
+        "supply-chain",
+        "packaging",
+        "MOQ",
+        "US-manufacturing",
+        "lead-times"
+      ],
+      "scores": {
+        "scale": 4,
+        "impact": 5,
+        "novelty": 3,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-10-10T19:52:12.000Z"
+    },
+    {
       "title": "Can vacuum casting realistically achieve tolerances tighter than ±0.25mm+?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1o2vcy1/can_vacuum_casting_realistically_achieve/",
       "author": null,
@@ -905,26 +949,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-10-02T22:23:15.000Z"
-    },
-    {
-      "title": "Mechanical Engineer: Shift Supervisor role vs Engineering career path — what should I choose?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1nwazk7/mechanical_engineer_shift_supervisor_role_vs/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-10-02T17:58:16.000Z"
-    },
-    {
-      "title": "Manufacturer that’s able to manufacture a custom sized drinking cup",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1nwaqoh/manufacturer_thats_able_to_manufacture_a_custom/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-10-02T17:49:25.000Z"
     }
   ]
 }
