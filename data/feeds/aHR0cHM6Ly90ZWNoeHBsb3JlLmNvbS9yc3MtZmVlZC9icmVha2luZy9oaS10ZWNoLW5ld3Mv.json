@@ -5,6 +5,38 @@
   "feedUrl": "https://techxplore.com/rss-feed/breaking/hi-tech-news/",
   "items": [
     {
+      "title": "Biohybrid leaf mimics photosynthesis to turn CO&#8322; and sunlight into useful chemicals",
+      "link": "https://techxplore.com/news/2025-10-biohybrid-leaf-mimics-photosynthesis-co8322.html",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-10-10T15:00:07.000Z"
+    },
+    {
+      "title": "Prototype LED as thin as wallpaper can glow like the sun",
+      "link": "https://techxplore.com/news/2025-10-prototype-thin-wallpaper-sun.html",
+      "author": null,
+      "thumbnail": "https://scx1.b-cdn.net/csz/news/tmb/2025/a-prototype-led-as-thi.jpg",
+      "summary": "- Researchers created a **paper-thin QLED**—only tens of nanometers thick, akin to *wallpaper*—that emits a *sun-like* full-spectrum white light using a tuned mix of red, yellow-green and blue *quantum dots*.\n- Built on indium tin oxide with conductive polymers and metal oxides, devices operate at modest voltages (8–11.5 V), achieve over **92% color rendering**, and reduce blue output to be more *eye- and sleep-friendly*.\n- The prototype promises *eye-friendly lighting*, adaptive displays and horticulture use, but remains at the development stage before broad commercial deployment.",
+      "keywords": [
+        "quantum dots",
+        "QLED",
+        "sunlike lighting",
+        "thin-film LEDs",
+        "eye-friendly lighting",
+        "display technology"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 6,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-10-10T14:19:27.000Z"
+    },
+    {
       "title": "'Chinese lantern' structure shifts into more than a dozen shapes for various applications",
       "link": "https://techxplore.com/news/2025-10-chinese-lantern-shifts-dozen-applications.html",
       "author": null,
@@ -4061,51 +4093,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-09-05T17:08:49.000Z"
-    },
-    {
-      "title": "Organic polymer paves the way for recyclable water-based batteries",
-      "link": "https://techxplore.com/news/2025-09-polymer-paves-recyclable-based-batteries.html",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- A *p-dihydroxybenzene*-substituted polyamine polymer is reported, combining high charge storage with *hydrophilicity* for aqueous battery electrodes. \n- The material operates at room temperature and can decompose back to raw components under mild heat (<100°C), enabling recyclability. \n- Using *water-based electrolytes* reduces fire risk and, from abundant elements, may lower resource use and plastic pollution in energy storage.",
-      "keywords": [
-        "water-based batteries",
-        "recyclable polymers",
-        "organic redox polymer",
-        "hydrophilic",
-        "recyclability",
-        "Polymer Journal"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 7,
-        "novelty": 8,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-09-05T15:29:03.000Z"
-    },
-    {
-      "title": "Cameras that see the unseen promise smarter recycling",
-      "link": "https://techxplore.com/news/2025-09-cameras-unseen-smarter-faster-recycling.html",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- The study shows *hyperspectral imaging* can identify materials in municipal waste in *real time*, down to the pixel level, improving *sorting and recovery*. \n- By capturing wavelengths beyond the visible spectrum to create *spectral fingerprints* and *data cubes*, researchers distinguish materials that look identical. \n- The work could speed *automated recycling*, reduce material losses to landfills, and support an *open-access library* of waste spectra for the *circular economy*.",
-      "keywords": [
-        "hyperspectral imaging",
-        "waste recycling",
-        "materials characterization",
-        "data cube",
-        "circular economy",
-        "machine learning",
-        "sorting"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 7,
-        "novelty": 8,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-09-04T14:02:03.000Z"
     }
   ]
 }
