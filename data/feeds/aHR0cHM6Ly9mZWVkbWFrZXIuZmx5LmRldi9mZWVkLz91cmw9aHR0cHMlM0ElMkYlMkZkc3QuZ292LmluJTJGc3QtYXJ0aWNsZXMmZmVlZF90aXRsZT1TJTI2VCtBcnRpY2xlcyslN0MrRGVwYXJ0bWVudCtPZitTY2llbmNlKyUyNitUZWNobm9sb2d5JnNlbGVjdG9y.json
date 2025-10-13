@@ -5,6 +5,28 @@
   "feedUrl": "https://feedmaker.fly.dev/feed/?url=https%3A%2F%2Fdst.gov.in%2Fst-articles&feed_title=S%26T+Articles+%7C+Department+Of+Science+%26+Technology&selector_item=.field-content+ol+li&selector_title=a&selector_description=&selector_link=a%5Bhref%5D",
   "items": [
     {
+      "title": "Morning Coffees Reveal Dyes in Food",
+      "link": "https://dst.gov.in/morning-coffees-could-hold-the-secret-to-spotting-deadly-dyes-in-food",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- The *coffee-ring effect* concentrates nanoparticles at the droplet edge to create edge hotspots that boost detection signals with **SERS**.\n- Gold nanorods form dense edge rings, allowing **Rhodamine B** to be detected down to parts-per-trillion (ppt) levels, thanks to intense hotspot signals.\n- The method is simple and cost-effective, with potential for widespread toxin detection in foods and the environment, including possible handheld Raman devices.",
+      "keywords": [
+        "coffee-ring",
+        "SERS",
+        "gold nanorods",
+        "toxic dyes",
+        "Rhodamine B",
+        "food safety"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-10-13T15:17:22.719Z"
+    },
+    {
       "title": "ANRF approves RDI Fund operationalization",
       "link": "https://dst.gov.in/anrf-executive-council-approves-major-decisions-regarding-operationalization-rdi-fund",
       "author": null,
@@ -4463,27 +4485,6 @@
         "impact": 9,
         "novelty": 8,
         "longTermSignificance": 9
-      },
-      "pubDate": "2025-07-26T13:39:37.837Z"
-    },
-    {
-      "title": "Solar Eruptions Illuminate Ladakh Skies",
-      "link": "https://dst.gov.in/solar-blasts-lit-ladakh-skies-may-last-year-uncoded",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- A series of *Coronal Mass Ejections* (CMEs) in May 2024 led to spectacular northern lights in Ladakh, marking a unique solar event.\n- Scientists discovered that these CMEs change thermal behavior as they travel, initially releasing heat and later absorbing it.\n- This research helps improve space weather forecasts, potentially allowing predictions of how CMEs affect Earth's magnetosphere.",
-      "keywords": [
-        "Solar Eruptions",
-        "Coronal Mass Ejections",
-        "Space Weather",
-        "Ladakh",
-        "Astronomy"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 8,
-        "longTermSignificance": 7
       },
       "pubDate": "2025-07-26T13:39:37.837Z"
     }
