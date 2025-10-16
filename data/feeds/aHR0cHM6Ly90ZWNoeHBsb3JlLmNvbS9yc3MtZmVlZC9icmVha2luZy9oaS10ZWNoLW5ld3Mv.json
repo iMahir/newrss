@@ -5,6 +5,27 @@
   "feedUrl": "https://techxplore.com/rss-feed/breaking/hi-tech-news/",
   "items": [
     {
+      "title": "Metabots reshape from flat sheets into hundreds of forms",
+      "link": "https://techxplore.com/news/2025-10-metabots-shapeshift-flat-sheets-hundreds.html",
+      "author": null,
+      "thumbnail": "https://scx1.b-cdn.net/csz/news/tmb/2025/metabots-shapeshift-fr.jpg",
+      "summary": "- Metabots are thin sheets with films that respond to electricity or magnetic fields, enabling *shape-shifting* into hundreds of stable configurations.\n- By linking multiple sheets, a metabot can lie flat or fold into many states to move, jump, crawl, or grip objects.\n- This *proof-of-concept* work shows a cheap, adaptable path bridging metamaterials and robotics with potential for reconfigurable devices.",
+      "keywords": [
+        "metamaterials",
+        "robotics",
+        "soft-robotics",
+        "reconfigurable",
+        "metabots"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 7,
+        "novelty": 9,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-10-15T18:00:08.000Z"
+    },
+    {
       "title": "A stapler that knows when you need it: Using AI to turn everyday objects into proactive assistants",
       "link": "https://techxplore.com/news/2025-10-stapler-ai-everyday-proactive.html",
       "author": null,
@@ -4025,28 +4046,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-09-10T19:59:04.000Z"
-    },
-    {
-      "title": "More than just an image: Hyperspectral data from photos",
-      "link": "https://techxplore.com/news/2025-09-image-algorithm-hyperspectral-info-conventional.html",
-      "author": null,
-      "thumbnail": "https://scx1.b-cdn.net/csz/news/800a/2025/more-than-just-an-imag.jpg",
-      "summary": "- *Purdue* researchers designed an algorithm that recovers detailed *hyperspectral* information from photographs taken with conventional cameras, enabling hyperspectral data from ordinary images. \n- The approach achieves about *1.5-nm* spectral resolution, comparable to scientific spectrometers, using a color reference chart and device-informed computation with **smartphones**. \n- The method is hardware-light and generalizable (no reliance on training data), with potential applications in agriculture, defense, environmental monitoring, and medical diagnostics, and is supported by a patent-pending process.",
-      "keywords": [
-        "hyperspectral",
-        "photography",
-        "spectroscopy",
-        "computational photography",
-        "smartphones",
-        "Purdue"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 7,
-        "novelty": 8,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-09-10T18:17:03.000Z"
     }
   ]
 }
