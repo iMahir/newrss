@@ -5,6 +5,38 @@
   "feedUrl": "https://techxplore.com/rss-feed/breaking/hi-tech-news/",
   "items": [
     {
+      "title": "Six-stack CMOS sets record for large-area electronics",
+      "link": "https://techxplore.com/news/2025-10-scientists-stacking-semiconductor-transistors-large.html",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- KAUST researchers achieved the first *six-stack hybrid CMOS* for large-area electronics, setting a new benchmark in integration density and efficiency. \n- The fabrication stayed under *150°C* and proceeded at *nearly room temperature*, with improvements in surface smoothness and *vertical stacking* alignment. \n- This advance could accelerate *flexible electronics*, *smart health*, and the *Internet of Things*, enabling more power in less space.",
+      "keywords": [
+        "hybrid CMOS",
+        "six-stack",
+        "3D integration",
+        "large-area electronics",
+        "KAUST",
+        "Nature Electronics"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 9,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-10-17T09:00:01.000Z"
+    },
+    {
+      "title": "'Wetware': Scientists use human mini-brains to power computers",
+      "link": "https://techxplore.com/news/2025-10-wetware-scientists-human-mini-brains.html",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-10-17T08:54:42.000Z"
+    },
+    {
       "title": "From stiff to soft in a snap: Magnetic jamming opens new frontiers for microrobotics",
       "link": "https://techxplore.com/news/2025-10-stiff-soft-snap-magnetic-frontiers.html",
       "author": null,
@@ -4001,38 +4033,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-09-11T19:03:03.000Z"
-    },
-    {
-      "title": "Self-tuning energy device turns vibrations into power",
-      "link": "https://techxplore.com/news/2025-09-tuning-energy-device-vibrations-power.html",
-      "author": null,
-      "thumbnail": "https://scx1.b-cdn.net/csz/news/800a/2025/a-self-tuning-device-t.jpg",
-      "summary": "- A *self-tuning stretch-mode piezoelectric energy harvester* uses a sliding mass and evenly stretched *PVDF film* to adapt to environmental vibrations, boosting power across a broad *frequency range*. \n- In lab tests, it produced nearly *twice as much power* and reached up to *29 volts* in a palm-sized device, outperforming conventional harvesters. \n- By adapting to changing vibrations, it could enable *self-powered wireless sensors*, portable electronics, and medical implants powered by everyday motion.",
-      "keywords": [
-        "piezoelectric energy harvesting",
-        "self-tuning",
-        "vibrations",
-        "PVDF",
-        "stretch-mode",
-        "energy harvesting devices"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 7,
-        "novelty": 8,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-09-11T18:58:04.000Z"
-    },
-    {
-      "title": "DNA cassette tapes could solve global data storage problems",
-      "link": "https://techxplore.com/news/2025-09-dna-cassette-tapes-global-storage.html",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-09-11T17:50:01.000Z"
     }
   ]
 }
