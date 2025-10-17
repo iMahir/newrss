@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Custom GPT for audits, gaps, and risks",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1o8zmzq/i_built_a_custom_gpt_to_simplify_audits_gap/",
+      "author": "/u/JohnnyGazzer",
+      "thumbnail": null,
+      "summary": "- *Identifies compliance gaps* against *ISO 9001*, *ISO 13485*, and *IATF 16949*, and maps critical workflows such as *CAPA*, *nonconformance*, and *change management*.\n- *Generates tailored audit checklists* for production, supplier, and process controls.\n- *Provides clause-by-clause visibility* into compliance, enabling **consistent audit readiness** across plants and linking **quality processes** to **production performance**.",
+      "keywords": [
+        "AI",
+        "GPT",
+        "audits",
+        "ISO-standards",
+        "QMS",
+        "manufacturing"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-10-17T12:13:42.000Z"
+    },
+    {
       "title": "Metal Chip Briquetting",
       "link": "https://www.reddit.com/r/manufacturing/comments/1o8ftzz/metal_chip_briquetting/",
       "author": "/u/Jasonpernick",
@@ -925,28 +947,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-10-07T22:29:20.000Z"
-    },
-    {
-      "title": "Microchip Manufacturing — Educational Playing Cards",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1o0n6tn/manufacturing_of_microchips_i_compiled_the/",
-      "author": "/u/arjitraj_",
-      "thumbnail": null,
-      "summary": "- I designed two *playing-card* decks that compile fundamentals of **computers** and **electronics**, with cards covering *microchip manufacturing* and related concepts.\n- The project took ~9 months to study and design, producing a tactile, organized overview with joker cards and visual aids for learners.\n- The creator requests community feedback and support via *Kickstarter*, inviting improvements and backing.",
-      "keywords": [
-        "microchips",
-        "electronics",
-        "computers",
-        "education",
-        "playing-cards",
-        "Kickstarter"
-      ],
-      "scores": {
-        "scale": 2,
-        "impact": 2,
-        "novelty": 5,
-        "longTermSignificance": 3
-      },
-      "pubDate": "2025-10-07T18:36:17.000Z"
     }
   ]
 }
