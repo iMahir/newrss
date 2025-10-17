@@ -5,6 +5,27 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Design dumassery I deal with daily as a Mfg Engr",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1o955bb/design_dumassery_i_deal_with_daily_as_a_mfg_engr/",
+      "author": "/u/epicmountain29",
+      "thumbnail": "https://b.thumbs.redditmedia.com/peiAiF_EY6fZVrgH9ge3JOk4ymMNvlpniCWN7wNG0xE.jpg",
+      "summary": "- *Tight tolerances* don’t automatically equal *dumbassery*; is the tolerance actually required or a misdefined reference dimension.\\n- Commenters point out the need for clear *GD&T* to avoid ambiguity in a ref/flat pattern.\\n- Practical fixes include better definitions, supplier capability, and pragmatic checks when the print and reality diverge.",
+      "keywords": [
+        "manufacturing",
+        "tolerances",
+        "GD&T",
+        "quality",
+        "engineering"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 5,
+        "novelty": 3,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-10-17T15:55:53.000Z"
+    },
+    {
       "title": "Custom GPT for audits, gaps, and risks",
       "link": "https://www.reddit.com/r/manufacturing/comments/1o8zmzq/i_built_a_custom_gpt_to_simplify_audits_gap/",
       "author": "/u/JohnnyGazzer",
@@ -925,28 +946,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-10-08T00:50:24.000Z"
-    },
-    {
-      "title": "Client portal replaces spreadsheets; quotes 90% faster",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1o0telh/custom_client_portal_replaced_spreadsheets_for/",
-      "author": "/u/ZapCC",
-      "thumbnail": null,
-      "summary": "- *Legacy spreadsheets* and manual quoting cost time and risked orders — a single employee's hidden pricing caused a lost $15k sale.\n- A simple web *client portal* (database synced to Google Sheets) enabled instant, account-specific **quotes**, cutting quote time from ~1 hour to ~5 minutes, reducing calls 60% and nearly eliminating errors.\n- Shows many mid-size manufacturers carry hidden costs from “this is how we’ve always done it”; adoption and maintenance risks can cause reversion if staff buy-in is weak.",
-      "keywords": [
-        "manufacturing",
-        "automation",
-        "client-portal",
-        "quoting",
-        "spreadsheets",
-        "digital-transformation"
-      ],
-      "scores": {
-        "scale": 3,
-        "impact": 5,
-        "novelty": 3,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-10-07T22:29:20.000Z"
     }
   ]
 }
