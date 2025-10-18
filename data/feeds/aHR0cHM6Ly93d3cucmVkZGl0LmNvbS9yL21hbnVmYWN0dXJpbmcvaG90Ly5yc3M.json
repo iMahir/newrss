@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "How we used AI to cut sourcing time by 40%",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1oa3bjm/how_we_used_ai_to_cut_sourcing_time_by_40/",
+      "author": "/u/Careless_Egg9936",
+      "thumbnail": null,
+      "summary": "- *AI-based sourcing platform* (Tenkara.ai) filtered and vetted options, shortlisting three verified suppliers instead of days spent chasing quotes.\\n- This approach saved roughly *40%* of sourcing time and drastically reduced back-and-forth emails, though some manual checks remained.\\n- The author invites others to share results and discuss other *AI sourcing tools* and solutions.",
+      "keywords": [
+        "AI",
+        "Sourcing",
+        "Procurement",
+        "Automation",
+        "Case study",
+        "Supply chain"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-10-18T18:28:41.000Z"
+    },
+    {
       "title": "What are the opportunities for the factory workers in manufacturing?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1o9i0y3/what_are_the_opportunities_for_the_factory/",
       "author": null,
@@ -922,29 +944,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-10-08T13:20:35.000Z"
-    },
-    {
-      "title": "All in one schedule and utilization app?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1o19f2d/all_in_one_schedule_and_utilization_app/",
-      "author": "/u/agnisiva",
-      "thumbnail": null,
-      "summary": "- OP seeks a single app to manage *material*, *space*, *machine*, *labor* and *scheduling* for a small shop (5 work areas, 4 techs, 6 bays, lot‑tracked inventory, *FIFO*, job costing).\n- Currently juggling *QuickBooks*, Google Calendar, Asana and spreadsheets and asks for personal software recommendations rather than search results.\n- Replies say off‑the‑shelf affordable all‑in‑one is unlikely; suggested *custom* solution or tools like *First Resonance* or DIY stack (appsmith/react‑admin + Claude + Postgres); enterprise MES SaaS often costly.",
-      "keywords": [
-        "manufacturing",
-        "scheduling",
-        "inventory",
-        "job-costing",
-        "MES",
-        "custom-software",
-        "FIFO"
-      ],
-      "scores": {
-        "scale": 2,
-        "impact": 5,
-        "novelty": 3,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-10-08T12:43:12.000Z"
     }
   ]
 }
