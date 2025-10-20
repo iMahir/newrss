@@ -5,6 +5,27 @@
   "feedUrl": "https://www.assemblymag.com/rss/17",
   "items": [
     {
+      "title": "Self-Fixturing Tech Could Boost FSW",
+      "link": "https://www.assemblymag.com/articles/99613-self-fixturing-technology-could-boost-friction-stir-welding",
+      "author": "webera@bnpmedia.com (Austin Weber)",
+      "thumbnail": "https://www.assemblymag.com/ext/resources/issues2/2025/11-nov/asb1125lines1-forweb.webp?t=1760707631",
+      "summary": "- The project introduces a *self-fixturing friction stir welding* attachment on a robotic arm that combines the tool and a miniature backing plate, removing the need for a separate anvil.\n- It aims for mass production with *lighter materials*, stronger welds, and lower energy use by enabling *friction stir welding* on non-flat parts without bulky fixtures.\n- Engineers are adding a hydraulic system to control the force, moving toward an ergonomic, industry-ready solution for real-world assembly lines.",
+      "keywords": [
+        "friction stir welding",
+        "self-fixturing",
+        "robotic arm",
+        "fixturing",
+        "manufacturing"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 7,
+        "novelty": 8,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-10-20T13:00:00.000Z"
+    },
+    {
       "title": "Software Links Smart Tech to Digital Work Instructions",
       "link": "https://www.assemblymag.com/articles/99611-software-links-smart-tech-to-digital-work-instructions",
       "author": null,
@@ -1948,29 +1969,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-09-16T13:00:00.000Z"
-    },
-    {
-      "title": "Rivian Breaks Ground on $5 Billion Manufacturing Plant in Georgia",
-      "link": "https://www.assemblymag.com/articles/99555-rivian-breaks-ground-on-5-billion-manufacturing-plant-in-georgia",
-      "author": null,
-      "thumbnail": "https://www.assemblymag.com/ext/resources/images/Rivian-Georgia.webp?t=1758030299",
-      "summary": "- *Rivian* breaks ground on a $5B, 2,000‑acre Georgia plant in Morgan and Walton counties, the **largest investment** in state history and expected to create ~7,500 jobs. \n- The project will be built in two phases, with production starting in 2028 and capacity up to **400,000 vehicles annually**. \n- Gov. Kemp frames Georgia as a national EV leader, helping Rivian reach new customers with lower-price EVs.",
-      "keywords": [
-        "Rivian",
-        "Georgia",
-        "EV manufacturing",
-        "economic development",
-        "jobs",
-        "automotive",
-        "investment"
-      ],
-      "scores": {
-        "scale": 9,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 9
-      },
-      "pubDate": "2025-09-16T12:45:36.000Z"
     }
   ]
 }
