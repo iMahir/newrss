@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Essential system features for small manufacturers",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1obcjsg/if_youre_a_small_business_or_just_starting_out_to/",
+      "author": "/u/BuffHaloBill",
+      "thumbnail": null,
+      "summary": "- A core inventory management feature is essential for small runs and startups, with optional *demand forecasting* to anticipate needs.\n- For scheduling, decide if you need a simple MES or a more advanced production scheduler based on batch complexity.\n- Seek integrations with *financial systems* or *CRM* and a push-button reporting suite for *production*, *QA*, *KPI*, and financials.",
+      "keywords": [
+        "small-business",
+        "manufacturing",
+        "ERP",
+        "MES",
+        "inventory-management",
+        "reporting"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-10-20T06:21:59.000Z"
+    },
+    {
       "title": "Availability of injection molding in the USA?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1ob6o8i/availability_of_injection_molding_in_the_usa/",
       "author": "/u/Derpizzle12345",
@@ -1953,27 +1975,6 @@
         "longTermSignificance": 3
       },
       "pubDate": "2025-10-09T21:00:17.000Z"
-    },
-    {
-      "title": "I want to change the CAD software at my company",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1o2gc3s/i_want_to_change_the_cad_software_at_my_company/",
-      "author": "/u/MixNeither3882",
-      "thumbnail": null,
-      "summary": "- OP wants to replace *CadKey* and asks which modern CAD—**SolidWorks**, **AutoCAD**, or *Fusion 360*—is best now.\n- They also ask how companies typically handle *training* and onboarding when switching CAD platforms.\n- A commenter notes *CadKey* is still around and shares 1990s nostalgia, inviting experience-based recommendations.",
-      "keywords": [
-        "CAD",
-        "CadKey",
-        "SolidWorks",
-        "AutoCAD",
-        "Training"
-      ],
-      "scores": {
-        "scale": 2,
-        "impact": 3,
-        "novelty": 2,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-10-09T20:06:12.000Z"
     }
   ]
 }
