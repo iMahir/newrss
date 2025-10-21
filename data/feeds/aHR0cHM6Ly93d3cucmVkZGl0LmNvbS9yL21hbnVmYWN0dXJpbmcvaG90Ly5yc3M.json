@@ -5,6 +5,27 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Where to find clients?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1oc7ocm/where_to_find_clients/",
+      "author": "/u/Electronic-Hold-7916",
+      "thumbnail": null,
+      "summary": "- The author is a necktie supplier seeking *Europe* bulk or recurring orders. \n- They asked where to find new clients and ongoing orders. \n- A commenter suggested checking out *r/sales* or *r/marketing* for guidance.",
+      "keywords": [
+        "neckwear",
+        "B2B",
+        "Europe",
+        "client acquisition",
+        "marketing"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 4,
+        "novelty": 3,
+        "longTermSignificance": 3
+      },
+      "pubDate": "2025-10-21T08:45:17.000Z"
+    },
+    {
       "title": "12 ga drop",
       "link": "https://www.reddit.com/r/manufacturing/comments/1obtj94/12_ga_drop/",
       "author": "/u/CGOTX777",
@@ -1955,28 +1976,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-10-11T14:08:20.000Z"
-    },
-    {
-      "title": "Stopped Whack-a-Mole Maintenance During Line Expansion",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1o3bit3/how_i_stopped_playing_whackamole_with_maintenance/",
-      "author": "/u/fygooooo",
-      "thumbnail": null,
-      "summary": "- A small shop doubling output hit repeated failures because the *maintenance* process was a neglected Google Sheet, causing delays, overtime, morale hits, and budget stress.\n- They adopted **MPulse Software**, a simple CMMS, to add automated PM calendars, work-order tracking, and linked inventory, catching a belt issue two days early.\n- The change moved the team from reactive *whack-a-mole* fixes to planned preventive maintenance, stabilizing production and protecting growth.",
-      "keywords": [
-        "maintenance",
-        "CMMS",
-        "preventive-maintenance",
-        "manufacturing",
-        "line-expansion",
-        "MPulse"
-      ],
-      "scores": {
-        "scale": 3,
-        "impact": 5,
-        "novelty": 4,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-10-10T20:08:03.000Z"
     }
   ]
 }
