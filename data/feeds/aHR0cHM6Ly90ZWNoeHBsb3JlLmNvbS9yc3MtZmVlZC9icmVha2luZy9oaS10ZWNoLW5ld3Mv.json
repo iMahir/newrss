@@ -5,6 +5,27 @@
   "feedUrl": "https://techxplore.com/rss-feed/breaking/hi-tech-news/",
   "items": [
     {
+      "title": "Nanoporous silicon harvests electricity from water friction",
+      "link": "https://techxplore.com/news/2025-10-nanoporous-silicon-generates-electricity-friction.html",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- **IE-TENG** harnesses pressure-driven intrusion–extrusion of water in hydrophobic nanoporous silicon to generate electricity at the solid–liquid interface, achieving up to **9%** efficiency.\n- The device is designed to be conductive, nanoporous, and scalable, enabling autonomous, maintenance-free sensors and wearables powered by water.\n- Using common materials (silicon and water), this approach could enable self-sustaining energy sources for sensing and robotics.",
+      "keywords": [
+        "nanoporous silicon",
+        "triboelectric",
+        "energy harvesting",
+        "water-driven",
+        "self-sustaining"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 7,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-10-22T14:33:25.000Z"
+    },
+    {
       "title": "New organic thin-film tunnel transistors for wearable and other small electronics",
       "link": "https://techxplore.com/news/2025-10-thin-tunnel-transistors-wearable-small.html",
       "author": null,
@@ -3974,28 +3995,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-09-16T15:10:07.000Z"
-    },
-    {
-      "title": "Biohybrid crawlers controlled with optogenetics",
-      "link": "https://techxplore.com/news/2025-09-biohybrid-crawlers-optogenetic-techniques.html",
-      "author": "Ingrid Fadelli",
-      "thumbnail": "https://scx1.b-cdn.net/csz/news/800a/2025/tiny-neuro-muscular-bi.jpg",
-      "summary": "- Researchers created *biohybrid robots* by integrating mouse motor neurons and muscle tissue onto a 3D‑printed scaffold with wireless microLEDs to enable light‑driven actuation.\n- The system uses *optogenetic techniques* to stimulate *neural tissue* and steer crawling movements, mimicking natural *neural mechanisms* of movement.\n- This approach could advance *motor process studies*, regenerative medicine, and future devices capable of learning and adapting to stimuli.",
-      "keywords": [
-        "biohybrid robots",
-        "optogenetics",
-        "neural tissue",
-        "neuromuscular junction",
-        "motor neurons",
-        "neural engineering"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 8,
-        "novelty": 9,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-09-16T10:50:01.000Z"
     }
   ]
 }
