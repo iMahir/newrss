@@ -5,6 +5,27 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Looking for vacuum spring loaded valve.",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1oe80um/looking_for_vacuum_spring_loaded_valve/",
+      "author": "/u/supergimp2000",
+      "thumbnail": null,
+      "summary": "- The post seeks a vacuum spring-loaded valve (about 1/2\" dia) opened by pressing a steel ball and closed by a spring, and asks for a source to integrate into a product. \n- A commenter mentions automotive *oil filter relief valves* and notes most ball-bearing check valves are inline in hoses, not surface-mounted. \n- Overall, the exchange points to potential sources, but no exact part is provided in this thread.",
+      "keywords": [
+        "vacuum valve",
+        "spring-loaded",
+        "oil filter relief valve",
+        "check valve",
+        "pneumatic"
+      ],
+      "scores": {
+        "scale": 4,
+        "impact": 3,
+        "novelty": 3,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-10-23T16:32:18.000Z"
+    },
+    {
       "title": "For managers",
       "link": "https://www.reddit.com/r/manufacturing/comments/1oe5i6g/for_managers/",
       "author": "/u/Calm_Pea_9413",
@@ -4285,27 +4306,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-10-13T21:47:04.000Z"
-    },
-    {
-      "title": "Help with brushed 24V motor burning out",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1o5v5xb/help_with_brushed_24v_motor_burning_out/",
-      "author": "/u/theloganb",
-      "thumbnail": null,
-      "summary": "- The Pittman brush motors burn out despite coils/insulation looking intact; suspected *overheating on the manufacturing line* due to intermittent stops and re‑powering.\n- A responder says more data is needed and suggests posting to *r/askengineers* to diagnose coil condition, insulation, or load against the datasheet.\n- OP reports gearboxes/coils look fine, load matches the *datasheet*, and suspects constant on/off cycling on the line as the cause; planning further checks and engineer input.",
-      "keywords": [
-        "brushed motor",
-        "Pittman",
-        "overheating",
-        "manufacturing-line",
-        "electrical-diagnosis"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 4,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-10-13T20:25:57.000Z"
     }
   ]
 }
