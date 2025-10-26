@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Supplier research taking way longer these days",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1ogr3s7/supplier_research_taking_way_longer_these_days/",
+      "author": "/u/Top-Cardiologist1011",
+      "thumbnail": null,
+      "summary": "- A seasoned procurement pro notes supplier sourcing now takes ~3 weeks vs ~1 week, with PCB assemblies and MOQs around 5K, plus outdated profiles and bounced emails. \n- Communication slows: 3–4 days to acknowledge RFQs, some vendors push WhatsApp then go quiet, and time zones complicate follow-ups. \n- A commenter blames lack of *supplier relationships* after years of buying the same parts; quotes vary on shipping inclusion, making comparisons hard.",
+      "keywords": [
+        "procurement",
+        "supplier sourcing",
+        "lead times",
+        "communication",
+        "RFQ",
+        "supplier relationships"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 4,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-10-26T17:52:32.000Z"
+    },
+    {
       "title": "Unforeseen issues in production line installs",
       "link": "https://www.reddit.com/r/manufacturing/comments/1ogn8gk/doing_a_production_line_or_equipment_install_what/",
       "author": "/u/MFGEngineer4Life",
@@ -6495,28 +6517,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-10-18T00:39:35.000Z"
-    },
-    {
-      "title": "MIT-backed Algorithmic Packaging & Optimization Software",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1o97pkj/mitbacked_algorithmic_packaging_optimization/",
-      "author": "/u/RockSt4r",
-      "thumbnail": null,
-      "summary": "- The post highlights *MIT-backed* algorithmic packaging software from *Inkbit*, showcasing *cost reductions*, *time savings*, and **true landed costs** with CAD visuals across packaging logistics.\\n- It notes cool work from *Inkbit* and invites readers to *check it out*.\\n- A comment argues that nothing is **MIT-backed**, clarifying MIT ties are indirect and that the work predates the company, mentioning Inkbit's nesting algorithm and potential cross-domain extensions.",
-      "keywords": [
-        "Inkbit",
-        "Packaging",
-        "Algorithmic optimization",
-        "MIT",
-        "CAD visuals",
-        "Nesting"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-10-17T17:32:26.000Z"
     }
   ]
 }
