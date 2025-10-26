@@ -5,6 +5,29 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Unforeseen issues in production line installs",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1ogn8gk/doing_a_production_line_or_equipment_install_what/",
+      "author": "/u/MFGEngineer4Life",
+      "thumbnail": null,
+      "summary": "- Never sign off on final schematics until you verify site conditions, or you'll face post-install changes.\n- Don't rely on maintenance crews for rigging heavy equipment; hire a professional rigging team to prevent drops and downtime.\n- Double-check all machine requirements, including power and ventilation, or gaps can cause months of delays.",
+      "keywords": [
+        "manufacturing",
+        "installation",
+        "risk-management",
+        "rigging",
+        "planning",
+        "industrial-engineering",
+        "facilities"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 6,
+        "novelty": 3,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-10-26T15:18:37.000Z"
+    },
+    {
       "title": "Need a supplier for metallic woven fabric",
       "link": "https://www.reddit.com/r/manufacturing/comments/1ogasuh/need_a_supplier_who_can_make_this_easily/",
       "author": "/u/Mysterious_Forever_3",
@@ -6494,27 +6517,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-10-17T17:32:26.000Z"
-    },
-    {
-      "title": "Design dumassery I deal with daily as a Mfg Engr",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1o955bb/design_dumassery_i_deal_with_daily_as_a_mfg_engr/",
-      "author": "/u/epicmountain29",
-      "thumbnail": "https://b.thumbs.redditmedia.com/peiAiF_EY6fZVrgH9ge3JOk4ymMNvlpniCWN7wNG0xE.jpg",
-      "summary": "- *Tight tolerances* don’t automatically equal *dumbassery*; is the tolerance actually required or a misdefined reference dimension.\\n- Commenters point out the need for clear *GD&T* to avoid ambiguity in a ref/flat pattern.\\n- Practical fixes include better definitions, supplier capability, and pragmatic checks when the print and reality diverge.",
-      "keywords": [
-        "manufacturing",
-        "tolerances",
-        "GD&T",
-        "quality",
-        "engineering"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 5,
-        "novelty": 3,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-10-17T15:55:53.000Z"
     }
   ]
 }
