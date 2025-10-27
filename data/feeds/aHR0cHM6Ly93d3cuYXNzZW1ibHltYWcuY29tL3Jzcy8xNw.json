@@ -5,6 +5,50 @@
   "feedUrl": "https://www.assemblymag.com/rss/17",
   "items": [
     {
+      "title": "GrayMatter Robotics to polish transparent plastics",
+      "link": "https://www.assemblymag.com/articles/99626-start-up-to-develop-robotic-polishing-system-for-transparent-plastics",
+      "author": null,
+      "thumbnail": "https://www.assemblymag.com/ext/resources/2025/10/grey-matter-robotics.webp?t=1761584860",
+      "summary": "- The U.S. Air Force awarded GrayMatter Robotics a contract to develop an **AI-powered** robotic polishing system to reduce optical distortion in transparent acrylic and polycarbonate parts.\n- The system extends GrayMatter's existing technology that autonomously detects and corrects distortions to ensure *clear visibility* and scratch-free surfaces on aerospace components, using physics-based models for safe, accurate operation.\n- CTO Brual Shah says the platform can handle sanding complex shapes—from guitars to aerospace components—delivering unprecedented *reliability*, speed, and consistency.",
+      "keywords": [
+        "robotics",
+        "AI",
+        "aerospace",
+        "transparent-plastics",
+        "polishing",
+        "optical-distortion"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 7,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-10-27T16:00:00.000Z"
+    },
+    {
+      "title": "Course Teaches Plastic Parts for Automotive Design",
+      "link": "https://www.assemblymag.com/articles/99625-course-teaches-how-to-design-plastic-parts-for-automotive-applications",
+      "author": null,
+      "thumbnail": "https://www.assemblymag.com/ext/resources/Issues/2018/September/staking/asb0918Stake2.webp?t=1761582871",
+      "summary": "- *Three-day course* in Troy, MI teaches how to design plastic parts for automotive applications, led by Paul A. Tres.\n- Topics cover *material selection*, *design procedures*, processing and assembly methods including in-mold assembly, living hinges, over-molding, press-fit, snap-fits and safety systems.\n- Attendees receive the 10th edition of \"Designing Plastic Parts for Assembly\" and a binder with over 1,300 slides; course runs Nov. 5–7 at Michigan State University.",
+      "keywords": [
+        "automotive",
+        "plastics",
+        "design",
+        "training",
+        "assembly",
+        "manufacturing"
+      ],
+      "scores": {
+        "scale": 4,
+        "impact": 3,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-10-27T15:02:00.000Z"
+    },
+    {
       "title": "Battery Manufacturer Bringing 735 New Jobs to Pennsylvania",
       "link": "https://www.assemblymag.com/articles/99624-battery-manufacturer-bringing-735-new-jobs-to-pennsylvania",
       "author": null,
@@ -4347,49 +4391,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-09-24T13:00:00.000Z"
-    },
-    {
-      "title": "Tesla Receives U.S. Patent for Automated Assembly Process",
-      "link": "https://www.assemblymag.com/articles/99588-tesla-receives-us-patent-for-automated-assembly-process",
-      "author": "webera@bnpmedia.com (Austin Weber)",
-      "thumbnail": "https://www.assemblymag.com/ext/resources/images/TeslaPatent.webp?t=1759332616",
-      "summary": "- Tesla was granted U.S. patent No. 12,420,879 B1 for an *automated* exterior-part assembly system that uses a *global datum* and dedicated fixtures for precise alignment.\n- The process secures parts with vacuum clamps, applies structural adhesive with an engineered gap to compensate substructure irregularities, and supports tacking so assembly can continue during adhesive curing.\n- The approach aims to *streamline* vehicle assembly, improve quality, raise production rates, and reduce manual labor and errors in manufacturing.",
-      "keywords": [
-        "Tesla",
-        "automation",
-        "global datum",
-        "vehicle assembly",
-        "adhesive bonding",
-        "manufacturing"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-09-24T04:00:00.000Z"
-    },
-    {
-      "title": "New Study Finds Collaborative Robots Pose Hidden Cybersecurity Risks",
-      "link": "https://www.assemblymag.com/articles/99570-new-study-finds-collaborative-robots-pose-hidden-cybersecurity-risks",
-      "author": null,
-      "thumbnail": "https://www.assemblymag.com/ext/resources/images/Kinova-Gen-3-Machine-Tending.webp?t=1758650655",
-      "summary": "*A study from the University of Waterloo reveals that *collaborative robots* can leak sensitive data even when commands are encrypted.*\n- Hackers can analyze network traffic patterns to infer private information, such as medical or industrial processes.*\n- The researchers suggest implementing safeguards like API timing adjustments and traffic-shaping to mitigate these cybersecurity risks.*",
-      "keywords": [
-        "cybersecurity",
-        "collaborative robots",
-        "privacy",
-        "industrial security",
-        "robot network traffic"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 8,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-09-23T17:06:39.000Z"
     }
   ]
 }
