@@ -5,6 +5,27 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Vendor heartache and advice on what to do",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1ohttfq/vendor_heartache_and_advice_on_what_to_do/",
+      "author": "/u/BO0mShackalaka",
+      "thumbnail": null,
+      "summary": "- *Startup* faced design flaws, shipping delays, missing parts, a tougher install, and ghosting by the vendor after buying non-essential equipment.\n- The vendor issues led to revamping vetting/procurement and doubts about refunds, so the team is choosing to focus on core engineering.\n- Other commenters recommend *public warnings*, showing the equipment in person, and offering it for cheap to help others while moving on.",
+      "keywords": [
+        "vendor risk",
+        "procurement",
+        "startups",
+        "vendor ghosting",
+        "manufacturing"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 4,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-10-27T23:18:10.000Z"
+    },
+    {
       "title": "Production Job Tracking",
       "link": "https://www.reddit.com/r/manufacturing/comments/1ohrmlu/production_job_tracking/",
       "author": null,
@@ -6362,28 +6383,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-10-20T15:06:43.000Z"
-    },
-    {
-      "title": "Can you integrate with Cognex or Keyence cameras?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1obedp2/can_you_integrate_with_cognex_or_keyence_cameras/",
-      "author": "/u/AnybodyOrdinary9628",
-      "thumbnail": null,
-      "summary": "- Exploring whether you can build in-house add-ons or use 3rd‑party apps with *Cognex*/*Keyence* cameras, and what data they can output or if the systems are closed. \\n- Seeking details on *latency*, image quality, and **communication protocols** for obtaining the *visual feed* and any control data. \\n- Sharing any prior experience or lessons learned from such integrations, including constraints and recommended approaches.",
-      "keywords": [
-        "Cognex",
-        "Keyence",
-        "camera-integration",
-        "industrial-imaging",
-        "latency",
-        "protocols"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-10-20T08:13:38.000Z"
     }
   ]
 }
