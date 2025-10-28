@@ -5,6 +5,27 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Mythbuster: Metal 3D Printing",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1oierq2/mythbuster_metal_3d_printing/",
+      "author": "/u/Dry_Car4652",
+      "thumbnail": null,
+      "summary": "- **Metal 3D printing** myths are debunked, with clear distinctions between hype and real capabilities.\\n- The piece discusses practical constraints, alloy performance, and the influence of process controls in real-world parts.\\n- It clarifies where metal AM stands today and what to expect for *industrial manufacturing* in the near term.",
+      "keywords": [
+        "metal 3D printing",
+        "additive manufacturing",
+        "myths",
+        "EOS",
+        "industrial manufacturing"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 6,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-10-28T16:54:00.000Z"
+    },
+    {
       "title": "How to make your company show up in google overview AI?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1oibwcc/how_to_make_your_company_show_up_in_google/",
       "author": "/u/toymakerinchina",
@@ -6374,27 +6395,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-10-21T19:45:06.000Z"
-    },
-    {
-      "title": "Self-service portals for B2B manufacturing?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1oc88wa/has_anyone_here_built_a_selfservice_portal_for/",
-      "author": "/u/elogic_commerce",
-      "thumbnail": null,
-      "summary": "- The post notes a shift from *quote requests* and *manual orders* to online self-service in manufacturing. - It asks which platforms or setups have worked best—*custom builds*, *Magento/Adobe*, *Shopify Plus B2B*, or other options. - It seeks examples or recommendations from others who’ve built a self-service portal.",
-      "keywords": [
-        "B2B",
-        "manufacturing",
-        "self-service",
-        "ecommerce",
-        "platforms"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-10-21T09:22:41.000Z"
     }
   ]
 }
