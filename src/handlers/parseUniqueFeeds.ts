@@ -5,11 +5,13 @@ export const parseUniqueFeeds = (uniqueFeeds: PreRssJson[]) => {
     return uniqueFeeds.map((feed) => {
 
         const items = feed.items.map((item) => {
-            const words = countWords(item.content ?? "");
+            // Cache the split result to avoid multiple splits
+            const contentWords = item.content ? item.content.split(/\s+/) : [];
+            const wordCount = contentWords.length;
 
             return {
                 ...item,
-                content: words > 300 ? item.content : null
+                content: wordCount > 300 ? item.content : null
             };
         });
 

@@ -14,7 +14,14 @@ export const saveFeeds = async (feeds: PostRssJson[]) => {
             existingFeed.items = existingFeed.items || [];
 
             feed.items = [...feed.items, ...existingFeed.items];
-            feed.items = feed.items.filter((item, index, self) => self.findIndex((t) => t.link === item.link) === index);
+            // Use Map for O(n) deduplication instead of O(n²)
+            const uniqueItemsMap = new Map();
+            feed.items.forEach(item => {
+                if (!uniqueItemsMap.has(item.link)) {
+                    uniqueItemsMap.set(item.link, item);
+                }
+            });
+            feed.items = Array.from(uniqueItemsMap.values());
             feed.items = feed.items.sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
             feed.items = feed.items.slice(0, 50);
         }

@@ -81,36 +81,30 @@ export const parseFeedItems = async (feeds: PreRssJson[]) => {
     await Promise.all(feeds.map(async (feed) => {
         const feedItems = feed.items;
 
-        for (let i = 0; i < feedItems.length; i++) {
-            console.log("Fetching: ", feedItems[i].link);
-
-            const item = feedItems[i];
+        await Promise.all(feedItems.map(async (item) => {
+            console.log("Fetching: ", item.link);
 
             if (item.link.includes("youtube.com/watch")) {
                 // item.content = await youtubeContentGET(item);
-                continue; // Disable Youtube content
+                return; // Disable Youtube content
             }
             else if (item.link.includes("reddit.com")) {
                 const content = await redditContentGET(item);
                 if (content) {
                     item.content = content;
                 }
-                else {
-                    continue; // Skip to next item if Reddit content fetch fails
-                }
             }
             else {
                 const content = await articleContentGET(item);
                 if (content) {
                     console.log("Fetched: ", item.link);
-                    feedItems[i].content = content;
+                    item.content = content;
                 }
                 else {
                     await cluster.queue({ itemUrl: item.link, feedUrl: feed.feedUrl });
                 }
             }
-
-        }
+        }));
     }));
 
     await cluster.idle();

@@ -85,10 +85,12 @@ Content (HTML or transcript):
 `
         }
     ];
+    // Cache the word split to avoid multiple splits
+    const contentWords = preRssJsonItem.content ? preRssJsonItem.content.split(/\s+/) : [];
+    const wordCount = contentWords.length;
 
-    if (preRssJsonItem.content && (preRssJsonItem.content.split(/\s+/)?.length ?? 0 > 10000) && (preRssJsonItem.content.split(/\s+/)?.length ?? 0) < 70000) {
+    if (preRssJsonItem.content && wordCount > 10000 && wordCount < 70000) {
 
-        const contentWords = preRssJsonItem.content.split(/\s+/);
         const chunkSize = 10000;
         const contentChunks = [];
         for (let i = 0; i < contentWords.length; i += chunkSize) {
