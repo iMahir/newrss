@@ -17,7 +17,7 @@ export const rssToJson = async (feed: Feed): Promise<PreRssJson> => {
     });
 
     let rssUrl = feed.rss;
-    if (rssUrl.match("youtube.com/feeds/videos.xml")) {
+    if (rssUrl.includes("youtube.com/feeds/videos.xml")) {
         // Filter out shorts from YouTube RSS feeds: https://blog.amen6.com/blog/2025/01/no-shorts-please-hidden-youtube-rss-feed-urls/
         rssUrl = rssUrl.replace("channel_id=UC", "playlist_id=UULF")
     }
@@ -32,7 +32,7 @@ export const rssToJson = async (feed: Feed): Promise<PreRssJson> => {
         feedUrl: feed.rss,
         items: parsedFeed.items.map((item) => {
 
-            if (item.link && item.link.match("youtube.com/watch")) {
+            if (item.link && item.link.includes("youtube.com/watch")) {
                 const videoId = item.link.split("v=")[1]?.split("&")[0];
                 item.enclosure = {
                     url: `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`,
