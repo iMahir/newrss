@@ -22,7 +22,3 @@ export const parseUniqueFeeds = (uniqueFeeds: PreRssJson[]) => {
     });
 
 }
-
-const countWords = (text: string) => {
-    return text.split(/\s+/).length;
-}

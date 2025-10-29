@@ -93,6 +93,8 @@ export const parseFeedItems = async (feeds: PreRssJson[]) => {
                 if (content) {
                     item.content = content;
                 }
+                // Skip to next item if Reddit content fetch fails (preserve original behavior)
+                return;
             }
             else {
                 const content = await articleContentGET(item);
