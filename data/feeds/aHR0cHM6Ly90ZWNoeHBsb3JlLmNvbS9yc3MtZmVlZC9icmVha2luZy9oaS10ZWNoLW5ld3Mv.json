@@ -5,6 +5,16 @@
   "feedUrl": "https://techxplore.com/rss-feed/breaking/hi-tech-news/",
   "items": [
     {
+      "title": "Cooling paint harvests water from thin air",
+      "link": "https://techxplore.com/news/2025-11-cooling-harvests-thin-air.html",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-11-03T14:21:04.000Z"
+    },
+    {
       "title": "PFAS-free membrane with nanoscopic plugs enables cleaner, cheaper hydrogen production",
       "link": "https://techxplore.com/news/2025-10-pfas-free-membrane-nanoscopic-enables.html",
       "author": null,
@@ -576,29 +586,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-09-30T15:34:04.000Z"
-    },
-    {
-      "title": "Gesture PINs: NFC enables shimmy-and-shake authentication",
-      "link": "https://techxplore.com/news/2025-09-pin-shimmy.html",
-      "author": null,
-      "thumbnail": "https://scx1.b-cdn.net/csz/news/tmb/2025/forget-numbers-your-pi.jpg",
-      "summary": "- *NFCGest* uses changes in *NFC* radio signals caused by nine card-holding *gestures* (swipes, taps, etc.) to input a PIN or pick a tip, with a custom AI reaching *~92% accuracy*.\n- The upgrade is cheap (under *$20* per terminal), promising faster, contactless interactions that improve accessibility and reduce surface touch.\n- Presented at UIST 2025 and being patented by UBC, the approach needs broader testing and payment-terminal integration before wide deployment.",
-      "keywords": [
-        "NFC",
-        "gesture authentication",
-        "contactless payments",
-        "UBC",
-        "AI",
-        "security",
-        "accessibility"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 8,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-09-29T19:37:03.000Z"
     }
   ]
 }
