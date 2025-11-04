@@ -5,6 +5,50 @@
   "feedUrl": "https://www.assemblymag.com/rss/17",
   "items": [
     {
+      "title": "PI Moves into New US HQ to Support Growth and Innovation",
+      "link": "https://www.assemblymag.com/articles/99640-pi-moves-into-new-us-hq-to-support-growth-and-innovation",
+      "author": null,
+      "thumbnail": "https://www.assemblymag.com/ext/resources/2025/10/pi-900.webp?t=1762281309",
+      "summary": "- PI moved into a larger Shrewsbury, MA HQ to expand *U.S. production*, engineering, and customer support for precision motion control.\n- The new facility serves photonics, semiconductor, aerospace, and life sciences while helping mitigate trade pressures and accelerate *R&D* and tech development.\n- Upgraded spaces include production, service, metrology, clean rooms, and expanded demo/training areas to support *growth* and faster delivery.",
+      "keywords": [
+        "Physik Instrumente",
+        "HQ relocation",
+        "motion control",
+        "nanopositioning",
+        "photonics",
+        "metrology"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 3,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-11-04T17:05:00.000Z"
+    },
+    {
+      "title": "Igus Opens Lead Screw Plant in Rhode Island",
+      "link": "https://www.assemblymag.com/articles/99639-igus-opens-first-lead-screw-manufacturing-facility-in-rhode-island",
+      "author": null,
+      "thumbnail": "https://www.assemblymag.com/ext/resources/2025/10/igus-factory-900.webp?t=1762280540",
+      "summary": "- Igus opened a 110,000-square-foot facility in East Providence, RI to manufacture *lead screws*, with production slated to start in 2026.\n- The plant, Dryspin’s first outside Germany, will enable *in-house machining* and strengthen domestic supply chains to shorten lead times for **North American customers**.\n- According to Matt Mowry, moving production under their own roof provides better control of the value stream and improved service for **North American customers**.",
+      "keywords": [
+        "lead screws",
+        "dryspin",
+        "domestic manufacturing",
+        "Rhode Island",
+        "Igus",
+        "supply chain"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-11-04T17:00:00.000Z"
+    },
+    {
       "0": "{",
       "1": "\n",
       "2": " ",
@@ -5552,38 +5596,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-10-02T13:00:00.000Z"
-    },
-    {
-      "title": "Robots Handle Deformable Objects With Humanlike Dexterity",
-      "link": "https://www.assemblymag.com/articles/99585-robots-handle-deformable-objects-with-humanlike-dexterity",
-      "author": "webera@bnpmedia.com (Austin Weber)",
-      "thumbnail": "https://www.assemblymag.com/ext/resources/issues2/2025/10-oct/asb1025lines3-forweb.webp?t=1759248805",
-      "summary": "- KAIST developed *INR‑DOM*, an *implicit neural representation* that reconstructs full 3D shapes of deformable objects from partial views, enabling robots to *imagine* unseen parts.\n- A two-stage framework combining *reinforcement learning* and *contrastive learning* lets robots learn tasks (rubber-ring insertion, O‑ring installation, untying) with much higher success.\n- This advances automated *cable/wire harness* assembly by addressing self-occlusion and the infinite degrees of freedom of flexible-object handling.",
-      "keywords": [
-        "deformable-objects",
-        "implicit-neural-representation",
-        "robotics",
-        "reinforcement-learning",
-        "wire-harness",
-        "manipulation"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 7,
-        "novelty": 8,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-10-01T13:00:00.000Z"
-    },
-    {
-      "title": "2025 Assembly Plant of the Year: Deere Leaps Ahead With 5G Connectivity",
-      "link": "https://www.assemblymag.com/articles/99571-2025-assembly-plant-of-the-year-deere-leaps-ahead-with-5g-connectivity",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-10-01T13:00:00.000Z"
     }
   ]
 }
