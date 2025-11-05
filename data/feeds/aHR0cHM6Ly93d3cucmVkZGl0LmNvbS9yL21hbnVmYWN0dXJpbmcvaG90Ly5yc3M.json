@@ -5,6 +5,29 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Building tools for everyday manufacturing problems",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1opaoao/if_you_could_build_an_applicationtool_for_even/",
+      "author": "/u/ruputpalpaul",
+      "thumbnail": null,
+      "summary": "- In the *manufacturing world*, the author asks what *day-to-day problems* lack good **software solutions** today.\n- If you had a team of **Class A coders**, what tool would you want to automate or improve your process?\n- The goal is to identify high-**impact** problems that *software* could meaningfully solve.",
+      "keywords": [
+        "manufacturing",
+        "software",
+        "automation",
+        "workflows",
+        "productivity",
+        "problem-solving",
+        "tools"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-11-05T18:20:19.000Z"
+    },
+    {
       "title": "Help choosing my new hire offer as an EE grad",
       "link": "https://www.reddit.com/r/manufacturing/comments/1op8p7j/help_choosing_my_new_hire_offer_as_a_ee_graduate/",
       "author": "/u/negrito_ardilla",
@@ -2001,27 +2024,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-10-29T00:36:27.000Z"
-    },
-    {
-      "title": "Duck down ratings: China vs International",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1oiouno/duck_down_ratings_china_vs_international_ie_usuk/",
-      "author": "/u/GoblinRaeyn",
-      "thumbnail": null,
-      "summary": "- The post asks for help converting Chinese duck down specs to international metrics, specifically *cubic inches fill power* and fill weight, for US/UK/EU buyers, noting 90/10 down/feather, 17.5 cm fill power, and 500 mm turbidity. \n- They believe those ratings are best and suitable for -10°C/14°F if GB/T-10288-2016 is used, and link to downplus for a comparison chart that omits cubic inches. \n- They’re seeking guidance to reduce customer questions by providing this upfront and request sources.",
-      "keywords": [
-        "duck down",
-        "fill power",
-        "GB/T-10288-2016",
-        "textiles",
-        "standards"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 6,
-        "novelty": 4,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-10-28T23:21:47.000Z"
     }
   ]
 }
