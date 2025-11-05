@@ -5,6 +5,29 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Guidance on drilling holes in HDPE",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1opdf8f/need_some_guidance/",
+      "author": "/u/Beaver-Butter",
+      "thumbnail": null,
+      "summary": "- The thread suggests milling options—*endmills*, *milling*, or *annular cutters*—instead of conventional drilling for HDPE.\n- Starting stock matters: unless you begin with a block with flat faces, you can't drill a half-round part without a jig.\n- For fast, repeatable holes, use milling setups and proper fixturing; if you must drill, consider starting with block stock and dedicated fixturing.",
+      "keywords": [
+        "HDPE",
+        "drilling",
+        "machining",
+        "half-round",
+        "holes",
+        "jigs",
+        "fixturing"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 4,
+        "novelty": 3,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-11-05T19:59:38.000Z"
+    },
+    {
       "title": "Extensive Database Search",
       "link": "https://www.reddit.com/r/manufacturing/comments/1opb2en/extensive_database_search/",
       "author": "/u/ImportanceOwn1972",
@@ -2004,28 +2027,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-10-29T13:33:05.000Z"
-    },
-    {
-      "title": "Why is prototyping in Europe so expensive compared to China?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1oiznz9/why_is_prototyping_in_europe_so_expensive/",
-      "author": "/u/fabiomolinar",
-      "thumbnail": null,
-      "summary": "- The post asks why prototyping in Europe costs more than in China and links to a Reddit discussion by /u/fabiomolinar.\n- Suggested cost drivers include *labor costs*, *regulatory compliance*, and *infrastructure/supply-chain scale* that raise European prototyping prices.\n- The discussion aims to identify ways Europe can reduce prototyping costs or justify the premium with advantages like **quality** and **speed**.",
-      "keywords": [
-        "Europe",
-        "China",
-        "prototyping",
-        "manufacturing-costs",
-        "offshoring",
-        "Reddit"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 6,
-        "novelty": 4,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-10-29T09:13:01.000Z"
     }
   ]
 }
