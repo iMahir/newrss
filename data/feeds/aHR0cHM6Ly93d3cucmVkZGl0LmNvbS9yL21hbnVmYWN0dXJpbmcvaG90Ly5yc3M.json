@@ -5,6 +5,29 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Extensive Database Search",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1opb2en/extensive_database_search/",
+      "author": "/u/ImportanceOwn1972",
+      "thumbnail": null,
+      "summary": "- The original post asks if there is a global *database* listing common *machines* and their *components*, from toasters to car engines (a potential *parts tree*).\n- A commenter says you could obtain a *parts tree* by asking any *AI model*.\n- Other replies question the *need* and *use* of such data and discuss its *practicality* and implications.",
+      "keywords": [
+        "database",
+        "machines",
+        "components",
+        "parts tree",
+        "artificial intelligence",
+        "manufacturing",
+        "toasters"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 3,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-11-05T18:34:10.000Z"
+    },
+    {
       "title": "Building tools for everyday manufacturing problems",
       "link": "https://www.reddit.com/r/manufacturing/comments/1opaoao/if_you_could_build_an_applicationtool_for_even/",
       "author": "/u/ruputpalpaul",
@@ -2003,27 +2026,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-10-29T09:13:01.000Z"
-    },
-    {
-      "title": "Abundance, greed, and the ask: simple field software?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1oiqkm1/abundance_greed_and_the_ask_can_simple_software/",
-      "author": "/u/Soggy-Cash592",
-      "thumbnail": null,
-      "summary": "- *Industrial software* is often overpriced and bloated, hindering simple tasks like CSV transformation and data movement.\n- People suggest affordable or no-code tools (e.g., **n8n** or lightweight scripts) and making a robust, practitioner-designed product you can sell or share.\n- The discussion highlights market realities in manufacturing software—small markets, inertia, high reliability expectations, and the push for *production-grade*, affordable solutions.",
-      "keywords": [
-        "manufacturing",
-        "industrial-software",
-        "no-code",
-        "automation",
-        "cost"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 4,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-10-29T00:36:27.000Z"
     }
   ]
 }
