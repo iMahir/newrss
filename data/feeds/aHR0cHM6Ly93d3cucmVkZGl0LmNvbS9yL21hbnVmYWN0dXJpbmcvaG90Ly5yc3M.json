@@ -5,6 +5,27 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Toyota manufacturing in Ontario outlook",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1opymje/toyota_manufacturing_ontario/",
+      "author": "/u/chelseasn_",
+      "thumbnail": null,
+      "summary": "- *Toyota*'s outlook in Canada appears stable; moving out of *Ontario* is unlikely due to commitment to the region, its suppliers and workers.\n- *Japanese OEMs* like **Toyota** or **Honda** are generally considered unlikely to relocate soon because of strong regional commitments.\n- Some mentions of model cycles and politics exist, but the overall view is long-term stability in *Ontario*.",
+      "keywords": [
+        "Toyota",
+        "Ontario",
+        "Canada manufacturing",
+        "Japanese OEMs",
+        "supply chain"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-11-06T13:15:56.000Z"
+    },
+    {
       "title": "Key factors for reliable valve manufacturers",
       "link": "https://www.reddit.com/r/manufacturing/comments/1ops2wc/what_key_factors_determine_a_reliable_valve/",
       "author": "/u/Busy_Meal9385",
@@ -2048,29 +2069,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-10-30T13:21:36.000Z"
-    },
-    {
-      "title": "Resources for learning material flow optimization",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1ojz7o1/resources_for_learning_about_optimizing_material/",
-      "author": "/u/DisposableAdventurer",
-      "thumbnail": null,
-      "summary": "- The post asks for free or affordable resources to learn concepts and techniques for optimizing material flow in an automotive manufacturing facility.\n- A few replies point to *queueing theory* as a core modeling approach, and suggest reading *The Goal* (audiobook or print) for practical insight.\n- Participants express intent to explore these resources and take next steps to study queueing theory and related materials.",
-      "keywords": [
-        "material flow",
-        "manufacturing",
-        "queueing theory",
-        "operations research",
-        "The Goal",
-        "lean manufacturing",
-        "supply chain"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 4,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-10-30T13:07:27.000Z"
     }
   ]
 }
