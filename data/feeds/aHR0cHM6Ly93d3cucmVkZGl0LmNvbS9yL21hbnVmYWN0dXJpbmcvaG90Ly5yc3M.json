@@ -5,6 +5,27 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Workers won't read safety data sheets",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1ouh2js/workers_wont_read_safety_data_sheets_and_idk_what/",
+      "author": "/u/Fabulous191",
+      "thumbnail": null,
+      "summary": "- The crew of 14 maintenance workers *don’t read* long SDSs, risking chemical hazards.\n- A near-miss with incompatible chemicals shows SDSs on the floor are **unrealistic**.\n- They want *color codes* or pictographs to better communicate hazards.",
+      "keywords": [
+        "SDS",
+        "Safety",
+        "HazardCommunication",
+        "ChemicalHazards",
+        "WorkplaceSafety"
+      ],
+      "scores": {
+        "scale": 3,
+        "impact": 6,
+        "novelty": 3,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-11-11T18:21:48.000Z"
+    },
+    {
       "title": "Our factory IoT devices needed to work when internet went down",
       "link": "https://www.reddit.com/r/manufacturing/comments/1oudpw3/our_factory_iot_devices_needed_to_work_when/",
       "author": null,
@@ -2004,27 +2025,6 @@
         "longTermSignificance": 2
       },
       "pubDate": "2025-11-02T20:02:05.000Z"
-    },
-    {
-      "title": "How is this part manufactured?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1omphrn/any_idea_how_this_part_is_made/",
-      "author": "/u/F6Collections",
-      "thumbnail": null,
-      "summary": "- The post asks how the pictured part is made, noting a neighbor doubts stamping due to geometry and cost.\n- Several commenters hint at *die casting* as a plausible method.\n- Others propose *Metal Injection Molding (MIM)* for high precision and good surface finish, which could beat stamping or die casting.",
-      "keywords": [
-        "manufacturing",
-        "die casting",
-        "MIM",
-        "stamping",
-        "part design"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 4,
-        "novelty": 3,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-11-02T18:53:10.000Z"
     }
   ]
 }
