@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Is there a 3D printing POD service like Printful?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1oujef7/is_there_a_print_on_demand_service_for_3d/",
+      "author": "/u/That_Car_Dude_Aus",
+      "thumbnail": null,
+      "summary": "- There isn’t a widely adopted *POD* service for 3D printing like Printful; options include local *maker spaces* and libraries that provide access to printers. \n- Some discussions mention API-based *fulfilment* where a provider processes orders via API and handles printing/shipping. \n- Maker spaces typically require membership or pay-per-use, and in *Australia* libraries and community colleges can be helpful starting points.",
+      "keywords": [
+        "3D printing",
+        "print on demand",
+        "fulfilment",
+        "maker spaces",
+        "libraries",
+        "Australia"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 4,
+        "novelty": 3,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-11-11T19:46:34.000Z"
+    },
+    {
       "title": "Identify these metal ejection trays",
       "link": "https://www.reddit.com/r/manufacturing/comments/1ouiik3/can_someone_identify_these/",
       "author": "/u/reallycoolmonkey",
@@ -2001,29 +2023,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-11-03T01:58:10.000Z"
-    },
-    {
-      "title": "Advance visibility into commodity prices",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1omuxag/how_do_procurement_teams_get_advance_visibility/",
-      "author": "/u/gianlucazar",
-      "thumbnail": null,
-      "summary": "- *Data sources* used to monitor price changes include supplier updates, broker reports, internal dashboards, and public indices.\n- *Obstacles* to forecasting, contracting, and budgeting in volatile markets include data gaps and misaligned processes.\n- The main *pain point* is lack of timely data, *manual workflows*, and limited stakeholder visibility, with calls for practical, *data-driven* examples.",
-      "keywords": [
-        "procurement",
-        "commodity-price",
-        "visibility",
-        "data-driven",
-        "forecasting",
-        "risk-management",
-        "sourcing"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-11-02T22:29:17.000Z"
     }
   ]
 }
