@@ -5,6 +5,52 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "RFID, barcodes, BLE",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1owd4o4/rfid_barcodes_ble/",
+      "author": "/u/JellyfishCreepy5913",
+      "thumbnail": null,
+      "summary": "- I’m new to *lean manufacturing* and need practical ways to track parts from raw material through machining to assembly and know their exact location in the building.\n- I’ve looked into *RFID*, *barcodes*, and *BLE* but can’t find a solid starting point or a scalable solution approach for *inventory visibility*.\n- Any guidance on building a real-world, *scalable* parts-tracking system that delivers accurate location data would be greatly appreciated.",
+      "keywords": [
+        "inventory management",
+        "RFID",
+        "barcodes",
+        "BLE",
+        "lean manufacturing",
+        "parts tracking",
+        "asset tracking"
+      ],
+      "scores": {
+        "scale": 4,
+        "impact": 7,
+        "novelty": 3,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-11-13T21:11:22.000Z"
+    },
+    {
+      "title": "How are you handling skill gaps on the shop floor lately?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1owbwbv/how_are_you_handling_skill_gaps_on_the_shop_floor/",
+      "author": "/u/OneLumpy3097",
+      "thumbnail": null,
+      "summary": "- The thread highlights *skill gaps* on the shop floor and weighs options like *internal training*, automation, and ongoing hiring, especially for smaller facilities. \n- It notes that competitive *pay* and benefits attract qualified workers, while gatekeeping and outsourcing can hinder growth. \n- A common call is to invest in mentorship and *lifelong learning* to lift overall capability and reduce reliance on external hires.",
+      "keywords": [
+        "manufacturing",
+        "skill gaps",
+        "training",
+        "automation",
+        "gatekeeping",
+        "outsourcing",
+        "workforce development"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-11-13T20:23:36.000Z"
+    },
+    {
       "title": "Speeding up cube assembly: ideas and limits",
       "link": "https://www.reddit.com/r/manufacturing/comments/1ow61hm/i_need_to_speed_up_assembly_any_ideas_how/",
       "author": "/u/hokyarahahaimeresath",
@@ -967,49 +1013,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-11-04T18:41:18.000Z"
-    },
-    {
-      "title": "Secrecy in Specialized Packaging--Manufacturing",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1ooegbe/secrecy_in_specialized_packagingmanufacturing/",
-      "author": "/u/Special-Tap-3187",
-      "thumbnail": null,
-      "summary": "- *Secrecy* in specialized packaging frustrates many, especially when a facility saves a client $2M annually but keeps the solution off the website. - They say 'We don't want competitors copying us,' yet this secrecy makes them nearly invisible online, hindering discovery by potential buyers and even their own sales team. - With AI search on the rise, more transparent, detailed packaging solutions could be *found more easily* than generic 'we do packaging' sites, raising questions about the visibility–secrecy balance.",
-      "keywords": [
-        "packaging",
-        "secrecy",
-        "visibility",
-        "sales",
-        "AI-search",
-        "IP"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 6,
-        "novelty": 4,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-11-04T18:06:03.000Z"
-    },
-    {
-      "title": "Help identifying grease fitting?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1oodbu4/help_identifying_grease_fitting/",
-      "author": "/u/Useful-Implement-116",
-      "thumbnail": null,
-      "summary": "- The post asks to identify a *grease fitting* visible to the *left of the orange sticker*, with a reference to a standard fitting to the right of the *ball screw* in the second image.\n- It links to a Reddit gallery and thread in r/manufacturing for crowd-sourced identification.\n- The context is mechanical assembly hardware identification, seeking help for a specific component.",
-      "keywords": [
-        "grease fitting",
-        "machinery",
-        "ball screw",
-        "hardware identification",
-        "manufacturing"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 4,
-        "novelty": 3,
-        "longTermSignificance": 3
-      },
-      "pubDate": "2025-11-04T17:25:08.000Z"
     }
   ]
 }
