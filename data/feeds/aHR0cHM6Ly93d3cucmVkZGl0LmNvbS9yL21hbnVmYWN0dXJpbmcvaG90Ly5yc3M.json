@@ -5,6 +5,29 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Speeding up cube assembly: ideas and limits",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1ow61hm/i_need_to_speed_up_assembly_any_ideas_how/",
+      "author": "/u/hokyarahahaimeresath",
+      "thumbnail": null,
+      "summary": "- The task involves a 6 mm cavity where magnets and foam are inserted, capped and taped, taking ~5 minutes per cube for thousands. \n- Suggestions include adding more hands or a two-person flow to form an assembly line, plus exploring faster insertion methods and **ergonomics** and **standardization** to reduce motion. \n- Without seeing the process, it's hard to propose fixes, and the **6 mm cavity** constrains approaches like a plunger, so any gains depend on setup and *repeatability* for future monthly runs.",
+      "keywords": [
+        "manufacturing",
+        "assembly",
+        "ergonomics",
+        "process-improvement",
+        "time-saving",
+        "lean",
+        "automation-ideas"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 6,
+        "novelty": 3,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-11-13T16:45:28.000Z"
+    },
+    {
       "title": "PFAS exemptions under TSCA 8(a)(7): good news or fix?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1ow2q0h/pfas_exemptions_under_tsca_8a7_good_news_or/",
       "author": "/u/IndependenceOwn3576",
@@ -987,28 +1010,6 @@
         "longTermSignificance": 3
       },
       "pubDate": "2025-11-04T17:25:08.000Z"
-    },
-    {
-      "title": "Production Routing Cards/Software",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1oo95p4/production_routing_cardssoftware/",
-      "author": "/u/lasttimer55",
-      "thumbnail": null,
-      "summary": "- *Small UK wood products business* with ~150 production lines relies on *whiteboards* and post-its instead of formal data on the shop floor.\n- They built an *AI-based app* to create cutting lists and SOPs but adoption was low, realizing a need for *routing cards* that move with the work and show what to do next.\n- They seek examples of how others use *routing cards* in manufacturing to provide *visual cues* and scalable information as they grow.",
-      "keywords": [
-        "production",
-        "routing cards",
-        "shopfloor",
-        "manufacturing",
-        "workflow",
-        "lean"
-      ],
-      "scores": {
-        "scale": 4,
-        "impact": 4,
-        "novelty": 5,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-11-04T14:50:57.000Z"
     }
   ]
 }
