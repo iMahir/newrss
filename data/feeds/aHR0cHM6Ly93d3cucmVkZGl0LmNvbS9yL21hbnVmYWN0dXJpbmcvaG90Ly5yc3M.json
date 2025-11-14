@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Metal stamping AI for die crash prediction: trial run",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1ox1mhj/metal_stamping_ai_startup_for_die_crash/",
+      "author": "/u/Skid-Vicious",
+      "thumbnail": null,
+      "summary": "- *AI startup* offers a cost-free trial to predict die crashes with a PLC‑inline box for real-world data.\n- After *2–3 weeks* of data, they aim for a live rollout with green/yellow/red alerts warning of an impending die crash.\n- A commenter asks about required *training data*, *PLC data* collected, and the target stamping press.",
+      "keywords": [
+        "metal stamping",
+        "AI",
+        "die crash prediction",
+        "PLC integration",
+        "data collection",
+        "manufacturing startup"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-11-14T16:44:59.000Z"
+    },
+    {
       "title": "Need a mesh fabric/bag as an over spray shield",
       "link": "https://www.reddit.com/r/manufacturing/comments/1owz4nn/need_a_mesh_fabricbag_as_an_over_spray_shield/",
       "author": "/u/TemperReformanda",
@@ -938,29 +960,6 @@
         "longTermSignificance": 6
       },
       "pubDate": "2025-11-05T21:25:16.000Z"
-    },
-    {
-      "title": "Guidance on drilling holes in HDPE",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1opdf8f/need_some_guidance/",
-      "author": "/u/Beaver-Butter",
-      "thumbnail": null,
-      "summary": "- The thread suggests milling options—*endmills*, *milling*, or *annular cutters*—instead of conventional drilling for HDPE.\n- Starting stock matters: unless you begin with a block with flat faces, you can't drill a half-round part without a jig.\n- For fast, repeatable holes, use milling setups and proper fixturing; if you must drill, consider starting with block stock and dedicated fixturing.",
-      "keywords": [
-        "HDPE",
-        "drilling",
-        "machining",
-        "half-round",
-        "holes",
-        "jigs",
-        "fixturing"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 4,
-        "novelty": 3,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-11-05T19:59:38.000Z"
     }
   ]
 }
