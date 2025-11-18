@@ -5,6 +5,27 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "What is this mechanism called?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1p08d5z/what_is_this_mechanism_called/",
+      "author": "/u/GRIDS_Philippines",
+      "thumbnail": null,
+      "summary": "- The described connection resembles a **snap-fit** or *retaining clip* used for *tool-less panel connection*. \n- Common terms include **snap-fit**, *retaining clip*, or clip-in fastener seen in remotes and enclosures. \n- To obtain precise advice, please share dimensions, materials, tolerances, quantity, and a sketch or drawing.",
+      "keywords": [
+        "snap-fit",
+        "retaining clip",
+        "panel connection",
+        "mechanical design",
+        "tool-less assembly"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 3,
+        "novelty": 3,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-11-18T10:20:58.000Z"
+    },
+    {
       "title": "Help: Advent calendar chocolate box manufacturing",
       "link": "https://www.reddit.com/r/manufacturing/comments/1p02hky/need_help_manufacturing_my_chocolate_box/",
       "author": "/u/Remote_Stay3965",
@@ -3394,28 +3415,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-11-10T22:28:31.000Z"
-    },
-    {
-      "title": "Do we think 3D printing will change the world?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1othbpy/do_we_think_3d_printing_will_change_the_world/",
-      "author": "/u/2_Supply_Chainz",
-      "thumbnail": null,
-      "summary": "- *3D printing* is excellent for prototyping and quick tooling concepts, but not a universal substitute for mass production.\n- It shines in *high-mix, low-volume* work and for *customized* parts, fixtures, and tooling due to rapid iteration.\n- For broad, scalable manufacturing, it faces limits in speed and cost, so its impact is meaningful but largely niche rather than world-changing.",
-      "keywords": [
-        "3D printing",
-        "additive manufacturing",
-        "prototyping",
-        "manufacturing",
-        "tooling",
-        "fixtures"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 4,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-11-10T15:50:23.000Z"
     }
   ]
 }
