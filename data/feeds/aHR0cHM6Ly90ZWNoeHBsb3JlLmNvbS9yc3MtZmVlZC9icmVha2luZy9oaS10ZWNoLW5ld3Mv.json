@@ -5,6 +5,28 @@
   "feedUrl": "https://techxplore.com/rss-feed/breaking/hi-tech-news/",
   "items": [
     {
+      "title": "Bot verification screen (UI flow)",
+      "link": null,
+      "author": null,
+      "thumbnail": null,
+      "summary": "- The snippet shows a bot verification flow with messages like *\"Verifying that you are not a bot\"* and *\"Verifying your browser...\"*. - It ends with a *\"Verification Complete\"* header and a note that the page will redirect soon. - This is a security UI, not article content.",
+      "keywords": [
+        "verification",
+        "bot-check",
+        "web-security",
+        "captcha",
+        "UI-flow",
+        "redirect"
+      ],
+      "scores": {
+        "scale": 1,
+        "impact": 1,
+        "novelty": 1,
+        "longTermSignificance": 1
+      },
+      "pubDate": "2025-11-19T20:10:07.000Z"
+    },
+    {
       "0": "{",
       "1": "\n",
       "2": " ",
@@ -1398,16 +1420,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-10-23T15:32:04.000Z"
-    },
-    {
-      "title": "Novel carbon nanotube-based transistors reach THz frequencies",
-      "link": "https://techxplore.com/news/2025-10-carbon-nanotube-based-transistors-thz.html",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-10-23T10:30:01.000Z"
     }
   ]
 }
