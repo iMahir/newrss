@@ -5,6 +5,51 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "How to improve quality?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1p0tua6/how_to_improve_quality/",
+      "author": "/u/Important_Pound669",
+      "thumbnail": null,
+      "summary": "- The author is a QC manager with 17 years as a machinist, mostly manual and some *CNC*, now leading about 20 staff and holding an *ASQ* cert.\n- They want to revamp the entire *quality program* and are asking for guidance on which *skills* to develop to make that happen.\n- They acknowledge long-standing quality struggles and being preoccupied with learning the new company, seeking practical, actionable improvements.",
+      "keywords": [
+        "quality",
+        "QC",
+        "manufacturing",
+        "process-improvement",
+        "ASQ",
+        "CNC"
+      ],
+      "scores": {
+        "scale": 4,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-11-19T01:08:52.000Z"
+    },
+    {
+      "title": "Prototype 8in Drone Propeller Manufacturing",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1p0rw4k/best_way_to_manufacture_high_quality_prototype_8/",
+      "author": "/u/MarsupialJeep",
+      "thumbnail": null,
+      "summary": "- The post seeks *low-volume* (~20 pcs) 8\" drone propellers, comparing *2-blade* vs *single-blade* and a plastic stronger than PC (e.g., fiber-reinforced nylon).\n- Methods include *vacuum casting*, *fiber-reinforced/resin-infused composites*, embedding fibers, plus alternatives like *glass-filled nylon* or *MJF* for small runs.\n- Commenters note practical paths: *glass-filled nylon* and fiber infusion, often via third-party casting for prototypes.",
+      "keywords": [
+        "drone-propellers",
+        "manufacturing",
+        "composites",
+        "low-volume",
+        "vacuum-casting",
+        "fiber-reinforcement",
+        "MJF"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 4,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-11-18T23:42:38.000Z"
+    },
+    {
       "title": "Optimizing Multi-SKU Orders Using Pick-to-Light Sorting Walls",
       "link": "https://www.reddit.com/r/manufacturing/comments/1p0nyoj/optimizing_multisku_orders_using_picktolight/",
       "author": "/u/Relative_West1090",
@@ -3393,37 +3438,6 @@
         "longTermSignificance": 3
       },
       "pubDate": "2025-11-11T19:13:16.000Z"
-    },
-    {
-      "title": "Workers won't read safety data sheets",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1ouh2js/workers_wont_read_safety_data_sheets_and_idk_what/",
-      "author": "/u/Fabulous191",
-      "thumbnail": null,
-      "summary": "- The crew of 14 maintenance workers *don’t read* long SDSs, risking chemical hazards.\n- A near-miss with incompatible chemicals shows SDSs on the floor are **unrealistic**.\n- They want *color codes* or pictographs to better communicate hazards.",
-      "keywords": [
-        "SDS",
-        "Safety",
-        "HazardCommunication",
-        "ChemicalHazards",
-        "WorkplaceSafety"
-      ],
-      "scores": {
-        "scale": 3,
-        "impact": 6,
-        "novelty": 3,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-11-11T18:21:48.000Z"
-    },
-    {
-      "title": "Our factory IoT devices needed to work when internet went down",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1oudpw3/our_factory_iot_devices_needed_to_work_when/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-11-11T16:19:25.000Z"
     }
   ]
 }
