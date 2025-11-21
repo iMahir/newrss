@@ -5,6 +5,39 @@
   "feedUrl": "https://feedmaker.fly.dev/feed/?url=https%3A%2F%2Fdst.gov.in%2Fst-articles&feed_title=S%26T+Articles+%7C+Department+Of+Science+%26+Technology&selector_item=.field-content+ol+li&selector_title=a&selector_description=&selector_link=a%5Bhref%5D",
   "items": [
     {
+      "title": "Tracing chaotic motion in wormlike fluids",
+      "link": "https://dst.gov.in/scientists-trace-chaotic-movements-through-fluids-polymer-solution-gel-useful-oil-cosmetic-industry",
+      "author": "Raman Research Institute researchers",
+      "thumbnail": null,
+      "summary": "- A *custom rheometer setup* revealed how *wormlike micellar fluids* respond to a moving probe, linking microstructure to dynamics.\n- At low speeds the force is Newtonian‑like; above a threshold it shows a sawtooth pattern with a wake that detaches.\n- The work highlights local structure controls in probe motion and has potential for oil and cosmetics industries; published in the Journal of Rheology.",
+      "keywords": [
+        "wormlike micellar fluids",
+        "non-Newtonian fluids",
+        "rheology",
+        "probe motion",
+        "wake",
+        "microscale dynamics",
+        "oil cosmetics"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 7,
+        "novelty": 9,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-11-21T13:26:27.932Z"
+    },
+    {
+      "title": "Simulations decode rare twin radio galaxies twisting in space",
+      "link": "https://dst.gov.in/simulations-decode-rare-twin-radio-galaxies-twisting-space",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-11-21T13:26:27.932Z"
+    },
+    {
       "0": "{",
       "1": "\n",
       "2": " ",
@@ -2069,42 +2102,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-08-27T01:15:58.278Z"
-    },
-    {
-      "title": "A new window into the stars by modeling stellar atmosphere",
-      "link": "https://dst.gov.in/new-window-stars-modeling-stellar-atmosphere",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- *Researchers have advanced* computational models to simulate *stellar atmospheres* more realistically, capturing their chaotic nature.\n- The new *FNLTE approach* solves complex equations, revealing significant *deviations* from traditional models, especially near star surfaces.\n- This breakthrough enables *more accurate* interpretation of stellar spectra, aiding in the study of *star properties, circumstellar disks,* and the search for *Earth-like exoplanets*.",
-      "keywords": [
-        "astrophysics",
-        "stellar atmospheres",
-        "FNLTE modeling",
-        "spectroscopy",
-        "astrophysics advancements"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 9,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-08-27T01:15:58.278Z"
-    },
-    {
-      "title": "Smart Materials for Energy-Efficient Windows",
-      "link": "https://dst.gov.in/crafting-smart-materials-tiny-flakes-and-material-design-impact-energy-saving-technologies",
-      "author": null,
-      "thumbnail": null,
-      "summary": "*Scientists develop *smart windows* using Polymer Network Liquid Crystals (PNLCs) with tiny *hexagonal boron nitride (h-BN) flakes*.\n- These nanomaterials *enhance infrared (IR) light scattering*, reducing heat entry and lowering air conditioning load.\n- Scaled-up versions could enable *energy-efficient heat management*, significantly impacting *building cooling technologies*.\n\n**Keywords:** smart windows, nanomaterials, energy saving, infrared control, polymer liquid crystals",
-      "keywords": [],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 9,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-08-21T14:17:11.964Z"
     }
   ]
 }
