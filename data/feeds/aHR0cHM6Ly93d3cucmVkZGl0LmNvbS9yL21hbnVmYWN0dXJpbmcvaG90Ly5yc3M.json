@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Mochi Factory In EU?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1p6fdpb/mochi_factory_in_eu/",
+      "author": "/u/Encyanix",
+      "thumbnail": null,
+      "summary": "- The post asks if there is a *mochi factory* in **Europe** that offers sales with *custom branded packaging*. - It seeks recommendations for European manufacturers or suppliers who provide private-label/mochi production. - The post, by /u/Encyanix on /r/manufacturing, links to the discussion thread.",
+      "keywords": [
+        "mochi",
+        "Europe",
+        "private label",
+        "packaging",
+        "manufacturing",
+        "suppliers"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 5,
+        "novelty": 3,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-11-25T15:29:32.000Z"
+    },
+    {
       "title": "Stamping Plant Die Storage",
       "link": "https://www.reddit.com/r/manufacturing/comments/1p6cobx/stamping_plant_die_storage/",
       "author": "/u/BleepBloopRobotA",
@@ -5241,28 +5263,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-11-18T04:23:44.000Z"
-    },
-    {
-      "title": "How do shops handle quoting? Is Excel chaos normal?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1p01y7t/how_do_your_shop_handle_quoting_is_excel_chaos/",
-      "author": "/u/maxxis3",
-      "thumbnail": null,
-      "summary": "- The author highlights the pain of chaotic quoting spreadsheets in manufacturing, with multi-tab *Excel* workbooks and hidden logic.\\n- The idea is to audit the *RFQ* calculator and quote templates, then rebuild a clean, maintainable version (possibly with a small *dashboard*) after validating what works.\\n- A commenter confirms the need exists, noting that similar work is already happening in construction.",
-      "keywords": [
-        "manufacturing",
-        "quoting",
-        "RFQ",
-        "Excel",
-        "process-improvement",
-        "digital-tools"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 7,
-        "novelty": 4,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-11-18T03:56:24.000Z"
     }
   ]
 }
