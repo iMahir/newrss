@@ -5,6 +5,28 @@
   "feedUrl": "https://techxplore.com/rss-feed/breaking/hi-tech-news/",
   "items": [
     {
+      "title": "Soft robots harvest ambient heat for self-sustained motion",
+      "link": "https://techxplore.com/news/2025-11-soft-robots-harvest-ambient-sustained.html",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- The page presents a *verification* flow with a shield icon and the messages **Verifying that you are not a bot** and **Verifying your browser...**.\n- A second screen shows a successful state with a checkmark and the text **Verification Complete**, and indicates a *redirect* that will occur shortly.\n- The HTML structure uses IDs like *readability-page-1*, *verificationScreen*, and *successScreen* to toggle between the two UI states.",
+      "keywords": [
+        "verification",
+        "bot-check",
+        "webpage",
+        "redirect",
+        "success",
+        "UI"
+      ],
+      "scores": {
+        "scale": 2,
+        "impact": 2,
+        "novelty": 1,
+        "longTermSignificance": 1
+      },
+      "pubDate": "2025-11-25T11:50:01.000Z"
+    },
+    {
       "title": "Ferroelectric fluids power electrostatic actuators",
       "link": "https://techxplore.com/news/2025-11-polarization-motion-ferroelectric-fluids-redefine.html",
       "author": null,
@@ -1421,16 +1443,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-10-27T10:00:04.000Z"
-    },
-    {
-      "title": "DeepMind introduces AI agent that learns to complete various tasks in a scalable world model",
-      "link": "https://techxplore.com/news/2025-10-deepmind-ai-agent-tasks-scalable.html",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-10-25T10:40:02.000Z"
     }
   ]
 }
