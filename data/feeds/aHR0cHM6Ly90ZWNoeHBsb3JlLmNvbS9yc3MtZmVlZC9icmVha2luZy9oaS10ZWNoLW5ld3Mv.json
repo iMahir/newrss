@@ -5,6 +5,27 @@
   "feedUrl": "https://techxplore.com/rss-feed/breaking/hi-tech-news/",
   "items": [
     {
+      "title": "Verification Screen Snippet",
+      "link": null,
+      "author": null,
+      "thumbnail": null,
+      "summary": "- The page presents a *bot-verification flow* with a status message that reads *'Verifying that you are not a bot'* and *'Verifying your browser...'*. - It transitions to a *success screen* showing *'Verification Complete'* and *'This page will redirect in a moment...'*. - This snippet illustrates a common *anti-bot check* that triggers an automatic *redirect* after completion.",
+      "keywords": [
+        "bot-detection",
+        "verification",
+        "webpage",
+        "anti-bot",
+        "redirect"
+      ],
+      "scores": {
+        "scale": 4,
+        "impact": 3,
+        "novelty": 2,
+        "longTermSignificance": 2
+      },
+      "pubDate": "2025-11-25T16:55:27.000Z"
+    },
+    {
       "title": "Soft robots harvest ambient heat for self-sustained motion",
       "link": "https://techxplore.com/news/2025-11-soft-robots-harvest-ambient-sustained.html",
       "author": null,
@@ -65,28 +86,6 @@
       "summary": null,
       "keywords": [],
       "scores": null,
-      "pubDate": "2025-11-19T20:10:07.000Z"
-    },
-    {
-      "title": "Bot verification screen (UI flow)",
-      "link": null,
-      "author": null,
-      "thumbnail": null,
-      "summary": "- The snippet shows a bot verification flow with messages like *\"Verifying that you are not a bot\"* and *\"Verifying your browser...\"*. - It ends with a *\"Verification Complete\"* header and a note that the page will redirect soon. - This is a security UI, not article content.",
-      "keywords": [
-        "verification",
-        "bot-check",
-        "web-security",
-        "captcha",
-        "UI-flow",
-        "redirect"
-      ],
-      "scores": {
-        "scale": 1,
-        "impact": 1,
-        "novelty": 1,
-        "longTermSignificance": 1
-      },
       "pubDate": "2025-11-19T20:10:07.000Z"
     },
     {

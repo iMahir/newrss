@@ -5,6 +5,27 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Conveyor design",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1p6hppv/conveyor_design/",
+      "author": "/u/Embarrassed-Bat4823",
+      "thumbnail": null,
+      "summary": "- The post describes a bottleneck on a process line where boxes must make a *right turn* and rotate *90 degrees* (about *21 lbs*, slightly bigger than a shoe box).\n- The current setup uses a *drop table*, but it is too slow; the user seeks *space-efficient* alternatives.\n- Ideas should explore faster, compact means to rotate and route boxes to improve *throughput*.",
+      "keywords": [
+        "conveyor",
+        "manufacturing",
+        "bottleneck",
+        "throughput",
+        "rotation"
+      ],
+      "scores": {
+        "scale": 4,
+        "impact": 5,
+        "novelty": 3,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-11-25T16:56:06.000Z"
+    },
+    {
       "title": "Mochi Factory In EU?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1p6fdpb/mochi_factory_in_eu/",
       "author": "/u/Encyanix",
@@ -5241,28 +5262,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-11-18T10:20:58.000Z"
-    },
-    {
-      "title": "Help: Advent calendar chocolate box manufacturing",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1p02hky/need_help_manufacturing_my_chocolate_box/",
-      "author": "/u/Remote_Stay3965",
-      "thumbnail": null,
-      "summary": "- The user wants to manufacture an *advent calendar* with an outer box and a plastic interior frame for chocolates, and asks if they need three suppliers or one. \n- They plan to manufacture in *China* and seek guidance on whether to source a chocolate manufacturer, plastic components, and packaging from separate firms or a single provider. \n- Replies suggest options range from using 3 suppliers to a full-service vendor that handles everything, depending on how much control they want.",
-      "keywords": [
-        "manufacturing",
-        "advent calendar",
-        "chocolate",
-        "China",
-        "suppliers",
-        "packaging"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 4,
-        "novelty": 3,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-11-18T04:23:44.000Z"
     }
   ]
 }
