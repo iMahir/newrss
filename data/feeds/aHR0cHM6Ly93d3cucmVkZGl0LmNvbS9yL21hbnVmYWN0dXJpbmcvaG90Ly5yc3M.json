@@ -5,6 +5,50 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Finally found a manufacturer that delivers",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1p76856/after_6_months_of_manufacturer_hell_i_finally/",
+      "author": "/u/BusyBake818",
+      "thumbnail": null,
+      "summary": "- I spent almost a year trying to launch a streetwear brand and encountered common headaches: *MOQs* over 500, samples that weren’t close to the final product, ghosting after payment, and months of delays.\\n- Then I found a manufacturer via a random LinkedIn connection who offered *actual quality fabric*, a realistic *MOQ of 50*, helped fix my tech pack, delivered in *6 weeks*, and pricing that makes sense for a startup.\\n- If you’re struggling, I’m happy to share my contact and learn how others find manufacturers—was it trial and error or is there a secret?",
+      "keywords": [
+        "manufacturing",
+        "sourcing",
+        "startup",
+        "MOQ",
+        "supply chain",
+        "LinkedIn"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 7,
+        "novelty": 4,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-11-26T12:15:35.000Z"
+    },
+    {
+      "title": "Local AI for manufacturing: STP/DWG & BOMs on RTX 5090",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1p75sn6/local_ai_for_manufacturing_analyzing_stpdwg_and/",
+      "author": "/u/inkonwhitepaper",
+      "thumbnail": null,
+      "summary": "- The post proposes an offline, local AI system on an **RTX 5090** to ingest STP/DWG CAD files, BOMs, and historical data to guide batching, cycle-time estimates, and finding similar past projects. \n- It asks for architecture guidance: should CAD be converted to text metadata for a **RAG** pipeline, or can *multimodal* models that “see” drawings work, and which vectorization libraries suit 3D/2D data? \n- It seeks open-weight model recommendations for this mix of technical reasoning and data analysis within the **RTX 5090**'s VRAM, plus CAD ingestion tools, with a reminder that humans remain central to innovation.",
+      "keywords": [
+        "local-ai",
+        "manufacturing",
+        "CAD",
+        "RAG",
+        "multimodal",
+        "production-planning"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-11-26T11:52:22.000Z"
+    },
+    {
       "title": "Best practise: mapping clauses or customer-first",
       "link": "https://www.reddit.com/r/manufacturing/comments/1p74tb1/whats_the_best_practise_mapping_clauses_or_just/",
       "author": "/u/Consistent_Wear7467",
@@ -4115,50 +4159,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-11-19T14:37:52.000Z"
-    },
-    {
-      "title": "Looking for reputable brass vendors",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1p17i0e/looking_for_reputable_brass_vendors/",
-      "author": "/u/waddle174",
-      "thumbnail": null,
-      "summary": "- I’m seeking reputable **US domestic** brass vendors, specifically for alloys like *280*/*385*, for a high-end architectural metals shop in Northeast Ohio.\n- I’ve done extensive online searching, but most vendors don’t stock or offer the alloy we use regularly.\n- Any trusted resources or vendor recommendations for this brass supply would be appreciated.",
-      "keywords": [
-        "brass",
-        "vendors",
-        "US-supply",
-        "architectural-metal",
-        "suppliers",
-        "manufacturing"
-      ],
-      "scores": {
-        "scale": 4,
-        "impact": 3,
-        "novelty": 3,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-11-19T13:20:20.000Z"
-    },
-    {
-      "title": "ERP that actually works well for manufacturing?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1p17fxp/anyone_here_using_an_erp_that_actually_works_well/",
-      "author": "/u/OneLumpy3097",
-      "thumbnail": null,
-      "summary": "- I’m evaluating ERP options like *Versa Cloud ERP*, *NetSuite*, *SAP*, *Dynamics*, and *Odoo*, and want to know how they perform on the shop floor.\n- For you using any of these, how do they handle *inventory*, *work orders*, *scheduling*, and day-to-day production?\n- I’m after real-world opinions and outcomes from manufacturing environments.",
-      "keywords": [
-        "ERP",
-        "Manufacturing",
-        "Shop floor",
-        "Inventory",
-        "Work orders",
-        "Scheduling"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 6,
-        "novelty": 3,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-11-19T13:17:51.000Z"
     }
   ]
 }
