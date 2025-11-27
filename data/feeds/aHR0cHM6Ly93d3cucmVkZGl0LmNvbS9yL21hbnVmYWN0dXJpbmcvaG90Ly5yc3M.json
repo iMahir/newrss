@@ -5,6 +5,29 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Quality control in manual assembly or packaging",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1p7y2il/quality_control_in_manual_assembly_or_packaging/",
+      "author": "/u/Mediocre-Purchase233",
+      "thumbnail": null,
+      "summary": "- *Quality control* in manual assembly/packaging uses *selective inspections*, *automated stands* with sensors, and *machine vision* with *barcode/RFID* triggers to record evidence.\n- Issues include defects missed until installation and client concerns about non-standard packaging; cameras help surface problems earlier.\n- A practical approach blends *human inspection* with automated checks, since vision alone can miss fits; sharing approaches is welcome.",
+      "keywords": [
+        "quality-control",
+        "manual-assembly",
+        "packaging",
+        "inspection",
+        "machine-vision",
+        "barcode",
+        "RFID"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-11-27T09:31:42.000Z"
+    },
+    {
       "title": "ERP that actually helps day-to-day manufacturing?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1p7bu3z/anyone_using_an_erp_that_actually_makes_day_to/",
       "author": "/u/OneLumpy3097",
@@ -4136,28 +4159,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-11-20T03:28:44.000Z"
-    },
-    {
-      "title": "Optimization of automated production lines",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1p1c6r9/optimization_of_automated_production_lines/",
-      "author": "/u/Gullible_Standard750",
-      "thumbnail": null,
-      "summary": "- *Discussion on how teams approach optimization and continuous improvement for production lines, including ROI implications.*\n- *A concrete example describes filming current lines, measuring times and costs per item, and using ROI to justify dozens of changes to the **design**, **assembly line**, and **personnel***.\n- *The main takeaway is to use data-driven, video-based reviews to drive improvements across process, equipment, and people.*",
-      "keywords": [
-        "optimization",
-        "continuous-improvement",
-        "production-lines",
-        "ROI",
-        "video-analysis",
-        "manufacturing"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 4,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-11-19T16:25:23.000Z"
     }
   ]
 }
