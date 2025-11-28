@@ -5,6 +5,74 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Quality control for manual manufacturing lines",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1p91i3r/question_quality_control_in_manufacturing_or/",
+      "author": "/u/Mediocre-Purchase233",
+      "thumbnail": null,
+      "summary": "- This post pitches a *photo capture system* for *quality control* on lines with *manual labor*, triggered by barcode or RFID and linked to a company *server/database*. \n- It asks whether to sell as *ready-made plug‑and‑play kits* or as *software-only* with remote installation and an unlimited, non‑SaaS license. \n- The author seeks input on buyer preferences and which *additional services* to offer.",
+      "keywords": [
+        "quality control",
+        "manufacturing",
+        "manual labor",
+        "barcode",
+        "RFID",
+        "on-premise",
+        "licensing"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-11-28T18:00:29.000Z"
+    },
+    {
+      "title": "Finding heat-seal coating for seed packets",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1p91504/how_do_i_find_heatseal_coating_or_heatsealable/",
+      "author": "/u/MassiveBasil9948",
+      "thumbnail": null,
+      "summary": "- The post seeks a *heat-seal coating* or heat-sealable card stock to seal seed packets with heat.\n- Based in *Canada (Toronto)*, open to online suppliers; asks for product names.\n- Looks for a *water-based heat-seal varnish* for paper and any supplier recommendations.",
+      "keywords": [
+        "seed packets",
+        "heat-seal",
+        "coating",
+        "paper",
+        "Canada",
+        "suppliers"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 4,
+        "novelty": 3,
+        "longTermSignificance": 3
+      },
+      "pubDate": "2025-11-28T17:46:15.000Z"
+    },
+    {
+      "title": "EU Injection Moulding + Logistics Cell",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1p90d62/eu_injection_moulding_logistics_cell/",
+      "author": "/u/Spiritual-Face-5444",
+      "thumbnail": null,
+      "summary": "- The post discusses two models for *injection moulding* and logistics: moulder handles manufacturing plus *pick and pack* vs moulder handles manufacturing only with external *3PLs*. \n- They wonder if locating moulding in cheaper EU regions (e.g., Czech, Poland, Lithuania) saves money after shipping to 3PLs, or if prices rise due to logistics. \n- They ask whether the *pick and pack* approach increases *delivery costs* or *lead times*, considering common couriers like DPD, DHL, GLS, etc.",
+      "keywords": [
+        "injection moulding",
+        "logistics",
+        "3PL",
+        "supply chain",
+        "EU manufacturing",
+        "lead times",
+        "couriers"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 3,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-11-28T17:15:47.000Z"
+    },
+    {
       "title": "I'll translate one page of your foreign equipment manual",
       "link": "https://www.reddit.com/r/manufacturing/comments/1p8yygd/ill_translate_one_page_of_your_foreign_equipment/",
       "author": "/u/Legal-Cartographer-2",
@@ -3132,72 +3200,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-11-20T17:47:29.000Z"
-    },
-    {
-      "title": "Appropriate for this sub: industries focus on systems",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1p29njo/appropriate_for_this_sub_considering_industries/",
-      "author": "/u/AltruisticBig5629",
-      "thumbnail": null,
-      "summary": "- This post questions whether the sub is appropriate for discussions focused on *systems* and *processes* in *industry*.\n- Authored by /u/AltruisticBig5629, it links to a manufacturing discussion and hints at alignment with the sub's focus.\n- No detailed arguments are provided in the snippet, but the topic centers on relevance and scope of the subreddit.",
-      "keywords": [
-        "reddit",
-        "manufacturing",
-        "systems",
-        "processes",
-        "subreddit",
-        "industry"
-      ],
-      "scores": {
-        "scale": 4,
-        "impact": 4,
-        "novelty": 3,
-        "longTermSignificance": 3
-      },
-      "pubDate": "2025-11-20T17:44:11.000Z"
-    },
-    {
-      "title": "DXF origin alignment in Creo",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1p251fa/create_dxf_with_origin_of_sketch_placed_at_origin/",
-      "author": "/u/Main-Combination8986",
-      "thumbnail": null,
-      "summary": "- The post discusses placing the *sketch origin* at the *DXF origin* for manufacturing in **PTC Creo**.\n- It credits the author **/u/Main-Combination8986** and links to the Reddit thread.\n- See the thread for tips on origin alignment when exporting a DXF from Creo.",
-      "keywords": [
-        "PTC Creo",
-        "DXF",
-        "origin alignment",
-        "CAD",
-        "manufacturing",
-        "export"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 4,
-        "novelty": 5,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-11-20T14:47:57.000Z"
-    },
-    {
-      "title": "Free Clock In / Out Tool for Hourly Employees",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1p23os1/free_clock_in_out_tool_for_hourly_employees/",
-      "author": "/u/UnderstandingOdd67",
-      "thumbnail": "https://b.thumbs.redditmedia.com/AgsBM50okbiPeVEOJqv3kyMxvbASBOLP6v5xwEF886E.jpg",
-      "summary": "- *Free*, **customizable** tool built for hourly workers to clock in/out, view past times, and edit entries.\n- **Admin features** include resetting pins, adding/removing employees, time reports by employee/date range, payroll view, and handling time-change requests.\n- This post highlights *DIY development* using AI tools and notes customization like a bear saying goodbye when clocking out.",
-      "keywords": [
-        "DIY software",
-        "timekeeping",
-        "hourly employees",
-        "manufacturing",
-        "AI tooling",
-        "custom software"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 4,
-        "novelty": 6,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-11-20T13:51:56.000Z"
     }
   ]
 }
