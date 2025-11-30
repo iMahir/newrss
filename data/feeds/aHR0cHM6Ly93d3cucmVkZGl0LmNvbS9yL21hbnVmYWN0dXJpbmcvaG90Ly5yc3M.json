@@ -5,6 +5,29 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Cylic Olefin Copolymer (COC) for microneedle",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pafljr/cylic_olefin_copolymer_coc_for_microneedle/",
+      "author": "/u/duki-duki",
+      "thumbnail": "https://preview.redd.it/7vfzl1fcld4g1.jpeg?width=640&crop=smart&auto=webp&s=85a5e64de12eab2f41e58a8dee6afd1d0cbc13d4",
+      "summary": "- The poster is considering using **TOPAS 8007 COC** instead of PDMS for microneedle production and asks for guidance. \n- They target a needle length around *0.59 mm*, noting the supplier's available sizes are limited. \n- They seek recommendations on how to proceed and where to source a plate in the ~0.5–1 mm range.",
+      "keywords": [
+        "microneedle",
+        "COC",
+        "TOPAS8007",
+        "PDMS",
+        "manufacturing",
+        "polymer",
+        "microfabrication"
+      ],
+      "scores": {
+        "scale": 4,
+        "impact": 5,
+        "novelty": 3,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-11-30T10:58:31.000Z"
+    },
+    {
       "title": "Is this a lathe? Shapes copper discs into vases",
       "link": "https://www.reddit.com/r/manufacturing/comments/1p9zj5p/anyone_know_if_this_is_just_a_laithe_or_what_its/",
       "author": "/u/rob_burnley",
@@ -1040,29 +1063,6 @@
         "longTermSignificance": 2
       },
       "pubDate": "2025-11-22T11:53:49.000Z"
-    },
-    {
-      "title": "Recommendations for rapid injection molding services",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1p3hvkw/looking_for_recommendations_for_best_rapid/",
-      "author": "/u/ThromokInsatiable",
-      "thumbnail": null,
-      "summary": "- The thread asks for recommendations on *rapid injection molding* companies with fast turnaround, fair pricing, and reliable *DFM* reviews for small prototype batches.\n- A commenter suggests **Protolabs** as the fastest option that doesn’t shy away from tiny batches.\n- The discussion emphasizes evaluating reliability and gathering firsthand experiences to choose a shop.",
-      "keywords": [
-        "injection-molding",
-        "rapid-prototyping",
-        "DFM",
-        "Protolabs",
-        "supplier-reviews",
-        "prototype-parts",
-        "manufacturing-sourcing"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 3,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-11-22T02:34:08.000Z"
     }
   ]
 }
