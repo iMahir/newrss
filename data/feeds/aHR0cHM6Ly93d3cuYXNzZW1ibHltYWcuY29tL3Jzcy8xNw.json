@@ -5,6 +5,38 @@
   "feedUrl": "https://www.assemblymag.com/rss/17",
   "items": [
     {
+      "title": "New Tool Controller Increases Flexibility, Improves Maintenance",
+      "link": "https://www.assemblymag.com/articles/99690-new-tool-controller-increases-flexibility-improves-maintenance",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-12-02T19:30:00.000Z"
+    },
+    {
+      "title": "Airbus Faces A Pair of A320 Quality Issues Over the Course of a Few Days",
+      "link": "https://www.assemblymag.com/articles/99691-airbus-faces-a-pair-of-a320-quality-issues-over-the-course-of-a-few-days",
+      "author": null,
+      "thumbnail": "https://www.assemblymag.com/ext/resources/Issues/2016/January/airbus/asb0116airbus5.webp?t=1451934453",
+      "summary": "- **Airbus** confirmed a new industrial quality issue affecting metal fuselage panels on a limited number of **A320**-family aircraft, impacting roughly 50 jets in *production*. \n- The issue has been *identified*, contained, and resolved for all newly manufactured panels; there is no evidence affected parts have reached in‑service aircraft. \n- The report follows a rapid **software recall** and could influence **delivery** timing, though only a portion of affected aircraft will require further action.",
+      "keywords": [
+        "Airbus",
+        "A320",
+        "quality issue",
+        "fuselage panels",
+        "delivery targets",
+        "software recall"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-12-02T19:09:17.000Z"
+    },
+    {
       "title": "Cobots May Help Autistic Adults Thrive in Manufacturing",
       "link": "https://www.assemblymag.com/articles/99685-cobots-may-enable-autistic-adults-to-thrive-in-manufacturing",
       "author": "webera@bnpmedia.com (Austin Weber)",
@@ -3180,50 +3212,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-10-29T13:04:19.000Z"
-    },
-    {
-      "title": "HOLON Opens First U.S. Facility in Jacksonville",
-      "link": "https://www.assemblymag.com/articles/99627-holon-announces-first-us-production-facility-for-autonomous-electric-shuttles",
-      "author": null,
-      "thumbnail": "https://www.assemblymag.com/ext/resources/images/HOLON-first-U.S.-production-facility.webp?t=1761680064",
-      "summary": "- **HOLON** will build a 580,000-square-foot facility at *Eastport Industrial Park* in Jacksonville, Florida, marking its first U.S. manufacturing site for autonomous shuttles.\n- Groundbreaking is scheduled for April 2026 with operations expected in the second half of 2027, and the project will generate over *$200 million* in local economic impact during construction, create more than 800 jobs (including at least 150 at **HOLON**), and deliver about *$87 million* in annual economic output starting in 2028.\n- The vehicle meets **FMVSS**, **ADA**, and **Build America, Buy America (BABA)** standards; test drives are underway in Hamburg as part of the ALIKE project; and up to 100 autonomous shuttles could be integrated into JTA’s *Ultimate Urban Circulator (U²C)* program in downtown Jacksonville and other U.S. pilots planned for 2026 and beyond.",
-      "keywords": [
-        "HOLON",
-        "autonomous shuttles",
-        "Jacksonville",
-        "U2C",
-        "public transit",
-        "BABA"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-10-28T18:38:54.000Z"
-    },
-    {
-      "title": "GrayMatter Robotics to polish transparent plastics",
-      "link": "https://www.assemblymag.com/articles/99626-start-up-to-develop-robotic-polishing-system-for-transparent-plastics",
-      "author": null,
-      "thumbnail": "https://www.assemblymag.com/ext/resources/2025/10/grey-matter-robotics.webp?t=1761584860",
-      "summary": "- The U.S. Air Force awarded GrayMatter Robotics a contract to develop an **AI-powered** robotic polishing system to reduce optical distortion in transparent acrylic and polycarbonate parts.\n- The system extends GrayMatter's existing technology that autonomously detects and corrects distortions to ensure *clear visibility* and scratch-free surfaces on aerospace components, using physics-based models for safe, accurate operation.\n- CTO Brual Shah says the platform can handle sanding complex shapes—from guitars to aerospace components—delivering unprecedented *reliability*, speed, and consistency.",
-      "keywords": [
-        "robotics",
-        "AI",
-        "aerospace",
-        "transparent-plastics",
-        "polishing",
-        "optical-distortion"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 7,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-10-27T16:00:00.000Z"
     }
   ]
 }
