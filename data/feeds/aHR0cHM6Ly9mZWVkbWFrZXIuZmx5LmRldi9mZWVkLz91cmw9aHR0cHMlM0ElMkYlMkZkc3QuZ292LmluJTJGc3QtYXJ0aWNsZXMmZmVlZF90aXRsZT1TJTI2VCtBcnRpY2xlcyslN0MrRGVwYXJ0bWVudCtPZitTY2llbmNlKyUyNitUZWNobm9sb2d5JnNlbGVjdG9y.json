@@ -5,6 +5,52 @@
   "feedUrl": "https://feedmaker.fly.dev/feed/?url=https%3A%2F%2Fdst.gov.in%2Fst-articles&feed_title=S%26T+Articles+%7C+Department+Of+Science+%26+Technology&selector_item=.field-content+ol+li&selector_title=a&selector_description=&selector_link=a%5Bhref%5D",
   "items": [
     {
+      "title": "Supercharged COPs boost clean hydrogen production",
+      "link": "https://dst.gov.in/scientists-supercharge-promising-material-catalyze-clean-hydrogen-production",
+      "author": null,
+      "thumbnail": null,
+      "summary": "- Researchers used *argon plasma* to activate coordination polymers, creating *coordinatively unsaturated metal sites (CUMSs)* and boosting *OER* activity while preserving the COPs' bulk framework. - *Ni-based COPs* and *Co-based COPs* showed significantly improved electrocatalytic performance for *water splitting*, validated by XRD, TEM, XPS and other analyses, in the journal *ACS Applied Nano Materials*. - This *noble-metal-free* strategy offers a cost-effective route to durable, efficient catalysts for sustainable hydrogen production and broader clean-energy applications.",
+      "keywords": [
+        "Coordination Polymers",
+        "OER",
+        "Water Splitting",
+        "Plasma Activation",
+        "Hydrogen Energy",
+        "Ni COPs",
+        "Co COPs"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 8,
+        "novelty": 8,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-12-02T12:38:34.211Z"
+    },
+    {
+      "title": "Kodaikanal Data Traces Solar Magnetic Activity",
+      "link": "https://dst.gov.in/kodaikanal-solar-observatory-data-helps-tracing-solar-magnetic-activity-influencing-satellite",
+      "author": "K.P. Raju, Apoorva Srinivasa, Anu Sreedevi, Narayanankutty Karuppath, P. Devendran, T. Ramesh Kumar, P. Kumaravel",
+      "thumbnail": null,
+      "summary": "- *Ca-K line data* from the Kodaikanal Solar Observatory (2015–2025) maps the *Sun's magnetic activity* across latitude bands, linking to the 11‑year cycle.\n- Activity concentrates around ~40°N/S with strongest signals near 15–20°, plus notable *north–south hemispheric differences* that correlate with magnetic features and affect space weather.\n- Findings reinforce predictable solar-cycle patterns and advance understanding of the *solar dynamo*, with outcomes relevant for satellite communication resilience.",
+      "keywords": [
+        "solar cycle",
+        "Ca-K line",
+        "Kodaikanal Observatory",
+        "solar dynamo",
+        "space weather",
+        "latitude bands",
+        "hemispheric asymmetry"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "pubDate": "2025-12-02T12:38:34.211Z"
+    },
+    {
       "title": "Genetic clues to tackle oral cancer in Indian women revealed",
       "link": "https://dst.gov.in/genetic-clues-tackle-oral-cancer-among-indian-women-revealed",
       "author": null,
@@ -3089,51 +3135,6 @@
         "longTermSignificance": 9
       },
       "pubDate": "2025-09-15T12:34:03.831Z"
-    },
-    {
-      "title": "Tug of war in gold nanoscale assembly boosts biosensors",
-      "link": "https://dst.gov.in/tug-war-gold-nanoscale-assembly-can-help-produce-better-biosensors",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- *GdnHCl* drives rapid aggregation of gold nanoparticles, but adding *L-Trp* yields looser networks via *frustrated aggregation*. \n- Using the ultra-sensitive *EW-CRDS* technique, the researchers monitor surface assembly in real time, revealing slower aggregation and a new open structure. \n- Published in *Analytical Chemistry*, the work points to smarter biosensors and more reliable diagnostics through precise control of nanoparticle assembly.",
-      "keywords": [
-        "gold nanoparticles",
-        "nanoscale assembly",
-        "biosensors",
-        "EW-CRDS",
-        "frustrated aggregation",
-        "Analytical Chemistry"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 8,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-09-12T12:32:15.750Z"
-    },
-    {
-      "title": "Two new Aspergillus species from Western Ghats",
-      "link": "https://dst.gov.in/unveiling-hidden-diversity-aspergillus-section-nigri-indian-scientists-introducing-two-new-species",
-      "author": "Harikrishnan K., Rajesh Kumar K. C., Ravindra M. Patil",
-      "thumbnail": null,
-      "summary": "- Indian researchers from MACS-ARI Pune describe two novel species, *Aspergillus dhakephalkarii* and *Aspergillus patriciawiltshireae*, from the Western Ghats, with first Indian records of *A. aculeatinus* and *A. brunneoviolaceus*. \n- They used a polyphasic taxonomy approach, combining detailed morphology with multi-gene phylogeny (ITS, CaM, BenA, RPB2) and maximum likelihood analyses to delineate the new lineages. \n- This work highlights the Western Ghats as a fungal diversity hotspot and marks the first Indian integrative taxonomy study on Aspergillus section Nigri, published in Phytotaxa (2025).",
-      "keywords": [
-        "Aspergillus",
-        "Nigri",
-        "Western Ghats",
-        "new species",
-        "polyphasic taxonomy",
-        "mycology",
-        "India"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 9,
-        "longTermSignificance": 8
-      },
-      "pubDate": "2025-09-10T12:33:17.223Z"
     }
   ]
 }
