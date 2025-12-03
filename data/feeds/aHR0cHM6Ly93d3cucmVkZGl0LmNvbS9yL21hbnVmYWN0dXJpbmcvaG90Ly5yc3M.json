@@ -5,6 +5,29 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Canada Fights Back: Aid for Lumber & Steel Workers",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pcxct0/canada_fights_back_fresh_aid_for_lumber_and_steel/",
+      "author": "/u/renkure",
+      "thumbnail": null,
+      "summary": "- **Canada** unveils *aid* for lumber and steel workers hit by US tariffs.\n- The program aims to cushion jobs and support local industries amid ongoing trade tensions.\n- Analysts say this could shape longer-term cross-border trade and *economic resilience* in affected regions.",
+      "keywords": [
+        "Canada",
+        "lumber",
+        "steel",
+        "tariffs",
+        "US-Canada trade",
+        "aid program",
+        "workers"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-12-03T06:55:11.000Z"
+    },
+    {
       "title": "Tool & Die Maker Job in Reading, PA",
       "link": "https://www.reddit.com/r/manufacturing/comments/1pck1n3/question_about_tool_die_making_job_opportunity/",
       "author": "/u/Comfortable-Egg4816",
@@ -2065,28 +2088,6 @@
         "longTermSignificance": 3
       },
       "pubDate": "2025-11-25T19:59:22.000Z"
-    },
-    {
-      "title": "Semi-automated Vision Dimensional Inspection",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1p6jz8f/semiautomated_computer_vision_dimensional/",
-      "author": "/u/helpmeowo",
-      "thumbnail": "https://preview.redd.it/96j24n7a3g3g1.jpeg?width=640&crop=smart&auto=webp&s=0e618eede45c22e84ed808dbb71a6894700378fb",
-      "summary": "- A user is seeking a *semi-automated*, *vision-based dimensional inspection* system to measure 2D features (holes, circularity, edge lengths) on small parts (~4x4 in) with a tolerance of *±0.001 in*. \n- The setup should allow an operator to place parts, trigger measurements with a *foot pedal*, and then accept or reject based on results. \n- They request recommendations for machines or vendors offering this capability or similar *2D metrology* solutions.",
-      "keywords": [
-        "machine vision",
-        "dimensional inspection",
-        "2D metrology",
-        "quality control",
-        "manufacturing automation",
-        "CMM alternative"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 4,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-11-25T18:18:29.000Z"
     }
   ]
 }
