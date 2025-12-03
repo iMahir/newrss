@@ -5,6 +5,61 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "AutoCAD Layer Colors for Manufacturing Equipment",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pdjkcx/autocad_newbie_what_layer_colors_should_i_use_for/",
+      "author": "/u/throwawayhpihq",
+      "thumbnail": null,
+      "summary": "- *Color schemes*, *line widths*, and *line styles* for manufacturing equipment layers in AutoCAD, with reference to ERDC/TIL SR-24-3 and a need for practical guidance.\n- The author, a vocational MechE, seeks floor-map CAD practices for welders, conveyors, hydraulic/pneumatic presses, control hardware, and other equipment to apply in his plant.\n- They want real-world community standards for AutoCAD layer conventions on factory layouts, noting that ERDC SR-24-3 is extensive but not exhaustive.",
+      "keywords": [
+        "AutoCAD",
+        "layer colors",
+        "manufacturing equipment",
+        "floor maps",
+        "CAD standards",
+        "ERDC SR-24-3",
+        "factory layouts"
+      ],
+      "scores": {
+        "scale": 3,
+        "impact": 4,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-12-03T23:06:55.000Z"
+    },
+    {
+      "title": "Need advice about an inventory system.",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pdj955/need_advice_about_an_inventory_system/",
+      "author": "/u/Mumbleth",
+      "thumbnail": null,
+      "summary": "- The post by /u/Mumbleth asks for guidance on selecting or designing an *inventory system* for *manufacturing* and warehouse operations. \n- It references discussions in /r/Warehousing and /r/manufacturing, signaling practical considerations and integration needs. \n- Key concerns include *scalability*, *accuracy*, and the *long-term relevance* of the solution across processes.",
+      "keywords": [
+        "inventory",
+        "systems",
+        "manufacturing",
+        "warehousing",
+        "logistics",
+        "ERP"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 4,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-12-03T22:54:32.000Z"
+    },
+    {
+      "title": "12\" lift table that can handle 450 lbs and won't bankrupt me",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pdihtc/12_lift_table_that_can_handle_450_lbs_and_wont/",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-12-03T22:23:47.000Z"
+    },
+    {
       "title": "US-based dog collar/leash manufacturers for custom designs",
       "link": "https://www.reddit.com/r/manufacturing/comments/1pdgnux/looking_for_usbased_dog_collarleash_manufacturers/",
       "author": "/u/Appropriate-Act4745",
@@ -2911,61 +2966,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-11-28T15:22:29.000Z"
-    },
-    {
-      "title": "Supply chain/logistics folks — is BMGMT or BComm better for breaking into the field?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1p8o7dg/supply_chainlogistics_folks_is_bmgmt_or_bcomm/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-11-28T06:49:52.000Z"
-    },
-    {
-      "title": "Asian supplier for body care products?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1p8cwzo/asien_suplier_for_body_care_product/",
-      "author": "/u/SystemNew9285",
-      "thumbnail": null,
-      "summary": "- Right now I’m looking for a manufacturer who can help with a *body care project*; EU suppliers often don’t respond or require MOQs of 5000+ and lack testing samples.\n- I’m leaning toward **Asian manufacturers** because communication and processes seem smoother, making it easier to iterate and reach smaller runs.\n- What are the pros and cons of this shift, and can you **recommend specific manufacturers**?",
-      "keywords": [
-        "sourcing",
-        "manufacturing",
-        "body-care",
-        "MOQ",
-        "Asia",
-        "supplier-research"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 3,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-11-27T20:59:42.000Z"
-    },
-    {
-      "title": "Quality control in manual assembly or packaging",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1p7y2il/quality_control_in_manual_assembly_or_packaging/",
-      "author": "/u/Mediocre-Purchase233",
-      "thumbnail": null,
-      "summary": "- *Quality control* in manual assembly/packaging uses *selective inspections*, *automated stands* with sensors, and *machine vision* with *barcode/RFID* triggers to record evidence.\n- Issues include defects missed until installation and client concerns about non-standard packaging; cameras help surface problems earlier.\n- A practical approach blends *human inspection* with automated checks, since vision alone can miss fits; sharing approaches is welcome.",
-      "keywords": [
-        "quality-control",
-        "manual-assembly",
-        "packaging",
-        "inspection",
-        "machine-vision",
-        "barcode",
-        "RFID"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 6,
-        "novelty": 4,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-11-27T09:31:42.000Z"
     }
   ]
 }
