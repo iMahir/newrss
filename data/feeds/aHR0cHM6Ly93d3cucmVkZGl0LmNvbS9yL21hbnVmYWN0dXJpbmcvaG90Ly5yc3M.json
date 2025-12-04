@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Count Widgets with Time Stamps on Disassembly line",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pdyyfl/count_widgets_with_time_stamps_on_disassembly_line/",
+      "author": "/u/Pizza_IPA",
+      "thumbnail": null,
+      "summary": "- **Low-tech process** where I want to count each widget that goes through the disassembly line.\\n- Tagging, scanning, and **RFID** isn't practical.\\n- The required output would simply be: **Unit ID**, **DD-MM-YYY HH:SS**.",
+      "keywords": [
+        "manufacturing",
+        "time-stamps",
+        "disassembly",
+        "automation",
+        "vision",
+        "data-collection"
+      ],
+      "scores": {
+        "scale": 4,
+        "impact": 3,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "pubDate": "2025-12-04T12:38:44.000Z"
+    },
+    {
       "title": "Drawing inspection: manual ballooning vs Pre6 Lens",
       "link": "https://www.reddit.com/r/manufacturing/comments/1pdwy58/drawing_inspection_workflow_anyone_compared/",
       "author": "/u/Ok-Blueberry-4686",
@@ -2951,29 +2973,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-11-28T20:47:35.000Z"
-    },
-    {
-      "title": "HomeMaster Completes Intensive Pre-Compliance EMC Testing",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1p92ffi/homemaster_completes_intensive_precompliance/",
-      "author": "/u/dmitridr81",
-      "thumbnail": null,
-      "summary": "- **HomeMaster** completed an intensive **pre-compliance safety** and **EMC testing** to verify device readiness.\n- The update was posted by **/u/dmitridr81** on Reddit, linking to the original discussion.\n- This milestone supports **regulatory readiness** and could accelerate future market clearance.",
-      "keywords": [
-        "HomeMaster",
-        "pre-compliance",
-        "EMC",
-        "safety",
-        "regulatory",
-        "manufacturing",
-        "compliance"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 5,
-        "novelty": 3,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-11-28T18:36:09.000Z"
     }
   ]
 }
