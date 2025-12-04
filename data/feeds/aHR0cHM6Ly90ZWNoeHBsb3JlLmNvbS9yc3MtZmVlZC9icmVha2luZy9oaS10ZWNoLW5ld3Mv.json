@@ -5,6 +5,28 @@
   "feedUrl": "https://techxplore.com/rss-feed/breaking/hi-tech-news/",
   "items": [
     {
+      "title": null,
+      "link": null,
+      "author": null,
+      "thumbnail": null,
+      "summary": "- The page shows a *bot verification* prompt with a status indicator reading Verifying that you are not a bot. - A subsequent screen indicates an ongoing *browser verification* with the message Verifying your browser... and a waiting symbol. - On success, it displays a *Verification Complete* message and a note that the page will redirect in a moment.",
+      "keywords": [
+        "web UI",
+        "bot verification",
+        "redirect",
+        "user experience",
+        "security",
+        "web design"
+      ],
+      "scores": {
+        "scale": 3,
+        "impact": 3,
+        "novelty": 2,
+        "longTermSignificance": 2
+      },
+      "pubDate": "2025-12-04T20:46:20.000Z"
+    },
+    {
       "title": "Glasses-free 3D system powered by AI",
       "link": "https://techxplore.com/news/2025-12-scientists-glasses-free-3d-ai.html",
       "author": null,
@@ -127,27 +149,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-11-25T21:34:39.000Z"
-    },
-    {
-      "title": "Verification Screen Snippet",
-      "link": null,
-      "author": null,
-      "thumbnail": null,
-      "summary": "- The page presents a *bot-verification flow* with a status message that reads *'Verifying that you are not a bot'* and *'Verifying your browser...'*. - It transitions to a *success screen* showing *'Verification Complete'* and *'This page will redirect in a moment...'*. - This snippet illustrates a common *anti-bot check* that triggers an automatic *redirect* after completion.",
-      "keywords": [
-        "bot-detection",
-        "verification",
-        "webpage",
-        "anti-bot",
-        "redirect"
-      ],
-      "scores": {
-        "scale": 4,
-        "impact": 3,
-        "novelty": 2,
-        "longTermSignificance": 2
-      },
-      "pubDate": "2025-11-25T16:55:27.000Z"
     },
     {
       "title": "Soft robots harvest ambient heat for self-sustained motion",
