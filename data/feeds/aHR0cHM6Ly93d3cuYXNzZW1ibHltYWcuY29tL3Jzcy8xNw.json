@@ -5,6 +5,27 @@
   "feedUrl": "https://www.assemblymag.com/rss/17",
   "items": [
     {
+      "title": "New Initiative Focuses on Robot Communication",
+      "link": "https://www.assemblymag.com/articles/99687-new-initiative-focuses-on-robot-communication",
+      "author": "webera@bnpmedia.com (Austin Weber)",
+      "thumbnail": "https://www.assemblymag.com/ext/resources/issues2/2025/12-dec/asb1225lines3-forweb.webp?t=1764684080",
+      "summary": "- The VDMA OPC Robotics Initiative released version 1.02 of the OPC Robotics Companion Specification, enabling *OPC UA*-based high‑level control and cross‑vendor robot communication.\n- It adds vendor‑independent asset management, condition monitoring and remote operation, unifying data across current and future robots and cloud apps.\n- Leaders say OPC UA lets robots share a common language with the automation world, advancing *Industry 4.0* from shop floor to cloud.",
+      "keywords": [
+        "OPC UA",
+        "robotics",
+        "Industry 4.0",
+        "OPC Robotics Initiative",
+        "automation standards"
+      ],
+      "scores": {
+        "scale": 8,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 9
+      },
+      "pubDate": "2025-12-04T14:00:00.000Z"
+    },
+    {
       "title": "NIST Report Calls for Sustainable Metals Infrastructure",
       "link": "https://www.assemblymag.com/articles/99686-nist-report-calls-for-sustainable-metals-infrastructure",
       "author": "webera@bnpmedia.com (Austin Weber)",
@@ -3202,28 +3223,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-10-29T23:03:29.000Z"
-    },
-    {
-      "title": "Dispensing Technology Supplier Coherix Expands",
-      "link": "https://www.assemblymag.com/articles/99629-dispensing-technology-supplier-coherix-expands",
-      "author": null,
-      "thumbnail": "https://www.assemblymag.com/ext/resources/2024/6/coherix-900.webp?t=1719353638",
-      "summary": "- Coherix is expanding in Ann Arbor with a 25,000-sq-ft facility (+$1M) to boost production and product development, adding 10–15 engineering jobs.\n- The Innovation Center will house 10 robotic dispensing stations and demo areas, powered by *AI* and *3D-vision-enabled adaptive process control* for adhesive dispensing.\n- The move aims to meet demand, accelerate *precision dispensing technology* development, and partner with EMA and Eastern Michigan University for education and future factory initiatives.",
-      "keywords": [
-        "Coherix",
-        "adhesive dispensing",
-        "AI",
-        "3D vision",
-        "automation",
-        "manufacturing partnerships"
-      ],
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-10-29T19:03:00.000Z"
     }
   ]
 }
