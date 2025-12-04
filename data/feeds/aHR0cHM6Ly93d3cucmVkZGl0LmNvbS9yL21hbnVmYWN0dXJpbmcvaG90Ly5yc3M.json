@@ -5,6 +5,71 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "How do smaller manufacturers build ERP systems with Excel?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pdlv1m/how_do_smaller_manufacturers_build_erp_systems/",
+      "author": "/u/ManufacturerSad767",
+      "thumbnail": null,
+      "summary": "- Smaller manufacturers often build an ERP-like patchwork in *Excel*, covering inventory, orders, production planning, and RFQs, with *VBA* used to push features. \n- Despite being cheap and capable of a ~70% data solution, such systems are not *robust* and maintenance often depends on a single person (Jill), making growth risky. \n- As companies scale, these bolt-on solutions become precarious and many teams eventually replace or rewrite them with more robust tools.",
+      "keywords": [
+        "Excel",
+        "ERP",
+        "VBA",
+        "small-manufacturing",
+        "data-management"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 3,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-12-04T00:44:52.000Z"
+    },
+    {
+      "title": "Suppliers from China",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pdlqn7/suppliers_from_china/",
+      "author": "/u/Full-Tangerine-3456",
+      "thumbnail": null,
+      "summary": "- The post is seeking recommendations of **ethical** Chinese suppliers for a Sydney-based children's clothing brand, with a focus on *liveable wages* and *eco-conscious* practices.\n- The author plans to use mostly *cotton*, preferably recycled, but aims to phase this out due to high water usage, and asks about using *eco-sustainable materials*.\n- They request *experiences* and tips on finding and evaluating clothes made with *sustainable materials* and how to verify supplier ethics.",
+      "keywords": [
+        "ethical-sourcing",
+        "sustainability",
+        "apparel-manufacturing",
+        "recycled-cotton",
+        "water-use",
+        "China-suppliers"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-12-04T00:39:26.000Z"
+    },
+    {
+      "title": "Language barrier",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pdl1bu/language_barrier/",
+      "author": "/u/Other-Caregiver5172",
+      "thumbnail": null,
+      "summary": "- A new worker in manufacturing asks for *Spanish* phrases to communicate with coworkers who largely don't speak English. \n- A commenter says many exchanges will rely on *gestures*, *smiles*, and *nods*, and that showing you’re learning their language will motivate them to help you. \n- The advice emphasizes starting with basics, being patient, and building language skills to improve collaboration over time.",
+      "keywords": [
+        "language barrier",
+        "Spanish",
+        "manufacturing",
+        "communication",
+        "workplace",
+        "cross-cultural"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 3,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-12-04T00:08:51.000Z"
+    },
+    {
       "title": "AutoCAD Layer Colors for Manufacturing Equipment",
       "link": "https://www.reddit.com/r/manufacturing/comments/1pdjkcx/autocad_newbie_what_layer_colors_should_i_use_for/",
       "author": "/u/throwawayhpihq",
@@ -2911,61 +2976,6 @@
         "longTermSignificance": 3
       },
       "pubDate": "2025-11-28T17:46:15.000Z"
-    },
-    {
-      "title": "EU Injection Moulding + Logistics Cell",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1p90d62/eu_injection_moulding_logistics_cell/",
-      "author": "/u/Spiritual-Face-5444",
-      "thumbnail": null,
-      "summary": "- The post discusses two models for *injection moulding* and logistics: moulder handles manufacturing plus *pick and pack* vs moulder handles manufacturing only with external *3PLs*. \n- They wonder if locating moulding in cheaper EU regions (e.g., Czech, Poland, Lithuania) saves money after shipping to 3PLs, or if prices rise due to logistics. \n- They ask whether the *pick and pack* approach increases *delivery costs* or *lead times*, considering common couriers like DPD, DHL, GLS, etc.",
-      "keywords": [
-        "injection moulding",
-        "logistics",
-        "3PL",
-        "supply chain",
-        "EU manufacturing",
-        "lead times",
-        "couriers"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 3,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-11-28T17:15:47.000Z"
-    },
-    {
-      "title": "I'll translate one page of your foreign equipment manual",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1p8yygd/ill_translate_one_page_of_your_foreign_equipment/",
-      "author": "/u/Legal-Cartographer-2",
-      "thumbnail": null,
-      "summary": "- I've built a *tool* to **translate** technical equipment manuals and want to test it with real-world documents.\n- I'll **translate one page for free** (in *German/Italian/French*) to see if it's useful, test on different documents, and gather **accuracy** feedback.\n- First 5-10 people get priority; mods will be consulted if this violates any rules.",
-      "keywords": [
-        "translation",
-        "technical-manuals",
-        "German",
-        "French",
-        "Italian",
-        "testing"
-      ],
-      "scores": {
-        "scale": 4,
-        "impact": 3,
-        "novelty": 5,
-        "longTermSignificance": 4
-      },
-      "pubDate": "2025-11-28T16:21:27.000Z"
-    },
-    {
-      "title": "Despite Trump's best efforts to reshore manufacturing, blue-collar employment is plunging for the first time since the pandemic with 59,000 lost jobs",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1p8xhg8/despite_trumps_best_efforts_to_reshore/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-11-28T15:22:29.000Z"
     }
   ]
 }
