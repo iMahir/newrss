@@ -5,6 +5,73 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "How do new machine shops find consistent work?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pe7iws/how_do_new_machine_shops_find_consistent_work/",
+      "author": "/u/Tricky-Concentrate43",
+      "thumbnail": null,
+      "summary": "- **Networking and credibility** help new shops win repeat, predictable work by connecting with local manufacturers, showcasing capabilities, and delivering consistent quality.\\n- **Bid on repeat projects, offer value-added services, and build partnerships** to access larger or ongoing work and referrals.\\n- **Document capabilities, tolerances, lead times, and collect testimonials** to prove reliability and on-time delivery.",
+      "keywords": [
+        "machining",
+        "small-business",
+        "manufacturing",
+        "networking",
+        "customer-acquisition",
+        "bidding"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-12-04T18:21:44.000Z"
+    },
+    {
+      "title": "Modern data collection for 25 machines",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pe6uu0/need_modern_data_collection_for_25_machines_but/",
+      "author": "/u/Illustrious-Chef7294",
+      "thumbnail": null,
+      "summary": "- The shop has 25 CNC machines, 8 QC stations, 3 packaging lines, and 40 sensors; current CSV-to-Excel workflow; wants **real-time dashboards** with minimal IT.\n- They seek **automatic alerts**, **ERP integration**, and no vendor lock-in or heavy infrastructure; wary of **Kafka**, **MQTT**, or expensive platforms.\n- Suggestions include API-based data, lightweight stacks, and tools like **Power BI** for a live dashboard, aiming for a maintainable, cost-effective setup.",
+      "keywords": [
+        "manufacturing",
+        "data-collection",
+        "iot",
+        "real-time-dashboards",
+        "erp-integration",
+        "machine-monitoring"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 7,
+        "novelty": 4,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-12-04T17:58:05.000Z"
+    },
+    {
+      "title": "May be Jaguar was already dead long before the rebranding",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pe6s68/may_be_jaguar_was_already_dead_long_before_the/",
+      "author": "/u/ShehrozeAkbar",
+      "thumbnail": null,
+      "summary": "- The post argues that **Jaguar** may have been *dead* as a brand before the **rebranding**, questioning the refresh timing.\n- It points to signals like a stagnant product lineup, weak consumer enthusiasm, and a misaligned corporate strategy around the **brand**.\n- Readers are invited to share opinions and view the original post linked in the title.",
+      "keywords": [
+        "Jaguar",
+        "brand",
+        "rebranding",
+        "marketing",
+        "automotive",
+        "brand perception",
+        "reddit"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 4,
+        "novelty": 3,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-12-04T17:55:27.000Z"
+    },
+    {
       "title": "AI Automations in small/medium manufacturing: resources",
       "link": "https://www.reddit.com/r/manufacturing/comments/1pe5o56/any_resource_to_read_about_ai_automations/",
       "author": "/u/Kalki_calling",
@@ -2917,60 +2984,6 @@
         "longTermSignificance": 8
       },
       "pubDate": "2025-11-29T15:28:35.000Z"
-    },
-    {
-      "title": "Local ABC/XYZ tool; beta testers wanted",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1p9q0vq/i_built_a_tool_to_abcxyz_analysis_and_find_dead/",
-      "author": "/u/mashu_zeke",
-      "thumbnail": null,
-      "summary": "- **Automated ABC/XYZ analysis** and **dead stock detection** run locally in your browser, so your data never leaves your machine.\n- It surfaces the **Golden Hens**—the 20% of SKUs that drive 80% of margin—while keeping data private.\n- We're looking for 10 beta testers for free access, a comprehensive PDF report, and actionable recommendations in exchange for honest feedback.",
-      "keywords": [
-        "ABC/XYZ analysis",
-        "inventory management",
-        "dead stock",
-        "privacy",
-        "beta testing",
-        "in-browser tool"
-      ],
-      "scores": {
-        "scale": 7,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-11-29T14:17:18.000Z"
-    },
-    {
-      "title": "Jewelry Manufacturers",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1p9fhzg/jewelry_manufacturers/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-11-29T04:21:06.000Z"
-    },
-    {
-      "title": "Working overnight to rush the customer’s order.",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1p9dk6a/working_overnight_to_rush_the_customers_order/",
-      "author": "/u/RoutineKangaroo97",
-      "thumbnail": "https://external-preview.redd.it/JvrMqqZAyB_Y4EFdnJP1nxIxjURkj7AHXpIXRFQAj8c.jpeg?width=320&crop=smart&auto=webp&s=ca4a9d69f4adc748d801d37ce44db79c7331c336",
-      "summary": "- The author describes an *overnight shift* at a heating pad factory to **rush peak-season orders**.\n- The post notes this is the author's first submission and requests feedback from the community.\n- The content links to a Reddit post and video, inviting readers to view the context and discussion.",
-      "keywords": [
-        "overnight-shift",
-        "manufacturing",
-        "peak-season",
-        "factory-work",
-        "heating-pad",
-        "reddit"
-      ],
-      "scores": {
-        "scale": 4,
-        "impact": 4,
-        "novelty": 3,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-11-29T02:43:35.000Z"
     }
   ]
 }
