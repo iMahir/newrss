@@ -5,25 +5,13 @@
   "feedUrl": "https://techxplore.com/rss-feed/breaking/hi-tech-news/",
   "items": [
     {
-      "title": null,
-      "link": null,
+      "title": "Classical Indian dance inspires new ways to teach robots how to use their hands",
+      "link": "https://techxplore.com/news/2025-12-classical-indian-ways-robots.html",
       "author": null,
       "thumbnail": null,
-      "summary": "- The page shows a *bot verification* prompt with a status indicator reading Verifying that you are not a bot. - A subsequent screen indicates an ongoing *browser verification* with the message Verifying your browser... and a waiting symbol. - On success, it displays a *Verification Complete* message and a note that the page will redirect in a moment.",
-      "keywords": [
-        "web UI",
-        "bot verification",
-        "redirect",
-        "user experience",
-        "security",
-        "web design"
-      ],
-      "scores": {
-        "scale": 3,
-        "impact": 3,
-        "novelty": 2,
-        "longTermSignificance": 2
-      },
+      "summary": null,
+      "keywords": [],
+      "scores": null,
       "pubDate": "2025-12-04T20:46:20.000Z"
     },
     {
@@ -149,6 +137,27 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-11-25T21:34:39.000Z"
+    },
+    {
+      "title": "Verification Screen Snippet",
+      "link": null,
+      "author": null,
+      "thumbnail": null,
+      "summary": "- The page presents a *bot-verification flow* with a status message that reads *'Verifying that you are not a bot'* and *'Verifying your browser...'*. - It transitions to a *success screen* showing *'Verification Complete'* and *'This page will redirect in a moment...'*. - This snippet illustrates a common *anti-bot check* that triggers an automatic *redirect* after completion.",
+      "keywords": [
+        "bot-detection",
+        "verification",
+        "webpage",
+        "anti-bot",
+        "redirect"
+      ],
+      "scores": {
+        "scale": 4,
+        "impact": 3,
+        "novelty": 2,
+        "longTermSignificance": 2
+      },
+      "pubDate": "2025-11-25T16:55:27.000Z"
     },
     {
       "title": "Soft robots harvest ambient heat for self-sustained motion",
@@ -1454,29 +1463,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-10-31T15:50:01.000Z"
-    },
-    {
-      "title": "Fluoride-based electrolyte enables >5V solid-state batteries",
-      "link": "https://techxplore.com/news/2025-10-generation-battery-fluoride-based-solid.html",
-      "author": null,
-      "thumbnail": null,
-      "summary": "- The fluoride solid electrolyte *LiCl–4Li2TiF6* enables safe operation beyond *5 V* in all-solid-state batteries with a Li+ conductivity of *1.7e-5 S/cm* at 30°C.\n- This coating suppresses interfacial degradation, letting high-voltage cathodes such as *LiNi0.5Mn1.5O4* run with over *75%* capacity after *500 cycles* and achieve an areal capacity of *35.3 mAh/cm²*.\n- The approach could reduce material costs by enabling compatibility with cost-effective *halide catholytes*, paving the way for safer, longer-lasting batteries in *electric vehicles* and large-scale energy storage.",
-      "keywords": [
-        "solid-state batteries",
-        "fluoride electrolyte",
-        "LiCl–4Li2TiF6",
-        "high voltage",
-        "LiNi0.5Mn1.5O4",
-        "electric vehicles",
-        "energy storage"
-      ],
-      "scores": {
-        "scale": 9,
-        "impact": 9,
-        "novelty": 9,
-        "longTermSignificance": 9
-      },
-      "pubDate": "2025-10-31T15:09:03.000Z"
     }
   ]
 }
