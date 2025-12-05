@@ -5,6 +5,37 @@
   "feedUrl": "https://techxplore.com/rss-feed/breaking/hi-tech-news/",
   "items": [
     {
+      "title": null,
+      "link": null,
+      "author": null,
+      "thumbnail": null,
+      "summary": "- The page displays an anti-bot verification flow with messages like *\"Verifying that you are not a bot\"* and *\"Verifying your browser...\"*. \n- It includes a success screen showing *\"Verification Complete\"* and *\"This page will redirect in a moment...\"*. \n- The flow ends with a redirect, reflecting standard *bot protection* and access control.",
+      "keywords": [
+        "web-security",
+        "bot-verification",
+        "redirect",
+        "verification-screen",
+        "access-control"
+      ],
+      "scores": {
+        "scale": 2,
+        "impact": 3,
+        "novelty": 2,
+        "longTermSignificance": 3
+      },
+      "pubDate": "2025-12-05T17:32:28.000Z"
+    },
+    {
+      "title": "Reservoir thermal energy storage offers efficient cooling for data centers",
+      "link": "https://techxplore.com/news/2025-12-reservoir-thermal-energy-storage-efficient.html",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-12-05T17:18:19.000Z"
+    },
+    {
       "title": "New haptic display tech creates 3D graphics you can feel",
       "link": "https://techxplore.com/news/2025-12-haptic-display-technology-3d-graphics.html",
       "author": null,
@@ -158,27 +189,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-11-25T21:34:39.000Z"
-    },
-    {
-      "title": "Verification Screen Snippet",
-      "link": null,
-      "author": null,
-      "thumbnail": null,
-      "summary": "- The page presents a *bot-verification flow* with a status message that reads *'Verifying that you are not a bot'* and *'Verifying your browser...'*. - It transitions to a *success screen* showing *'Verification Complete'* and *'This page will redirect in a moment...'*. - This snippet illustrates a common *anti-bot check* that triggers an automatic *redirect* after completion.",
-      "keywords": [
-        "bot-detection",
-        "verification",
-        "webpage",
-        "anti-bot",
-        "redirect"
-      ],
-      "scores": {
-        "scale": 4,
-        "impact": 3,
-        "novelty": 2,
-        "longTermSignificance": 2
-      },
-      "pubDate": "2025-11-25T16:55:27.000Z"
     },
     {
       "title": "Soft robots harvest ambient heat for self-sustained motion",
@@ -1464,16 +1474,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-11-03T14:21:04.000Z"
-    },
-    {
-      "title": "PFAS-free membrane with nanoscopic plugs enables cleaner, cheaper hydrogen production",
-      "link": "https://techxplore.com/news/2025-10-pfas-free-membrane-nanoscopic-enables.html",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-11-03T13:00:01.000Z"
     }
   ]
 }
