@@ -5,6 +5,27 @@
   "feedUrl": "https://techxplore.com/rss-feed/breaking/hi-tech-news/",
   "items": [
     {
+      "title": "Bot Verification Screen",
+      "link": null,
+      "author": null,
+      "thumbnail": null,
+      "summary": "- The page presents a two-stage flow: a bot verification step and a subsequent success message. \n- It shows *Verifying that you are not a bot* and *Verifying your browser...* during verification, then **Verification Complete** with a note that the page will redirect. \n- The content is organized inside a readability-page-1 container with separate sections for verification and success screens.",
+      "keywords": [
+        "verification",
+        "bot-detection",
+        "web-security",
+        "redirect",
+        "UI"
+      ],
+      "scores": {
+        "scale": 2,
+        "impact": 2,
+        "novelty": 2,
+        "longTermSignificance": 1
+      },
+      "pubDate": "2025-12-08T10:00:06.000Z"
+    },
+    {
       "title": "Iron-on electronic patches enable easy integration of circuits into fabrics",
       "link": "https://techxplore.com/news/2025-12-iron-electronic-patches-enable-easy.html",
       "author": null,
