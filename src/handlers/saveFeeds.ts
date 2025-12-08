@@ -35,7 +35,7 @@ export const saveFeeds = async (feeds: PostRssJson[]) => {
         }
     }));
 
-    await updateDB(updatedIds);
+    // await updateDB(updatedIds);
 
 };
 
@@ -53,3 +53,4 @@ async function updateDB(ids: number[]) {
         return null;
     }
 }
+
