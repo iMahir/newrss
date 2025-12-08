@@ -166,7 +166,7 @@ Keep it ultra‑concise, coherent, and polished. No labels, headings, or extra t
 
     const gptResponse = await gpt({
         prompts: prompts.map(prompt => ({ role: prompt.role, content: optimizeStringForGpt(prompt.content) })),
-        model: "openai"
+        model: "gemini"
     });
 
     return {
@@ -231,3 +231,4 @@ interface RssData {
     lastUpdated: string;
     hasBeenUpdated?: boolean;
 }
+
