@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Struggling to job cost...",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pj8fw7/struggling_to_job_cost/",
+      "author": "/u/Aggravating_Ear9829",
+      "thumbnail": null,
+      "summary": "- The post seeks to compute *cost per placement* and the *labor rate* to quote PCBA jobs, noting a plan for a single placement rate despite a wide possible range (2k–8k placements/hour). \n- Suggestions advocate building a cost model in a spreadsheet, tracking overhead (rent, benefits) and materials; consider **CPA** expertise and even try **AI tools** for an initial pass; benchmark with suppliers like **JLCPCB**. \n- Decide whether the goal is precise quoting or benchmarking, choose a standard rate or a range, and align overhead and direct materials with the expected margin.",
+      "keywords": [
+        "job costing",
+        "cost per placement",
+        "PCB assembly",
+        "overhead",
+        "quoting",
+        "benchmarking"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-12-10T17:20:16.000Z"
+    },
+    {
       "title": "Need advice on getting glossy finsh for the logo!",
       "link": "https://www.reddit.com/r/manufacturing/comments/1pj786x/need_advice_on_getting_glossy_finsh_for_the_logo/",
       "author": "/u/DrSiddharthAbhimanyu",
@@ -2914,28 +2936,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-12-04T00:44:52.000Z"
-    },
-    {
-      "title": "Language barrier",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pdl1bu/language_barrier/",
-      "author": "/u/Other-Caregiver5172",
-      "thumbnail": null,
-      "summary": "- In a new job assembling landscaping materials, a worker asks for *common Spanish phrases* to bridge a *language barrier* with coworkers. - A commenter suggests using *gestures* and showing you’re *learning*, which helps coworkers feel appreciated and more willing to help. - Another commenter jokes about learning *swear words* first to gauge misunderstandings or anger on the floor.",
-      "keywords": [
-        "language barrier",
-        "Spanish phrases",
-        "workplace communication",
-        "gestures",
-        "learning",
-        "cross-cultural"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 4,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-12-04T00:08:51.000Z"
     }
   ]
 }
