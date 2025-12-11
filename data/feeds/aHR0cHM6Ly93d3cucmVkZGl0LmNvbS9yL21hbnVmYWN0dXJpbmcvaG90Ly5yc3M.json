@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Does Predictive Maintenance Only Work If You’re a Big Company?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pkao0a/does_predictive_maintenance_only_work_if_youre_a/",
+      "author": "/u/Amazing_Database1964",
+      "thumbnail": null,
+      "summary": "- The post asks whether **predictive maintenance** only works for large firms or if *SMEs* can still achieve ROI.\n- It highlights costs, data needs, and **implementation challenges** that can hinder adoption.\n- It points to *scalable approaches* and early-adopter wins as paths for broader adoption.",
+      "keywords": [
+        "predictive maintenance",
+        "manufacturing",
+        "SMEs",
+        "maintenance strategy",
+        "cost reduction",
+        "industrial IoT"
+      ],
+      "scores": {
+        "scale": 5,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-12-11T22:13:42.000Z"
+    },
+    {
       "title": "What does your diet consist of?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1pk4p9j/what_does_your_diet_consist_of/",
       "author": "/u/Other-Caregiver5172",
@@ -3059,29 +3081,6 @@
         "longTermSignificance": 4
       },
       "pubDate": "2025-12-05T06:53:30.000Z"
-    },
-    {
-      "title": "Bottleneck in supply chain of manufacturing",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pelne5/bottleneck_in_supply_chain_of_manufacturing/",
-      "author": "/u/Even-Judgment3063",
-      "thumbnail": null,
-      "summary": "- Discussions on managing the product supply chain during manufacturing using in-house or outsourced software, emphasizing *MRP* or demand-ledgers. \n- Practical tips include a ledger or spreadsheet to track *demand*, *procurement*, *lead times*, MOQ, and safety stock. \n- Many contributors prefer a shared Excel sheet or a simple bin system over heavy ERP for small operations.",
-      "keywords": [
-        "supply-chain",
-        "manufacturing",
-        "inventory-management",
-        "MRP",
-        "ERP",
-        "procurement",
-        "stock-level"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 4,
-        "novelty": 2,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-12-05T04:21:42.000Z"
     }
   ]
 }
