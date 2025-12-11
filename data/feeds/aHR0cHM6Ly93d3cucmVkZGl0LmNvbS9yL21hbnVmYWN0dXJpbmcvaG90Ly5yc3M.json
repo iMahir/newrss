@@ -5,6 +5,61 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "How AI sourcing tools have helped us move faster",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pjeft6/how_ai_sourcing_tools_have_helped_us_move_faster/",
+      "author": "/u/brainybrit",
+      "thumbnail": null,
+      "summary": "- I work in supply chain for a mid-size nutrition company and started testing AI tools to make the **supplier process** easier.\n- We’ve been using **Tenkara** to narrow down qualified suppliers with filters like region, certifications, and delivery terms, which boosts **visibility** and cuts down admin ping pong.\n- Curious if anyone else has tried AI tools for **sourcing** or **supplier management** and what actually works.",
+      "keywords": [
+        "AI",
+        "sourcing",
+        "supply-chain",
+        "supplier-management",
+        "Tenkara",
+        "automation",
+        "procurement"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "pubDate": "2025-12-10T21:01:46.000Z"
+    },
+    {
+      "title": "How is working in manufacturing these days?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pjdoxs/how_is_working_in_manufacturing_these_days/",
+      "author": null,
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-12-10T20:32:47.000Z"
+    },
+    {
+      "title": "Books on Assembly Automation?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pjd5zg/books_on_assembly_automation/",
+      "author": "/u/aeropills22",
+      "thumbnail": null,
+      "summary": "- The post asks for *resources* to learn the *underlying components* of modern automated lines (actuators, materials, mechanisms).\n- A comment explains that *pneumatics* cover most *actuators*, *hydraulics* cover more, *electronics* cover others, and *materials science* is basic *mechanical engineering*; there is no single book to cover everything.\n- A practical path is to study the basics across these domains (mechanical + electrical) to gain a solid foundation for understanding *assembly automation*.",
+      "keywords": [
+        "assembly automation",
+        "actuators",
+        "pneumatics",
+        "hydraulics",
+        "electronics",
+        "resources"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 3,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-12-10T20:12:36.000Z"
+    },
+    {
       "title": "Struggling to job cost...",
       "link": "https://www.reddit.com/r/manufacturing/comments/1pj8fw7/struggling_to_job_cost/",
       "author": "/u/Aggravating_Ear9829",
@@ -2893,49 +2948,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-12-04T12:38:44.000Z"
-    },
-    {
-      "title": "Drawing inspection workflow: manual ballooning vs Pre6 Lens",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pdwy58/drawing_inspection_workflow_anyone_compared/",
-      "author": "/u/Ok-Blueberry-4686",
-      "thumbnail": null,
-      "summary": "- The thread notes that *manual ballooning* is *time-consuming* and asks for a comparison with *Pre6 Lens*, which claims to *automate ballooning* and the *inspection sheet*. \n- Privacy concerns are raised about *Pre6 Lens* being *self-hosted* and whether drawings are used for *training models*. \n- Alternatives like *balloonist.io* are suggested for in-browser, *affordable* auto-ballooning, and a commenter offers to DM for questions.",
-      "keywords": [
-        "ballooning",
-        "Pre6 Lens",
-        "inspection",
-        "AI",
-        "manufacturing",
-        "privacy",
-        "automation"
-      ],
-      "scores": {
-        "scale": 4,
-        "impact": 5,
-        "novelty": 6,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-12-04T10:47:23.000Z"
-    },
-    {
-      "title": "My occupational skin disease prevention efforts are failing because workers think they can just tough it out",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pdvtwr/my_occupational_skin_disease_prevention_efforts/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-04T09:36:30.000Z"
-    },
-    {
-      "title": "How do smaller manufacturers build “ERP systems” using Excel?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pdlv1m/how_do_smaller_manufacturers_build_erp_systems/",
-      "author": null,
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-04T00:44:52.000Z"
     }
   ]
 }
