@@ -5,6 +5,27 @@
   "feedUrl": "https://techxplore.com/rss-feed/breaking/hi-tech-news/",
   "items": [
     {
+      "title": null,
+      "link": null,
+      "author": null,
+      "thumbnail": null,
+      "summary": "- The page presents a bot verification flow with a shield icon and messages like *Verifying that you are not a bot* and *Verifying your browser...*. \n- It then shows a *Verification Complete* screen and notes that the page will redirect in a moment. \n- This UI reflects a standard anti-bot/redirect UX used on many websites.",
+      "keywords": [
+        "web-security",
+        "bot-detection",
+        "verification-page",
+        "redirect",
+        "UX"
+      ],
+      "scores": {
+        "scale": 2,
+        "impact": 2,
+        "novelty": 1,
+        "longTermSignificance": 2
+      },
+      "pubDate": "2025-12-12T16:44:18.000Z"
+    },
+    {
       "title": "Carbon nanotubes could power flexible solar panels",
       "link": "https://techxplore.com/news/2025-12-carbon-nanotubes-power-generation-flexible.html",
       "author": null,
@@ -44,27 +65,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-12-08T21:42:38.000Z"
-    },
-    {
-      "title": "Bot Verification Screen",
-      "link": null,
-      "author": null,
-      "thumbnail": null,
-      "summary": "- The page presents a two-stage flow: a bot verification step and a subsequent success message. \n- It shows *Verifying that you are not a bot* and *Verifying your browser...* during verification, then **Verification Complete** with a note that the page will redirect. \n- The content is organized inside a readability-page-1 container with separate sections for verification and success screens.",
-      "keywords": [
-        "verification",
-        "bot-detection",
-        "web-security",
-        "redirect",
-        "UI"
-      ],
-      "scores": {
-        "scale": 2,
-        "impact": 2,
-        "novelty": 2,
-        "longTermSignificance": 1
-      },
-      "pubDate": "2025-12-08T10:00:06.000Z"
     },
     {
       "title": "Iron-on electronic patches enable easy integration of circuits into fabrics",
