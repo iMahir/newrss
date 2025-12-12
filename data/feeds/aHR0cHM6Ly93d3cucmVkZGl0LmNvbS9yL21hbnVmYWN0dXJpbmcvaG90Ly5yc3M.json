@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Rounded end dowel pins?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pkhuvu/rounded_end_dowel_pins/",
+      "author": "/u/macthebearded",
+      "thumbnail": null,
+      "summary": "- The author is seeking *US suppliers* for rounded-end pins that sit **proud** of the hole to act as a ramp and locate the halves, enabling forced rotation to break a magnetic connection.\\n- Design calls for **3 pins per connection point**; **3 points per assembly** = 9 pins total; target ~3/16\" (4 mm), stainless or coated to be nonreactive.\\n- A reply suggests *key pins* as an alternative, but they may be too small to form a proper ramp.",
+      "keywords": [
+        "rounded-end pins",
+        "dowel pins",
+        "magnetic connection",
+        "mechanical design",
+        "supplier search",
+        "prototype manufacturing"
+      ],
+      "scores": {
+        "scale": 4,
+        "impact": 4,
+        "novelty": 4,
+        "longTermSignificance": 3
+      },
+      "pubDate": "2025-12-12T03:43:30.000Z"
+    },
+    {
       "title": "How long to set up a quality system",
       "link": "https://www.reddit.com/r/manufacturing/comments/1pkbbs5/how_long_does_it_take_to_set_up_a_quality_system/",
       "author": "/u/Aggressive_Ad_507",
@@ -3059,27 +3081,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-12-05T09:54:26.000Z"
-    },
-    {
-      "title": "Unknown machine",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1peqs0s/unknown_machine/",
-      "author": "/u/Existing-Syrup-153",
-      "thumbnail": null,
-      "summary": "- The thread centers on an unknown machine used in **LED signage** fabrication, widely identified as an *edge banding machine* (edge bander).\n- Commenters describe feeding an *edge-banding* strip, shaping it around the circumference, and crimping the edges to hug the sign.\n- The consensus points to a *contour edgebander* that glues or crimps edge banding onto curved LED-sign components.",
-      "keywords": [
-        "edge-banding",
-        "edge-bander",
-        "contour-edgebander",
-        "LED-signage",
-        "manufacturing"
-      ],
-      "scores": {
-        "scale": 5,
-        "impact": 4,
-        "novelty": 2,
-        "longTermSignificance": 3
-      },
-      "pubDate": "2025-12-05T09:29:22.000Z"
     }
   ]
 }
