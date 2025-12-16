@@ -5,6 +5,72 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Beginner-friendly MRP for 1-user shop",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1po0egk/looking_for_beginnerfriendly_mrp_software_1_user/",
+      "author": "/u/Wise_Peak3614",
+      "thumbnail": null,
+      "summary": "- *Beginner-friendly*, *single-user* MRP/light ERP to replace Excel, with *consigned inventory* tracking and visibility into *lead times*.\n- Needs to manage *raw materials*, *consumables*, *WIP*, and *finished goods*, with reorder alerts to prevent stockouts.\n- Open to *cloud* or *desktop* options, not enterprise-grade; a commenter notes a possible budget around ~$200/month.",
+      "keywords": [
+        "MRP",
+        "ERP",
+        "inventory-management",
+        "consigned-inventory",
+        "small-business",
+        "manufacturing",
+        "single-user"
+      ],
+      "scores": {
+        "scale": 4,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-12-16T12:12:06.000Z"
+    },
+    {
+      "title": "Guidance for a simple and cheap guardrail",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1po03zj/help_guidance_to_project_and_buy_material_for_a/",
+      "author": "/u/CanelasReddit",
+      "thumbnail": null,
+      "summary": "- The post discusses a small (*0.3 m*) barrier to shield an open-ground sensor on a floating platform and asks for *cheap* production options. \n- It asks whether a standard *road guardrail* shape is easy to obtain or replicate and how to attach the structure to the ground. \n- It seeks the best approach to build a lightweight, simple structure that is *easy* and *cheap* to manufacture and install.",
+      "keywords": [
+        "guardrail",
+        "sensor-protection",
+        "cheap-manufacturing",
+        "fabrication",
+        "offshore-platform"
+      ],
+      "scores": {
+        "scale": 4,
+        "impact": 4,
+        "novelty": 4,
+        "longTermSignificance": 3
+      },
+      "pubDate": "2025-12-16T11:56:20.000Z"
+    },
+    {
+      "title": "Harder to automate: scheduling, inventory, or quality?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pnzibf/whats_been_harder_to_automate_scheduling/",
+      "author": "/u/Character_Physics713",
+      "thumbnail": null,
+      "summary": "- The post asks what’s harder to automate in manufacturing: *scheduling*, *inventory accuracy*, or *quality tracking*. \n- Commenters highlight *inventory accuracy* as a frequent pain point and discuss automating decisions around stock and customer demand, with some noting challenges in aligning with sales. \n- Many view *scheduling* as the most mathematically complex area, potentially the bottleneck for end-to-end automation, while *quality tracking* remains a hard but less mentioned challenge.",
+      "keywords": [
+        "manufacturing",
+        "automation",
+        "scheduling",
+        "inventory",
+        "quality-tracking",
+        "shop-floor"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 4,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-12-16T11:21:24.000Z"
+    },
+    {
       "title": "Manufacturing dummy ring kit",
       "link": "https://www.reddit.com/r/manufacturing/comments/1pnz98a/manufacturing_dummy_ring_kit/",
       "author": "/u/wordpressnoob1",
@@ -3036,74 +3102,6 @@
         "longTermSignificance": 2
       },
       "pubDate": "2025-12-09T19:45:15.000Z"
-    },
-    {
-      "title": "Best quoting software for small shops?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pih2cp/best_quoting_software_for_small_shops/",
-      "author": "/u/paranoidandroidxox",
-      "thumbnail": null,
-      "summary": "- The author seeks a better *quoting workflow* for a 15‑person shop doing *one-off* and small-batch parts.\n- They’ve checked **Paperless Parts** but fear the $500+/month cost; **QuickBooks** estimates feel too generic; many shops still rely on *Excel*, which wastes hours.\n- They’re asking what others use and what benefits they saw after *switching*.",
-      "keywords": [
-        "quoting-software",
-        "small-shop-manufacturing",
-        "quote-workflow",
-        "Paperless-Parts",
-        "Excel",
-        "manufacturing-technology"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 4,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-12-09T19:42:18.000Z"
-    },
-    {
-      "title": "Advice from professionals in manufacturing sector",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pieppv/advice_in_from_professionals_in_manufacturing/",
-      "author": "/u/Ok_Art8761",
-      "thumbnail": null,
-      "summary": "- The post asks for guidance on choosing between an apprenticeship track with several roles (one not currently available) and a short course, noting the options and listed skills.\n- Apprenticeship options include roles such as *Green Hydrogen Supply Chain - SHEQ Manager*, *Supply Chain Sustainability Specialist*, *Factory Compliance Auditor V4.0*, *EXIM Executive - V2.0*, and *Multimodal Transport Planner*.\n- The 8-month course, *Supply Chain Analyst*, covers *Supply Chain Optimization*, *Inventory & Warehouse Management*, *Digital Logistics*, *Procurement*, *Data Analytics*, *Sustainability*, and aims for practical decision-making; the author remains undecided.",
-      "keywords": [
-        "apprenticeship",
-        "supply-chain",
-        "manufacturing",
-        "career-path",
-        "logistics",
-        "education",
-        "advice"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-12-09T18:12:00.000Z"
-    },
-    {
-      "title": "Advice on approaching manufacturers",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pidul2/advice_on_approaching_manufacturers/",
-      "author": "/u/No-Two-5452",
-      "thumbnail": null,
-      "summary": "- *Targeting the right contacts* and providing preliminary information helps you get responses when approaching manufacturers.\n- *Timing* matters: year-end focus on tangible tasks can make discussions harder, so plan for a productive start to 2026.\n- With **25 years** in automation sales, focus on *relationship-building*, showing value, and addressing what buyers look for in equipment rather than pushing for an immediate sale.",
-      "keywords": [
-        "manufacturing",
-        "sales",
-        "outreach",
-        "automation",
-        "equipment",
-        "B2B",
-        "tips"
-      ],
-      "scores": {
-        "scale": 4,
-        "impact": 5,
-        "novelty": 3,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-12-09T17:40:28.000Z"
     }
   ]
 }
