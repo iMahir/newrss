@@ -5,6 +5,27 @@
   "feedUrl": "https://techxplore.com/rss-feed/breaking/hi-tech-news/",
   "items": [
     {
+      "title": null,
+      "link": null,
+      "author": null,
+      "thumbnail": null,
+      "summary": "- The UI displays a *bot verification* flow with messages like **\"Verifying that you are not a bot\"** and **\"Verifying your browser...\"**.  \n- It transitions to a *Verification Complete* screen stating **\"This page will redirect in a moment...\"**.  \n- This is a standard anti-bot check used to gate access to online content.",
+      "keywords": [
+        "verification",
+        "bot-check",
+        "security",
+        "anti-bot",
+        "web-accessibility"
+      ],
+      "scores": {
+        "scale": 2,
+        "impact": 3,
+        "novelty": 1,
+        "longTermSignificance": 2
+      },
+      "pubDate": "2025-12-16T14:07:48.000Z"
+    },
+    {
       "title": "Molecular fine-tuning boosts tandem solar cell efficiency to 31.4%",
       "link": "https://techxplore.com/news/2025-12-molecular-fine-tuning-boosts-tandem.html",
       "author": null,
@@ -12,27 +33,6 @@
       "summary": null,
       "keywords": [],
       "scores": null,
-      "pubDate": "2025-12-12T16:44:18.000Z"
-    },
-    {
-      "title": null,
-      "link": null,
-      "author": null,
-      "thumbnail": null,
-      "summary": "- The page presents a bot verification flow with a shield icon and messages like *Verifying that you are not a bot* and *Verifying your browser...*. \n- It then shows a *Verification Complete* screen and notes that the page will redirect in a moment. \n- This UI reflects a standard anti-bot/redirect UX used on many websites.",
-      "keywords": [
-        "web-security",
-        "bot-detection",
-        "verification-page",
-        "redirect",
-        "UX"
-      ],
-      "scores": {
-        "scale": 2,
-        "impact": 2,
-        "novelty": 1,
-        "longTermSignificance": 2
-      },
       "pubDate": "2025-12-12T16:44:18.000Z"
     },
     {
