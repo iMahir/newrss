@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Water Ingress at XLPE Joint – Looking for Ideas",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pow1nl/water_ingress_issue_during_continuous_xlpe/",
+      "author": "/u/yaitsev",
+      "thumbnail": null,
+      "summary": "- The post documents a sealing failure at the *crimp sleeve-conductor joint* in continuous XLPE insulation, letting *cooling water* penetrate under the insulation for *100–200 m* and causing scrap. - The author asks for alternative sealing materials, designs, or application methods and for changes in *crimp geometry*, *sealing length*, *tape type*, or process parameters that could improve reliability. - They are seeking best practices, redundancy ideas, or practical references—any experience that can help *reduce or eliminate water ingress* on CV lines.",
+      "keywords": [
+        "XLPE insulation",
+        "water ingress",
+        "crimp joint",
+        "sealing material",
+        "cable manufacturing",
+        "process optimization"
+      ],
+      "scores": {
+        "scale": 4,
+        "impact": 7,
+        "novelty": 3,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-12-17T13:06:31.000Z"
+    },
+    {
       "title": "Manual ballooning slowing team; anyone use Per6 lens?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1popyx2/manual_ballooning_is_slowing_down_our_team_anyone/",
       "author": "/u/Overall-Restaurant50",
@@ -3924,27 +3946,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-12-09T23:08:04.000Z"
-    },
-    {
-      "title": "Deviations: What's the most frustrating part?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1piiqcb/deviations_whats_the_most_frustrating_part_of/",
-      "author": "/u/LeekSpecific6017",
-      "thumbnail": null,
-      "summary": "- The post asks *what's the most frustrating part of this workflow* concerning *deviations*.\n- It invites the *manufacturing* community to share frustrations and experiences.\n- It includes links to the *original post* and its *comments* for discussion.",
-      "keywords": [
-        "manufacturing",
-        "deviations",
-        "workflow",
-        "quality",
-        "process-control"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 3,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-12-09T20:44:59.000Z"
     }
   ]
 }
