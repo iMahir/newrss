@@ -5,6 +5,28 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Standard for O-ring purposes ISO 3601-2:2025",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pps660/standard_for_oring_purposes_iso_360122025_pdf_file/",
+      "author": "/u/SadTruths_",
+      "thumbnail": null,
+      "summary": "- *ISO 3601-2:2025* is **copyrighted** and the full PDF isn’t legally available for free.\n- To obtain the complete standard, **buy it from ISO or your national standards body** or check **university or corporate libraries** that have access.\n- **Sharing the full PDF publicly would be illegal**.",
+      "keywords": [
+        "ISO 3601-2:2025",
+        "O-ring",
+        "standards",
+        "copyright",
+        "PDF access",
+        "legality"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-12-18T14:28:25.000Z"
+    },
+    {
       "title": "Looking for ultra low-maintenance trackers",
       "link": "https://www.reddit.com/r/manufacturing/comments/1ppoloe/looking_for_super_lowmaintenance_trackers_510/",
       "author": "/u/dylan-sf",
@@ -3922,28 +3944,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-12-10T20:32:47.000Z"
-    },
-    {
-      "title": "Books on Assembly Automation?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pjd5zg/books_on_assembly_automation/",
-      "author": "/u/aeropills22",
-      "thumbnail": null,
-      "summary": "- The post asks for *resources* to learn the *underlying components* of modern automated lines (actuators, materials, mechanisms).\n- A comment explains that *pneumatics* cover most *actuators*, *hydraulics* cover more, *electronics* cover others, and *materials science* is basic *mechanical engineering*; there is no single book to cover everything.\n- A practical path is to study the basics across these domains (mechanical + electrical) to gain a solid foundation for understanding *assembly automation*.",
-      "keywords": [
-        "assembly automation",
-        "actuators",
-        "pneumatics",
-        "hydraulics",
-        "electronics",
-        "resources"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 5,
-        "novelty": 3,
-        "longTermSignificance": 7
-      },
-      "pubDate": "2025-12-10T20:12:36.000Z"
     }
   ]
 }
