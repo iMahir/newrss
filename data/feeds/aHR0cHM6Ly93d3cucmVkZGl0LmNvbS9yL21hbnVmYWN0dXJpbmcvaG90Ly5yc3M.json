@@ -5,6 +5,27 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Looking for ultra low-maintenance trackers",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1ppoloe/looking_for_super_lowmaintenance_trackers_510/",
+      "author": "/u/dylan-sf",
+      "thumbnail": null,
+      "summary": "- In an industrial setting where devices sit idle most of the year, *long‑life batteries* are essential because cellular dies fast.\n- The poster seeks trackers with *5–10 year* battery life and *global reach*, avoiding bespoke infrastructure.\n- They want a **low-maintenance** and *widely accessible* solution that just works.",
+      "keywords": [
+        "industrial IoT",
+        "battery life",
+        "low-maintenance",
+        "remote tracking",
+        "global reach"
+      ],
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 3,
+        "longTermSignificance": 6
+      },
+      "pubDate": "2025-12-18T11:31:57.000Z"
+    },
+    {
       "title": "Detecting tape folding in XLPE shielding",
       "link": "https://www.reddit.com/r/manufacturing/comments/1ppln0t/how_to_detect_tape_folding_during_shielding_on/",
       "author": "/u/yaitsev",
@@ -3923,28 +3944,6 @@
         "longTermSignificance": 7
       },
       "pubDate": "2025-12-10T20:12:36.000Z"
-    },
-    {
-      "title": "Struggling to job cost...",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pj8fw7/struggling_to_job_cost/",
-      "author": "/u/Aggravating_Ear9829",
-      "thumbnail": null,
-      "summary": "- The post seeks to compute *cost per placement* and the *labor rate* to quote PCBA jobs, noting a plan for a single placement rate despite a wide possible range (2k–8k placements/hour). \n- Suggestions advocate building a cost model in a spreadsheet, tracking overhead (rent, benefits) and materials; consider **CPA** expertise and even try **AI tools** for an initial pass; benchmark with suppliers like **JLCPCB**. \n- Decide whether the goal is precise quoting or benchmarking, choose a standard rate or a range, and align overhead and direct materials with the expected margin.",
-      "keywords": [
-        "job costing",
-        "cost per placement",
-        "PCB assembly",
-        "overhead",
-        "quoting",
-        "benchmarking"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 6,
-        "novelty": 4,
-        "longTermSignificance": 5
-      },
-      "pubDate": "2025-12-10T17:20:16.000Z"
     }
   ]
 }
