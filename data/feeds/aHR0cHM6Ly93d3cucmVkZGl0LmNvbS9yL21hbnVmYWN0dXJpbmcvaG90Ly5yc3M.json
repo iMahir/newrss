@@ -5,32 +5,6 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
-      "title": "Can India Build High-Quality Cameras and Screens for Cars to Improve Visibility on Our Roads?",
-      "author": "/u/Buildingtech",
-      "thumbnail": null,
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pqf8cr/can_india_build_highquality_cameras_and_screens/",
-      "summary": "- India's in-car cameras and 360-degree displays often produce blurry or grainy images in traffic, fog, rain, and low light, raising safety concerns.\n- The post asks if India could domestically develop high-quality cameras/screens (4K, night vision, AI clarity) tailored to monsoons, dust, and varied road conditions.\n- It wonders if Tata, Mahindra, or startups could lead such a program and seeks insights on technical challenges and costs.",
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 7
-      },
-      "keywords": [
-        "automotive cameras",
-        "in-car displays",
-        "India manufacturing",
-        "4K cameras",
-        "AI enhancement",
-        "night vision",
-        "monsoon robustness",
-        "Tata",
-        "Mahindra",
-        "safety technology"
-      ],
-      "pubDate": "2025-12-19T07:38:05.000Z"
-    },
-    {
       "title": "Anyone here actually sourcing from India?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1pqkkfu/anyone_here_actually_sourcing_from_india/",
       "author": "/u/Due-Chemistry8713",
@@ -64,6 +38,32 @@
         "substitution policy"
       ],
       "pubDate": "2025-12-19T08:30:27.000Z"
+    },
+    {
+      "title": "Can India Build High-Quality Cameras and Screens for Cars to Improve Visibility on Our Roads?",
+      "author": "/u/Buildingtech",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pqf8cr/can_india_build_highquality_cameras_and_screens/",
+      "summary": "- India's in-car cameras and 360-degree displays often produce blurry or grainy images in traffic, fog, rain, and low light, raising safety concerns.\n- The post asks if India could domestically develop high-quality cameras/screens (4K, night vision, AI clarity) tailored to monsoons, dust, and varied road conditions.\n- It wonders if Tata, Mahindra, or startups could lead such a program and seeks insights on technical challenges and costs.",
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "keywords": [
+        "automotive cameras",
+        "in-car displays",
+        "India manufacturing",
+        "4K cameras",
+        "AI enhancement",
+        "night vision",
+        "monsoon robustness",
+        "Tata",
+        "Mahindra",
+        "safety technology"
+      ],
+      "pubDate": "2025-12-19T07:38:05.000Z"
     },
     {
       "title": "Li-Ning Central Laboratory Visits ChiuVention to Discuss Smart Textile Testing",
@@ -113,26 +113,29 @@
       "pubDate": "2025-12-18T20:52:10.000Z"
     },
     {
-      "title": "How to detect tape folding during shielding on XLPE cable line?",
-      "author": "/u/yaitsev",
+      "title": "Standard for O-ring purposes ISO 3601-2:2025",
+      "author": "/u/SadTruths_",
       "thumbnail": null,
-      "link": "https://www.reddit.com/r/manufacturing/comments/1ppln0t/how_to_detect_tape_folding_during_shielding_on/",
-      "summary": "- Inline vision systems (Keyence, Cognex) monitor tape width/shape/color/texture to detect folding and trigger alarms or line stops; on-board processing with PC setup; Ethernet/PLC integration.\n- Training with good/bad samples; vendor demos; many systems are all-in-one units; setup can be laptop-based; PLCs handle alarms.\n- Software analysis is usually required; cheaper options include non-contact thickness sensors (ultrasonic/capacitive) or tension-based tape-break sensors as supplements.",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pps660/standard_for_oring_purposes_iso_360122025_pdf_file/",
+      "summary": "- Discussion shows ISO 3601-2:2025 isn’t freely available; full PDFs are usually behind purchase or library access, with only 3601-2:2016 or previews publicly accessible.\n- Legitimate access: buy from ISO or a national standards body, or check university/corporate libraries that subscribe to standards databases.\n- Public sharing of the full PDF is illegal; prices typically a few hundred CHF, with some cheaper or free options and possible government-access mandates.",
       "scores": {
-        "scale": 8,
+        "scale": 6,
         "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
+        "novelty": 4,
+        "longTermSignificance": 6
       },
       "keywords": [
-        "tape folding",
-        "XLPE cable shielding",
-        "machine vision",
-        "inline inspection",
-        "industrial automation",
-        "defect detection"
+        "ISO 3601-2:2025",
+        "O-ring",
+        "standards access",
+        "copyright",
+        "purchase",
+        "library access",
+        "university library",
+        "government access",
+        "pricing"
       ],
-      "pubDate": "2025-12-18T08:19:28.000Z"
+      "pubDate": "2025-12-18T14:28:25.000Z"
     },
     {
       "title": "Looking for super low-maintenance trackers .. 5–10 years battery ideally?",
@@ -162,52 +165,26 @@
       "pubDate": "2025-12-18T11:31:57.000Z"
     },
     {
-      "title": "Standard for O-ring purposes ISO 3601-2:2025",
-      "author": "/u/SadTruths_",
+      "title": "How to detect tape folding during shielding on XLPE cable line?",
+      "author": "/u/yaitsev",
       "thumbnail": null,
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pps660/standard_for_oring_purposes_iso_360122025_pdf_file/",
-      "summary": "- Discussion shows ISO 3601-2:2025 isn’t freely available; full PDFs are usually behind purchase or library access, with only 3601-2:2016 or previews publicly accessible.\n- Legitimate access: buy from ISO or a national standards body, or check university/corporate libraries that subscribe to standards databases.\n- Public sharing of the full PDF is illegal; prices typically a few hundred CHF, with some cheaper or free options and possible government-access mandates.",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1ppln0t/how_to_detect_tape_folding_during_shielding_on/",
+      "summary": "- Inline vision systems (Keyence, Cognex) monitor tape width/shape/color/texture to detect folding and trigger alarms or line stops; on-board processing with PC setup; Ethernet/PLC integration.\n- Training with good/bad samples; vendor demos; many systems are all-in-one units; setup can be laptop-based; PLCs handle alarms.\n- Software analysis is usually required; cheaper options include non-contact thickness sensors (ultrasonic/capacitive) or tension-based tape-break sensors as supplements.",
       "scores": {
-        "scale": 6,
+        "scale": 8,
         "impact": 7,
-        "novelty": 4,
-        "longTermSignificance": 6
+        "novelty": 6,
+        "longTermSignificance": 7
       },
       "keywords": [
-        "ISO 3601-2:2025",
-        "O-ring",
-        "standards access",
-        "copyright",
-        "purchase",
-        "library access",
-        "university library",
-        "government access",
-        "pricing"
+        "tape folding",
+        "XLPE cable shielding",
+        "machine vision",
+        "inline inspection",
+        "industrial automation",
+        "defect detection"
       ],
-      "pubDate": "2025-12-18T14:28:25.000Z"
-    },
-    {
-      "title": "Is there actually a 'best' 5-axis automation tool or does it depend on your workflow?",
-      "author": "/u/RevolutionaryBid7171",
-      "thumbnail": null,
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pp3fns/is_there_actually_a_best_5axis_automation_tool_or/",
-      "summary": "- The post questions whether there is a universal 'best' 5-axis automation tool or if choice hinges on workflow and application.\n- Real-world performance depends on serviceability, nearby support, timely spares, and technician availability more than brand hype.\n- Clarifying what 'tool' means (machine tool vs programming tool vs software) is essential to align expectations with the intended workflow.",
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 4,
-        "longTermSignificance": 5
-      },
-      "keywords": [
-        "5-axis",
-        "automation",
-        "manufacturing",
-        "tool selection",
-        "workflow",
-        "serviceability",
-        "support"
-      ],
-      "pubDate": "2025-12-17T18:04:07.000Z"
+      "pubDate": "2025-12-18T08:19:28.000Z"
     },
     {
       "title": "Feeling stuck - looking to create quality fabric covered hinged boxes",
@@ -235,6 +212,29 @@
       "pubDate": "2025-12-17T19:20:26.000Z"
     },
     {
+      "title": "Is there actually a 'best' 5-axis automation tool or does it depend on your workflow?",
+      "author": "/u/RevolutionaryBid7171",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pp3fns/is_there_actually_a_best_5axis_automation_tool_or/",
+      "summary": "- The post questions whether there is a universal 'best' 5-axis automation tool or if choice hinges on workflow and application.\n- Real-world performance depends on serviceability, nearby support, timely spares, and technician availability more than brand hype.\n- Clarifying what 'tool' means (machine tool vs programming tool vs software) is essential to align expectations with the intended workflow.",
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "keywords": [
+        "5-axis",
+        "automation",
+        "manufacturing",
+        "tool selection",
+        "workflow",
+        "serviceability",
+        "support"
+      ],
+      "pubDate": "2025-12-17T18:04:07.000Z"
+    },
+    {
       "title": "Water Ingress Issue During Continuous XLPE Insulation – Looking for Ideas",
       "author": "/u/yaitsev",
       "thumbnail": null,
@@ -258,30 +258,6 @@
         "quality scrap"
       ],
       "pubDate": "2025-12-17T13:06:31.000Z"
-    },
-    {
-      "title": "Cosmetic Manufacturers",
-      "author": "/u/KatKatRatTat",
-      "thumbnail": null,
-      "link": "https://www.reddit.com/r/manufacturing/comments/1poky9y/cosmetic_manufacturers/",
-      "summary": "- Summarizes NA search for cosmetic manufacturers offering low MOQs able to handle custom formulations, noting scarcity and the possibility of needing ownership of the formulation. - Highlights negotiating IP ownership to enable licensing or ongoing control as the brand grows. - Outlines MOQ distinctions for custom formulas vs stock, packaging/labeling inclusion, and lists Canada/USA vendors with NA shipping and licensing implications.",
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 4,
-        "longTermSignificance": 7
-      },
-      "keywords": [
-        "cosmetics manufacturing",
-        "minimum order quantities",
-        "MOQs",
-        "IP ownership",
-        "white-label",
-        "North America",
-        "vendor list",
-        "custom formulations"
-      ],
-      "pubDate": "2025-12-17T02:28:07.000Z"
     },
     {
       "title": "Manual ballooning is slowing down our team, anyone switched to Per6 lens for inspection workflows?",
@@ -310,27 +286,28 @@
       "pubDate": "2025-12-17T06:55:57.000Z"
     },
     {
-      "title": "Manufacturing dummy ring kit",
-      "author": "/u/wordpressnoob1",
+      "title": "Cosmetic Manufacturers",
+      "author": "/u/KatKatRatTat",
       "thumbnail": null,
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pnz98a/manufacturing_dummy_ring_kit/",
-      "summary": "- SLA 3D printing is favored for 7-size dummy rings; watch post‑processing time; careful orientation can minimize supports.\n- Packaging often uses stock boxes with a custom insert; estimates vary (roughly $5–$6 per box; total packaging around $2k for 1,000); cheaper inserts or outsourcing can help.\n- For small runs, off‑the‑shelf/white-labeled kits or service bureaus are cheaper than in‑house tooling; consider Alibaba vendors, existing rings, or zip‑tie sizing while validating standard sizes and branding.",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1poky9y/cosmetic_manufacturers/",
+      "summary": "- Summarizes NA search for cosmetic manufacturers offering low MOQs able to handle custom formulations, noting scarcity and the possibility of needing ownership of the formulation. - Highlights negotiating IP ownership to enable licensing or ongoing control as the brand grows. - Outlines MOQ distinctions for custom formulas vs stock, packaging/labeling inclusion, and lists Canada/USA vendors with NA shipping and licensing implications.",
       "scores": {
-        "scale": 7,
+        "scale": 6,
         "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
+        "novelty": 4,
+        "longTermSignificance": 7
       },
       "keywords": [
-        "dummy ring kit",
-        "SLA 3D printing",
-        "packaging design",
-        "cost optimization",
-        "service bureau",
+        "cosmetics manufacturing",
+        "minimum order quantities",
+        "MOQs",
+        "IP ownership",
         "white-label",
-        "ring sizing"
+        "North America",
+        "vendor list",
+        "custom formulations"
       ],
-      "pubDate": "2025-12-16T11:06:26.000Z"
+      "pubDate": "2025-12-17T02:28:07.000Z"
     },
     {
       "title": "Looking for beginner-friendly MRP software (1 user) – small manufacturing setup",
@@ -364,6 +341,49 @@
       "pubDate": "2025-12-16T12:12:06.000Z"
     },
     {
+      "title": "[Help] Guidance to project and buy material for a simple and cheap guardrail",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1po03zj/help_guidance_to_project_and_buy_material_for_a/",
+      "author": "/u/CanelasReddit",
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-12-16T11:56:20.000Z"
+    },
+    {
+      "title": "What’s been harder to automate: scheduling, inventory accuracy, or quality tracking?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pnzibf/whats_been_harder_to_automate_scheduling/",
+      "author": "/u/Character_Physics713",
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-12-16T11:21:24.000Z"
+    },
+    {
+      "title": "Manufacturing dummy ring kit",
+      "author": "/u/wordpressnoob1",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pnz98a/manufacturing_dummy_ring_kit/",
+      "summary": "- SLA 3D printing is favored for 7-size dummy rings; watch post‑processing time; careful orientation can minimize supports.\n- Packaging often uses stock boxes with a custom insert; estimates vary (roughly $5–$6 per box; total packaging around $2k for 1,000); cheaper inserts or outsourcing can help.\n- For small runs, off‑the‑shelf/white-labeled kits or service bureaus are cheaper than in‑house tooling; consider Alibaba vendors, existing rings, or zip‑tie sizing while validating standard sizes and branding.",
+      "scores": {
+        "scale": 7,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "keywords": [
+        "dummy ring kit",
+        "SLA 3D printing",
+        "packaging design",
+        "cost optimization",
+        "service bureau",
+        "white-label",
+        "ring sizing"
+      ],
+      "pubDate": "2025-12-16T11:06:26.000Z"
+    },
+    {
       "title": "Small injection molding shops: what usually causes the most rework for you?",
       "author": "/u/jesiscaanyway",
       "thumbnail": null,
@@ -386,34 +406,14 @@
       "pubDate": "2025-12-16T08:00:11.000Z"
     },
     {
-      "title": "Automotive bodykit manufacturing?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pnp42h/automotive_bodykit_manufacturing/",
-      "author": "/u/ZachOrie",
+      "title": "How you'd die after welding a part that was covered in chlorinated break cleaner. (Spoiler: very painfully and agonised)",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pnt5jd/how_youd_die_after_welding_a_part_that_was/",
+      "author": "/u/Crazy-Red-Fox",
       "thumbnail": null,
       "summary": null,
       "keywords": [],
       "scores": null,
-      "pubDate": "2025-12-16T01:26:10.000Z"
-    },
-    {
-      "title": "[Help] Guidance to project and buy material for a simple and cheap guardrail",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1po03zj/help_guidance_to_project_and_buy_material_for_a/",
-      "author": "/u/CanelasReddit",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-16T11:56:20.000Z"
-    },
-    {
-      "title": "What’s been harder to automate: scheduling, inventory accuracy, or quality tracking?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pnzibf/whats_been_harder_to_automate_scheduling/",
-      "author": "/u/Character_Physics713",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-16T11:21:24.000Z"
+      "pubDate": "2025-12-16T04:44:28.000Z"
     },
     {
       "title": "Manufacturing Site Visit + Final Interview Advice Needed",
@@ -434,16 +434,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-12-16T02:28:37.000Z"
-    },
-    {
-      "title": "How you'd die after welding a part that was covered in chlorinated break cleaner. (Spoiler: very painfully and agonised)",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pnt5jd/how_youd_die_after_welding_a_part_that_was/",
-      "author": "/u/Crazy-Red-Fox",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-16T04:44:28.000Z"
     },
     {
       "title": "What's the most annoying part of your job that has nothing to do with actually making parts?",
@@ -470,6 +460,16 @@
       "pubDate": "2025-12-16T02:22:58.000Z"
     },
     {
+      "title": "Automotive bodykit manufacturing?",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pnp42h/automotive_bodykit_manufacturing/",
+      "author": "/u/ZachOrie",
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-12-16T01:26:10.000Z"
+    },
+    {
       "title": "Shed/ exterior structure manufacturing",
       "author": "/u/Expensive-Tip",
       "thumbnail": null,
@@ -494,6 +494,35 @@
         "manufacturer collaboration"
       ],
       "pubDate": "2025-12-15T23:47:56.000Z"
+    },
+    {
+      "title": "Metal shops: what do you do with all your drop/extra Material",
+      "author": "/u/CheeseheadTroy",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pn7wor/metal_shops_what_do_you_do_with_all_your/",
+      "summary": "- Implement disciplined SOPs; categorize by material/thickness, use dedicated scrap bins, color tags, and space-efficient racks; develop cutting plans to maximize yield.\n- Establish drop-management with QR logging, weigh-and-record bins, partner with local recyclers, and separate scrap from reusable drops; explore donations.\n- Most drops go to scrap; reuse where feasible; quantify costs (space, labor, rent) to balance inventory with shop throughput.",
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "keywords": [
+        "scrap management",
+        "inventory control",
+        "drop management",
+        "material handling",
+        "color-coding",
+        "SOP",
+        "cutting plans",
+        "palletization",
+        "recycling",
+        "donation",
+        "logistics",
+        "waste reduction",
+        "QR code"
+      ],
+      "pubDate": "2025-12-15T13:54:03.000Z"
     }
   ]
 }
