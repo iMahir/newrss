@@ -1,0 +1,217 @@
+{
+  "id": 22,
+  "title": "Nature Energy",
+  "link": "http://feeds.nature.com/nenergy/rss/current",
+  "feedUrl": "https://www.nature.com/nenergy.rss",
+  "items": [
+    {
+      "title": "Interregional transmission can increase reliability while reducing costs and emissions in the US",
+      "author": null,
+      "thumbnail": null,
+      "link": "https://www.nature.com/articles/s41560-025-01914-6",
+      "summary": "- Uniform ITC 30% across regions: ~39% fewer outages; system cost down ~$0.48B/yr; emissions ~43 Mt/yr lower.\\n- Region-specific ITC: ~$2.0B/yr cost savings and ~71 Mt/yr emissions reductions, but reliability gains vary by region; CA may worsen without new lines; TX excluded.\\n- More renewables boost savings and emissions reductions under either approach; permitting reform remains a major barrier to transmission expansion.",
+      "scores": {
+        "scale": 9,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 9
+      },
+      "keywords": [
+        "transmission planning",
+        "interregional transmission",
+        "grid reliability",
+        "cost savings",
+        "emissions reductions",
+        "renewables integration",
+        "policy barriers",
+        "ITC policy",
+        "carbon emissions",
+        "energy policy"
+      ],
+      "pubDate": "2025-12-19T14:10:38.631Z"
+    },
+    {
+      "title": "Vehicle-to-home charging can cut costs and emissions",
+      "author": null,
+      "thumbnail": null,
+      "link": "https://www.nature.com/articles/s41560-025-01899-2",
+      "summary": "- Model V2H for 6,480 EVs across 432 US regions; V2H reduces lifetime GHG emissions by 70–250% and charging costs by 40–90%, with some CA/TX cases offsetting costs.\\n- Median per-household savings ~$3,800 and GHG reduction ~38 t CO2e; up to 60% of the US population could see net GHG reductions.\\n- Policy implications call for user-friendly savings tools, include V2H in planning, rate design, updated building codes, retraining, and transparent battery-degradation reporting.",
+      "scores": {
+        "scale": 9,
+        "impact": 9,
+        "novelty": 8,
+        "longTermSignificance": 9
+      },
+      "keywords": [
+        "vehicle-to-home charging",
+        "V2H",
+        "EV",
+        "GHG emissions",
+        "cost savings",
+        "home energy management",
+        "policy implications",
+        "grid decarbonization"
+      ],
+      "pubDate": "2025-12-19T14:10:38.631Z"
+    },
+    {
+      "title": "Vehicle-to-home charging can cut costs and greenhouse gas emissions across the USA",
+      "author": null,
+      "thumbnail": null,
+      "link": "https://www.nature.com/articles/s41560-025-01894-7",
+      "summary": "- Vehicle-to-home/vehicle-to-grid enable EVs with rooftop PV and storage to cut home energy costs and emissions by shifting to low‑carbon periods.\n- A nationwide impact depends on grid carbon intensity, tariffs, and the adoption of smart charging and home energy management systems.\n- Realizing benefits requires policy support, rate design, and investment in bidirectional charging and grid resilience while managing battery degradation.",
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 9
+      },
+      "keywords": [
+        "vehicle-to-home",
+        "V2H",
+        "V2G",
+        "electrified transport",
+        "grid integration",
+        "smart charging",
+        "home energy management",
+        "PV",
+        "batteries",
+        "decarbonization"
+      ],
+      "pubDate": "2025-12-19T14:10:38.631Z"
+    },
+    {
+      "title": "Converting methane into carbon nanotubes and hydrogen in a continuous flow reactor",
+      "author": null,
+      "thumbnail": null,
+      "link": "https://www.nature.com/articles/s41560-025-01926-2",
+      "summary": "- Shows co-production of carbon nanotubes and hydrogen from methane in a multi-pass FCCVD reactor under continuous flow.\n- Recycling process gas improves efficiency and enables net hydrogen production alongside CNTs.\n- Highlights a pathway for integrated CNT/hydrogen production, with Figure 1 illustrating gas recycling.",
+      "scores": {
+        "scale": 8,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 7
+      },
+      "keywords": [
+        "carbon nanotubes",
+        "CNT",
+        "methane conversion",
+        "hydrogen co-production",
+        "FCCVD",
+        "continuous-flow reactor",
+        "process-gas recycling",
+        "Nature Energy 2025",
+        "Peden et al."
+      ],
+      "pubDate": "2025-12-19T14:10:38.631Z"
+    },
+    {
+      "title": "Emerging opportunities for high-temperature solid-state and gas-cycle heat pumps",
+      "author": null,
+      "thumbnail": null,
+      "link": "https://www.nature.com/articles/s41560-025-01908-4",
+      "summary": "- Survey of high-temperature industrial heat pumps, waste-heat recovery, thermal storage (PHES), and low-GWP refrigerants with thermoacoustic/Stirling options. - Caloric-cycle research (magnetocaloric, barocaloric, elastocaloric) with materials/devices, regenerators, and high-temperature Brayton/closed cycles. - TE and HT heat-pump modeling/experiments, liquid metals as HT fluids, preheating strategies, CO2 cycles, and advanced materials.",
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 9
+      },
+      "keywords": [
+        "high-temperature heat pumps",
+        "waste heat recovery",
+        "PHES",
+        "caloric cooling",
+        "magnetocaloric",
+        "barocaloric",
+        "elastocaloric",
+        "thermoacoustic",
+        "Stirling",
+        "regenerators",
+        "liquid metals",
+        "CO2 cycles",
+        "Brayton cycle",
+        "low-GWP refrigerants"
+      ],
+      "pubDate": "2025-12-19T14:10:38.631Z"
+    },
+    {
+      "title": "AI data centres as grid-interactive assets",
+      "author": null,
+      "thumbnail": null,
+      "link": "https://www.nature.com/articles/s41560-025-01927-1",
+      "summary": "- Argues AI data centres can function as grid-interactive assets to support grid flexibility through controllable compute workloads.\n- Describes field-testing by Emerald AI with industry partners and provides data/code resources for DVFS-based power management of LLM workloads.\n- Contextualizes within data-center energy literature and partnerships (Oracle, NVIDIA, SRP, EPRI) with disclosures and broader impact.",
+      "scores": {
+        "scale": 9,
+        "impact": 9,
+        "novelty": 8,
+        "longTermSignificance": 9
+      },
+      "keywords": [
+        "AI data centres",
+        "grid-interactive assets",
+        "demand response",
+        "power management",
+        "DVFS",
+        "data-center energy",
+        "Emerald AI",
+        "Oracle",
+        "NVIDIA",
+        "SRP",
+        "EPRI",
+        "Nature Energy"
+      ],
+      "pubDate": "2025-12-19T14:10:38.631Z"
+    },
+    {
+      "title": "Atmospheric-pressure ammonia synthesis on AuRu catalysts enabled by plasmon-controlled hydrogenation and nitrogen-species desorption",
+      "author": null,
+      "thumbnail": null,
+      "link": "https://www.nature.com/articles/s41560-025-01911-9",
+      "summary": "- Atmospheric-pressure NH3 synthesis on AuRu catalysts achieved under plasmonic activation, with light-controlled hydrogenation and nitrogen-species desorption enabling NH3 formation.\n- Operando spectroscopy and kinetic analyses link hot-carrier–driven steps to N2 activation on AuRu and subsequent NH3 release, identifying active sites.\n- Frames plasmonic AuRu systems within solar-driven nitrogen fixation as a pathway toward ambient-condition ammonia using earth-abundant metals.",
+      "scores": {
+        "scale": 9,
+        "impact": 9,
+        "novelty": 8,
+        "longTermSignificance": 9
+      },
+      "keywords": [
+        "plasmonic photocatalysis",
+        "AuRu",
+        "ammonia synthesis",
+        "nitrogen activation",
+        "hot-carrier dynamics",
+        "nitrogen-species desorption",
+        "atmospheric pressure",
+        "photothermal"
+      ],
+      "pubDate": "2025-12-19T14:10:38.631Z"
+    },
+    {
+      "title": "Centimetre-scale fullerene-free tin-based perovskite solar cells with a 14.51% certified efficiency",
+      "author": null,
+      "thumbnail": null,
+      "link": "https://www.nature.com/articles/s41560-025-01919-1",
+      "summary": "- Centimetre-scale tin-based perovskite solar cells use non-fullerene, fluorinated triple-acceptor ETLs (P1–P3) to form uniform, efficient interfaces on large areas.\n- P3 delivers top results: 16.06% (0.04 cm2, certified 15.90%) and 14.67% (1 cm2, certified 14.51%), outperforming fullerene ETLs.\n- Devices retain >85% efficiency after 550 h under 1-sun illumination, aided by hydrophobic chains and fluorine; multi-institutional data with extensive SI.",
+      "scores": {
+        "scale": 9,
+        "impact": 9,
+        "novelty": 8,
+        "longTermSignificance": 9
+      },
+      "keywords": [
+        "tin-based perovskites",
+        "non-fullerene acceptors",
+        "electron-transport layer",
+        "fluorinated polymers",
+        "P3 polymer",
+        "perovskite solar cells",
+        "cm-scale",
+        "stability",
+        "certified efficiency",
+        "Nature Energy 2025"
+      ],
+      "pubDate": "2025-12-19T14:10:38.631Z"
+    }
+  ]
+}
