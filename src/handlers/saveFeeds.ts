@@ -62,7 +62,7 @@ export async function updateRssJson(ids: number[]) {
             if (ids.includes(feed.id)) {
                 return {
                     ...feed,
-                    lastUpdated: new Date().toUTCString()
+                    lastUpdated: new Date().toISOString()
                 }
             }
             else {
@@ -71,8 +71,6 @@ export async function updateRssJson(ids: number[]) {
         });
 
         await writeData(`data/rss.json`, updatedFeeds, { isJSON: true });
-        console.log(updatedFeeds);
-
         console.log("Updated RSS JSON");
     }
     catch {
@@ -80,3 +78,4 @@ export async function updateRssJson(ids: number[]) {
     }
 
 }
+
