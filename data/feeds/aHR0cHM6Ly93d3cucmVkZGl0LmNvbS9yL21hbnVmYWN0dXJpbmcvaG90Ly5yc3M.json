@@ -5,6 +5,29 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Component sourcing as a hidden bottleneck in PCB assembly",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pqg1ua/component_sourcing_as_a_hidden_bottleneck_in_pcb/",
+      "author": "/u/Jammyyy_jam",
+      "thumbnail": null,
+      "summary": "- *Component sourcing* can derail PCB assembly with long *lead times*, counterfeit risk, and sudden shortages.\n- Some providers handle procurement and emphasize *supplier qualification* and *incoming inspection*, which can affect *yield* and *reliability*.\n- Teams must decide where to draw the boundary between *locking parts* and allowing *substitutions* to balance *design intent* and *supply reality*.",
+      "keywords": [
+        "PCB design",
+        "supply chain",
+        "component sourcing",
+        "assembly yield",
+        "lead times",
+        "procurement",
+        "risk management"
+      ],
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "pubDate": "2025-12-19T08:30:27.000Z"
+    },
+    {
       "title": "Can India Build High-Quality Car Cameras and Screens?",
       "link": "https://www.reddit.com/r/manufacturing/comments/1pqf8cr/can_india_build_highquality_cameras_and_screens/",
       "author": "/u/Buildingtech",
@@ -2911,28 +2934,6 @@
         "longTermSignificance": 5
       },
       "pubDate": "2025-12-11T12:42:31.000Z"
-    },
-    {
-      "title": "Guidance on exporting custom electrical panels to the US",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pjoeem/looking_for_guidance_on_exporting_custom/",
-      "author": "/u/SparkNavigator",
-      "thumbnail": null,
-      "summary": "- The post asks which certifications and compliance are needed (e.g., *UL listings*, *NEC compliance*) to export to the US.\n- It asks whether a small manufacturer can realistically export small batches and what volumes are viable.\n- It asks which channels to use to find buyers (distributors, contractors, or direct sales) and what common mistakes to avoid in the US market.",
-      "keywords": [
-        "export",
-        "electrical panels",
-        "UL",
-        "NEC",
-        "US market",
-        "compliance"
-      ],
-      "scores": {
-        "scale": 6,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "pubDate": "2025-12-11T04:25:26.000Z"
     }
   ]
 }
