@@ -1,180 +1,264 @@
-import axios from 'axios';
-import Bottleneck from 'bottleneck';
-import { PostRssJson, PreRssJson } from "../utils/rss/types";
+import axios from "axios";
+import Bottleneck from "bottleneck";
+import { PreRssJson, PostRssJson } from "../utils/rss/types";
 
-
-interface GptInput {
-    prompts: { role: string, content: string }[];
-    model?: string;
-}
+const MODEL = "openai";
+const MAX_CHUNK_CHARS = 6000;
+const CHUNK_OVERLAP = 400;
 
 const limiter = new Bottleneck({
-    maxConcurrent: 5,
-    minTime: 500,
+  maxConcurrent: 4,
+  minTime: 1500,
 });
 
-const rateLimitedAxios = limiter.wrap(
-    async (config: { url: string, data?: any, config?: any }) => {
-        return axios.post(config.url, config.data, config.config);
+export const handleFeeds = async (
+  parsedFeeds: PreRssJson[]
+): Promise<PostRssJson[]> => {
+  const result: PostRssJson[] = [];
+
+  for (const feed of parsedFeeds) {
+    const items: PostRssJson["items"] = [];
+
+    for (const item of feed.items) {
+      items.push(await generatePostRssJson(item));
     }
-);
 
-export const handleFeeds = async (parsedFeeds: PreRssJson[]): Promise<PostRssJson[]> => {
+    result.push({ ...feed, items });
+  }
 
-    const feeds = await Promise.all(parsedFeeds.map(async (feed) => {
-        const processedItems = await Promise.all(feed.items.map(async (item) => {
-            const postRssJsonItem = await generatePostRssJson(item);
-            return postRssJsonItem;
-        }));
-
-        return {
-            ...feed,
-            items: processedItems
-        };
-    }));
-
-    return feeds;
+  return result;
 };
 
-const generatePostRssJson = async (preRssJsonItem: PreRssJson['items'][0], retry?: boolean): Promise<PostRssJson["items"][0]> => {
-    const prompts = [
-        {
-            role: "system",
-            content: `
-You are SummarAI 🔍, the world’s best summarizer.  
-• You will receive a single “Content” payload that is either raw HTML or a plain-text transcript.  
-• You must output exactly one JSON object, with no surrounding text or fences.  
-• If the input is inaccessible or gibberish, output the literal value false (not in quotes).  
-• The “summary” field may include Markdown (italics, bold) to highlight key points.  
-`
-        },
-        {
-            role: "system",
-            content: `
-OUTPUT SCHEMA (strict JSON):
+async function generatePostRssJson(
+  item: PreRssJson["items"][0]
+): Promise<PostRssJson["items"][0]> {
+  if (!item.content) return emptyResult(item);
+
+  const cleanText = sanitizeHtml(item.content);
+  const chunks = splitWithOverlap(cleanText, MAX_CHUNK_CHARS, CHUNK_OVERLAP);
+
+  const partialSummaries: string[] = [];
+
+  for (let i = 0; i < chunks.length; i++) {
+    console.log(`Summarizing chunk ${i + 1}/${chunks.length}`);
+    const res = await summarizeChunk(chunks[i], i + 1, chunks.length);
+    if (res?.summary) partialSummaries.push(res.summary);
+  }
+
+  if (!partialSummaries.length) return emptyResult(item);
+
+  const final = await mergeSummaries(partialSummaries, item);
+  if (!final) return emptyResult(item);
+
+  return {
+    ...final,
+    author: item.author ?? final.author ?? null,
+    thumbnail: item.thumbnail ?? final.thumbnail ?? null,
+    link: item.link,
+    pubDate: item.pubDate,
+  };
+}
+
+async function summarizeChunk(
+  text: string,
+  index: number,
+  total: number
+): Promise<{ summary: string } | null> {
+  return callGptJson(
+    [
+      {
+        role: "system",
+        content: `
+You are SummarAI.
+Extract only novel, non-repetitive information.
+Write a concise factual summary (≤${MAX_CHUNK_CHARS / (total + 1)} characters).
+
+Return STRICT JSON only:
+{ "summary": string }
+        `.trim(),
+      },
+      {
+        role: "user",
+        content: `Chunk ${index} of ${total}:\n\n${text}`,
+      },
+    ]
+  );
+}
+
+async function mergeSummaries(
+  summaries: string[],
+  item: PreRssJson["items"][0]
+): Promise<any | null> {
+  return callGptJson(
+    [
+      {
+        role: "system",
+        content: `
+You are SummarAI 🔍
+
+Return EXACTLY one JSON object.
+No explanations. No markdown.
+
+If input is gibberish, return false.
+
+Schema:
 {
-  "title":      string|null,         // Human‑readable title (≤60 chars)
-  "author":     string|null,         // Comma‑separated or null
-  "thumbnail":  string|null,         // URL string or null
-  "link":       string|null,         // Original URL or null
-  "summary":    string,              // Markdown summary (≤ 500 characters), exactly 3 bullet points:
-                                     // - sentence 1
-                                     // - sentence 2
-                                     // - sentence 3
-                                     // Emphasize keywords with *italics* or **bold**.
+  "title": string|null,
+  "author": string|null,
+  "thumbnail": string|null,
+  "link": string|null,
+  "summary": string,   // EXACTLY 3 bullet points, ≤500 chars
   "scores": {
-     "scale":             1–10,      // #affected: geographic+population
-     "impact":            1–10,      // severity of consequences
-     "novelty":           1–10,      // uniqueness / rarity
-     "longTermSignificance": 1–10    // lasting relevance
+    "scale": 1-10,
+    "impact": 1-10,
+    "novelty": 1-10,
+    "longTermSignificance": 1-10
   },
-  "keywords":   string[]            // 3–7 tags
+  "keywords": string[]
 }
-`
-        },
-        {
-            role: "user",
-            content: `
-<<<BEGIN INPUT>>>
-Title: ${preRssJsonItem.title || "null"}
-Author: ${preRssJsonItem.author || "null"}
-Thumbnail: ${preRssJsonItem.thumbnail || "null"}
-Link: ${preRssJsonItem.link || "null"}
+        `.trim(),
+      },
+      {
+        role: "user",
+        content: `
+Title: ${item.title || "null"}
+Author: ${item.author || "null"}
+Link: ${item.link || "null"}
 
-Content (HTML or transcript):
-`
-        }
-    ];
-    // Cache the word split to avoid multiple splits
-    const contentWords = preRssJsonItem.content ? preRssJsonItem.content.split(/\s+/) : [];
-    const wordCount = contentWords.length;
+Partial summaries:
+${summaries.map((s, i) => `(${i + 1}) ${s}`).join("\n")}
+        `.trim(),
+      },
+    ]
+  );
+}
 
-    if (preRssJsonItem.content && wordCount > 10000 && wordCount < 70000) {
+async function callGptJson(
+  messages: { role: string; content: string }[]
+): Promise<any | null> {
+  const maxRetries = 3;
 
-        const chunkSize = 10000;
-        const contentChunks = [];
-        for (let i = 0; i < contentWords.length; i += chunkSize) {
-            contentChunks.push(contentWords.slice(i, i + chunkSize).join(" "));
-        }
-
-        contentChunks.forEach((chunk, index) => {
-            prompts.push({
-                role: "user",
-                content: `
-<<<BEGIN INPUT CHUNK ${index + 1}>>>
-Content Chunk ${index + 1}:
-${truncateStringToTokenCount(chunk, 2000)}
-<<<END INPUT CHUNK ${index + 1}>>>
-`
-            });
-        });
-    }
-    else {
-        prompts.push({
-            role: "user",
-            content: `
-<<<BEGIN INPUT>>>
-Content:
-${truncateStringToTokenCount(preRssJsonItem.content || "", 2000)}
-<<<END INPUT>>>
-`
-        });
-    }
-
-
-    console.log(`Summarizing: ${preRssJsonItem.link}`);
-
-    const gptResponse = await gpt({
-        prompts: prompts.map(prompt => ({ role: prompt.role, content: optimizeStringForGpt(prompt.content) })),
-        model: retry ? "searchgpt" : (preRssJsonItem.content ? "openai" : "searchgpt")
-    });
-
-    let postRssJsonItem = {
-        title: preRssJsonItem.title,
-        link: preRssJsonItem.link,
-        author: null,
-        thumbnail: null,
-        summary: null,
-        keywords: [],
-        scores: null,
-        pubDate: preRssJsonItem.pubDate
-    };
-
-    if (!gptResponse) return postRssJsonItem;
-    if (gptResponse === false && !retry) return await generatePostRssJson(preRssJsonItem, true);
-    if (gptResponse === false && retry) return postRssJsonItem;
-
-    if (gptResponse.summary) console.log(`Summarized: ${preRssJsonItem.link}`);
-
-    return {
-        ...postRssJsonItem,
-        ...gptResponse,
-        author: preRssJsonItem.author ?? gptResponse.author ?? null,
-        thumbnail: preRssJsonItem.thumbnail ?? gptResponse.thumbnail ?? null
-    };
-};
-
-export const gpt = async (input: GptInput): Promise<any> => {
+  for (let attempt = 0; attempt < maxRetries; attempt++) {
     try {
-        const response: any = await rateLimitedAxios({
-            url: "https://text.pollinations.ai/",
-            data: {
-                messages: input.prompts,
-                model: input.model ?? "openai"
-            }
-        });
+      const response = await limiter.schedule(() =>
+        axios.post("https://text.pollinations.ai/", {
+          messages: messages.map(m => ({
+            role: m.role,
+            content: normalize(m.content),
+          })),
+          model: MODEL,
+        })
+      );
 
-        return response.data;
+      return parseLLMJson(response.data);
     } catch (e: any) {
-        console.error(`Error in GPT request: ${e?.status}`);
-        return null;
-    }
-};
+      const is429 =
+        e?.response?.status === 429 ||
+        String(e?.response?.data?.error || "").includes("Queue");
 
-function truncateStringToTokenCount(str: string, num: number) {
-    return str.split(/\s+/).slice(0, num).join(" ");
+      if (is429) {
+        await sleep(1500 * Math.pow(2, attempt));
+        continue;
+      }
+
+      console.error("GPT error:", e?.response?.data || e.message);
+      return null;
+    }
+  }
+
+  return null;
 }
 
-export function optimizeStringForGpt(str: string) {
-    return str.replace(/\s+/g, " ");
+export function parseLLMJson(raw: any): any | null {
+  if (raw === false) return false;
+  if (typeof raw === "object") return raw;
+  if (typeof raw !== "string") return null;
+
+  try {
+    return JSON.parse(raw);
+  } catch { }
+
+  let text = normalizeJsonText(raw);
+
+  const extracted = extractJsonBlock(text);
+  if (!extracted) return null;
+
+  try {
+    return JSON.parse(repairJson(extracted));
+  } catch { }
+
+  try {
+    const aggressive = extracted
+      .replace(/(['"])?([a-zA-Z0-9_]+)(['"])?:/g, '"$2":')
+      .replace(/'/g, '"');
+    return JSON.parse(repairJson(aggressive));
+  } catch {
+    console.error("Unrecoverable JSON from model");
+    return null;
+  }
+}
+
+function normalizeJsonText(text: string): string {
+  return text
+    .replace(/[\u201C\u201D]/g, '"')
+    .replace(/[\u2018\u2019]/g, "'")
+    .replace(/\r/g, "")
+    .trim();
+}
+
+function extractJsonBlock(text: string): string | null {
+  const first = text.indexOf("{");
+  const last = text.lastIndexOf("}");
+  if (first === -1 || last === -1 || last <= first) return null;
+  return text.slice(first, last + 1);
+}
+
+function repairJson(text: string): string {
+  return text
+    .replace(/,\s*}/g, "}")
+    .replace(/,\s*]/g, "]")
+    .replace(/\n/g, "\\n");
+}
+
+function splitWithOverlap(text: string, size: number, overlap: number): string[] {
+  const chunks: string[] = [];
+  let i = 0;
+  while (i < text.length) {
+    chunks.push(text.slice(i, i + size));
+    i += size - overlap;
+  }
+  return chunks;
+}
+
+function sanitizeHtml(html: string): string {
+  return html
+    .replace(/<script[\s\S]*?>[\s\S]*?<\/script>/gi, "")
+    .replace(/<style[\s\S]*?>[\s\S]*?<\/style>/gi, "")
+    .replace(/<\/p>|<\/li>|<br\s*\/?>/gi, "\n")
+    .replace(/<[^>]+>/g, "")
+    .replace(/&nbsp;/gi, " ")
+    .replace(/\n{3,}/g, "\n\n")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function normalize(str: string) {
+  return str.replace(/\s+/g, " ").trim();
+}
+
+function sleep(ms: number) {
+  return new Promise(res => setTimeout(res, ms));
+}
+
+function emptyResult(item: PreRssJson["items"][0]) {
+  return {
+    title: item.title,
+    link: item.link,
+    author: item.author ?? null,
+    thumbnail: item.thumbnail ?? null,
+    summary: null,
+    keywords: [],
+    scores: null,
+    pubDate: item.pubDate,
+  };
 }

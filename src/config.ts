@@ -1,3 +1,6 @@
 export const config = {
-    frontend: "https://newrss.mahirjpatel.workers.dev"
+    frontend: "https://newrss.mahirjpatel.workers.dev",
+    browser: {
+        headless: false
+    }
 }

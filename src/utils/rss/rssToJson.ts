@@ -1,5 +1,6 @@
 import Parser from "rss-parser";
 import { PreRssJson } from "./types";
+import { get } from "axios";
 
 interface Feed {
     name: string;
@@ -7,7 +8,7 @@ interface Feed {
     id: number;
 }
 
-export const rssToJson = async (feed: Feed): Promise<PreRssJson> => {
+export const rssToJson = async (feed: Feed): Promise<PreRssJson | null> => {
 
     const parser: Parser = new Parser({
         headers: {
@@ -22,8 +23,21 @@ export const rssToJson = async (feed: Feed): Promise<PreRssJson> => {
         rssUrl = rssUrl.replace("channel_id=UC", "playlist_id=UULF")
     }
 
-    const parsedFeed = await parser.parseURL(rssUrl);
-    if (!parsedFeed) console.error(`Failed to parse RSS feed: ${feed.rss}`);
+    let parsedFeed = await parser.parseURL(rssUrl).catch(() => null);
+
+    if (!parsedFeed) {
+        const response = await get(feed.rss).catch(() => null);
+        if (response && response.data) {
+            parsedFeed = await parser.parseString(response.data).catch(() => null);
+        }
+    }
+
+    if (!parsedFeed) {
+        console.error(`Failed to fetch RSS feed: ${feed.name} (${feed.rss})`);
+        return null;
+    }
+
+    console.log(`Fetched RSS feed: ${feed.name} (${feed.rss}) with ${parsedFeed.items.length} items.`);
 
     return {
         id: feed.id,

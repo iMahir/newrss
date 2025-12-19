@@ -1,4 +1,4 @@
-import { post } from "axios";
+import { get, post } from "axios";
 import { config } from "../config";
 import { readData, writeData } from "../utils/fs";
 import { PostRssJson } from "../utils/rss/types";
@@ -35,22 +35,45 @@ export const saveFeeds = async (feeds: PostRssJson[]) => {
         }
     }));
 
-    // await updateDB(updatedIds);
+    await updateRssJson(updatedIds);
 
 };
 
 async function updateDB(ids: number[]) {
     try {
-    const update = await post(`${config.frontend}/api/feeds/update`, { ids });
+        const update = await post(`${config.frontend}/api/feeds/update`, { ids });
 
-    if (update.status !== 200) {
-        console.log("Failed to update database");
-    }
-    console.log(`Updated ${ids.length} feeds in the database.`);
-    return update.data;
-    } catch(e) {
+        if (update.status !== 200) {
+            console.log("Failed to update database");
+        }
+        console.log(`Updated ${ids.length} feeds in the database.`);
+        return update.data;
+    } catch (e) {
         console.log("Error updating the database");
         return null;
     }
 }
 
+export async function updateRssJson(ids: number[]) {
+    try {
+        const feeds = (await get(`${config.frontend}/api/feeds`)).data;
+
+        const updatedFeeds = feeds.map((feed: any) => {
+            if (ids.includes(feed.id)) {
+                return {
+                    ...feed,
+                    lastUpdated: new Date().toUTCString()
+                }
+            }
+            else {
+                return feed;
+            }
+        });
+
+        writeData(`data/rss.json`, updatedFeeds, { isJSON: true });
+        console.log("Updated RSS JSON");
+    }
+    catch {
+        console.log("Error updating RSS JSON");
+    }
+}
