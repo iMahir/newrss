@@ -36,18 +36,15 @@ export const saveFeeds = async (feeds: PostRssJson[]) => {
     }));
 
     await updateRssJson(updatedIds);
+    await updateDB();
 
 };
 
-async function updateDB(ids: number[]) {
+async function updateDB() {
     try {
-        const update = await post(`${config.frontend}/api/feeds/update`, { ids });
-
-        if (update.status !== 200) {
-            console.log("Failed to update database");
-        }
-        console.log(`Updated ${ids.length} feeds in the database.`);
-        return update.data;
+        const response = await get(`${config.frontend}/api/feeds/sync`);
+        console.log("Database updated");
+        return response.data;
     } catch (e) {
         console.log("Error updating the database");
         return null;
@@ -76,6 +73,4 @@ export async function updateRssJson(ids: number[]) {
     catch {
         console.log("Error updating RSS JSON");
     }
-
 }
-
