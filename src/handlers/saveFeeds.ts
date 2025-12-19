@@ -70,10 +70,13 @@ export async function updateRssJson(ids: number[]) {
             }
         });
 
-        writeData(`data/rss.json`, updatedFeeds, { isJSON: true });
+        await writeData(`data/rss.json`, updatedFeeds, { isJSON: true });
+        console.log(updatedFeeds);
+
         console.log("Updated RSS JSON");
     }
     catch {
         console.log("Error updating RSS JSON");
     }
+
 }
