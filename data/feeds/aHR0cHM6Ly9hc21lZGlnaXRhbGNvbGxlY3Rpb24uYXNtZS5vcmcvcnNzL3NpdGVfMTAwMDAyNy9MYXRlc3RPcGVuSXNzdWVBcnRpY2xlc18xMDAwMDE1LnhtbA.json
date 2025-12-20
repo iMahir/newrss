@@ -1,0 +1,57 @@
+{
+  "id": 17,
+  "title": "Journal of Manufacturing Science and Engineering Open Issues",
+  "link": "https://asmedigitalcollection.asme.org/manufacturingscience",
+  "feedUrl": "https://asmedigitalcollection.asme.org/rss/site_1000027/LatestOpenIssueArticles_1000015.xml",
+  "items": [
+    {
+      "title": "In-Line Monitoring of Balling Phenomenon in Directed Energy Deposition Processes",
+      "author": null,
+      "thumbnail": null,
+      "link": "https://asmedigitalcollection.asme.org/manufacturingscience/article/148/2/021001/1228420/In-Line-Monitoring-of-Balling-Phenomenon-in",
+      "summary": "- In-line monitoring of the balling phenomenon in directed energy deposition (DED) processes.\n- Real-time detection and characterization approaches for balling during deposition.\n- Published in ASME Journal of Manufacturing Science and Engineering (DOI 10.1115/1.4070451); paywalled access.",
+      "scores": {
+        "scale": 7,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "keywords": [
+        "Directed Energy Deposition",
+        "balling",
+        "in-line monitoring",
+        "additive manufacturing",
+        "process monitoring",
+        "real-time sensing",
+        "manufacturing science and engineering"
+      ],
+      "pubDate": "2025-12-04T00:00:00.000Z"
+    },
+    {
+      "title": "A Meta-Learning Based Surface Roughness Prediction During SiCp/Al Composites Machining",
+      "author": null,
+      "thumbnail": null,
+      "link": "https://asmedigitalcollection.asme.org/manufacturingscience/article/148/2/024501/1228419/A-Meta-Learning-Based-Surface-Roughness-Prediction",
+      "summary": "- The framework uses surface topography images and a prototypical network to identify surface features and predict roughness with few-shot generalization.\n- It couples the prototypical network with empirical Bayesian learning to map features to roughness, treating encoded features as intermediate responses and removing dependence on prior processing settings.\n- Validated on milling SiCp/Al composites with optical ultra-depth microscopy, showing feasibility across diverse machining conditions and aiding feature identification.",
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "keywords": [
+        "SiCp/Al composite",
+        "surface roughness",
+        "meta-learning",
+        "prototypical networks",
+        "few-shot learning",
+        "Bayesian learning",
+        "surface topography",
+        "optical ultra-depth microscopy",
+        "machining",
+        "multimodal feature fusion"
+      ],
+      "pubDate": "2025-12-04T00:00:00.000Z"
+    }
+  ]
+}
