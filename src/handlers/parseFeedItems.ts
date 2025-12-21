@@ -10,6 +10,7 @@ puppeteer.use(StealthPlugin());
 
 import fs from "fs";
 import Parser from "rss-parser";
+import YoutubeTranscript from "youtube-transcript-scraper";
 const readabilityJsStr = fs.readFileSync(
     require.resolve("@mozilla/readability/Readability.js"),
     { encoding: "utf-8" }
@@ -85,8 +86,10 @@ export const parseFeedItems = async (feeds: PreRssJson[]) => {
             console.log("Fetching: ", item.link);
 
             if (item.link.includes("youtube.com/watch")) {
-                // item.content = await youtubeContentGET(item);
-                return; // Disable Youtube content
+                if (item.link.includes("shorts")) return; // Skip YouTube Shorts
+
+                item.content = await youtubeContentGET(item);
+                return;
             }
             else if (item.link.includes("reddit.com")) {
                 const content = await redditContentGET(item);
@@ -143,25 +146,13 @@ async function youtubeContentGET(item: PreRssJson["items"][0]) {
     const videoId = item.link.split('v=')[1].split('&')[0]; // Extract video ID from URL
 
     try {
-        const res = await axios.get(`https://views4you.com/subtitle-download?id=${videoId}&lang=a.en&ext=txt`)
-        const subtitles = res.data;
+        const transcriptData = await YoutubeTranscript.fetchTranscript(videoId).catch(() => null);
+        if (!transcriptData) return null;
 
-        if (subtitles && subtitles.length > 0) {
-            return subtitles;
-        } else {
-            return null;
-        }
-    } catch (e) {
-        const res2 = await axios.get(`https://www.downloadyoutubesubtitles.com/get2.php?i=${videoId}&format=txt&hl=a.en&a=`).catch((err) => {
-            console.error("Error fetching subtitles:", err);
-            return { data: null };
-        });
-        const subtitles = res2.data;
-        if (subtitles && subtitles.length > 0) {
-            return subtitles;
-        } else {
-            return null;
-        }
+        const transcriptText = transcriptData.map((t) => t.text).join(' ');
+        return transcriptText;
+    } catch {
+        return null;
     }
 }
 

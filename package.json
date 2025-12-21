@@ -1,6 +1,6 @@
 {
   "name": "newrss",
-  "version": "3.3.0",
+  "version": "3.3.1",
   "description": "A news aggregator powered by ai to build custom rss feeds.",
   "repository": "https://github.com/iMahir/newrss",
   "main": "build/index.js",
@@ -24,7 +24,7 @@
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
     "rss-parser": "^3.13.0",
-    "tiktoken": "^1.0.22"
+    "youtube-transcript-scraper": "^1.0.0"
   },
   "devDependencies": {
     "@types/jsdom": "^21.1.7",
