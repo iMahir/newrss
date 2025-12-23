@@ -5,6 +5,30 @@
   "feedUrl": "https://www.assemblymag.com/rss/17",
   "items": [
     {
+      "title": "Software Helps Lockheed Improve Cost Estimation",
+      "author": "sprovierij@bnpmedia.com (John Sprovieri)",
+      "thumbnail": "https://www.assemblymag.com/ext/resources/issues2/2026/01-january/asb0126lockheed3-forweb.webp?t=1766180813",
+      "link": "https://www.assemblymag.com/articles/99721-software-helps-lockheed-improve-cost-estimation",
+      "summary": "- SEER-MFG links Lockheed's current airframe estimates to a historical cost database, boosting speed to about 2 days with ~5% greater accuracy.\n- It maps metrics to a data matrix with weights to yield analogous estimates; fuel-tank cost done in 2 hours; 8,300-lb airframe from a week to a day; ECPs 40h→10h; trade studies 2 days→half; 5–10 proposals/mo.\n- Future: a cost-characterization interface and CATIA-to-SEER-MFG plug-in; estimates could drop from hours to minutes, airframes from weeks to ~2 days.",
+      "scores": {
+        "scale": 8,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "keywords": [
+        "SEER-MFG",
+        "Galorath",
+        "cost estimation",
+        "F-35",
+        "Lockheed Martin",
+        "CATIA",
+        "CAD-to-estimate",
+        "airframe cost modeling"
+      ],
+      "pubDate": "2025-12-23T14:00:00.000Z"
+    },
+    {
       "title": "Appliance Maker Clinches Stainless Steel Sheets",
       "author": null,
       "thumbnail": "https://www.assemblymag.com/ext/resources/issues2/2026/01-january/asb0126clinch5-forweb.webp?t=1765894661",
@@ -28,6 +52,33 @@
         "manufacturing"
       ],
       "pubDate": "2025-12-19T14:00:00.000Z"
+    },
+    {
+      "title": "Pierce Manufacturing to Expand Fire Truck Factory",
+      "author": "webera@bnpmedia.com (Austin Weber)",
+      "thumbnail": "https://www.assemblymag.com/ext/resources/images/Pierceaerilaladder.webp?t=1766494896",
+      "link": "https://www.assemblymag.com/articles/99725-pierce-manufacturing-to-expand-fire-truck-factory",
+      "summary": "- Pierce expands Appleton with >$150M across WI, FL, TN, adding 500,000 sq ft to speed ladders, platforms, pumpers and tankers and reduce lead times.\n- Penta 30K laser cuts up to 2 in steel with beveled edges; automated panel bender; semi-automatic folding; automated rail welding; handheld laser welding; buffing robots; AI sanding.\n- Paint shop adds 26k sq ft, new booths and ovens; release line moved; cab/chassis reconfigured in 224k sq ft to boost capacity and delivery.",
+      "scores": {
+        "scale": 9,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 8
+      },
+      "keywords": [
+        "Pierce Manufacturing",
+        "Appleton",
+        "Oshkosh Corp",
+        "fire trucks",
+        "aerial ladders",
+        "robotics",
+        "automation",
+        "paint shop",
+        "lead times",
+        "cab-and-chassis",
+        "manufacturing expansion"
+      ],
+      "pubDate": "2025-12-19T05:00:00.000Z"
     },
     {
       "title": "GM Plans Longer Than Usual Holiday Closures at Multiple Plants",
