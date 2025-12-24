@@ -5,6 +5,107 @@
   "feedUrl": "https://rss-bridge.org/bridge01/?action=display&bridge=ReutersBridge&feed=tech&format=Atom",
   "items": [
     {
+      "title": "Waymo to update software after San Francisco power outage snarls self-driving vehicles",
+      "author": "David Shepardson",
+      "thumbnail": null,
+      "link": "https://www.reuters.com/business/autos-transportation/waymo-vows-improve-emergency-response-protocols-after-san-francisco-power-outage-2025-12-24/",
+      "summary": "- Waymo will roll fleet-wide software updates to add power-outage context and help vehicles navigate more decisively during outages.\n- Emergency-response protocols and confirmation checks at dark intersections will be refined to reduce congestion and improve safety.\n- Regulators are reviewing the SF incident; Waymo recently recalled software over Texas school-bus violations amid a broader probe.",
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "keywords": [
+        "Waymo",
+        "software update",
+        "emergency response",
+        "power outage",
+        "San Francisco",
+        "robotaxi",
+        "autonomous vehicles",
+        "regulators",
+        "NHTSA"
+      ],
+      "pubDate": "2025-12-24T01:50:40.000Z"
+    },
+    {
+      "title": "Fleet management firm Motive Technologies reveals revenue growth in US IPO paperwork",
+      "author": "Reuters",
+      "thumbnail": null,
+      "link": "https://www.reuters.com/technology/motive-technologies-files-us-ipo-2025-12-23/",
+      "summary": "- Files for a U.S. IPO on NYSE (MTVE); nine-month revenue $327.3M and net loss $138.5M through Sept 30, versus $268.9M revenue and $113.9M loss a year earlier.\n- SF-based AI-powered fleet manager serving logistics, construction, energy and manufacturing; clients include Halliburton, KONE, Komatsu, NBCUniversal and Maersk; founded 2013.\n- Underwriters JPMorgan, Citigroup, Jefferies and Barclays; market backdrop cites 2025 momentum tempered by tariffs, shutdown risks and AI stock selloff.",
+      "scores": {
+        "scale": 7,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "keywords": [
+        "Motive Technologies",
+        "IPO filing",
+        "NYSE MTVE",
+        "fleet management",
+        "AI-powered",
+        "logistics",
+        "Halliburton",
+        "KONE",
+        "Komatsu",
+        "NBCUniversal",
+        "Maersk",
+        "JPMorgan",
+        "Citigroup",
+        "Jefferies",
+        "Barclays",
+        "U.S. IPO market"
+      ],
+      "pubDate": "2025-12-23T22:17:43.000Z"
+    },
+    {
+      "title": "Apple to allow third-party app stores in Brazil to settle iOS case with regulator",
+      "link": "https://www.reuters.com/legal/litigation/apple-allow-third-party-app-stores-brazil-settle-ios-case-with-regulator-2025-12-23/",
+      "author": "Reuters",
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-12-23T21:15:56.000Z"
+    },
+    {
+      "title": "US judge blocks Texas app store age law meant to protect children",
+      "author": "Mike Scarcella",
+      "thumbnail": null,
+      "link": "https://www.reuters.com/legal/government/us-judge-blocks-texas-app-store-age-law-meant-protect-children-2025-12-23/",
+      "summary": "- A federal judge blocked Texas's App Store Accountability Act, finding likely First Amendment issues and delaying its January start.\n- The Computer & Communications Industry Association sued to stop the law, arguing it would curb app stores' and users' rights.\n- Texas plans to appeal; the ruling reflects broader concerns about youth online safety and parental controls.",
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "keywords": [
+        "Texas App Store Accountability Act",
+        "First Amendment",
+        "age verification",
+        "paralental consent",
+        "app stores",
+        "youth online safety",
+        "Reuters",
+        "technology regulation"
+      ],
+      "pubDate": "2025-12-23T18:57:13.000Z"
+    },
+    {
+      "title": "Trump's AI hiring campaign draws interest from 25,000 hopefuls",
+      "link": "https://www.reuters.com/business/media-telecom/trumps-ai-hiring-campaign-draws-interest-25000-hopefuls-2025-12-23/",
+      "author": "Courtney Rozen",
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-12-23T18:15:27.000Z"
+    },
+    {
       "title": "US delays announcement of China chip tariffs until 2027",
       "link": "https://www.reuters.com/world/china/us-impose-tariffs-chips-china-2025-12-23/",
       "author": "Alexandra Alper, Akash Sriram",
@@ -570,86 +671,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-12-20T08:08:33.000Z"
-    },
-    {
-      "title": "Google, Apple warns staff with US visas against international travel due to embassy delays, Business Insider says",
-      "link": "https://www.reuters.com/business/google-warns-staff-with-us-visas-against-international-travel-due-embassy-delays-2025-12-20/",
-      "author": "Reuters",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-20T03:25:19.000Z"
-    },
-    {
-      "title": "China issues new rules to regulate internet platform pricing",
-      "author": "Reuters",
-      "thumbnail": null,
-      "link": "https://www.reuters.com/world/asia-pacific/china-issues-new-rules-regulate-internet-platform-pricing-2025-12-20/",
-      "summary": "- CAC issues pricing rules for internet platforms, effective April 10, banning coercive price pressure via higher fees or search ranking bans.\n- Measures target unfavourable practices even as big platforms press on with an instant-retail price war.\n- Consumers may enjoy lower prices, but merchants face tighter margins and restaurateurs report weaker in-person business.",
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "keywords": [
-        "China",
-        "pricing regulation",
-        "internet platforms",
-        "CAC",
-        "e-commerce",
-        "price war",
-        "regulatory crackdown",
-        "online marketplaces"
-      ],
-      "pubDate": "2025-12-20T02:28:51.000Z"
-    },
-    {
-      "title": "Exclusive: SoftBank races to fulfill OpenAI funding commitment by year-end",
-      "link": "https://www.reuters.com/business/media-telecom/softbank-races-fulfill-225-billion-funding-commitment-openai-by-year-end-sources-2025-12-19/",
-      "author": "Echo Wang, Miho Uranaka, Krystal Hu",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-19T23:32:26.000Z"
-    },
-    {
-      "title": "Meta's Dina Powell McCormick quits board, may stay on as adviser",
-      "author": "Reuters",
-      "thumbnail": null,
-      "link": "https://www.reuters.com/sustainability/boards-policy-regulation/metas-dina-powell-mccormick-quits-board-may-stay-adviser-2025-12-19/",
-      "summary": "- Dina Powell McCormick resigned from Meta's board effective immediately after eight months.\n- She may continue advising Meta in a broad investments and strategic-counsel role; Meta won't fill her vacant seat.\n- The board, which recently expanded to 15 members, retains figures such as Marc Andreessen and Tony Xu.",
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 4,
-        "longTermSignificance": 5
-      },
-      "keywords": [
-        "Meta Platforms",
-        "Dina Powell McCormick",
-        "board resignation",
-        "adviser role",
-        "investments",
-        "strategic counsel",
-        "Goldman Sachs",
-        "Patrick Collison",
-        "Marc Andreessen",
-        "Tony Xu"
-      ],
-      "pubDate": "2025-12-19T23:16:12.000Z"
-    },
-    {
-      "title": "Musk wins appeal that restores 2018 Tesla pay deal now worth about $139 billion",
-      "link": "https://www.reuters.com/sustainability/boards-policy-regulation/musk-wins-appeal-restores-2018-tesla-pay-deal-worth-56-billion-2025-12-19/",
-      "author": "Tom Hals, Jan Wolfe, Abhirup Roy",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-19T21:27:00.000Z"
     }
   ]
 }
