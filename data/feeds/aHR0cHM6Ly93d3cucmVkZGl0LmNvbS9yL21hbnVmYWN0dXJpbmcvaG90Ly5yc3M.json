@@ -5,6 +5,65 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "workers ignoring lengthy SDS documents because honestly who reads 14 pages",
+      "author": "/u/Maleficent_Mine_6741",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pvc50e/workers_ignoring_lengthy_sds_documents_because/",
+      "summary": "- Workers ignore long SDS; propose layered risk communication: color-coded quick refs, one-page sheets, laminated cards; attach short extracts to batch tickets with ERP sign-off; keep full MSDS for liability.\n- Emphasize key SDS sections (hazards, PPE, incompatibilities, response steps) and boost training and safety leadership to drive culture.\n- Implement task-specific visual tools and processes (JSA, rapid access ownership) with software aids (SAP EHS, Chemscape) while ensuring access and ongoing training.",
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "keywords": [
+        "SDS",
+        "MSDS",
+        "safety communication",
+        "risk assessment",
+        "PPE",
+        "visual aids",
+        "one-page summaries",
+        "ERP safety",
+        "SAP EHS",
+        "Chemscape",
+        "training",
+        "job safety analysis",
+        "hazard communication"
+      ],
+      "pubDate": "2025-12-25T12:11:52.000Z"
+    },
+    {
+      "title": "What kind of manufacturing program you use?",
+      "author": "/u/d3lla1",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pvbaqm/what_kind_of_manufacturing_program_you_use/",
+      "summary": "- Seeks an all-in-one manufacturing tool (BOMs, input dimensions, auto material calculations, best-fit stock cuts, weight scrap tracking, low-stock alerts); MRPs/ERPs favored.\n- Vendors/options: SAP (enterprise), Microsoft Dynamics (powerful but large setup), Unleashed by The Access Group (BOM/inventory with QB/Xero); open-source MRPs.\n- Takeaway: many MRPs/ERPs can meet needs; success = match requirements to budget; mentions custom MVP with AI/NLP for capital leakage and WhatsApp data access as future enhancement.",
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "keywords": [
+        "manufacturing software",
+        "MRP",
+        "ERP",
+        "BOM",
+        "inventory",
+        "SAP",
+        "Microsoft Dynamics",
+        "Unleashed",
+        "The Access Group",
+        "open-source",
+        "AI",
+        "NLP",
+        "capital leakage",
+        "WhatsApp data integration"
+      ],
+      "pubDate": "2025-12-25T11:15:22.000Z"
+    },
+    {
       "title": "‼️China manufacturing ‐ factory owner or middleman? ‼️ NEED ADVICE",
       "author": "/u/Constant_Fig_232",
       "thumbnail": null,
@@ -968,40 +1027,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-12-16T02:28:37.000Z"
-    },
-    {
-      "title": "What's the most annoying part of your job that has nothing to do with actually making parts?",
-      "author": "/u/abhi3188",
-      "thumbnail": null,
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pnqbmz/whats_the_most_annoying_part_of_your_job_that_has/",
-      "summary": "- Recurring 'Meetings. Not there' notes across several timestamps show meetings wasting time. \n- Salespeople who think they are engineers and consistently overpromise technical capabilities when talking to customers. \n- Leadership/management being absent or not present when decisions or guidance are needed.",
-      "scores": {
-        "scale": 8,
-        "impact": 8,
-        "novelty": 3,
-        "longTermSignificance": 5
-      },
-      "keywords": [
-        "meetings",
-        "absenteeism",
-        "manufacturing",
-        "engineering",
-        "sales",
-        "leadership",
-        "communication",
-        "productivity"
-      ],
-      "pubDate": "2025-12-16T02:22:58.000Z"
-    },
-    {
-      "title": "Automotive bodykit manufacturing?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pnp42h/automotive_bodykit_manufacturing/",
-      "author": "/u/ZachOrie",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-16T01:26:10.000Z"
     }
   ]
 }
