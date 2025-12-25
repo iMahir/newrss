@@ -5,6 +5,54 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "I re-created Google’s cute Gemini ad with my own kid’s stuffie, and I wish I hadn’t",
+      "author": "Allison Johnson",
+      "thumbnail": null,
+      "link": "https://www.theverge.com/tech/849998/gemini-ai-stuffed-animal-commercial",
+      "summary": "- Verge tests Gemini with the child's stuffed lamb Buddy to see if AI can locate a replacement and craft travel imagery during backorder.\n- It notes long internal reasoning prompts, misreads, uncanny outputs, and ethical concerns about using a child's image in AI ads.\n- Overall, Gemini can approximate ad feats but requires iterative prompting and is constrained by guardrails.",
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 8,
+        "longTermSignificance": 7
+      },
+      "keywords": [
+        "Google Gemini",
+        "AI-generated ads",
+        "child imagery",
+        "prompting",
+        "ethics",
+        "advertising",
+        "machine learning",
+        "Verge"
+      ],
+      "pubDate": "2025-12-25T14:00:00.000Z"
+    },
+    {
+      "title": "Hollywood cozied up to AI in 2025 and had nothing good to show for it",
+      "author": "Charles Pulliam-Moore",
+      "thumbnail": null,
+      "link": "https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025",
+      "summary": "- Gen‑AI use expanded in 2025 amid lawsuits and partnerships; outputs remained unimpressive; startups like Asteria and Showrunner tried to legitimize AI in development.\n- Disney signed a billion-dollar OpenAI deal for Sora to generate AI videos from IP; Netflix issued AI guidelines; Amazon faced localization and recap missteps.\n- Industry warned of a 'slop era'; Disney urged ChatGPT use; audience value for AI remains lukewarm and broad Hollywood adoption looms.",
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "keywords": [
+        "AI in Hollywood",
+        "generative AI",
+        "Disney OpenAI deal",
+        "Sora",
+        "Netflix guidelines",
+        "Amazon AI failures",
+        "slop era",
+        "Tilly Norwood"
+      ],
+      "pubDate": "2025-12-25T13:00:00.000Z"
+    },
+    {
       "title": "Anker’s beefy Laptop Power Bank has returned to its Black Friday low",
       "author": "Brandon Widder",
       "thumbnail": null,
@@ -1060,58 +1108,6 @@
         "Verge"
       ],
       "pubDate": "2025-12-21T13:58:36.000Z"
-    },
-    {
-      "title": "2025: a year in art on The Verge",
-      "author": "Verge Staff",
-      "thumbnail": null,
-      "link": "https://www.theverge.com/tech/841568/art-2025-best",
-      "summary": "- Verge's 2025 art year spans culture, tech, and politics—from DOGE themes to online privacy and dissident surveillance, with a kaleidoscopic gift-guide, a 50-year Saigon hub, and a TikTok-style influencer hub.\n- It highlights early Silicon Valley factory abuses, with two women exposing tech accountability; the piece introduces an 'infinite fringe' of racist memes and lists staff credits.\n- The package emphasizes handcrafted textures, bold color, psyops visuals, and a DOGE Cerberus portrait, while urging readers to follow topics and authors.",
-      "scores": {
-        "scale": 8,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 7
-      },
-      "keywords": [
-        "Verge",
-        "art",
-        "2025",
-        "technology culture",
-        "privacy",
-        "surveillance",
-        "Silicon Valley",
-        "psyops",
-        "visual journalism"
-      ],
-      "pubDate": "2025-12-21T13:30:00.000Z"
-    },
-    {
-      "title": "Humanoid robots are coming. Eventually?",
-      "author": "Robert Hart",
-      "thumbnail": null,
-      "link": "https://www.theverge.com/column/843418/humanoid-robot-hype",
-      "summary": "- The Verge's Stepback highlights a global surge in humanoid-robot hype with big investments and demos, but true autonomy remains scarce and many performances are staged or teleoperated.\n- Falling prices, real-world data collection (cameras and sensors) and synthetic data spur progress, yet critics warn of a data-driven bubble and few justifiable use cases.\n- China's embodied AI push and events like World Humanoid Robot Games signal broad interest, but hardware limits and reliance on teleoperation temper expectations.",
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "keywords": [
-        "humanoid robots",
-        "robot hype",
-        "autonomy",
-        "teleoperation",
-        "data-driven",
-        "embodied AI",
-        "China",
-        "World Humanoid Robot Games",
-        "Figure AI",
-        "Tesla Optimus",
-        "robotics investment"
-      ],
-      "pubDate": "2025-12-21T13:00:00.000Z"
     }
   ]
 }
