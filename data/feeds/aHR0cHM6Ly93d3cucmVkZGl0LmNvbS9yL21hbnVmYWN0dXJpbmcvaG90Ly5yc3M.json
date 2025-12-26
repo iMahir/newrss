@@ -5,6 +5,32 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "When a bearing goes rogue, and your coil is screaming- how do you stay sane?",
+      "author": "/u/Opposite_Dentist_321",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pwes36/when_a_bearing_goes_rogue_and_your_coil_is/",
+      "summary": "- Downtime from a failing critical part halts a steel line, scattering inventory; seeks proactive part identification, inventory control, coil tracking, and risk visibility, with EOXS as a possible blind-spot tool.\n- Asks for battle-tested tips to survive unplanned downtime without excessive stress and for practical, proactive approaches beyond reactive fixes; echoes planned maintenance concepts.\n- Comments discuss predictive maintenance limits, tools (Bentley Nevada, Kistler), keeping wear items in-house, and the case for higher safety stock; some critique AI-generated content.",
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "keywords": [
+        "predictive maintenance",
+        "bearing fault",
+        "downtime",
+        "inventory control",
+        "EOXS",
+        "coil tracking",
+        "steel manufacturing",
+        "maintenance strategy",
+        "safety stock",
+        "predictive analytics"
+      ],
+      "pubDate": "2025-12-26T20:55:56.000Z"
+    },
+    {
       "title": "Watching audit panic missing documentation never gets less stressful",
       "author": "/u/Acceptable_Driver655",
       "thumbnail": null,
@@ -1061,32 +1087,6 @@
         "quality scrap"
       ],
       "pubDate": "2025-12-17T13:06:31.000Z"
-    },
-    {
-      "title": "Manual ballooning is slowing down our team, anyone switched to Per6 lens for inspection workflows?",
-      "author": "/u/Overall-Restaurant50",
-      "thumbnail": null,
-      "link": "https://www.reddit.com/r/manufacturing/comments/1popyx2/manual_ballooning_is_slowing_down_our_team_anyone/",
-      "summary": "- A Reddit post asks whether switching from manual ballooning to a Per6 lens for inspection workflows speeds up the process and whether the 'pre6 Ai' offers real day-to-day benefits.\n- A reply suggests evaluating digital work instructions solutions that embed docs, noting they’re likely most useful when the inspection process is homogeneous.\n- The discussion explores potential productivity gains and practical benefits of digital tooling in manufacturing inspections.",
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "keywords": [
-        "manual ballooning",
-        "Per6 lens",
-        "inspection workflows",
-        "digital work instructions",
-        "embedded docs",
-        "pre6 Ai",
-        "manufacturing",
-        "quality assurance",
-        "automation",
-        "documentation"
-      ],
-      "pubDate": "2025-12-17T06:55:57.000Z"
     }
   ]
 }
