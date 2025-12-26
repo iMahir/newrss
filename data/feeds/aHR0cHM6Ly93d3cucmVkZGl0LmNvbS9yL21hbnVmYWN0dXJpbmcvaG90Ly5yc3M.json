@@ -5,6 +5,65 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Managing operator call offs",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pw5nim/managing_operator_call_offs/",
+      "author": "/u/ualiu",
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-12-26T14:33:09.000Z"
+    },
+    {
+      "title": "What makes telescopic masts so heavy? and where to find lighter ones?",
+      "author": "/u/JustZed32",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pw51w3/what_makes_telescopic_masts_so_heavy_and_where_to/",
+      "summary": "- Seeks a 6 m motorized telescopic mast for ~2 kg at the top, total ≈5 kg, ≤€600; current solutions weigh 26–40 kg.\n- Mentions lighter options: carbon-fiber poles ~1 kg for ~7.6 m and window-cleaning ~1.6 kg; asks about UHMWPE cords, plastics, or 3D-printed parts and terms to search.\n- Open to DIY or buying a lighter unit; requests lighter, commercially available options or guidance.",
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "keywords": [
+        "telescopic mast",
+        "motorized",
+        "lightweight",
+        "6 m",
+        "payload",
+        "UHMWPE",
+        "pulleys",
+        "carbon fiber",
+        "DIY",
+        "reddit"
+      ],
+      "pubDate": "2025-12-26T14:04:49.000Z"
+    },
+    {
+      "title": "Suggestions for digital work instructions.",
+      "author": "/u/fixitchris",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pw4q24/suggestions_for_digital_work_instructions/",
+      "summary": "- The thread discusses digital multimedia work instructions for manufacturing and onboarding, emphasizing visuals and alignment with quality systems.\n- It debates scope (display-only versus lifecycle approvals), device usability and governance, and notes version control with practical approaches like Word at workstations and engineers updating read-only operator versions.\n- Tools cited include Snagit, Microsoft Teams, and Monarch; multimedia content can boost training and consistency but requires governance and easy updates.",
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "keywords": [
+        "digital work instructions",
+        "multimedia SOPs",
+        "onboarding",
+        "quality systems",
+        "version control",
+        "visual documentation",
+        "manufacturing"
+      ],
+      "pubDate": "2025-12-26T13:49:25.000Z"
+    },
+    {
       "title": "Best places to get quick injection molding quotes for low volume runs?",
       "author": "/u/youroffrs",
       "thumbnail": null,
@@ -1027,57 +1086,6 @@
         "custom formulations"
       ],
       "pubDate": "2025-12-17T02:28:07.000Z"
-    },
-    {
-      "title": "Looking for beginner-friendly MRP software (1 user) – small manufacturing setup",
-      "author": "/u/Wise_Peak3614",
-      "thumbnail": null,
-      "link": "https://www.reddit.com/r/manufacturing/comments/1po0egk/looking_for_beginnerfriendly_mrp_software_1_user/",
-      "summary": "- A 1-user, small manufacturing operation seeks a beginner-friendly MRP/light ERP to replace unreliable Excel workflows.\n- Needs: clear separation of consigned vs owned stock, visibility of raw materials, consumables, WIP, and finished goods; reorder points using usage and lead time, not just calendars.\n- Recommendations include evaluating Odoo Community Edition with proper inventory/consignment modules, considering LedgerSMB, and ensuring data cleanliness before pursuing planning modules.",
-      "scores": {
-        "scale": 7,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 7
-      },
-      "keywords": [
-        "MRP",
-        "ERP",
-        "inventory management",
-        "consigned stock",
-        "owned stock",
-        "WIP",
-        "finished goods",
-        "reorder points",
-        "lead time",
-        "Odoo",
-        "LedgerSMB",
-        "small business",
-        "1 user",
-        "beginner-friendly",
-        "consignment module"
-      ],
-      "pubDate": "2025-12-16T12:12:06.000Z"
-    },
-    {
-      "title": "[Help] Guidance to project and buy material for a simple and cheap guardrail",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1po03zj/help_guidance_to_project_and_buy_material_for_a/",
-      "author": "/u/CanelasReddit",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-16T11:56:20.000Z"
-    },
-    {
-      "title": "What’s been harder to automate: scheduling, inventory accuracy, or quality tracking?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pnzibf/whats_been_harder_to_automate_scheduling/",
-      "author": "/u/Character_Physics713",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-16T11:21:24.000Z"
     }
   ]
 }
