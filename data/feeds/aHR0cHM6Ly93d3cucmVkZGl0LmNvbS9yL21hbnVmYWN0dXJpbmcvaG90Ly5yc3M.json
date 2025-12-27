@@ -5,6 +5,54 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Question for the pros about floating stock w.r.t. finished goods.",
+      "author": "/u/BuffHaloBill",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pwrspy/question_for_the_pros_about_floating_stock_wrt/",
+      "summary": "- The thread analyzes how to model finished-goods stock linked to production IDs, including whether to assign a dummy ID to existing stock or exclude it from finished-goods.\n- It covers adjustments (negative for waste/expiry/samples; stocktakes updates) and where floating stock should reside (dummy ID, unknown-origin bin, or capped against a Production ID) with auditability and FIFO/COGS implications.\n- It highlights the tension between practical handling and strict traceability, arguing for production-ID traceability to support audits, batch traceability, FIFO, and cost layering.",
+      "scores": {
+        "scale": 8,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "keywords": [
+        "finished goods",
+        "floating stock",
+        "production ID",
+        "FIFO",
+        "COGS",
+        "auditability",
+        "traceability",
+        "inventory management",
+        "stock adjustments",
+        "cost layering"
+      ],
+      "pubDate": "2025-12-27T07:22:05.000Z"
+    },
+    {
+      "title": "Toyota Manufacturing Assessment?",
+      "author": "/u/Apprehensive_Top7051",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pwpyor/toyota_manufacturing_assessment/",
+      "summary": "- Post by u/Apprehensive_Top7051 asks how difficult Toyota's four-hour manufacturing assessment is for someone with machine-operator experience who hasn't taken it before.\n- It asks whether THC drug testing is performed and seeks plant-specific guidance for the West Virginia facility, referencing a track-team member.\n- The message is a request for practical prep tips, evaluation criteria, and shared benchmarks.",
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "keywords": [
+        "Toyota",
+        "manufacturing assessment",
+        "THC drug testing",
+        "West Virginia plant",
+        "preparation",
+        "industrial recruiting"
+      ],
+      "pubDate": "2025-12-27T05:35:26.000Z"
+    },
+    {
       "title": "Thermoforming a Custom Plexiglass Hardtop Window – Process Advice?",
       "author": "/u/in_famous9",
       "thumbnail": null,
@@ -1041,54 +1089,6 @@
         "defect detection"
       ],
       "pubDate": "2025-12-18T08:19:28.000Z"
-    },
-    {
-      "title": "Feeling stuck - looking to create quality fabric covered hinged boxes",
-      "author": "/u/AmbitiousSuccotash25",
-      "thumbnail": null,
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pp5ezo/feeling_stuck_looking_to_create_quality_fabric/",
-      "summary": "- Plan: fabric-covered hinged boxes with brass hardware in the US; initial 10-40 units, target under $100 each.\\n- Advice: upholsterers aren't suitable; use casemaking/bookbinding; hire bespoke box makers or binders; you may supply shells; multi-supplier workflow; some parts offshored.\\n- Steps: give vendors precise specs (size, tolerances, materials, qty, budget, sketches); aim for samples; expect price pressure; offshore options may help.",
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "keywords": [
-        "fabric-covered boxes",
-        "box making",
-        "casemaking",
-        "bookbinding",
-        "jewelry boxes",
-        "manufacturing workflow",
-        "US sourcing",
-        "custom hardware",
-        "samples"
-      ],
-      "pubDate": "2025-12-17T19:20:26.000Z"
-    },
-    {
-      "title": "Is there actually a 'best' 5-axis automation tool or does it depend on your workflow?",
-      "author": "/u/RevolutionaryBid7171",
-      "thumbnail": null,
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pp3fns/is_there_actually_a_best_5axis_automation_tool_or/",
-      "summary": "- The post questions whether there is a universal 'best' 5-axis automation tool or if choice hinges on workflow and application.\n- Real-world performance depends on serviceability, nearby support, timely spares, and technician availability more than brand hype.\n- Clarifying what 'tool' means (machine tool vs programming tool vs software) is essential to align expectations with the intended workflow.",
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 4,
-        "longTermSignificance": 5
-      },
-      "keywords": [
-        "5-axis",
-        "automation",
-        "manufacturing",
-        "tool selection",
-        "workflow",
-        "serviceability",
-        "support"
-      ],
-      "pubDate": "2025-12-17T18:04:07.000Z"
     }
   ]
 }
