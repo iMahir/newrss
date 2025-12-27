@@ -5,6 +5,33 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Thermoforming a Custom Plexiglass Hardtop Window – Process Advice?",
+      "author": "/u/in_famous9",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pwjfcz/thermoforming_a_custom_plexiglass_hardtop_window/",
+      "summary": "- DIY plan: rough-cut sheet, heat in a fab oven until pliable, and form over the original window using it as a template, clamp perimeter during cooling.\n- Comments stress true thermoforming needs a buck/mold, vacuum distribution, and many iterations (10–20) with scrapped parts; costs can exceed $500.\n- Overall guidance favors buying the factory replacement for reliability, though DIY successes exist, demanding significant skill, tooling, and risk.",
+      "scores": {
+        "scale": 6,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 4
+      },
+      "keywords": [
+        "plexiglass",
+        "thermoforming",
+        "DIY",
+        "windows",
+        "hardtop",
+        "vacuum forming",
+        "buck",
+        "mold",
+        "costs",
+        "risks",
+        "manufacturing"
+      ],
+      "pubDate": "2025-12-27T00:17:15.000Z"
+    },
+    {
       "title": "When a bearing goes rogue, and your coil is screaming- how do you stay sane?",
       "author": "/u/Opposite_Dentist_321",
       "thumbnail": null,
@@ -1062,31 +1089,6 @@
         "support"
       ],
       "pubDate": "2025-12-17T18:04:07.000Z"
-    },
-    {
-      "title": "Water Ingress Issue During Continuous XLPE Insulation – Looking for Ideas",
-      "author": "/u/yaitsev",
-      "thumbnail": null,
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pow1nl/water_ingress_issue_during_continuous_xlpe/",
-      "summary": "- Discusses water ingress under the conductor insulation at a crimp-sleeve joint in continuous XLPE insulation, causing major scrap and long rejection cycles.\n- Notes extremely tight clearance (sleeve OD 16.0 mm vs tooling ID 16.5–16.7 mm) and explores sealing, geometry, and potential alternate joining methods such as ultrasonic welding; TS-20W Plus cited.\n- Proposes redundancy in sealing/joint design, processing parameter adjustments, or different joining methods; no definitive solution reached in thread.",
-      "scores": {
-        "scale": 7,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 6
-      },
-      "keywords": [
-        "water ingress",
-        "XLPE insulation",
-        "crimp-sleeve joint",
-        "ultrasonic welding",
-        "TS-20W Plus",
-        "wire splicer",
-        "cable manufacturing",
-        "joint sealing",
-        "quality scrap"
-      ],
-      "pubDate": "2025-12-17T13:06:31.000Z"
     }
   ]
 }

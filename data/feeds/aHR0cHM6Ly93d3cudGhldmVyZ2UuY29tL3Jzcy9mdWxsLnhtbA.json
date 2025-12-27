@@ -5,6 +5,31 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Trump’s war on offshore wind faces another lawsuit",
+      "author": "Justine Calma",
+      "thumbnail": null,
+      "link": "https://www.theverge.com/news/850461/offshore-wind-trump-lawsuit-dominion-energy-ai-data-center",
+      "summary": "- Dominion Energy sues to block the 90-day offshore-wind pause, calling it unlawful and an overreach.\n- The suit cites rising Virginia data-center demand and warns delays will raise costs; Interior Sec. Burgum is named a defendant.\n- It follows earlier challenges to offshore-wind actions and ongoing questions about national-security and radar-interference concerns.",
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "keywords": [
+        "offshore wind",
+        "Dominion Energy",
+        "Bureau of Ocean Energy Management",
+        "lawsuit",
+        "Virginia",
+        "data centers",
+        "AI",
+        "national security",
+        "radar interference"
+      ],
+      "pubDate": "2025-12-26T22:14:47.000Z"
+    },
+    {
       "title": "Rodeo is an app for making plans with friends you already have",
       "author": "Terrence O’Brien",
       "thumbnail": null,
@@ -1073,16 +1098,6 @@
         "creators"
       ],
       "pubDate": "2025-12-22T03:46:20.000Z"
-    },
-    {
-      "title": "Frozen Waymos backed up San Francisco traffic during a widespread power outage",
-      "link": "https://www.theverge.com/news/848843/waymo-san-francisco-power-outage",
-      "author": "Richard Lawler",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-21T19:17:00.000Z"
     }
   ]
 }
