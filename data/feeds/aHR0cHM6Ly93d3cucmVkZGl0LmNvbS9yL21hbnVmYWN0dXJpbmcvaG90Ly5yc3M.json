@@ -5,6 +5,30 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Rule Suggestion: No Posts by accounts with hidden post history",
+      "author": "/u/The_MadChemist",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pwu3mm/rule_suggestion_no_posts_by_accounts_with_hidden/",
+      "summary": "- Suggests banning posts from accounts with hidden history to curb LLM-generated or deceptive content.\\n- Debates include impersonation risk, judging authenticity from one post, and whether history helps distinguish bots from humans.\\n- Questions about enforcement practicality and false positives, with no consensus on effectiveness.",
+      "scores": {
+        "scale": 7,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 6
+      },
+      "keywords": [
+        "reddit",
+        "rule proposal",
+        "hidden post history",
+        "account authenticity",
+        "LLM detection",
+        "automation",
+        "moderation",
+        "verification"
+      ],
+      "pubDate": "2025-12-27T09:48:31.000Z"
+    },
+    {
       "title": "Question for the pros about floating stock w.r.t. finished goods.",
       "author": "/u/BuffHaloBill",
       "thumbnail": null,
@@ -1067,28 +1091,6 @@
         "cellular"
       ],
       "pubDate": "2025-12-18T11:31:57.000Z"
-    },
-    {
-      "title": "How to detect tape folding during shielding on XLPE cable line?",
-      "author": "/u/yaitsev",
-      "thumbnail": null,
-      "link": "https://www.reddit.com/r/manufacturing/comments/1ppln0t/how_to_detect_tape_folding_during_shielding_on/",
-      "summary": "- Inline vision systems (Keyence, Cognex) monitor tape width/shape/color/texture to detect folding and trigger alarms or line stops; on-board processing with PC setup; Ethernet/PLC integration.\n- Training with good/bad samples; vendor demos; many systems are all-in-one units; setup can be laptop-based; PLCs handle alarms.\n- Software analysis is usually required; cheaper options include non-contact thickness sensors (ultrasonic/capacitive) or tension-based tape-break sensors as supplements.",
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "keywords": [
-        "tape folding",
-        "XLPE cable shielding",
-        "machine vision",
-        "inline inspection",
-        "industrial automation",
-        "defect detection"
-      ],
-      "pubDate": "2025-12-18T08:19:28.000Z"
     }
   ]
 }
