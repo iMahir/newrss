@@ -5,6 +5,62 @@
   "feedUrl": "https://rss-bridge.org/bridge01/?action=display&bridge=ReutersBridge&feed=tech&format=Atom",
   "items": [
     {
+      "title": "TSMC says some facilities evacuated after quake",
+      "author": "Reuters",
+      "thumbnail": null,
+      "link": "https://www.reuters.com/world/asia-pacific/tsmc-says-some-facilities-evacuated-after-quake-2025-12-27/",
+      "summary": "- Some TSMC facilities in Hsinchu science park triggered evacuation criteria after the earthquake.\n- The company is conducting outdoor evacuations and headcounts per emergency procedures to ensure safety.\n- Work-safety systems across all facilities remain operational and monitoring continues.",
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "keywords": [
+        "TSMC",
+        "evacuation",
+        "earthquake",
+        "Hsinchu",
+        "semiconductors",
+        "Taiwan",
+        "Reuters"
+      ],
+      "pubDate": "2025-12-27T16:00:26.000Z"
+    },
+    {
+      "title": "Waymo's San Francisco outage raises doubts over robotaxi readiness during crises",
+      "link": "https://www.reuters.com/business/autos-transportation/waymos-san-francisco-outage-raises-doubts-over-robotaxi-readiness-during-crises-2025-12-27/",
+      "author": "Abhirup Roy",
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-12-27T14:02:33.000Z"
+    },
+    {
+      "title": "China issues drafts rules to regulate AI with human-like interaction",
+      "author": "Reuters",
+      "thumbnail": null,
+      "link": "https://www.reuters.com/world/asia-pacific/china-issues-drafts-rules-regulate-ai-with-human-like-interaction-2025-12-27/",
+      "summary": "- Draft rules target AI services that simulate personalities and emotional interactions to tighten safety and ethics oversight.\n- Providers must warn about excessive use, intervene on addiction, and ensure safety across the product lifecycle (algorithm review, data security).\n- Prohibited: content endangering security, rumors, violence, or obscenity; providers must assess user states and act on extreme or addictive behavior.",
+      "scores": {
+        "scale": 6,
+        "impact": 8,
+        "novelty": 7,
+        "longTermSignificance": 9
+      },
+      "keywords": [
+        "China AI regulation",
+        "AI safety",
+        "human-like AI",
+        "emotional AI",
+        "data protection",
+        "ethics in AI",
+        "policy draft"
+      ],
+      "pubDate": "2025-12-27T08:02:50.000Z"
+    },
+    {
       "title": "China revises aviation law to regulate drones, tighten safety rules",
       "author": "Reuters",
       "thumbnail": null,
@@ -762,36 +818,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-12-22T15:06:24.000Z"
-    },
-    {
-      "title": "China confirms talks between Wingtech, Nexperia BV, urges further negotiations",
-      "link": "https://www.reuters.com/world/china/china-confirms-talks-between-wingtech-nexperia-bv-urges-further-negotiations-2025-12-22/",
-      "author": "Reuters",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-22T14:43:26.000Z"
-    },
-    {
-      "title": "Instacart ends AI-driven price experiments after criticism",
-      "link": "https://www.reuters.com/business/instacart-ends-ai-driven-price-experiments-after-criticism-2025-12-22/",
-      "author": "Jody Godoy",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-22T14:43:01.000Z"
-    },
-    {
-      "title": "CACI expands space, defense footprint with $2.6 billion ARKA buy",
-      "link": "https://www.reuters.com/technology/caci-expands-space-defense-footprint-with-26-billion-arka-buy-2025-12-22/",
-      "author": "Reuters",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-22T13:16:23.000Z"
     }
   ]
 }

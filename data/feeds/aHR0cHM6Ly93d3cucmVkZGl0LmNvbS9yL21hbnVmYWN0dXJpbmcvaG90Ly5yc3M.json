@@ -5,6 +5,16 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Anyone know where this can be sourced from",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1px0rca/anyone_know_where_this_can_be_sourced_from/",
+      "author": "/u/ActualPermission187",
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-12-27T15:42:26.000Z"
+    },
+    {
       "title": "Rule Suggestion: No Posts by accounts with hidden post history",
       "author": "/u/The_MadChemist",
       "thumbnail": null,
@@ -1064,33 +1074,6 @@
         "pricing"
       ],
       "pubDate": "2025-12-18T14:28:25.000Z"
-    },
-    {
-      "title": "Looking for super low-maintenance trackers .. 5–10 years battery ideally?",
-      "author": "/u/dylan-sf",
-      "thumbnail": null,
-      "link": "https://www.reddit.com/r/manufacturing/comments/1ppoloe/looking_for_super_lowmaintenance_trackers_510/",
-      "summary": "- Ultra-low-maintenance trackers for idle industrial assets targeting 5–10 year battery life.\n- Prefer LPWAN (LoRaWAN/Sigfox) with infrequent wake-and-send; avoid GPS+cellular for long idle life and only use them for frequent updates.\n- Alternatives include Hubble Network and RFID passive tags; power budgeting depends on tracker definition and chosen energy source, with cellular performing poorly in idle.",
-      "scores": {
-        "scale": 7,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "keywords": [
-        "LPWAN",
-        "LoRaWAN",
-        "Sigfox",
-        "low-power",
-        "battery-life",
-        "IoT",
-        "industrial-tracking",
-        "Hubble Network",
-        "RFID",
-        "GPS",
-        "cellular"
-      ],
-      "pubDate": "2025-12-18T11:31:57.000Z"
     }
   ]
 }
