@@ -5,6 +5,128 @@
   "feedUrl": "https://rss-bridge.org/bridge01/?action=display&bridge=ReutersBridge&feed=business&format=Atom",
   "items": [
     {
+      "title": "Louis Gerstner, former IBM CEO who revitalized 'Big Blue,' dies at 83",
+      "author": "Reuters",
+      "thumbnail": null,
+      "link": "https://www.reuters.com/business/louis-gerstner-former-ibm-ceo-who-revitalized-big-blue-dies-83-2025-12-28/",
+      "summary": "- Led IBM from 1993–2002 as the first outsider CEO, guiding a wide turnaround.\n- Shifted IBM toward business services, restructured culture, cut costs, and bought back stock, with IBM stock about eightfold higher by 2002.\n- An author and philanthropist, he wrote Who Says Elephants Can't Dance and founded the Gerstner Philanthropies to support education and research.",
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 5,
+        "longTermSignificance": 9
+      },
+      "keywords": [
+        "Louis Gerstner",
+        "IBM",
+        "Big Blue",
+        "turnaround",
+        "business services",
+        "Who Says Elephants Can't Dance",
+        "Gerstner Philanthropies",
+        "education advocacy",
+        "RJR Nabisco"
+      ],
+      "pubDate": "2025-12-28T16:48:58.000Z"
+    },
+    {
+      "title": "More Israeli tech workers want to relocate abroad, report says",
+      "author": "Steven Scheer",
+      "thumbnail": null,
+      "link": "https://www.reuters.com/business/world-at-work/israels-tech-sector-says-more-staff-seek-relocation-abroad-report-2025-12-28/",
+      "summary": "- 53% of companies saw more relocation requests amid the ongoing conflict, risking local tech leadership.\\n- The sector accounts for ~20% of GDP, 15% of jobs, and >50% of exports, with Microsoft, Intel, Nvidia, Amazon, Meta and Apple operating in Israel.\\n- War disruptions push some multinationals to shift investments; rising executive relocation demand underscores the need for regulatory and geopolitical stability.",
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "keywords": [
+        "Israel tech sector",
+        "relocation abroad",
+        "IATI report",
+        "Hamas war",
+        "multinationals",
+        "innovation ecosystem",
+        "geopolitical stability",
+        "Israel economy",
+        "tech leadership"
+      ],
+      "pubDate": "2025-12-28T15:57:48.000Z"
+    },
+    {
+      "title": "Amazon halts plans for drone delivery in Italy",
+      "author": "Reuters",
+      "thumbnail": null,
+      "link": "https://www.reuters.com/business/retail-consumer/amazon-halts-plans-drone-delivery-italy-2025-12-28/",
+      "summary": "- Amazon will not pursue commercial drone delivery in Italy after a strategic review, citing an unfavorable regulatory framework for its longer-term objectives.\n- The company noted progress with regulators and said it had completed initial drone delivery tests in December 2024 in San Salvo, Abruzzo.\n- ENAC called the decision unexpected; the current Italian regulatory environment is not conducive to continuing the project.",
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 5
+      },
+      "keywords": [
+        "Amazon",
+        "drone delivery",
+        "Italy",
+        "ENAC",
+        "regulatory environment",
+        "San Salvo",
+        "Abruzzo",
+        "Reuters"
+      ],
+      "pubDate": "2025-12-28T10:30:30.000Z"
+    },
+    {
+      "title": "UK and Germany sign $70 million joint deal for mobile artillery systems",
+      "author": "Reuters",
+      "thumbnail": null,
+      "link": "https://www.reuters.com/business/aerospace-defense/uk-germany-sign-70-million-joint-deal-mobile-artillery-systems-2025-12-28/",
+      "summary": "- Britain and Germany signed a joint procurement worth about $70 million to acquire the RCH 155 artillery system mounted on armoured vehicles, including a UK early capability demonstrator and two German test units.\n- The system can fire eight rounds per minute on the move, is crewed by two and can travel about 700 km without refuelling.\n- Built by KNDS and Rheinmetall, it is designed to strike targets beyond 70 km.",
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "keywords": [
+        "artillery",
+        "RCH 155",
+        "KNDS",
+        "Rheinmetall",
+        "UK",
+        "Germany",
+        "mobile artillery",
+        "defense procurement"
+      ],
+      "pubDate": "2025-12-28T09:29:41.000Z"
+    },
+    {
+      "title": "Libya's Waha Oil adds two gas wells to Farigh field",
+      "author": "Reuters",
+      "thumbnail": null,
+      "link": "https://www.reuters.com/business/energy/libyas-waha-oil-adds-two-gas-wells-farigh-field-2025-12-28/",
+      "summary": "- Two new gas wells at the Farigh field are onstream, producing about 14 million and 12 million cubic feet of gas per day.\n- Waha Oil is a joint venture between Libya's National Oil Corporation, TotalEnergies and ConocoPhillips.\n- The development aims to meet local demand and bolster domestic gas supply.",
+      "scores": {
+        "scale": 7,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "keywords": [
+        "Libya",
+        "Waha Oil",
+        "Farigh field",
+        "gas wells",
+        "natural gas",
+        "TotalEnergies",
+        "ConocoPhillips",
+        "NOC"
+      ],
+      "pubDate": "2025-12-28T09:03:13.000Z"
+    },
+    {
       "title": "Lloyds to shut invoice factoring unit by year's end, FT reports",
       "author": "Reuters",
       "thumbnail": null,
@@ -731,56 +853,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-12-24T14:28:59.000Z"
-    },
-    {
-      "title": "US weekly jobless claims fall, but more people collecting unemployment checks",
-      "link": "https://www.reuters.com/world/us/us-weekly-jobless-claims-unexpectedly-fall-2025-12-24/",
-      "author": "Lucia Mutikani",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-24T13:36:22.000Z"
-    },
-    {
-      "title": "Agios Pharma shares jump as US FDA expands approval for blood disorder drug",
-      "link": "https://www.reuters.com/sustainability/boards-policy-regulation/agios-pharma-shares-jump-us-fda-expands-approval-its-blood-disorder-drug-2025-12-24/",
-      "author": "Siddhi Mahatole",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-24T13:22:35.000Z"
-    },
-    {
-      "title": "Exclusive: Kazakhstan's December crude exports sink to 14-month low after Ukraine drone strikes",
-      "link": "https://www.reuters.com/business/energy/cpc-oil-loading-plan-revised-down-33-december-bad-weather-delays-repairs-2025-12-24/",
-      "author": "Robert Harvey",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-24T13:12:37.000Z"
-    },
-    {
-      "title": "Ukraine completes GPD warrant deal, eliminating 'significant' liability",
-      "link": "https://www.reuters.com/business/ukraine-completes-gpd-warrant-deal-eliminating-significant-liability-2025-12-24/",
-      "author": "Reuters",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-24T13:03:55.000Z"
-    },
-    {
-      "title": "Stonepeak, CPPIB look to buy Castrol India shares at premium following BP deal",
-      "link": "https://www.reuters.com/legal/transactional/stonepeak-cppib-look-buy-castrol-india-shares-premium-following-bp-deal-2025-12-24/",
-      "author": "Reuters",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-24T12:39:27.000Z"
     }
   ]
 }
