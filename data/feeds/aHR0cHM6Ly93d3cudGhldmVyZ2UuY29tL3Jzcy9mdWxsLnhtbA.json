@@ -5,6 +5,33 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Ubisoft shuts down ‘Rainbow Six Siege’ servers following hack",
+      "author": "Terrence O’Brien",
+      "thumbnail": null,
+      "link": "https://www.theverge.com/news/850551/ubisoft-shuts-down-rainbow-six-siege-servers-following-hack",
+      "summary": "- Ubisoft confirmed Rainbow Six Siege was compromised, triggering a shutdown of servers and the marketplace while the issue is resolved.\n- Hackers reportedly gained control of core systems, able to ban/unban players, message the ban ticker, unlock items, and grant 2 billion R6 Credits and Renown.\n- Ubisoft noted credits purchased after 11:00 AM UTC Saturday would be rolled back; players who spent credits before that would not be punished; service restoration status ongoing.",
+      "scores": {
+        "scale": 8,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "keywords": [
+        "Rainbow Six Siege",
+        "Ubisoft",
+        "hack",
+        "server outage",
+        "R6 Credits",
+        "Renown",
+        "security",
+        "gaming",
+        "data breach",
+        "rollback",
+        "marketplace"
+      ],
+      "pubDate": "2025-12-28T16:42:07.000Z"
+    },
+    {
       "title": "The best PS5 games from 2025",
       "author": "Ash Parrish",
       "thumbnail": null,
@@ -1077,29 +1104,6 @@
         "24-bit/48-kHz audio"
       ],
       "pubDate": "2025-12-22T16:52:40.000Z"
-    },
-    {
-      "title": "Instacart scraps AI pricing tests that made some products more expensive",
-      "author": "Emma Roth",
-      "thumbnail": null,
-      "link": "https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight",
-      "summary": "- Instacart ends its AI-powered pricing tests using Eversight, which created price gaps for identical items at the same store.\\n- Going forward prices can vary by store but not due to supply/demand, demographics, or personal shopping data.\\n- The move follows FTC scrutiny and a $60M settlement over deceptive practices; retailers may not use Eversight for pricing tests anymore.",
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "keywords": [
-        "Instacart",
-        "AI pricing",
-        "Eversight",
-        "pricing tests",
-        "FTC investigation",
-        "retail pricing",
-        "consumer pricing"
-      ],
-      "pubDate": "2025-12-22T16:32:17.000Z"
     }
   ]
 }
