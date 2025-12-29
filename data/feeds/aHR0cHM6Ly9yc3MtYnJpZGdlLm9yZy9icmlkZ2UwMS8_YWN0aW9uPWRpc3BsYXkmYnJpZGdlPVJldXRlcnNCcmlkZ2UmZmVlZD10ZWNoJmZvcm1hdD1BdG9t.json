@@ -5,6 +5,85 @@
   "feedUrl": "https://rss-bridge.org/bridge01/?action=display&bridge=ReutersBridge&feed=tech&format=Atom",
   "items": [
     {
+      "title": "Verisk pulls plug on $2.4 billion AccuLynx deal after FTC review delay",
+      "author": "Reuters",
+      "thumbnail": null,
+      "link": "https://www.reuters.com/business/verisk-pulls-plug-24-billion-acculynx-deal-2025-12-29/",
+      "summary": "- Verisk terminates its $2.35 billion AccuLynx deal after the FTC review extends past the December 26 deadline.\n- AccuLynx says the termination is invalid; Verisk plans to defend the position and redeem about $1.5 billion of debt raised for the acquisition.\n- The move could spur 2026 capital actions like share buybacks as financing is restructured.",
+      "scores": {
+        "scale": 7,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "keywords": [
+        "Verisk",
+        "AccuLynx",
+        "FTC",
+        "regulatory delay",
+        "merger termination",
+        "debt redemption",
+        "roofing software",
+        "acquisition"
+      ],
+      "pubDate": "2025-12-29T13:50:21.000Z"
+    },
+    {
+      "title": "Nvidia takes $5 billion stake in Intel under September agreement",
+      "link": "https://www.reuters.com/legal/transactional/nvidia-takes-5-billion-stake-intel-under-september-agreement-2025-12-29/",
+      "author": "Reuters",
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-12-29T12:15:19.000Z"
+    },
+    {
+      "title": "Russian billionaire Potanin acquires minority stake in cloud provider Selectel",
+      "link": "https://www.reuters.com/business/russian-billionaire-potanin-acquires-minority-stake-cloud-provider-selectel-2025-12-29/",
+      "author": "Reuters",
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-12-29T09:40:41.000Z"
+    },
+    {
+      "title": "Two Chinese flagship ETFs launch in Thailand as China lures foreign investors",
+      "author": "Reuters",
+      "thumbnail": null,
+      "link": "https://www.reuters.com/world/asia-pacific/two-chinese-flagship-etfs-launch-thailand-china-lures-foreign-investors-2025-12-29/",
+      "summary": "- China Asset Management launched two flagship ETFs in Thailand as depository receipts, giving Thai investors access to CSI300 and STAR 50 blue-chip stocks (DRs 510330.SS, 588000.SS).\n- DRs trade in real-time in Thai baht with capital gains tax exemptions and no overseas accounts; InnovestX Securities aided issuance and market-making.\n- This signals deeper China–Thailand financial integration under Belt and Road; CSI300 up ~18% and STAR50 up ~36% this year, with ongoing ChinaAMC initiatives in Thailand.",
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 9
+      },
+      "keywords": [
+        "ChinaAsset Management",
+        "Thailand",
+        "ETFs",
+        "depository receipts",
+        "CSI300",
+        "STAR50",
+        "InnovestX",
+        "Belt and Road",
+        "cross-border finance"
+      ],
+      "pubDate": "2025-12-29T09:38:29.000Z"
+    },
+    {
+      "title": "South Korea's L&F slashes value of battery material supply deal with Tesla",
+      "link": "https://www.reuters.com/world/asia-pacific/south-koreas-lf-says-value-battery-material-supply-deal-with-tesla-cut-7386-2025-12-29/",
+      "author": "Hyunjoo Jin, Heekyong Yang",
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-12-29T08:12:29.000Z"
+    },
+    {
       "title": "SoftBank nears deal for data center investment firm DigitalBridge, Bloomberg News reports",
       "author": "Reuters",
       "thumbnail": null,
@@ -854,56 +933,6 @@
         "supply-chain risk"
       ],
       "pubDate": "2025-12-22T19:31:00.000Z"
-    },
-    {
-      "title": "South Korea online retailer Coupang faces US securities class action over massive data breach",
-      "link": "https://www.reuters.com/legal/government/south-korea-online-retailer-coupang-faces-us-securities-class-action-over-2025-12-22/",
-      "author": "Mike Scarcella",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-22T18:44:24.000Z"
-    },
-    {
-      "title": "FanDuel, CME Group launch prediction markets in five US states",
-      "link": "https://www.reuters.com/business/fanduel-cme-group-launch-prediction-markets-five-us-states-2025-12-22/",
-      "author": "Reuters",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-22T18:13:29.000Z"
-    },
-    {
-      "title": "US lawmakers want disclosure of license reviews for Nvidia H200 chip sales to China",
-      "link": "https://www.reuters.com/world/china/lawmakers-want-us-disclose-any-approvals-nvidia-h200-china-licenses-2025-12-22/",
-      "author": "David Shepardson",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-22T17:58:23.000Z"
-    },
-    {
-      "title": "California examines incidents of stalled Waymo robotaxis after San Francisco power outage",
-      "link": "https://www.reuters.com/business/autos-transportation/waymo-resumes-san-francisco-service-after-power-outage-pause-2025-12-22/",
-      "author": "Abhirup Roy, David Shepardson",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-22T17:45:15.000Z"
-    },
-    {
-      "title": "Driverless future gains momentum with global robotaxi deployments",
-      "link": "https://www.reuters.com/business/media-telecom/driverless-future-gains-momentum-with-global-robotaxi-deployments-2025-12-22/",
-      "author": "Reuters",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-22T17:42:21.000Z"
     }
   ]
 }
