@@ -5,6 +5,30 @@
   "feedUrl": "https://feedmaker.fly.dev/feed/?url=https%3A%2F%2Fdst.gov.in%2Fst-articles&feed_title=S%26T+Articles+%7C+Department+Of+Science+%26+Technology&selector_item=.field-content+ol+li&selector_title=a&selector_description=&selector_link=a%5Bhref%5D",
   "items": [
     {
+      "title": "New computational method \"Fast-Tracks\" drug discovery",
+      "author": null,
+      "thumbnail": null,
+      "link": "https://dst.gov.in/new-computational-method-fast-tracks-drug-discovery",
+      "summary": "- Fast-Tracks, inspired by PathGennie, accelerates transition-pathway discovery via direction-guided adaptive sampling.\n- Ultrashort MD trajectories are launched; only productive paths are prolonged, preserving true kinetics without bias.\n- General to high-dimensional CVs and ML-derived order parameters, with proof-of-concept results (benzene in T4 lysozyme, Imatinib in Abl kinase); open-source software.",
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 8,
+        "longTermSignificance": 9
+      },
+      "keywords": [
+        "fast-tracks",
+        "path sampling",
+        "molecular dynamics",
+        "transition pathways",
+        "adaptive sampling",
+        "machine learning",
+        "open source",
+        "drug discovery"
+      ],
+      "pubDate": "2025-12-29T13:00:50.838Z"
+    },
+    {
       "title": "When the inner wall fell: complex hydrocarbon molecules in a young stellar disk",
       "author": null,
       "thumbnail": null,
