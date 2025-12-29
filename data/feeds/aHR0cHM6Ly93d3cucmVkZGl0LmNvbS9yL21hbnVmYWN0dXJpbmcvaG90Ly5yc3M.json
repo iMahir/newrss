@@ -5,6 +5,32 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Anyone actually using ML/AI for production data analysis? What's working, what's hype?",
+      "author": "/u/Ok-Painter2695",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1py48hl/anyone_actually_using_mlai_for_production_data/",
+      "summary": "- Real-world use shows hype often outpaces reality; pilots fail due to data quality, governance, and operator trust.\n- Data governance and clean data are more critical than algorithm sophistication; issues include timestamps, missing states, garbage-in garbage-out.\n- ROI often comes from ERP/shop-floor improvements; long data prep delays; simple anomaly detection can beat flashy ML on sensor data.",
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 4,
+        "longTermSignificance": 7
+      },
+      "keywords": [
+        "ML",
+        "AI",
+        "production analytics",
+        "data quality",
+        "data governance",
+        "anomaly detection",
+        "manufacturing",
+        "ROI",
+        "ERP",
+        "shop-floor"
+      ],
+      "pubDate": "2025-12-28T22:16:40.000Z"
+    },
+    {
       "title": "Idea validation: Voice AI for handling customer complaints in manufacturing (India)",
       "author": "/u/VirtualAppearance691",
       "thumbnail": null,
@@ -1031,31 +1057,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-12-19T13:03:42.000Z"
-    },
-    {
-      "title": "Component sourcing as a hidden bottleneck in PCB assembly",
-      "author": "/u/Jammyyy_jam",
-      "thumbnail": null,
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pqg1ua/component_sourcing_as_a_hidden_bottleneck_in_pcb/",
-      "summary": "- Sourcing is a hidden bottleneck in PCB assembly, with long lead times, counterfeit risk, and shortages that can derail projects when procurement sits with the assembler.\\n- Supplier qualification and incoming inspection become integral, and sourcing choices can directly affect yield and reliability.\\n- The design-vs-substitution boundary matters: engineers lock parts, while manufacturers may prefer alternatives; outsourcing sourcing must balance design intent with supply reality to avoid delays.",
-      "scores": {
-        "scale": 8,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "keywords": [
-        "PCB assembly",
-        "component sourcing",
-        "supply chain",
-        "lead times",
-        "counterfeit risk",
-        "supplier qualification",
-        "incoming inspection",
-        "design-for-sourcing",
-        "substitution policy"
-      ],
-      "pubDate": "2025-12-19T08:30:27.000Z"
     }
   ]
 }
