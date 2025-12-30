@@ -5,6 +5,121 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Two cybersecurity employees plead guilty to carrying out ransomware attacks",
+      "author": "Emma Roth",
+      "thumbnail": null,
+      "link": "https://www.theverge.com/news/851467/cybersecurity-employees-plead-guilty-alphv-blackcat-ransomware",
+      "summary": "- Two former cybersecurity employees pled guilty to a 2023 ALPHV/BlackCat ransomware campaign that extorted about $1.2 million in Bitcoin from a medical-device company and targeted other victims.\\n- The defendants are Ryan Goldberg (40) and Kevin Martin (36), with an unnamed co-conspirator; Martin and the third conspirator allegedly worked as ransomware negotiators at Digital Mint, while Goldberg was an incident-response manager at Sygnia Cybersecurity Services.\\n- The DOJ says the case involves conspiracy to obstruct, delay, or affect commerce by extortion; ALPHV/BlackCat operates as a ransomware-as-a-service platform; sentencing is set for March 12, 2026, with a maximum 20-year penalty on each count.",
+      "scores": {
+        "scale": 9,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "keywords": [
+        "ransomware",
+        "ALPHV/BlackCat",
+        "guilty plea",
+        "extortion",
+        "ransomware-as-a-service",
+        "Digital Mint",
+        "Sygnia Cybersecurity Services",
+        " DOJ",
+        "FBI",
+        "The Verge",
+        "Emma Roth"
+      ],
+      "pubDate": "2025-12-30T18:32:27.000Z"
+    },
+    {
+      "title": "The OneXSugar Wallet is the first gaming handheld with a folding screen",
+      "author": "Andrew Liszewski",
+      "thumbnail": null,
+      "link": "https://www.theverge.com/news/851401/one-netbook-onexsugar-gaming-handheld-wallet-folding-oled-screen-android",
+      "summary": "- One-Netbook unveils the OneXSugar Wallet: folding OLED handheld with a single 8.01-inch 4:3 display (2480×1860).\n- Powered by an unnamed Qualcomm flagship gaming platform; no performance or emulation specs disclosed; controls include asymmetric thumbsticks, D-pad, four action buttons, shoulder buttons and rear triggers.\n- Weibo reveal with few details; pricing unknown; ties to folding Sugar 1; context hints at premium folding-device pricing.",
+      "scores": {
+        "scale": 6,
+        "impact": 6,
+        "novelty": 6,
+        "longTermSignificance": 5
+      },
+      "keywords": [
+        "OneXSugar Wallet",
+        "One-Netbook",
+        "folding OLED",
+        "gaming handheld",
+        "Qualcomm",
+        "Weibo",
+        "Sugar 1",
+        "foldables",
+        "handheld console",
+        "Android"
+      ],
+      "pubDate": "2025-12-30T17:52:38.000Z"
+    },
+    {
+      "title": "GameSir put a tiny force feedback steering wheel on its new Swift Drive controller",
+      "author": "Andrew Liszewski",
+      "thumbnail": null,
+      "link": "https://www.theverge.com/news/851259/gamesir-switch-turbo-drive-controller-steering-wheel-wireless-force-feedback",
+      "summary": "- Swift Drive: removable wheel with built-in force-feedback motor (world's smallest direct-drive) and a high-precision Hall encoder.\n- Turbo Drive: desk-clamped wheel/yoke, 2.4 GHz wireless, Hall sensors, throttle and paddles, plus an integrated turbine fan for airflow.\n- Both use 2.4 GHz wireless and Hall sensors; Swift Drive runs 20-30h per charge, Turbo Drive 15h with the fan on (up to 50h with it off); part of GameSir's experimental controller history.",
+      "scores": {
+        "scale": 8,
+        "impact": 8,
+        "novelty": 9,
+        "longTermSignificance": 7
+      },
+      "keywords": [
+        "GameSir",
+        "Swift Drive",
+        "Turbo Drive",
+        "force feedback",
+        "direct-drive",
+        "Hall effect",
+        "wireless controller",
+        "gaming peripherals",
+        "racing wheel"
+      ],
+      "pubDate": "2025-12-30T15:59:41.000Z"
+    },
+    {
+      "title": "Anker’s portable backup battery is an even better investment now that it’s nearly half off",
+      "link": "https://www.theverge.com/gadgets/851016/anker-521-powerhouse-google-tv-streamer-4k-deal-sale",
+      "author": "Sheena Vasani",
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-12-30T15:47:34.000Z"
+    },
+    {
+      "title": "The FCC has probably killed a plan to improve smart home security",
+      "author": "Stevie Bonifield",
+      "thumbnail": null,
+      "link": "https://www.theverge.com/news/851271/cyber-trust-mark-program-lead-administrator-withdraws",
+      "summary": "- The FCC investigations prompted UL Solutions to step down as lead administrator, leaving the Cyber Trust Mark program in limbo. - The program, announced in 2023 and launched at CES 2025, aimed to certify smart home devices with a shield-style mark, but no products have carried it. - The FCC has rolled back post-2024 telecom cybersecurity rules and scrutinized testing labs, decertifying some China-based labs, signaling uncertainty for future certification schemes.",
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "keywords": [
+        "cybersecurity",
+        "smart home",
+        "FCC",
+        "Cyber Trust Mark",
+        "UL Solutions",
+        "Energy Star",
+        "regulation",
+        "lab testing",
+        "IoT security",
+        "The Verge",
+        "CES 2025"
+      ],
+      "pubDate": "2025-12-30T15:47:09.000Z"
+    },
+    {
       "title": "This smart garden turned my black thumb green",
       "author": "Jennifer Pattison Tuohy",
       "thumbnail": null,
@@ -1026,116 +1141,6 @@
         "Cameron Faulkner"
       ],
       "pubDate": "2025-12-23T18:00:00.000Z"
-    },
-    {
-      "title": "DOJ appears to bungle Epstein Files redactions",
-      "author": "Lauren Feiner",
-      "thumbnail": null,
-      "link": "https://www.theverge.com/news/849639/epstein-files-doj-redactions-links",
-      "summary": "- Lauren Feiner reports the DOJ's Epstein-file redactions are delaying release and may reveal information that should be obscured.\n- Redacted blocks reportedly show payments to models and an immigration-lawyer linked to a forced-marriage defense tied to immigration status, per the 2022 USVI complaint.\n- A photo related to the case was briefly removed then restored over privacy concerns, underscoring ongoing transparency debates about Epstein materials.",
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "keywords": [
-        "Epstein",
-        "DOJ redactions",
-        "Epstein Library",
-        "public records",
-        "transparency",
-        "privacy",
-        "Virgin Islands complaint"
-      ],
-      "pubDate": "2025-12-23T16:33:23.000Z"
-    },
-    {
-      "title": "Watch lists are broken. Federation could fix them.",
-      "author": "Janko Roettgers",
-      "thumbnail": null,
-      "link": "https://www.theverge.com/column/849255/watch-lists-broken-federation-share-data",
-      "summary": "- Watch lists are fragmented across Netflix, Hulu, Google TV, Plex and more; syncing is inconsistent and deep links can fail on devices.\\n- Federated watch lists would share data across services with a master list and real-time updates, enabling auto-categorization and cross-service playlists.\\n- Roettgers calls for open data access and remixable APIs, arguing for a data-open future despite uncertainty.",
-      "scores": {
-        "scale": 7,
-        "impact": 8,
-        "novelty": 7,
-        "longTermSignificance": 8
-      },
-      "keywords": [
-        "watch lists",
-        "federation",
-        "data sharing",
-        "open APIs",
-        "cross-service",
-        "Plex",
-        "Netflix",
-        "Google TV",
-        "recommendations",
-        "content discovery"
-      ],
-      "pubDate": "2025-12-23T16:30:00.000Z"
-    },
-    {
-      "title": "New York’s landmark AI safety bill was defanged — and universities were part of the push against it",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/849293/ai-alliance-universities-colleges-funding-ad-campaign-against-raise-act",
-      "author": "Hayden Field",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-23T16:18:49.000Z"
-    },
-    {
-      "title": "Dozens of Flock AI camera feeds were just out there",
-      "author": "Emma Roth",
-      "thumbnail": null,
-      "link": "https://www.theverge.com/news/849624/flock-ai-camera-feeds-exposed-benn-jordan",
-      "summary": "- A misconfiguration left 60+ Flock livestreams publicly accessible without authentication, exposing live feeds and up to 30 days of archives from Condor cameras.\\n- Streams could pan, tilt, and zoom and allowed access to logs, settings, deletion of footage, and diagnostics via admin panels.\\n- Discovered by Benn Jordan and 404 Media via Shodan; Flock says the issue was limited and has been remedied, with ongoing partnerships like Ring.",
-      "scores": {
-        "scale": 7,
-        "impact": 9,
-        "novelty": 5,
-        "longTermSignificance": 7
-      },
-      "keywords": [
-        "Flock AI",
-        "camera feeds",
-        "data exposure",
-        "misconfiguration",
-        "privacy",
-        "security",
-        "Shodan",
-        "Condor",
-        "Ring",
-        "law enforcement"
-      ],
-      "pubDate": "2025-12-23T16:09:58.000Z"
-    },
-    {
-      "title": "Belkin’s camera grip power bank is a few upgrades away from being a must-have",
-      "author": "Andrew Liszewski",
-      "thumbnail": null,
-      "link": "https://www.theverge.com/gadgets/847321/belkin-stage-powergrip-wireless-power-bank-hands-on",
-      "summary": "- The Belkin Stage PowerGrip attaches magnetically to Qi2/MagSafe or Pixelsnap phones, includes a 9,300 mAh battery and a retractable USB-C cable for multi-device charging.\n- It adds ergonomic benefits for one-handed photography and can stand for hands-free use, but the front-edge shutter on iOS is awkward and the grip is noticeably heavy.\n- Wireless charging tops out at 7.5W and total output is shared across three devices (about 18W in tests); at $79.99 it's cheaper than premium grips but offers fewer controls.",
-      "scores": {
-        "scale": 7,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 6
-      },
-      "keywords": [
-        "Belkin",
-        "Stage PowerGrip",
-        "Qi2",
-        "MagSafe",
-        "Pixelsnap",
-        "camera grip",
-        "wireless charging",
-        "ergonomics",
-        "Stand functionality"
-      ],
-      "pubDate": "2025-12-23T16:00:00.000Z"
     }
   ]
 }
