@@ -5,6 +5,96 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Researching Manufacturing Workflows – Looking for Ideas on Where AI Can Actually Help",
+      "author": "/u/Public-Air3181",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pz7xbm/researching_manufacturing_workflows_looking_for/",
+      "summary": "- A practical effort to map real factory workflows with a focus on safety and operations, seeking AI/ML/CV/NLP ideas that reduce manual work without replacing leadership, grounded in domain expertise.\n- Low-risk use case: automating time studies from video to extract rough timings with human review, saving substantial time.\n- Warnings about AI hype: benchmark against experienced engineers, favor deterministic data management and rule-based automation, and pursue real-world validation.",
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "keywords": [
+        "manufacturing",
+        "workflows",
+        "AI augmentation",
+        "safety management",
+        "deterministic data",
+        "time studies",
+        "video analysis",
+        "human-in-the-loop",
+        "operational efficiency",
+        "risk-aware"
+      ],
+      "pubDate": "2025-12-30T04:02:57.000Z"
+    },
+    {
+      "title": "Materials Testing using ASTM Standards",
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pz6f8m/materials_testing_using_astm_standards/",
+      "author": "/u/Simple_Note4557",
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-12-30T02:52:24.000Z"
+    },
+    {
+      "title": "Would anyone be able to make this stick on a lathe",
+      "author": "/u/Brs_17",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pz4wxp/would_anyone_be_able_to_make_this_stick_on_a_lathe/",
+      "summary": "- Feasibility of machining a one-off aluminum drumstick (≈0.5 in dia, ~14 in long) on a lathe, with hollowing in the handle to save weight.\n- Debates on single-piece vs multi-piece threaded designs; chatter, alignment, torque, and options like through-hole hollowing or extrusion.\n- Costs and shop dynamics: small runs are expensive; aging machinists and local shops shape design choices, tolerances, and prototyping.",
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 4
+      },
+      "keywords": [
+        "lathe",
+        "machining",
+        "drumstick",
+        "aluminum",
+        "hollow",
+        "threaded joints",
+        "Swiss lathe",
+        "torque",
+        "tolerances",
+        "prototype",
+        "one-off",
+        "job shop"
+      ],
+      "pubDate": "2025-12-30T01:45:38.000Z"
+    },
+    {
+      "title": "QE requesting a sanity check",
+      "author": "/u/The_MadChemist",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pyzqp8/qe_requesting_a_sanity_check/",
+      "summary": "- QE seeks a sanity check on a 100k-piece run; SPC flagged OOS across the lot, which was quarantined; debate on subdividing by box under ISO 2859 and traceability.\n- Thread covers PE-owner spend limits, recalls risk, and whether 2x AQL with 100% sort after a failure is appropriate for ISO 13485/9001 medical parts.\n- Guidance emphasizes objective risk assessment, CAPA, defined lot boundaries, change control, and documented decisions to avoid recalls or safety issues.",
+      "scores": {
+        "scale": 7,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "keywords": [
+        "quality assurance",
+        "AQL",
+        "ISO 2859",
+        "OOS",
+        "traceability",
+        "CAPA",
+        "root cause",
+        "ISO 13485",
+        "recall",
+        "medical devices"
+      ],
+      "pubDate": "2025-12-29T22:07:03.000Z"
+    },
+    {
       "title": "Seeking Lingerie Manufacturers Skilled in Size-Inclusive & Supportive Bras",
       "author": "/u/ALargeOrderOfFries",
       "thumbnail": null,
@@ -975,104 +1065,6 @@
         "Dazzling_Alps_7321"
       ],
       "pubDate": "2025-12-20T05:58:22.000Z"
-    },
-    {
-      "title": "Seeking honest feedback on production planning & scheduling pain points",
-      "author": "/u/Rude-Student-3566",
-      "thumbnail": null,
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pr1y2x/seeking_honest_feedback_on_production_planning/",
-      "summary": "- Reddit post by /u/Rude-Student-3566 (2025-12-20) seeks honest feedback on production planning and scheduling pain points, focusing changeovers, labor, material timing, and shifting priorities.\n- The author built a math optimizer platform for demand planning and scheduling and asks what practitioners struggle with in day-to-day scheduling.\n- A follow-up asks how different line structures (piece-part vs assembly) influence scheduling challenges and APS needs.",
-      "scores": {
-        "scale": 8,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "keywords": [
-        "production scheduling",
-        "demand planning",
-        "changeovers",
-        "flow-shop",
-        "APS tools",
-        "line balancing",
-        "manufacturing optimization",
-        "operational scheduling",
-        "labor availability",
-        "material timing"
-      ],
-      "pubDate": "2025-12-20T01:26:32.000Z"
-    },
-    {
-      "title": "Looking for manufacturers in India",
-      "author": "/u/manya_niti",
-      "thumbnail": null,
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pqtzm1/looking_for_manufacturers_in_india/",
-      "summary": "- A Reddit post by /u/manya_niti seeks Indian manufacturers to produce dog and cat beds similar to an attached image.\n- The post requests sources in India capable of manufacturing the pictured beds.\n- The initial thread shows two comments on the same day, suggesting uncertainty about availability (Not there; Ok? Not there).",
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 3,
-        "longTermSignificance": 4
-      },
-      "keywords": [
-        "India",
-        "manufacturing",
-        "dog beds",
-        "cat beds",
-        "sourcing",
-        "suppliers",
-        "Reddit"
-      ],
-      "pubDate": "2025-12-19T19:27:54.000Z"
-    },
-    {
-      "title": "How to calculate minimum height on a z-bend?",
-      "author": "/u/Gero4603",
-      "thumbnail": null,
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pqt15w/how_to_calculate_minimum_height_on_a_zbend/",
-      "summary": "- The post asks how to calculate minimum Z-bend height across different materials and thicknesses, noting tooling limits (V-die and punch) and a need for a usable method.\n- It cites the external artizono.com page and is unclear on what the .5~1 value and the 'x' parameter mean, making practical guidance elusive.\n- The author seeks practical guidance to determine these values for design and manufacturing applications.",
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "keywords": [
-        "Z-bend",
-        "minimum bend height",
-        "bend height calculation",
-        "sheet metal",
-        "tooling",
-        "V-die",
-        "punch",
-        "manufacturing",
-        "artizono"
-      ],
-      "pubDate": "2025-12-19T18:49:35.000Z"
-    },
-    {
-      "title": "Aluminum Extrusions Manufacturers in Cambodia",
-      "author": "/u/No_Response9925",
-      "thumbnail": null,
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pqqroz/aluminum_extrusions_manufacturers_in_cambodia/",
-      "summary": "- A Reddit post in r/manufacturing by /u/No_Response9925 seeks aluminum extrusion manufacturers with in-country facilities located in Cambodia.\n- It excludes resellers or overseas plants and asks for Cambodian-based producers with real manufacturing capabilities.\n- A commenter replied \"Not there,\" suggesting no matches at the time of posting.",
-      "scores": {
-        "scale": 5,
-        "impact": 4,
-        "novelty": 3,
-        "longTermSignificance": 3
-      },
-      "keywords": [
-        "Aluminum extrusions",
-        "Cambodia",
-        "manufacturing",
-        "sourcing",
-        "Cambodian-based producers",
-        "resellers excluded",
-        "Reddit post",
-        "r/manufacturing"
-      ],
-      "pubDate": "2025-12-19T17:20:08.000Z"
     }
   ]
 }
