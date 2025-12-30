@@ -5,6 +5,86 @@
   "feedUrl": "https://rss-bridge.org/bridge01/?action=display&bridge=ReutersBridge&feed=tech&format=Atom",
   "items": [
     {
+      "title": "US approves Samsung, SK Hynix chipmaking tool shipments to China for 2026, sources say",
+      "author": "Hyunjoo Jin",
+      "thumbnail": null,
+      "link": "https://www.reuters.com/world/china/samsung-wins-us-annual-approval-chipmaking-tool-shipments-china-source-says-2025-12-30/",
+      "summary": "- The U.S. Commerce Department granted Samsung Electronics and SK Hynix an annual 2026 license to import chipmaking equipment into China, creating a year-by-year export-approval system and ending the 'validated end user' exemptions on December 31. \n- After December 31, shipments will require individual U.S. export licenses; TSMC was among firms that benefited from exemptions. \n- The move reflects a continuing U.S. effort to curb China’s access to advanced American technology while Samsung and SK Hynix depend on China as a key production base for memory chips.",
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "keywords": [
+        "export controls",
+        "chipmaking equipment",
+        "Samsung",
+        "SK Hynix",
+        "China",
+        "license",
+        "validated end user",
+        "semiconductors",
+        "TSMC",
+        "U.S. Department of Commerce",
+        "technology restrictions"
+      ],
+      "pubDate": "2025-12-30T04:15:38.000Z"
+    },
+    {
+      "title": "Meta to buy Chinese startup Manus to boost advanced AI",
+      "author": "Reuters",
+      "thumbnail": null,
+      "link": "https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/",
+      "summary": "- Meta to acquire Manus, a Singapore-based AI startup valued at about $2–$3 billion, with terms undisclosed. - Manus touts a general AI agent capable of autonomous decision-making with less prompting and claims competitive performance vs OpenAI's DeepResearch; backed by Beijing Butterfly Effect Technology; partners with Alibaba. - The deal signals Meta's aggressive AI strategy amid competition and Sino-U.S. tensions as Chinese firms re-domicile to Singapore; Manus raised $75M this year at a $500M valuation; investors include Benchmark, Sequoia China, ZhenFund and Tencent.",
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 9
+      },
+      "keywords": [
+        "Meta",
+        "Manus",
+        "AI acquisition",
+        "Beijing Butterfly Effect Technology",
+        "Alibaba",
+        "OpenAI",
+        "DeepResearch",
+        "Scale AI",
+        "Sino-U.S. tensions",
+        "Singapore",
+        "tech investment"
+      ],
+      "pubDate": "2025-12-29T23:39:22.000Z"
+    },
+    {
+      "title": "Britain's Octopus Energy to spin out Kraken at $8.65 billion valuation",
+      "author": "Reuters",
+      "thumbnail": null,
+      "link": "https://www.reuters.com/business/energy/uks-octopus-energy-nears-kraken-stake-sale-sky-news-reports-2025-12-29/",
+      "summary": "- Octopus Energy will spin out Kraken as an independent company valued at about $8.65B after a funding round led by D1 Capital Partners.\n- Investors include D1 Capital Partners, Origin Energy (about $140M) and Octopus Capital; Octopus will retain a 13.7% stake.\n- Kraken licenses its AI OS to utilities, serving 70M accounts with >$500M contracted annual revenue, with an IPO eyed within two years.",
+      "scores": {
+        "scale": 9,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 9
+      },
+      "keywords": [
+        "Kraken",
+        "Octopus Energy",
+        "spin-out",
+        "funding round",
+        "D1 Capital Partners",
+        "Origin Energy",
+        "IPO",
+        "AI-powered OS",
+        "utilities",
+        "energy tech"
+      ],
+      "pubDate": "2025-12-29T18:53:12.000Z"
+    },
+    {
       "title": "Verisk pulls plug on $2.4 billion AccuLynx deal after FTC review delay",
       "author": "Reuters",
       "thumbnail": null,
@@ -871,68 +951,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-12-23T01:33:56.000Z"
-    },
-    {
-      "title": "New York Times reporter sues Google, xAI, OpenAI over chatbot training",
-      "link": "https://www.reuters.com/legal/government/new-york-times-reporter-sues-google-xai-openai-over-chatbot-training-2025-12-22/",
-      "author": "Blake Brittain",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-22T23:06:48.000Z"
-    },
-    {
-      "title": "Goodman Group, Canada's CPPIB strike $9.3 bln deal for Europe data centres",
-      "author": "Reuters",
-      "thumbnail": null,
-      "link": "https://www.reuters.com/world/americas/goodman-group-canada-pension-plan-establish-93-billion-european-data-center-2025-12-22/",
-      "summary": "- Goodman Group and CPPIB sign a 50-50 A$14 billion European data-centre partnership with an initial A$3.9 billion commitment across four projects in Frankfurt, Amsterdam and Paris.\n- Construction can start by 30 June 2026, with phased close expected by March 2026; CPPIB's first European data-centre partnership; Goodman also recent A$4 billion fundraise and a HK data-centre investment.\n- The deal boosted Goodman's stock, rising up to 7.7% to A$31.48, the biggest gainer on the ASX 200.",
-      "scores": {
-        "scale": 8,
-        "impact": 8,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "keywords": [
-        "Goodman Group",
-        "CPPIB",
-        "data centres",
-        "Europe",
-        "Frankfurt",
-        "Amsterdam",
-        "Paris",
-        "A$14 billion",
-        "partnership",
-        "ASX"
-      ],
-      "pubDate": "2025-12-22T21:49:00.000Z"
-    },
-    {
-      "title": "US bars approvals of new models of DJI, all other foreign drones",
-      "author": "David Shepardson",
-      "thumbnail": null,
-      "link": "https://www.reuters.com/business/aerospace-defense/us-adds-dji-other-foreign-drones-national-security-list-2025-12-22/",
-      "summary": "- The FCC adds DJI, Autel and all foreign-made drones and components to its Covered List, blocking new model approvals and critical-part imports in the U.S.\n- Existing authorized models aren’t banned and current operators can keep using them; the move follows a White House review citing surveillance, data-exfiltration and supply-chain risks.\n- The expansion affects other foreign makers, with potential Pentagon decisions on specific drones or classes and possible legal challenges from manufacturers.",
-      "scores": {
-        "scale": 7,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "keywords": [
-        "FCC",
-        "DJI",
-        "Autel",
-        "Covered List",
-        "national-security",
-        "drones",
-        "import ban",
-        "foreign-made drones",
-        "U.S. policy",
-        "supply-chain risk"
-      ],
-      "pubDate": "2025-12-22T19:31:00.000Z"
     }
   ]
 }
