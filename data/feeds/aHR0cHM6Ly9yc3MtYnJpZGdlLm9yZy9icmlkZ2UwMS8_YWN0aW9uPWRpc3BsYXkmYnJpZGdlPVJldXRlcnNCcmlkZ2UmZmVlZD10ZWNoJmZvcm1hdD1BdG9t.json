@@ -5,6 +5,120 @@
   "feedUrl": "https://rss-bridge.org/bridge01/?action=display&bridge=ReutersBridge&feed=tech&format=Atom",
   "items": [
     {
+      "title": "Trump Mobile delays shipment of gold-colored smartphone, FT reports",
+      "link": "https://www.reuters.com/technology/trump-mobile-delays-shipment-gold-colored-smartphone-ft-reports-2025-12-31/",
+      "author": "Reuters",
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-12-31T06:00:55.000Z"
+    },
+    {
+      "title": "China's CXMT eyes $4.2 billion Shanghai listing to fund DRAM expansion",
+      "author": "Che Pan, Brenda Goh",
+      "thumbnail": null,
+      "link": "https://www.reuters.com/world/asia-pacific/chinas-cxmt-eyes-42-billion-shanghai-listing-fund-dram-expansion-2025-12-31/",
+      "summary": "- CXMT plans a Shanghai IPO to raise about 29.5 billion yuan (~$4.22B) via 10.6 billion shares to upgrade production lines and fund R&D for advanced DRAM. \n- The state-backed firm runs three 12-inch DRAM fabs in Beijing and Hefei, aims to grow China’s DRAM share and compete with Samsung/SK Hynix/Micron, including an HBM back-end for AI/Nvidia. \n- 2025 revenue could rise as much as 140% YoY; profitability may arrive in 2026; CXMT has posted multi-year losses and 1H2025 loss, with investors including Alibaba and Xiaomi.",
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 6,
+        "longTermSignificance": 9
+      },
+      "keywords": [
+        "CXMT",
+        "ChangXin Memory Technologies",
+        "DRAM",
+        "Shanghai IPO",
+        "HBM",
+        "AI workloads",
+        "Nvidia",
+        "Alibaba",
+        "Xiaomi",
+        "China memory ambitions",
+        "semiconductors"
+      ],
+      "pubDate": "2025-12-31T04:43:53.000Z"
+    },
+    {
+      "title": "China urges Netherlands to correct Nexperia 'mistakes'",
+      "link": "https://www.reuters.com/world/asia-pacific/china-urges-netherlands-correct-nexperia-mistakes-2025-12-31/",
+      "author": "Reuters",
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-12-31T02:49:50.000Z"
+    },
+    {
+      "title": "ByteDance to spend about $14 billion in Nvidia chips in 2026, SCMP reports",
+      "link": "https://www.reuters.com/world/asia-pacific/bytedance-spend-about-14-billion-nvidia-chips-2026-scmp-reports-2025-12-31/",
+      "author": "Reuters",
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-12-31T01:19:09.000Z"
+    },
+    {
+      "title": "Trump administration removes three spyware-linked executives from sanctions list",
+      "link": "https://www.reuters.com/business/trump-administration-removes-three-spyware-linked-executives-sanctions-list-2025-12-30/",
+      "author": "Raphael Satter",
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-12-30T23:34:12.000Z"
+    },
+    {
+      "title": "Chinese AI firm MiniMax, others launch Hong Kong IPOs in year-end rush",
+      "link": "https://www.reuters.com/world/asia-pacific/chinese-ai-firm-minimax-targets-up-539-million-hong-kong-ipo-2025-12-30/",
+      "author": "Yantoultra Ngui, Liam Mo",
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-12-30T22:37:29.000Z"
+    },
+    {
+      "title": "Musk's xAI buys third building to expand AI compute power",
+      "author": "Reuters",
+      "thumbnail": null,
+      "link": "https://www.reuters.com/business/musks-xai-buys-third-building-expand-ai-compute-power-2025-12-30/",
+      "summary": "- xAI buys a third building to scale Colossus in Memphis toward nearly 2 GW of compute and up to 1 million GPUs.\n- The new MACROHARDRR site and Colossus 2 will be powered near a natural-gas plant, with a data-center conversion set for 2026.\n- Expansion faces environmental criticism as it aims to train larger models to compete with OpenAI's ChatGPT and Claude; xAI did not respond.",
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 9
+      },
+      "keywords": [
+        "xAI",
+        "Musk",
+        "AI compute",
+        "Colossus",
+        "data center",
+        "GPU",
+        "OpenAI",
+        "Claude",
+        "MACROHARDRR",
+        "Memphis",
+        "AI training"
+      ],
+      "pubDate": "2025-12-30T22:16:49.000Z"
+    },
+    {
+      "title": "Meta is sued by US Virgin Islands over ads for scams, dangers to children",
+      "link": "https://www.reuters.com/legal/litigation/meta-is-sued-by-us-virgin-islands-over-ads-scams-dangers-children-2025-12-30/",
+      "author": "Jeff Horwitz",
+      "thumbnail": null,
+      "summary": null,
+      "keywords": [],
+      "scores": null,
+      "pubDate": "2025-12-30T21:04:44.000Z"
+    },
+    {
       "title": "Two US cyber experts plead guilty to cooperating with notorious ransomware gang",
       "link": "https://www.reuters.com/legal/government/two-us-cyber-experts-plead-guilty-cooperating-with-notorious-ransomware-gang-2025-12-30/",
       "author": "Raphael Satter",
@@ -840,101 +954,6 @@
         "technology regulation"
       ],
       "pubDate": "2025-12-23T18:57:13.000Z"
-    },
-    {
-      "title": "Trump's AI hiring campaign draws interest from 25,000 hopefuls",
-      "link": "https://www.reuters.com/business/media-telecom/trumps-ai-hiring-campaign-draws-interest-25000-hopefuls-2025-12-23/",
-      "author": "Courtney Rozen",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-23T18:15:27.000Z"
-    },
-    {
-      "title": "US delays announcement of China chip tariffs until 2027",
-      "link": "https://www.reuters.com/world/china/us-impose-tariffs-chips-china-2025-12-23/",
-      "author": "Alexandra Alper, Akash Sriram",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-23T14:20:11.000Z"
-    },
-    {
-      "title": "ServiceNow to buy Armis for $7.75 billion as AI-fueled cyber risks surge",
-      "link": "https://www.reuters.com/legal/litigation/servicenow-buy-cybersecurity-startup-armis-775-billion-2025-12-23/",
-      "author": "Kritika Lamba, Jaspreet Singh",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-23T14:05:08.000Z"
-    },
-    {
-      "title": "China's commerce ministry urges US to drop drone supplier ban",
-      "link": "https://www.reuters.com/world/china/chinas-commerce-ministry-urges-us-drop-drone-supplier-ban-2025-12-23/",
-      "author": "Reuters",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-23T13:45:23.000Z"
-    },
-    {
-      "title": "China's LandSpace completes 'tutoring' process ahead of Shanghai IPO",
-      "author": "Eduardo Baptista",
-      "thumbnail": null,
-      "link": "https://www.reuters.com/business/aerospace-defense/chinas-landspace-completes-tutoring-process-ahead-shanghai-ipo-2025-12-23/",
-      "summary": "- LandSpace completed the STAR Market 'tutoring' phase with regulator, guided by state-backed CICC, for a potential 2026 Shanghai listing.\n- The STAR Market targets pre-profit frontier tech; LandSpace seeks funds to advance its Zhuque-3 reusable-rocket program to rival SpaceX.\n- Zhuque-3's December 2025 full reusable rocket test ended in a landing crash; public funding could accelerate iteration as SpaceX reportedly planned an IPO in 2026.",
-      "scores": {
-        "scale": 7,
-        "impact": 9,
-        "novelty": 6,
-        "longTermSignificance": 9
-      },
-      "keywords": [
-        "LandSpace",
-        "STAR Market",
-        "tutoring process",
-        "Zhuque-3",
-        "reusable rocket",
-        "SpaceX",
-        "Shanghai IPO",
-        "CICC",
-        "Private space China"
-      ],
-      "pubDate": "2025-12-23T12:49:56.000Z"
-    },
-    {
-      "title": "Paramount's new offer for Warner Bros is not sufficient, major investor says",
-      "link": "https://www.reuters.com/legal/transactional/paramounts-new-offer-warner-bros-is-not-sufficient-major-investor-says-2025-12-23/",
-      "author": "Ross Kerber, Dawn Kopecki",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-23T11:08:16.000Z"
-    },
-    {
-      "title": "Insight: AI data centers are forcing dirty ‘peaker’ power plants back into service",
-      "link": "https://www.reuters.com/business/energy/ai-data-centers-are-forcing-obsolete-peaker-power-plants-back-into-service-2025-12-23/",
-      "author": "Laila Kearney",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-23T11:03:41.000Z"
-    },
-    {
-      "title": "WhatsApp calls out restrictions in Russia after reported slowdown",
-      "link": "https://www.reuters.com/technology/whatsapp-complains-about-restrictions-russia-after-reported-slowdown-2025-12-23/",
-      "author": "Alexander Marrow, Andrew Osborn",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-23T10:54:40.000Z"
     }
   ]
 }
