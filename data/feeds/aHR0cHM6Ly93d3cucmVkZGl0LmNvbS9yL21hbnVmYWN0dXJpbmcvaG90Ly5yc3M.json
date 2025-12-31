@@ -5,6 +5,101 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "QC? Supply chain? Sourcing? Who is responsible for these holes",
+      "author": "/u/Stevey_Breezy",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1q02n11/qc_supply_chain_sourcing_who_is_responsible_for/",
+      "summary": "- Discusses accountability for holes/defects across QC, sourcing, and supply chain.\n- Explores responsibilities and root-cause analysis to prevent recurrence.\n- Provides the Reddit post as context for manufacturing quality discussions.",
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 8
+      },
+      "keywords": [
+        "quality control",
+        "supply chain",
+        "defects",
+        "manufacturing",
+        "accountability",
+        "sourcing",
+        "holes"
+      ],
+      "pubDate": "2025-12-31T03:31:43.000Z"
+    },
+    {
+      "title": "Anyone else feel like ERP projects fail before software even enters the picture?",
+      "author": "/u/Strict_Plankton_9837",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1q01cyi/anyone_else_feel_like_erp_projects_fail_before/",
+      "summary": "- ERP projects fail pre-go-live: demos spark optimism while delays, over-customization, and user resistance erode progress and post-go-live trust.\n- Root causes are non-software: unclear/undocumented business processes, unreviewed sales decisions, and a lack of shared view of daily operations.\n- Common failure modes: tailoring to software over processes, sales overpromising capabilities, and leadership assuming upgrades fix everything with unrealistic costs/timelines; emphasize early clarity and user buy-in.",
+      "scores": {
+        "scale": 9,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "keywords": [
+        "ERP",
+        "implementation failures",
+        "change management",
+        "business processes",
+        "go-live",
+        "stakeholder alignment",
+        "vendor selection",
+        "customization pitfalls",
+        "upgrade risk"
+      ],
+      "pubDate": "2025-12-31T02:31:46.000Z"
+    },
+    {
+      "title": "Card sleeve manufacturers",
+      "author": "/u/Jaydified",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pzx25d/card_sleeve_manufacturers/",
+      "summary": "- A Reddit post on r/manufacturing by user u/Jaydified (2025-12-30) requesting card sleeve suppliers.\n- Targets sleeves around 61 × 91 mm (±1 mm) with ~100 µm thickness, and potential holographic finishes; toploaders may also be of interest.\n- A comment notes that no such suppliers were found at the time of posting.",
+      "scores": {
+        "scale": 5,
+        "impact": 6,
+        "novelty": 4,
+        "longTermSignificance": 3
+      },
+      "keywords": [
+        "card sleeves",
+        "suppliers",
+        "61x91 mm",
+        "toploaders",
+        "holographic",
+        "reddit",
+        "manufacturing",
+        "u/Jaydified"
+      ],
+      "pubDate": "2025-12-30T23:22:17.000Z"
+    },
+    {
+      "title": "Looking for export traders / sourcing agents in home textiles (kitchen towels) outside pakistan",
+      "author": "/u/Beneficial-Panic2352",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1pzr4ke/looking_for_export_traders_sourcing_agents_in/",
+      "summary": "- A Reddit post on r/manufacturing by Beneficial-Panic2352 seeking export traders or sourcing agents with experience in home textiles, specifically kitchen towels, located outside Pakistan.\n- The post includes a link to the thread and indicates there were no comments at the time of capture.\n- Dated 2025-12-30.",
+      "scores": {
+        "scale": 6,
+        "impact": 5,
+        "novelty": 4,
+        "longTermSignificance": 3
+      },
+      "keywords": [
+        "export traders",
+        "sourcing agents",
+        "home textiles",
+        "kitchen towels",
+        "Pakistan",
+        "manufacturing",
+        "reddit"
+      ],
+      "pubDate": "2025-12-30T19:21:52.000Z"
+    },
+    {
       "title": "Tether Just Bought a Piece of the Robot Future",
       "link": "https://www.reddit.com/r/manufacturing/comments/1pzisem/tether_just_bought_a_piece_of_the_robot_future/",
       "author": "/u/Zero0hblighation",
@@ -956,104 +1051,6 @@
         "fridge magnets"
       ],
       "pubDate": "2025-12-20T18:32:12.000Z"
-    },
-    {
-      "title": "EU based supplement manufacturer with third party testing",
-      "author": "/u/Livid-Junket-6004",
-      "thumbnail": null,
-      "link": "https://www.reddit.com/r/manufacturing/comments/1prhf15/eu_based_supplement_manufacturer_with_third_party/",
-      "summary": "- Public Reddit post (2025-12-20) by /u/Livid-Junket-6004 seeking EU-based supplement manufacturers for veterinary products.\n- Prefers EU location, third-party testing, human-grade ingredients, and low-to-medium MOQs.\n- Seeks manufacturer recommendations or tips on contacting reliable manufacturers.",
-      "scores": {
-        "scale": 6,
-        "impact": 6,
-        "novelty": 3,
-        "longTermSignificance": 4
-      },
-      "keywords": [
-        "EU",
-        "supplement manufacturing",
-        "third-party testing",
-        "veterinary products",
-        "human-grade ingredients",
-        "MOQs",
-        "manufacturer recommendations"
-      ],
-      "pubDate": "2025-12-20T15:49:43.000Z"
-    },
-    {
-      "title": "Idea validation: lightweight defect diagnosis app for injection & blow molding MSMEs good or bad?",
-      "author": "/u/Ok-Breakfast-4676",
-      "thumbnail": null,
-      "link": "https://www.reddit.com/r/manufacturing/comments/1prfut7/idea_validation_lightweight_defect_diagnosis_app/",
-      "summary": "- A lightweight, web-based defect-diagnosis tool for caps/preform and blow molding to attach defect photos, tag cavities, and log material, process settings, and onset time to suggest root causes.\n- Outputs a ranked list of likely causes with reasoning and a safe, step-by-step action plan to adjust parameters, aiming to cut normal rejection rates by 5–15% without IoT/MES.\n- Seeks practitioner feedback on usability, trust-building features, and what would make the tool adoption succeed or fail.",
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 7
-      },
-      "keywords": [
-        "defect-diagnosis",
-        "injection-molding",
-        "blow-molding",
-        "MSMEs",
-        "quality",
-        "SOP",
-        "root-cause-analysis",
-        "defect-tracking",
-        "manufacturing-analytics"
-      ],
-      "pubDate": "2025-12-20T14:41:06.000Z"
-    },
-    {
-      "title": "My airless pumps keep failing and it's costing me a fortune",
-      "author": "/u/AnimeGabby69",
-      "thumbnail": null,
-      "link": "https://www.reddit.com/r/manufacturing/comments/1prbt4o/my_airless_pumps_keep_failing_and_its_costing_me/",
-      "summary": "- Cosmetics maker cycles 4–5 airless pump vendors due to reliability and oxidation concerns; cheap Amazon batches showed ~15% piston-sticking, while a Facebook batch had caps that cracked.\n- A commenter notes piston failures come from poor cylinder tolerances in budget bulk sets and stresses an airtight seal is essential for low-preservative formulas to prevent microbial growth and oxidation.\n- Context: high-end airtight packaging runs about $1.50–$2.50 per unit, with a sub-1% failure target; is cycling through 4–5 vendors normal?",
-      "scores": {
-        "scale": 6,
-        "impact": 7,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "keywords": [
-        "airless pumps",
-        "packaging reliability",
-        "cosmetics packaging",
-        "piston failure",
-        "airtight seal",
-        "cost per unit",
-        "supplier evaluation",
-        "microbial growth",
-        "oxidation",
-        "vendor cycling"
-      ],
-      "pubDate": "2025-12-20T10:59:49.000Z"
-    },
-    {
-      "title": "Do people imports something(parts , machines, or raw materials ) from India ?",
-      "author": "/u/Buildingtech",
-      "thumbnail": null,
-      "link": "https://www.reddit.com/r/manufacturing/comments/1prasv6/do_people_imports_somethingparts_machines_or_raw/",
-      "summary": "- The post asks if people import parts, machines, and raw materials from India, citing potential benefits like abundant raw materials and cheaper bulk purchases.\n- The thread has sparse, non-specific replies and no concrete suppliers, experiences, or actionable guidance; Buildingtech remains curious.\n- The user seeks real-world experiences, challenges, and practical tips for starting such imports, but no solid guidance is provided.",
-      "scores": {
-        "scale": 5,
-        "impact": 4,
-        "novelty": 2,
-        "longTermSignificance": 3
-      },
-      "keywords": [
-        "India sourcing",
-        "importing parts",
-        "manufacturing imports",
-        "raw materials",
-        "machines",
-        "bulk purchases",
-        "supply chain",
-        "reddit post analysis"
-      ],
-      "pubDate": "2025-12-20T09:51:54.000Z"
     }
   ]
 }
