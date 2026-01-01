@@ -5,6 +5,27 @@
   "feedUrl": "https://www.theverge.com/rss/full.xml",
   "items": [
     {
+      "title": "Meet the new tech laws of 2026",
+      "author": "Adi Robertson",
+      "thumbnail": null,
+      "link": "https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair",
+      "summary": "- States push 2026 tech laws—AI safety disclosures, privacy reforms, and consumer protections from CA to NV, OR, OK, TX and more.\n- Right-to-repair expansion, data rights, age-verification, anti‑SLAPP measures, bans on targeted ads using under‑16 data, and AI-content rules.\n- Federal Take It Down Act and evolving AI-detection standards seek balance with state autonomy amid court challenges and 2027–2028 rollouts.",
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 8
+      },
+      "keywords": [
+        "tech laws 2026",
+        "AI regulation",
+        "privacy",
+        "state laws",
+        "Take It Down Act"
+      ],
+      "pubDate": "2026-01-01T15:00:00.000Z"
+    },
+    {
       "title": "You can’t trust your eyes to tell you what’s real anymore, says the head of Instagram",
       "author": "Richard Lawler",
       "thumbnail": null,
@@ -1106,32 +1127,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-12-24T00:11:40.000Z"
-    },
-    {
-      "title": "Apple is going to allow third-party app stores in Brazil, too",
-      "author": "Jay Peters",
-      "thumbnail": null,
-      "link": "https://www.theverge.com/news/850061/apple-brazil-third-party-app-stores-external-payment-systems",
-      "summary": "- CADE approves third‑party app stores and external payments on iOS in Brazil; Apple has 105 days to implement, penalties up to R$150 million.\n- Fees: 25% general commission (10% for some programs); 5% Apple payment fee; external routing may add up to 15% if the app links to its own site.\n- Apple warns of security/privacy risks; safeguards for youths remain; Europe/Japan regulators have moved toward openings; impact on developers and users.",
-      "scores": {
-        "scale": 7,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 8
-      },
-      "keywords": [
-        "Apple",
-        "Brazil",
-        "App Store",
-        "CADE",
-        "external payments",
-        "third-party stores",
-        "regulation",
-        "privacy",
-        "security",
-        "digital payments"
-      ],
-      "pubDate": "2025-12-23T23:00:51.000Z"
     }
   ]
 }
