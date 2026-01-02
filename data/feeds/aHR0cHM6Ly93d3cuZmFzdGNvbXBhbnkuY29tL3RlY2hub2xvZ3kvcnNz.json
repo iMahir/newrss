@@ -5,6 +5,31 @@
   "feedUrl": "https://www.fastcompany.com/technology/rss",
   "items": [
     {
+      "title": "AI’s most important benchmark in 2026? Trust",
+      "author": null,
+      "thumbnail": null,
+      "link": "https://www.fastcompany.com/91462096/ai-trust-benchmark-2026-openai-anthropic?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+      "summary": "- The piece argues that by 2026 trust—especially competence trust in accuracy and non-hallucination—will be the defining benchmark for large language models, surpassing metrics like MMLU or GAIA.\n- It cites real-world episodes—plausible yet wrong outputs and weak sourcing in long chats—that show current models struggle to signal limits and degrade trust.\n- The takeaway: broad adoption hinges on proving competence reliably and transparently, with trust rebuilt as tools scale.",
+      "scores": {
+        "scale": 8,
+        "impact": 9,
+        "novelty": 7,
+        "longTermSignificance": 9
+      },
+      "keywords": [
+        "AI trust",
+        "competence",
+        "hallucination",
+        "long chats",
+        "transparency",
+        "benchmarks",
+        "LLMs",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "pubDate": "2026-01-02T10:00:00.000Z"
+    },
+    {
       "title": "How to unlock the power of ChatGPT",
       "author": null,
       "thumbnail": null,
@@ -1057,29 +1082,6 @@
         "navigation tool",
         "The Intelligence",
         "Cool Tools"
-      ],
-      "pubDate": "2025-12-20T10:00:00.000Z"
-    },
-    {
-      "title": "Meet Google Maps’s new intelligent planning companion",
-      "author": null,
-      "thumbnail": null,
-      "link": "https://www.fastcompany.com/91463980/google-maps-planning?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-      "summary": "- Roadtrippers is described as a virtual companion that augments standard navigation (Google Maps, Waze, Apple Maps) with features to make road trips more entertaining and enjoyable.\n- It's pitched for holiday travel planning or extended drives, offering on-route entertainment alongside your usual navigation.\n- The tip originated in The Intelligence’s Cool Tools newsletter.",
-      "scores": {
-        "scale": 7,
-        "impact": 7,
-        "novelty": 6,
-        "longTermSignificance": 6
-      },
-      "keywords": [
-        "Google Maps",
-        "planning companion",
-        "road trip",
-        "travel planning",
-        "on-route entertainment",
-        "Cool Tools",
-        "The Intelligence"
       ],
       "pubDate": "2025-12-20T10:00:00.000Z"
     }
