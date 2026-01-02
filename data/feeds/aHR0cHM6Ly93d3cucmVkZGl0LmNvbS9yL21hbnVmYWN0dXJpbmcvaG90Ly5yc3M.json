@@ -5,6 +5,55 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "Is outsourcing kitting actually worth it?",
+      "author": "/u/Electronic_coffee6",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1q1qp18/is_outsourcing_kitting_actually_worth_it/",
+      "summary": "- Outsourcing kitting vs in-house: whether ready-to-line kits arrive reduces mis-picks but may hide inventory problems and reduce flexibility.\n- Middle-ground ideas include an in-house kit station with automated dispensers and tighter inventory practices, such as reducing fastener variety.\n- Consensus is elusive; vendor consistency and evaluating core processes, flexibility, and visibility are key before deciding.",
+      "scores": {
+        "scale": 6,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "keywords": [
+        "outsourcing",
+        "kitting",
+        "manufacturing",
+        "inventory management",
+        "supply chain",
+        "line readiness",
+        "vendor management",
+        "in-house"
+      ],
+      "pubDate": "2026-01-02T05:52:47.000Z"
+    },
+    {
+      "title": "Finding a machine shop that actually scales… does that exist?",
+      "author": "/u/redblddrp",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1q1qguj/finding_a_machine_shop_that_actually_scales_does/",
+      "summary": "- Scaling from prototypes to production is nontrivial; many shops chase large-volume work or impose high margins on small runs, causing longer lead times.\n- Strategies include pursuing in-house fabrication, splitting work across multiple shops, and cultivating strong production supplier relationships to keep specs and QA aligned.\n- Practical pacing: break large orders into steady batches (e.g., 2,000/mo), ship as produced, and invest in robust project management and CAD/process alignment.",
+      "scores": {
+        "scale": 7,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 8
+      },
+      "keywords": [
+        "manufacturing",
+        "machining",
+        "production",
+        "prototype",
+        "scaling",
+        "supply chain",
+        "project management",
+        "QA",
+        "CAD"
+      ],
+      "pubDate": "2026-01-02T05:40:39.000Z"
+    },
+    {
       "title": "Worked in manufacturing ops at a couple places, built a shop floor tool based on what actually worked",
       "link": "https://www.reddit.com/r/manufacturing/comments/1q1ec8z/worked_in_manufacturing_ops_at_a_couple_places/",
       "author": "/u/AJKari",
@@ -1055,26 +1104,6 @@
       "keywords": [],
       "scores": null,
       "pubDate": "2025-12-22T20:40:38.000Z"
-    },
-    {
-      "title": "Reclaimed vs. virgin stock from silicon wafer suppliers; what’s the best?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1psg8r6/reclaimed_vs_virgin_stock_from_silicon_wafer/",
-      "author": "/u/bawse_bits",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-21T20:29:27.000Z"
-    },
-    {
-      "title": "How much of your procurement is actually strategic vs just chasing suppliers?",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pseveb/how_much_of_your_procurement_is_actually/",
-      "author": "/u/ManufacturerSad767",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-21T19:31:06.000Z"
     }
   ]
 }
