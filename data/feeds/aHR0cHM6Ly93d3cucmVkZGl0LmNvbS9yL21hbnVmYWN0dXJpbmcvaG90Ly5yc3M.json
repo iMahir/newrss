@@ -5,6 +5,130 @@
   "feedUrl": "https://www.reddit.com/r/manufacturing/hot/.rss",
   "items": [
     {
+      "title": "The $9,500 Seagull: Why 100% Tariffs Will Break Detroit",
+      "author": "/u/TrendyTechTribe",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1q2k2m9/the_9500_seagull_why_100_tariffs_will_break/",
+      "summary": "- Argues that 100% tariffs would massively raise input costs for Detroit automakers and suppliers.\n- Illustrates how tariffs could trigger supply chain disruption, higher prices, and layoffs in the region.\n- Recommends targeted policy steps and cautions against simplistic protectionism in a globally intertwined manufacturing sector.",
+      "scores": {
+        "scale": 8,
+        "impact": 7,
+        "novelty": 5,
+        "longTermSignificance": 7
+      },
+      "keywords": [
+        "tariffs",
+        "Detroit",
+        "manufacturing",
+        "trade policy",
+        "protectionism",
+        "supply chain",
+        "auto industry",
+        "economic impact",
+        "policy critique"
+      ],
+      "pubDate": "2026-01-03T03:44:43.000Z"
+    },
+    {
+      "title": "How cable drum diameter affects transportation cost (from manufacturer side)",
+      "author": "/u/AdorableSwitch6138",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1q2j29n/how_cable_drum_diameter_affects_transportation/",
+      "summary": "- From the manufacturer side, drum diameter can reduce container utilization more than weight, driving transport costs.\n- Shipping drums unassembled and letting buyers assemble locally can boost container utilization by 1–2x and lower cost.\n- In some cases, optimizing drum diameter (without compromising cable safety) reduced total logistics cost more than packaging or shipment-mode changes, inviting further diameter/logistics trade-off ideas.",
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 6,
+        "longTermSignificance": 7
+      },
+      "keywords": [
+        "cable drums",
+        "logistics",
+        "container utilization",
+        "drum diameter",
+        "packaging optimization",
+        "shipping strategy",
+        "transportation cost"
+      ],
+      "pubDate": "2026-01-03T02:59:10.000Z"
+    },
+    {
+      "title": "Production advise of lightweight version of cement tile?",
+      "author": "/u/Grofff",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1q2by0d/production_advise_of_lightweight_version_of/",
+      "summary": "- Overview: lightweight, outdoor-durable cement-tile alternative, lighter than ceramic, supports multiple designs; requests specs (dimensions, materials, quantity, budget, drawings, location, methods).\n- Concepts discussed: air-crete/lightweight concrete, aerocrete, 3D-printed finishes (PETG/ABS/PLA), texture options, surface finish, strength, tapping sound.\n- Next steps: define target properties, collect material/composite options, and solicit production advice.",
+      "scores": {
+        "scale": 7,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "keywords": [
+        "lightweight concrete",
+        "aerocrete",
+        "air-crete",
+        "cement tile",
+        "outdoor durability",
+        "3D printing",
+        "PETG",
+        "texture finish",
+        "composite materials"
+      ],
+      "pubDate": "2026-01-02T21:57:30.000Z"
+    },
+    {
+      "title": "Figure 03 Battery Packaging",
+      "author": "/u/yoyojosh",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1q28zgp/figure_03_battery_packaging/",
+      "summary": "A Reddit post by /u/yoyojosh in r/manufacturing discusses a battery pack shown in the post and asks whether the construction technique is novel. The author describes a suspected process where cells are in their normal orientation with nickel strips laser-welded to both the anode and cathode from above, followed by wire bonding of the strips, and seeks confirmation on whether this method has appeared in other pack designs. An AutoModerator reply requests detailed specs (dimensions, tolerances, materials, quantity, cost per unit, sketches, manufacturing location, and considered methods).",
+      "scores": {
+        "scale": 7,
+        "impact": 6,
+        "novelty": 5,
+        "longTermSignificance": 6
+      },
+      "keywords": [
+        "battery packaging",
+        "nickel strip laser weld",
+        "wire bonding",
+        "battery pack design",
+        "manufacturing discussion",
+        "r/manufacturing",
+        "process verification"
+      ],
+      "pubDate": "2026-01-02T20:03:15.000Z"
+    },
+    {
+      "title": "How are you guys actually tracking maintenance work? (Excel feels broken)",
+      "author": "/u/SirIzaanVBritainia",
+      "thumbnail": null,
+      "link": "https://www.reddit.com/r/manufacturing/comments/1q28aib/how_are_you_guys_actually_tracking_maintenance/",
+      "summary": "- Excel on shared machines bugs logging; fix is people, accountability, and process, not the tool.\n- Low-cost options: Google Forms to Sheets, read-only dashboards, cloud apps (MaintainX); NFC tags and iOS Shortcuts for auto-logging.\n- Start light, involve floor staff, reduce entry friction, pilot changes, and plan ERP/CMMS later if needed; success comes from ownership.",
+      "scores": {
+        "scale": 9,
+        "impact": 8,
+        "novelty": 5,
+        "longTermSignificance": 8
+      },
+      "keywords": [
+        "maintenance tracking",
+        "Excel",
+        "CMMS",
+        "shop floor",
+        "data ownership",
+        "SOPs",
+        "Google Forms",
+        "MaintainX",
+        "NFC tags",
+        "iOS Shortcuts",
+        "pilot changes",
+        "process improvement"
+      ],
+      "pubDate": "2026-01-02T19:37:23.000Z"
+    },
+    {
       "title": "How is a cheap plastic toy painted?",
       "author": "/u/Substantial_Spend373",
       "thumbnail": null,
@@ -1001,85 +1125,6 @@
         "factories"
       ],
       "pubDate": "2025-12-24T13:39:02.000Z"
-    },
-    {
-      "title": "Can any Indian manufacturer get this done for me in my branding. ISO certification important.",
-      "author": "/u/cryptoenth",
-      "thumbnail": null,
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pukncc/can_any_indian_manufacturer_get_this_done_for_me/",
-      "summary": "- Indian manufacturers can produce items under a client's private branding, with ISO certification as a key quality requirement. - The discussion centers on a vacuum cleaner and dryer brand with expected high volumes and nationwide pan-India mall and home distribution. - Post located on r/manufacturing by /u/cryptoenth seeking private-label partners who can scale and supply with ISO-compliant processes.",
-      "scores": {
-        "scale": 7,
-        "impact": 6,
-        "novelty": 5,
-        "longTermSignificance": 6
-      },
-      "keywords": [
-        "Indian manufacturing",
-        "ISO certification",
-        "private label",
-        "OEM",
-        "vacuum cleaner",
-        "dryer",
-        "pan-India distribution"
-      ],
-      "pubDate": "2025-12-24T10:48:25.000Z"
-    },
-    {
-      "title": "Lessons from replacing a legacy ERP in manufacturing",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1pu4ic5/lessons_from_replacing_a_legacy_erp_in/",
-      "author": "/u/OneLumpy3097",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-23T20:40:37.000Z"
-    },
-    {
-      "title": "Help with strategy for repeated measurements on mfg line with higher variability",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1ptx75d/help_with_strategy_for_repeated_measurements_on/",
-      "author": "/u/tri-meg",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-23T15:48:03.000Z"
-    },
-    {
-      "title": "Statistical Process Control Consulting Firm?",
-      "author": "/u/DragonfruitCalm261",
-      "thumbnail": null,
-      "link": "https://www.reddit.com/r/manufacturing/comments/1ptt86p/statistical_process_control_consulting_firm/",
-      "summary": "- SPC consulting alone is risky; entry paths: 2–3+ years in quality, stats/IE, green/black belts, ASQ, plus hands-on automation (PLCs/SCADA, APIs).\n- Viable routes: gain domain knowledge or partner with a lean/CI consultant; if starting a firm, hire 2–3 veterans; CpK targets (>0.6) are tough.\n- Networking and industry familiarity are crucial; large firms have dashboards; site-wide change can take years (e.g., 3 sites, 6+ years, CpK ≤0.6).",
-      "scores": {
-        "scale": 7,
-        "impact": 7,
-        "novelty": 4,
-        "longTermSignificance": 7
-      },
-      "keywords": [
-        "Statistical Process Control",
-        "SPC",
-        "quality",
-        "CpK",
-        "Lean manufacturing",
-        "Six Sigma",
-        "industrial engineering",
-        "data analytics",
-        "manufacturing",
-        "process improvement"
-      ],
-      "pubDate": "2025-12-23T12:54:19.000Z"
-    },
-    {
-      "title": "UV Testing for UPF Performance: How Textile Labs Evaluate Real UV Protection",
-      "link": "https://www.reddit.com/r/manufacturing/comments/1ptn7o2/uv_testing_for_upf_performance_how_textile_labs/",
-      "author": "/u/Ok-Push-1991",
-      "thumbnail": null,
-      "summary": null,
-      "keywords": [],
-      "scores": null,
-      "pubDate": "2025-12-23T06:47:28.000Z"
     }
   ]
 }
